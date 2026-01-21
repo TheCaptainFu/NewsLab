@@ -2,10 +2,12 @@
 const fetchBtn = document.getElementById('fetchBtn');
 const container = document.getElementById('newsContainer');
 const loading = document.getElementById('loading');
+const categorySelect = document.getElementById('categorySelect');
 
 // Store all articles and track visible count per category
 let allCategories = {};
 let visibleCount = {};
+let selectedCategory = 'all'; // Track selected category
 
 // RSS Feed Categories
 const RSS_FEEDS = {
@@ -176,6 +178,9 @@ async function getNews() {
         // Save to cache
         saveCacheNews(allCategories);
         
+        // Populate dropdown (in case new categories were added)
+        populateDropdown();
+        
         renderNews(allCategories);
 
     } catch (error) {
@@ -259,6 +264,9 @@ function renderNews(categories) {
     let html = '';
 
     for (const [key, category] of Object.entries(categories)) {
+        // Skip if a specific category is selected and this isn't it
+        if (selectedCategory !== 'all' && selectedCategory !== key) continue;
+        
         const styles = colorStyles[category.color];
         const totalArticles = category.articles.length;
         const articlesToShow = Math.min(visibleCount[key], totalArticles);
@@ -408,6 +416,41 @@ function loadMoreArticles(categoryKey) {
 // Make loadMoreArticles available globally
 window.loadMoreArticles = loadMoreArticles;
 
+// Populate dropdown with categories
+function populateDropdown() {
+    // Clear existing options (except "All")
+    categorySelect.innerHTML = '<option value="all">📰 Όλες οι Κατηγορίες</option>';
+    
+    // Add category options
+    for (const [key, category] of Object.entries(RSS_FEEDS)) {
+        const option = document.createElement('option');
+        option.value = key;
+        option.textContent = category.title;
+        categorySelect.appendChild(option);
+    }
+    
+    // Restore saved selection
+    const saved = localStorage.getItem('selectedCategory');
+    if (saved) {
+        selectedCategory = saved;
+        categorySelect.value = saved;
+    }
+}
+
+// Filter by selected category
+function filterByCategory(categoryKey) {
+    selectedCategory = categoryKey;
+    localStorage.setItem('selectedCategory', categoryKey);
+    
+    // Re-render news with selected filter
+    if (Object.keys(allCategories).length > 0) {
+        renderNews(allCategories);
+    }
+}
+
+// Make filterByCategory available globally
+window.filterByCategory = filterByCategory;
+
 // Event listener
 fetchBtn.addEventListener('click', getNews);
 
@@ -416,6 +459,9 @@ window.getNews = getNews;
 
 // Load cached news on page load
 window.addEventListener('DOMContentLoaded', () => {
+    // Populate category dropdown
+    populateDropdown();
+    
     const hasCache = loadCachedNews();
     if (!hasCache) {
         // No cache, show welcome message

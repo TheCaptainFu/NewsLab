@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Κέντρο Ειδήσεων | Πολιτικά, Αθλητισμός, ΠΑΟ, Διεθνή</title>
+    <title>CaptainNews.gr | Ελληνικά & Διεθνή Νέα</title>
     
     <!-- PWA Meta Tags -->
-    <meta name="description" content="Ελληνικά & Διεθνή Νέα - Πολιτικά, Αθλητισμός, Παναθηναϊκός, Οικονομία, Τεχνολογία">
+    <meta name="description" content="CaptainNews.gr - Ελληνικά & Διεθνή Νέα - Πολιτικά, Αθλητισμός, Παναθηναϊκός, Οικονομία, Τεχνολογία">
     <meta name="theme-color" content="#121212">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="Ειδήσεις">
+    <meta name="apple-mobile-web-app-title" content="CaptainNews.gr">
     <link rel="manifest" href="manifest.json">
     <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
     <link rel="apple-touch-icon" sizes="192x192" href="icons/icon-192.png">
@@ -24,19 +24,45 @@
 
     <header class="sticky top-0 z-50 bg-[#121212]/95 backdrop-blur-lg border-b border-zinc-800 shadow-2xl">
         <div class="max-w-[1600px] mx-auto px-6 py-4 flex justify-between items-center">
-            <div class="flex items-center gap-3">
-                <div class="bg-gradient-to-br from-blue-600 to-cyan-600 p-2.5 rounded-xl shadow-lg">
-                    <i class="fa-solid fa-newspaper text-xl"></i>
+            <a href="#top" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="flex items-center cursor-pointer group">
+                <img 
+                    src="icons/logo.png" 
+                    alt="CaptainNews.gr" 
+                    class="h-12 md:h-14 w-auto group-hover:scale-105 transition-transform"
+                    onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+                />
+                <div class="hidden items-center gap-3">
+                    <div class="bg-gradient-to-br from-blue-600 to-cyan-600 p-2.5 rounded-xl shadow-lg group-hover:scale-110 transition-transform">
+                        <i class="fa-solid fa-newspaper text-xl"></i>
+                    </div>
+                    <h1 class="text-2xl md:text-3xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent group-hover:from-cyan-400 group-hover:to-blue-400 transition-all">
+                        CaptainNews.gr
+                    </h1>
                 </div>
-                <h1 class="text-2xl md:text-3xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
-                    Κέντρο Ειδήσεων
-                </h1>
-            </div>
+            </a>
             <button id="fetchBtn" class="bg-blue-600 hover:bg-blue-500 text-white px-6 py-2.5 rounded-lg font-semibold transition-all transform hover:scale-105 active:scale-95 flex items-center gap-2 shadow-lg">
                 <i class="fa-solid fa-sync-alt"></i> Ανανέωση
             </button>
         </div>
     </header>
+
+    <!-- Category Filter Dropdown -->
+    <div class="sticky top-[88px] z-40 bg-[#0a0a0a]/95 backdrop-blur-lg border-b border-zinc-800 shadow-lg">
+        <div class="max-w-[1600px] mx-auto px-6 py-3">
+            <div class="flex items-center gap-3">
+                <i class="fa-solid fa-filter text-zinc-400"></i>
+                <label for="categorySelect" class="text-zinc-400 text-sm font-semibold">Προβολή:</label>
+                <select 
+                    id="categorySelect" 
+                    onchange="filterByCategory(this.value)"
+                    class="bg-zinc-800 text-white border border-zinc-700 rounded-lg px-4 py-2 text-sm font-semibold cursor-pointer hover:bg-zinc-700 transition-colors focus:outline-none focus:border-blue-500"
+                >
+                    <option value="all">📰 Όλες οι Κατηγορίες</option>
+                    <!-- Options will be generated dynamically -->
+                </select>
+            </div>
+        </div>
+    </div>
 
     <main class="max-w-[1600px] mx-auto p-6 md:p-8">
         <div id="loading" class="hidden text-center py-20">
@@ -48,16 +74,24 @@
         </div>
 
         <div id="newsContainer">
-            <div class="text-center py-12 text-zinc-400">
+            <div id="welcomeScreen" class="flex flex-col items-center justify-center min-h-[70vh] text-center py-12 text-zinc-400">
                 <div class="inline-block p-8 bg-zinc-900/50 rounded-full mb-6 border border-zinc-800">
                     <i class="fa-solid fa-newspaper text-6xl opacity-40"></i>
                 </div>
-                <h2 class="text-2xl font-bold mb-4 text-zinc-300">Καλώς ήρθατε στο Κέντρο Ειδήσεων</h2>
-                <p class="text-lg mb-4">Πατήστε το κουμπί "Ανανέωση" για να δείτε τα τελευταία νέα</p>
+                <h2 class="text-3xl font-bold mb-4 text-zinc-200">Καλώς ήρθατε στο CaptainNews.gr</h2>
+                <p class="text-lg mb-8 text-zinc-400">Πατήστε το κουμπί παρακάτω για να δείτε τα τελευταία νέα</p>
                 
-                <div class="max-w-2xl mx-auto mt-6 grid grid-cols-1 md:grid-cols-2 gap-3 text-sm">
+                <button 
+                    onclick="getNews()" 
+                    class="bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-500 hover:to-cyan-500 text-white px-12 py-5 rounded-xl font-bold text-xl transition-all transform hover:scale-110 active:scale-95 flex items-center gap-3 shadow-2xl shadow-blue-500/30 border-2 border-blue-400/50 hover:border-cyan-400/70 animate-pulse hover:animate-none"
+                >
+                    <i class="fa-solid fa-sync-alt text-2xl"></i> 
+                    Φόρτωση Ειδήσεων
+                </button>
+                
+                <div class="max-w-2xl mx-auto mt-12 grid grid-cols-1 md:grid-cols-2 gap-3 text-sm">
                     <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
-                        <span class="text-purple-400">🏛️</span> Πολιτικά Νέα
+                        <span class="text-purple-400">🏛️</span> Πολιτικά Ελλάδα
                     </div>
                     <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
                         <span class="text-green-400">⚽</span> Αθλητισμός
@@ -66,10 +100,16 @@
                         <span class="text-lime-400">☘️</span> Παναθηναϊκός
                     </div>
                     <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
-                        <span class="text-orange-400">🔍</span> Οικονομία & Lifestyle
+                        <span class="text-yellow-400">💰</span> Οικονομία Παγκοσμίως
+                    </div>
+                    <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
+                        <span class="text-blue-400">🌍</span> Πολιτικά Παγκοσμίως
+                    </div>
+                    <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
+                        <span class="text-cyan-400">🌤️</span> Καιρός Ελλάδα
                     </div>
                     <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800 md:col-span-2">
-                        <span class="text-blue-400">🌍</span> Διεθνή Νέα (BBC World)
+                        <span class="text-pink-400">💻</span> Tech News
                     </div>
                 </div>
             </div>
@@ -78,7 +118,8 @@
 
     <footer class="border-t border-zinc-900 mt-12 py-6">
         <div class="max-w-[1600px] mx-auto px-6 text-center text-zinc-600 text-sm">
-            <p>📰 Πηγές: ERT, Καθημερινή, Πρώτο Θέμα, Gazzetta, Sport24, SDNA, Newsit, Ναυτεμπορική, Insomnia, BBC World</p>
+            <p class="font-semibold text-zinc-500 mb-2">⚓ CaptainNews.gr</p>
+            <p>📰 Πηγές: ERT, Καθημερινή, Πρώτο Θέμα, Gazzetta, SDNA, Newsit, Ναυτεμπορική, Insomnia, BBC World</p>
             <p class="mt-2 text-xs text-zinc-700">Ενημέρωση σε πραγματικό χρόνο μέσω RSS Feeds</p>
         </div>
     </footer>

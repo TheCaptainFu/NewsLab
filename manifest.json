@@ -1,7 +1,7 @@
 {
-  "name": "Κέντρο Ειδήσεων",
-  "short_name": "Ειδήσεις",
-  "description": "Ελληνικά & Διεθνή Νέα - Πολιτικά, Αθλητισμός, Παναθηναϊκός",
+  "name": "CaptainNews.gr",
+  "short_name": "CaptainNews",
+  "description": "CaptainNews.gr - Ελληνικά & Διεθνή Νέα - Πολιτικά, Αθλητισμός, Παναθηναϊκός, Οικονομία, Τεχνολογία",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
