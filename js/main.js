@@ -3,15 +3,19 @@ const fetchBtn = document.getElementById('fetchBtn');
 const container = document.getElementById('newsContainer');
 const loading = document.getElementById('loading');
 
+// Store all articles and track visible count per category
+let allCategories = {};
+let visibleCount = {};
+
 // RSS Feed Categories
 const RSS_FEEDS = {
-    politics: {
-        title: '🏛️ Πολιτικά Νέα',
+    politicsGR: {
+        title: '🏛️ Πολιτικά Ελλάδα',
         color: 'purple',
         feeds: [
             'https://www.ertnews.gr/category/politiki/feed/',
-            'https://www.kathimerini.gr/politics/feed/',
-            'https://www.protothema.gr/politics/rss/'
+            'https://www.documentonews.gr/category/politiki/feed/',
+            'https://www.tovima.gr/category/politics/feed/'
         ]
     },
     sports: {
@@ -19,33 +23,55 @@ const RSS_FEEDS = {
         color: 'green',
         feeds: [
             'https://www.gazzetta.gr/rss/',
-            'https://www.sport24.gr/?widget=rssfeed&view=feed&contentId=174548',
-            'https://www.sdna.gr/rss/'
+            'https://www.sdna.gr/rss/',
+            'https://www.newsit.gr/category/athlitika/feed/'
         ]
     },
     panathinaikos: {
         title: '☘️ Παναθηναϊκός',
         color: 'lime',
         feeds: [
+            'https://olaprasina1908.gr/feed/',
+            'https://trifilara.gr/feed/',
             'https://www.gazzetta.gr/rss/panathinaikos',
-            'https://www.newsit.gr/tags/panathinaikos/feed/',
-            'https://www.sport24.gr/panathinaikos/?widget=rssfeed&view=feed&contentId=174548'
+            'https://www.newsit.gr/tag/panathinaikos/feed/'
         ]
     },
-    other: {
-        title: '🔍 Άλλες Κατηγορίες',
-        color: 'orange',
+    economy: {
+        title: '💰 Οικονομία Παγκοσμίως',
+        color: 'yellow',
         feeds: [
-            'https://www.naftemporiki.gr/finance/feed/',
-            'https://www.insomnia.gr/rss/index.xml/',
-            'https://www.newsit.gr/lifestyle/feed/'
+            'http://feeds.reuters.com/reuters/businessNews',
+            'https://www.ft.com/?format=rss',
+            'https://www.capital.gr/rss?category=25'
         ]
     },
-    world: {
-        title: '🌍 Διεθνή Νέα',
+    worldPolitics: {
+        title: '🌍 Πολιτικά Παγκοσμίως',
         color: 'blue',
         feeds: [
-            'http://feeds.bbci.co.uk/news/world/rss.xml'
+            'http://feeds.bbci.co.uk/news/world/rss.xml',
+            'https://gr.euronews.com/rss?format=all',
+            'https://www.theguardian.com/world/rss'
+        ]
+    },
+    weather: {
+        title: '🌤️ Καιρός Ελλάδα',
+        color: 'cyan',
+        feeds: [
+            'https://www.meteo.gr/rss/',
+            'https://www.ertnews.gr/category/ellada/kairos/feed/',
+            'https://www.protothema.gr/tag/kairos/rss/',
+            'https://www.newsit.gr/category/kairos/feed/'
+        ]
+    },
+    tech: {
+        title: '💻 Tech News',
+        color: 'pink',
+        feeds: [
+            'https://www.insomnia.gr/rss/index.xml/',
+            'https://gr.pcmag.com/feed.xml',
+            'https://www.techgear.gr/feed'
         ]
     }
 };
@@ -98,9 +124,27 @@ function saveCacheNews(categories) {
     }
 }
 
+// Remove duplicate articles by title
+function removeDuplicates(articles) {
+    const seen = new Set();
+    return articles.filter(article => {
+        // Normalize title (lowercase, trim) for better matching
+        const normalizedTitle = article.title.toLowerCase().trim();
+        
+        if (seen.has(normalizedTitle)) {
+            return false; // Duplicate found, skip it
+        }
+        seen.add(normalizedTitle);
+        return true;
+    });
+}
+
 async function getNews() {
     loading.classList.remove('hidden');
     container.innerHTML = '';
+    
+    // Reset visible count for all categories
+    visibleCount = {};
     
     // Remove cache info if exists
     const cacheInfo = document.querySelector('.text-center.text-zinc-500');
@@ -114,8 +158,13 @@ async function getNews() {
             const feedPromises = category.feeds.map(url => fetchRSSFeed(url));
             const results = await Promise.all(feedPromises);
             
-            // Combine and sort articles from all feeds in this category
-            const allArticles = results.flat();
+            // Combine all articles from this category
+            let allArticles = results.flat();
+            
+            // Remove duplicates (same article from different feeds)
+            allArticles = removeDuplicates(allArticles);
+            
+            // Sort by date (newest first)
             allArticles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
             
             allCategories[key] = {
@@ -167,12 +216,12 @@ function renderNews(categories) {
             shadow: 'hover:shadow-lime-500/10',
             readMore: 'text-lime-400'
         },
-        orange: {
-            titleClass: 'text-orange-400',
-            borderHover: 'hover:border-orange-500/50',
-            titleHover: 'group-hover:text-orange-400',
-            shadow: 'hover:shadow-orange-500/10',
-            readMore: 'text-orange-400'
+        yellow: {
+            titleClass: 'text-yellow-400',
+            borderHover: 'hover:border-yellow-500/50',
+            titleHover: 'group-hover:text-yellow-400',
+            shadow: 'hover:shadow-yellow-500/10',
+            readMore: 'text-yellow-400'
         },
         blue: {
             titleClass: 'text-blue-400',
@@ -180,23 +229,50 @@ function renderNews(categories) {
             titleHover: 'group-hover:text-blue-400',
             shadow: 'hover:shadow-blue-500/10',
             readMore: 'text-blue-400'
+        },
+        cyan: {
+            titleClass: 'text-cyan-400',
+            borderHover: 'hover:border-cyan-500/50',
+            titleHover: 'group-hover:text-cyan-400',
+            shadow: 'hover:shadow-cyan-500/10',
+            readMore: 'text-cyan-400'
+        },
+        pink: {
+            titleClass: 'text-pink-400',
+            borderHover: 'hover:border-pink-500/50',
+            titleHover: 'group-hover:text-pink-400',
+            shadow: 'hover:shadow-pink-500/10',
+            readMore: 'text-pink-400'
         }
     };
+
+    // Store all categories globally
+    allCategories = categories;
+    
+    // Initialize visible count for each category (9 articles initially)
+    for (const key in categories) {
+        if (!visibleCount[key]) {
+            visibleCount[key] = 9;
+        }
+    }
 
     let html = '';
 
     for (const [key, category] of Object.entries(categories)) {
         const styles = colorStyles[category.color];
-        const articles = category.articles.slice(0, 9); // Show 9 items (3x3 grid)
+        const totalArticles = category.articles.length;
+        const articlesToShow = Math.min(visibleCount[key], totalArticles);
+        const articles = category.articles.slice(0, articlesToShow);
 
-        if (articles.length === 0) continue;
+        if (totalArticles === 0) continue;
 
         html += `
-            <section class="mb-12">
+            <section class="mb-12" id="category-${key}">
                 <h2 class="text-2xl font-bold ${styles.titleClass} border-b border-zinc-800 pb-3 mb-6 flex items-center gap-2">
                     ${category.title}
+                    <span class="text-sm text-zinc-600 font-normal ml-auto">(${articlesToShow}/${totalArticles})</span>
                 </h2>
-                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="grid-${key}">
         `;
 
         articles.forEach(art => {
@@ -238,11 +314,13 @@ function renderNews(categories) {
 
             // Determine placeholder icon based on category
             const placeholderIcons = {
-                'purple': '🏛️',  // Politics
-                'green': '⚽',   // Sports
-                'lime': '☘️',   // Panathinaikos
-                'orange': '📊', // Other (finance/tech/lifestyle)
-                'blue': '🌍'    // World
+                'purple': '🏛️',  // Politics Greece
+                'green': '⚽',    // Sports
+                'lime': '☘️',    // Panathinaikos
+                'yellow': '💰',  // Economy
+                'blue': '🌍',    // World Politics
+                'cyan': '🌤️',   // Weather
+                'pink': '💻'     // Tech
             };
             const placeholderIcon = placeholderIcons[category.color] || '📰';
 
@@ -279,7 +357,24 @@ function renderNews(categories) {
         });
 
         html += `
-                </div>
+                </div>`;
+        
+        // Add "Load More" button if there are more articles
+        if (totalArticles > articlesToShow) {
+            const remainingArticles = totalArticles - articlesToShow;
+            html += `
+                <div class="mt-6 text-center">
+                    <button 
+                        onclick="loadMoreArticles('${key}')" 
+                        class="bg-zinc-800 hover:bg-zinc-700 ${styles.titleClass} px-6 py-3 rounded-lg font-semibold transition-all transform hover:scale-105 active:scale-95 inline-flex items-center gap-2 border border-zinc-700 hover:border-${category.color}-500/50"
+                    >
+                        <i class="fa-solid fa-plus"></i>
+                        Φόρτωση Περισσότερων (${Math.min(9, remainingArticles)} από ${remainingArticles})
+                    </button>
+                </div>`;
+        }
+        
+        html += `
             </section>
         `;
     }
@@ -293,6 +388,25 @@ function stripHtml(html) {
     tmp.innerHTML = html;
     return tmp.textContent || tmp.innerText || '';
 }
+
+// Function to load more articles for a specific category
+function loadMoreArticles(categoryKey) {
+    // Increase visible count by 9
+    visibleCount[categoryKey] += 9;
+    
+    // Re-render the news
+    renderNews(allCategories);
+    
+    // Scroll to the category
+    const categoryElement = document.getElementById(`category-${categoryKey}`);
+    if (categoryElement) {
+        const scrollPosition = categoryElement.offsetTop - 100;
+        window.scrollTo({ top: scrollPosition, behavior: 'smooth' });
+    }
+}
+
+// Make loadMoreArticles available globally
+window.loadMoreArticles = loadMoreArticles;
 
 // Event listener
 fetchBtn.addEventListener('click', getNews);
