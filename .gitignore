@@ -1,0 +1,17 @@
+# Εξάρτησεις (Πολύ μεγάλος φάκελος, ξαναδημιουργείται με npm install)
+node_modules/
+
+# Αρχεία συστήματος και περιβάλλοντος
+.env
+.DS_Store
+Thumbs.db
+
+# Φάκελοι build/output (αν χρησιμοποιείς εργαλεία όπως το Vite ή το Tailwind CLI)
+dist/
+build/
+.cache/
+
+# Προσωρινά αρχεία καταγραφής
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
