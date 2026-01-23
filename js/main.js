@@ -1459,25 +1459,25 @@ function filterByCategory(categoryKey) {
 // Make filterByCategory available globally
 window.filterByCategory = filterByCategory;
 
-// Background check for new articles (every 5 minutes)
+// Background check for new articles (every 1 minute)
 function startAutoRefresh() {
     // Clear any existing interval
     if (autoRefreshInterval) {
         clearInterval(autoRefreshInterval);
     }
     
-    // Set up background check every 5 minutes (300000 ms)
+    // Set up background check every 1 minute (60000 ms)
     autoRefreshInterval = setInterval(() => {
         const now = new Date();
         const timeString = now.toLocaleTimeString('el-GR', { hour: '2-digit', minute: '2-digit' });
         console.log(`🔍 Checking for new articles at ${timeString}...`);
         
         checkForNewArticles(); // Check in background, show button if new articles
-    }, 300000); // 5 minutes
+    }, 60000); // 1 minute
     
-    const nextRefresh = new Date(Date.now() + 300000);
+    const nextRefresh = new Date(Date.now() + 60000);
     const nextTime = nextRefresh.toLocaleTimeString('el-GR', { hour: '2-digit', minute: '2-digit' });
-    console.log(`✅ Background check enabled (every 5 minutes)`);
+    console.log(`✅ Background check enabled (every 1 minute)`);
     console.log(`⏰ Next check scheduled for: ${nextTime}`);
 }
 
