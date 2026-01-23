@@ -9,6 +9,9 @@ let allCategories = {};
 let visibleCount = {};
 let selectedCategory = 'all'; // Track selected category
 let autoRefreshInterval = null; // Store interval ID for auto-refresh
+let newArticlesCount = 0; // Track new articles available
+let latestArticleIds = new Set(); // Track current article IDs
+let pendingCategories = null; // Store new articles ready to load
 
 // CORS Proxies (multiple for reliability)
 const CORS_PROXIES = [
@@ -435,6 +438,215 @@ async function fetchMissingImages(categories) {
     return categories;
 }
 
+// Show floating "New Articles" button
+function showNewArticlesButton(count) {
+    // Remove existing button if any
+    const existing = document.getElementById('new-articles-btn');
+    if (existing) {
+        existing.remove();
+    }
+    
+    if (count === 0) return;
+    
+    // Create floating button
+    const button = document.createElement('button');
+    button.id = 'new-articles-btn';
+    button.onclick = () => {
+        loadNewArticles();
+        button.remove();
+    };
+    
+    button.style.cssText = `
+        position: fixed;
+        top: 80px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 9999;
+        padding: 12px 24px;
+        background: linear-gradient(135deg, #3b82f6, #2563eb);
+        color: white;
+        border: none;
+        border-radius: 50px;
+        font-size: 14px;
+        font-weight: 600;
+        cursor: pointer;
+        box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4);
+        animation: slideDownBounce 0.5s ease-out;
+        transition: all 0.3s ease;
+    `;
+    
+    button.innerHTML = `
+        <span style="display: flex; align-items: center; gap: 8px;">
+            <span style="font-size: 16px;">🔔</span>
+            <span>Νέες ειδήσεις διαθέσιμες (${count})</span>
+            <span style="font-size: 12px; opacity: 0.8;">↑</span>
+        </span>
+    `;
+    
+    // Hover effect
+    button.onmouseenter = () => {
+        button.style.transform = 'translateX(-50%) scale(1.05)';
+        button.style.boxShadow = '0 6px 16px rgba(59, 130, 246, 0.6)';
+    };
+    button.onmouseleave = () => {
+        button.style.transform = 'translateX(-50%) scale(1)';
+        button.style.boxShadow = '0 4px 12px rgba(59, 130, 246, 0.4)';
+    };
+    
+    // Add animation style if not exists
+    if (!document.getElementById('new-articles-styles')) {
+        const style = document.createElement('style');
+        style.id = 'new-articles-styles';
+        style.textContent = `
+            @keyframes slideDownBounce {
+                0% {
+                    transform: translateX(-50%) translateY(-100px);
+                    opacity: 0;
+                }
+                60% {
+                    transform: translateX(-50%) translateY(10px);
+                    opacity: 1;
+                }
+                80% {
+                    transform: translateX(-50%) translateY(-5px);
+                }
+                100% {
+                    transform: translateX(-50%) translateY(0);
+                }
+            }
+        `;
+        document.head.appendChild(style);
+    }
+    
+    document.body.appendChild(button);
+}
+
+// Load new articles when button is clicked
+function loadNewArticles() {
+    console.log('📥 Loading new articles...');
+    newArticlesCount = 0;
+    
+    if (pendingCategories) {
+        // Use pre-loaded articles
+        allCategories = pendingCategories;
+        pendingCategories = null;
+        
+        // Update article IDs
+        latestArticleIds.clear();
+        Object.values(allCategories).forEach(cat => {
+            cat.articles.forEach(article => {
+                const articleId = article.link + article.title;
+                latestArticleIds.add(articleId);
+            });
+        });
+        
+        // Save to cache
+        saveCacheNews(allCategories);
+        
+        // Reset visible count
+        visibleCount = {};
+        
+        // Remove old cache info
+        const cacheInfo = document.getElementById('cacheInfo');
+        if (cacheInfo) cacheInfo.remove();
+        
+        // Render new content
+        renderNews(allCategories);
+        updateCacheTimeDisplay();
+        
+        // Smooth scroll to top
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        
+        console.log('✅ New articles loaded!');
+    }
+}
+
+// Check for new articles in background (without updating UI)
+async function checkForNewArticles() {
+    try {
+        console.log('🔍 Checking for new articles in background...');
+        
+        const newCategories = {};
+        
+        // 🚀 Fetch ALL feeds in parallel (same ultra-fast approach)
+        const allFeedPromises = [];
+        const feedToCategoryMap = new Map();
+        let feedIndex = 0;
+        
+        Object.entries(RSS_FEEDS).forEach(([key, category]) => {
+            category.feeds.forEach(url => {
+                const promise = fetchRSSFeed(url).catch(() => []);
+                allFeedPromises.push(promise);
+                feedToCategoryMap.set(feedIndex++, { key, categoryTitle: category.title });
+            });
+        });
+        
+        const allResults = await Promise.allSettled(allFeedPromises);
+        
+        // Organize by category
+        const categoryResults = {};
+        Object.keys(RSS_FEEDS).forEach(key => {
+            categoryResults[key] = [];
+        });
+        
+        allResults.forEach((result, index) => {
+            const feedInfo = feedToCategoryMap.get(index);
+            const articles = result.status === 'fulfilled' ? result.value : [];
+            categoryResults[feedInfo.key].push(articles);
+        });
+        
+        // Process each category
+        Object.entries(RSS_FEEDS).forEach(([key, category]) => {
+            let allArticles = categoryResults[key].flat();
+            allArticles = removeDuplicates(allArticles);
+            allArticles.sort((a, b) => {
+                try {
+                    return new Date(b.pubDate) - new Date(a.pubDate);
+                } catch (e) {
+                    return 0;
+                }
+            });
+            
+            newCategories[key] = {
+                ...category,
+                articles: allArticles
+            };
+        });
+        
+        // Compare with current articles
+        const newArticleIds = new Set();
+        let newCount = 0;
+        
+        Object.values(newCategories).forEach(cat => {
+            cat.articles.forEach(article => {
+                const articleId = article.link + article.title;
+                newArticleIds.add(articleId);
+                
+                // If this article wasn't in the old set, it's new!
+                if (!latestArticleIds.has(articleId)) {
+                    newCount++;
+                }
+            });
+        });
+        
+        if (newCount > 0) {
+            console.log(`✨ Found ${newCount} new articles!`);
+            newArticlesCount = newCount;
+            
+            // Store the new categories for quick loading
+            pendingCategories = newCategories;
+            
+            // Show the button
+            showNewArticlesButton(newCount);
+        } else {
+            console.log('📭 No new articles found');
+        }
+        
+    } catch (error) {
+        console.error('⚠️ Error checking for new articles:', error);
+    }
+}
+
 // Show notification banner at top of page
 function showNotification(message, type = 'info', duration = 3000) {
     // Remove existing notification if any
@@ -692,55 +904,67 @@ async function getNews(isAutoRefresh = false) {
         const allCategories = {};
         
         console.log('🚀 Fetching RSS feeds directly...');
+        console.log('⚡ ULTRA PARALLEL MODE: Loading ALL 24 feeds simultaneously!');
         console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
         
         let totalArticles = 0;
         let totalFeeds = 0;
         let successfulFeeds = 0;
-        let processedCategories = 0;
-        const totalCategories = Object.keys(RSS_FEEDS).length;
         
-        // Fetch all RSS feeds for each category
-        for (const [key, category] of Object.entries(RSS_FEEDS)) {
-            processedCategories++;
-            console.log(`\n📂 ${category.title} (${category.feeds.length} feeds) [${processedCategories}/${totalCategories}]`);
-            
-            // Update loading message with progress (only for manual refresh)
-            if (!isAutoRefresh) {
-                const loadingMsg = document.querySelector('#loading p:first-of-type');
-                if (loadingMsg) {
-                    loadingMsg.textContent = `Φόρτωση ${category.title}... (${processedCategories}/${totalCategories})`;
-                }
-            }
-            
-            totalFeeds += category.feeds.length;
-            
-            // Fetch feeds with Promise.allSettled (continues even if some fail)
-            const feedPromises = category.feeds.map(url => 
-                fetchRSSFeed(url).catch(error => {
-                    console.error(`❌ Exception in ${url.split('/')[2]}:`, error.message);
+        // 🚀 Create array of ALL feed promises from ALL categories at once
+        const allFeedPromises = [];
+        const feedToCategoryMap = new Map();
+        let feedIndex = 0;
+        
+        Object.entries(RSS_FEEDS).forEach(([key, category]) => {
+            category.feeds.forEach(url => {
+                totalFeeds++;
+                const promise = fetchRSSFeed(url).catch(error => {
                     return [];
-                })
-            );
+                });
+                allFeedPromises.push(promise);
+                feedToCategoryMap.set(feedIndex++, { key, categoryTitle: category.title, url });
+            });
+        });
+        
+        // ⚡ Fetch ALL 24 feeds in parallel (MAXIMUM SPEED!)
+        const startTime = Date.now();
+        const allResults = await Promise.allSettled(allFeedPromises);
+        const loadTime = ((Date.now() - startTime) / 1000).toFixed(2);
+        
+        console.log(`\n⚡ Loaded ${totalFeeds} feeds in ${loadTime}s (parallel)`);
+        console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
+        
+        // Organize results by category
+        const categoryResults = {};
+        Object.keys(RSS_FEEDS).forEach(key => {
+            categoryResults[key] = [];
+        });
+        
+        allResults.forEach((result, index) => {
+            const feedInfo = feedToCategoryMap.get(index);
+            const articles = result.status === 'fulfilled' ? result.value : [];
+            categoryResults[feedInfo.key].push({
+                url: feedInfo.url,
+                articles: articles,
+                success: articles.length > 0
+            });
+        });
+        
+        // Process each category's results
+        Object.entries(RSS_FEEDS).forEach(([key, category]) => {
+            const categoryFeeds = categoryResults[key];
             
-            const results = await Promise.allSettled(feedPromises);
-            
-            // Extract successful results
-            const articles = results
-                .filter(result => result.status === 'fulfilled')
-                .map(result => result.value)
-                .flat();
+            console.log(`📂 ${category.title} (${category.feeds.length} feeds)`);
             
             // Combine all articles from this category
-            let allArticles = articles;
+            let allArticles = categoryFeeds.flatMap(feed => feed.articles);
             
-            // Count successful feeds (feeds that returned articles)
-            const categorySuccess = results.filter(r => 
-                r.status === 'fulfilled' && r.value && r.value.length > 0
-            ).length;
+            // Count successful feeds
+            const categorySuccess = categoryFeeds.filter(f => f.success).length;
             successfulFeeds += categorySuccess;
             
-            // Remove duplicates (same article from different feeds)
+            // Remove duplicates
             const beforeDedupe = allArticles.length;
             allArticles = removeDuplicates(allArticles);
             
@@ -749,33 +973,32 @@ async function getNews(isAutoRefresh = false) {
                 try {
                     return new Date(b.pubDate) - new Date(a.pubDate);
                 } catch (e) {
-                    return 0; // If date parsing fails, keep original order
+                    return 0;
                 }
             });
             
             totalArticles += allArticles.length;
             
-            // Improved logging with image statistics
+            // Calculate statistics
             const duplicatesRemoved = beforeDedupe - allArticles.length;
             const articlesWithImages = allArticles.filter(a => a.thumbnail).length;
             const imagePercentage = allArticles.length > 0 ? Math.round((articlesWithImages / allArticles.length) * 100) : 0;
-            const imageStats = ` | 🖼️ ${articlesWithImages}/${allArticles.length} with images (${imagePercentage}%)`;
+            const imageStats = ` | 🖼️ ${articlesWithImages}/${allArticles.length} images (${imagePercentage}%)`;
             
+            // Logging
             if (categorySuccess === category.feeds.length) {
-                console.log(`   ✅ ${categorySuccess}/${category.feeds.length} feeds OK, ${allArticles.length} unique articles${duplicatesRemoved > 0 ? ` (${duplicatesRemoved} duplicates removed)` : ''}${allArticles.length > 0 ? imageStats : ''}`);
+                console.log(`   ✅ ${categorySuccess}/${category.feeds.length} feeds, ${allArticles.length} articles${duplicatesRemoved > 0 ? ` (-${duplicatesRemoved} dupes)` : ''}${allArticles.length > 0 ? imageStats : ''}`);
             } else if (categorySuccess > 0) {
-                console.log(`   ⚠️ ${categorySuccess}/${category.feeds.length} feeds OK, ${allArticles.length} unique articles${duplicatesRemoved > 0 ? ` (${duplicatesRemoved} duplicates removed)` : ''}${allArticles.length > 0 ? imageStats : ''}`);
+                console.log(`   ⚠️ ${categorySuccess}/${category.feeds.length} feeds, ${allArticles.length} articles${duplicatesRemoved > 0 ? ` (-${duplicatesRemoved} dupes)` : ''}${allArticles.length > 0 ? imageStats : ''}`);
             } else {
                 console.error(`   ❌ 0/${category.feeds.length} feeds working!`);
             }
             
             if (allArticles.length === 0) {
-                console.warn(`   ⚠️ WARNING: No articles for ${category.title}!`);
-                console.warn(`   Failed feeds in this category:`);
-                category.feeds.forEach((feedUrl, idx) => {
-                    const result = results[idx];
-                    if (!result || result.status === 'rejected' || (result.value && result.value.length === 0)) {
-                        console.warn(`      ❌ ${feedUrl}`);
+                console.warn(`   ⚠️ No articles! Failed feeds:`);
+                categoryFeeds.forEach(feed => {
+                    if (!feed.success) {
+                        console.warn(`      ❌ ${feed.url}`);
                     }
                 });
             }
@@ -784,7 +1007,7 @@ async function getNews(isAutoRefresh = false) {
                 ...category,
                 articles: allArticles
             };
-        }
+        });
         
         // Calculate overall image statistics
         let totalWithImages = 0;
@@ -821,61 +1044,30 @@ async function getNews(isAutoRefresh = false) {
         // Populate dropdown (in case new categories were added)
         populateDropdown();
         
-        // For background refresh: smoothly update content
-        if (isAutoRefresh) {
-            // Show notification banner
-            showNotification('🔄 Ανανέωση ειδήσεων... Φόρτωση νέων άρθρων', 'info', 2000);
-            
-            // Fade out old content
-            container.style.transition = 'opacity 0.3s';
-            container.style.opacity = '0.5';
-            
-            setTimeout(() => {
-                // Reset visible count for new content
-                visibleCount = {};
-                
-                // Remove old cache info
-                const cacheInfo = document.getElementById('cacheInfo');
-                if (cacheInfo) cacheInfo.remove();
-                
-                // Render new content
-                renderNews(allCategories);
-                
-                // Update cache time display
-                updateCacheTimeDisplay();
-                
-                // Fade in new content
-                container.style.opacity = '1';
-                
-                // Show success notification
-                showNotification('✅ Νέα άρθρα φορτώθηκαν επιτυχώς!', 'success', 3000);
-                
-                // Scroll to top smoothly
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-            }, 300);
-        } else {
-            // Normal refresh: just render
-            renderNews(allCategories);
-            updateCacheTimeDisplay();
+        // Render content (always for manual refresh)
+        renderNews(allCategories);
+        updateCacheTimeDisplay();
+        
+        // Track article IDs for new article detection
+        latestArticleIds.clear();
+        Object.values(allCategories).forEach(cat => {
+            cat.articles.forEach(article => {
+                const articleId = article.link + article.title;
+                latestArticleIds.add(articleId);
+            });
+        });
+        
+        // Smooth scroll to top for manual refresh
+        if (!isAutoRefresh) {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         
         // Update last refresh time (commented out - no refresh button)
         // updateLastRefreshTime();
         
-        // Start auto-refresh timer after first successful load
+        // Start background check timer after first successful load
         if (!autoRefreshInterval) {
             startAutoRefresh();
-        }
-        
-        // Log success message for auto-refresh
-        if (isAutoRefresh) {
-            const now = new Date();
-            const timeString = now.toLocaleTimeString('el-GR', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
-            const nextRefresh = new Date(Date.now() + 60000);
-            const nextTime = nextRefresh.toLocaleTimeString('el-GR', { hour: '2-digit', minute: '2-digit' });
-            console.log(`✅ Auto-refresh completed successfully at ${timeString}!`);
-            console.log(`📦 Cache updated with fresh articles`);
-            console.log(`⏰ Next auto-refresh at: ${nextTime}`);
         }
 
     } catch (error) {
@@ -1267,26 +1459,26 @@ function filterByCategory(categoryKey) {
 // Make filterByCategory available globally
 window.filterByCategory = filterByCategory;
 
-// Auto-refresh functionality (every 1 minute)
+// Background check for new articles (every 5 minutes)
 function startAutoRefresh() {
     // Clear any existing interval
     if (autoRefreshInterval) {
         clearInterval(autoRefreshInterval);
     }
     
-    // Set up auto-refresh every 1 minute (60000 ms)
+    // Set up background check every 5 minutes (300000 ms)
     autoRefreshInterval = setInterval(() => {
         const now = new Date();
         const timeString = now.toLocaleTimeString('el-GR', { hour: '2-digit', minute: '2-digit' });
-        console.log(`🔄 Auto-refreshing news at ${timeString}...`);
+        console.log(`🔍 Checking for new articles at ${timeString}...`);
         
-        getNews(true); // Pass true to indicate it's an auto-refresh
-    }, 60000); // 1 minute
+        checkForNewArticles(); // Check in background, show button if new articles
+    }, 300000); // 5 minutes
     
-    const nextRefresh = new Date(Date.now() + 60000);
+    const nextRefresh = new Date(Date.now() + 300000);
     const nextTime = nextRefresh.toLocaleTimeString('el-GR', { hour: '2-digit', minute: '2-digit' });
-    console.log(`✅ Auto-refresh enabled (every 1 minute)`);
-    console.log(`⏰ Next refresh scheduled for: ${nextTime}`);
+    console.log(`✅ Background check enabled (every 5 minutes)`);
+    console.log(`⏰ Next check scheduled for: ${nextTime}`);
 }
 
 // Update last refresh time display (commented out - no refresh button)
