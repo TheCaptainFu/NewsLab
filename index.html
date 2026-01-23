@@ -20,11 +20,28 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="src/output.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <!-- Google Fonts: Roboto & Roboto Condensed -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Apply Roboto Condensed to headings */
+        h1, h2, h3, h4, h5, h6, .heading-font {
+            font-family: 'Roboto Condensed', sans-serif;
+        }
+        
+        /* Apply Roboto to paragraphs and body text */
+        body, p, span, div, .body-font {
+            font-family: 'Roboto', sans-serif;
+        }
+    </style>
 </head>
-<body class="bg-[#0a0a0a] text-white min-h-screen font-sans">
+<body class="bg-[#0a0a0a] text-white min-h-screen">
 
     <header class="sticky top-0 z-50 bg-[#121212]/95 backdrop-blur-lg border-b border-zinc-800 shadow-2xl">
-        <div class="max-w-[1600px] mx-auto px-6 py-4 flex justify-between items-center">
+        <div class="max-w-[1200px] mx-auto px-6 py-4 flex justify-between items-center">
             <a href="#top" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="flex items-center cursor-pointer group">
                 <img 
                     src="icons/logo.png" 
@@ -41,15 +58,17 @@
                     </h1>
                 </div>
             </a>
+            <!-- Manual Refresh Button (commented out - using auto-refresh every 5 minutes)
             <button id="fetchBtn" class="bg-blue-600 hover:bg-blue-500 text-white px-6 py-2.5 rounded-lg font-semibold transition-all transform hover:scale-105 active:scale-95 flex items-center gap-2 shadow-lg">
                 <i class="fa-solid fa-sync-alt"></i> Ανανέωση
             </button>
+            -->
         </div>
     </header>
 
     <!-- Category Filter Dropdown -->
     <div class="sticky top-[88px] z-40 bg-[#0a0a0a]/95 backdrop-blur-lg border-b border-zinc-800 shadow-lg">
-        <div class="max-w-[1600px] mx-auto px-6 py-3">
+        <div class="max-w-[1200px] mx-auto px-6 md:px-8 py-3">
             <div class="flex items-center gap-3">
                 <i class="fa-solid fa-filter text-zinc-400"></i>
                 <label for="categorySelect" class="text-zinc-400 text-sm font-semibold">Προβολή:</label>
@@ -58,20 +77,20 @@
                     onchange="filterByCategory(this.value)"
                     class="bg-zinc-800 text-white border border-zinc-700 rounded-lg px-4 py-2 text-sm font-semibold cursor-pointer hover:bg-zinc-700 transition-colors focus:outline-none focus:border-blue-500"
                 >
-                    <option value="all">📰 Όλες οι Κατηγορίες</option>
+                    <option value="all">Όλες οι Κατηγορίες</option>
                     <!-- Options will be generated dynamically -->
                 </select>
             </div>
         </div>
     </div>
 
-    <main class="max-w-[1600px] mx-auto p-6 md:p-8">
+    <main class="max-w-[1200px] mx-auto p-6 md:p-8">
         <div id="loading" class="hidden text-center py-20">
             <div class="inline-block animate-spin text-5xl text-blue-500 mb-4">
                 <i class="fa-solid fa-circle-notch"></i>
             </div>
             <p class="text-zinc-400 text-lg font-semibold">Φόρτωση τελευταίων ειδήσεων...</p>
-            <p class="text-zinc-500 text-sm mt-2">Συλλογή από 11 πηγές RSS • Παρακαλώ περιμένετε...</p>
+            <p class="text-zinc-500 text-sm mt-2">Συλλογή από 24 πηγές RSS • Παρακαλώ περιμένετε...</p>
         </div>
 
         <div id="newsContainer">
@@ -92,25 +111,22 @@
                 
                 <div class="max-w-2xl mx-auto mt-12 grid grid-cols-1 md:grid-cols-2 gap-3 text-sm">
                     <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
-                        <span class="text-purple-400">🏛️</span> Πολιτικά Ελλάδα
+                        <span class="text-red-400">🚨</span> ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ
                     </div>
                     <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
-                        <span class="text-green-400">⚽</span> Αθλητισμός
+                        <span class="text-purple-400">🏛️</span> ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)
                     </div>
                     <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
-                        <span class="text-lime-400">☘️</span> Παναθηναϊκός
+                        <span class="text-blue-400">🌍</span> ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)
                     </div>
                     <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
-                        <span class="text-yellow-400">💰</span> Οικονομία Παγκοσμίως
+                        <span class="text-green-400">⚽</span> ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE
                     </div>
                     <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
-                        <span class="text-blue-400">🌍</span> Πολιτικά Παγκοσμίως
+                        <span class="text-lime-400">☘️</span> ΠΑΝΑΘΗΝΑΪΚΟΣ
                     </div>
                     <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
-                        <span class="text-cyan-400">🌤️</span> Καιρός Ελλάδα
-                    </div>
-                    <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800 md:col-span-2">
-                        <span class="text-pink-400">💻</span> Tech News
+                        <span class="text-pink-400">💻</span> ΤΕΧΝΟΛΟΓΙΑ & SCIENCE
                     </div>
                 </div>
             </div>
@@ -118,28 +134,14 @@
     </main>
 
     <footer class="border-t border-zinc-900 mt-12 py-6">
-        <div class="max-w-[1600px] mx-auto px-6 text-center text-zinc-600 text-sm">
+        <div class="max-w-[1200px] mx-auto px-6 text-center text-zinc-600 text-sm">
             <p class="font-semibold text-zinc-500 mb-2">⚓ CaptainNews.gr</p>
-            <p>📰 Πηγές: ERT, Καθημερινή, Πρώτο Θέμα, Gazzetta, SDNA, Newsit, Ναυτεμπορική, Insomnia, BBC World</p>
+            <p>📰 Πηγές: Newsit, Πρώτο Θέμα, In.gr, Ethnos, Τα Νέα, Ναυτεμπορική, Το Βήμα, Euronews, DW, BBC, Reuters, Gazzetta, Sport24, SDNA, Όλα Πράσινα, Trifilara, Panathinaikos24, Insomnia, Techgear, Digitallife, PC Magazine</p>
             <p class="mt-2 text-xs text-zinc-700">Ενημέρωση σε πραγματικό χρόνο μέσω RSS Feeds</p>
         </div>
     </footer>
 
     <script src="js/main.js"></script>
-    
-    <!-- PWA Service Worker Registration -->
-    <script>
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', () => {
-                navigator.serviceWorker.register('/service-worker.js')
-                    .then((registration) => {
-                        console.log('ServiceWorker registered:', registration.scope);
-                    })
-                    .catch((error) => {
-                        console.log('ServiceWorker registration failed:', error);
-                    });
-            });
-        }
-    </script>
+
 </body>
 </html>

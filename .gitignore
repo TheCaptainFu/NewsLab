@@ -1,17 +1,35 @@
-# Εξάρτησεις (Πολύ μεγάλος φάκελος, ξαναδημιουργείται με npm install)
+# Dependencies
 node_modules/
+package-lock.json
 
-# Αρχεία συστήματος και περιβάλλοντος
-.env
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
 .DS_Store
 Thumbs.db
 
-# Φάκελοι build/output (αν χρησιμοποιείς εργαλεία όπως το Vite ή το Tailwind CLI)
+# Build
 dist/
 build/
-.cache/
 
-# Προσωρινά αρχεία καταγραφής
+# Logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+*.cache
+
+
