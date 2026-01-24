@@ -1,9 +1,24 @@
 {
+  "name": "captainnews-aggregator",
+  "version": "1.0.0",
+  "description": "RSS News Aggregator with GitHub Actions automation",
+  "main": "update-news.js",
+  "scripts": {
+    "start": "node update-news.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "rss",
+    "news",
+    "aggregator",
+    "github-actions"
+  ],
+  "author": "CaptainFu",
+  "license": "MIT",
   "dependencies": {
-    "@capacitor/android": "^8.0.1",
-    "@capacitor/cli": "^8.0.1",
-    "@capacitor/core": "^8.0.1",
-    "@tailwindcss/cli": "^4.1.18",
-    "tailwindcss": "^4.1.18"
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
