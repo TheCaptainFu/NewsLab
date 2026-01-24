@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T21:50:26.096Z",
+  "lastUpdated": "2026-01-24T21:55:28.569Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γιάννης Αντετοκούνμπο: Συγκεντρώνουν draft picks για το καλοκαίρι οι ομάδες του NBA",
+          "link": "https://www.newsit.gr/athlitika/giannis-antetokounmpo-sygkentronoun-draft-picks-gia-to-kalokairi-oi-omades-tou-nba/4582743/",
+          "pubDate": "Sat, 24 Jan 2026 21:49:56 +0000",
+          "description": "Ο Γιάννης Αντετοκούνμπο τραυματίστηκε ξανά, σε μία τραγική σεζόν για τους Μιλγουόκι Μπακς και τα σενάρια για το μέλλον του έχουν “φουντώσει” και πάλι, με ...  \nTo άρθρο Γιάννης Αντετοκούνμπο: Συγκεντρώνουν draft picks για το καλοκαίρι οι ομάδες του NBA δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/giannis-2-1200x800.jpg"
+        },
         {
           "title": "Σοφία Ζαχαράκη: Θα κατασκευαστούν φοιτητικές εστίες στο Πανεπιστήμιο Δυτικής Μακεδονίας 750 κλινών",
           "link": "https://www.newsit.gr/politikh/sofia-zaxaraki-tha-kataskeyastoun-foititikes-esties-sto-panepistimio-dytikis-makedonias-750-klinon/4582741/",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 20:03:26 +0000",
           "description": "Μετά από ένα μεγάλο ντέρμπι στην AEL FC Arena, η ΑΕΛ Novibet κατάφερε να “λυγίσει” με 1-0 τον Πανσερραϊκό στη “μάχη” των ουραγών της φετινής ...  \nTo άρθρο ΑΕΛ Novibet – Πανσερραϊκός 1-0: «Άλμα» παραμονής έκαναν οι Θεσσαλοί στη Super League δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ael-1-1200x800.jpg"
-        },
-        {
-          "title": "Συρία: Η εκεχειρία με τους Κούρδους παρατείνεται για άλλες 15 ημέρες",
-          "link": "https://www.in.gr/2026/01/24/world/syria-ekexeiria-tous-kourdous-parateinetai-gia-alles-15-imeres/",
-          "pubDate": "Sat, 24 Jan 2026 23:02:37 +0300",
-          "description": "Η τετραήμερα εκεχειρία μεταξύ των κυβερνητικών δυνάμεων στην Συρία και των Κούρδων έληξε το βράδυ του Σαββάτου",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/9876-1-768x500.jpg"
         }
       ]
     },
@@ -657,11 +657,25 @@
       "color": "green",
       "articles": [
         {
+          "title": "Γιάννης Αντετοκούνμπο: Συγκεντρώνουν draft picks για το καλοκαίρι οι ομάδες του NBA",
+          "link": "https://www.newsit.gr/athlitika/giannis-antetokounmpo-sygkentronoun-draft-picks-gia-to-kalokairi-oi-omades-tou-nba/4582743/",
+          "pubDate": "Sat, 24 Jan 2026 21:49:56 +0000",
+          "description": "Ο Γιάννης Αντετοκούνμπο τραυματίστηκε ξανά, σε μία τραγική σεζόν για τους Μιλγουόκι Μπακς και τα σενάρια για το μέλλον του έχουν “φουντώσει” και πάλι, με ...  \nTo άρθρο Γιάννης Αντετοκούνμπο: Συγκεντρώνουν draft picks για το καλοκαίρι οι ομάδες του NBA δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/giannis-2-1200x800.jpg"
+        },
+        {
           "title": "Serie A: «Κουλούρια» για Λέτσε και Λάτσιο",
           "link": "https://www.gazzetta.gr/football/serie/2509891/serie-koyloyria-gia-letse-kai-latsio",
           "pubDate": "Sat, 24 Jan 2026 23:42:21 +0200",
           "description": "Σε ένα ματς που πιθανότατα θα ξεχαστεί γρήγορα, Λέτσε και Λάτσιο έμειναν στο 0-0.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lecce_lazio.jpg?itok=krZXz7s1"
+        },
+        {
+          "title": "ΑΕΛ Novibet: Αποθεώθηκε ο Παντελίδης μετά τη νίκη επί του Πανσερραϊκού",
+          "link": "https://www.gazzetta.gr/football/superleague/2509892/ael-novibet-apotheothike-o-pantelidis-meta-ti-niki-epi-toy",
+          "pubDate": "Sat, 24 Jan 2026 23:40:43 +0200",
+          "description": "Οι φίλοι της ΑΕΛ Novibet αποθέωσαν τον Σάββα Παντελίδη μετά τη νίκη επί του Πανσερραϊκού, η οποία ήταν η δεύτερη μέσα σε έξι ημέρες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pantelidis_.jpg?itok=H2Tplf2L"
         },
         {
           "title": "Κίνα: 17χρονος καταδικάστηκε σε 6 χρόνια φυλάκιση για απάτη εκατοντάδων χιλιάδων ευρώ μέσω επιστροφών προϊόντων",
@@ -851,20 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:13:56 +0200",
           "description": "O παίκτης της ΑΕΛ Novibet σκόραρε με 2η προσπάθεια, αρχικά χρεώθηκε με φάουλ αλλά εν τέλει το γκολ μέτρησε.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sagal1.jpg?itok=IeR1cdR3"
-        },
-        {
-          "title": "Superleague, η βαθμολογία: Η ΑΕΛ Novibet προσπέρασε τρεις και άφησε 13ο τον Αστέρα AKTOR",
-          "link": "https://www.gazzetta.gr/football/superleague/2509863/superleague-i-bathmologia-i-ael-novibet-prosperase-tesseris-kai-afise",
-          "pubDate": "Sat, 24 Jan 2026 22:03:59 +0200",
-          "description": "H βαθμολογία της Stoiximan Super League μετά τη νίκη της ΑΕΛ Νοvibet επί του Πανσερραϊκού με 1-0.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ael-novibet.jpg?itok=_9rSZ031"
-        },
-        {
-          "title": "ΑΕΛ Novibet – Πανσερραϊκός 1-0: «Άλμα» παραμονής έκαναν οι Θεσσαλοί στη Super League",
-          "link": "https://www.newsit.gr/athlitika/ael-novibet-panserraikos-1-0-alma-paramonis-ekanan-oi-thessaloi-sti-super-league/4582693/",
-          "pubDate": "Sat, 24 Jan 2026 20:03:26 +0000",
-          "description": "Μετά από ένα μεγάλο ντέρμπι στην AEL FC Arena, η ΑΕΛ Novibet κατάφερε να “λυγίσει” με 1-0 τον Πανσερραϊκό στη “μάχη” των ουραγών της φετινής ...  \nTo άρθρο ΑΕΛ Novibet – Πανσερραϊκός 1-0: «Άλμα» παραμονής έκαναν οι Θεσσαλοί στη Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ael-1-1200x800.jpg"
         }
       ]
     },
