@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T22:10:27.487Z",
+  "lastUpdated": "2026-01-24T22:15:25.661Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γιώργος Γεραπετρίτης: Αναφαίρετο δικαίωμα τα 12 ναυτικά μίλια – Η Ελλάδα θα επιλέξει πότε θα το ασκήσει",
+          "link": "https://www.newsit.gr/politikh/giorgos-gerapetritis-anafaireto-dikaioma-ta-12-naytika-milia-i-ellada-tha-epileksei-pote-tha-to-askisei/4582749/",
+          "pubDate": "Sat, 24 Jan 2026 22:12:26 +0000",
+          "description": "Στο θέμα της επέκτασης των χωρικών υδάτων της χώρας μας έως τα 12 ναυτικά μίλια αναφέρθηκε, μεταξύ άλλων ζητημάτων, ο Γιώργος Γεραπετρίτης. Σε συνέντευξή του ...  \nTo άρθρο Γιώργος Γεραπετρίτης: Αναφαίρετο δικαίωμα τα 12 ναυτικά μίλια – Η Ελλάδα θα επιλέξει πότε θα το ασκήσει δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gerapetritis-1200x800.jpg"
+        },
         {
           "title": "Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2: Ο Εμπαπέ έστειλε τη «Βασίλισσα» στην κορυφή της «La Liga»",
           "link": "https://www.newsit.gr/athlitika/vigiareal-real-madritis-0-2-o-empape-esteile-ti-vasilissa-stin-koryfi-tis-la-liga/4582746/",
@@ -84,6 +91,13 @@
           "pubDate": "Sat, 24 Jan 2026 21:16:52 +0000",
           "description": "Η επιχείρηση στις φυλακές Μαλανδρίνου έγινε το πρωί του Σαββάτου (24/1/26) από τη Διεύθυνση Αντιμετώπισης Οργανωμένου Εγκλήματος. Σύμφωνα με την ΕΛΑΣ, έγινε έρευνα σε συνολικά ...  \nTo άρθρο Μαχαίρια, ναρκωτικά και κινητά αποκάλυψε έφοδος της ΕΛ.ΑΣ. στις φυλακές Μαλανδρίνου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/malandrino.jpg"
+        },
+        {
+          "title": "Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2: Στην κορυφή η «βασίλισσα» με ηγετικό Εμπαπέ!",
+          "link": "https://www.in.gr/2026/01/25/sports/football/vigiareal-real-madritis-0-2-stin-koryfi-vasilissa-igetiko-empape/",
+          "pubDate": "Sun, 25 Jan 2026 00:10:21 +0300",
+          "description": "Με τον Κιλιάν Εμπαπέ να γράφει ιστορία, η Ρεάλ Μαδρίτης,πέρασε από την έδρα της Βιγιαρεάλ (2-0)και προσπέρασε  την Μπαρτσελόνα (έχει ματς λιγότερο) στην κορυφή της βαθμολογίας.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/empa-768x554.jpg"
         },
         {
           "title": "Άκρως Ζωδιακό: Τα Do’s και Don’ts στα ζώδια σήμερα [Κυριακή 25.01.2026]",
@@ -203,20 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 20:20:34 +0000",
           "description": "Η ΑΕΚ επικράτησε εκτός έδρας του Αστέρα Τρίπολης με 1-0, με τον Μάρκο Νίκολιτς να είναι ικανοποιημένος από το αποτέλεσμα όχι όμως και από την ...  \nTo άρθρο Νίκολιτς: «Ικανοποιημένος από το αποτέλεσμα, όχι τόσο από την εμφάνιση» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nicolic-1200x800.jpg"
-        },
-        {
-          "title": "Γαλλία: Η φορολογία τρομάζει τους πλούσιους – Στο μάτι του κυκλώνα τα ακίνητα",
-          "link": "https://www.in.gr/2026/01/24/economy/diethnis-oikonomia/gallia-forologia-tromazei-tous-plousious-sto-mati-tou-kyklona-ta-akinita/",
-          "pubDate": "Sat, 24 Jan 2026 23:16:04 +0300",
-          "description": "Οι πλούσιοι ψάχνουν να πουλήσουν τις περιουσίες τους και να εγκαταλείψουν τη Γαλλία λόγω υψηλής φορολογίας",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/france-768x512.jpg"
-        },
-        {
-          "title": "WRC: Δύσκολα θα χάσει στο Μόντε Κάρλο ο Solberg",
-          "link": "https://www.newsit.gr/auto/wrc-dyskola-tha-xasei-sto-monte-karlo-o-solberg/4582703/",
-          "pubDate": "Sat, 24 Jan 2026 20:15:58 +0000",
-          "description": "Με 4 ειδικές διαδρομές σήμερα, μία εκ των οποίων η υπερ-ειδική διαδρομή στο Μονακό, το πρώτο ράλι της χρονιάς του WRC φαίνεται ότι θα έχει ...  \nTo άρθρο WRC: Δύσκολα θα χάσει στο Μόντε Κάρλο ο Solberg δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/wrc-toyota-featured-wrc.jpg"
         }
       ]
     },
@@ -441,6 +441,13 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
+          "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 22:10:33 GMT",
+          "description": "It comes as tensions appear to have escalated between Trump and Canadian Prime Minister Mark Carney.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef43/live/2a5f94f0-f937-11f0-814e-71ff186d4f46.jpg"
+        },
+        {
           "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
           "link": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Jan 2026 20:48:34 GMT",
@@ -502,13 +509,6 @@
           "pubDate": "Sat, 24 Jan 2026 17:40:39 +0100",
           "description": "Ο κυβερνήτης της Μινεσότα Τιμ Γουόλτς επικοινώνησε με τον Λευκό Οίκο και απαίτησε να αποχωρήσουν οι «ανεκπαίδευτοι πράκτορες» που ενεργούν στο πλαίσιο καταστολής στη μετανάστευση της κυβέρνησης Τραμπ",
           "thumbnail": null
-        },
-        {
-          "title": "Trump threatens Canada with 100% tariffs over China trade deal",
-          "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Jan 2026 16:27:18 GMT",
-          "description": "Trump made the threat in a social media post as tensions rise between the US and its northern neighbour.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef43/live/2a5f94f0-f937-11f0-814e-71ff186d4f46.jpg"
         },
         {
           "title": "Επιχορηγήσεις από Κομισιόν σε Ελλάδα και Κύπρο για διαγενεακά έργα εκμάθησης γραμματισμού στα ΜΜΕ",
@@ -671,7 +671,7 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mbappe-3-1200x854.jpg"
         },
         {
-          "title": "Λε Πορτέλ - Παρί 57-120: Κανταποντισμός χωρίς προηγούμενο με 63 πόντους διαφορά",
+          "title": "Λε Πορτέλ - Παρί 57-120: Σάρωσε με 63 πόντους διαφορά",
           "link": "https://www.gazzetta.gr/basketball/mpasket-gallia/2509895/le-portel-pari-57-120-kantapontismos-horis-proigoymeno-me-63",
           "pubDate": "Sun, 25 Jan 2026 00:03:43 +0200",
           "description": "Η Παρί επέβαλε πανηγυρικά την κυριαρχία της, διαλύοντας τη Λε Πορτέλ με 120-57 με διαφορά 63 πόντων και πρωταγωνιστή τον Ναντίρ Ιφί.",
@@ -1089,6 +1089,13 @@
       "color": "pink",
       "articles": [
         {
+          "title": "AMD Ryzen 7 9850X3D: Ο νέος «βασιλιάς» του gaming έρχεται στις 29 Ιανουαρίου",
+          "link": "https://gr.pcmag.com/processors/51103/amd-ryzen-7-9850x3d-o-neos-basilias-tou-gaming-erkhetai-stis-29-ianouariou",
+          "pubDate": "Sat, 24 Jan 2026 22:09:00 +0000",
+          "description": "Με boost clock στα 5.6 GHz και την τεχνολογία 3D V-Cache, η AMD υπόσχεται έως και 8% καλύτερες επιδόσεις, διατηρώντας το AM5 socket για εύκολη αναβάθμιση.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/a/amd-ryzen-/amd-ryzen-7-9850x3d-launches-on-jan-29-for-499_g4we.jpg"
+        },
+        {
           "title": "Elon Musk vs Jeff Bezos: Η μάχη για το Terabit internet από το διάστημα",
           "link": "https://gr.pcmag.com/networking/51102/elon-musk-vs-jeff-bezos-e-makhe-gia-to-terabit-internet-apo-to-diastema",
           "pubDate": "Sat, 24 Jan 2026 21:54:20 +0000",
@@ -1290,13 +1297,6 @@
           "pubDate": "Fri, 23 Jan 2026 07:22:00 +0200",
           "description": "Λευκός καπνός βγήκε τελικά από τις πολύμηνες διαπραγματεύσεις για την τύχη του TikTok στις Ηνωμένες Πολιτείες, με την ByteDance να προχωρά στην ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/tiktok-deal-final.jpg"
-        },
-        {
-          "title": "Masters of the Universe: Πρώτο trailer για τη live-action επιστροφή του He-Man",
-          "link": "https://www.techgear.gr/masters-of-the-universe-proto-trailer-gia-ti-live-action-epistrofi-toy-he-man-47287",
-          "pubDate": "Fri, 23 Jan 2026 07:16:00 +0200",
-          "description": "Η αναμονή για τους λάτρεις της Ετέρνια έφτασε στο τέλος της. Η Amazon MGM Studios έδωσε στη δημοσιότητα το πρώτο trailer για την πολυαναμενόμενη ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/he-man-live-action-trailer.jpg"
         }
       ]
     }
