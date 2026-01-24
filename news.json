@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-24T22:30:36.690Z",
+  "lastUpdated": "2026-01-24T22:35:26.080Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 13,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
@@ -49,6 +49,13 @@
           "pubDate": "Sat, 24 Jan 2026 21:44:16 +0000",
           "description": "Ουρές σχηματίζονταν το βράδυ του Σαββάτου, έξω από τους κινηματογράφους που παίζεται η ταινία «Άμνετ» (Hamnet), βασισμένη στο ομώνυμο μυθιστόρημα από την Μάγκι Ο’ Φάρελ. ...  \nTo άρθρο Ουρές για την ταινία «Άμνετ» που δραματοποιεί το γάμο του Ουίλιαμ Σαίξπηρ και τον χαμό του 11χρονου γιου του δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/hamnet-1200x900.jpeg"
+        },
+        {
+          "title": "Τι είναι τελικά «φίλος» για το Instagram",
+          "link": "https://www.in.gr/2026/01/25/world/ti-einai-telika-filos-gia-instagram/",
+          "pubDate": "Sun, 25 Jan 2026 00:30:06 +0300",
+          "description": "Η δοκιμή του Instagram περιλαμβάνει την αλλαγή του αριθμού των «ακολούθων» και την αλλαγή κάποιων εξ αυτών σε «φίλων»",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alexander-shatov-_tF3vug2FhQ-unsplash-768x576.jpg"
         },
         {
           "title": "Πάτρα: Δύο νέοι άνθρωποι νεκροί μετά από το τροχαίο",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 20:26:28 +0000",
           "description": "Σε εξέλιξη βρίσκονται οι έρευνες της αστυνομίας στο Γαλάτσι για να ταυτοποιηθούν και να εντοπιστούν οι πέντε κουκουλοφόροι που πέταξαν βεγγαλικά στο προαύλιο του 3ου ...  \nTo άρθρο Γαλάτσι: Βίντεο – ντοκουμέντο από την καταδρομική επίθεση κουκουλοφόρων σε σχολείο με ρόπαλα και βεγγαλικά δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/galatsi-sxoleio-24012026-1200x654.jpg"
-        },
-        {
-          "title": "Μηχανή παρέσυρε πεζό στη Χαλκίδα: Δύο τραυματίες",
-          "link": "https://www.protothema.gr/greece/article/1762860/mihani-paresute-pezo-sti-halkida-duo-tramaties/?utm_source=rss",
-          "pubDate": "Sat, 24 Jan 2026 22:25:00 +0200",
-          "description": "Από το ατύχημα τραυματίστηκε κι ο οδηγός της μηχανής με την κατάστασή του να κρίνεται πιο σοβαρή",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2025-10-12/ekab-mkt.jpg"
         }
       ]
     },
@@ -225,6 +225,13 @@
       "color": "purple",
       "articles": [
         {
+          "title": "Ελληνική Αστυνομία: Αυτοί είναι οι νέοι υποστράτηγοι",
+          "link": "https://www.tanea.gr/2026/01/24/politics/elliniki-astynomia-aytoi-einai-oi-neoi-ypostratigoi/",
+          "pubDate": "Sat, 24 Jan 2026 20:59:40 +0000",
+          "description": "Τοποθετήθηκαν οι Υποστράτηγοι της Ελληνικής Αστυνομίας, σύμφωνα με το δελτίο τύπου της Αθήνας στις 24 Ιανουαρίου 2026. Οι τοποθετήσεις των Υποστρατήγων της Ελληνικής Αστυνομίας πραγματοποιήθηκαν σύμφωνα με απόφαση του Αρχηγού της ΕΛ.ΑΣ., Αντιστράτηγου Δημήτριου Μάλλιου, όπως ανακοινώθηκε στις 24 Ιανουαρίου 2026. Σύμφωνα με την απόφαση, ο Υποστράτηγος Μαρίνος Στάκης τοποθετείται στη Γενική Διεύθυνση Προστασίας Επισήμων, […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/Astynomia-16-1024x683.jpg"
+        },
+        {
           "title": "Στο χιονοδρομικό των Καλαβρύτων ο Κ. Μητσοτάκης – Το βίντεο που ανήρτησε",
           "link": "https://www.naftemporiki.gr/politics/2063372/sto-chionodromiko-ton-kalavryton-o-k-mitsotakis-to-vinto-poy-anirtise/?utm_source=rss&utm_medium=rss&utm_campaign=sto-chionodromiko-ton-kalavryton-o-k-mitsotakis-to-vinto-poy-anirtise",
           "pubDate": "Sat, 24 Jan 2026 17:13:29 +0000",
@@ -232,11 +239,53 @@
           "thumbnail": null
         },
         {
+          "title": "Γύρω γύρω κεντροαριστεροί και στη μέση ο… διάλογος",
+          "link": "https://www.tanea.gr/print/2026/01/24/politics/gyro-gyro-kentroaristeroicrkai-sti-mesi-cro-dialogos/",
+          "pubDate": "Sat, 24 Jan 2026 15:56:00 +0000",
+          "description": "Τα κρίσιμα συνέδρια, η επιστροφή Τσίπρα, το νέο τοπίο που δημιουργείται",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/m_m048491736499312.jpg"
+        },
+        {
+          "title": "Συνέδριο ΚΚΕ σε ρευστό πολιτικό τοπίο",
+          "link": "https://www.tanea.gr/print/2026/01/24/greece/synedrio-kke-se-reysto-politiko-topio/",
+          "pubDate": "Sat, 24 Jan 2026 15:52:00 +0000",
+          "description": "Ο Περισσός αναζητά τους όρους καλύτερης θωράκισής του, επικοινωνίας και σύμπραξης με τα λαϊκά στρώματα, ανανέωσης του στελεχικού του δυναμικού",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2023/02/5803870.jpg"
+        },
+        {
           "title": "Γ. Γεραπετρίτης για Συμβούλιο Ειρήνης: «Η θέση μας καθορίζεται από την ιδιότητά μας ως εκλεγμένο μέλος του Συμβουλίου Ασφαλείας του ΟΗΕ»",
           "link": "https://www.naftemporiki.gr/politics/2063332/g-gerapetritis-gia-symvoylio-eirinis-i-thesi-mas-kathorizetai-apo-tin-idiotita-mas-os-eklegmeno-melos-toy-symvoylioy-asfaleias-toy-oie/?utm_source=rss&utm_medium=rss&utm_campaign=g-gerapetritis-gia-symvoylio-eirinis-i-thesi-mas-kathorizetai-apo-tin-idiotita-mas-os-eklegmeno-melos-toy-symvoylioy-asfaleias-toy-oie",
           "pubDate": "Sat, 24 Jan 2026 15:27:23 +0000",
           "description": "Σε διαρκή συνεργασία με τους Ευρωπαίους εταίρους της βρίσκεται η Ελλάδα, για το θέμα του Συμβουλίου Ειρήνης, δήλωσε ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης. «Η Ελλάδα τάσσεται σταθερά υπέρ των πρωτοβουλιών…\nΓ. Γεραπετρίτης για Συμβούλιο Ειρήνης: «Η θέση μας καθορίζεται από την ιδιότητά μας ως εκλεγμένο μέλος του Συμβουλίου Ασφαλείας του ΟΗΕ» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null
+        },
+        {
+          "title": "Γεραπετρίτης: Η ελληνική θέση καθορίζεται και από την ιδιότητά της ως εκλεγμένο μέλος του Συμβουλίου Ασφαλείας του ΟΗΕ",
+          "link": "https://www.tanea.gr/2026/01/24/politics/gerapetritis-i-elliniki-thesi-kathorizetai-kai-apo-tin-idiotita-tis-os-eklegmeno-melos-toy/",
+          "pubDate": "Sat, 24 Jan 2026 15:25:09 +0000",
+          "description": "Ο Γ. Γεραπετρίτης δήλωσε πως η Ελλάδα στηρίζει τις πρωτοβουλίες για ειρήνη και πιστεύει στην πολυμερή διπλωματία, ενώ διατηρεί διαρκή συνεργασία με τους Ευρωπαίους εταίρους και συμμάχους της για το Συμβούλιο Ειρήνης.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/gerapetritis-e1758222954124-1024x768.jpg"
+        },
+        {
+          "title": "Αποστολή στην Τουρκία με χαμηλές προσδοκίες",
+          "link": "https://www.tanea.gr/print/2026/01/24/politics/apostoli-stin-tourkia-crme-xamiles-prosdokies/",
+          "pubDate": "Sat, 24 Jan 2026 15:06:00 +0000",
+          "description": "Στην τελική φάση οι συνεννοήσεις για τη συνάντηση Μητσοτάκη - Ερντογάν",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2024/07/6270970.jpg"
+        },
+        {
+          "title": "Περίπτωση Καρυστιανού: Στα πόσα λεπτά τηλεοπτικού αέρα «καίγεσαι»",
+          "link": "https://www.tanea.gr/print/2026/01/24/politics/sta-posa-lepta-tileoptikou-aera-kaigesai/",
+          "pubDate": "Sat, 24 Jan 2026 14:00:00 +0000",
+          "description": "Μια λανθασμένη απάντηση, μια άτυχη στιγμή ή μια βιαστική αντίδραση μπορεί να απογειώσουν ή να τερματίσουν πολιτικές καριέρες, αναδεικνύοντας τον καθοριστικό ρόλο που παίζουν τα media σε μια δημοκρατία",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/02/Μαρία-Καρυστιανού-1024x588.jpg"
+        },
+        {
+          "title": "Η «κάρτα» του Predator μίλησε κι ανοίγει νέο κύκλο έρευνας",
+          "link": "https://www.tanea.gr/print/2026/01/24/politics/mikropolitikos/i-karta-tou-predator-milise-ki-anoigei-neo-kyklo-ereynas/",
+          "pubDate": "Sat, 24 Jan 2026 12:10:00 +0000",
+          "description": "«Πολλαπλές κινήσεις» ιδίως προς εταιρίες, εντοπίστηκαν στην προπληρωμένη κάρτα του Αιμίλιου Κοσμίδη, αυτής με την οποία αγοράστηκαν οι υπηρεσίες αποστολής SMS που χρησιμοποιήθηκαν για να σταλούν τα «μολυσμένα» μηνύματα με Predator στον Νίκο Ανδρουλάκη και 25 ακόμη στόχους. Θυμίζω ότι, έπειτα από αίτημα του δικηγόρου του προέδρου του ΠΑΣΟΚ, Χρήστου Κακλαμάνη, το δικαστήριο ζήτησε την […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/IPOKLOPES-1.jpg"
         },
         {
           "title": "Άννα Διαμαντοπούλου στην ΕΦΣΥΝ: Πολιτικά και ηθικά δεν μπορούμε να συνεργαστούμε με τη Νέα Δημοκρατία",
@@ -274,6 +323,34 @@
           "thumbnail": null
         },
         {
+          "title": "Κρίθηκαν οι Υποστράτηγοι της Ελληνικής Αστυνομίας: Αναλυτικά οι προαγωγές και οι αποστρατείες",
+          "link": "https://www.tanea.gr/2026/01/24/politics/krithikan-oi-ypostratigoi-tis-ellinikis-astynomias-analytika-oi-proagoges-kai-oi-apostrate/",
+          "pubDate": "Sat, 24 Jan 2026 09:04:20 +0000",
+          "description": "Κρίσεις Υποστρατήγων Ελληνικής Αστυνομίας πραγματοποιήθηκαν στην Αθήνα, σύμφωνα με ανακοίνωση του Αρχηγείου της ΕΛ.ΑΣ., στις 24 Ιανουαρίου 2026. Το Ανώτατο Συμβούλιο Κρίσεων συνεδρίασε υπό την προεδρία του Αρχηγού της Ελληνικής Αστυνομίας, Αντιστρατήγου Δημήτριου Μάλλιου, με τη συμμετοχή δύο Αντιστρατήγων Αστυνομίας, και έκρινε συνολικά 27 Υποστράτηγους – 25 Γενικών Καθηκόντων και 2 Ειδικών Καθηκόντων. Προαγωγές στο […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/GADA.jpg"
+        },
+        {
+          "title": "Ο «οικοδεσπότης» Σαμαράς, ο «επισκέπτης» Καραμανλής, ο εκπρόσωπος Μαξίμου – Τι θα γίνει στις 2 Φεβρουαρίου, τι προηγήθηκε",
+          "link": "https://www.tanea.gr/2026/01/24/politics/o-oikodespotis-samaras-o-episkeptis-karamanlis-o-ekprosopos-maksimou-ti-tha-ginei-stis-2-fevrouariou-ti-proigithike/",
+          "pubDate": "Sat, 24 Jan 2026 08:46:19 +0000",
+          "description": "Ποιος εισηγήθηκε για το «κλειδί» της Καλαμάτας.  Πότε είπε το «ναι» ο Μακεδόνας πρώην πρωθυπουργός.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/4939264-1024x683.jpg"
+        },
+        {
+          "title": "Γιώργος Φλωρίδης – ΒΗΜΑ Talks: «Πιστεύω ότι η αυτοδυναμία στις επόμενες εκλογές θα είναι εφικτή»",
+          "link": "https://www.tovima.gr/2026/01/24/politics/giorgos-floridis-vima-talks-pisteyo-oti-i-aytodynamia-stis-epomenes-ekloges-tha-einai-efikti/",
+          "pubDate": "Sat, 24 Jan 2026 10:00:20 +0300",
+          "description": "Ο υπουργός Δικαιοσύνης, Γιώργος Φλωρίδης, μιλά στο ΒΗΜΑ Talks για την κρίση εμπιστοσύνης στη Δικαιοσύνη, τη διαδρομή του από το ΠαΣοΚ στη Ν.Δ., τη σχέση πολιτικής και θεσμών και γιατί θεωρεί εφικτή μια νέα αυτοδυναμία Μητσοτάκη.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/23/M_M02334-1024x683.jpg"
+        },
+        {
+          "title": "Μαρία Καρυστιανού: «Άπειρη και πελαγωμένη», ποιοι τη θέλουν μπροστά, ποιοι αντιδρούν",
+          "link": "https://www.tovima.gr/2026/01/24/politics/maria-karystianou-apeiri-kai-pelagomeni-poioi-ti-theloun-mprosta-poioi-antidroun/",
+          "pubDate": "Sat, 24 Jan 2026 09:21:31 +0300",
+          "description": "Η Μαρία Καρυστιανού στην πολιτική αρένα - Το κίνημα βάσης, οι πιέσεις και ο κίνδυνος αποδόμησης",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/07/MARIA-KARYSTIANOU-1024x652.jpg"
+        },
+        {
           "title": "Γ. Παπανδρέου για Σ. Βαλυράκη: «Σήμερα που το κράτος δικαίου δοκιμάζεται ξανά, η στάση του Σήφη δεν είναι απλώς μνήμη: Είναι φάρος»",
           "link": "https://www.naftemporiki.gr/politics/2063163/g-papandreoy-gia-s-valyraki-simera-poy-to-kratos-dikaioy-dokimazetai-xana-i-stasi-toy-sifi-den-einai-aplos-mnimi-einai-faros/?utm_source=rss&utm_medium=rss&utm_campaign=g-papandreoy-gia-s-valyraki-simera-poy-to-kratos-dikaioy-dokimazetai-xana-i-stasi-toy-sifi-den-einai-aplos-mnimi-einai-faros",
           "pubDate": "Fri, 23 Jan 2026 19:55:21 +0000",
@@ -286,6 +363,20 @@
           "pubDate": "Fri, 23 Jan 2026 17:20:47 +0000",
           "description": "«Με τον Σήφη ήμασταν φίλοι. Και ας γεννήθηκε αυτή η φιλία ανάμεσα σε δύο ανθρώπους που πολιτεύτηκαν σε μια εποχή πολιτικού πάθους και σφοδρών συγκρούσεων. Στην εποχή των πράσινων και…\nΑντ. Σαμαράς για τον Σήφη Βαλυράκη: Άδολος πατριώτης που σπανίζει σήμερα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null
+        },
+        {
+          "title": "Κώστας Σημίτης: Η εποχή της Ευρώπης – Φινάλε στις 25 Ιανουαρίου",
+          "link": "https://www.tovima.gr/2026/01/23/politics/kostas-simitis-i-epoxi-tis-eyropis-finale-stis-25-ianouariou/",
+          "pubDate": "Fri, 23 Jan 2026 19:54:49 +0300",
+          "description": "Η σειρά ντοκιμαντέρ του Βήματος για τη ζωή και το έργο του Κώστα Σημίτη ρίχνει αυλαία με ένα επεισόδιο αφιερωμένο στην παρακαταθήκη του εκσυγχρονιστή πρωθυπουργού",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/23/Simitis_Episode_4_ArticleImageTrailer-1024x683.jpg"
+        },
+        {
+          "title": "Σήφης Βαλυράκης: Ανδρουλάκης, Σαμαράς, Παπανδρέου στην εκδήλωση",
+          "link": "https://www.tovima.gr/2026/01/23/politics/sifis-valyrakis-androulakis-samaras-papandreou-stin-ekdilosi/",
+          "pubDate": "Fri, 23 Jan 2026 19:54:10 +0300",
+          "description": "Πλήθος στελεχών, κυρίως από τον χώρο του ΠαΣοΚ στην εκδήλωση της ΕΣΗΕΑ για τον Σήφη Βαλυράκη - Η ομιλία του Αντώνη Σαμαρά",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/23/androulakis-papandreou-samaras2-1024x684.jpg"
         },
         {
           "title": "Επίθεση της Hurriyet στον Ν. Δένδια για τα 12 ναυτικά μίλια – Κάνει λόγο για «πρόκληση στο Αιγαίο»",
@@ -330,109 +421,18 @@
           "thumbnail": null
         },
         {
-          "title": "Τουρκία: Η προμήθεια Eurofighter και πόσο αλλάζουν οι ισορροπίες ισχύος – Ο πτέραρχος ε.α. Αθ. Παπανικολάου στο Naftemporiki TV",
-          "link": "https://www.naftemporiki.gr/politics/2062739/toyrkia-i-promitheia-eurofighter-kai-poso-allazoyn-oi-isorropies-ischyos-o-pterarchos-e-a-ath-papanikolaoy-sto-naftemporiki-tv/?utm_source=rss&utm_medium=rss&utm_campaign=toyrkia-i-promitheia-eurofighter-kai-poso-allazoyn-oi-isorropies-ischyos-o-pterarchos-e-a-ath-papanikolaoy-sto-naftemporiki-tv",
-          "pubDate": "Fri, 23 Jan 2026 10:19:56 +0000",
-          "description": "Για τους νέους συσχετισμούς ισχύος που αναμένεται να διαμορφώσει η επικείμενη παραλαβή Eurofighter από την Τουρκία, μίλησε στο κανάλι της Ναυτεμπορικής και στην εκπομπή “Momentum” με τη Μάγκυ Δούση ο…\nΤουρκία: Η προμήθεια Eurofighter και πόσο αλλάζουν οι ισορροπίες ισχύος – Ο πτέραρχος ε.α. Αθ. Παπανικολάου στο Naftemporiki TV - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
+          "title": "Όλγα Κεφαλογιάννη: «Έκανα χρήση της ρύθμισης, αντιμετωπίζω μια ιδιαίτερα δύσκολη πραγματικότητα»",
+          "link": "https://www.tovima.gr/2026/01/23/politics/olga-kefalogianni-ekana-xrisi-tis-rythmisis-antimetopizo-mia-idiaitera-dyskoli-pragmatikotita/",
+          "pubDate": "Fri, 23 Jan 2026 14:34:44 +0300",
+          "description": "Σε ανάρτησή της η Όλγα Κεφαλογιάννη επισημαίνει ότι «οι οικογενειακές υποθέσεις και ειδικά αυτές που αφορούν ανήλικα παιδιά «δεν προσφέρονται για εκβιασμούς ή πολιτική εκμετάλλευση».",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/01/21/kefalogianni-1024x683.jpg"
         },
         {
-          "title": "Κ. Μητσοτάκης στο Euronews: Όλο και πιο περίπλοκη η διατλαντική σχέση – Η Ευρώπη πρέπει να υπερασπιστεί τα συμφέροντά της",
-          "link": "https://www.naftemporiki.gr/politics/2062688/k-mitsotakis-sto-euronews-olo-kai-pio-periploki-i-diatlantiki-schesi-i-eyropi-prepei-na-yperaspistei-ta-symferonta-tis/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-sto-euronews-olo-kai-pio-periploki-i-diatlantiki-schesi-i-eyropi-prepei-na-yperaspistei-ta-symferonta-tis",
-          "pubDate": "Fri, 23 Jan 2026 08:23:56 +0000",
-          "description": "Οι ευρωατλαντικές σχέσεις γίνονται όλο και πιο περίπλοκες, τόνισε ο πρωθυπουργός Κυριάκος Μητσοτάκης, σε συνέντευξή του στο Euronews, μία ημέρα μετά τη Σύνοδο των 27 στις Βρυξέλλες.\nΚ. Μητσοτάκης στο Euronews: Όλο και πιο περίπλοκη η διατλαντική σχέση – Η Ευρώπη πρέπει να υπερασπιστεί τα συμφέροντά της - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "K. Μητσοτάκης για σχέσεις Ε.Ε. – ΗΠΑ: Οι καλοί λογαριασμοί κάνουν τους καλούς φίλους",
-          "link": "https://www.naftemporiki.gr/politics/2062600/k-mitsotakis-gia-scheseis-e-e-ipa-oi-kaloi-logariasmoi-kanoyn-toys-kaloys-filoys/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-gia-scheseis-e-e-ipa-oi-kaloi-logariasmoi-kanoyn-toys-kaloys-filoys",
-          "pubDate": "Fri, 23 Jan 2026 04:01:37 +0000",
-          "description": "Την ανάγκη οι ευρωατλαντικές σχέσεις να παραμείνουν σε «λειτουργικό» επίπεδο, παρά τις αναταράξεις του τελευταίου διαστήματος, υπογράμμισε ο πρωθυπουργός Κυριάκος Μητσοτάκης, σε δηλώσεις του μετά την ολοκλήρωση του έκτακτου Ευρωπαϊκού…\nK. Μητσοτάκης για σχέσεις Ε.Ε. – ΗΠΑ: Οι καλοί λογαριασμοί κάνουν τους καλούς φίλους - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "«Ακαδημαϊκές Ομιλίες»: Κυκλοφόρησε το νέο βιβλίο του Προκόπη Παυλόπουλου από την Ακαδημία Αθηνών",
-          "link": "https://www.naftemporiki.gr/politics/2062567/akadimaikes-omilies-kykloforise-to-neo-vivlio-toy-prokopi-paylopoyloy-apo-tin-akadimia-athinon/?utm_source=rss&utm_medium=rss&utm_campaign=akadimaikes-omilies-kykloforise-to-neo-vivlio-toy-prokopi-paylopoyloy-apo-tin-akadimia-athinon",
-          "pubDate": "Thu, 22 Jan 2026 20:03:24 +0000",
-          "description": "Με τίτλο «Ακαδημαϊκές Ομιλίες», κυκλοφόρησε από την Ακαδημία Αθηνών το νέο βιβλίο του πρώην Προέδρου της Δημοκρατίας και Ακαδημαϊκού Προκόπη Παυλόπουλου. Στο βιβλίο είναι συγκεντρωμένες ο παρεμβάσεις του σε θεσμικά…\n«Ακαδημαϊκές Ομιλίες»: Κυκλοφόρησε το νέο βιβλίο του Προκόπη Παυλόπουλου από την Ακαδημία Αθηνών - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "Αλέξης Χαρίτσης: Tο «Λαϊκό Μέτωπο» η μόνη απάντηση στην επέλαση του εγχώριου Τραμπισμού – Αυτό το σχέδιο μπορώ να υπηρετήσω",
-          "link": "https://www.naftemporiki.gr/politics/2062554/alexis-charitsis-to-laiko-metopo-i-moni-apantisi-stin-epelasi-toy-egchorioy-trampismoy-ayto-to-schedio-mporo-na-ypiretiso/?utm_source=rss&utm_medium=rss&utm_campaign=alexis-charitsis-to-laiko-metopo-i-moni-apantisi-stin-epelasi-toy-egchorioy-trampismoy-ayto-to-schedio-mporo-na-ypiretiso",
-          "pubDate": "Thu, 22 Jan 2026 19:44:07 +0000",
-          "description": "Με το θέμα των συνεργασιών και την στάση απέναντι στον Αλέξη Τσίπρα να πλανάται επάνω από το ΣΕΦ και να διχάζει το σώμα των συνέδρων, το διαρκές προγραμματικό συνέδριο της…\nΑλέξης Χαρίτσης: Tο «Λαϊκό Μέτωπο» η μόνη απάντηση στην επέλαση του εγχώριου Τραμπισμού – Αυτό το σχέδιο μπορώ να υπηρετήσω - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "Θ. Λιβάνιος στη Βουλή: Η κατάργηση των Σχολικών Επιτροπών αποκάλυψε τους σκελετούς στη ντουλάπα",
-          "link": "https://www.naftemporiki.gr/politics/2062545/th-livanios-sti-voyli-i-katargisi-ton-scholikon-epitropon-apokalypse-toys-skeletoys-sti-ntoylapa/?utm_source=rss&utm_medium=rss&utm_campaign=th-livanios-sti-voyli-i-katargisi-ton-scholikon-epitropon-apokalypse-toys-skeletoys-sti-ntoylapa",
-          "pubDate": "Thu, 22 Jan 2026 19:22:26 +0000",
-          "description": "«Η κατάργηση των Σχολικών Επιτροπών έβγαλε τους σκελετούς από τις ντουλάπες», είναι η φράση με την οποία ο Υπουργός Εσωτερικών Θοδωρής Λιβάνιος επιχείρησε να καταδείξει το μείζον διαχειριστικό πρόβλημα με…\nΘ. Λιβάνιος στη Βουλή: Η κατάργηση των Σχολικών Επιτροπών αποκάλυψε τους σκελετούς στη ντουλάπα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "Metron Analysis: Τρεις οι «μνηστήρες» της δεύτερης θέσης – Υψηλές «πτήσεις» για την δημοφιλία της Καρυστιανού",
-          "link": "https://www.naftemporiki.gr/politics/2062514/metron-analysis-treis-oi-mnistires-tis-deyteris-thesis-ypsiles-ptiseis-gia-tin-dimofilia-tis-karystianoy/?utm_source=rss&utm_medium=rss&utm_campaign=metron-analysis-treis-oi-mnistires-tis-deyteris-thesis-ypsiles-ptiseis-gia-tin-dimofilia-tis-karystianoy",
-          "pubDate": "Thu, 22 Jan 2026 18:52:54 +0000",
-          "description": "Ρευστό παραμένει το τοπίο στον χώρο της αντιπολίτευσης όπου, σύμφωνα με τη νέα δημοσκόπηση της Metron Analysis, τρεις είναι οι «μνηστήρες» της δεύτερης θέσης, με το εκλογικό σώμα να εμφανίζεται…\nMetron Analysis: Τρεις οι «μνηστήρες» της δεύτερης θέσης – Υψηλές «πτήσεις» για την δημοφιλία της Καρυστιανού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "Κ. Μητσοτάκης: «Ναι» στο Συμβούλιο Ειρήνης, αλλά μόνο για τη Γάζα",
-          "link": "https://www.naftemporiki.gr/politics/2062516/k-mitsotakis-nai-sto-symvoylio-eirinis-alla-mono-gia-ti-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-nai-sto-symvoylio-eirinis-alla-mono-gia-ti-gaza",
-          "pubDate": "Thu, 22 Jan 2026 18:45:17 +0000",
-          "description": "Προσχώρηση στο Συμβούλιο Ειρήνης των 13 χωρών που έχουν προσκληθεί σε αυτό, πλην όμως μόνο για την επόμενη φάση της ειρηνευτικής διαδικασίας στη Γάζα και για όσο χρόνο αυτό απαιτεί,…\nΚ. Μητσοτάκης: «Ναι» στο Συμβούλιο Ειρήνης, αλλά μόνο για τη Γάζα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "Κίμπερλι Γκιλφόιλ: Ο Τραμπ δεν θα απειλήσει ποτέ με διακοπή LNG – Η Ελλάδα βασιλή πύλη για την Ευρώπη",
-          "link": "https://www.naftemporiki.gr/politics/2062505/kimperli-gkilfoil-o-tramp-den-tha-apeilisei-pote-me-diakopi-lng-i-ellada-vasili-pyli-gia-tin-eyropi/?utm_source=rss&utm_medium=rss&utm_campaign=kimperli-gkilfoil-o-tramp-den-tha-apeilisei-pote-me-diakopi-lng-i-ellada-vasili-pyli-gia-tin-eyropi",
-          "pubDate": "Thu, 22 Jan 2026 18:07:57 +0000",
-          "description": "Η αντιπαράθεση του Προέδρου Τραμπ με την Ευρώπη για τη Γροιλανδία δεν θα εμποδίσει τις επικείμενες συμφωνίες των ΗΠΑ με τις ευρωπαϊκές χώρες, προβλέπει η πρέσβειρα των ΗΠΑ στην Ελλάδα,…\nΚίμπερλι Γκιλφόιλ: Ο Τραμπ δεν θα απειλήσει ποτέ με διακοπή LNG – Η Ελλάδα βασιλή πύλη για την Ευρώπη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "Ν. Ανδρουλάκης: Οι Ευρωπαίοι ηγέτες να στηρίξουν το σχέδιο για τη στρατηγική αυτονομία της ΕΕ",
-          "link": "https://www.naftemporiki.gr/politics/2062492/n-androylakis-oi-eyropaioi-igetes-na-stirixoyn-to-schedio-gia-ti-stratigiki-aytonomia-tis-ee/?utm_source=rss&utm_medium=rss&utm_campaign=n-androylakis-oi-eyropaioi-igetes-na-stirixoyn-to-schedio-gia-ti-stratigiki-aytonomia-tis-ee",
-          "pubDate": "Thu, 22 Jan 2026 17:19:46 +0000",
-          "description": "«Η νέα επεκτατική πολιτική του Προέδρου των ΗΠΑ, Ντόναλντ Τραμπ, οδηγεί τους ευρωπαϊκούς λαούς σε μια νέα εμπειρία με θεαματικό τρόπο. Μια εμπειρία που ήδη ο λαός μας έχει αποκτήσει…\nΝ. Ανδρουλάκης: Οι Ευρωπαίοι ηγέτες να στηρίξουν το σχέδιο για τη στρατηγική αυτονομία της ΕΕ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "Συνέδριο Νέας Αριστεράς: Την αναγκαιότητα του Λαϊκού Μετώπου θα υπογραμμίσει ο Αλέξης Χαρίτσης",
-          "link": "https://www.naftemporiki.gr/politics/2062459/synedrio-neas-aristeras-tin-anagkaiotita-toy-laikoy-metopoy-tha-ypogrammisei-o-alexis-charitsis/?utm_source=rss&utm_medium=rss&utm_campaign=synedrio-neas-aristeras-tin-anagkaiotita-toy-laikoy-metopoy-tha-ypogrammisei-o-alexis-charitsis",
-          "pubDate": "Thu, 22 Jan 2026 16:07:55 +0000",
-          "description": "Με την εισήγηση του προέδρου του κόμματος Αλέξη Χαρίτση αρχίζει σήμερα το απόγευμα στο ΣΕΦ, το προγραμματικό συνέδριο της Νέας Αριστεράς.\nΣυνέδριο Νέας Αριστεράς: Την αναγκαιότητα του Λαϊκού Μετώπου θα υπογραμμίσει ο Αλέξης Χαρίτσης - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "Σ. Φάμελλος στη Γλυφάδα: Η ασφάλεια από τις πλημμύρες απαιτεί πολιτικές επιλογές – Σοβαρότατες οι ευθύνες της κυβέρνησης",
-          "link": "https://www.naftemporiki.gr/politics/2062450/s-famellos-sti-glyfada-i-asfaleia-apo-tis-plimmyres-apaitei-politikes-epiloges-sovarotates-oi-eythynes-tis-kyvernisis/?utm_source=rss&utm_medium=rss&utm_campaign=s-famellos-sti-glyfada-i-asfaleia-apo-tis-plimmyres-apaitei-politikes-epiloges-sovarotates-oi-eythynes-tis-kyvernisis",
-          "pubDate": "Thu, 22 Jan 2026 15:54:26 +0000",
-          "description": "«Η κυβέρνηση έχει σοβαρότατες ευθύνες, διότι δεν επενδύει στην πρόληψη και τρέχει εκ των υστέρων να καλύψει τα προβλήματα», επεσήμανε ο πρόεδρος του ΣΥΡΙΖΑ-ΠΣ, Σωκράτης Φάμελλος από τις πληγείσες, λόγω…\nΣ. Φάμελλος στη Γλυφάδα: Η ασφάλεια από τις πλημμύρες απαιτεί πολιτικές επιλογές – Σοβαρότατες οι ευθύνες της κυβέρνησης - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "Ν. Φαραντούρης: Κυρώσεις για τις σφαγές Κούρδων στη Συρία",
-          "link": "https://www.naftemporiki.gr/politics/2062439/n-farantoyris-kyroseis-gia-tis-sfages-koyrdon-sti-syria/?utm_source=rss&utm_medium=rss&utm_campaign=n-farantoyris-kyroseis-gia-tis-sfages-koyrdon-sti-syria",
-          "pubDate": "Thu, 22 Jan 2026 15:33:04 +0000",
-          "description": "Την ώρα που οι εξελίξεις στους κουρδικούς θύλακες της Συρίας προκαλούν βαθύτατη ανησυχία με τα διεθνή μέσα να καταγράφουν νέες συγκρούσεις μεταξύ των δυνάμεων της Δαμασκού και του SDF (Κούρδοι),…\nΝ. Φαραντούρης: Κυρώσεις για τις σφαγές Κούρδων στη Συρία - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "Θ. Πλεύρης: Χρειάζεται αναθεωρημένη ερμηνεία των διεθνών συμβάσεων για την «ασφαλή τρίτη χώρα»",
-          "link": "https://www.naftemporiki.gr/politics/2062377/th-pleyris-chreiazetai-anatheorimeni-ermineia-ton-diethnon-symvaseon-gia-tin-asfali-triti-chora/?utm_source=rss&utm_medium=rss&utm_campaign=th-pleyris-chreiazetai-anatheorimeni-ermineia-ton-diethnon-symvaseon-gia-tin-asfali-triti-chora",
-          "pubDate": "Thu, 22 Jan 2026 14:32:05 +0000",
-          "description": "Στην άτυπη Σύνοδο των υπουργών Δικαιοσύνης και Εσωτερικών Υποθέσεων της Ευρωπαϊκής Ένωσης στη Λευκωσία, στις 22 και 23 Ιανουαρίου 2026, συμμετέχει ο υπουργός Μετανάστευσης και Ασύλου, Θάνος Πλεύρης, συνοδευόμενος από…\nΘ. Πλεύρης: Χρειάζεται αναθεωρημένη ερμηνεία των διεθνών συμβάσεων για την «ασφαλή τρίτη χώρα» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
-        },
-        {
-          "title": "ΟΠΕΚΕΠΕ – Εξεταστική: «Με την εφαρμογή της πληρώθηκε και σώθηκε κοσμάκης»",
-          "link": "https://www.naftemporiki.gr/politics/2062352/opekepe-exetastiki-me-tin-efarmogi-tis-plirothike-kai-sothike-kosmakis/?utm_source=rss&utm_medium=rss&utm_campaign=opekepe-exetastiki-me-tin-efarmogi-tis-plirothike-kai-sothike-kosmakis",
-          "pubDate": "Thu, 22 Jan 2026 13:53:49 +0000",
-          "description": "«Παραβατικότητα υπήρχε και τότε αλλά ήταν μεμονωμένες περιπτώσεις», είπε ο Γρηγόρης Αποστολάκος, πρώην πρόεδρος του ΟΠΕΚΕΠΕ το διάστημα 13/1/2013 έως 21/4/2015, καταθέτοντας στην Εξεταστική Επιτροπή που διερευνά την υπόθεση του…\nΟΠΕΚΕΠΕ – Εξεταστική: «Με την εφαρμογή της πληρώθηκε και σώθηκε κοσμάκης» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
+          "title": "«Καρφιά» Κακλαμάνη κατά Κικίλια – «Οι υπουργοί να κοιτάνε τα υπουργεία τους και να μην χτυπούν ανοιχτές πόρτες»",
+          "link": "https://www.tovima.gr/2026/01/23/politics/karfia-kaklamani-kata-kikilia-oi-ypourgoi-na-koitane-ta-ypourgeia-tous-kai-na-min-xtypoun-anoixtes-portes/",
+          "pubDate": "Fri, 23 Jan 2026 14:02:49 +0300",
+          "description": "Ο Νικήτας Κακλαμάνης απάντησε στον Βασίλη Κικίλια ο οποίος ζήτησε σε δημόσιες τοποθετήσεις του η Βουλή να «υιοθετήσει» το ανήλικο παιδί του 53χρονου Λιμενικού.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/05/13/kaklamanis-1024x673.jpg"
         }
       ]
     },
