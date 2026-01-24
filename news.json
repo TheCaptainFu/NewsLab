@@ -1,13 +1,48 @@
 {
-  "lastUpdated": "2026-01-24T18:01:46.183Z",
+  "lastUpdated": "2026-01-24T18:15:53.240Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 16,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κάηκε ολοσχερώς σπίτι στη Φθιώτιδα, την τελευταία στιγμή σώθηκε ηλικιωμένη \n",
+          "link": "https://www.protothema.gr/greece/article/1762820/diadilosi-sta-tirana-me-aitima-tin-paraitisi-tou-edi-rama/?utm_source=rss",
+          "pubDate": "Sat, 24 Jan 2026 20:15:43 +0200",
+          "description": "Στο σημείο έσπευσαν αστυνομία, πυροσβεστική και ασθενοφόρο του ΕΚΑΒ",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-24/kameno-spiti-ekso.jpg"
+        },
+        {
+          "title": "Επιτήδειοι στο Βέλγιο προσπάθησαν να αποσπάσουν μεγάλα χρηματικά ποσά υποδυόμενοι με ΑΙ τον βασιλιά Φίλιππο\n",
+          "link": "https://www.protothema.gr/greece/article/1762826/epitideioi-sto-velgio-prospathisan-na-apospasoun-megala-hrimatika-posa-upoduomenoi-me-ai-ton-vasilia-filippo/?utm_source=rss",
+          "pubDate": "Sat, 24 Jan 2026 20:13:00 +0200",
+          "description": "Οι απατεώνες προσπάθησαν να προσεγγίσουν κύκλους κοντά στην βασιλική οικογένεια του Βελγίου, ξένους αξιωματούχους και επικεφαλής επιχειρήσεων, ενώ τα θύματά τους έβλεπαν σε βιντεοκλήσεις τον βασιλιά της χώρας",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-07-21/vasilias_velgiou_filippos.jpg"
+        },
+        {
+          "title": "Μόρνος: «Ανάσα» για τη λίμνη η τελευταία κακοκαιρία – Αυξήθηκαν τα αποθέματα και στο φράγμα Πηνειού",
+          "link": "https://www.newsit.gr/ellada/mornos-anasa-gia-ti-limni-i-teleytaia-kakokairia-ayksithikan-ta-apothemata-kai-sto-fragma-pineiou/4582631/",
+          "pubDate": "Sat, 24 Jan 2026 18:04:39 +0000",
+          "description": "Αισθητή είναι η αύξηση των αποθεμάτων νερού στον Πηνειό και τον Μόρνο μετά τις πρόσφατες βροχοπτώσεις από την τελευταία κακοκαιρία. Τα νέα δεδομένα δημιουργούν συγκρατημένη ...  \nTo άρθρο Μόρνος: «Ανάσα» για τη λίμνη η τελευταία κακοκαιρία – Αυξήθηκαν τα αποθέματα και στο φράγμα Πηνειού δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mornos-24012026.jpg"
+        },
+        {
+          "title": "Σωτήρης Τσαφούλιας: Η Μαρία Καρυστιανού δεν πρέπει να παρασύρεται από παγίδες που της στήνουν για να την αποδομήσουν",
+          "link": "https://www.newsit.gr/lifestyle/sotiris-tsafoulias-i-maria-karystianou-den-prepei-na-parasyretai-apo-pagides-pou-tis-stinoun-gia-na-tin-apodomisoun/4582629/",
+          "pubDate": "Sat, 24 Jan 2026 18:02:47 +0000",
+          "description": "Για τη Μαρία Καρυστιανού αναφέρθηκε σε πρόσφατες δηλώσεις του ο Σωτήρης Τσαφούλιας, τονίζοντας ότι εκείνη, η Μάγδα Φύσσα και όλες οι μανάδες που έχουν χάσει ...  \nTo άρθρο Σωτήρης Τσαφούλιας: Η Μαρία Καρυστιανού δεν πρέπει να παρασύρεται από παγίδες που της στήνουν για να την αποδομήσουν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sotiris-tsafoulias-ndp-1200x704.jpg"
+        },
+        {
+          "title": "Άγιαξ: Άνετη νίκη στην Ολλανδία πριν τον «τελικό» με τον Ολυμπιακό στο Champions League",
+          "link": "https://www.newsit.gr/athlitika/agiaks-aneti-niki-stin-ollandia-prin-ton-teliko-me-ton-olympiako-sto-champions-league/4582623/",
+          "pubDate": "Sat, 24 Jan 2026 17:59:00 +0000",
+          "description": "Μετά τον Ολυμπιακό και ο Άγιαξ πήρε στο… ρελαντί τη νίκη στο πρωτάθλημά του, λίγο πριν τη “μονομαχία” των δύο ομάδων σε τελικό πρόκρισης στη ...  \nTo άρθρο Άγιαξ: Άνετη νίκη στην Ολλανδία πριν τον «τελικό» με τον Ολυμπιακό στο Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-1200x797.jpg"
+        },
         {
           "title": "Αστέρας Τρίπολης – ΑΕΚ: Πάνω από 2.000 οπαδοί της Ένωσης στις κερκίδες",
           "link": "https://www.newsit.gr/athlitika/asteras-tripolis-aek-pano-apo-2-000-opadoi-tis-enosis-stis-kerkides/4582614/",
@@ -27,7 +62,7 @@
           "link": "https://www.newsit.gr/athlitika/asteras-tripolis-aek-live-gia-tin-18i-agonistiki-tis-super-league/4582597/",
           "pubDate": "Sat, 24 Jan 2026 17:18:46 +0000",
           "description": "Παρακολουθήστε live την αναμέτρηση της ΑΕΚ με τον Αστέρα στην Τρίπολη για την 18η αγωνιστική της Super League.\nTo άρθρο Αστέρας Τρίπολης – ΑΕΚ live για την 18η αγωνιστική της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/asteras-aek-1200x800.jpg"
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-aek-3-1200x800.jpg"
         },
         {
           "title": "Premier League: Επιστροφή στις νίκες για τη Μάντσεστερ Σίτι, ήττα με ανατροπή για την Μπράιτον του Κωστούλα",
@@ -44,6 +79,13 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/stratos-tzortzogloy-1ndp-1200x764.jpg"
         },
         {
+          "title": "Προμηθέας – Άρης Betsson 97-103: Με 4άδα «φωτιά» και «κλειδί» τον Αντετοκούνμπο (vid)",
+          "link": "https://www.in.gr/2026/01/24/sports/basketball/promitheas-aris-betsson-97-103-piran-ti-matsara-oi-filoksenoumenoi-me-4ada-fotia/",
+          "pubDate": "Sat, 24 Jan 2026 20:13:04 +0300",
+          "description": "Ο Άρης Betsson άντεξε στη φθορά των φάουλ (έχασε τρεις παίκτες με 5) και με τέσσερις διψήφιους, αλλά και καθοριστικό τον Κώστα Αντετοκούνμπο (11ριμπ., 3 τάπες) πήρε μεγάλη νίκη με 103-97 στην Πάτρα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823323-768x552.jpg"
+        },
+        {
           "title": "Βίντεο με πράκτορες της ICE να πυροβολούν πολίτη στη Μινεάπολη: Το δεύτερο θύμα μετά την 37χρονη στις ΗΠΑ –  Σκληρές εικόνες",
           "link": "https://www.newsit.gr/kosmos/vinteo-me-praktores-tis-ice-na-pyrovoloun-politi-sti-mineapoli-to-deytero-thyma-meta-tin-37xroni-stis-ipa-sklires-eikones/4582591/",
           "pubDate": "Sat, 24 Jan 2026 17:11:43 +0000",
@@ -56,6 +98,20 @@
           "pubDate": "Sat, 24 Jan 2026 17:09:23 +0000",
           "description": "Το μυστικό όπλο που χρησιμοποίησαν οι ΗΠΑ στη Βενεζουέλα για να περάσουν χειροπέδες στον Νικολάς Μαδούρο αποκαλύπτει ο Ντόναλντ Τραμπ. Σε συνέντευξη που παραχώρησε το ...  \nTo άρθρο «The Discombobulator»: Ο Τραμπ αποκαλύπτει τον μυστικό «Αποσυντονιστή» που χρησιμοποιήθηκε για να συλληφθεί ο Μαδούρο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/maduro-2-3-1200x675-1.jpg"
+        },
+        {
+          "title": "Η φύση είχε τον τελευταίο λόγο: Αναβολή για το «Skyscraper Live» με τον Άλεξ Χόνολντ – Πότε θα σκαρφαλώσει τελικά",
+          "link": "https://www.in.gr/2026/01/24/life/culture-live/fysi-eixe-ton-teleytaio-logo-anavoli-gia-skyscraper-live-ton-aleks-xonolnt-pote-tha-skarfalosei-telika/",
+          "pubDate": "Sat, 24 Jan 2026 20:00:39 +0300",
+          "description": "Η ζωντανή ανάβαση του Άλεξ Χόνολντ στον ουρανοξύστη Taipei 101 για το «Skyscraper Live» του Netflix αναβλήθηκε λόγω βροχής. Τι δήλωσε ο ίδιος λέει γαι την αμοιβή του",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/On-January-23-I’ll-be-free-soloing-Taipei-101-in-Taiwan.-It’s-been-a-long-time-goal-of-mine-and-1-768x505.jpg"
+        },
+        {
+          "title": "Ο Γκουαρντιόλα αποθέωσε την δουλειά του Αρτέτα στην Άρσεναλ",
+          "link": "https://www.in.gr/2026/01/24/sports/on-field/o-gkouarntiola-apotheose-tin-douleia-tou-arteta-stin-arsenal/",
+          "pubDate": "Sat, 24 Jan 2026 20:00:12 +0300",
+          "description": "Ο προπονητής της Σίτι εκθείασε τον κόουτς της Άρσεναλ και χαρακτήρισε τους «κανονιέρηδες», κορυφαία ομάδα του κόσμου",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/w07-17234712506320.jpg"
         },
         {
           "title": "Η στιγμή της έκρηξης βόμβας στη ντισκοτέκ «Jackie O» – Πώς εντοπίστηκαν οι δύο δράστες",
@@ -161,62 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 16:21:38 +0000",
           "description": "Το αποφασιστικότερο βήμα για την εξασφάλιση της παραμονής στην Greek Basketball League έκανε η Μύκονος Betsson, η οποία επικράτησε εντός έδρας του Ηρακλή με 83-80 ...  \nTo άρθρο Greek Basketball League: Σπουδαίες νίκες για Άρη Betsson και Μύκονο Betsson κόντρα σε Προμηθέα και Ηρακλή δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-promitheas-1200x800.jpg"
-        },
-        {
-          "title": "ΔΕΔΔΗΕ: Διευκρινίσεις για το έργο υπογειοποίησης μετά τα ακραία καιρικά φαινόμενα",
-          "link": "https://www.in.gr/2026/01/24/greece/deddie-dieykriniseis-gia-ergo-ypogeiopoiisis-meta-ta-akraia-kairika-fainomena/",
-          "pubDate": "Sat, 24 Jan 2026 19:18:55 +0300",
-          "description": "Ο ΔΕΔΔΗΕ για τις ανακριβείς δημόσιες αναφορές που αφορούν στο έργο υπογειοποίησης της γραμμής Ρ-350 στον ορεινό όγκο του Υμηττού",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ot_DEDHE_ERGASIES_-768x450.png"
-        },
-        {
-          "title": "LIVE: Αστέρας Τρίπολης – ΑΕΚ",
-          "link": "https://www.in.gr/matchcenter/4859120/",
-          "pubDate": "Sat, 24 Jan 2026 19:18:03 +0300",
-          "description": "LIVE: Αστέρας Τρίπολης – ΑΕΚ. Παρακολουθήστε live στις 19:30 την εξέλιξη της αναμέτρησης Αστέρας Τρίπολης – ΑΕΚ για τη 18η αγωνιστική της Superleague. Τηλεοπτικά από το Novasports Prime.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823880-768x553.jpg"
-        },
-        {
-          "title": "Στην εντατική η Σία Κοσιώνη: Έχει προσβληθεί από πνευμονιόκοκκο, δεν κινδυνεύει η ζωή της\n",
-          "link": "https://www.protothema.gr/greece/article/1762792/stin-edatiki-gia-proliptikous-logous-i-sia-kosioni-ehei-prosvlithei-apo-pneumoniokokko/?utm_source=rss",
-          "pubDate": "Sat, 24 Jan 2026 18:16:00 +0200",
-          "description": "Η δημοσιογράφος μετέβη στο νοσοκομείο και της έγινε εισαγωγή, καθώς ένιωσε αδιαθεσία και δυσκολία στην αναπνοή",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-24/kosioni2-xrm.jpg"
-        },
-        {
-          "title": "Μπάγερν-Άουγκσμπουργκ 1-2: Ο Γιαννούλης… αιτία για την πρώτη ήττα των γηπεδούχων (vid)",
-          "link": "https://www.in.gr/2026/01/24/sports/football/mpagern-aougksmpourgk-1-2-o-giannoulis-aitia-gia-tin-proti-itta-ton-gipedouxon-vid/",
-          "pubDate": "Sat, 24 Jan 2026 19:15:19 +0300",
-          "description": "Ελληνικό χρώμα έχει η πρώτη ήττα της Μπάγερν στο πρωτάθλημα, καθώς πρωταγωνιστής της Άουγκσμπουργκ ήταν ο Δημήτρης Γιαννούλης που οδήγησε την ομάδα του σε ένα σπουδαίο τρίποντο",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/giannoulis-768x503.jpg"
-        },
-        {
-          "title": "Μάντσεστερ Σίτι – Γουλβς 2-0: «Επαγγελματική» νίκη για τους Πολίτες",
-          "link": "https://www.in.gr/2026/01/24/sports/football/mantsester-siti-goulvs-2-0-epaggelmatiki-niki-gia-tous-polites/",
-          "pubDate": "Sat, 24 Jan 2026 19:14:14 +0300",
-          "description": "Η Μάντσεστερ Σίτι νίκησε με 2-0 την Γουλβς για την 23η αγωνιστική της Premier League, ενώ η Τότεναμ δεν κατάφερε να νικήσει ούτε την Μπέρνλι φέρνοντας ισοπαλία με 2-2. Η βαθμολογία και τα αποτελέσματα της αγωνιστικής.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/city-768x430.jpg"
-        },
-        {
-          "title": "«Aπογειώθηκε» στα 8.25 ο Μίλτος Τεντόγλου στην πρεμιέρα για το 2026 (vid)",
-          "link": "https://www.in.gr/2026/01/24/sports/othersports/apogeiothike-sta-8-25-o-miltos-tentoglou-stin-premiera-gia-to-2026/",
-          "pubDate": "Sat, 24 Jan 2026 19:13:13 +0300",
-          "description": "Εκπληκτικό ξεκίνημα της σεζόν για τον Μίλτο Τεντόγλου που έκανε άλμα στα 8.25 στην Ημερίδα Κλειστού Στίβου της Παιανίας.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823673-768x513.jpg"
-        },
-        {
-          "title": "Ζεφύρι: Συνελήφθη 56χρονος που κυκλοφορούσε με όπλο – Προσπάθησε να διαφύγει",
-          "link": "https://www.in.gr/2026/01/24/greece/zefyri-synelifthi-56xronos-pou-kykloforouse-oplo-prospathise-na-diafygei/",
-          "pubDate": "Sat, 24 Jan 2026 19:10:28 +0300",
-          "description": "Στη θέα των αστυνομικών στο Ζεφύρι, ο κατηγορούμενος επιχείρησε να διαφύγει ενώ κατά την ακινητοποίηση του αντιστάθηκε",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pist_zefir-768x580.jpg"
-        },
-        {
-          "title": "Πόσα δαχτυλίδια αρραβώνων είχε η Ελίζαμπεθ Τέιλορ; Πολλά (συν ένα τεράστιο διαμάντι 69,42 καρατίων)",
-          "link": "https://www.in.gr/2026/01/24/go-fun/fizz/posa-daxtylidia-arravonon-eixe-elizampeth-teilor-polla-syn-ena-terastio-diamanti-6942-karation/",
-          "pubDate": "Sat, 24 Jan 2026 19:10:28 +0300",
-          "description": "Η πρωταγωνίστρια της ταινίας «Κλεοπάτρα», Ελίζαμπεθ Τέιλορ, αρραβωνιάστηκε δέκα φορές κατά τη διάρκεια της ζωής της και παντρεύτηκε οκτώ — δύο φορές με τον ίδιο άντρα, τον ηθοποιό Ρίτσαρντ Μπάρτον. Στα δάχτυλά της φορούσε πάντα, ένα μεγάλο ζαφείρι κι ένα διαμάντι 29 καρατίων.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet-7-3-768x512.jpg"
         }
       ]
     },
@@ -386,13 +386,6 @@
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/23/androulakis-papandreou-samaras2-1024x684.jpg"
         },
         {
-          "title": "Κεφαλογιάννη για τροπολογία συνεπιμέλειας τέκνων: Προτάθηκε από το υπουργείο Δικαιοσύνης – Δεν κρύβω ότι έκανα χρήση της",
-          "link": "https://www.tanea.gr/2026/01/23/politics/kefalogianni-gia-tropologia-synepimeleias-teknon-tin-psifisa-mazi-me-allous-179-den-kryvo-oti-ekana-xrisi-tis/",
-          "pubDate": "Fri, 23 Jan 2026 16:06:32 +0000",
-          "description": "Η υπουργός Τουρισμού, Όλγα Κεφαλογιάννη, απαντά με ανάρτησή της στις αντιδράσεις για τη νέα τροπολογία συνεπιμέλειας. «Ως μητέρα, αλλά και ως μέλος της Κυβέρνησης, πιστεύω ότι δεν έχω λιγότερα δικαιώματα από οποιονδήποτε πολίτη λόγω της ιδιότητας μου», αναφέρει χαρακτηριστικά, μεταξύ άλλων. Αναλυτικά η ανάρτηση της Όλγας Κεφαλογιάννη: Αναφορικά με τον θόρυβο που έχει δημιουργηθεί, θέλω να […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6777724-1024x683.jpg"
-        },
-        {
           "title": "Επίθεση της Hurriyet στον Ν. Δένδια για τα 12 ναυτικά μίλια – Κάνει λόγο για «πρόκληση στο Αιγαίο»",
           "link": "https://www.naftemporiki.gr/politics/2063001/epithesi-tis-hurriyet-ston-n-dendia-gia-ta-12-naytika-milia-kanei-logo-gia-proklisi-sto-aigaio/?utm_source=rss&utm_medium=rss&utm_campaign=epithesi-tis-hurriyet-ston-n-dendia-gia-ta-12-naytika-milia-kanei-logo-gia-proklisi-sto-aigaio",
           "pubDate": "Fri, 23 Jan 2026 16:02:10 +0000",
@@ -433,6 +426,13 @@
           "pubDate": "Fri, 23 Jan 2026 12:14:20 +0000",
           "description": "Η Τουρκία «δυναμιτίζει» το κλίμα και τα «ήρεμα νερά» που διέπουν τις ελληνοτουρκικές σχέσεις σε χρόνο που Αθήνα και Άγκυρα αναζητούν ημερομηνίες (εντός του Φεβρουαρίου) για τη διεξαγωγή του Ανώτατου…\nΗ Άγκυρα υπονομεύει τη σύγκληση του ΑΣΣ με απαράδεκτη NAVTEX διαρκείας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null
+        },
+        {
+          "title": "Όλγα Κεφαλογιάννη: «Έκανα χρήση της ρύθμισης, αντιμετωπίζω μια ιδιαίτερα δύσκολη πραγματικότητα»",
+          "link": "https://www.tovima.gr/2026/01/23/politics/olga-kefalogianni-ekana-xrisi-tis-rythmisis-antimetopizo-mia-idiaitera-dyskoli-pragmatikotita/",
+          "pubDate": "Fri, 23 Jan 2026 14:34:44 +0300",
+          "description": "Σε ανάρτησή της η Όλγα Κεφαλογιάννη επισημαίνει ότι «οι οικογενειακές υποθέσεις και ειδικά αυτές που αφορούν ανήλικα παιδιά «δεν προσφέρονται για εκβιασμούς ή πολιτική εκμετάλλευση».",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/01/21/kefalogianni-1024x683.jpg"
         }
       ]
     },
@@ -462,7 +462,7 @@
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e52/live/0d3f3e30-f94a-11f0-b385-5f48925de19a.jpg"
         },
         {
-          "title": "Μινεάπολη: Ομοσπονδιακοί αξιωματικοί πυροβόλησαν άλλο ένα άτομο - Νεκρός ο 51χρονος",
+          "title": "Μινεάπολη: Ομοσπονδιακοί αξιωματικοί πυροβόλησαν και σκότωσαν άλλο ένα άτομο",
           "link": "http://gr.euronews.com/2026/01/24/omospondiakoi-aksiwmatikoi-purovolhsan-allo-ena-atomo-sth-minesota-leei-kuvernhths",
           "pubDate": "Sat, 24 Jan 2026 17:40:39 +0100",
           "description": "Ο κυβερνήτης της Μινεσότα Τιμ Γουόλτς ανακοίνωσε ότι ομοσπονδιακοί πράκτορες πραγματοποίησαν \"έναν ακόμη φρικτό πυροβολισμό\" στο πλαίσιο της καταστολής της κυβέρνησης Τραμπ στη μετανάστευση",
@@ -657,11 +657,53 @@
       "color": "green",
       "articles": [
         {
+          "title": "Λεβαδειακός: Ο Βέρμπιτς εκτός με Άρη",
+          "link": "https://www.gazzetta.gr/football/superleague/2509818/lebadeiakos-o-bermpits-ektos-me-ari",
+          "pubDate": "Sat, 24 Jan 2026 20:08:17 +0200",
+          "description": "Ο Μπέντζαμιν Βέρμπιτς τέθηκε νοκ άουτ για το ματς του Λεβαδειακού με τον Άρη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lebadeiakos_0.jpg?itok=dW_8V_dn"
+        },
+        {
+          "title": "Elite League: Τα αποτελέσματα της 18ης αγωνιστικής",
+          "link": "https://www.gazzetta.gr/basketball/a2-mpasket-elite-league/2509817/elite-league-ta-apotelesmata-tis-18is-agonistikis",
+          "pubDate": "Sat, 24 Jan 2026 20:08:11 +0200",
+          "description": "Όλα όσα έγιναν στα πρώτα παιχνίδια της 18ης αγωνιστικής της Elite League, με τις νίκες των",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/terzis_doksa_intime.jpg?itok=RsLijXp4"
+        },
+        {
+          "title": "Μεντιλίμπαρ: «Έπρεπε να δείξουμε περισσότερα, ο Σιπιόνι προσπάθησε»",
+          "link": "https://www.gazzetta.gr/football/superleague/2509816/mentilimpar-eprepe-na-deixoyme-perissotera-o-sipioni-prospathise",
+          "pubDate": "Sat, 24 Jan 2026 20:07:31 +0200",
+          "description": "Η συνέντευξη Τύπου του Χοσέ Λουίς Μεντιλίμπαρ μετά τη νίκη των Πειραιωτών στον αγώνα απέναντι στον Βόλο στο «Γ. Καραϊσκάκης». Τι είπε για μεταγραφές.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ispanos_oly_pagos.jpg?itok=mGPl-HAx"
+        },
+        {
+          "title": "Αστέρας AKTOR - ΑΕΚ: Στην Τρίπολη ο Μάριος Ηλιόπουλος",
+          "link": "https://www.gazzetta.gr/football/superleague/2509815/asteras-aktor-aek-stin-tripoli-o-iliopoylos",
+          "pubDate": "Sat, 24 Jan 2026 20:05:06 +0200",
+          "description": "Ο Μάριος Ηλιόπουλος έδωσε το παρών στο «Θεόδωρος Κολοκοτρώνης» για την αναμέτρηση της ΑΕΚ με τον Αστέρα AKTOR.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/iliop-ast.jpg?itok=XOCw_hqO"
+        },
+        {
+          "title": "Έγκλημα στη Ζάκυνθο: Η 19χρονη που ξεκλήρισε την οικογένειά της για να το σκάσει με τον παππού της",
+          "link": "https://www.gazzetta.gr/plus/2509814/egklima-sti-zakyntho-i-19hroni-poy-xeklirise-tin-oikogeneia-tis-gia-na-skasei-me-ton",
+          "pubDate": "Sat, 24 Jan 2026 20:02:12 +0200",
+          "description": "Ο θετός παππούς και η εγγονή που συμμάχησε στο σχέδιο του για το ξεκλήρισμα μιας ολόκληρης οικογένειας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/egklima-zakinthos.jpg?itok=qdyiPCGH"
+        },
+        {
           "title": "LIVE TV: Δείτε τις 24 Ώρες Ντεϊτόνα (vid)",
           "link": "https://www.gazzetta.gr/gmotion/2509770/live-tv-deite-tis-24-ores-nteitona-vid",
           "pubDate": "Sat, 24 Jan 2026 20:00:00 +0200",
           "description": "Παρακολουθήστε σε ζωντανή μετάδοση τον θρυλικό αγώνα που διεξάγεται στο Daytona International Speedway στη Φλόριντα των ΗΠΑ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/g_ncst4x0aewsy2_michelin1.jpg?itok=fkYWXHGK"
+        },
+        {
+          "title": "Άγιαξ: Άνετη νίκη στην Ολλανδία πριν τον «τελικό» με τον Ολυμπιακό στο Champions League",
+          "link": "https://www.newsit.gr/athlitika/agiaks-aneti-niki-stin-ollandia-prin-ton-teliko-me-ton-olympiako-sto-champions-league/4582623/",
+          "pubDate": "Sat, 24 Jan 2026 17:59:00 +0000",
+          "description": "Μετά τον Ολυμπιακό και ο Άγιαξ πήρε στο… ρελαντί τη νίκη στο πρωτάθλημά του, λίγο πριν τη “μονομαχία” των δύο ομάδων σε τελικό πρόκρισης στη ...  \nTo άρθρο Άγιαξ: Άνετη νίκη στην Ολλανδία πριν τον «τελικό» με τον Ολυμπιακό στο Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-1200x797.jpg"
         },
         {
           "title": "Αλύγιστος!",
@@ -731,7 +773,7 @@
           "link": "https://www.newsit.gr/athlitika/asteras-tripolis-aek-live-gia-tin-18i-agonistiki-tis-super-league/4582597/",
           "pubDate": "Sat, 24 Jan 2026 17:18:46 +0000",
           "description": "Παρακολουθήστε live την αναμέτρηση της ΑΕΚ με τον Αστέρα στην Τρίπολη για την 18η αγωνιστική της Super League.\nTo άρθρο Αστέρας Τρίπολης – ΑΕΚ live για την 18η αγωνιστική της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/asteras-aek-1200x800.jpg"
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-aek-3-1200x800.jpg"
         },
         {
           "title": "Premier League: Επιστροφή στις νίκες για τη Μάντσεστερ Σίτι, ήττα με ανατροπή για την Μπράιτον του Κωστούλα",
@@ -823,48 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 16:44:25 +0000",
           "description": "Τη νίκη της 19ης αγωνιστικής της Bundesliga πανηγύρισε η Άουγκσμπουργκ, η οποία σόκαρε την Μπάγερν στο Μόναχο, επικρατώντας με ανατροπή 2-1. Η Άουγκσμπουργκ του Δημήτρη ...  \nTo άρθρο Μπάγερν Μονάχου – Άουγκσμπουργκ 1-2: Η ομάδα του Δημήτρη Γιαννούλη σόκαρε τους πρωτοπόρους της Bundesliga δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/augsburg-1200x845.jpg"
-        },
-        {
-          "title": "Αστέρας Τρίπολης - ΑΕΚ: Με Γιόβιτς και Βάργκα στην επίθεση και Μάνταλο στον άξονα η Ένωση",
-          "link": "https://www.gazzetta.gr/football/superleague/2509792/asteras-tripolis-aek-me-giobits-kai-bargka-stin-epithesi-kai-mantalo",
-          "pubDate": "Sat, 24 Jan 2026 18:34:43 +0200",
-          "description": "Ο Μάρκο Νίκολιτς διατηρεί τους Γιόβιτς και Βάργκα στην επίθεση της ΑΕΚ για το ματς κόντρα στον Αστέρα στην Τρίπολη, ξεκινώντας τον Μάνταλο δίπλα στον Πινέδα στον άξονα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jovic_varga.jpg?itok=mrgb0TgX"
-        },
-        {
-          "title": "Γιαννούλης: Με δική του ασίστ υπέταξε την Μπάγερν Μονάχου (vid)",
-          "link": "https://www.gazzetta.gr/football/bundesliga/2509791/giannoylis-me-diki-toy-asist-ypetaxe-tin-mpagern-monahoy-vid",
-          "pubDate": "Sat, 24 Jan 2026 18:32:40 +0200",
-          "description": "Ο Δημήτρης Γιαννούλης ήταν καθοριστικός για την Άουγκσμπουργκ κόντρα στην Μπάγερν , καθώς ήταν αυτός που έδωσε την ασίστ στο δεύτερο γκολ και συνέβαλε στην νίκη με 2-1.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/giannoulis_1.jpg?itok=WT8Wupi6"
-        },
-        {
-          "title": "MINI: To ηλεκτρικό Cooper ασφαλέστερο αυτοκίνητο της κατηγορίας του",
-          "link": "https://www.gazzetta.gr/gmotion/2509720/mini-ilektriko-cooper-asfalestero-aytokinito-tis-katigorias-toy",
-          "pubDate": "Sat, 24 Jan 2026 18:30:00 +0200",
-          "description": "Το ηλεκτρικό MINI Cooper αναδείχθηκε Best in Class από το Euro NCAP για το 2025, επιβεβαιώνοντας τα κορυφαία επίπεδα ασφάλειας στην κατηγορία City & Supermini.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/p90628078_highres_the-mini-john-cooper.jpg?itok=t9tFjHXM"
-        },
-        {
-          "title": "Μπάγερν - Άουγκσμπουργκ 1-2: Σοκ κι ανατροπή με ασίστ Γιαννούλη! ",
-          "link": "https://www.gazzetta.gr/football/bundesliga/2509789/mpagern-aoygksmpoyrgk-1-2-sok-ki-anatropi-me-asist-giannoyli",
-          "pubDate": "Sat, 24 Jan 2026 18:27:49 +0200",
-          "description": "Με τον Γιαννούλη σε ρόλο «δήμιου» και με ασίστ στο γκολ της νίκης, η Άουγκσμπουργκ υποχρέωσε τη Μπάγερν στην πρώτη της ήττα στη Bundesliga με ανατροπή (1-2) στο Μόναχο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/dimitris_gianoulis.jpg?itok=wBds0bc4"
-        },
-        {
-          "title": "Στην εντατική με πνευμονία η δημοσιογράφος του ΣΚΑΪ, Σία Κοσιώνη!",
-          "link": "https://www.gazzetta.gr/plus/2509788/stin-entatiki-me-pneymonia-i-dimosiografos-toy-skai-sia-kosioni",
-          "pubDate": "Sat, 24 Jan 2026 18:22:42 +0200",
-          "description": "Σε μονάδα εντατικής θεραπείας μεγάλου νοσοκομείου της Αθήνας νοσηλεύεται η Σία Κοσιώνη, μετά από λοίμωξη από πνευμονιόκοκκο που προκάλεσε σοβαρά αναπνευστικά προβλήματα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolm/2023-10/sia-kosioni-skai.jpg.png?itok=b3tIMI3_"
-        },
-        {
-          "title": "Τεντόγλου: Πρεμιέρα με 8.25μ στην Παιανία και \"πέταξε\" για Παγκόσμιο",
-          "link": "https://www.gazzetta.gr/stibos/2509786/tentogloy-premiera-me-825m-stin-paiania-kai-petaxe-gia-pagkosmio",
-          "pubDate": "Sat, 24 Jan 2026 18:22:31 +0200",
-          "description": "Εξαιρετικό ξεκίνημα στη σεζόν έκανε ο Μίλτος Τεντόγλου με 8.25μ, σε ημερίδα στην Παιανία, και \"'έφυγε\" για το Παγκόσμιο πρωτάθλημα κλειστού στίβου.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6823327.jpg?itok=Lcsk0wjI"
         }
       ]
     },
@@ -872,6 +872,13 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Εμφατικό πέρασμα για τον Παναθηναϊκό από το Περιστέρι! – Τριάρα χωρίς άγχος για τους «πράσινους»",
+          "link": "https://trifilara.gr/emfatiko-perasma-gia-ton-panathinaiko-apo-to-peristeri-triara-choris-agchos-gia-tous-prasinous/?utm_source=rss&utm_medium=rss&utm_campaign=emfatiko-perasma-gia-ton-panathinaiko-apo-to-peristeri-triara-choris-agchos-gia-tous-prasinous",
+          "pubDate": "Sat, 24 Jan 2026 18:14:28 +0000",
+          "description": "Ο Παναθηναϊκός έκανε άνετο πέρασμα από το Περιστέρι, με το «Τριφύλλι» να... σκορπίζει τον Ατρόμητο με 3-1 εκτός έδρας.\nThe post Εμφατικό πέρασμα για τον Παναθηναϊκό από το Περιστέρι! – Τριάρα χωρίς άγχος για τους «πράσινους» appeared first on Trifilara.gr.",
+          "thumbnail": null
+        },
         {
           "title": "Άνετο πέρασμα από το Περιστέρι με… τριάρα! – Το «κερασάκι» ο Βύντρα",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/aneto-perasma-apo-to-peristeri-me-tri/?utm_source=rss&utm_medium=rss&utm_campaign=aneto-perasma-apo-to-peristeri-me-tri",
@@ -1074,13 +1081,6 @@
           "pubDate": "Sat, 24 Jan 2026 11:34:51 +0000",
           "description": "Ο κύβος ερρίφθη και ο Παναθηναϊκός θα φιλοξενήσει ξανά στο Telekom Center τη Μερσίν (05/02) με στόχο το όνειρο της πρόκρισης και το απόλυτο ρεκόρ στο Eurocup Women!\nThe post Παναθηναϊκός: Ξανά στο ΟΑΚΑ για την πρόκριση στα ημιτελικά της Ευρώπης, με φόντο απίθανο ρεκόρ! appeared first on Trifilara.gr.",
           "thumbnail": null
-        },
-        {
-          "title": "Φάκελος Πελίστρι",
-          "link": "https://panathinaikos24.gr/2026/01/24/617381/fakelos-pelistri/",
-          "pubDate": "Sat, 24 Jan 2026 11:29:52 +0000",
-          "description": "Τα δεδομένα για τον Ουρουγουανό εξτρέμ μετά τις χαμένες ευκαιρίες στη Βουδαπέστη",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Pelistri-750x430-1.jpg?fit=680%2C460&amp;ssl=1"
         }
       ]
     },
@@ -1103,32 +1103,11 @@
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/v/valve-now-/valve-now-lets-you-gift-bundles-to-friends-minus-what-they-a_vpmf.jpg"
         },
         {
-          "title": "Όταν η AI ανεβάζει τις τιμές: Τι φέρνει το 2026 για smartphones, PCs και κονσόλες",
-          "link": "https://www.digitallife.gr/otan-i-ai-anevazei-tis-times-ti-fernei-to-2026-gia-smartphones-pcs-kai-konsoles-68466/",
-          "pubDate": "Fri, 23 Jan 2026 15:01:00 +0000",
-          "description": "Μετά από δύο σχετικά «διστακτικά» χρόνια ανάκαμψης, το 2024 και το 2025, όλα δείχνουν ότι το 2026 ενδέχεται να αποδειχθεί μια ακόμη δύσκολη χρονιά για την παγκόσμια αγορά smartphones — και όχι μόνο. Σύμφωνα με νέες εκτιμήσεις, ο κλάδος κινδυνεύει να επιστρέψει σε αρνητικούς ρυθμούς ανάπτυξης, θυμίζοντας την προβληματική περίοδο 2020–2023. Το πρόβλημα δεν περιορίζεται […]\nThe post Όταν η AI ανεβάζει τις τιμές: Τι φέρνει το 2026 για smartphones, PCs και κονσόλες appeared first on Digital Life.",
-          "thumbnail": null
-        },
-        {
-          "title": "Ο Elon Musk ορκίζεται! Τα ρομπότ της Tesla θα διατίθενται προς πώληση μέσα στο 2026!",
-          "link": "https://www.digitallife.gr/o-elon-musk-orkizetai-ta-robot-tis-tesla-tha-diatithentai-pros-polisi-mesa-sto-2026/",
-          "pubDate": "Fri, 23 Jan 2026 15:00:00 +0000",
-          "description": "Ο Elon Musk ανέβηκε στη σκηνή του World Economic Forum στο Νταβός της Ελβετίας και έκανε μία ακόμη εντυπωσιακή ανακοίνωση: τα ανθρωποειδή ρομπότ Optimus της Tesla θα πωλούνται στο κοινό μέχρι το τέλος του 2026. Τα ρομπότ αυτά υπόσχονται να μπορούν να εκτελούν κάθε εργασία που μπορεί να κάνει ένας άνθρωπος — τουλάχιστον θεωρητικά. Όπως […]\nThe post Ο Elon Musk ορκίζεται! Τα ρομπότ της Tesla θα διατίθενται προς πώληση μέσα στο 2026! appeared first on Digital Life.",
-          "thumbnail": null
-        },
-        {
           "title": "W: Η Ευρώπη απαντά στον Elon Musk με μια εναλλακτική πλατφόρμα έναντι του X",
           "link": "https://gr.pcmag.com/social-media-1/51093/w-e-europe-apanta-ston-elon-musk-me-mia-enallaktike-platphorma-enanti-tou-x",
           "pubDate": "Fri, 23 Jan 2026 14:51:32 +0000",
           "description": "Με έδρα τη Σουηδία και υποχρεωτική ταυτοποίηση χρηστών, η νέα πλατφόρμα \"W\" υπόσχεται τέλος στην παραπληροφόρηση και πλήρη ανεξαρτησία από τις ΗΠΑ.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/w/w-emerges-/w-emerges-as-x-alternative-aimed-at-combating-systemic-disin_82hf.jpg"
-        },
-        {
-          "title": "Η σειρά Redmi Note 15 διαθέσιμη στα καταστήματα Vodafone και στο Vodafone eShop",
-          "link": "https://www.digitallife.gr/i-seira-redmi-note-15-diathesimi-sta-katastimata-vodafone-kai-sto-vodafone-eshop-61172/",
-          "pubDate": "Fri, 23 Jan 2026 14:12:51 +0000",
-          "description": "Η νέα σειρά Redmi Note 15 είναι διαθέσιμη στα καταστήματα Vodafone και στο Vodafone eShop, και φέρνει αναβαθμισμένο σχεδιασμό, ισχυρές επιδόσεις και κορυφαία χαρακτηριστικά σε κάθε κατηγορία. Η σειρά περιλαμβάνει δύο μοντέλα στην κλασική έκδοση, δύο στη σειρά Pro και το κορυφαίο Redmi Note 15 Pro+, καλύπτοντας ένα ευρύ φάσμα αναγκών. Η φετινή σειρά Redmi […]\nThe post Η σειρά Redmi Note 15 διαθέσιμη στα καταστήματα Vodafone και στο Vodafone eShop appeared first on Digital Life.",
-          "thumbnail": null
         },
         {
           "title": "GameStop: Τέλος στο σφάλμα «άπειρου χρήματος» με το Nintendo Switch 2",
@@ -1138,25 +1117,11 @@
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/g/gamestop-s/gamestop-shuts-down-infinite-money-trade-in-glitch_zy2r.jpg"
         },
         {
-          "title": "Επιστρέφει το Windows Phone; Android, Linux και Windows 11 σε ένα κινητό",
-          "link": "https://www.digitallife.gr/epistrefei-to-windows-phone-android-linux-kai-windows-11-se-ena-kinito-38609/",
-          "pubDate": "Fri, 23 Jan 2026 14:00:25 +0000",
-          "description": "Σχεδόν δέκα χρόνια μετά την κυκλοφορία του τελευταίου Windows Phone, μια νέα συσκευή υπόσχεται να φέρει ξανά τον αέρα των κινητών της Microsoft. Το NexPhone, που αναμένεται να κυκλοφορήσει αργότερα φέτος, λειτουργεί με Android 16, Linux και Windows 11, προσφέροντας την ευελιξία ενός smartphone αλλά και ενός υπολογιστή μέσα από μία συσκευή. Το NexPhone έχει […]\nThe post Επιστρέφει το Windows Phone; Android, Linux και Windows 11 σε ένα κινητό appeared first on Digital Life.",
-          "thumbnail": null
-        },
-        {
           "title": "Ryanair vs Elon Musk: Πώς ο \"πόλεμος\" για το Starlink αύξησε τις πωλήσεις εισιτηρίων",
           "link": "https://gr.pcmag.com/old-travel/51090/ryanair-vs-elon-musk-pos-o-polemos-gia-to-starlink-auxese-tis-poleseis-eisiterion",
           "pubDate": "Fri, 23 Jan 2026 13:51:06 +0000",
           "description": "Ο Michael O’Leary τρολάρει τον Musk με προσφορές για \"ηλίθιους\" και απορρίπτει το δορυφορικό internet λόγω κόστους καυσίμων, παρά τις απειλές για εξαγορά.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/r/ryanair-ce/ryanair-ceo-to-elon-musk-thanks-this-starlink-feud-gave-us-a_p7b8.jpg"
-        },
-        {
-          "title": "Παρουσίαση των έξυπνων γυαλιών Mijia Smart Audio Glasses, που συνδυάζουν στυλ και πρακτικότητα",
-          "link": "https://www.digitallife.gr/parousiasi-ton-exypnon-gyalion-mijia-smart-audio-glasses-pou-syndyazoun-styl-kai-praktikotita-15583/",
-          "pubDate": "Fri, 23 Jan 2026 13:34:29 +0000",
-          "description": "Παράλληλα με την κυκλοφορία της σειράς REDMI Note 15, η Xiaomi πρόσθεσε στη σειρά προϊόντων της τα νέα ακουστικά γυαλιά, Mijia Smart Audio Glasses. Συνδυάζοντας το διαχρονικό σχεδιασμό των γυαλιών με την τεχνολογία ανοιχτού αυτιού (open-ear audio technology), τα γυαλιά της Xiaomi διαθέτουν ένα σύστημα ηχείων και 4 ενσωματωμένα μικρόφωνα. Αυτό επιτρέπει στους χρήστες να […]\nThe post Παρουσίαση των έξυπνων γυαλιών Mijia Smart Audio Glasses, που συνδυάζουν στυλ και πρακτικότητα appeared first on Digital Life.",
-          "thumbnail": null
         },
         {
           "title": "Ιπτάμενο αεροπλανοφόρο 120.000 τόνων; Το φιλόδοξο σχέδιο της Κίνας που σοκάρει τη Δύση",
@@ -1215,20 +1180,6 @@
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/redmi-note-15-series-greece.jpg"
         },
         {
-          "title": "Η Nova πρωταγωνιστεί και στα Oscars 2026",
-          "link": "https://www.digitallife.gr/i-nova-protagonistei-kai-sta-oscars-2026/",
-          "pubDate": "Fri, 23 Jan 2026 12:09:48 +0000",
-          "description": ". Η Nova, συνεχίζει να πρωταγωνιστεί στα μεγαλύτερα διεθνή βραβεία, αποσπώντας 38 υποψηφιότητες σε όλες τις Premium Κατηγορίες των φετινών “Oscars 2026” για ταινίες που θα προβληθούν αποκλειστικά από τα κανάλια της, τα Novacinema, τον απόλυτο κινηματογραφικό προορισμό! Η ταινία «Sentimental Value» συγκέντρωσε 9 υποψηφιότητες, μεταξύ των οποίων: Καλύτερη Ταινία, Καλύτερη Σκηνοθεσία, Καλύτερο Πρωτότυπο Σενάριο, […]\nThe post Η Nova πρωταγωνιστεί και στα Oscars 2026 appeared first on Digital Life.",
-          "thumbnail": null
-        },
-        {
-          "title": "Ρεκόρ και ανατροπές στα Όσκαρ 2026 – Τι δείχνουν οι φετινές υποψηφιότητες",
-          "link": "https://www.digitallife.gr/rekor-kai-anatropes-sta-oskar-2026-ti-deichnoun-oi-fetines-ypopsifiotites-87917/",
-          "pubDate": "Fri, 23 Jan 2026 12:00:56 +0000",
-          "description": "Η ανακοίνωση των φετινών υποψηφιοτήτων για τα Όσκαρ άνοιξε και επίσημα μια επτά εβδομάδων περίοδο συζητήσεων, διαφωνιών και προβλέψεων, με την τελετή απονομής να έχει οριστεί για τις 15 Μαρτίου. Όπως κάθε χρόνο, οι λίστες των υποψηφιοτήτων δεν άφησαν κανέναν αδιάφορο, επιβεβαιώνοντας τάσεις αλλά και δημιουργώντας νέες απορίες για τις τελικές επιλογές της Ακαδημίας. Αδιαμφισβήτητος […]\nThe post Ρεκόρ και ανατροπές στα Όσκαρ 2026 – Τι δείχνουν οι φετινές υποψηφιότητες appeared first on Digital Life.",
-          "thumbnail": null
-        },
-        {
           "title": "Αυτά είναι τα νέα πικάπ της Sony",
           "link": "https://www.techgear.gr/ayta-einai-ta-nea-pikap-tis-sony-47297",
           "pubDate": "Fri, 23 Jan 2026 13:57:00 +0200",
@@ -1248,13 +1199,6 @@
           "pubDate": "Fri, 23 Jan 2026 13:06:00 +0200",
           "description": "Η AOC εμπλουτίζει την πολυδιάστατη σειρά B3 με δύο νέες οθόνες QHD, σχεδιασμένες για απαιτητικούς χρήστες. Τα μοντέλα Q24B36X 23,8 ιντσών (60,5 εκ) ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/aoc-q27b36x-1.jpg"
-        },
-        {
-          "title": "Τέρμα τα γκάζια στο Τόκιο! Ημερομηνία κυκλοφορίας και λεπτομέρειες για το Forza Horizon 6",
-          "link": "https://www.digitallife.gr/terma-ta-gkazia-sto-tokio-imerominia-kykloforias-kai-leptomereies-gia-to-forza-horizon-6-18634/",
-          "pubDate": "Fri, 23 Jan 2026 11:00:36 +0000",
-          "description": "Το Forza Horizon 6 ετοιμάζεται να ανεβάσει στροφές και να ταξιδέψει για πρώτη φορά την επιτυχημένη racing σειρά στην Ιαπωνία, με φόντο τους φωτισμένους δρόμους του Τόκιο και τα ποικίλα φυσικά τοπία της χώρας. Η Playground Games επιβεβαίωσε ότι το παιχνίδι θα κυκλοφορήσει στις 19 Μαΐου για Xbox Series X/S, PC και Xbox Cloud Gaming, […]\nThe post Τέρμα τα γκάζια στο Τόκιο! Ημερομηνία κυκλοφορίας και λεπτομέρειες για το Forza Horizon 6 appeared first on Digital Life.",
-          "thumbnail": null
         },
         {
           "title": "Χωρίς ανθρώπους, χωρίς φώτα: Ένα αυτοκίνητο κάθε 76 δευτερόλεπτα στα «σκοτεινά» εργοστάσια της Κίνας!",
@@ -1285,18 +1229,74 @@
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/android-malware.jpg"
         },
         {
-          "title": "Το Fable επιστρέφει: 11 λεπτά gameplay και όλα όσα μάθαμε για το μεγάλο reboot",
-          "link": "https://www.digitallife.gr/to-fable-epistrefei-11-lepta-gameplay-kai-ola-osa-mathame-gia-to-megalo-reboot-56265/",
-          "pubDate": "Fri, 23 Jan 2026 09:59:16 +0000",
-          "description": "Ύστερα από σχεδόν μισή δεκαετία αναμονής, η Microsoft παρουσίασε επιτέλους ένα εκτεταμένο preview του πολυαναμενόμενου reboot του Fable, ενός από τα πιο αγαπημένα RPG franchises της. Κατά τη διάρκεια του πρόσφατου Developer Direct showcase, η Playground Games —γνωστή κυρίως από τη σειρά Forza Horizon— αποκάλυψε σχεδόν 11 λεπτά gameplay και σχολιασμού, δίνοντας μια πιο ξεκάθαρη […]\nThe post Το Fable επιστρέφει: 11 λεπτά gameplay και όλα όσα μάθαμε για το μεγάλο reboot appeared first on Digital Life.",
-          "thumbnail": null
+          "title": "Πώς το 1Password σε σώζει από το ίδιο σου το λάθος όταν βιάζεσαι να συνδεθείς",
+          "link": "https://www.techgear.gr/pos-to-1password-se-sozei-apo-to-idio-soy-to-lathos-otan-viazesai-na-syndetheis-47290",
+          "pubDate": "Fri, 23 Jan 2026 07:37:00 +0200",
+          "description": "Στον διαρκή πόλεμο της κυβερνοασφάλειας, ο πιο αδύναμος κρίκος παραμένει συχνά ο ανθρώπινος παράγοντας. Ενώ οι αλγόριθμοι κρυπτογράφησης γίνονται όλο ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/1password-ai-anti-phishing.jpg"
         },
         {
-          "title": "“Ριφιφί”: Έρχεται στην τηλεόραση! Δες ποιο κανάλι θα το δείξει!",
-          "link": "https://www.digitallife.gr/rififi-erchetai-stin-tileorasi-des-poio-kanali-tha-to-deixei-91413/",
-          "pubDate": "Fri, 23 Jan 2026 09:30:01 +0000",
-          "description": "Το “Ριφιφί” δεν είναι άλλη μια σειρά στη λίστα του scrolling. Είναι το τηλεοπτικό talk-of-the-town που κατάφερε να σπάσει τα στεγανά της συνδρομητικής τηλεόρασης και να μετατραπεί σε κοινωνικό φαινόμενο. Μετά την σαρωτική επιτυχία στην Cosmote TV, η δημιουργία του Σωτήρη Τσαφούλια ετοιμάζεται για το “μεγάλο άλμα” στην συχνότητα του ALPHA, αποδεικνύοντας ότι η ποιότητα […]\nThe post “Ριφιφί”: Έρχεται στην τηλεόραση! Δες ποιο κανάλι θα το δείξει! appeared first on Digital Life.",
-          "thumbnail": null
+          "title": "Γιατί η Epic Games δίνει 800 εκατομμύρια στον «εχθρό» της; Η αποκάλυψη που «σόκαρε» τον δικαστή",
+          "link": "https://www.techgear.gr/giati-i-epic-games-dinei-800-ekatommyria-ston-echthro-tis-i-apokalypsi-poy-sokare-ton-dikasti-47289",
+          "pubDate": "Fri, 23 Jan 2026 07:31:00 +0200",
+          "description": "Η Κρυφή Συμφωνία των 800 Εκατομμυρίων: Η Αναπάντεχη Συμμαχία Google και Epic Games που Αλλάζει τα Δεδομένα\nΣε μια εντυπωσιακή τροπή των γεγονότων που ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/google-epic-games.jpg"
+        },
+        {
+          "title": "TikTok: Κλείδωσε η ιστορική συμφωνία – Ποιοι είναι οι νέοι ιδιοκτήτες του αμερικανικού βραχίονα",
+          "link": "https://www.techgear.gr/tiktok-kleidose-i-istoriki-symfonia-poioi-einai-oi-neoi-idioktites-toy-amerikanikoy-vrachiona-47288",
+          "pubDate": "Fri, 23 Jan 2026 07:22:00 +0200",
+          "description": "Λευκός καπνός βγήκε τελικά από τις πολύμηνες διαπραγματεύσεις για την τύχη του TikTok στις Ηνωμένες Πολιτείες, με την ByteDance να προχωρά στην ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/tiktok-deal-final.jpg"
+        },
+        {
+          "title": "Masters of the Universe: Πρώτο trailer για τη live-action επιστροφή του He-Man",
+          "link": "https://www.techgear.gr/masters-of-the-universe-proto-trailer-gia-ti-live-action-epistrofi-toy-he-man-47287",
+          "pubDate": "Fri, 23 Jan 2026 07:16:00 +0200",
+          "description": "Η αναμονή για τους λάτρεις της Ετέρνια έφτασε στο τέλος της. Η Amazon MGM Studios έδωσε στη δημοσιότητα το πρώτο trailer για την πολυαναμενόμενη ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/he-man-live-action-trailer.jpg"
+        },
+        {
+          "title": "Ρομπότ με «ανθρώπινη» αίσθηση: Πώς η στατιστική νικά τα Big Data στην κίνηση",
+          "link": "https://www.techgear.gr/rompot-me-anthropini-aisthisi-pos-i-statistiki-nika-ta-big-data-stin-kinisi-47286",
+          "pubDate": "Fri, 23 Jan 2026 07:09:00 +0200",
+          "description": "Η ικανότητα των ρομπότ να μιμούνται την ανθρώπινη κίνηση αποτελεί εδώ και δεκαετίες ένα από τα πιο απαιτητικά πεδία έρευνας στη μηχανική. Ενώ οι ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/robot-handing-object.jpg"
+        },
+        {
+          "title": "Το Epic Games Store μοιράζει δωρεάν το Grand Theft Auto του... Μεσαίωνα",
+          "link": "https://www.techgear.gr/to-epic-games-store-moirazei-dorean-to-grand-theft-auto-toy-mesaiona-47285",
+          "pubDate": "Thu, 22 Jan 2026 18:47:00 +0200",
+          "description": "Η Πέμπτη έφτασε και, όπως γνωρίζουν καλά οι λάτρεις του PC gaming, αυτό σημαίνει ένα πράγμα: ανανέωση της δωρεάν λίστας στο Epic Games Store. Η ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/rustler.jpg"
+        },
+        {
+          "title": "TeraWave: Η Blue Origin του Jeff Bezos «απαντά» στο Starlink με ταχύτητες-μαμούθ 6 Tbps",
+          "link": "https://gr.pcmag.com/networking/51088/terawave-e-blue-origin-tou-jeff-bezos-apanta-sto-starlink-me-takhutetes-mamouth-6-tbps",
+          "pubDate": "Thu, 22 Jan 2026 13:51:10 +0000",
+          "description": "Το νέο δορυφορικό δίκτυο χρησιμοποιεί τεχνολογία λέιζερ και στοχεύει αποκλειστικά σε επιχειρήσεις και κυβερνήσεις, αφήνοντας πίσω τον ανταγωνισμό σε χωρητικότητα.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/b/blue-origi/blue-origin-plans-a-faster-starlink-competitor-with-terawave_y6tg.jpg"
+        },
+        {
+          "title": "Το Gemini γίνεται ο προσωπικός σου καθηγητής: Δωρεάν τεστ προετοιμασίας SAT από την Google",
+          "link": "https://gr.pcmag.com/education/51087/to-gemini-ginetai-o-prosopikos-sou-kathegetes-dorean-test-proetoimasias-sat-apo-ten-google",
+          "pubDate": "Thu, 22 Jan 2026 13:18:26 +0000",
+          "description": "Με ερωτήσεις εγκεκριμένες από το Princeton Review και ειδικό περιβάλλον εξετάσεων, η AI της Google σε προετοιμάζει για εισαγωγή στα πανεπιστήμια των ΗΠΑ.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/p/prepping-f/prepping-for-the-sats-want-to-test-your-skills-ask-gemini-fo_tkxn.jpg"
+        },
+        {
+          "title": "Pwn2Own Automotive 2026: Χάκαραν το infotainment της Tesla σε λίγα δευτερόλεπτα",
+          "link": "https://gr.pcmag.com/security/51086/pwn2own-automotive-2026-khakaran-to-infotainment-tes-tesla-se-liga-deuterolepta",
+          "pubDate": "Thu, 22 Jan 2026 13:01:28 +0000",
+          "description": "Ερευνητές ασφαλείας στο Τόκιο κέρδισαν χιλιάδες δολάρια αποκαλύπτοντας zero-day κενά ασφαλείας σε Tesla, Sony και έξυπνους φορτιστές.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/t/teslas-inf/teslas-infotainment-system-quickly-hacked-at-security-confer_385v.jpg"
+        },
+        {
+          "title": "Starlink 2.0: Η SpaceX φέρνει ταχύτητες 5G στα κινητά το 2027",
+          "link": "https://gr.pcmag.com/mobile-phones/51085/starlink-20-e-spacex-phernei-takhutetes-5g-sta-kineta-to-2027",
+          "pubDate": "Thu, 22 Jan 2026 12:50:24 +0000",
+          "description": "Με 100 φορές μεγαλύτερη χωρητικότητα και 15.000 νέους δορυφόρους, η δεύτερη γενιά του δικτύου κινητής τηλεφωνίας Starlink είναι έτοιμη να φέρει την επανάσταση στις δορυφορικές επικοινωνίες.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/s/spacex-eye/spacex-eyes-2027-for-launch-of-second-gen-cellular-starlink_eyt6.jpg"
         }
       ]
     }
