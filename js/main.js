@@ -73,7 +73,7 @@ async function getNews() {
         // Update cache display
         updateCacheTimeDisplay(newsData.lastUpdated);
         
-        // Start auto-refresh timer (reload every 5 minutes to check for updates)
+        // Start auto-refresh timer (reload every 15 minutes to check for updates)
         if (!autoRefreshInterval && !nextRefreshTime) {
             console.log('🔧 Setting up auto-refresh timer...');
             startAutoRefresh();
@@ -497,30 +497,30 @@ function filterByCategory(categoryKey) {
     }
 }
 
-// Calculate milliseconds until next round 5-minute mark (e.g., 7:05:00, 7:10:00)
+// Calculate milliseconds until next round 15-minute mark (e.g., 7:15:00, 7:30:00, 7:45:00, 8:00:00)
 function getTimeUntilNextRoundInterval() {
     const now = new Date();
     
-    // Clone current time and round UP to next 5-minute mark
+    // Clone current time and round UP to next 15-minute mark
     const next = new Date(now);
     const currentMinutes = next.getMinutes();
     const currentSeconds = next.getSeconds();
     const currentMilliseconds = next.getMilliseconds();
     
-    // Calculate next round minute (0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55)
+    // Calculate next round minute (0, 15, 30, 45)
     let nextRoundMinute;
     
     // If we're at a round minute with 0 seconds, jump to NEXT interval
-    if (currentMinutes % 5 === 0 && currentSeconds === 0 && currentMilliseconds === 0) {
-        nextRoundMinute = currentMinutes + 5;
+    if (currentMinutes % 15 === 0 && currentSeconds === 0 && currentMilliseconds === 0) {
+        nextRoundMinute = currentMinutes + 15;
     }
     // If we're at a round minute but past 0 seconds, jump to next interval
-    else if (currentMinutes % 5 === 0 && (currentSeconds > 0 || currentMilliseconds > 0)) {
-        nextRoundMinute = currentMinutes + 5;
+    else if (currentMinutes % 15 === 0 && (currentSeconds > 0 || currentMilliseconds > 0)) {
+        nextRoundMinute = currentMinutes + 15;
     }
-    // Otherwise, round up to next 5-minute mark
+    // Otherwise, round up to next 15-minute mark
     else {
-        nextRoundMinute = Math.ceil(currentMinutes / 5) * 5;
+        nextRoundMinute = Math.ceil(currentMinutes / 15) * 15;
     }
     
     // Handle hour overflow (e.g., 55 -> 60 becomes next hour at 0)
@@ -547,16 +547,16 @@ function startAutoRefresh() {
         clearInterval(autoRefreshInterval);
     }
     
-    // Calculate time until next "round" 5-minute mark (e.g., 7:05, 7:10, 7:15...)
+    // Calculate time until next "round" 15-minute mark (e.g., 7:15, 7:30, 7:45, 8:00...)
     const msUntilNext = getTimeUntilNextRoundInterval();
     nextRefreshTime = Date.now() + msUntilNext;
     
     const now = new Date();
-    console.log('✅ Auto-refresh configured to sync with clock (every :00, :05, :10, :15, etc.)');
+    console.log('✅ Auto-refresh configured to sync with clock (every :00, :15, :30, :45)');
     console.log(`⏰ Current time: ${now.toLocaleTimeString('el-GR')}`);
     console.log(`⏰ Next refresh at: ${new Date(nextRefreshTime).toLocaleTimeString('el-GR')} (in ${Math.floor(msUntilNext/1000)}s)`);
     
-    // Schedule the first refresh at the next round 5-minute mark
+    // Schedule the first refresh at the next round 15-minute mark
     setTimeout(() => {
         console.log(`🔄 Auto-refresh triggered at ${new Date().toLocaleTimeString('el-GR')}`);
         
@@ -566,13 +566,13 @@ function startAutoRefresh() {
         
         getNews();
         
-        // After the first synchronized refresh, continue every 5 minutes exactly
+        // After the first synchronized refresh, continue every 15 minutes exactly
         autoRefreshInterval = setInterval(() => {
             const nextInterval = getTimeUntilNextRoundInterval();
             nextRefreshTime = Date.now() + nextInterval;
             console.log(`🔄 Auto-refresh triggered at ${new Date().toLocaleTimeString('el-GR')}`);
             getNews();
-        }, 300000); // 5 minutes = 300000ms
+        }, 900000); // 15 minutes = 900000ms
         
     }, msUntilNext);
 }
