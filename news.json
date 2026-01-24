@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T23:05:24.422Z",
+  "lastUpdated": "2026-01-24T23:10:30.174Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -441,6 +441,13 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Εκατοντάδες στο μνημόσυνο για τον Άλεξ Πρέτι, που σκοτώθηκε από συνοριοφύλακα στη Μινεάπολις",
+          "link": "http://gr.euronews.com/video/2026/01/25/hundreds-gathered-at-a-memorial-for-alex-pretti-the-man-who-was-killed-by-a-border-patrol",
+          "pubDate": "Sun, 25 Jan 2026 00:01:39 +0100",
+          "description": "Εκατοντάδες συγκεντρώνονται σε εκδήλωση μνήμης για τον Άλεξ Πρέτι στη Μινεάπολη, για να διαμαρτυρηθούν για τη δολοφονία του.",
+          "thumbnail": null
+        },
+        {
           "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
           "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Jan 2026 22:10:33 GMT",
@@ -642,13 +649,6 @@
           "pubDate": "Sat, 24 Jan 2026 08:01:15 +0100",
           "description": "Η άγνοια σχετικά με το τι είναι η ψώρα και πώς αντιμετωπίζεται ενδέχεται να βρίσκεται πίσω από την αιφνίδια αύξηση κρουσμάτων στο Ηνωμένο Βασίλειο, σύμφωνα με ειδικούς.",
           "thumbnail": null
-        },
-        {
-          "title": "Η κυριαρχία στην τεχνητή νοημοσύνη απαιτεί συνεργασίες, όχι απομόνωση, λέει ο επικεφαλής ΤΝ του WEF",
-          "link": "http://gr.euronews.com/next/2026/01/24/ai-sovereignty-requires-partnerships-not-isolation-says-the-world-economic-forums-ai-chief",
-          "pubDate": "Sat, 24 Jan 2026 08:00:03 +0100",
-          "description": "Η τεχνητή νοημοσύνη ήταν κεντρικό θέμα στο Νταβός. Ο επικεφαλής τεχνητής νοημοσύνης του Παγκόσμιου Οικονομικού Φόρουμ μιλά στο Euronews Next για τα επείγοντα ζητήματα.",
-          "thumbnail": null
         }
       ]
     },
@@ -660,7 +660,7 @@
           "title": "Μαρσέιγ - Λανς 3-1: Δώρο από τους Μασσαλούς στην Παρί",
           "link": "https://www.gazzetta.gr/football/ligue-1/2509896/marseig-lans-3-1-doro-apo-toys-massaloys-stin-pari",
           "pubDate": "Sun, 25 Jan 2026 00:05:45 +0200",
-          "description": "Η Μαρσέιγ έβαλε φρένο στης Λανς, καθώς επικράτησε με 3-1, την άφησε στη δεύτερη θέση της βαθμολογίας, κάτω από την Παρί Σεν Ζερμέν.",
+          "description": "Η Μαρσέιγ έβαλε φρένο στης Λανς, καθώς επικράτησε με 3-1 και την έριξε στη δεύτερη θέση της βαθμολογίας, κάτω από την Παρί Σεν Ζερμέν.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/marseille_nwaneri.jpg?itok=qykIc3X7"
         },
         {
