@@ -1,9 +1,9 @@
 name: Update News Feed
 
 on:
-  # Run every 15 minutes (safer for free tier: ~1,440 min/month vs 2,000 limit)
+  # Run every 5 minutes (testing - will activate cron, then change back to */15)
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
   
   # Allow manual trigger
   workflow_dispatch:
