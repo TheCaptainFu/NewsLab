@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T18:15:53.240Z",
+  "lastUpdated": "2026-01-24T18:56:03.723Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,18 +9,67 @@
       "color": "red",
       "articles": [
         {
+          "title": "Σορός σε προχωρημένη σήψη εντοπίστηκε στην Αίγινα",
+          "link": "https://www.newsit.gr/ellada/soros-se-proxorimeni-sipsi-entopistike-stin-aigina/4582662/",
+          "pubDate": "Sat, 24 Jan 2026 18:50:37 +0000",
+          "description": "Θρίλερ με σορό που εντοπίστηκε στην Αίγινα νωρίτερα το Σάββατο (24.01.2026). Πρόκειται για σορό αγνώστων στοιχείων, που εντοπίστηκε σε προχωρημένη σήψη, στη βραχώδη ακτή στην ...  \nTo άρθρο Σορός σε προχωρημένη σήψη εντοπίστηκε στην Αίγινα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/limeniko-6.jpg"
+        },
+        {
+          "title": "Σορός σε προχωρημένη σήψη εντοπίστηκε στη Σουβάλα της Αίγινας",
+          "link": "https://www.protothema.gr/greece/article/1762836/soros-se-prohorimeni-sipsi-edopistik-sti-souvala-tis-aiginas/?utm_source=rss",
+          "pubDate": "Sat, 24 Jan 2026 20:44:00 +0200",
+          "description": "Η σορός βρέθηκε σε βραχώδη περιοχή ενώ για τη περισυλλογή της χρειάστηκε η συνδρομή της Πυροσβεστικής",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-24/maketa-limeniko.jpg"
+        },
+        {
+          "title": "Αστέρας Τρίπολης – ΑΕΚ: Το φοβερό γκολ του Γιόβιτς για το 1-0 της Ένωσης",
+          "link": "https://www.newsit.gr/athlitika/asteras-tripolis-aek-to-fovero-gkol-tou-giovits-gia-to-1-0-tis-enosis/4582653/",
+          "pubDate": "Sat, 24 Jan 2026 18:39:02 +0000",
+          "description": "Η ΑΕΚ κοντράρεται με τον Αστέρα Τρίπολης για τη 18η αγωνιστική της Super League και ο Λούκα Γιόβιτς άνοιξε το σκορ στην αναμέτρηση, με ένα φοβερό ...  \nTo άρθρο Αστέρας Τρίπολης – ΑΕΚ: Το φοβερό γκολ του Γιόβιτς για το 1-0 της Ένωσης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-5-1200x800.jpg"
+        },
+        {
+          "title": "Ιράν: Νέα σενάρια αμερικανικής επίθεσης – «Σε υπόγειο καταφύγιο στην Τεχεράνη ο Χαμενεΐ» λένε ιρανικά μέσα ενημέρωσης",
+          "link": "https://www.newsit.gr/kosmos/iran-nea-senaria-amerikanikis-epithesis-se-ypogeio-katafygio-stin-texerani-o-xamenei-lene-iranika-mesa-enimerosis/4582652/",
+          "pubDate": "Sat, 24 Jan 2026 18:34:10 +0000",
+          "description": "Τη στιγμή που τα πολεμικά πλοία των ΗΠΑ οδεύουν προς τον Περσικό Κόλπο, το Ιράν απειλεί με γενικευμένη σύρραξη. Η αμερικανική αρμάδα, με επικεφαλής το ...  \nTo άρθρο Ιράν: Νέα σενάρια αμερικανικής επίθεσης – «Σε υπόγειο καταφύγιο στην Τεχεράνη ο Χαμενεΐ» λένε ιρανικά μέσα ενημέρωσης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iran-missiles-reuters-1-1200x800.jpg"
+        },
+        {
+          "title": "Μίλτος Τεντόγλου: Ντεμπούτο καριέρας με άλμα στα 8,25 μέτρα",
+          "link": "https://www.newsit.gr/athlitika/miltos-tentoglou-ntempouto-karieras-me-alma-sta-8-25-metra/4582650/",
+          "pubDate": "Sat, 24 Jan 2026 18:33:52 +0000",
+          "description": "Ο Μίλτος Τεντόγλου έκανε ντεμπούτο στη σεζόν, στην ημερίδα κλειστού της Παιανίας, με άλμα στα 8,25 μ. και κατέγραψε το καλύτερο ξεκίνημα του στη χειμερινή ...  \nTo άρθρο Μίλτος Τεντόγλου: Ντεμπούτο καριέρας με άλμα στα 8,25 μέτρα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/08/tentoglou-2-1200x800.jpg"
+        },
+        {
+          "title": "Λήστεψαν ηλικιωμένο μέσα σε τροχόσπιτο στη Λαμία, τον τραυμάτισαν μόλις τους αντιλήφθηκε\n",
+          "link": "https://www.protothema.gr/greece/article/1762830/listepsan-ilikiomeno-mesa-se-trohospito-stin-lamia-ton-traumatisan-molis-tous-adilifthike/?utm_source=rss",
+          "pubDate": "Sat, 24 Jan 2026 20:32:56 +0200",
+          "description": "Όταν το θύμα αντιλήφθηκε την κλοπή ένας από τους δράστες τον απώθησε βίαια, με αποτέλεσμα να πέσει στο έδαφος και να τραυματιστεί",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-24/astynomia-eparxia-mak.jpg"
+        },
+        {
+          "title": "Μεντιλίμπαρ μετά το Ολυμπιακός – Βόλος: «Να παίξουμε καλύτερα κόντρα στον Άγιαξ – Προσπάθησε ο Σιπιόνι»",
+          "link": "https://www.newsit.gr/athlitika/mentilimpar-meta-to-olympiakos-volos-na-paiksoume-kalytera-kontra-ston-agiaks-prospathise-o-sipioni/4582645/",
+          "pubDate": "Sat, 24 Jan 2026 18:27:54 +0000",
+          "description": "Ο Ολυμπιακός νίκησε με 1-0 το Βόλο για τη 18η αγωνιστική της Super League, αλλά ο Χοσέ Λουίς Μεντιλίμπαρ δεν ήταν ικανοποιημένος από την εικόνα της ...  \nTo άρθρο Μεντιλίμπαρ μετά το Ολυμπιακός – Βόλος: «Να παίξουμε καλύτερα κόντρα στον Άγιαξ – Προσπάθησε ο Σιπιόνι» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/medilibar-4-1200x800.jpg"
+        },
+        {
+          "title": "Έκρηξη στη ντισκοτέκ Jacky.O: Βίντεο ντοκουμέντα με τον βομβιστή να τοποθετεί τον εκρηκτικό μηχανισμό στην είσοδο",
+          "link": "https://www.newsit.gr/ellada/ekriksi-sti-ntiskotek-jacky-o-vinteo-ntokoumenta-me-ton-vomvisti-na-topothetei-ton-ekriktiko-mixanismo-stin-eisodo/4582632/",
+          "pubDate": "Sat, 24 Jan 2026 18:23:11 +0000",
+          "description": "Νέο βίντεο ντοκουμέντο από το μοιραίο βράδυ της 7ης Οκτωβρίου 2025, όταν σημειώθηκε η έκρηξη έξω από τη γνωστή ντισκοτέκ Jacky.O, φέρνει στο «φως» το ...  \nTo άρθρο Έκρηξη στη ντισκοτέκ Jacky.O: Βίντεο ντοκουμέντα με τον βομβιστή να τοποθετεί τον εκρηκτικό μηχανισμό στην είσοδο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jacky-o-bomb-1200x671.jpg"
+        },
+        {
           "title": "Κάηκε ολοσχερώς σπίτι στη Φθιώτιδα, την τελευταία στιγμή σώθηκε ηλικιωμένη \n",
           "link": "https://www.protothema.gr/greece/article/1762820/diadilosi-sta-tirana-me-aitima-tin-paraitisi-tou-edi-rama/?utm_source=rss",
           "pubDate": "Sat, 24 Jan 2026 20:15:43 +0200",
           "description": "Στο σημείο έσπευσαν αστυνομία, πυροσβεστική και ασθενοφόρο του ΕΚΑΒ",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-24/kameno-spiti-ekso.jpg"
-        },
-        {
-          "title": "Επιτήδειοι στο Βέλγιο προσπάθησαν να αποσπάσουν μεγάλα χρηματικά ποσά υποδυόμενοι με ΑΙ τον βασιλιά Φίλιππο\n",
-          "link": "https://www.protothema.gr/greece/article/1762826/epitideioi-sto-velgio-prospathisan-na-apospasoun-megala-hrimatika-posa-upoduomenoi-me-ai-ton-vasilia-filippo/?utm_source=rss",
-          "pubDate": "Sat, 24 Jan 2026 20:13:00 +0200",
-          "description": "Οι απατεώνες προσπάθησαν να προσεγγίσουν κύκλους κοντά στην βασιλική οικογένεια του Βελγίου, ξένους αξιωματούχους και επικεφαλής επιχειρήσεων, ενώ τα θύματά τους έβλεπαν σε βιντεοκλήσεις τον βασιλιά της χώρας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-07-21/vasilias_velgiou_filippos.jpg"
         },
         {
           "title": "Μόρνος: «Ανάσα» για τη λίμνη η τελευταία κακοκαιρία – Αυξήθηκαν τα αποθέματα και στο φράγμα Πηνειού",
@@ -44,6 +93,55 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-1200x797.jpg"
         },
         {
+          "title": "Σέρρες: «Η γυναίκα μου έχει ψυχικά προβλήματα, δεν αντέχω και μένω στο υπόγειο » – Ξεσπά ο σύζυγος της καθηγήτριας",
+          "link": "https://www.in.gr/2026/01/24/greece/serres-gynaika-mou-exei-psyxika-provlimata-den-antexo-kai-meno-sto-ypogeio-ksespa-o-syzygos-tis-kathigitrias/",
+          "pubDate": "Sat, 24 Jan 2026 20:51:23 +0300",
+          "description": "«Έπαιρνε τα φάρμακά της 16 χρόνια. Το 2022 τα έκοψε και έκτοτε το χάος» υποστηρίζει ο σύζυγος της καθηγήτριας στις Σέρρες που καταδικάστηκε για κακοποίηση μαθητή",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kathigitria-serres-1200x675-768x432.jpg"
+        },
+        {
+          "title": "To brand των γυαλιών ηλίου του Μακρόν κατακλύστηκε από παραγγελίες, έπεσε η σελίδα του – Οι πολιτικοί ως ινφλουένσερ",
+          "link": "https://www.in.gr/2026/01/24/go-fun/style/brand-ton-gyalion-iliou-tou-makron-kataklystike-apo-paraggelies-epese-selida-tou-mia-mi-synithismeni-imera/",
+          "pubDate": "Sat, 24 Jan 2026 20:50:59 +0300",
+          "description": "Στο Νταβός, ο Γάλλος πρόεδρος, Εμανουέλ Μακρόν, φορούσε ένα ζευγάρι γυαλιά ηλίου της Maison Henry Jullien για να καλύψει ένα σπασμένο αιμοφόρο αγγείο στο ένα μάτι του.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-23T130754Z_82389008_RC207JALELUQ_RTRMADP_5_FRANCE-POLITICS-768x512.jpg"
+        },
+        {
+          "title": "Αστέρας Τρίπολης – ΑΕΚ: Το γκολ του Γιόβιτς για το 0-1 – Διαμαρτυρήθηκαν για φάουλ οι Αρκάδες (vid)",
+          "link": "https://www.in.gr/2026/01/24/sports/football/asteras-tripolis-aek-oi-arkades-fonazoun-gia-epithetiko-faoul-prin-to-gkol-tis-enosis-vid/",
+          "pubDate": "Sat, 24 Jan 2026 20:48:34 +0300",
+          "description": "Η ΑΕΚ άνοιξε το σκορ στο 38ο λεπτό της αναμέτρησης στην Τρίπολη, ωστόσο από τον Αστέρα διαμαρτυρήθηκαν έντονα για επιθετικό φάουλ στην αρχή της φάσης πάνω στον Καλτσά.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823947-768x553.jpg"
+        },
+        {
+          "title": "Άγιαξ – Φόλενταμ 2-0: Εύκολη νίκη για τον Αίαντα πριν τον «τελικό» με τον Ολυμπιακό",
+          "link": "https://www.in.gr/2026/01/24/sports/football/agiaks-folentam-2-0-eykoli-niki-gia-ton-aianta-prin-ton-teliko-ton-olympiako/",
+          "pubDate": "Sat, 24 Jan 2026 20:44:36 +0300",
+          "description": "Ο Άγιαξ επικράτησε με 2-0 της Φόλενταμ για την Eredivisie και πλέον στρέφει το βλέμμα του στο ματς της τελευταίας αγωνιστικής του Champions League με αντίπαλο τον Ολυμπιακό.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/hl-volendam-ajax-e1769276118574-768x432.jpg"
+        },
+        {
+          "title": "Δούρου προς Μητσοτάκη: Κρείττον του λαλείν το σιγάν κ. πρωθυπουργέ",
+          "link": "https://www.in.gr/2026/01/24/politics/politiki-grammateia/dourou-pros-mitsotaki-kreitton-tou-lalein-sigan-k-prothypourge/",
+          "pubDate": "Sat, 24 Jan 2026 20:42:32 +0300",
+          "description": "Τη συνέντευξη του πρωθυπουργού στο Euronews σχολιάζει η τομεάρχης Εξωτερικών του ΣΥΡΙΖΑ, Ρένα Δούρου, τονίζοντας πως έκανε «ασκήσεις υπεκφυγής», αποφεύγοντας το Νταβός",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5324.jpg"
+        },
+        {
+          "title": "Βορίζια: Το περιστατικό που οδήγησε στη μήνυση κατά των γονιών του Φανούρη Καργάκη και τη σύλληψή τους",
+          "link": "https://www.in.gr/2026/01/24/greece/vorizia-peristatiko-pou-odigise-sti-minysi-kata-ton-gonion-tou-fanouri-kargaki-kai-ti-syllipsi-tous/",
+          "pubDate": "Sat, 24 Jan 2026 20:40:22 +0300",
+          "description": "Όπως φαίνεται σε βίντεο – ντοκουμέντο ο πατέρας του Φανούρη Καργάκη εκτόξευσε απειλές εναντίον των μελών της οικογένειας Φραγκιαδάκη.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ChatGPT-Image-24-Ian-2026-07_01_25-m.m.-1-768x571.jpg"
+        },
+        {
+          "title": "Μεντιλίμπαρ: «Σημαντικό να προκριθούν οι ελληνικές ομάδες στις επόμενες φάσεις των ευρωπαϊκών διοργανώσεων»",
+          "link": "https://www.in.gr/2026/01/24/sports/football/mentilimpar-simantiko-na-prokrithoun-oi-ellinikes-omades-stis-epomenes-faseis-ton-eyropaikon-diorganoseon/",
+          "pubDate": "Sat, 24 Jan 2026 20:37:56 +0300",
+          "description": "O Μεντιλίμπαρ στη συνέντευξη Τύπου του αγώνα ρωτήθηκε για το αν θα υπάρξουν μεταγραφικές εξελίξεις τις επόμενες μέρες – Τι είπε για τον «τελικό» με τον Άγιαξ και τις μάχες των ελληνικών ομάδων στις ευρωπαϊκές διοργανώσεις.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823711-768x576.jpg"
+        },
+        {
           "title": "Αστέρας Τρίπολης – ΑΕΚ: Πάνω από 2.000 οπαδοί της Ένωσης στις κερκίδες",
           "link": "https://www.newsit.gr/athlitika/asteras-tripolis-aek-pano-apo-2-000-opadoi-tis-enosis-stis-kerkides/4582614/",
           "pubDate": "Sat, 24 Jan 2026 17:36:02 +0000",
@@ -58,11 +156,32 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos1-24012026.jpg"
         },
         {
+          "title": "Πατήσια: «Μαϊμού» τεχνικός προσπάθησε να εξαπατήσει ηλικιωμένη – Την έσωσε η γειτόνισσά της",
+          "link": "https://www.in.gr/2026/01/24/greece/patisia-maimou-texnikos-prospathise-na-eksapatisei-ilikiomeni-tin-esose-geitonissa-tis/",
+          "pubDate": "Sat, 24 Jan 2026 20:28:10 +0300",
+          "description": "Τα χτυπήματα των συμμοριών, που παριστάνουν τους τεχνικούς και ξαφρίζουν περιουσίες από σπίτια είναι συνεχή, με τις Αρχές να καλούν τους πολίτες να είναι ιδιαίτερα προσεκτικοί.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/apar_oou.jpg"
+        },
+        {
+          "title": "«Φουντώνουν» τα σενάρια αμερικανικής επίθεσης στο Ιράν – Άφαντος ο Χαμενεΐ",
+          "link": "https://www.in.gr/2026/01/24/world/fountonoun-ta-senaria-amerikanikis-epithesis-sto-iran-afantos-o-xamenei/",
+          "pubDate": "Sat, 24 Jan 2026 20:24:24 +0300",
+          "description": "«Οποιαδήποτε επίθεση θα θεωρηθεί κήρυξη ολοκληρωτικού πολέμου», απαντά το Ιράν στις δηλώσεις Τραμπ ότι αναπτύσσεται αρμάδα με αεροπλανοφόρο και αντιτορπιλικά στην περιοχή",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/IRAN-USA-NAVY-768x544.jpg"
+        },
+        {
           "title": "Αστέρας Τρίπολης – ΑΕΚ live για την 18η αγωνιστική της Super League",
           "link": "https://www.newsit.gr/athlitika/asteras-tripolis-aek-live-gia-tin-18i-agonistiki-tis-super-league/4582597/",
           "pubDate": "Sat, 24 Jan 2026 17:18:46 +0000",
           "description": "Παρακολουθήστε live την αναμέτρηση της ΑΕΚ με τον Αστέρα στην Τρίπολη για την 18η αγωνιστική της Super League.\nTo άρθρο Αστέρας Τρίπολης – ΑΕΚ live για την 18η αγωνιστική της Super League δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-aek-3-1200x800.jpg"
+        },
+        {
+          "title": "Καιρός: Έρχονται ισχυροί νοτιάδες που φέρνουν βροχές, καταιγίδες και ομίχλες",
+          "link": "https://www.in.gr/2026/01/24/greece/kairos-erxontai-isxyroi-notiades-pou-fernoun-vroxes-kataigides-kai-omixles/",
+          "pubDate": "Sat, 24 Jan 2026 20:18:28 +0300",
+          "description": "Βροχερός γίνεται από αύριο ο καιρός με νοτιάδες και άνοδο της θερμοκρασίας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/vroxes_252863_160893_type13262-1-1-768x432.jpg"
         },
         {
           "title": "Premier League: Επιστροφή στις νίκες για τη Μάντσεστερ Σίτι, ήττα με ανατροπή για την Μπράιτον του Κωστούλα",
@@ -79,17 +198,17 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/stratos-tzortzogloy-1ndp-1200x764.jpg"
         },
         {
-          "title": "Προμηθέας – Άρης Betsson 97-103: Με 4άδα «φωτιά» και «κλειδί» τον Αντετοκούνμπο (vid)",
+          "title": "Προμηθέας Πάτρας – Άρης Betsson 97-103: Με 4άδα «φωτιά» και «κλειδί» τον Αντετοκούνμπο (vid)",
           "link": "https://www.in.gr/2026/01/24/sports/basketball/promitheas-aris-betsson-97-103-piran-ti-matsara-oi-filoksenoumenoi-me-4ada-fotia/",
           "pubDate": "Sat, 24 Jan 2026 20:13:04 +0300",
           "description": "Ο Άρης Betsson άντεξε στη φθορά των φάουλ (έχασε τρεις παίκτες με 5) και με τέσσερις διψήφιους, αλλά και καθοριστικό τον Κώστα Αντετοκούνμπο (11ριμπ., 3 τάπες) πήρε μεγάλη νίκη με 103-97 στην Πάτρα.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823323-768x552.jpg"
         },
         {
-          "title": "Βίντεο με πράκτορες της ICE να πυροβολούν πολίτη στη Μινεάπολη: Το δεύτερο θύμα μετά την 37χρονη στις ΗΠΑ –  Σκληρές εικόνες",
-          "link": "https://www.newsit.gr/kosmos/vinteo-me-praktores-tis-ice-na-pyrovoloun-politi-sti-mineapoli-to-deytero-thyma-meta-tin-37xroni-stis-ipa-sklires-eikones/4582591/",
+          "title": "Πράκτορες της ICE πυροβόλησαν θανάσιμα 37χρονο πολίτη στη Μινεάπολη: Το δεύτερο θύμα μετά την γυναίκα με αναπηρία –  Σκληρές εικόνες",
+          "link": "https://www.newsit.gr/kosmos/praktores-tis-ice-pyrovolisan-thanasima-37xrono-politi-sti-mineapoli-to-deytero-thyma-meta-tin-gynaika-me-anapiria-sklires-eikones/4582591/",
           "pubDate": "Sat, 24 Jan 2026 17:11:43 +0000",
-          "description": "Ακόμη έναν άνθρωπο πυροβόλησαν οι ομοσπονδιακοί πράκτορες στη Μινεάπολη των ΗΠΑ το Σάββατο (24.01.2026),  όπως ανακοίνωσε ο κυβερνήτης της Μινεσότα, Τιμ Γουόλτς, ζητώντας να σταματήσουν ...  \nTo άρθρο Βίντεο με πράκτορες της ICE να πυροβολούν πολίτη στη Μινεάπολη: Το δεύτερο θύμα μετά την 37χρονη στις ΗΠΑ –  Σκληρές εικόνες δημοσιεύτηκε στο NewsIT .",
+          "description": "Ακόμη έναν άνθρωπο πυροβόλησαν οι ομοσπονδιακοί πράκτορες στη Μινεάπολη των ΗΠΑ το Σάββατο (24.01.2026),  όπως ανακοίνωσε ο κυβερνήτης της Μινεσότα, Τιμ Γουόλτς, ζητώντας να σταματήσουν ...  \nTo άρθρο Πράκτορες της ICE πυροβόλησαν θανάσιμα 37χρονο πολίτη στη Μινεάπολη: Το δεύτερο θύμα μετά την γυναίκα με αναπηρία –  Σκληρές εικόνες δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/minnesota-minneapolis-dead-usa1.jpg"
         },
         {
@@ -98,125 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 17:09:23 +0000",
           "description": "Το μυστικό όπλο που χρησιμοποίησαν οι ΗΠΑ στη Βενεζουέλα για να περάσουν χειροπέδες στον Νικολάς Μαδούρο αποκαλύπτει ο Ντόναλντ Τραμπ. Σε συνέντευξη που παραχώρησε το ...  \nTo άρθρο «The Discombobulator»: Ο Τραμπ αποκαλύπτει τον μυστικό «Αποσυντονιστή» που χρησιμοποιήθηκε για να συλληφθεί ο Μαδούρο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/maduro-2-3-1200x675-1.jpg"
-        },
-        {
-          "title": "Η φύση είχε τον τελευταίο λόγο: Αναβολή για το «Skyscraper Live» με τον Άλεξ Χόνολντ – Πότε θα σκαρφαλώσει τελικά",
-          "link": "https://www.in.gr/2026/01/24/life/culture-live/fysi-eixe-ton-teleytaio-logo-anavoli-gia-skyscraper-live-ton-aleks-xonolnt-pote-tha-skarfalosei-telika/",
-          "pubDate": "Sat, 24 Jan 2026 20:00:39 +0300",
-          "description": "Η ζωντανή ανάβαση του Άλεξ Χόνολντ στον ουρανοξύστη Taipei 101 για το «Skyscraper Live» του Netflix αναβλήθηκε λόγω βροχής. Τι δήλωσε ο ίδιος λέει γαι την αμοιβή του",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/On-January-23-I’ll-be-free-soloing-Taipei-101-in-Taiwan.-It’s-been-a-long-time-goal-of-mine-and-1-768x505.jpg"
-        },
-        {
-          "title": "Ο Γκουαρντιόλα αποθέωσε την δουλειά του Αρτέτα στην Άρσεναλ",
-          "link": "https://www.in.gr/2026/01/24/sports/on-field/o-gkouarntiola-apotheose-tin-douleia-tou-arteta-stin-arsenal/",
-          "pubDate": "Sat, 24 Jan 2026 20:00:12 +0300",
-          "description": "Ο προπονητής της Σίτι εκθείασε τον κόουτς της Άρσεναλ και χαρακτήρισε τους «κανονιέρηδες», κορυφαία ομάδα του κόσμου",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/w07-17234712506320.jpg"
-        },
-        {
-          "title": "Η στιγμή της έκρηξης βόμβας στη ντισκοτέκ «Jackie O» – Πώς εντοπίστηκαν οι δύο δράστες",
-          "link": "https://www.in.gr/2026/01/24/greece/stigmi-tis-ekriksis-vomvas-sti-ntiskotek-jackie-o-pos-entopistikan-oi-dyo-drastes/",
-          "pubDate": "Sat, 24 Jan 2026 19:59:42 +0300",
-          "description": "Από το Τμήμα Δίωξης Εκβιαστών εξιχνιάσθηκε υπόθεση έκρηξης αυτοσχέδιου εκρηκτικού μηχανισμού σημειώθηκε έξω κέντρο διασκέδασης στις 07-10-2025 στην Αθήνα και είχε ως αποτέλεσμα τον ελαφρύ τραυματισμό ατόμου",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ekri_v1-768x495.jpg"
-        },
-        {
-          "title": "Ολυμπιακός – Βόλος 1-0: Ο Ελ Κααμπί επανέφερε τους Πειραιώτες στην κορυφή της Super League",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-volos-1-0-o-el-kaampi-epanefere-tous-peiraiotes-stin-koryfi-tis-super-league/4582547/",
-          "pubDate": "Sat, 24 Jan 2026 16:56:07 +0000",
-          "description": "Ο Ολυμπιακός έπαιξε με τη… φωτιά κόντρα στο Βόλο, για τη 18η αγωνιστική της Super League, αλλά κατάφερε να φθάσει στη νίκη με 1-0, χάρη σε ...  \nTo άρθρο Ολυμπιακός – Βόλος 1-0: Ο Ελ Κααμπί επανέφερε τους Πειραιώτες στην κορυφή της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/podence-elkaabi-1200x799.jpg"
-        },
-        {
-          "title": "Παναθηναϊκός: Χωρίς Καλάμπρια κόντρα στον Ατρόμητο",
-          "link": "https://www.newsit.gr/athlitika/panathinaikos-xoris-kalampria-kontra-ston-atromito/4582588/",
-          "pubDate": "Sat, 24 Jan 2026 16:55:18 +0000",
-          "description": "Χωρίς τον Ντάβιντε Καλάμπρια θα παραταχθεί ο Παναθηναϊκός κόντρα στον Ατρόμητο στο Περιστέρι. Ο Ντάβιντε Καλάμπρια ταλαιπωρείται από ίωση και έμεινε εκτός από την αποστολή ...  \nTo άρθρο Παναθηναϊκός: Χωρίς Καλάμπρια κόντρα στον Ατρόμητο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/calabria-1-1200x800.jpg"
-        },
-        {
-          "title": "LIVE: ΑΕΛ Novibet – Πανσερραϊκός",
-          "link": "https://www.in.gr/matchcenter/4859118/",
-          "pubDate": "Sat, 24 Jan 2026 19:52:58 +0300",
-          "description": "LIVE: ΑΕΛ Novibet – Πανσερραϊκός. Παρακολουθήστε live στις 20:00 την εξέλιξη της αναμέτρησης ΑΕΛ Novibet – Πανσερραϊκός για τη 18η αγωνιστική της Superleague. Τηλεοπτικά από το COSMOTE SPORT 2 HD.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6704229-768x512.jpg"
-        },
-        {
-          "title": "Οργή στις ΗΠΑ: Συνελήφθη 2χρονο κοριτσάκι και πατέρας για παράνομη μετανάστευση στη Μινεσότα  – «Αδιανόητη αθλιότητα»",
-          "link": "https://www.newsit.gr/kosmos/orgi-stis-ipa-synelifthi-2xrono-koritsaki-kai-pateras-gia-paranomi-metanasteysi-sti-minesota-adianoiti-athliotita/4582548/",
-          "pubDate": "Sat, 24 Jan 2026 16:50:45 +0000",
-          "description": "Σε μια ανατριχιαστική κλιμάκωση της καταστολής της μετανάστευσης στις ΗΠΑ, ομοσπονδιακοί πράκτορες στη Μινεσότα συνέλαβαν ένα κοριτσάκι μόλις 2 ετών, το απομάκρυναν από την οικογένειά ...  \nTo άρθρο Οργή στις ΗΠΑ: Συνελήφθη 2χρονο κοριτσάκι και πατέρας για παράνομη μετανάστευση στη Μινεσότα  – «Αδιανόητη αθλιότητα» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-ice-police.jpg"
-        },
-        {
-          "title": "«Η μεγάλη ρήξη της Άννας Λιβαθυνού με τον Παναγιώτη Στάθη ήταν στα τέλη Οκτωβρίου», είπε ο Γρηγόρης Γκουντάρας",
-          "link": "https://www.newsit.gr/media/i-megali-riksi-tis-annas-livathynou-me-ton-panagioti-stathi-itan-sta-teli-oktovriou-eipe-o-grigoris-gkountaras/4582574/",
-          "pubDate": "Sat, 24 Jan 2026 16:49:52 +0000",
-          "description": "H Άννα Λιβαθυνού δεν βρίσκεται πλέον στην εκπομπή «Καλημέρα Ελλάδα» από την Πέμπτη (22.01.2026) και οι φήμες κάνουν αναφορά σε κόντρα ανάμεσα σε εκείνη και τον ...  \nTo άρθρο «Η μεγάλη ρήξη της Άννας Λιβαθυνού με τον Παναγιώτη Στάθη ήταν στα τέλη Οκτωβρίου», είπε ο Γρηγόρης Γκουντάρας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kalimera-ellada2-1200x667.jpg"
-        },
-        {
-          "title": "Στο στόχαστρο του Τραμπ ο Καναδάς με απειλή δασμών 100%",
-          "link": "https://www.newsit.gr/oikonomia/diethni/sto-stoxastro-tou-tramp-o-kanadas-me-apeili-dasmon-100/4582555/",
-          "pubDate": "Sat, 24 Jan 2026 16:47:37 +0000",
-          "description": "Με επιβολή δασμών 100% σε όλες τις εξαγωγές από τον Καναδά προς τις Ηνωμένες Πολιτείες απείλησε ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, σε περίπτωση που ...  \nTo άρθρο Στο στόχαστρο του Τραμπ ο Καναδάς με απειλή δασμών 100% δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/trump-greenland-reuters-1200x800.jpg"
-        },
-        {
-          "title": "Μεντιλίμπαρ ενόψει Άγιαξ: «Θα τα δώσουμε όλα στο Άμστερνταμ»",
-          "link": "https://www.in.gr/2026/01/24/sports/football/mentilimpar-enopsei-agiaks-tha-ta-dosoume-ola-sto-amsterntam/",
-          "pubDate": "Sat, 24 Jan 2026 19:45:04 +0300",
-          "description": "Ο Χοσέ Λουίς Μεντιλίμπαρ μίλησε για τη νίκη του Ολυμπιακού απέναντι στον Βόλο και έδωσε το σύνθημα ενόψει της αναμέτρηση με τον Άγιαξ για το Champions League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823188-768x512.jpg"
-        },
-        {
-          "title": "Μπάγερν Μονάχου – Άουγκσμπουργκ 1-2: Η ομάδα του Δημήτρη Γιαννούλη σόκαρε τους πρωτοπόρους της Bundesliga",
-          "link": "https://www.newsit.gr/athlitika/mpagern-monaxou-aougksmpourgk-1-2-i-omada-tou-dimitri-giannouli-sokare-tous-protoporous-tis-bundesliga/4582572/",
-          "pubDate": "Sat, 24 Jan 2026 16:44:25 +0000",
-          "description": "Τη νίκη της 19ης αγωνιστικής της Bundesliga πανηγύρισε η Άουγκσμπουργκ, η οποία σόκαρε την Μπάγερν στο Μόναχο, επικρατώντας με ανατροπή 2-1. Η Άουγκσμπουργκ του Δημήτρη ...  \nTo άρθρο Μπάγερν Μονάχου – Άουγκσμπουργκ 1-2: Η ομάδα του Δημήτρη Γιαννούλη σόκαρε τους πρωτοπόρους της Bundesliga δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/augsburg-1200x845.jpg"
-        },
-        {
-          "title": "Ρόδος: 49χρονος πατέρας κατήγγειλε τον 15χρονο γιο του για απειλές και ηλεκτρονικά μηνύματα που του προκάλεσαν φόβο για τη ζωή του",
-          "link": "https://www.newsit.gr/ellada/rodos-49xronos-pateras-katiggeile-ton-15xrono-gio-tou-gia-apeiles-kai-ilektronika-minymata-pou-tou-prokalesan-fovo-gia-ti-zoi-tou/4582536/",
-          "pubDate": "Sat, 24 Jan 2026 16:43:13 +0000",
-          "description": "Η εικόνα της ενδοοικογενειακής βίας δεν περιορίζεται μόνο στα περιστατικά σωματικής σύγκρουσης. Στη Ρόδο, νέα καταγγελία στην αστυνομία δείχνει πως οι απειλές και ο εκφοβισμός ...  \nTo άρθρο Ρόδος: 49χρονος πατέρας κατήγγειλε τον 15χρονο γιο του για απειλές και ηλεκτρονικά μηνύματα που του προκάλεσαν φόβο για τη ζωή του δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1138859335.jpg"
-        },
-        {
-          "title": "Ζελένσκι: Νέες συναντήσεις με την Ρωσία πιθανόν την ερχόμενη εβδομάδα – Ανοιχτή στο διάλογο, δηλώνει η Μόσχα",
-          "link": "https://www.in.gr/2026/01/24/world/zelenski-nees-synantiseis-tin-rosia-pithanon-tin-erxomeni-evdomada-anoixti-sto-dialogo-dilonei-mosxa/",
-          "pubDate": "Sat, 24 Jan 2026 19:43:09 +0300",
-          "description": "«Κεντρικό θέμα των συζητήσεων ήταν οι πιθανές παράμετροι για τον τερματισμό του πολέμου. Εκτιμώ ιδιαίτερα την κατανόηση της ανάγκης για αμερικανική παρακολούθηση και επίβλεψη της διαδικασίας τερματισμού του πολέμου και διασφάλισης πραγματικής ασφάλειας», δήλωσε ο Βολοντίμιρ Ζελένσκι",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/09787-768x547.jpg"
-        },
-        {
-          "title": "LIVE: Μπόρνμουθ – Λίβερπουλ",
-          "link": "https://www.in.gr/matchcenter/4813595/",
-          "pubDate": "Sat, 24 Jan 2026 19:28:45 +0300",
-          "description": "LIVE: Μπόρνμουθ – Λίβερπουλ. Παρακολουθήστε live στις 19:30 την εξέλιξη της αναμέτρησης Μπόρνμουθ – Λίβερπουλ για την 23η αγωνιστική της Premier League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/soc_210126_uefa_marvliv_f-768x432.jpg"
-        },
-        {
-          "title": "Ο Κυριάκος Μητσοτάκης στο Χιονοδρομικό Καλαβρύτων με χιονοπέδιλα και selfies με πολίτες",
-          "link": "https://www.newsit.gr/politikh/o-kyriakos-mitsotakis-sto-xionodromiko-kalavryton-me-xionopedila-kai-selfies-me-polites/4582546/",
-          "pubDate": "Sat, 24 Jan 2026 16:27:02 +0000",
-          "description": "Στο Χιονοδρομικό Κέντρο Καλαβρύτων βρέθηκε ο πρωθυπουργός, Κυριάκος Μητσοτάκης το Σάββατο (24.01.2026). Με διακριτική παρουσία και ολιγομελή συνοδεία ασφαλείας, ο κ. Μητσοτάκης έφτασε στο Χιονοδρομικό ...  \nTo άρθρο Ο Κυριάκος Μητσοτάκης στο Χιονοδρομικό Καλαβρύτων με χιονοπέδιλα και selfies με πολίτες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kyriakos-mitsotakis5-240102026.jpg"
-        },
-        {
-          "title": "Ηλεκτρονικά τιμολόγια: Τι αλλάζει στις συναλλαγές  των επιχειρήσεων",
-          "link": "https://www.in.gr/2026/01/24/economy/diethnis-oikonomia/ilektronika-timologia-ti-allazei-stis-synallages-ton-epixeiriseon/",
-          "pubDate": "Sat, 24 Jan 2026 19:26:01 +0300",
-          "description": "Ξεκινά η αντίστροφη μέτρηση για τα ηλεκτρονικά τιμολόγια – Πότε γίνονται υποχρεωτικά",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/forolo-1-1024x686-1-768x515.jpg"
-        },
-        {
-          "title": "Greek Basketball League: Σπουδαίες νίκες για Άρη Betsson και Μύκονο Betsson κόντρα σε Προμηθέα και Ηρακλή",
-          "link": "https://www.newsit.gr/athlitika/greek-basketball-league-spoudaies-nikes-gia-ari-betsson-kai-mykono-betsson-kontra-se-promithea-kai-irakli/4582554/",
-          "pubDate": "Sat, 24 Jan 2026 16:21:38 +0000",
-          "description": "Το αποφασιστικότερο βήμα για την εξασφάλιση της παραμονής στην Greek Basketball League έκανε η Μύκονος Betsson, η οποία επικράτησε εντός έδρας του Ηρακλή με 83-80 ...  \nTo άρθρο Greek Basketball League: Σπουδαίες νίκες για Άρη Betsson και Μύκονο Betsson κόντρα σε Προμηθέα και Ηρακλή δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-promitheas-1200x800.jpg"
         }
       ]
     },
@@ -441,10 +441,17 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Αναφορές ότι «μεταφέρθηκε σε υπόγειο καταφύγιο» ο Αγιατολάχ Αλί Χαμενεΐ",
+          "link": "http://gr.euronews.com/2026/01/24/anafores-oti-metaferthike-se-ypogeio-katafygio-o-agiatolax-ali-xamenei",
+          "pubDate": "Sat, 24 Jan 2026 19:31:38 +0100",
+          "description": "«Θα υπερασπιστούμε μέχρι θανάτου» λέει ο ιρανικός στρατός - Κλιμακώνονται οι στρατιωτικές και πολιτικές εντάσεις αλλά και οι φόβοι για άμεση σύγκρουση μεταξύ ΗΠΑ και Ιράν",
+          "thumbnail": null
+        },
+        {
           "title": "Snow ploughs battle blizzards on roads and runways in Oklahoma",
           "link": "https://www.bbc.com/news/videos/cvgj13e5ddlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Jan 2026 17:52:07 GMT",
-          "description": "A sever winter storm that could affect more than 200 million Americans has brought heavy snow, and freezing temperatures.",
+          "description": "A severe winter storm that could affect more than 200 million Americans has brought heavy snow, and freezing temperatures.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a052/live/7d7f3bd0-f947-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
@@ -642,13 +649,6 @@
           "pubDate": "Sat, 24 Jan 2026 06:02:41 GMT",
           "description": "Rescue teams are searching the West Java village for 83 people who are still unaccounted for.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1631/live/4ba68cc0-f8e9-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "Αυτά είναι τα μεγάλα αεροδρόμια των επόμενων ετών που θα αλλάξουν τον τρόπο που πετάμε",
-          "link": "http://gr.euronews.com/travel/2026/01/24/the-major-new-travel-hubs-that-are-going-to-change-the-way-we-fly",
-          "pubDate": "Sat, 24 Jan 2026 07:02:22 +0100",
-          "description": "Από την Πολωνία έως την Αιθιοπία, αυτοί είναι όλοι οι επικείμενοι νέοι συγκοινωνιακοί κόμβοι που θα ανοίξουν στη διάρκεια της επόμενης δεκαετίας.",
-          "thumbnail": null
         }
       ]
     },
@@ -656,6 +656,90 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΚΑΕ Άρης: «Το χειρουργείο απέτυχε, ο ασθενής επέζησε»",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2509833/kae-aris-heiroyrgeio-apetyhe-o-asthenis-epezise",
+          "pubDate": "Sat, 24 Jan 2026 20:48:13 +0200",
+          "description": "Οργή επικρατεί στις τάξεις της ΚΑΕ Άρης για τη διαιτησία του αγώνα με τον Προμηθέα και μάλιστα με ανακοίνωσή τους οι «κίτρινοι» έγραψαν για την αποτυχία του χειρουργείου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6110867_3_4_0.jpg?itok=a3l-rOUp"
+        },
+        {
+          "title": "Παναιτωλικός: Με Σατσιά στο Ηράκλειο",
+          "link": "https://www.gazzetta.gr/football/superleague/2509832/panaitolikos-me-satsia-sto-irakleio",
+          "pubDate": "Sat, 24 Jan 2026 20:44:40 +0200",
+          "description": "Η αποστολή του Παναιτωλικού, για τον εκτός έδρας αγώνα της 18ης αγωνιστικής της Stoiximan Super League, με αντίπαλο τον ΟΦΗ (25/1, 18:00).",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/satsias_0.jpg?itok=4R0TEPPB"
+        },
+        {
+          "title": "Μενιάν: Ανανεώνει στη Μίλαν μέχρι το 2031",
+          "link": "https://www.gazzetta.gr/football/serie/2509831/menian-ananeonei-sti-milan-mehri-2031",
+          "pubDate": "Sat, 24 Jan 2026 20:41:38 +0200",
+          "description": "Σε προφορική συμφωνία φαίνεται πως κατέληξαν Μίλαν και Μάικλ Μενιάν για την ανανέωση της συνεργασίας τους έως το καλοκαίρι του 2031.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/michael_maignan_milan.jpg?itok=AVjFMfbD"
+        },
+        {
+          "title": "Πανιώνιος - ΠΑΟΚ 67-70: Ανατροπή στην ανατροπή και σπουδαίο «διπλό» με πρωταγωνιστή Χουγκάζ ",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2509830/panionios-paok-67-70-anatropi-stin-anatropi-kai-spoydaio-diplo-me",
+          "pubDate": "Sat, 24 Jan 2026 20:40:03 +0200",
+          "description": "Ένα ματς... θρίλερ διεξήχθη στη Γλυφάδα, γεμάτο ανατροπές, με τον ΠΑΟΚ να περνάει νικηφόρα από τον Πανιώνιο με 67-70 έχοντας για πρωταγωνιστή τον Νίκο Χουγκάζ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/chougaz_intime.jpg?itok=VeXg4LiQ"
+        },
+        {
+          "title": "Αστέρας Τρίπολης – ΑΕΚ: Το φοβερό γκολ του Γιόβιτς για το 1-0 της Ένωσης",
+          "link": "https://www.newsit.gr/athlitika/asteras-tripolis-aek-to-fovero-gkol-tou-giovits-gia-to-1-0-tis-enosis/4582653/",
+          "pubDate": "Sat, 24 Jan 2026 18:39:02 +0000",
+          "description": "Η ΑΕΚ κοντράρεται με τον Αστέρα Τρίπολης για τη 18η αγωνιστική της Super League και ο Λούκα Γιόβιτς άνοιξε το σκορ στην αναμέτρηση, με ένα φοβερό ...  \nTo άρθρο Αστέρας Τρίπολης – ΑΕΚ: Το φοβερό γκολ του Γιόβιτς για το 1-0 της Ένωσης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-5-1200x800.jpg"
+        },
+        {
+          "title": "Μίλγουολ: Στο γήπεδο οι Γκάρι Όλντμαν και Ντάνιελ Ντέι-Λιούις",
+          "link": "https://www.gazzetta.gr/football/2509829/milgoyol-sto-gipedo-oi-gkari-olntman-kai-ntaniel-ntei-lioyis",
+          "pubDate": "Sat, 24 Jan 2026 20:35:35 +0200",
+          "description": "Γκάρι Όλντμαν και Ντάνιελ Ντέι-Λιούις είδαν από κοντά τη Μίλγουολ να συντρίβει με 4-0 την Τσάρλτον.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lewis_oldman.jpg?itok=wlRFiu2u"
+        },
+        {
+          "title": "Μίλτος Τεντόγλου: Ντεμπούτο καριέρας με άλμα στα 8,25 μέτρα",
+          "link": "https://www.newsit.gr/athlitika/miltos-tentoglou-ntempouto-karieras-me-alma-sta-8-25-metra/4582650/",
+          "pubDate": "Sat, 24 Jan 2026 18:33:52 +0000",
+          "description": "Ο Μίλτος Τεντόγλου έκανε ντεμπούτο στη σεζόν, στην ημερίδα κλειστού της Παιανίας, με άλμα στα 8,25 μ. και κατέγραψε το καλύτερο ξεκίνημα του στη χειμερινή ...  \nTo άρθρο Μίλτος Τεντόγλου: Ντεμπούτο καριέρας με άλμα στα 8,25 μέτρα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/08/tentoglou-2-1200x800.jpg"
+        },
+        {
+          "title": "Palazzo Ca' Dario: Το «καταραμένο» παλάτι της Βενετίας που κανείς δεν τολμά να αγοράσει (vid)",
+          "link": "https://www.gazzetta.gr/plus/2509774/palazzo-ca-dario-katarameno-palati-tis-benetias-poy-kaneis-den-tolma-na-agorasei-vid",
+          "pubDate": "Sat, 24 Jan 2026 20:31:00 +0200",
+          "description": "Στις όχθες του Μεγάλου Καναλιού στη Βενετία, το Palazzo Ca' Dario παραμένει άδειο εδώ και χρόνια, με τη φήμη του ως «στοιχειωμένου» κτιρίου να αποθαρρύνει επενδυτές, παρά την τεράστια ιστορική και αρχιτεκτονική του αξία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/palazzo_dario_1.jpg?itok=nS4ihK1c"
+        },
+        {
+          "title": "Αστέρας AKTOR - ΑΕΚ: Ασίστ Βάργκα, 0-1 ο «καυτός» Γιόβιτς με γκολάρα ",
+          "link": "https://www.gazzetta.gr/football/superleague/2509823/asteras-aktor-aek-asist-bargka-0-1-o-kaytos-giobits-me-gkolara",
+          "pubDate": "Sat, 24 Jan 2026 20:29:35 +0200",
+          "description": "Η ΑΕΚ άνοιξε το σκορ στο 38ο λεπτό του αγώνα με τον Αστέρα AKTOR, χάρη σε υπέροχο γκολ του Λούκα Γιόβιτς, έπειτα από ασίστ του Μπάρναμπας Βάργκα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/varga-jovic.jpg?itok=fnh2ka1Q"
+        },
+        {
+          "title": "Μεντιλίμπαρ μετά το Ολυμπιακός – Βόλος: «Να παίξουμε καλύτερα κόντρα στον Άγιαξ – Προσπάθησε ο Σιπιόνι»",
+          "link": "https://www.newsit.gr/athlitika/mentilimpar-meta-to-olympiakos-volos-na-paiksoume-kalytera-kontra-ston-agiaks-prospathise-o-sipioni/4582645/",
+          "pubDate": "Sat, 24 Jan 2026 18:27:54 +0000",
+          "description": "Ο Ολυμπιακός νίκησε με 1-0 το Βόλο για τη 18η αγωνιστική της Super League, αλλά ο Χοσέ Λουίς Μεντιλίμπαρ δεν ήταν ικανοποιημένος από την εικόνα της ...  \nTo άρθρο Μεντιλίμπαρ μετά το Ολυμπιακός – Βόλος: «Να παίξουμε καλύτερα κόντρα στον Άγιαξ – Προσπάθησε ο Σιπιόνι» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/medilibar-4-1200x800.jpg"
+        },
+        {
+          "title": "Volley League Γυναικών: «Διπλό» στη Σαντορίνη για τον Πανιώνιο",
+          "link": "https://www.gazzetta.gr/volleyball/volley-league-gynaikon/2509821/volley-league-gynaikon-diplo-sti-santorini-gia-ton",
+          "pubDate": "Sat, 24 Jan 2026 20:25:26 +0200",
+          "description": "Σημαντικό «διπλό» πήρε στην έδρα του ΑΟ Θήρας ο Πανιώνιος επικρατώντας με 3-1 σετ, στο πλαίσιο της 15ης αγωνιστικής της Volley League γυναικών. Νίκες για ΠΑΟΚ και ΖΑΟΝ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/panionios_volley_women_0.jpg?itok=9QNhdEs6"
+        },
+        {
+          "title": "Περιστέρι - Καρδίτσα 82-69: Τέλος στο αρνητικό σερί για τους Πρίγκιπες",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2509819/peristeri-karditsa-82-69-telos-sto-arnitiko-seri-gia-toys",
+          "pubDate": "Sat, 24 Jan 2026 20:22:07 +0200",
+          "description": "Το Περιστέρι πήρε μια σπουδαία νίκη απέναντι στην Καρδίτσα, με την ομάδα του Βασίλη Ξανθόπουλου να επικρατεί με 82-69.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jankovic_kaklamanakis_eurokinissi.jpg?itok=2IaDa-Xa"
+        },
         {
           "title": "Λεβαδειακός: Ο Βέρμπιτς εκτός με Άρη",
           "link": "https://www.gazzetta.gr/football/superleague/2509818/lebadeiakos-o-bermpits-ektos-me-ari",
@@ -781,90 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 17:16:00 +0000",
           "description": "Μετά από τέσσερα παιχνίδια χωρίς νίκη, η Μάντσεστερ Σίτι επικράτησε με 2-0 της Γουλβς και μείωσε ξανά τη διαφορά της από την Άρσεναλ στην κορυφή ...  \nTo άρθρο Premier League: Επιστροφή στις νίκες για τη Μάντσεστερ Σίτι, ήττα με ανατροπή για την Μπράιτον του Κωστούλα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/city-1-1200x853.jpg"
-        },
-        {
-          "title": "Oklo Ore: Ο πυρηνικός αντιδραστήρας 2 δισεκατομμυρίων ετών που δεν θα έπρεπε να υπάρχει (vid)",
-          "link": "https://www.gazzetta.gr/plus/2509777/oklo-ore-o-pyrinikos-antidrastiras-2-disekatommyrion-eton-poy-den-tha-eprepe-na",
-          "pubDate": "Sat, 24 Jan 2026 19:05:00 +0200",
-          "description": "Το 1972, φυσικοί ανακάλυψαν σε ορυχείο του Γκαμπόν ουράνιο με «λανθασμένη» σύσταση. Πριν από δισεκατομμύρια χρόνια, η φύση είχε δημιουργήσει έναν φυσικό πυρηνικό αντιδραστήρα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oklo-ore_1.jpg?itok=CK5631vj"
-        },
-        {
-          "title": "Παναθηναϊκός: Ο Κραλ εκτός αποστολής στο ματς της Ουνιόν με Ντόρτμουντ",
-          "link": "https://www.gazzetta.gr/football/superleague/2509801/panathinaikos-o-kral-ektos-apostolis-sto-mats-tis-oynion-me-ntortmoynt",
-          "pubDate": "Sat, 24 Jan 2026 19:04:29 +0200",
-          "description": "Ο Άλεξ Κραλ, ο οποίος είναι κοντά στον Παναθηναϊκό, έμεινε εκτός αποστολής στο ματς της Ουνιόν Βερολίνου με τη Ντόρτμουντ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kral_4.jpg?itok=Au15oVRF"
-        },
-        {
-          "title": "ΑΕΚ: Το «τρολάρισμα» του γλύπτη του Αετού στον Παναθηναϊκό",
-          "link": "https://www.gazzetta.gr/football/superleague/2509808/aek-trolarisma-toy-glypti-toy-aetoy-ston-panathinaiko",
-          "pubDate": "Sat, 24 Jan 2026 19:00:38 +0200",
-          "description": "Ο γλύπτης του αγάλματος του Αετού της Allwyn Arena έκανε ανάρτηση με αφορμή τα παιχνίδια του Παναθηναϊκού με ΑΕΚ και Φερεντσβάρος.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aetosagalma.jpg?itok=SUNeZ_pp"
-        },
-        {
-          "title": "Premier League: Χαμογέλασε ξανά η Μάντσεστερ Σίτι, γλίτωσε η Τότεναμ",
-          "link": "https://www.gazzetta.gr/football/premier-league/2509800/premier-league-hamogelase-xana-i-mantsester-siti-glitose-i-totenam",
-          "pubDate": "Sat, 24 Jan 2026 19:00:19 +0200",
-          "description": "Μετά από τέσσερις σερί γκέλες στο πρωτάθλημα, η Μάντσεστερ Σίτι χαμογέλασε ξανά, επικρατώντας 2-0 της Γουλβς, την ώρα που η Τότεναμ ισοφάριζε (2-2) στο τέλος την Μπέρνλι.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/city.jpg?itok=qX0WbeTG"
-        },
-        {
-          "title": "Superleague, η βαθμολογία: Πάτησε ξανά κορυφή ο Ολυμπιακός! ",
-          "link": "https://www.gazzetta.gr/football/super-cup-elladas/2509799/superleague-i-bathmologia-patise-xana-koryfi-o-olympiakos",
-          "pubDate": "Sat, 24 Jan 2026 18:59:52 +0200",
-          "description": "Ο Ολυμπιακός είναι πάλι μόνος πρώτος στην κορυφή του βαθμολογικού πίνακα, έχοντας όμως παιχνίδι παραπάνω από την ΑΕΚ που παίζει στην Τρίπολη και τον ΠΑΟΚ που πήρε αναβολή στο ματς με την Κηφισιά.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_7.jpg?itok=hBXTGiER"
-        },
-        {
-          "title": "Παναθηναϊκός: Χωρίς Καλάμπρια στο Περιστέρι",
-          "link": "https://www.gazzetta.gr/football/superleague/2509797/panathinaikos-horis-kalampria-sto-perister",
-          "pubDate": "Sat, 24 Jan 2026 18:57:29 +0200",
-          "description": "Η αποστολή του Παναθηναϊκού για την εκτός έδρας αναμέτρηση της 18ης αγωνιστικής της Stoiximan Super League με τον Ατρόμητο, στο Περιστέρι (25/1, 19:30).",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/calabriaintime.jpg?itok=O52GiN3U"
-        },
-        {
-          "title": "ΑΕΚ: Δυναμικό «παρών» από τους οπαδούς της Ένωσης στην Τρίπολη",
-          "link": "https://www.gazzetta.gr/football/superleague/2509796/aek-dynamiko-paron-apo-toys-opadoys-tis-enosis-stin-tripoli",
-          "pubDate": "Sat, 24 Jan 2026 18:57:15 +0200",
-          "description": "Πάνω από 3.000 οπαδοί της ΑΕΚ στο «Θεόδωρος Κολοκοτρώνης» για την αναμέτρηση με τον Αστέρα Τρίπολης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/opadoi_aek.jpg?itok=-3xExyd0"
-        },
-        {
-          "title": "Ολυμπιακός – Βόλος 1-0: Ο Ελ Κααμπί επανέφερε τους Πειραιώτες στην κορυφή της Super League",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-volos-1-0-o-el-kaampi-epanefere-tous-peiraiotes-stin-koryfi-tis-super-league/4582547/",
-          "pubDate": "Sat, 24 Jan 2026 16:56:07 +0000",
-          "description": "Ο Ολυμπιακός έπαιξε με τη… φωτιά κόντρα στο Βόλο, για τη 18η αγωνιστική της Super League, αλλά κατάφερε να φθάσει στη νίκη με 1-0, χάρη σε ...  \nTo άρθρο Ολυμπιακός – Βόλος 1-0: Ο Ελ Κααμπί επανέφερε τους Πειραιώτες στην κορυφή της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/podence-elkaabi-1200x799.jpg"
-        },
-        {
-          "title": "Oλυμπιακός – Βόλος 1-0: Γύρισε, σκόραρε και τον λύτρωσε πριν το Αμστερνταμ!",
-          "link": "https://www.gazzetta.gr/football/superleague/2509795/olympiakos-bolos-1-0-gyrise-skorare-kai-ton-lytrose-prin-amsterntam",
-          "pubDate": "Sat, 24 Jan 2026 18:55:54 +0200",
-          "description": "Με τους πάντες στον Ολυμπιακό να έχουν το μυαλό τους στον «τελικό με τον Αγιαξ», ο Ελ Καμπί επέστρεψε με γκολ στο πρωτάθλημα, έδωσε τη νίκη (1-0) επί του Βόλου κι έστειλε στην κορυφή τους Πειραιώτες!",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kampis.jpg?itok=b3eDeJ05"
-        },
-        {
-          "title": "Παναθηναϊκός: Χωρίς Καλάμπρια κόντρα στον Ατρόμητο",
-          "link": "https://www.newsit.gr/athlitika/panathinaikos-xoris-kalampria-kontra-ston-atromito/4582588/",
-          "pubDate": "Sat, 24 Jan 2026 16:55:18 +0000",
-          "description": "Χωρίς τον Ντάβιντε Καλάμπρια θα παραταχθεί ο Παναθηναϊκός κόντρα στον Ατρόμητο στο Περιστέρι. Ο Ντάβιντε Καλάμπρια ταλαιπωρείται από ίωση και έμεινε εκτός από την αποστολή ...  \nTo άρθρο Παναθηναϊκός: Χωρίς Καλάμπρια κόντρα στον Ατρόμητο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/calabria-1-1200x800.jpg"
-        },
-        {
-          "title": "Μύκονος: Το έριξε στο... γλέντι και στον χορό η ομάδα",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2509794/mykonos-erixe-sto-glenti-kai-ston-horo-i-omada",
-          "pubDate": "Sat, 24 Jan 2026 18:55:10 +0200",
-          "description": "Η Μύκονος κατάφερε να πάρει τη νίκη κόντρα στον Ηρακλή και το γιόρτασε χορεύοντας το τραγούδι της.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/myk.jpg?itok=KPahjQXS"
-        },
-        {
-          "title": "Μπάγερν Μονάχου – Άουγκσμπουργκ 1-2: Η ομάδα του Δημήτρη Γιαννούλη σόκαρε τους πρωτοπόρους της Bundesliga",
-          "link": "https://www.newsit.gr/athlitika/mpagern-monaxou-aougksmpourgk-1-2-i-omada-tou-dimitri-giannouli-sokare-tous-protoporous-tis-bundesliga/4582572/",
-          "pubDate": "Sat, 24 Jan 2026 16:44:25 +0000",
-          "description": "Τη νίκη της 19ης αγωνιστικής της Bundesliga πανηγύρισε η Άουγκσμπουργκ, η οποία σόκαρε την Μπάγερν στο Μόναχο, επικρατώντας με ανατροπή 2-1. Η Άουγκσμπουργκ του Δημήτρη ...  \nTo άρθρο Μπάγερν Μονάχου – Άουγκσμπουργκ 1-2: Η ομάδα του Δημήτρη Γιαννούλη σόκαρε τους πρωτοπόρους της Bundesliga δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/augsburg-1200x845.jpg"
         }
       ]
     },
@@ -872,6 +872,34 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Live Streaming: Παναθηναϊκός- ΑΕΚ",
+          "link": "https://panathinaikos24.gr/2026/01/24/617532/live-streaming-panathinaikos-aek-11/",
+          "pubDate": "Sat, 24 Jan 2026 18:47:52 +0000",
+          "description": "Παρακολουθήστε live την αναμέτρηση.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4889965.jpg?fit=900%2C576&amp;ssl=1"
+        },
+        {
+          "title": "Αστέρας Τρίπολης – ΑΕΚ με «Ενισχύσεις» σε γκολ & Γιόβιτς",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/asteras-tripolis-aek-me-enischyseis/?utm_source=rss&utm_medium=rss&utm_campaign=asteras-tripolis-aek-me-enischyseis",
+          "pubDate": "Sat, 24 Jan 2026 18:47:03 +0000",
+          "description": "ΠΑΙΞΕ ΝΟΜΙΜΑ | 21+Η χρονιά τελείωσε τέλεια για την ΑΕΚ, αλλά η διακοπή δεν της είχε κάνει καθόλου καλό απ’ ό,τι φάνηκε στο ξεκίνημα του 2026. Την ισοπαλία στον Άρη ακολούθησε ο απρόσμενος εντός αποκλεισμός από τον ΟΦΗ στο Κύπελλο. Αυτά τα αποτελέσματα έφεραν σημαντική γκρίνια ξαφνικά, με τον πρόεδρο της ομάδας να ανακοινώνει σοβαρό […]\nThe post Αστέρας Τρίπολης – ΑΕΚ με «Ενισχύσεις» σε γκολ & Γιόβιτς appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/elabet-aek-.jpg"
+        },
+        {
+          "title": "Παναθηναϊκός: Στο «Γ. Καλαφάτης» ο Αλαφούζος πριν το ματς με τον Ατρόμητο",
+          "link": "https://trifilara.gr/panathinaikos-sto-g-kalafatis-o-alafouzos-prin-to-mats-me-ton-atromito/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-sto-g-kalafatis-o-alafouzos-prin-to-mats-me-ton-atromito",
+          "pubDate": "Sat, 24 Jan 2026 18:36:07 +0000",
+          "description": "Ο Γιάννης Αλαφούζος παρακολούθησε την τελευταία προπόνηση του Παναθηναϊκού ενόψει της αναμέτρησης με τον Ατρόμητο.\nThe post Παναθηναϊκός: Στο «Γ. Καλαφάτης» ο Αλαφούζος πριν το ματς με τον Ατρόμητο appeared first on Trifilara.gr.",
+          "thumbnail": null
+        },
+        {
+          "title": "Παναθηναϊκός: Παρουσία Αλαφούζου στο Κορωπί πριν τον Ατρόμητο!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-parousia-alafouzou-sto/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-parousia-alafouzou-sto",
+          "pubDate": "Sat, 24 Jan 2026 18:28:55 +0000",
+          "description": "Μια εικόνα που προσθέτει βάρος και στέλνει μήνυμα ενότητας λίγες ώρες πριν από μια απαιτητική αγωνιστική υποχρέωση. Στο «Γ. Καλαφάτης» βρέθηκε ο Γιάννης Αλαφούζος, παρακολουθώντας από κοντά την τελευταία προπόνηση του Παναθηναϊκός πριν από την εκτός έδρας αναμέτρηση με τον Ατρόμητος, που είναι προγραμματισμένη για την Κυριακή 25 Ιανουαρίου. Η παρουσία του μεγαλομετόχου στο προπονητικό […]\nThe post Παναθηναϊκός: Παρουσία Αλαφούζου στο Κορωπί πριν τον Ατρόμητο! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/11/alafouzos-2-3.jpg"
+        },
         {
           "title": "Εμφατικό πέρασμα για τον Παναθηναϊκό από το Περιστέρι! – Τριάρα χωρίς άγχος για τους «πράσινους»",
           "link": "https://trifilara.gr/emfatiko-perasma-gia-ton-panathinaiko-apo-to-peristeri-triara-choris-agchos-gia-tous-prasinous/?utm_source=rss&utm_medium=rss&utm_campaign=emfatiko-perasma-gia-ton-panathinaiko-apo-to-peristeri-triara-choris-agchos-gia-tous-prasinous",
@@ -934,6 +962,20 @@
           "pubDate": "Sat, 24 Jan 2026 16:14:08 +0000",
           "description": "Η εκπομπή «The Green Reporter» του «Όλα Πράσινα», με τον Άρη Αντωνόπουλο να παρουσιάζει όλο το μεταγραφικό ρεπορτάζ των τελευταίων ημερών στον Παναθηναϊκό.\nThe post STAND BY δύο ΜΕΤΑΓΡΑΦΕΣ! – Ο πρώην «πράσινος», τα ΚΡΥΦΑ ΧΑΡΤΙΑ για ΕΞΤΡΑ μέσο και ΕΠΙΘΕΤΙΚΟ (vid) appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/ekpompi-metagrafes.jpg"
+        },
+        {
+          "title": "Ολυμπιακός – Βόλος με… ερυθρόλευκο Bet Builder από ημίχρονο",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/olybiakos-volos-me-erythrolefko-bet-build/?utm_source=rss&utm_medium=rss&utm_campaign=olybiakos-volos-me-erythrolefko-bet-build",
+          "pubDate": "Sat, 24 Jan 2026 15:51:00 +0000",
+          "description": "ΠΑΙΞΕ ΝΟΜΙΜΑ | 21+ Και κάπου ανάμεσα στα μεγαλεία του Champions League ο Ολυμπιακός καλείται να βρει τρόπο να συγκεντρωθεί στη γειτονιά μας. Ο Μεντιλίμπαρ δεν θα έχει εύκολο έργο να πείσει τους παίκτες του ότι αυτό που πρέπει να κάνουν, είναι το να εστιάσουν στο ματς με τον Βόλο. Και το ζήτημα είναι ότι […]\nThe post Ολυμπιακός – Βόλος με… ερυθρόλευκο Bet Builder από ημίχρονο appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/oly.jpg"
+        },
+        {
+          "title": "Μπόρνμουθ – Λίβερπουλ και τα ματς ΑΕΚ & Ολυμπιακού με τα πιο «Ενισχυμένα» Bet Builders",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/bornmouth-liverpoul-kai-ta-mats-aek-amp/?utm_source=rss&utm_medium=rss&utm_campaign=bornmouth-liverpoul-kai-ta-mats-aek-amp",
+          "pubDate": "Sat, 24 Jan 2026 15:50:00 +0000",
+          "description": "ΠΑΙΞΕ ΝΟΜΙΜΑ | 21+ Το αγωνιστικό Σαββατοκύριακο στην Premier League ανοίγει με τη Λίβερπουλ να ταξιδεύει στον νότο για να αντιμετωπίσει την Μπόρνμουθ, σε μια αναμέτρηση που έχει ξεκάθαρο αντίκτυπο στη μάχη για τα εισιτήρια του Champions League. Οι «Reds» βρίσκονται στην 4η θέση με 36 βαθμούς μετά από 22 αγωνιστικές και, παρότι παραμένουν αήττητοι για μεγάλο διάστημα, […]\nThe post Μπόρνμουθ – Λίβερπουλ και τα ματς ΑΕΚ & Ολυμπιακού με τα πιο «Ενισχυμένα» Bet Builders appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/ELABET-1.jpg"
         },
         {
           "title": "Ο εκλεκτός: Έτοιμος για την έκπληξη στα χαφ ο Παναθηναϊκός!",
@@ -1013,25 +1055,11 @@
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5000105.jpg?fit=900%2C590&amp;ssl=1"
         },
         {
-          "title": "Εκτός 8άδας ο Παναθηναϊκός! – Η βαθμολογία της Euroleague μετά την 24η αγωνιστική (pic)",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/ektos-8adas-o-panathinaikos-i-vathmolog/?utm_source=rss&utm_medium=rss&utm_campaign=ektos-8adas-o-panathinaikos-i-vathmolog",
-          "pubDate": "Sat, 24 Jan 2026 12:20:26 +0000",
-          "description": "Πέμπτος ο Ολυμπιακός αλλά εκτός 8άδας ο Παναθηναϊκός, με τέσσερις ομάδες στις 16 νίκες. Με έντονες μεταβολές και νέα δεδομένα ολοκληρώθηκε η 24η αγωνιστική της EuroLeague, φέρνοντας ανακατατάξεις τόσο στην κορυφή όσο και στη ζώνη της πρόκρισης. Ο Ολυμπιακός ανέβηκε στην 5η θέση της κατάταξης, ενώ ο Παναθηναϊκός υποχώρησε στην 9η θέση, μένοντας εκτός των […]\nThe post Εκτός 8άδας ο Παναθηναϊκός! – Η βαθμολογία της Euroleague μετά την 24η αγωνιστική (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/basket-ataman.jpg"
-        },
-        {
           "title": "Στο τέλος μπαίνει το game changer στοιχείο: Το top σουβλάκι που αξίζει την αναμονή στην ουρά",
           "link": "https://panathinaikos24.gr/2026/01/24/617465/sto-telos-mpainei-to-game-changer-stoixeio-to-top-souvlaki-pou-aksizei-tin-anamoni-stin-oura/",
           "pubDate": "Sat, 24 Jan 2026 12:18:45 +0000",
           "description": "Είναι αυτό το τοπ σουβλάκι; Θα βρεις πολλούς που το υποστηρίζουν…",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Screenshot-2026-01-24-141658.png?fit=1128%2C764&amp;ssl=1"
-        },
-        {
-          "title": "Παραλήρημα Κουσουλού: «Οι Αγγελόπουλοι παίρνουν όποιον θέλουν, όποτε θέλουν, σε όποια τιμή θέλουν!» (pic)",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/paralirima-kousoulou-oi-angelopoul/?utm_source=rss&utm_medium=rss&utm_campaign=paralirima-kousoulou-oi-angelopoul",
-          "pubDate": "Sat, 24 Jan 2026 12:08:14 +0000",
-          "description": "Ακόμη ένα αφήγημα χωρίς επαφή με την πραγματικότητα επέλεξε να παρουσιάσει ο Πέτρος Κουσουλός. Ακόμη ένα αφήγημα χωρίς επαφή με την πραγματικότητα επέλεξε να παρουσιάσει ο Πέτρος Κουσουλός, σχολιάζοντας τη μεταγραφή του Κόρι Τζόζεφ στον Ολυμπιακό με τρόπο που περισσότερο εξυπηρετεί εντυπώσεις παρά ενημέρωση. Ο δημοσιογράφος υποστήριξε ότι οι διαπραγματεύσεις με τον παίκτη διήρκησαν μόλις […]\nThe post Παραλήρημα Κουσουλού: «Οι Αγγελόπουλοι παίρνουν όποιον θέλουν, όποτε θέλουν, σε όποια τιμή θέλουν!» (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/06/aggelopouloi-fournier.jpg"
         },
         {
           "title": "Κι είναι αλήτικη η μόνη αγάπη που έχεις…",
@@ -1053,34 +1081,6 @@
           "pubDate": "Sat, 24 Jan 2026 11:50:57 +0000",
           "description": "Το αγωνιστικό Σαββατοκύριακο στην Premier League ανοίγει με τη Λίβερπουλ να ταξιδεύει στον νότο για να αντιμετωπίσει την Μπόρνμουθ, σε μια αναμέτρηση που έχει ξεκάθαρο αντίκτυπο στη μάχη για τα εισιτήρια του Champions League.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/salah_liverpool-full.webp?fit=1200%2C800&amp;ssl=1"
-        },
-        {
-          "title": "«Πυρά» Μιχαΐλοβιτς για μεταγραφή Ολυμπιακού: «Διώξαμε τον παίκτη που έκανε σαμποτάζ στον Ομπράντοβιτς!»",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/pyra-michailovits-gia-metagrafi-oly/?utm_source=rss&utm_medium=rss&utm_campaign=pyra-michailovits-gia-metagrafi-oly",
-          "pubDate": "Sat, 24 Jan 2026 11:50:15 +0000",
-          "description": "Βαρύ «κατηγορώ» Μιχαΐλοβιτς. Ο πρόεδρος της Παρτιζάν μίλησε για παίκτη που θεωρήθηκε ότι έκανε σαμποτάζ στον Ζέλικο Ομπράντοβιτς, με τις δηλώσεις του να «φωτογραφίζουν» τον σέντερ του Ολυμπιακού. Έντονες αντιδράσεις προκαλούν στη μπασκετική Ευρώπη οι δηλώσεις του προέδρου της Παρτιζάν, Όστογια Μιχαΐλοβιτς, ο οποίος προχώρησε σε εξαιρετικά σοβαρές καταγγελίες αναφορικά με την περσινή παρουσία του […]\nThe post «Πυρά» Μιχαΐλοβιτς για μεταγραφή Ολυμπιακού: «Διώξαμε τον παίκτη που έκανε σαμποτάζ στον Ομπράντοβιτς!» appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/11/obradovic-8.jpg"
-        },
-        {
-          "title": "Europa League: Μεγάλο οικονομικό κέρδος ο Παναθηναϊκός! – Το συνολικό ποσό (pic)",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/europa-league-megalo-oikonomiko-kerdos-o-panathin/?utm_source=rss&utm_medium=rss&utm_campaign=europa-league-megalo-oikonomiko-kerdos-o-panathin",
-          "pubDate": "Sat, 24 Jan 2026 11:41:16 +0000",
-          "description": "Σημαντικά διαφορετικό είναι πλέον το οικονομικό τοπίο στις ευρωπαϊκές διοργανώσεις της UEFA, με την εισαγωγή της League Phase να αυξάνει κατακόρυφα τόσο τον ανταγωνισμό όσο και τα εγγυημένα έσοδα των συλλόγων. Η αλλαγή αυτή δεν αφορά μόνο το Champions League, όπου τα ποσά έχουν εκτοξευθεί, αλλά αποτυπώνεται ξεκάθαρα και στο Europa League, όπως προκύπτει από […]\nThe post Europa League: Μεγάλο οικονομικό κέρδος ο Παναθηναϊκός! – Το συνολικό ποσό (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/08/europa-league.jpg"
-        },
-        {
-          "title": "Παναθηναϊκός: Διπλό μεταγραφικό χτύπημα!",
-          "link": "https://panathinaikos24.gr/2026/01/24/617450/panathinaikos-diplo-metagrafiko-xtypima/",
-          "pubDate": "Sat, 24 Jan 2026 11:37:56 +0000",
-          "description": "Έρχεται διπλή ενίσχυση στον Παναθηναϊκό.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4998456.jpg?fit=900%2C598&amp;ssl=1"
-        },
-        {
-          "title": "Παναθηναϊκός: Ξανά στο ΟΑΚΑ για την πρόκριση στα ημιτελικά της Ευρώπης, με φόντο απίθανο ρεκόρ!",
-          "link": "https://trifilara.gr/panathinaikos-xana-sto-oaka-gia-tin-prokrisi-sta-imitelika-tis-evropis-me-fonto-apithano-rekor/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-xana-sto-oaka-gia-tin-prokrisi-sta-imitelika-tis-evropis-me-fonto-apithano-rekor",
-          "pubDate": "Sat, 24 Jan 2026 11:34:51 +0000",
-          "description": "Ο κύβος ερρίφθη και ο Παναθηναϊκός θα φιλοξενήσει ξανά στο Telekom Center τη Μερσίν (05/02) με στόχο το όνειρο της πρόκρισης και το απόλυτο ρεκόρ στο Eurocup Women!\nThe post Παναθηναϊκός: Ξανά στο ΟΑΚΑ για την πρόκριση στα ημιτελικά της Ευρώπης, με φόντο απίθανο ρεκόρ! appeared first on Trifilara.gr.",
-          "thumbnail": null
         }
       ]
     },
