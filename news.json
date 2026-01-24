@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T22:05:27.474Z",
+  "lastUpdated": "2026-01-24T22:10:27.487Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2: Ο Εμπαπέ έστειλε τη «Βασίλισσα» στην κορυφή της «La Liga»",
+          "link": "https://www.newsit.gr/athlitika/vigiareal-real-madritis-0-2-o-empape-esteile-ti-vasilissa-stin-koryfi-tis-la-liga/4582746/",
+          "pubDate": "Sat, 24 Jan 2026 22:04:24 +0000",
+          "description": "Δύο γκολ του Κιλιάν Εμπαπέ έγραψαν την ιστορία του αγώνα στο Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2 και επέτρεψαν στη “Βασίλισσα” να βρεθεί ξανά στην κορυφή ...  \nTo άρθρο Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2: Ο Εμπαπέ έστειλε τη «Βασίλισσα» στην κορυφή της «La Liga» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mbappe-3-1200x854.jpg"
+        },
         {
           "title": "Γιώργος Θαναηλάκης: Στην αρχή αυτό με το Luben ήταν λίγο ενοχλητικό, σκεφτόμουν ότι γινόμουν ρεζίλι",
           "link": "https://www.newsit.gr/lifestyle/giorgos-thanailakis-stin-arxi-ayto-me-to-luben-itan-ligo-enoxlitiko-skeftomoun-oti-ginomoun-rezili/4582562/",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 20:15:58 +0000",
           "description": "Με 4 ειδικές διαδρομές σήμερα, μία εκ των οποίων η υπερ-ειδική διαδρομή στο Μονακό, το πρώτο ράλι της χρονιάς του WRC φαίνεται ότι θα έχει ...  \nTo άρθρο WRC: Δύσκολα θα χάσει στο Μόντε Κάρλο ο Solberg δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/wrc-toyota-featured-wrc.jpg"
-        },
-        {
-          "title": "Στην κάμερα «χτύπημα» απατεώνων στα Πατήσια – Είχαν πείσει ηλικιωμένη να τους παραδώσει κοσμήματά και χρήματα",
-          "link": "https://www.newsit.gr/ellada/stin-kamera-xtypima-apateonon-sta-patisia-eixan-peisei-ilikiomeni-na-tous-paradosei-kosmimata-kai-xrimata/4582690/",
-          "pubDate": "Sat, 24 Jan 2026 20:15:13 +0000",
-          "description": "Οι απατεώνες κατάφεραν μεν να πείσουν μια ηλικιωμένη να τους παραδώσει χρήματα και κοσμήματα γιατί… «είχε διαρροή το σπίτι της» ωστόσο… λογάριαζαν χωρίς την γειτόνισσα, ...  \nTo άρθρο Στην κάμερα «χτύπημα» απατεώνων στα Πατήσια – Είχαν πείσει ηλικιωμένη να τους παραδώσει κοσμήματά και χρήματα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-3.jpg"
         }
       ]
     },
@@ -657,11 +657,18 @@
       "color": "green",
       "articles": [
         {
+          "title": "Μαρσέιγ - Λανς 3-1: Δώρο από τους Μασσαλούς στην Παρί",
+          "link": "https://www.gazzetta.gr/football/ligue-1/2509896/marseig-lans-3-1-doro-apo-toys-massaloys-stin-pari",
+          "pubDate": "Sun, 25 Jan 2026 00:05:45 +0200",
+          "description": "Η Μαρσέιγ έβαλε φρένο στης Λανς, καθώς επικράτησε με 3-1, την άφησε στη δεύτερη θέση της βαθμολογίας, κάτω από την Παρί Σεν Ζερμέν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/marseille_nwaneri.jpg?itok=qykIc3X7"
+        },
+        {
           "title": "Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2: Ο Εμπαπέ έστειλε τη «Βασίλισσα» στην κορυφή της «La Liga»",
-          "link": "https://www.newsit.gr/uncategorized/vigiareal-real-madritis-0-2-o-empape-esteile-ti-vasilissa-stin-koryfi-tis-la-liga/4582746/",
+          "link": "https://www.newsit.gr/athlitika/vigiareal-real-madritis-0-2-o-empape-esteile-ti-vasilissa-stin-koryfi-tis-la-liga/4582746/",
           "pubDate": "Sat, 24 Jan 2026 22:04:24 +0000",
-          "description": "Δύο γκολ του Κιλιάν Εμπαπέ έγραψαν την ιστορία του αγώνα στο Βιγιαρεάλ – Ρεάλ Μαδρίτης και επέτρεψαν στη “Βασίλισσα” να βρεθεί ξανά στην κορυφή της ...  \nTo άρθρο Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2: Ο Εμπαπέ έστειλε τη «Βασίλισσα» στην κορυφή της «La Liga» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": null
+          "description": "Δύο γκολ του Κιλιάν Εμπαπέ έγραψαν την ιστορία του αγώνα στο Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2 και επέτρεψαν στη “Βασίλισσα” να βρεθεί ξανά στην κορυφή ...  \nTo άρθρο Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2: Ο Εμπαπέ έστειλε τη «Βασίλισσα» στην κορυφή της «La Liga» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mbappe-3-1200x854.jpg"
         },
         {
           "title": "Λε Πορτέλ - Παρί 57-120: Κανταποντισμός χωρίς προηγούμενο με 63 πόντους διαφορά",
@@ -858,13 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 20:26:43 +0000",
           "description": "Η ΑΕΚ «απέδρασε» από την Τρίπολη με το διπλό με 1-0 επί του Αστέρα, αλλά είδε τέσσερις παίκτες της να δέχονται την κίτρινη κάρτα του ...  \nTo άρθρο ΑΕΚ: Γιόβιτς, Ρότα, Ρέλβας και Κοϊτά συμπλήρωσαν κάρτες και θα χάσουν ένα από τα επόμενα παιχνίδια της Super League δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-2-1-1200x799.jpg"
-        },
-        {
-          "title": "Παναθηναϊκός - ΑΕΚ 3-0: Διατήρησε το απόλυτο υποτάσσοντας την Ένωση ",
-          "link": "https://www.gazzetta.gr/volleyball/volley-league-gynaikon/2509866/panathinaikos-aek-3-0-diatirise-apolyto-ypotassontas-tin",
-          "pubDate": "Sat, 24 Jan 2026 22:25:34 +0200",
-          "description": "Ο Παναθηναϊκός υπέταξε την ΑΕΚ με 3-0 σετ στο ματς που τράβηξε τα βλέμματα στη 15η αγωνιστική της Volley League γυναικών...",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/panathinaikos_vs_aek.jpg?itok=UJOndgye"
         }
       ]
     },
@@ -1089,6 +1089,13 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Elon Musk vs Jeff Bezos: Η μάχη για το Terabit internet από το διάστημα",
+          "link": "https://gr.pcmag.com/networking/51102/elon-musk-vs-jeff-bezos-e-makhe-gia-to-terabit-internet-apo-to-diastema",
+          "pubDate": "Sat, 24 Jan 2026 21:54:20 +0000",
+          "description": "Μετά την ανακοίνωση του TeraWave από την Blue Origin, ο Musk απαντά ότι το Starlink θα χρησιμοποιήσει λέιζερ για να προσφέρει ακόμα υψηλότερες ταχύτητες απευθείας στη Γη.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/a/after-tera/after-terawave-launch-elon-musk-teases-terabit-speeds-for-st_f7zr.jpg"
+        },
+        {
           "title": "Spotify Prompted Playlist: Η AI φτιάχνει την τέλεια λίστα αναπαραγωγής με δικές σου οδηγίες",
           "link": "https://gr.pcmag.com/streaming-music-services/51101/spotify-prompted-playlist-e-ai-phtiakhnei-ten-teleia-lista-anaparagoges-me-dikes-sou-odegies",
           "pubDate": "Sat, 24 Jan 2026 21:34:50 +0000",
@@ -1290,13 +1297,6 @@
           "pubDate": "Fri, 23 Jan 2026 07:16:00 +0200",
           "description": "Η αναμονή για τους λάτρεις της Ετέρνια έφτασε στο τέλος της. Η Amazon MGM Studios έδωσε στη δημοσιότητα το πρώτο trailer για την πολυαναμενόμενη ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/he-man-live-action-trailer.jpg"
-        },
-        {
-          "title": "Ρομπότ με «ανθρώπινη» αίσθηση: Πώς η στατιστική νικά τα Big Data στην κίνηση",
-          "link": "https://www.techgear.gr/rompot-me-anthropini-aisthisi-pos-i-statistiki-nika-ta-big-data-stin-kinisi-47286",
-          "pubDate": "Fri, 23 Jan 2026 07:09:00 +0200",
-          "description": "Η ικανότητα των ρομπότ να μιμούνται την ανθρώπινη κίνηση αποτελεί εδώ και δεκαετίες ένα από τα πιο απαιτητικά πεδία έρευνας στη μηχανική. Ενώ οι ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/robot-handing-object.jpg"
         }
       ]
     }
