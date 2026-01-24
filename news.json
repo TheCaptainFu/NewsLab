@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T18:56:03.723Z",
+  "lastUpdated": "2026-01-24T18:56:39.576Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -441,13 +441,6 @@
       "color": "blue",
       "articles": [
         {
-          "title": "Αναφορές ότι «μεταφέρθηκε σε υπόγειο καταφύγιο» ο Αγιατολάχ Αλί Χαμενεΐ",
-          "link": "http://gr.euronews.com/2026/01/24/anafores-oti-metaferthike-se-ypogeio-katafygio-o-agiatolax-ali-xamenei",
-          "pubDate": "Sat, 24 Jan 2026 19:31:38 +0100",
-          "description": "«Θα υπερασπιστούμε μέχρι θανάτου» λέει ο ιρανικός στρατός - Κλιμακώνονται οι στρατιωτικές και πολιτικές εντάσεις αλλά και οι φόβοι για άμεση σύγκρουση μεταξύ ΗΠΑ και Ιράν",
-          "thumbnail": null
-        },
-        {
           "title": "Snow ploughs battle blizzards on roads and runways in Oklahoma",
           "link": "https://www.bbc.com/news/videos/cvgj13e5ddlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Jan 2026 17:52:07 GMT",
@@ -649,6 +642,13 @@
           "pubDate": "Sat, 24 Jan 2026 06:02:41 GMT",
           "description": "Rescue teams are searching the West Java village for 83 people who are still unaccounted for.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1631/live/4ba68cc0-f8e9-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
+          "title": "Αυτά είναι τα μεγάλα αεροδρόμια των επόμενων ετών που θα αλλάξουν τον τρόπο που πετάμε",
+          "link": "http://gr.euronews.com/travel/2026/01/24/the-major-new-travel-hubs-that-are-going-to-change-the-way-we-fly",
+          "pubDate": "Sat, 24 Jan 2026 07:02:22 +0100",
+          "description": "Από την Πολωνία έως την Αιθιοπία, αυτοί είναι όλοι οι επικείμενοι νέοι συγκοινωνιακοί κόμβοι που θα ανοίξουν στη διάρκεια της επόμενης δεκαετίας.",
+          "thumbnail": null
         }
       ]
     },
