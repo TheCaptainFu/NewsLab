@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T13:05:24.237Z",
+  "lastUpdated": "2026-01-25T13:10:30.522Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Καιρός: Ραγδαία επιδείνωση με καταιγίδες και χαλάζι – Θυελλώδεις άνεμοι 9 μποφόρ",
+          "link": "https://www.newsit.gr/ellada/kairos-ragdaia-epideinosi-me-kataigides-kai-xalazi-thyellodeis-anemoi-9-mpofor/4582995/",
+          "pubDate": "Sun, 25 Jan 2026 13:05:09 +0000",
+          "description": "Ραγδαία επιδείνωση θα παρουσιάσει ο καιρός από αύριο Δευτέρα (26.01.2026) με τις βροχές και τις καταιγίδες να κάνουν αισθητή την παρουσία τους, ενώ θα πνέουν ...  \nTo άρθρο Καιρός: Ραγδαία επιδείνωση με καταιγίδες και χαλάζι – Θυελλώδεις άνεμοι 9 μποφόρ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xalazi-eurok-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Οι Αθώοι: Αυτοί είναι οι τρεις βασικοί χαρακτήρες της νέας υπερπαραγωγής του Mega",
+          "link": "https://www.newsit.gr/media/oi-athooi-aytoi-einai-oi-treis-vasikoi-xaraktires-tis-neas-yperparagogis-tou-mega/4581934/",
+          "pubDate": "Sun, 25 Jan 2026 13:04:00 +0000",
+          "description": "Η μεγάλη παραγωγή του MEGA, με τίτλο «Οι Αθώοι», μια σειρά εποχής βασισμένη στο εξαιρετικό πεζογράφημα του Κωνσταντίνου Θεοτόκη, «Κατάδικος», έρχεται στις οθόνες μας την ...  \nTo άρθρο Οι Αθώοι: Αυτοί είναι οι τρεις βασικοί χαρακτήρες της νέας υπερπαραγωγής του Mega δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/athooi-1-1200x688.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Βεζένκοφ και Πετρόπουλος έπαιξαν μπουνιές, αποβλήθηκε ο παίκτης του Ολυμπιακού",
           "link": "https://www.newsit.gr/athlitika/vezenkof-kai-petropoulos-epaiksan-mpounies-apovlithike-o-paiktis-tou-olympiakou/4582994/",
@@ -231,22 +247,6 @@
           "description": "Έγγραφο του Αμερικανικού Πενταγώνου δρομολογεί εξελίξεις που πιθανότατα θα ανησυχήσουν τη Σεούλ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/korea-amerikanikes-deinameis-in.gr_-768x511.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "«Ο Τσάμπι Αλόνσο είναι σε επαφές με τη Λίβερπουλ»",
-          "link": "https://www.in.gr/2026/01/25/sports/football/o-tsampi-alonso-einai-se-epafes-ti-liverpoul/",
-          "pubDate": "Sun, 25 Jan 2026 14:38:17 +0300",
-          "description": "Για επαφή της Λίβερπουλ με τον Τσάμπι Αλόνσο κάνουν λόγο ξένα Μέσα – Τι απάντησε ο Ισπανός;",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Xabi-Alonso-e1762961434729-1-768x435.jpeg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μετά από 12 χρόνια σιωπής, πατέρας και κόρη στο εδώλιο με εισαγγελική πρόταση για υπόθεση αιμομιξίας στη Ρόδο ",
-          "link": "https://www.protothema.gr/greece/article/1763043/meta-apo-12-hronia-siopis-pateras-kai-kori-sto-edolio-me-eisaggeliki-protasi-gia-upothesi-aimomixias-sti-rodo/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 13:33:48 +0200",
-          "description": "Ζητείται να παραμείνει προφυλακισμένος ο 55χρονος μέχρι τη δίκη – Στο επίκεντρο γέννηση παιδιού και εργαστηριακά ευρήματα - Η εισαγγελική εκτίμηση περιγράφει γεγονότα που φέρονται να ξεκινούν το 2010 και να φτάνουν έως τις αρχές του 2022",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/dikastirio.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Κολοσσός - Ολυμπιακός 85-98: Με «τριπλό» Γουόρντ, πέρασε από τη Ρόδο ",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510006/kolossos-olympiakos-85-98-me-triplo-goyornt-perase-apo-ti-rodo",
+          "pubDate": "Sun, 25 Jan 2026 15:08:16 +0200",
+          "description": "Ο Ολυμπιακός, σε ένα παιχνίδι στο οποίο είχε προβλήματα και απέκτησε ακόμη περισσότερα, πήρε τη νίκη μέσα στη Ρόδο επί του Κολοσσού (85-98) με τον Τάισον Γουόρντ να λάμπει.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ward_eurokinissi.jpg?itok=_8ie3NIm",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Survivor: «Έχεις καμία σχέση με τον Λιάγκα;» - H ερώτηση του Λιανού που έφερε την πιο επική ατάκα για φέτος",
+          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
+          "pubDate": "Sun, 25 Jan 2026 15:06:00 +0200",
+          "description": "Το 2004 ο Ρίο Φέρντιναντ τιμωρήθηκε με 8 μήνες αποκλεισμό από τα γήπεδα με αποτέλεσμα εκτός των άλλων να χάσει και το Euro της Πορτογαλίας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/survivor-giorgos-lianos-skai_1.jpg.jpg?itok=BHHwv9gt",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Australian Open: Προκρίθηκαν στους \"8\" Αλκαράθ και Ζβέρεφ (vids)",
+          "link": "https://www.gazzetta.gr/tennis/australian-open/2510003/australian-open-prokrithikan-stoys-8-alkarath-kai-zberef-vids",
+          "pubDate": "Sun, 25 Jan 2026 15:05:12 +0200",
+          "description": "Στα προημιτελικά του Australian Open προκρίθηκαν οι Κάρλος Αλκαράθ και Αλεξάντερ Ζβέρερ, επικρατώντας με σχετική ευκολία στον τέταρτο γύρο της διοργάνωσης...",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/alexander_zverev_ausopen26.jpg?itok=Wt8n3DYK",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Βεζένκοφ και Πετρόπουλος έπαιξαν μπουνιές, αποβλήθηκε ο παίκτης του Ολυμπιακού",
           "link": "https://www.newsit.gr/athlitika/vezenkof-kai-petropoulos-epaiksan-mpounies-apovlithike-o-paiktis-tou-olympiakou/4582994/",
           "pubDate": "Sun, 25 Jan 2026 13:02:31 +0000",
@@ -961,30 +985,6 @@
           "description": "Χωρίς τους Κέντρικ Ναν και Τσέντι Όσμαν θα υποδεχθεί ο Παναθηναϊκός το Μαρούσι για την Stoiximan GBL.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/nunn_osman_intime.jpg?itok=MXhRzr4w",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Η αντίδραση των Τσιριβέγια και Καλάμπρια στην χαμένη ευκαιρία του Πελίστρι και η «καυτή» κερκίδα",
-          "link": "https://www.gazzetta.gr/football/superleague/2509970/panathinaikos-i-antidrasi-ton-tsiribegia-kai-kalampria-stin-hameni",
-          "pubDate": "Sun, 25 Jan 2026 13:17:41 +0200",
-          "description": "Η παρακάμερα του Παναθηναϊκού από τον αγώνα με την Φερεντσβάρος «ντύθηκε» με τα συνθήματα της τρομερής εξέδρας των φίλων του «τριφυλλιού» στην Βουδαπέστη.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pellistri_intime_0.jpg?itok=HZCjYSM8",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Ολυμπιακός στη μάχη για τον επιθετικό της Ρίβερ Πλέιτ, Αγκουστίν Ρουμπέρτο",
-          "link": "https://www.newsit.gr/athlitika/o-olympiakos-sti-maxi-gia-ton-epithetiko-tis-river-pleit-agkoustin-roumperto/4582950/",
-          "pubDate": "Sun, 25 Jan 2026 11:10:00 +0000",
-          "description": "Ο Ολυμπιακός φέρεται να είναι στη μάχη για τον επιθετικό της Ρίβερ Πλέιτ, Αγκουστίν, Ρουμπέρτο, σύμφωνα με τον Τούρκο δημοσιογράφο, Εκρέμ Κονούρ. Η μεταγραφική περίοδος ...  \nTo άρθρο Ο Ολυμπιακός στη μάχη για τον επιθετικό της Ρίβερ Πλέιτ, Αγκουστίν Ρουμπέρτο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ruberto-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Τζόκοβιτς ανακοίνωσε την παρουσία του στο ΣΕΦ για τον αγώνα του Ολυμπιακού με τον Ερυθρό Αστέρα!",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2509968/o-tzokobits-anakoinose-tin-paroysia-toy-sto-sef-gia-ton-agona-toy",
-          "pubDate": "Sun, 25 Jan 2026 13:07:43 +0200",
-          "description": "Ο Νόβακ Τζόκοβιτς μίλησε για την αγάπη του για τον Ερυθρό Αστέρα, ενώ προανήγγειλε και την παρουσία του στο επικείμενο αγώνα της ομάδας του στο ΣΕΦ κόντρα στον Ολυμπιακό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/djokovic_1_0.jpg?itok=cV3Vacos",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Να αλλάξει πρόσωπο και στο πρωτάθλημα ο Παναθηναϊκό! – Η τηλεοπτική μετάδοση",
+          "link": "https://trifilara.gr/na-allaxei-prosopo-kai-sto-protathlima-o-panathinaiko-i-tileoptiki-metadosi/?utm_source=rss&utm_medium=rss&utm_campaign=na-allaxei-prosopo-kai-sto-protathlima-o-panathinaiko-i-tileoptiki-metadosi",
+          "pubDate": "Sun, 25 Jan 2026 13:05:27 +0000",
+          "description": "Το βράδυ της Κυριακής 25 Ιανουαρίου, στις 19:30, ο Παναθηναϊκός δοκιμάζεται στο Δημοτικό Στάδιο Περιστερίου απέναντι στον Ατρόμητο, για την 18η αγωνιστική της Super League. Η εβδομάδα που προηγήθηκε ήταν από τις πιο απαιτητικές της σεζόν για το «Τριφύλλι». Η πρόκριση στα ημιτελικά του Κυπέλλου Ελλάδας δημιούργησε κλίμα αισιοδοξίας, το οποίο όμως διαλύθηκε στο αθηναϊκό […]\nThe post Να αλλάξει πρόσωπο και στο πρωτάθλημα ο Παναθηναϊκό! – Η τηλεοπτική μετάδοση appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
         {
           "title": "Η… 10άδα του Παναθηναϊκού με Μαρούσι!",
           "link": "https://trifilara.gr/i-10ada-tou-panathinaikou-me-marousi/?utm_source=rss&utm_medium=rss&utm_campaign=i-10ada-tou-panathinaikou-me-marousi",
@@ -1223,14 +1231,6 @@
           "description": "Το αήττητο σερί που τρέχει σε Ελλάδα και Ευρώπη συνέχισε ο Παναθηναϊκός, επικρατώντας με 3-0 σετ της ΑΕΚ, στο πλαίσιο της 15ης αγωνιστικής της Volley League γυναικών.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5002718.jpg?fit=1200%2C801&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Δώνης: «Πολλά πάνω-κάτω με Αλαφούζο, δεν ερχόταν καν – Είμαι ένας περίεργος τύπος»",
-          "link": "https://trifilara.gr/donis-polla-pano-kato-me-alafouzo-den-erchotan-kan-eimai-enas-periergos-typos/?utm_source=rss&utm_medium=rss&utm_campaign=donis-polla-pano-kato-me-alafouzo-den-erchotan-kan-eimai-enas-periergos-typos",
-          "pubDate": "Sat, 24 Jan 2026 20:04:42 +0000",
-          "description": "Αναλυτικά όσα είπε στους Betarades: Για τον πάγκο της Εθνικής: «Έχει σημασία τι εθνικότητα θα είναι ο προπονητής της Εθνικής. Εγώ θέλω Έλληνα προπονητή στην εθνική ομάδα. Αυτό δεν σημαίνει ότι δεν φταίμε και εμείς οι Έλληνες προπονητές. Μου αρέσει η εικόνα να βλέπω Σέρβο στην Εθνική Σερβίας, Άγγλο στην Εθνική Αγγλίας…» Για τη θητεία […]\nThe post Δώνης: «Πολλά πάνω-κάτω με Αλαφούζο, δεν ερχόταν καν – Είμαι ένας περίεργος τύπος» appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         }
       ]
     },
@@ -1238,6 +1238,14 @@
       "title": "ΤΕΧΝΟΛΟΓΙΑ & SCIENCE",
       "color": "pink",
       "articles": [
+        {
+          "title": "Samsung Galaxy Watch: Σοβαρό bug στο «Do Not Disturb» αφήνει τις ειδοποιήσεις ενεργές",
+          "link": "https://gr.pcmag.com/wearables-1/51105/samsung-galaxy-watch-sobaro-bug-sto-do-not-disturb-aphenei-tis-eidopoieseis-energes",
+          "pubDate": "Sun, 25 Jan 2026 13:08:02 +0000",
+          "description": "Το σφάλμα επηρεάζει τα μοντέλα από το Galaxy Watch 4 έως το 8 που τρέχουν One UI 8, ακυρώνοντας τη σίγαση μετά από λίγα δευτερόλεπτα.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/s/samsung-ga/samsung-galaxy-watch-bug-stops-do-not-disturb-mode-working-p_4h53.jpg",
+          "source": "PC Magazine"
+        },
         {
           "title": "Raspberry Pi Flash Drive: Η εταιρεία λανσάρει τα δικά της USB 3.0 sticks με έμφαση στην αντοχή",
           "link": "https://gr.pcmag.com/storage/51104/raspberry-pi-flash-drive-e-etaireia-lansarei-ta-dika-tes-usb-30-sticks-me-emphase-sten-antokhe",
@@ -1468,14 +1476,6 @@
           "pubDate": "Fri, 23 Jan 2026 12:46:00 +0200",
           "description": "Φανταστείτε ένα κτίριο αχανές, γεμάτο μηχανήματα βαρέος τύπου, όπου επικρατεί απόλυτη ησυχία και, το κυριότερο, απόλυτο σκοτάδι. Δεν υπάρχουν άνθρωποι...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/china-robots-factory.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Το Adobe Acrobat μετατρέπει έγγραφα PDF σε podcasts και παρουσιάσεις",
-          "link": "https://www.techgear.gr/to-adobe-acrobat-metatrepei-eggrafa-pdf-se-podcasts-kai-paroysiaseis-47293",
-          "pubDate": "Fri, 23 Jan 2026 12:30:00 +0200",
-          "description": "Η έννοια του ψηφιακού εγγράφου αλλάζει ριζικά. Το Adobe Acrobat, το εργαλείο που επί δεκαετίες αποτελεί συνώνυμο της ανάγνωσης και επεξεργασίας ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/adobe-pdf-to-podcast.jpg",
           "source": "Techgear"
         }
       ]
