@@ -1,17 +1,31 @@
 {
-  "lastUpdated": "2026-01-25T08:20:29.681Z",
-  "totalArticles": 178,
+  "lastUpdated": "2026-01-25T08:25:27.700Z",
+  "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
         {
-          "title": "Συνελήφθησαν 24χρονος και 22χρονος που έτρεχαν με 179 χλμ/ώρα στην εσωτερική περιφερειακή οδό στον κόμβο Ευόσμου",
+          "title": "Ο Ματίας Αλμέιδα αφιέρωσε τη νίκη στης Σεβίλλης κόντρα στην Μπιλμπάο σε αδικοχαμένο φίλαθλο",
+          "link": "https://www.newsit.gr/athlitika/o-matias-almeida-afierose-ti-niki-stis-sevillis-kontra-stin-mpilmpao-se-adikoxameno-filathlo/4582863/",
+          "pubDate": "Sun, 25 Jan 2026 08:21:06 +0000",
+          "description": "Η Σεβίλλη πανηγύρισε μία σπουδαία νίκη με 2-1 κόντρα στην Αθλέτικ Μπιλμπάο στην Ανδαλουσία το Σάββατο (24/01/26) και ο Ματίας Αλμέιδα θέλησε να την αφιερώσει ...  \nTo άρθρο Ο Ματίας Αλμέιδα αφιέρωσε τη νίκη στης Σεβίλλης κόντρα στην Μπιλμπάο σε αδικοχαμένο φίλαθλο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/screenshot-2026-01-25-100645.png"
+        },
+        {
+          "title": "Επιστρατεύονται δορυφόροι και κτηματολόγιο για τον έλεγχο των αγροτικών ενισχύσεων",
+          "link": "https://www.newsit.gr/oikonomia/finance/epistrateyontai-doryforoi-kai-ktimatologio-gia-ton-elegxo-ton-agrotikon-enisxyseon/4582853/",
+          "pubDate": "Sun, 25 Jan 2026 08:19:30 +0000",
+          "description": "Σε εξέλιξη βρίσκεται μια από τις σημαντικότερες μεταρρυθμίσεις των τελευταίων δεκαετιών στον τρόπο ελέγχου και καταβολής των αγροτικών ενισχύσεων προς τους αγρότες, με τη βοήθεια ...  \nTo άρθρο Επιστρατεύονται δορυφόροι και κτηματολόγιο για τον έλεγχο των αγροτικών ενισχύσεων δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xorafi-agrotes-eurokinissi.jpg"
+        },
+        {
+          "title": "Συνελήφθησαν 24χρονος και 22χρονος που έτρεχαν με 179 χλμ/ώρα στον Εύοσμο",
           "link": "https://www.protothema.gr/greece/article/1762962/sunelifthisan-24hronos-kai-22hronos-pou-etrehan-me-179-hlmora-stin-esoteriki-perifereiaki-odo-ston-komvo-euosmou/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 10:18:41 +0200",
+          "pubDate": "Sun, 25 Jan 2026 10:18:00 +0200",
           "description": "Το επιτρεπόμενο όριο στην περιοχή είναι 80 χλμ/ώρα",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-troxaia.jpg"
         },
@@ -91,6 +105,13 @@
           "pubDate": "Sun, 25 Jan 2026 07:23:58 +0000",
           "description": "Ρεκόρ σημείωσε το 2025 η πολιτική μερισμάτων των εισηγμένων εταιρειών, με τις εταιρείες του Χρηματιστηρίου Αθηνών να μοιράζουν συνολικά «δώρα» ύψους 6 δισ. ευρώ. Το ...  \nTo άρθρο Ρεκόρ μερισμάτων στο Χρηματιστήριο Αθηνών το 2025: 6 δισ. ευρώ μοίρασαν οι εισηγμένες εταιρείες δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xrimatistirio-athinon-eurokiniss-2-1200x800.jpg"
+        },
+        {
+          "title": "Σταμάτης Γονίδης: «Παιδί που ήταν σε κώμα μήνες, του τραγούδησα στο αυτί και σηκώθηκε»",
+          "link": "https://www.in.gr/2026/01/25/go-fun/fizz/stamatis-gonidis-paidi-pou-itan-se-koma-mines-tou-tragoudisa-sto-ayti-kai-sikothike/",
+          "pubDate": "Sun, 25 Jan 2026 10:20:12 +0300",
+          "description": "Ο Σταμάτης Γονίδης αποκαλύπτει ένα ιδιαίτερο περιστατικό που του έχει συμβεί.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1470_STAMATIS_GONIDIS_1112024-768x532.jpg"
         },
         {
           "title": "Ποιοι εργαζόμενοι θα δουν αύξηση μισθού στα τέλη του μήνα – Αναλυτικά παραδείγματα",
@@ -196,27 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 09:37:27 +0300",
           "description": "Ο πρωθυπουργός ολοένα και περισσότερο με τις δημόσιες δηλώσεις του αποτυπώνει την αμηχανία της κυβέρνησης σε σχέση με τις ελληνοαμερικανικές σχέσεις",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/mitsotakis-trumb-768x547.jpg"
-        },
-        {
-          "title": "Αυξήσεις μισθών για ένα εκατομμύριο εργαζόμενους στον ιδιωτικό τομέα αυτήν την εβδομάδα",
-          "link": "https://www.newsit.gr/oikonomia/xristika/ayksiseis-misthon-gia-ena-ekatommyrio-ergazomenous-ston-idiotiko-tomea-aytin-tin-evdomada/4582797/",
-          "pubDate": "Sun, 25 Jan 2026 06:36:02 +0000",
-          "description": "Εβδομάδα αυξήσεων για περίπου ένα εκατομμύριο εργαζομένους στον ιδιωτικό τομέα είναι η τρέχουσα, καθώς τίθενται σε πλήρη εφαρμογή οι αλλαγές στις κλίμακες άμεσης φορολόγησης. Πιο ...  \nTo άρθρο Αυξήσεις μισθών για ένα εκατομμύριο εργαζόμενους στον ιδιωτικό τομέα αυτήν την εβδομάδα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1429880520-1200x800.jpg"
-        },
-        {
-          "title": "Παιδικοί σταθμοί για... σκύλους, η νέα μόδα για τη luxury σκυλίσια ζωή",
-          "link": "https://www.protothema.gr/greece/article/1762268/paidikoi-stathmoi-gia-skulous-i-nea-moda-gia-ti-luxury-skulisia-zoi/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 08:35:24 +0200",
-          "description": "Μετά τα ξενοδοχεία σκύλων που εξυπηρετούν τους κηδεμόνες όταν δεν μπορούν να ταξιδεύουν με τα κατοικίδιά τους, τώρα ήρθαν και τα κέντρα ημερήσιας απασχόλησης και μάλιστα διαθέτουν και ... σχολικά",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-23/xrwma-skulia.jpg"
-        },
-        {
-          "title": "Super League: Ψάχνει διπλό στο Περιστέρι ο Παναθηναϊκός – Άρης και Λεβαδειακός «μάχονται» στο «Κλεάνθης Βικελίδης»",
-          "link": "https://www.in.gr/2026/01/25/sports/football/superleague-sto-peristeri-o-panathinaikos-maxes-se-thessaloniki-kai-kriti/",
-          "pubDate": "Sun, 25 Jan 2026 09:34:28 +0300",
-          "description": "Άρης – Λεβαδειακός, ΟΦΗ – Παναιτωλικός και Ατρόμητος – Παναθηναϊκός είναι τα σημερινά (25/1) ματς της Super League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6808509-768x512.jpg"
         }
       ]
     },
@@ -657,6 +657,13 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ο Ματίας Αλμέιδα αφιέρωσε τη νίκη στης Σεβίλλης κόντρα στην Μπιλμπάο σε αδικοχαμένο φίλαθλο",
+          "link": "https://www.newsit.gr/athlitika/o-matias-almeida-afierose-ti-niki-stis-sevillis-kontra-stin-mpilmpao-se-adikoxameno-filathlo/4582863/",
+          "pubDate": "Sun, 25 Jan 2026 08:21:06 +0000",
+          "description": "Η Σεβίλλη πανηγύρισε μία σπουδαία νίκη με 2-1 κόντρα στην Αθλέτικ Μπιλμπάο στην Ανδαλουσία το Σάββατο (24/01/26) και ο Ματίας Αλμέιδα θέλησε να την αφιερώσει ...  \nTo άρθρο Ο Ματίας Αλμέιδα αφιέρωσε τη νίκη στης Σεβίλλης κόντρα στην Μπιλμπάο σε αδικοχαμένο φίλαθλο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/screenshot-2026-01-25-100645.png"
+        },
+        {
           "title": "Κόρι Τζόσεφ: Την Δευτέρα (26/1) στην Ελλάδα ο Καναδός ",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2509941/kori-tzosef-tin-deytera-261-stin-ellada-o-kanados",
           "pubDate": "Sun, 25 Jan 2026 10:15:28 +0200",
@@ -858,13 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 23:38:00 +0200",
           "description": "Έφηβος εκμεταλλεύτηκε κενό επιστροφής χρημάτων σε ηλεκτρονικό κατάστημα και έβγαλε κέρδη άνω των 500.000 δολαρίων. Κατέληξε στη φυλακή για έξι χρόνια.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hack_1.jpg?itok=-K0aS8lT"
-        },
-        {
-          "title": "Γκέιγ: Τιμήθηκε για την κατάκτηση του Copa Africa μπροστά στον Ντίαθ",
-          "link": "https://www.gazzetta.gr/football/la-liga/2509890/gkeig-timithike-gia-tin-kataktisi-toy-copa-aafrica-mprosta-ston-ntiath",
-          "pubDate": "Sat, 24 Jan 2026 23:32:13 +0200",
-          "description": "Η απόλυτη αντίθεση συναισθημάτων συνέβη πριν το Βιγιαρεάλ - Ρεάλ Μαδρίτης, καθώς ο Γκέιγ τιμήθηκε για την κατάκτηση του Copa Africa μπροστά στα μάτια του Ντίαθ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gueye.jpg?itok=nUEebOnz"
         }
       ]
     },
@@ -887,6 +887,13 @@
           "thumbnail": null
         },
         {
+          "title": "ΙΣΟΠΕΔΩΣΕ την ΑΕΚ με… ΣΚΟΥΠΑ ο Παναθηναϊκός! – Συνεχίζουν αήττητες τα… φίνα κορίτσια",
+          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/isopedose-tin-aek-me-skoupa-o-panathin/?utm_source=rss&utm_medium=rss&utm_campaign=isopedose-tin-aek-me-skoupa-o-panathin",
+          "pubDate": "Sat, 24 Jan 2026 20:45:47 +0000",
+          "description": "Μια εμφάνιση που ξεκίνησε με ένταση, εξελίχθηκε σε επιβολή ρυθμού και κατέληξε σε ξεκάθαρη επιβεβαίωση ανωτερότητας. Ισορροπημένο ήταν το ξεκίνημα του αγώνα, με τις δύο ομάδες να συμβαδίζουν στο σκορ και να πηγαίνουν πόντο πόντο, μέχρι τη στιγμή που ο Παναθηναϊκός κατάφερε να «ξεφύγει» με +2 στο 15-13. Το προβάδισμα δεν κράτησε για πολύ, καθώς […]\nThe post ΙΣΟΠΕΔΩΣΕ την ΑΕΚ με… ΣΚΟΥΠΑ ο Παναθηναϊκός! – Συνεχίζουν αήττητες τα… φίνα κορίτσια appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/erasitexnis-1.jpg"
+        },
+        {
           "title": "Ασταμάτητα τα κορίτσια με περίπατο επί της ΑΕΚ",
           "link": "https://panathinaikos24.gr/2026/01/24/617534/astamatita-ta-koritsia-me-peripato-epi-tis-aek/",
           "pubDate": "Sat, 24 Jan 2026 20:30:06 +0000",
@@ -901,11 +908,25 @@
           "thumbnail": null
         },
         {
+          "title": "Παναθηναϊκός: Το προσπαθεί για Σεχ Νιάς για τον άξονα!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/to-prospathei-gia-niasse-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=to-prospathei-gia-niasse-o-panathinaikos",
+          "pubDate": "Sat, 24 Jan 2026 19:56:26 +0000",
+          "description": "Η αποκάλυψη του «Όλα Πράσινα», το stand by του Κραλ και το δύσκολο αλλά υπαρκτό σενάριο αγοράς από τη Βερόνα. Σύμφωνα με πληροφορίες που μεταδόθηκαν στην εκπομπή «The Green Reporter» του «Όλα Πράσινα», ο Παναθηναϊκός συνεχίζει να δουλεύει παράλληλα περισσότερα από ένα μεταγραφικά σενάρια για τον άξονα, επιβεβαιώνοντας πως ο σχεδιασμός δεν εξαντλείται σε μία […]\nThe post Παναθηναϊκός: Το προσπαθεί για Σεχ Νιάς για τον άξονα! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/niasse.jpg"
+        },
+        {
           "title": "Παναθηναϊκός: Ενδείξεις από την Ουνιόν πως ο Κραλ… πλησιάζει! (pic)",
           "link": "https://trifilara.gr/panathinaikos-endeixeis-apo-tin-ounion-pos-o-kral-plisiazei-pic/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-endeixeis-apo-tin-ounion-pos-o-kral-plisiazei-pic",
           "pubDate": "Sat, 24 Jan 2026 19:49:30 +0000",
           "description": "Μια απουσία που δεν περνά απαρατήρητη και ενισχύει την αίσθηση ότι η υπόθεση μπαίνει στην τελική της ευθεία.\nThe post Παναθηναϊκός: Ενδείξεις από την Ουνιόν πως ο Κραλ… πλησιάζει! (pic) appeared first on Trifilara.gr.",
           "thumbnail": null
+        },
+        {
+          "title": "Δώνης: «Πολύ ευγενής ο Αλαφούζος – Είχα συναντηθεί με επενδυτή του Παναθηναϊκού»!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/donis-poly-evgenis-o-alafouzos-eicha/?utm_source=rss&utm_medium=rss&utm_campaign=donis-poly-evgenis-o-alafouzos-eicha",
+          "pubDate": "Sat, 24 Jan 2026 19:21:20 +0000",
+          "description": "Στο τρίτο κομμάτι του στην συνέντευξη του Γιώργου Δώνη στους Betarades, ο Έλληνας τεχνικός μίλησε για τον Γιάννη Αλαφούζο και πολλά θέματα σχετικά με τον Παναθηναϊκό. Αναλυτικά όσα είπε στους Betarades: Για τον πάγκο της Εθνικής: «Έχει σημασία τι εθνικότητα θα είναι ο προπονητής της Εθνικής. Εγώ θέλω Έλληνα προπονητή στην εθνική ομάδα. Αυτό δεν […]\nThe post Δώνης: «Πολύ ευγενής ο Αλαφούζος – Είχα συναντηθεί με επενδυτή του Παναθηναϊκού»! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Donis.jpg"
         },
         {
           "title": "Live Streaming: Παναθηναϊκός- ΑΕΚ",
@@ -922,11 +943,25 @@
           "thumbnail": null
         },
         {
+          "title": "Παναθηναϊκός: Παρουσία Αλαφούζου στο Κορωπί πριν τον Ατρόμητο!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-parousia-alafouzou-sto/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-parousia-alafouzou-sto",
+          "pubDate": "Sat, 24 Jan 2026 18:28:55 +0000",
+          "description": "Μια εικόνα που προσθέτει βάρος και στέλνει μήνυμα ενότητας λίγες ώρες πριν από μια απαιτητική αγωνιστική υποχρέωση. Στο «Γ. Καλαφάτης» βρέθηκε ο Γιάννης Αλαφούζος, παρακολουθώντας από κοντά την τελευταία προπόνηση του Παναθηναϊκός πριν από την εκτός έδρας αναμέτρηση με τον Ατρόμητος, που είναι προγραμματισμένη για την Κυριακή 25 Ιανουαρίου. Η παρουσία του μεγαλομετόχου στο προπονητικό […]\nThe post Παναθηναϊκός: Παρουσία Αλαφούζου στο Κορωπί πριν τον Ατρόμητο! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/11/alafouzos-2-3.jpg"
+        },
+        {
           "title": "Εμφατικό πέρασμα για τον Παναθηναϊκό από το Περιστέρι! – Τριάρα χωρίς άγχος για τους «πράσινους»",
           "link": "https://trifilara.gr/emfatiko-perasma-gia-ton-panathinaiko-apo-to-peristeri-triara-choris-agchos-gia-tous-prasinous/?utm_source=rss&utm_medium=rss&utm_campaign=emfatiko-perasma-gia-ton-panathinaiko-apo-to-peristeri-triara-choris-agchos-gia-tous-prasinous",
           "pubDate": "Sat, 24 Jan 2026 18:14:28 +0000",
           "description": "Ο Παναθηναϊκός έκανε άνετο πέρασμα από το Περιστέρι, με το «Τριφύλλι» να... σκορπίζει τον Ατρόμητο με 3-1 εκτός έδρας.\nThe post Εμφατικό πέρασμα για τον Παναθηναϊκό από το Περιστέρι! – Τριάρα χωρίς άγχος για τους «πράσινους» appeared first on Trifilara.gr.",
           "thumbnail": null
+        },
+        {
+          "title": "Άνετο πέρασμα από το Περιστέρι με… τριάρα! – Το «κερασάκι» ο Βύντρα",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/aneto-perasma-apo-to-peristeri-me-tri/?utm_source=rss&utm_medium=rss&utm_campaign=aneto-perasma-apo-to-peristeri-me-tri",
+          "pubDate": "Sat, 24 Jan 2026 17:57:56 +0000",
+          "description": "Μια εμφάνιση ελέγχου, ωριμότητας και αγωνιστικής υπεροχής που αποτυπώθηκε στο σκορ και στη συνολική εικόνα. Στις νίκες επέστρεψε η Κ19 του Παναθηναϊκού, με τους «πράσινους» να επικρατούν εκτός έδρας του Ατρομήτου με 3-1, σε μια αναμέτρηση όπου είχαν την απόλυτη πρωτοβουλία των κινήσεων και έδειξαν από νωρίς ποια ομάδα ήταν το αφεντικό του αγώνα. Το […]\nThe post Άνετο πέρασμα από το Περιστέρι με… τριάρα! – Το «κερασάκι» ο Βύντρα appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/K19-1.jpg"
         },
         {
           "title": "Εκτός αποστολής ο Κραλ για το ματς της Ουνιόν με την Ντόρτμουντ",
@@ -943,11 +978,46 @@
           "thumbnail": null
         },
         {
+          "title": "Παναθηναϊκός: Με μια απρόοπτη απουσία στο Περιστέρι! – Προπόνηση και η αποστολή για Ατρόμητο",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-me-mia-aproopti-apousia/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-me-mia-aproopti-apousia",
+          "pubDate": "Sat, 24 Jan 2026 17:15:10 +0000",
+          "description": "Τελευταίες δοκιμές, απουσίες και αποφάσεις λίγο πριν την… έξοδο στο Περιστέρι που απαιτεί συγκέντρωση και καθαρό μυαλό. Με απογευματινή προπόνηση στο «Γ. Καλαφάτης» ολοκληρώθηκε το Σάββατο (24/1) η προετοιμασία του Παναθηναϊκού για τον εκτός έδρας αγώνα πρωταθλήματος απέναντι στον Ατρόμητο, με το τεχνικό επιτελείο να ρίχνει το βάρος στις λεπτομέρειες και στη σωστή αγωνιστική συμπεριφορά. […]\nThe post Παναθηναϊκός: Με μια απρόοπτη απουσία στο Περιστέρι! – Προπόνηση και η αποστολή για Ατρόμητο appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/11/proponisi-5.jpg"
+        },
+        {
+          "title": "Κίνηση που δείχνει… Κραλ στον Παναθηναϊκό από Ουνιόν Βερολίνου! (pic)",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/kinisi-pou-deichnei-kral-ston-panathin/?utm_source=rss&utm_medium=rss&utm_campaign=kinisi-pou-deichnei-kral-ston-panathin",
+          "pubDate": "Sat, 24 Jan 2026 17:14:27 +0000",
+          "description": "Οι εξελίξεις στην Ουνιόν Βερολίνου ενισχύουν το σενάριο μεταγραφής του Τσέχου χαφ στο «Τριφύλλι». Σε πολύ καλό δρόμο φαίνεται πως βρίσκεται η υπόθεση του Άλεξ Κραλ για τον Παναθηναϊκός, με τις τελευταίες εξελίξεις στην Ουνιόν Βερολίνου να ενισχύουν το σενάριο επικείμενου deal. Ο 27χρονος Τσέχος χαφ έμεινε εκτός αποστολής για το σημερινό εντός έδρας παιχνίδι […]\nThe post Κίνηση που δείχνει… Κραλ στον Παναθηναϊκό από Ουνιόν Βερολίνου! (pic) appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/kral.jpg"
+        },
+        {
+          "title": "Σεβίλλη – Αθλ. Μπιλμπάο με ισορροπημένο Boost σε ημίχρονο – τελικό",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/sevilli-athl-bilbao-me-isorropime/?utm_source=rss&utm_medium=rss&utm_campaign=sevilli-athl-bilbao-me-isorropime",
+          "pubDate": "Sat, 24 Jan 2026 16:59:05 +0000",
+          "description": "ΠΑΙΞΕ ΝΟΜΙΜΑ | 21+ Η Σεβίλλη υποδέχεται την Αθλέτικ Μπιλμπάο το βράδυ του Σαββάτου στο «Ραμόν Σάντσεθ Πιθχουάν», σε ένα παιχνίδι που φέρνει αντιμέτωπες δύο ομάδες με ξεκάθαρα διαφορετικές προσδοκίες, αλλά κοινό παρονομαστή τη φετινή αστάθεια στη La Liga. Οι Ανδαλουσιάνοι βρίσκονται στη 14η θέση της βαθμολογίας με 21 βαθμούς μετά από 20 αγωνιστικές, μόλις […]\nThe post Σεβίλλη – Αθλ. Μπιλμπάο με ισορροπημένο Boost σε ημίχρονο – τελικό appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/ELABET-1.jpg"
+        },
+        {
           "title": "Παναθηναϊκός: Χωρίς Καλάμπρια στο Περιστέρι",
           "link": "https://panathinaikos24.gr/2026/01/24/617519/panathinaikos-xoris-kalampria-sto-peristeri/",
           "pubDate": "Sat, 24 Jan 2026 16:47:01 +0000",
           "description": "Απρόοπτο στον Παναθηναϊκό, ο οποίος θα πάει στο Περιστέρι, χωρίς τον Ντάβιντε Καλάμπρια, που έμεινε εκτός αποστολής λόγω ίωσης. Δεν υπολογίζει και πάλι σε Τζούριτσιτς ο Μπενίτεθ.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6768891.jpg?fit=900%2C599&amp;ssl=1"
+        },
+        {
+          "title": "STAND BY δύο ΜΕΤΑΓΡΑΦΕΣ! – Ο πρώην «πράσινος», τα ΚΡΥΦΑ ΧΑΡΤΙΑ για ΕΞΤΡΑ μέσο και ΕΠΙΘΕΤΙΚΟ (vid)",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/stand-by-dyo-metagrafes-o-proin-prasinos-t/?utm_source=rss&utm_medium=rss&utm_campaign=stand-by-dyo-metagrafes-o-proin-prasinos-t",
+          "pubDate": "Sat, 24 Jan 2026 16:14:08 +0000",
+          "description": "Η εκπομπή «The Green Reporter» του «Όλα Πράσινα», με τον Άρη Αντωνόπουλο να παρουσιάζει όλο το μεταγραφικό ρεπορτάζ των τελευταίων ημερών στον Παναθηναϊκό.\nThe post STAND BY δύο ΜΕΤΑΓΡΑΦΕΣ! – Ο πρώην «πράσινος», τα ΚΡΥΦΑ ΧΑΡΤΙΑ για ΕΞΤΡΑ μέσο και ΕΠΙΘΕΤΙΚΟ (vid) appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/ekpompi-metagrafes.jpg"
+        },
+        {
+          "title": "Ολυμπιακός – Βόλος με… ερυθρόλευκο Bet Builder από ημίχρονο",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/olybiakos-volos-me-erythrolefko-bet-build/?utm_source=rss&utm_medium=rss&utm_campaign=olybiakos-volos-me-erythrolefko-bet-build",
+          "pubDate": "Sat, 24 Jan 2026 15:51:00 +0000",
+          "description": "ΠΑΙΞΕ ΝΟΜΙΜΑ | 21+ Και κάπου ανάμεσα στα μεγαλεία του Champions League ο Ολυμπιακός καλείται να βρει τρόπο να συγκεντρωθεί στη γειτονιά μας. Ο Μεντιλίμπαρ δεν θα έχει εύκολο έργο να πείσει τους παίκτες του ότι αυτό που πρέπει να κάνουν, είναι το να εστιάσουν στο ματς με τον Βόλο. Και το ζήτημα είναι ότι […]\nThe post Ολυμπιακός – Βόλος με… ερυθρόλευκο Bet Builder από ημίχρονο appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/oly.jpg"
         },
         {
           "title": "Ο εκλεκτός: Έτοιμος για την έκπληξη στα χαφ ο Παναθηναϊκός!",
@@ -1011,62 +1081,6 @@
           "pubDate": "Sat, 24 Jan 2026 12:21:43 +0000",
           "description": "Ένα σημαντικό ποσό έχει μπει στα ταμεία της ΠΑΕ Παναθηναϊκός.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5000105.jpg?fit=900%2C590&amp;ssl=1"
-        },
-        {
-          "title": "Στο τέλος μπαίνει το game changer στοιχείο: Το top σουβλάκι που αξίζει την αναμονή στην ουρά",
-          "link": "https://panathinaikos24.gr/2026/01/24/617465/sto-telos-mpainei-to-game-changer-stoixeio-to-top-souvlaki-pou-aksizei-tin-anamoni-stin-oura/",
-          "pubDate": "Sat, 24 Jan 2026 12:18:45 +0000",
-          "description": "Είναι αυτό το τοπ σουβλάκι; Θα βρεις πολλούς που το υποστηρίζουν…",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Screenshot-2026-01-24-141658.png?fit=1128%2C764&amp;ssl=1"
-        },
-        {
-          "title": "Κι είναι αλήτικη η μόνη αγάπη που έχεις…",
-          "link": "https://panathinaikos24.gr/2026/01/24/617456/ki-einai-alitiki-i-moni-agapi-pou-exeis/",
-          "pubDate": "Sat, 24 Jan 2026 12:03:20 +0000",
-          "description": "Η βαθιά υπόκλιση στον κόσμο του Παναθηναϊκού γι αυτό που έκανε στη Βουδαπέστη. Γράφει ο Διονύσης Δεσύλλας.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/kosmos-panathinaikou-1.jpg?fit=1600%2C900&amp;ssl=1"
-        },
-        {
-          "title": "«Βόμβα» προέδρου Παρτιζάν: «Διώξαμε τον Τζόουνς του Ολυμπιακού, γιατί σαμπόταρε Ομπράντοβιτς!»",
-          "link": "https://trifilara.gr/vomva-proedrou-partizan-dioxame-ton-tzoouns-tou-olybiakou-giati-sabotare-obrantovits/?utm_source=rss&utm_medium=rss&utm_campaign=vomva-proedrou-partizan-dioxame-ton-tzoouns-tou-olybiakou-giati-sabotare-obrantovits",
-          "pubDate": "Sat, 24 Jan 2026 11:59:31 +0000",
-          "description": "Σάλος στην Ευρώπη από τις καταγγελίες Μιχαΐλοβιτς – «Φωτογραφίζεται» ο Τζούνς.\nThe post «Βόμβα» προέδρου Παρτιζάν: «Διώξαμε τον Τζόουνς του Ολυμπιακού, γιατί σαμπόταρε Ομπράντοβιτς!» appeared first on Trifilara.gr.",
-          "thumbnail": null
-        },
-        {
-          "title": "Μπόρνμουθ – Λίβερπουλ με τα πιο «Ενισχυμένα» Bet Builders",
-          "link": "https://panathinaikos24.gr/2026/01/24/617401/mpornmouth-liverpoul-me-ta-pio-enisxymena-bet-builders/",
-          "pubDate": "Sat, 24 Jan 2026 11:50:57 +0000",
-          "description": "Το αγωνιστικό Σαββατοκύριακο στην Premier League ανοίγει με τη Λίβερπουλ να ταξιδεύει στον νότο για να αντιμετωπίσει την Μπόρνμουθ, σε μια αναμέτρηση που έχει ξεκάθαρο αντίκτυπο στη μάχη για τα εισιτήρια του Champions League.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/salah_liverpool-full.webp?fit=1200%2C800&amp;ssl=1"
-        },
-        {
-          "title": "Παναθηναϊκός: Διπλό μεταγραφικό χτύπημα!",
-          "link": "https://panathinaikos24.gr/2026/01/24/617450/panathinaikos-diplo-metagrafiko-xtypima/",
-          "pubDate": "Sat, 24 Jan 2026 11:37:56 +0000",
-          "description": "Έρχεται διπλή ενίσχυση στον Παναθηναϊκό.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4998456.jpg?fit=900%2C598&amp;ssl=1"
-        },
-        {
-          "title": "Παναθηναϊκός: Ξανά στο ΟΑΚΑ για την πρόκριση στα ημιτελικά της Ευρώπης, με φόντο απίθανο ρεκόρ!",
-          "link": "https://trifilara.gr/panathinaikos-xana-sto-oaka-gia-tin-prokrisi-sta-imitelika-tis-evropis-me-fonto-apithano-rekor/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-xana-sto-oaka-gia-tin-prokrisi-sta-imitelika-tis-evropis-me-fonto-apithano-rekor",
-          "pubDate": "Sat, 24 Jan 2026 11:34:51 +0000",
-          "description": "Ο κύβος ερρίφθη και ο Παναθηναϊκός θα φιλοξενήσει ξανά στο Telekom Center τη Μερσίν (05/02) με στόχο το όνειρο της πρόκρισης και το απόλυτο ρεκόρ στο Eurocup Women!\nThe post Παναθηναϊκός: Ξανά στο ΟΑΚΑ για την πρόκριση στα ημιτελικά της Ευρώπης, με φόντο απίθανο ρεκόρ! appeared first on Trifilara.gr.",
-          "thumbnail": null
-        },
-        {
-          "title": "Φάκελος Πελίστρι",
-          "link": "https://panathinaikos24.gr/2026/01/24/617381/fakelos-pelistri/",
-          "pubDate": "Sat, 24 Jan 2026 11:29:52 +0000",
-          "description": "Τα δεδομένα για τον Ουρουγουανό εξτρέμ μετά τις χαμένες ευκαιρίες στη Βουδαπέστη",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Pelistri-750x430-1.jpg?fit=680%2C460&amp;ssl=1"
-        },
-        {
-          "title": "Τέλος και επίσημα ο Νίκας από τον Παναθηναϊκό!",
-          "link": "https://trifilara.gr/telos-kai-episima-o-nikas-apo-ton-panathinaiko/?utm_source=rss&utm_medium=rss&utm_campaign=telos-kai-episima-o-nikas-apo-ton-panathinaiko",
-          "pubDate": "Sat, 24 Jan 2026 11:22:36 +0000",
-          "description": "Παρελθόν από τον Παναθηναϊκό αποτελεί και επίσημα ο Γιώργος Νίκας.\nThe post Τέλος και επίσημα ο Νίκας από τον Παναθηναϊκό! appeared first on Trifilara.gr.",
-          "thumbnail": null
         }
       ]
     },
