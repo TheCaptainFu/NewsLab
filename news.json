@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T01:45:28.897Z",
+  "lastUpdated": "2026-01-25T01:50:31.472Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΗΠΑ: Οι καλύτερες και οι χειρότερες αμερικανικές αεροπορικές εταιρείες του 2025",
+          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/ipa-oi-kalyteres-kai-oi-xeiroteres-amerikanikes-aeroporikes-etaireies-tou-2025/",
+          "pubDate": "Sun, 25 Jan 2026 03:46:20 +0300",
+          "description": "Η Southwest Airlines αναδείχθηκε ως η κορυφαία αεροπορική εταιρεία των ΗΠΑ το 2025, κατακτώντας την πρώτη θέση",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/aeroplanes.jpg"
+        },
         {
           "title": "Έρχεται shrinkflation και στο πασχαλινό καλάθι",
           "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/erxetai-shrinkflation-kai-sto-pasxalino-kalathi/",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 23:54:09 +0300",
           "description": "Ο κυβερνήτης της Μινεσότα αποφάσισε να αναπτύξει την Εθνοφρουρά στην πολιτεία του, σε μια προσπάθεια να «προστατέψει τους πολίτες» από τις ομοσπονδιακές υπηρεσίες.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-17T011312Z_868012131_RC25VIAKNC5V_RTRMADP_5_USA-TRUMP-MINNESOTA-INVESTIGATION-768x512.jpg"
-        },
-        {
-          "title": "Μοσχάτο: Φωτιά στο Πνευματικό Κέντρο του Δήμου – Εξετάζεται το ενδεχόμενο του εμπρησμού",
-          "link": "https://www.in.gr/2026/01/24/greece/mosxato-fotia-sto-pneymatiko-kentro-tou-dimou-eksetazetai-endexomeno-tou-emprismou/",
-          "pubDate": "Sat, 24 Jan 2026 23:47:03 +0300",
-          "description": "Κατά τον έλεγχο του χώρου διαπιστώθηκε σπασμένο τζάμι, από το οποίο άγνωστοι φέρεται να εισήλθαν στο κτήριο, προκαλώντας φθορές και βάζοντας φωτιά σε συγκεκριμένο γραφείο στο Πνευματικό Κέντρο στο Μοσχάτο",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/fotia-pneymatikou-mosxato-4-768x511.jpg"
         }
       ]
     },
@@ -472,7 +472,7 @@
           "title": "Video shows moments around fatal shooting in Minneapolis",
           "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Jan 2026 21:51:00 GMT",
-          "description": "A 37-year-old Minneapolis man, who is believed to be a US citizen, has been killed by a federal agent.",
+          "description": "Officials identified the man who was shot as 37-year-old Alex Pretti, a nurse and US citizen.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/945f/live/39d5bef0-f973-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
