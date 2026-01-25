@@ -265,8 +265,8 @@ function renderNews(categories) {
                 `;
             } else {
                 html += `
-                    <div class="bg-[#1a1a1a] rounded-lg border border-zinc-800 ${styles.borderHover} transition-all duration-200 hover:shadow-xl ${styles.shadow} overflow-hidden">
-                        <a href="${art.link}" target="_blank" class="block group">
+                    <div class="bg-[#1a1a1a] rounded-lg border border-zinc-800 ${styles.borderHover} transition-all duration-200 hover:shadow-xl ${styles.shadow} overflow-hidden flex flex-col h-full">
+                        <a href="${art.link}" target="_blank" class="block group flex flex-col h-full">
                             ${thumbnail ? `
                                 <div class="relative h-48 overflow-hidden bg-zinc-900">
                                     <img 
@@ -282,7 +282,7 @@ function renderNews(categories) {
                                     <span class="text-6xl opacity-30 group-hover:scale-110 transition-transform">${placeholderIcon}</span>
                                 </div>
                             `}
-                            <div class="p-5 flex flex-col min-h-[200px]">
+                            <div class="p-5 flex flex-col flex-1">
                                 <h3 class="text-base font-bold text-zinc-100 ${styles.titleHover} transition-colors line-clamp-2 mb-3 leading-snug">
                                     ${art.title}
                                 </h3>
