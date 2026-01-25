@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T11:55:27.721Z",
+  "lastUpdated": "2026-01-25T12:00:36.349Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,10 @@
       "color": "red",
       "articles": [
         {
-          "title": "Ιστορική χιονοθύελλα έχει παραλύσει τις ΗΠΑ – 230.000 νοικοκυριά χωρίς ρεύμα, χιλιάδες ακυρώσεις πτήσεων",
-          "link": "https://www.newsit.gr/kosmos/istoriki-xionothyella-exei-paralysei-tis-ipa-230-000-noikokyria-xoris-reyma-xiliades-akyroseis-ptiseon/4582957/",
+          "title": "Ιστορική χιονοθύελλα στις ΗΠΑ: Άδεια ράφια σούπερ μάρκετ, πολικές θερμοκρασίες και 230.000 νοικοκυριά χωρίς ρεύμα",
+          "link": "https://www.newsit.gr/kosmos/istoriki-xionothyella-stis-ipa-adeia-rafia-souper-market-polikes-thermokrasies-kai-230-000-noikokyria-xoris-reyma/4582957/",
           "pubDate": "Sun, 25 Jan 2026 11:52:51 +0000",
-          "description": "Αντιμέτωποι με ακραία καιρικά φαινόμενα βρίσκονται οι κάτοικοι στις ΗΠΑ, καθώς σφοδρή χιονοθύελλα αναμένεται μετά τα κεντρικά, να χτυπήσει και το βορειοανατολικό τμήμα της χώρας. ...  \nTo άρθρο Ιστορική χιονοθύελλα έχει παραλύσει τις ΗΠΑ – 230.000 νοικοκυριά χωρίς ρεύμα, χιλιάδες ακυρώσεις πτήσεων δημοσιεύτηκε στο NewsIT .",
+          "description": "Αντιμέτωποι με ακραία καιρικά φαινόμενα βρίσκονται οι κάτοικοι στις ΗΠΑ, καθώς σφοδρή χιονοθύελλα αναμένεται μετά τα κεντρικά, να χτυπήσει και το βορειοανατολικό τμήμα της χώρας. ...  \nTo άρθρο Ιστορική χιονοθύελλα στις ΗΠΑ: Άδεια ράφια σούπερ μάρκετ, πολικές θερμοκρασίες και 230.000 νοικοκυριά χωρίς ρεύμα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-snoew-reuters-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Τι θα συμβεί εάν φας πολλή πρωτεΐνη σε ένα μόνο γεύμα ",
+          "link": "https://www.gazzetta.gr/plus/2509971/ti-tha-symbei-ean-fas-polli-proteini-se-ena-mono-geyma",
+          "pubDate": "Sun, 25 Jan 2026 14:00:00 +0200",
+          "description": "Ανακαλύψτε τις συνέπειες της κατανάλωσης μεγάλης ποσότητας πρωτεΐνης σε ένα μόνο γεύμα και μάθετε αν η υπερφόρτωση μπορεί να ωφελήσει ή να επιβαρύνει τον οργανισμό σας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jjj-2-25-1-26.jpg?itok=oUWje56c",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "BMW Motorrad: Και τα ρεκόρ συνεχίζονται",
+          "link": "https://www.gazzetta.gr/gmotion/2509460/bmw-motorrad-kai-ta-rekor-synehizontai",
+          "pubDate": "Sun, 25 Jan 2026 14:00:00 +0200",
+          "description": "Η Βαυαρική φίρμα κατέγραψε ένα ακόμη εντυπωσιακό αποτέλεσμα το 2025, διαθέτοντας για τέταρτη συνεχόμενη χρονιά περισσότερες από 200.000 μοτοσικλέτες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/anoigma_1.jpg?itok=O6YsIxah",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγγελόπουλοι: «Διαμάντι ο Πρίντεζης, ανοικτή η πόρτα του Ολυμπιακού για εκείνον»",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2509983/aggelopoyloi-diamanti-o-printezis-anoikti-i-porta-toy-olympiakoy-gia",
+          "pubDate": "Sun, 25 Jan 2026 13:56:40 +0200",
+          "description": "Οι Παναγιώτης και Γιώργος Αγγελόπουλος βρέθηκαν στην εκδήλωση για την ονομασία του κλειστού του Αγίου Δημητρίου σε «Γιώργος Πρίντεζης» και μίλησαν για τον πρώην αρχηγό του Ολυμπιακού.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aggelopouloi.jpg?itok=7cTkRgq8",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Πρίντεζης: «Οι αναμνήσεις είναι αυτές που μένουν και σε κάνουν να αγαπάς κάτι»",
           "link": "https://www.gazzetta.gr/basketball/2509981/printezis-oi-anamniseis-einai-aytes-poy-menoyn-kai-se-kanoyn-na-agapas-kati",
           "pubDate": "Sun, 25 Jan 2026 13:47:27 +0200",
@@ -961,30 +985,6 @@
           "description": "Ακόμα ένα όνομα από την Αργεντινή βγαίνει στην επιφάνεια για τον Ολυμπιακό καθώς από την Τουρκία αναφέρουν ότι ο Αγκουστίν Ρουμπέρτο της Ρίβερ Πλέιτ είναι στην λίστα των Πειραιωτών.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ruberto.jpg?itok=QlYj3f54",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Γκίκα: Ασημένιο μετάλλιο στο παγκόσμιο πρωτάθλημα ILCA 6 U21",
-          "link": "https://www.gazzetta.gr/istioploia/2509954/gkika-asimenio-metallio-sto-pagkosmio-protathlima-ilca-6-u21",
-          "pubDate": "Sun, 25 Jan 2026 11:47:37 +0200",
-          "description": "Νέα επιτυχία για την Ερμιόνη Γκίκα, καθώς ανέβηκε στο 2ο σκαλί του βάθρου του παγκοσμίου πρωταθλήματος της ολυμπιακής κατηγορίας ILCA 6 U21 στις Κανάριες Νήσους.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ermioni_gkika.jpg?itok=ugut6Xc1",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ίμια, 30 χρόνια μετά: Από Σημίτη και Λυμπέρη μέχρι Τσιλέρ και Χόλμπρουκ",
-          "link": "https://www.gazzetta.gr/plus/2509957/imia-30-hronia-meta-apo-simiti-kai-lymperi-mehri-tsiler-kai-holmproyk",
-          "pubDate": "Sun, 25 Jan 2026 11:47:33 +0200",
-          "description": "Τριάντα χρόνια μετά, η κρίση των Ιμίων συνεχίζει να πυροδοτεί έντονες συζητήσεις για ευθύνες, λάθη και χαμένες ευκαιρίες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/c79d605f-imia-ellines.jpg?itok=sr5V2eAs",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Δουβίκας: «Περίμενα την ευκαιρία μου, έκανα ό,τι περνούσε απ' το χέρι μου»",
-          "link": "https://www.gazzetta.gr/football/serie/2509953/doybikas-perimena-tin-eykairia-moy-ekana-oti-pernoyse-ap-heri-moy",
-          "pubDate": "Sun, 25 Jan 2026 11:46:17 +0200",
-          "description": "Ο Τάσος Δουβίκας μίλησε στα media μετά τη νίκη της Κόμο με 6-0 κόντρα στην Τορίνο, στην οποία ο Έλληνας φορ σημείωσε ο δύο τέρματα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/douvikas_2.jpg?itok=crgFvF0E",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Μια ανάσα από τον  Κραλ!",
+          "link": "https://panathinaikos24.gr/2026/01/25/617571/panathinaikos-mia-anasa-apo-ton-kral/",
+          "pubDate": "Sun, 25 Jan 2026 11:58:30 +0000",
+          "description": "Ο Παναθηναϊκός είναι μια ανάσα από το να ολοκληρώσει την μεταγραφή του Άλεξ Κραλ.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/sv-werder-bremen-v-1-fc-union-berlin-bundesliga-4-scaled-1.jpg?fit=2560%2C1708&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Παναθηναϊκός – Μαρούσι | Livestreaming – GBL",
+          "link": "https://trifilara.gr/panathinaikos-marousi-livestreaming-gbl/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-livestreaming-gbl",
+          "pubDate": "Sun, 25 Jan 2026 11:56:15 +0000",
+          "description": "Η 16η αγωνιστική της GBL φέρνει τους πράσινους απέναντι στο Μαρούσι, σε ένα παιχνίδι με αγωνιστικό ενδιαφέρον αλλά και ιδιαίτερο πλαίσιο για το σύνολο του Αταμάν.\nThe post Παναθηναϊκός – Μαρούσι | Livestreaming – GBL appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
         {
           "title": "Παναθηναϊκός – Μαρούσι  – Basket League | LIVESTREAM",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-marousi-basket-league-livestream/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-basket-league-livestream",
@@ -1215,22 +1231,6 @@
           "description": "Ο Παναθηναϊκός έκανε άνετο πέρασμα από το Περιστέρι, με το «Τριφύλλι» να... σκορπίζει τον Ατρόμητο με 3-1 εκτός έδρας.\nThe post Εμφατικό πέρασμα για τον Παναθηναϊκό από το Περιστέρι! – Τριάρα χωρίς άγχος για τους «πράσινους» appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Άνετο πέρασμα από το Περιστέρι με… τριάρα! – Το «κερασάκι» ο Βύντρα",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/aneto-perasma-apo-to-peristeri-me-tri/?utm_source=rss&utm_medium=rss&utm_campaign=aneto-perasma-apo-to-peristeri-me-tri",
-          "pubDate": "Sat, 24 Jan 2026 17:57:56 +0000",
-          "description": "Μια εμφάνιση ελέγχου, ωριμότητας και αγωνιστικής υπεροχής που αποτυπώθηκε στο σκορ και στη συνολική εικόνα. Στις νίκες επέστρεψε η Κ19 του Παναθηναϊκού, με τους «πράσινους» να επικρατούν εκτός έδρας του Ατρομήτου με 3-1, σε μια αναμέτρηση όπου είχαν την απόλυτη πρωτοβουλία των κινήσεων και έδειξαν από νωρίς ποια ομάδα ήταν το αφεντικό του αγώνα. Το […]\nThe post Άνετο πέρασμα από το Περιστέρι με… τριάρα! – Το «κερασάκι» ο Βύντρα appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/K19-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Εκτός αποστολής ο Κραλ για το ματς της Ουνιόν με την Ντόρτμουντ",
-          "link": "https://panathinaikos24.gr/2026/01/24/617526/ektos-apostolis-o-kral-gia-to-mats-tis-ounion-me-tin-ntortmount/",
-          "pubDate": "Sat, 24 Jan 2026 17:26:44 +0000",
-          "description": "Εκτός αποστολής για το σημερινό εντός έδρας παιχνίδι της Ουνιόν Βερολίνου με αντίπαλο την Ντόρτμουντ έμεινε ο Άλεξ Κραλ, ο οποίος βρίσκεται πολύ κοντά στον Παναθηναϊκό.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/sv-werder-bremen-v-1-fc-union-berlin-bundesliga-4-scaled-1.jpg?fit=2560%2C1708&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
