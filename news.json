@@ -1,13 +1,53 @@
 {
-  "lastUpdated": "2026-01-25T10:40:27.267Z",
-  "totalArticles": 180,
+  "lastUpdated": "2026-01-25T10:45:27.573Z",
+  "totalArticles": 176,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Διαπραγματεύσεις για τη νέα ΚΑΠ: Στόχος η στήριξη των πόρων για την Ελλάδα",
+          "link": "https://www.newsit.gr/oikonomia/finance/diapragmateyseis-gia-ti-nea-kap-stoxos-i-stiriksi-ton-poron-gia-tin-ellada/4582935/",
+          "pubDate": "Sun, 25 Jan 2026 10:43:57 +0000",
+          "description": "Σε κρίσιμη φάση μπαίνουν οι διαπραγματεύσεις για τη νέα Κοινή Αγροτική Πολιτική (ΚΑΠ) μετά το 2028, με την Ελλάδα να επιδιώκει τη διατήρηση ή και ...  \nTo άρθρο Διαπραγματεύσεις για τη νέα ΚΑΠ: Στόχος η στήριξη των πόρων για την Ελλάδα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ampeli-trugos-eurokinissi1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Γλυφάδα: Όταν ο 46χρονος που δολοφόνησε τον πατέρα του, σκότωσε το 2014 τη μητέρα του μέσα στο μπάνιο",
+          "link": "https://www.newsit.gr/ellada/glyfada-otan-o-46xronos-pou-dolofonise-ton-patera-tou-skotose-to-2014-ti-mitera-tou-mesa-sto-mpanio/4582939/",
+          "pubDate": "Sun, 25 Jan 2026 10:42:30 +0000",
+          "description": "Πολλά είναι τα ερωτήματα που εγείρει η υπόθεση της δολοφονίας του του 80χρονου στη Γλυφάδα το πρωί της Κυριακής από τα χέρια του γιου του. ...  \nTo άρθρο Γλυφάδα: Όταν ο 46χρονος που δολοφόνησε τον πατέρα του, σκότωσε το 2014 τη μητέρα του μέσα στο μπάνιο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/glifada-dolofonia1-1200x675.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Εντοπίστηκαν 36 παράνομοι μετανάστες στη Χίο, συνελήφθη αλλοδαπός διακινητής μετά από καταδίωξη",
+          "link": "https://www.protothema.gr/greece/article/1763024/edopistikan-36-paranomoi-metanastes-sti-hio-sunelifthi-allodapos-diakinitis-meta-apo-katadioxi/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 12:41:28 +0200",
+          "description": "Οι μετανάστες μεταφέρθηκαν στην Κλειστή Ελεγχόμενη Δομή της Χίου",
+          "thumbnail": "https://i1.prth.gr/images/w640/1/jpg/files/2026-01-25/%CE%B1%CE%B9_%CF%80%CF%80%CE%BB%CF%83_900_2e16d0ba_fill-900x400.jpg",
+          "source": "Πρώτο Θέμα: Ελλάδα"
+        },
+        {
+          "title": "Τζόκοβιτς: «Θα είμαι στην Αθήνα για το Ολυμπιακός – Ερυθρός Αστέρας, ανυπομονώ για την αδελφική αναμέτρηση»",
+          "link": "https://www.newsit.gr/athlitika/tzokovits-tha-eimai-stin-athina-gia-to-olympiakos-erythros-asteras-anypomono-gia-tin-adelfiki-anametrisi/4582941/",
+          "pubDate": "Sun, 25 Jan 2026 10:41:27 +0000",
+          "description": "Ο Νόβακ Τζόκοβιτς είναι γνωστό ότι είναι υποστηρικτής του Ερυθρού Αστέρα και όπως δήλωσε κατά πάσα πιθανότητα θα είναι στην Αθήνα για να παρακολουθήσει το ...  \nTo άρθρο Τζόκοβιτς: «Θα είμαι στην Αθήνα για το Ολυμπιακός – Ερυθρός Αστέρας, ανυπομονώ για την αδελφική αναμέτρηση» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/djokovic-2-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Πηνελόπη Αναστασοπούλου για Πέτρο Φιλιππίδη: Ο λόγος που έγιναν όλα ήταν για να σταματήσει, θα τον βοηθούσα αν ζητούσε συγγνώμη",
+          "link": "https://www.newsit.gr/lifestyle/pinelopi-anastasopoulou-gia-petro-filippidi-o-logos-pou-eginan-ola-itan-gia-na-stamatisei-tha-ton-voithousa-an-zitouse-syggnomi/4582878/",
+          "pubDate": "Sun, 25 Jan 2026 10:41:06 +0000",
+          "description": "«Δεν έχω μέσα μου μίσος για κανέναν, δικαιοσύνη ζήτησα», ξεκαθάρισε η Πηνελόπη Αναστασοπούλου σχετικά με την εμπλοκή της στην υπόθεση του Πέτρου Φιλιππίδη. Δηλώσεις στην ...  \nTo άρθρο Πηνελόπη Αναστασοπούλου για Πέτρο Φιλιππίδη: Ο λόγος που έγιναν όλα ήταν για να σταματήσει, θα τον βοηθούσα αν ζητούσε συγγνώμη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pinelopi-anastasopoyloy-ndp-1200x717.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Βίκυ Καρατζόγλου: «Όταν δημιουργήθηκε το Μetoo μπορέσαμε και κάναμε την κουβέντα αυτή με την κόρη μου»",
           "link": "https://www.newsit.gr/lifestyle/viky-karatzoglou-otan-dimiourgithike-to-metoo-mporesame-kai-kaname-tin-kouventa-ayti-me-tin-kori-mou/4582669/",
@@ -113,6 +153,22 @@
           "source": "Πρώτο Θέμα: Ελλάδα"
         },
         {
+          "title": "Φωτιά σε φούρνο στο κέντρο της Αθήνας – Προσωρινή διακοπή κυκλοφορίας",
+          "link": "https://www.in.gr/2026/01/25/greece/fotia-se-fourno-sto-kentro-tis-athinas-prosorini-diakopi-kykloforias/",
+          "pubDate": "Sun, 25 Jan 2026 12:42:27 +0300",
+          "description": "Στο σημείο επιχείρησαν πέντε πυροσβέστες με δύο οχήματα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ds1_52611528175758-768x513.jpg",
+          "source": "in.gr"
+        },
+        {
+          "title": "Ταϊπέι: Αναρριχητής σκαρφάλωσε χωρίς σκοινί σε ουρανοξύστη 508 μέτρων",
+          "link": "https://www.in.gr/2026/01/25/world/taipei/",
+          "pubDate": "Sun, 25 Jan 2026 12:42:05 +0300",
+          "description": "Το εγχείρημά του μεταδόθηκε live - Ο γνωστός αναρριχητής έγινε παγκοσμίως γνωστός το 2017, όταν ανέβηκε χωρίς κανένα μέτρο ασφαλείας τον βράχο El Capitan, ύψους 914 μέτρων",
+          "thumbnail": null,
+          "source": "in.gr"
+        },
+        {
           "title": "Καιρός: Ισχυρές βροχές και καταιγίδες σε Αττική και άλλες 6 περιοχές – Έκτακτο δελτίο από την ΕΜΥ",
           "link": "https://www.newsit.gr/ellada/kairos-isxyres-vroxes-kai-kataigides-se-attiki-kai-alles-6-perioxes-ektakto-deltio-apo-tin-emy/4582908/",
           "pubDate": "Sun, 25 Jan 2026 09:38:25 +0000",
@@ -191,62 +247,6 @@
           "description": "Ένα νέο βίντεο ντοκουμέντο από του Ζωγράφου εξετάζουν οι Αρχές, όπου ενδεχομένως να εμφανίζεται η εξαφανισμένη Λόρα, που έφυγε στις 8 Ιανουαρίου από το σπίτι ...  \nTo άρθρο Εξαφάνιση Λόρα: Νέο βίντεο ντοκουμέντο από του Ζωγράφου εξετάζουν οι Αρχές δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/16xroni-lora-patra-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Σέρρες: Τα περίεργα σχόλια στα social media της καθηγήτριας που φίμωσε μαθητή με ταινία – Τέθηκε σε διαθεσιμότητα",
-          "link": "https://www.newsit.gr/ellada/serres-ta-perierga-sxolia-sta-social-media-tis-kathigitrias-pou-fimose-mathiti-me-tainia-tethike-se-diathesimotita/4582898/",
-          "pubDate": "Sun, 25 Jan 2026 09:16:24 +0000",
-          "description": "Σε διαθεσιμότητα τέθηκε η καθηγήτρια γυμνασίου στις Σέρρες η οποία φίμωσε με χαρτοταινία μαθητή μέσα στην τάξη. Τα σχόλια που έκανε στα social media προκαλούν ...  \nTo άρθρο Σέρρες: Τα περίεργα σχόλια στα social media της καθηγήτριας που φίμωσε μαθητή με ταινία – Τέθηκε σε διαθεσιμότητα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/dieuthintria-serres-1200x716.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τσουκαλάς: Οι μεταρρυθμίσεις δεν είναι σημαία ευκαιρίας – Πυρά κατά Μητσοτάκη",
-          "link": "https://www.in.gr/2026/01/25/politics/epikairotita/tsoukalas-oi-metarrythmiseis-den-einai-simaia-eykairias-pyra-kata-mitsotaki/",
-          "pubDate": "Sun, 25 Jan 2026 12:10:58 +0300",
-          "description": "«Αντί για μεταρρυθμίσεις», ο κ. Μητσοτάκης «επέλεξε η κυβέρνησή του να ταυτιστεί με τη διαφθορά, τον πελατειασμό, το ρουσφέτι, τον φόβο σύγκρουσης με κατεστημένα συμφέροντα», αναφέρει ο κ. Τσουκαλάς",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6709309-1-1200x800-1-768x512.jpg",
-          "source": "in.gr"
-        },
-        {
-          "title": "Νέο «οικολογικό έγκλημα» με πεντάστερο ξενοδοχείο στον Μύτακα της Μήλου δίπλα στο Σαρακήνικο, δείτε βίντεο",
-          "link": "https://www.protothema.gr/greece/article/1762984/sunehizetai-kanonika-to-oikologiko-eglima-ston-mutaka-tis-milou-deite-video-me-to-pedastero-white-coast/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 11:03:00 +0200",
-          "description": "Όπως φαίνεται καθαρά, η επέκταση της τουριστικής μονάδας μόλις δύο χιλιόμετρα μακριά από το Σαρακήνικο έχει προχωρήσει πολύ - Ο δήμος έχει υποβάλει στο ΣτΕ αίτηση ακύρωσης της άδειας επέκτασης, όμως η εξέταση της υπόθεσης καθυστερεί επί 6 μήνες",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-milos2.jpg",
-          "source": "Πρώτο Θέμα: Ελλάδα"
-        },
-        {
-          "title": "Ιταλία – Ελλάδα: Ραντεβού με την ιστορία και το πρώτο μετάλλιο σε ευρωπαϊκό για την Εθνική πόλο ανδρών",
-          "link": "https://www.newsit.gr/athlitika/italia-ellada-rantevou-me-tin-istoria-kai-to-proto-metallio-se-eyropaiko-gia-tin-ethniki-polo-andron/4582888/",
-          "pubDate": "Sun, 25 Jan 2026 09:02:42 +0000",
-          "description": "Η Εθνική πόλο ανδρών αντιμετωπίζει την Ιταλία με στόχο να γράψει ιστορία και να κατακτήσει το πρώτο της μετάλλιο σε ευρωπαϊκό πρωτάθλημα πόλο. Στο ευρωπαϊκό ...  \nTo άρθρο Ιταλία – Ελλάδα: Ραντεβού με την ιστορία και το πρώτο μετάλλιο σε ευρωπαϊκό για την Εθνική πόλο ανδρών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kakaris-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Το «Μπαμπά σ’ αγαπώ» κάνει πρεμιέρα στον Alpha: Ο Δημήτρης μαθαίνει ξαφνικά πως έχει έναν 5χρονο γιο",
-          "link": "https://www.newsit.gr/media/to-mpampa-s-agapo-kanei-premiera-ston-alpha-o-dimitris-mathainei-ksafnika-pos-exei-enan-5xrono-gio/4576064/",
-          "pubDate": "Sun, 25 Jan 2026 09:01:00 +0000",
-          "description": "Πρεμιέρα με διπλό επεισόδιο κάνει την Πέμπτη 29 Ιανουαρίου 2026 η νέα σειρά του Alpha «Μπαμπά σ’ αγαπώ». Τα επεισόδια θα προβληθούν στις 21:00 και ...  \nTo άρθρο Το «Μπαμπά σ’ αγαπώ» κάνει πρεμιέρα στον Alpha: Ο Δημήτρης μαθαίνει ξαφνικά πως έχει έναν 5χρονο γιο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mpampa-sagapw-1-1200x675.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τουρισμός: Ποιοι είναι οι ταχύτερα αναπτυσσόμενοι προορισμοί στον κόσμο",
-          "link": "https://www.in.gr/2026/01/25/economy/oikonomikes-eidiseis/tourismos-poioi-einai-oi-taxytera-anaptyssomenoi-proorismoi-ston-kosmo/",
-          "pubDate": "Sun, 25 Jan 2026 12:00:12 +0300",
-          "description": "Οι χώρες που κερδίζουν έδαφος στον τουρισμό",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-19T152223Z_399634844_RC2738AI0RUN_RTRMADP_5_CLIMATE-CHANGE-BRAZIL-HEAT-768x432.jpg",
-          "source": "in.gr"
-        },
-        {
-          "title": "Συγκλονίζει ο Αλμέιδα: Αφιέρωσε τη νίκη της Σεβίλλης σε αδικοχαμένο φίλαθλο στο σιδηροδρομικό δυστύχημα",
-          "link": "https://www.in.gr/2026/01/25/sports/football/sygklonizei-o-almeida-afierose-ti-niki-tis-sevillis-se-adikoxameno-filathlo-sto-sidirodromiko-dystyxima/",
-          "pubDate": "Sun, 25 Jan 2026 11:57:02 +0300",
-          "description": "Ο Ματίας Αλμέιδα προχώρησε σε μια σπουδαία σε συγκινητική κίνηση, στην συνέντευξη Τύπου μετά τη νίκη της Σεβίλλης επί της Μπιλμπάο.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/3211231-768x506.png",
-          "source": "in.gr"
         }
       ]
     },
@@ -335,7 +335,7 @@
           "source": "Πολιτικές Ειδήσεις, Νέα & Αναλύσεις | ΤΑ ΝΕΑ"
         },
         {
-          "title": "Κυρανάκης στο “Face 2 Face” για τα επτά ταυτόχρονα ανθρώπινα λάθη τη νύχτα των Τεμπών",
+          "title": "Αποκάλυψη Κυρανάκη στο “Face 2 Face” για τα Τέμπη: Ο σταθμάρχης είχε βάλει κι άλλο τρένο στη λάθος γραμμή",
           "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-trena-vasiko-melima-i-egkatastasi-pollaplon-dikleidon-asfaleias/",
           "pubDate": "Sun, 25 Jan 2026 08:02:00 +0000",
           "description": "Ο Αναπληρωτής Υπουργός Μεταφορών, Κωνσταντίνος Κυρανάκης, μίλησε στο “Face 2 Face” και στην Κατερίνα Παναγοπούλου για την ασφάλεια των τρένων στην Ελλάδα, μετά την τραγωδία στα Τέμπη, επισημαίνοντας ότι το βασικό μέλημα είναι η εγκατάσταση πολλαπλών δικλείδων ασφαλείας για να μειωθούν τα ανθρώπινα λάθη. Αναφέρθηκε ακόμη στον τρόπο αντιμετώπισης της κυκλοφοριακής συμφόρησης, στο επεισόδιο με […]",
@@ -509,78 +509,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Ωμή βία και «express» απελάσεις - Η αμφιλεγόμενη δράση της ICE υπό τις εντολές Τραμπ",
-          "link": "http://gr.euronews.com/2026/01/25/wmh-bia-kai-express-apelaseis-h-amfilegomenh-drash-ths-ice-ypo-tis-entoles-tramp",
-          "pubDate": "Sun, 25 Jan 2026 10:44:49 +0100",
-          "description": "Ο πρόεδρος των ΗΠΑ διπλασίασε το προσωπικό, ωστόσο υπάρχουν ανησυχίες σχετικά με την εκπαίδευσή του και τον τρόπο λειτουργίας της υπηρεσίας",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "Πλήγματα σε ιρανικές στρατιωτικές υποδομές και κυβερνητικά κτίρια προτείνουν οι IDF στον Τραμπ - «Κρίσιμη αυτή η εβδομάδα» λένε αξιωματούχοι",
-          "link": "http://gr.euronews.com/2026/01/25/plhgmata-se-iranikes-stratiwtikes-ypodomes-kai-kyberhntika-ktiria-proteinoyn-oi-idf-ston-t",
-          "pubDate": "Sun, 25 Jan 2026 08:42:43 +0100",
-          "description": "Σύμφωνα με ισραηλινά ΜΜΕ",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "«Αμαρτία αλλά απαραίτητα τα πυρηνικά όπλα» λέει σύμβουλος του Πούτιν",
-          "link": "http://gr.euronews.com/2026/01/25/amartia-alla-aparaithta-ta-pyrhnika-opla-leei-symboylos-toy-poytin",
-          "pubDate": "Sun, 25 Jan 2026 08:31:38 +0100",
-          "description": "Ο Πούτιν είναι «πολύ θρησκευόμενος και προσεκτικός», κάτι που –κατά τον ίδιο– αποτρέπει μια πρόωρη κλιμάκωση",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "Ο «άθεος» Χαβιέρ Θέρκας, ο Πάπας Φραγκίσκος και το μυστήριο της αιώνιας ζωής",
-          "link": "http://gr.euronews.com/culture/2026/01/25/o-a8eos-xabier-8erkas-o-papas-fragkiskos-kai-to-mysthrio-ths-aiwnias-zwhs",
-          "pubDate": "Sun, 25 Jan 2026 08:18:24 +0100",
-          "description": "Ο Ισπανός συγγραφέας τιμήθηκε με το Ευρωπαϊκό Βραβείο Βιβλίου για το μυθιστόρημά του «Ο τρελός του Θεού στο τέλος του κόσμου», αφηγείται ένα από τα τελευταία ταξίδια του Πάπα Φραγκίσκου",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "Ποιοι χρησιμοποιούν την τεχνητή νοημοσύνη στην Ευρώπη και πού παραμένει ταμπού;",
-          "link": "http://gr.euronews.com/next/2026/01/25/who-uses-ai-in-europe-and-where-its-still-considered-taboo",
-          "pubDate": "Sun, 25 Jan 2026 08:00:35 +0100",
-          "description": "Η ΕΕ χρηματοδοτεί την ΤΝ, καταρτίζει σχέδια και ηθικές οδηγίες, όμως η χρήση παραμένει άνιση και ενίοτε ταμπού. Με 64% να ζητά παιδεία στην ΤΝ ως το 2030, ζητούμενο μετρήσιμα αποτελέσματα σε μεγάλη κλίμακα.",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "Οι γυναίκες χάνουν 75 εκατ. έτη υγιούς ζωής τον χρόνο, ενώ λαμβάνουν μόλις 6% των κονδυλίων υγείας",
-          "link": "http://gr.euronews.com/health/2026/01/25/women-lose-75-million-years-of-healthy-life-each-year-yet-they-receive-only-6-of-health-fu",
-          "pubDate": "Sun, 25 Jan 2026 08:00:05 +0100",
-          "description": "Συνολικά, οι γυναίκες χάνουν περίπου 75 εκατομμύρια χρόνια υγιούς ζωής ετησίως. Ισοδυναμεί με μια εβδομάδα υγείας που χάνει κάθε γυναίκα, σύμφωνα με νέα έκθεση.",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "Φέτος, η θέα των ανθισμένων κερασιών στην Ιαπωνία μπορεί να είναι απρόσμενα προσιτή",
-          "link": "http://gr.euronews.com/travel/2026/01/25/this-year-could-be-a-surprisingly-affordable-time-to-see-japans-cherry-blossoms",
-          "pubDate": "Sun, 25 Jan 2026 07:00:36 +0100",
-          "description": "Τόσο τα μεμονωμένα ταξίδια όσο και τα πακέτα διακοπών εμφανίζουν φέτος πιο ανταγωνιστικές τιμές.",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "Ειδήσεις | 25 Ιανουαρίου 2026 - Πρωινό δελτίο",
-          "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-prwino-deltio",
-          "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
-          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "Αγέλη λύκων υποχρεώνει τις αρχές να κλείσουν αεροδρόμιο στην Ιταλία",
-          "link": "http://gr.euronews.com/green/2026/01/25/wolf-pack-forces-italian-airport-to-close-how-this-region-is-struggling-with-coexistence",
-          "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
-          "description": "Ο πληθυσμός των λύκων στην Ιταλία ανέρχεται πλέον σε 3.000-3.500 - Στις αρχές της δεκαετίας του 1970, έφταναν σχεδόν στο οριο της εξαφάνισης στη χώρα.",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
           "title": "Watch: BBC at protests near scene where Alex Pretti was shot dead",
           "link": "https://www.bbc.com/news/videos/c6206p2zyyqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 05:45:44 GMT",
@@ -637,14 +565,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Εκατοντάδες στο μνημόσυνο για τον 37χρονο Άλεξ Πρέτι που σκοτώθηκε στη Μινεάπολη",
-          "link": "http://gr.euronews.com/video/2026/01/25/hundreds-gathered-at-a-memorial-for-alex-pretti-the-man-who-was-killed-by-a-border-patrol",
-          "pubDate": "Sun, 25 Jan 2026 00:01:39 +0100",
-          "description": "Σύμφωνα με την οικογένειά του, ο Πρέτι εργαζόταν ως νοσηλευτής σε μονάδα εντατικής θεραπείας (ΜΕΘ) σε νοσοκομείο του Υπουργείου Υποθέσεων Βετεράνων",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
           "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
           "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Jan 2026 22:10:33 GMT",
@@ -661,36 +581,12 @@
           "source": "BBC News"
         },
         {
-          "title": "Απειλή Τραμπ στον Καναδά για «τελωνειακούς δασμούς 100%» αν συνάψει εμπορική συμφωνία με την Κίνα",
-          "link": "http://gr.euronews.com/business/2026/01/24/apeili-trump-ston-kanada-gia-teloneiakous-dasmous-100-an-sinapsei-emporiki-simfonia-me-tin",
-          "pubDate": "Sat, 24 Jan 2026 20:37:11 +0100",
-          "description": "Αυξάνεται οι ένταση ανάμεσα στις δυο γειτονικές χώρες της Βόρειας Αμερικής μετά και την πρόσφατη ομιλία του Καναδού Πρωθυπουργού στο Νταβός",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "«Δεν είναι μακριά» μια συνάντηση Πούτιν-Ζελένσκι δηλώνει Αμερικανός αξιωματούχος",
-          "link": "http://gr.euronews.com/2026/01/24/trimerhs-hpa-rwsias-kai-oykranias-sto-ampoy-ntampi-sto-epikentro-to-ntonmpas",
-          "pubDate": "Sat, 24 Jan 2026 20:15:17 +0100",
-          "description": "Ολοκληρώθηκε ο διάλογος Ουκρανίας - Ρωσίας - ΗΠΑ στο Άμπου Ντάμπι και αναμένεται την άλλη Κυριακή στο ίδιο μέρος νέος γύρος",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
           "title": "Germany arrests suspected Hamas member over alleged attack plot",
           "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Jan 2026 18:57:09 GMT",
           "description": "The Lebanese man helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9759/live/98f3f5b0-f945-11f0-b5f7-49f0357294ff.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Αναφορές ότι «μεταφέρθηκε σε υπόγειο καταφύγιο» ο Αγιατολάχ Αλί Χαμενεΐ",
-          "link": "http://gr.euronews.com/2026/01/24/anafores-oti-metaferthike-se-ypogeio-katafygio-o-agiatolax-ali-xamenei",
-          "pubDate": "Sat, 24 Jan 2026 19:31:38 +0100",
-          "description": "«Θα υπερασπιστούμε μέχρι θανάτου» λέει ο ιρανικός στρατός - Κλιμακώνονται οι στρατιωτικές και πολιτικές εντάσεις αλλά και οι φόβοι για άμεση σύγκρουση μεταξύ ΗΠΑ και Ιράν",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
         },
         {
           "title": "Snow ploughs battle blizzards on roads and runways in Oklahoma",
@@ -701,30 +597,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Ειδήσεις | 24 Ιανουαρίου 2026 - Βραδινό δελτίο",
-          "link": "http://gr.euronews.com/video/2026/01/24/eidhseis-24-ianoyarioy-2026-bradino-deltio",
-          "pubDate": "Sat, 24 Jan 2026 18:00:18 +0100",
-          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 24 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "Δεύτερος νεκρός από πυρά ομοσπονδιακών αξιωματικών στη Μινεάπολη - Eπεισόδια και αντίδραση Τραμπ",
-          "link": "http://gr.euronews.com/2026/01/24/omospondiakoi-aksiwmatikoi-purovolhsan-allo-ena-atomo-sth-minesota-leei-kuvernhths",
-          "pubDate": "Sat, 24 Jan 2026 17:40:39 +0100",
-          "description": "Ο κυβερνήτης της Μινεσότα Τιμ Γουόλτς επικοινώνησε με τον Λευκό Οίκο και απαίτησε να αποχωρήσουν οι «ανεκπαίδευτοι πράκτορες» που ενεργούν στο πλαίσιο καταστολής στη μετανάστευση της κυβέρνησης Τραμπ",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
-          "title": "Επιχορηγήσεις από Κομισιόν σε Ελλάδα και Κύπρο για διαγενεακά έργα εκμάθησης γραμματισμού στα ΜΜΕ",
-          "link": "http://gr.euronews.com/2026/01/24/epixorigiseis-apo-commission-se-ellada-kai-kypro-gia-diageneaka-erga-emathisis-grammatismo",
-          "pubDate": "Sat, 24 Jan 2026 17:13:14 +0100",
-          "description": "Ως τις 6 Φεβρουαρίου «τρέχει» η πρόσκληση υποβολής προτάσεων με θέμα «Οικοδόμηση κοινότητας μεταξύ των γενεών μέσω του γραμματισμού στα μέσα επικοινωνίας»",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
-        },
-        {
           "title": "China places highest-ranking general under investigation",
           "link": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Jan 2026 14:14:44 GMT",
@@ -733,12 +605,108 @@
           "source": "BBC News"
         },
         {
-          "title": "Ένα δισεκατομμύριο ευρώ οι ζημιές στη Σικελία από το πέρασμα της καταιγίδας Χάρι",
-          "link": "http://gr.euronews.com/2026/01/24/ena-disekatommurio-eurw-zhmies-sikelia-perasma-kataigida-xari",
-          "pubDate": "Sat, 24 Jan 2026 14:58:06 +0100",
-          "description": "Το υπουργικό συμβούλιο της Ιταλίας θα αποφασίσει αν θα κηρυχθεί εθνική κατάσταση έκτακτης ανάγκης στο νότιο τμήμα της χώρας λόγω των καταστροφών που προκάλεσε η καταιγίδα",
-          "thumbnail": null,
-          "source": "Latest News From Euronews | Euronews RSS"
+          "title": "How Soviet urban planning is helping Russia freeze Ukraine",
+          "link": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 13:56:13 GMT",
+          "description": "Thousands of people are affected when heating plants are targeted by Russian forces.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9fc/live/93740900-f93a-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
+          "link": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 07:57:00 GMT",
+          "description": "The US will also offer “more limited” support to US allies, according to a new national defence strategy document.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebca/live/3fb6e610-f8dc-11f0-8902-65b5cd997fa5.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "New Zealand calls off rescue efforts for six missing after landslide",
+          "link": "https://www.bbc.com/news/articles/c050vnl7p10o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 06:34:24 GMT",
+          "description": "Police say they are not expecting to find any more survivors from the landslide, with six people still unaccounted for.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df25/live/7f6f15a0-f8de-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Indonesia landslide kills seven, dozens missing ",
+          "link": "https://www.bbc.com/news/articles/c87r53y4dx0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 06:02:41 GMT",
+          "description": "Rescue teams are searching the West Java village for 83 people who are still unaccounted for.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8842/live/bb79e470-f96b-11f0-8ff0-0b7621a1daf2.png",
+          "source": "BBC News"
+        },
+        {
+          "title": "Four attacks in 48 hours: How east Australia's beaches became a 'perfect storm' for sharks",
+          "link": "https://www.bbc.com/news/articles/c0err023g5lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 05:11:18 GMT",
+          "description": "Human-shark encounters in Australia are rising - but experts are keen to point out it isn't the animals' fault.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c1/live/44a385f0-f843-11f0-8ab6-81a112385ec5.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Boy, 12, dies from injuries after Sydney shark attack",
+          "link": "https://www.bbc.com/news/articles/c2k98ql703no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 05:10:24 GMT",
+          "description": "Nico Antic was swimming in Sydney Harbour when he was attacked last Sunday.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2a3/live/77e07e20-f8dc-11f0-b385-5f48925de19a.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Danish PM in Greenland for 'show of support' after Trump threats",
+          "link": "https://www.bbc.com/news/articles/c78ejd0xmp0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 03:52:40 GMT",
+          "description": "Mette Frederiksen visits the territory after weeks of tension over the US president's warnings that he could take control of it.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f167/live/d4eadac0-f887-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "'A natural partner': US treasury secretary weighs in on Alberta separatism",
+          "link": "https://www.bbc.com/news/articles/cy8ylqx0zw4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 03:20:10 GMT",
+          "description": "Scott Bessent's comments come amid a war of words between Ottawa and Washington.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab7/live/8bdfe0c0-f8cb-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "TikTok US venture to collect precise user location data",
+          "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 03:06:29 GMT",
+          "description": "Details on the expanded access to location information was published in a new privacy policy for the popular social media app.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84a7/live/bf04a0d0-f8c6-11f0-9647-8187f9f2760e.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Stuck between the US and Russia, Canada must prove it can defend its Arctic territory",
+          "link": "https://www.bbc.com/news/articles/c9vx0p77pn8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 00:05:27 GMT",
+          "description": "Canada has been boosting its forces in the Arctic in the face of new threats - and US concerns.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3489/live/afa7c900-f87b-11f0-875b-85e16a28ee0c.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Tragic chapter on the trains sends rail superpower Spain into crisis",
+          "link": "https://www.bbc.com/news/articles/c0keelnyrvro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 00:03:57 GMT",
+          "description": "Spain's vaunted reputation for its high-speed network has been humbled by disaster on the railways.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e0/live/cb962d30-f91d-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "'Half of my friends were killed' - the girls returning to a school caught up in war",
+          "link": "https://www.bbc.com/news/articles/cd9eeyz933jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Jan 2026 00:03:52 GMT",
+          "description": "Twins whose classmates were killed by shelling say their deaths have made them determined to finish their studies.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b2/live/6e6a70f0-f835-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Could trilateral talks yield a breakthrough in Ukraine-Russia war?",
+          "link": "https://www.bbc.com/news/videos/c20dlr9kn37o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Jan 2026 14:54:36 GMT",
+          "description": "It's the first time representatives from Kyiv, Moscow and Washington have come together since the full-scale invasion of Ukraine in 2022.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d410/live/613d6240-f86a-11f0-b385-5f48925de19a.jpg",
+          "source": "BBC News"
         }
       ]
     },
@@ -747,11 +715,27 @@
       "color": "green",
       "articles": [
         {
+          "title": "Τζόκοβιτς: «Θα είμαι στην Αθήνα για το Ολυμπιακός – Ερυθρός Αστέρας, ανυπομονώ για την αδελφική αναμέτρηση»",
+          "link": "https://www.newsit.gr/athlitika/tzokovits-tha-eimai-stin-athina-gia-to-olympiakos-erythros-asteras-anypomono-gia-tin-adelfiki-anametrisi/4582941/",
+          "pubDate": "Sun, 25 Jan 2026 10:41:27 +0000",
+          "description": "Ο Νόβακ Τζόκοβιτς είναι γνωστό ότι είναι υποστηρικτής του Ερυθρού Αστέρα και όπως δήλωσε κατά πάσα πιθανότητα θα είναι στην Αθήνα για να παρακολουθήσει το ...  \nTo άρθρο Τζόκοβιτς: «Θα είμαι στην Αθήνα για το Ολυμπιακός – Ερυθρός Αστέρας, ανυπομονώ για την αδελφική αναμέτρηση» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/djokovic-2-1200x800.jpg",
+          "source": "Αθλητικά"
+        },
+        {
           "title": "Ο Ρόουζ έβαλε τη φωτογραφία του τραυματισμού του και εξομολογήθηκε: «Δεν ήξερα τι θα συμβεί στη ζωή μου»",
           "link": "https://www.gazzetta.gr/basketball/nba/2509960/o-rooyz-ebale-ti-fotografia-toy-traymatismoy-toy-kai-exomologithike-den",
           "pubDate": "Sun, 25 Jan 2026 12:37:59 +0200",
           "description": "Ο Ντέρικ Ρόουζ στη συγκινητική τελετή για την απόσυρση της φανέλας του, μίλησε για το σοβαρό τραυματισμό που είχε το 2012 όταν έπαθε ρήξη χιαστού.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/rose_1_0.jpg?itok=71Azt-6d",
+          "source": "Gazzetta RSS"
+        },
+        {
+          "title": "Μισός Έλληνας ο Ράμα, σπούδασε στο Χάρβαρντ με ελληνική υποτροφία",
+          "link": "https://www.gazzetta.gr/plus/2509961/misos-ellinas-o-rama-spoydase-sto-harbarnt-me-elliniki-ypotrofia",
+          "pubDate": "Sun, 25 Jan 2026 12:33:43 +0200",
+          "description": "Η Νίκη Τζαβέλλα αποκάλυψε ότι ο Έντι Ράμα έλαβε, λόγω της μειονοτικής του καταγωγής, υποτροφία από ελληνικό ίδρυμα για να σπουδάσει στο Χάρβαρντ",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/edi-rama-8.jpg?itok=g0C283hL",
           "source": "Gazzetta RSS"
         },
         {
@@ -969,22 +953,6 @@
           "description": "Ο Κόρι Τζόσεφ αναμένεται την Δευτέρα (26/1) στην Αθήνα για λογαριασμό του Ολυμπιακού.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/joseph_getty.jpg?itok=pyAC2o7A",
           "source": "Gazzetta RSS"
-        },
-        {
-          "title": "Ενδεκάδα Παναθηναϊκού: Ο σχηματισμός και οι αλλαγές προσώπων που σκέφτεται ο Μπενίτεθ για Ατρόμητο",
-          "link": "https://www.gazzetta.gr/football/superleague/2509937/endekada-panathinaikoy-o-shimatismos-kai-oi-allages-prosopon-poy",
-          "pubDate": "Sun, 25 Jan 2026 10:00:00 +0200",
-          "description": "Ο Ράφα Μπενίτεθ κράτησε κλειστά τα «χαρτιά» του για το ματς με τον Ατρόμητο. Οι παίκτες που φαίνεται πως θα βρεθούν στην ενδεκάδα και το σύστημα που θα χρησιμοποιήσει.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benitez_intime_3.jpg?itok=4kpEqUmm",
-          "source": "Gazzetta RSS"
-        },
-        {
-          "title": "NBA: Οι Μπουλς με buzzer beater νίκησαν τους Σέλτικς, ο Ντόντσιτς κορυφαίος στη νίκη των Λέικερς κόντρα στους Μάβερικς",
-          "link": "https://www.newsit.gr/athlitika/nba-oi-mpouls-me-buzzer-beater-nikisan-tous-seltiks-o-ntontsits-koryfaios-sti-niki-ton-leikers-kontra-stous-maveriks/4582850/",
-          "pubDate": "Sun, 25 Jan 2026 07:58:44 +0000",
-          "description": "Οι Σικάγο Μπουλς επικράτησαν με 114-111 των Μπόστον Σέλτικς χάρη στο buzzer beater τρίποντο του Κέβιν Χέρτερ και έφτασαν τις 23 νίκες στο NBA. Ο ...  \nTo άρθρο NBA: Οι Μπουλς με buzzer beater νίκησαν τους Σέλτικς, ο Ντόντσιτς κορυφαίος στη νίκη των Λέικερς κόντρα στους Μάβερικς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/huerter-1200x800.jpg",
-          "source": "Αθλητικά"
         }
       ]
     },
