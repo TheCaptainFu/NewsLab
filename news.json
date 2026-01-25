@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T20:35:25.671Z",
+  "lastUpdated": "2026-01-25T20:40:26.574Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κακοκαιρία: Τι ώρα θα ξεκινήσουν οι ισχυρές καταιγίδες στην Αττική",
+          "link": "https://www.protothema.gr/greece/article/1763216/kakokairia-ti-ora-tha-xekinisoun-oi-ishures-kataigides-stin-attiki/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 22:38:55 +0200",
+          "description": "Αναμένεται σαφής επιδείνωση του καιρού με έντονες βροχές και καταιγίδες σε μεγάλη έκταση της Ελλάδας, και με φαινόμενα που θα επηρεάσουν και την Αττική.",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-25/260121173039_vroxi-rain.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ο Κώστας Τσιμίκας επιστρέφει άμεσα στη Λίβερπουλ",
           "link": "https://www.newsit.gr/athlitika/o-kostas-tsimikas-epistrefei-amesa-sti-liverpoul/4583300/",
@@ -49,14 +57,6 @@
           "source": "NewsIT"
         },
         {
-          "title": "Κακοκαιρία: Τι ώρα θα ξεκινήσουν οι ισχυρές καταιγίδες στην Αττική",
-          "link": "https://www.protothema.gr/greece/article/1763216/kakokairia-ti-ora-tha-xekinisoun-oi-ishures-kataigides-stin-attiki/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 22:04:00 +0200",
-          "description": "Αναμένεται σαφής επιδείνωση του καιρού με έντονες βροχές και καταιγίδες σε μεγάλη έκταση της Ελλάδας, και με φαινόμενα που θα επηρεάσουν και την Αττική.",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-25/260121173039_vroxi-rain.jpeg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
           "title": "Υβόννη Μπόσνιακ: «Πιστεύω πως η πιο σημαντική επιλογή στη ζωή είναι ο σύντροφος»",
           "link": "https://www.newsit.gr/lifestyle/yvonni-mposniak-pisteyo-pos-i-pio-simantiki-epilogi-sti-zoi-einai-o-syntrofos/4583042/",
           "pubDate": "Sun, 25 Jan 2026 20:02:00 +0000",
@@ -79,6 +79,14 @@
           "description": "Ένα άνετο βράδυ πρωταθλήματος για την Μπενφίκα. Με τον Βαγγέλη Παυλίδη να πετυχαίνει δυο γκολ, η ομάδα του Ζοσέ Μουρίνιο επικράτησε εντός έδρας της Εστρέλα ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Εστρέλα με 4-0 δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-reuters-1200x792.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Λέπρα: Όχι απλώς υπάρχει, αλλά πρέπει να τύχει περισσότερης προσοχής",
+          "link": "https://www.in.gr/2026/01/25/world/deutsche-welle/lepra-oxi-aplos-yparxei-alla-prepei-na-tyxei-perissoteris-prosoxis/",
+          "pubDate": "Sun, 25 Jan 2026 22:38:56 +0300",
+          "description": "Σε πολλούς θυμίζει… Μεσαίωνα. Ωστόσο η λέπρα υπάρχει ακόμη. Σύμφωνα με τον ΠΟΥ, το 2024 μόλυνε 471 ανθρώπους τη μέρα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/14688101-768x520.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Πειραγμένες αντλίες σε βενζινάδικα: Τέσσερις προφυλακίσεις για το κύκλωμα",
@@ -239,14 +247,6 @@
           "description": "Η αφθονία των παραλιών και τα ηφαιστειακά τοπία αυτού του νησιού το καθιστούν έναν εξαιρετικό προορισμό διακοπών για όλο το χρόνο",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/oleksii-piekhov-YN32dQDxiPs-unsplash-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Μάνος Ζερδεβάς: Ο «φρουρός» του τέρματος της εθνικής πόλο ανδρών στο ευρωπαϊκό πρωτάθλημα",
-          "link": "https://www.newsit.gr/athlitika/manos-zerdevas-o-frouros-tou-termatos-tis-ethnikis-polo-andron-sto-eyropaiko-protathlima/4583232/",
-          "pubDate": "Sun, 25 Jan 2026 18:42:02 +0000",
-          "description": "Η Εθνική πόλο ανδρών δεν άφησε τη δεύτερη ευκαιρία της για το βάθρο στο ευρωπαϊκό πρωτάθλημα υδατοσφαίρισης του Βελιγραδίου, να… πάει στράφι. Απέναντι στην Ιταλία, ...  \nTo άρθρο Μάνος Ζερδεβάς: Ο «φρουρός» του τέρματος της εθνικής πόλο ανδρών στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zerdebas-eurokinissi-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -751,7 +751,7 @@
           "link": "https://www.gazzetta.gr/football/superleague/2510174/lebadeiakos-o-papadopoylos-ypografei-eos-2030",
           "pubDate": "Sun, 25 Jan 2026 22:29:55 +0200",
           "description": "Ο Λεβαδειακός, σύμφωνα με Ιταλό ρεπόρτερ, είναι μία ανάσα από τον μεσοεπιθετικό Χρήστο Παπαδόπουλο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/papadopoylos.jpg?itok=Ff1afirq",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2203442147_1.jpg?itok=o2OMEY1o",
           "source": "Gazzetta"
         },
         {
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Κινδυνεύει με «τρελό» αρνητικό ρεκόρ ο Παναθηναϊκός! – Εκτός έδρας νίκη με το… κυάλι",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/kindynevei-me-trelo-arnitiko-rekor/?utm_source=rss&utm_medium=rss&utm_campaign=kindynevei-me-trelo-arnitiko-rekor",
+          "pubDate": "Sun, 25 Jan 2026 20:38:19 +0000",
+          "description": "Η συγκομιδή μακριά από τη Λεωφόρο φέρνει ιστορικές συγκρίσεις και μετατρέπει τις επόμενες εξόδους σε κομβικό τεστ αξιοπιστίας. Η φετινή εκτός έδρας συγκομιδή φέρνει τον Παναθηναϊκό αντιμέτωπο με ένα ανεπιθύμητο ορόσημο, καθώς τα αριθμητικά δεδομένα παραπέμπουν σε σεζόν που έχουν χαραχθεί αρνητικά στη συλλογική μνήμη. Αν το «Τριφύλλι» δεν βρει άμεσα νίκη μακριά από την […]\nThe post Κινδυνεύει με «τρελό» αρνητικό ρεκόρ ο Παναθηναϊκός! – Εκτός έδρας νίκη με το… κυάλι appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/jedvaj-apogoitefsi.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
           "title": "Μπενίτεθ: «Θέλαμε να προφυλάξουμε παίκτες, αδύνατον να στηρίζεσαι σε λίγους με τρεις διοργανώσεις»",
           "link": "https://panathinaikos24.gr/2026/01/25/617725/mpeniteth-thelame-na-profylaksoume-paiktes-adynaton-na-stirizesai-se-ligous-me-treis-diorganoseis/",
           "pubDate": "Sun, 25 Jan 2026 20:33:41 +0000",
@@ -1135,14 +1143,6 @@
           "description": "Ο Παναθηναϊκός κατάφερε να γνωρίσει ήττα-πισωγύρισμα στη Σύρο, από τον Φοίνικα με 3-2 σετ και να χάσει πολύτιμο έδαφος για την κορυφή.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6805805.jpg?fit=900%2C599&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Ατρόμητος – Παναθηναϊκός: Φτιάχνει… Μάτε στο Περιστέρι ο Αντίνο!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/atromitos-panathinaikos-ftiachnei-m/?utm_source=rss&utm_medium=rss&utm_campaign=atromitos-panathinaikos-ftiachnei-m",
-          "pubDate": "Sun, 25 Jan 2026 18:32:08 +0000",
-          "description": "Παρουσία Σαντίνο Αντίνο στο Περιστέρι με χαλαρή διάθεση και εικόνες προσαρμογής, λίγες ημέρες μετά την άφιξή του στην Ελλάδα. Στο Περιστέρι βρίσκεται ο Σαντίνο Αντίνο, προκειμένου να παρακολουθήσει δια ζώσης την αναμέτρηση του Παναθηναϊκός με τον Ατρόμητος, στο πλαίσιο της 18ης αγωνιστικής της Super League. Το νέο μεταγραφικό απόκτημα των «πράσινων» βρίσκεται σε μπουθ του […]\nThe post Ατρόμητος – Παναθηναϊκός: Φτιάχνει… Μάτε στο Περιστέρι ο Αντίνο! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/santino-andino-2.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Ο Λαφόν τιμώρησε τον Βεργέτη: Απέκρουσε εντυπωσιακά το “πέναλτι” του Μίχορλ!",
