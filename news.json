@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T12:35:27.256Z",
+  "lastUpdated": "2026-01-25T12:40:27.047Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -36,7 +36,7 @@
           "title": "Σία Κοσιώνη: Παραμένει στην εντατική με σημάδια βελτίωσης",
           "link": "https://www.newsit.gr/ellada/sia-kosioni-paramenei-stin-entatiki-me-simadia-veltiosis/4582983/",
           "pubDate": "Sun, 25 Jan 2026 12:27:29 +0000",
-          "description": "Καλύτερα είναι στην υγεία της η Σία Κοσιώνη, η οποία από την Πέμπτη (22.01.2026) νοσηλεύεται με πνευμονία σε γνωστό νοσοκομείο της Αττικής. Θετικά είναι τα ...  \nTo άρθρο Σία Κοσιώνη: Παραμένει στην εντατική με σημάδια βελτίωσης δημοσιεύτηκε στο NewsIT .",
+          "description": "Καλύτερα είναι στην υγεία της η Σία Κοσιώνη, η οποία από την Πέμπτη (22.01.2026) νοσηλεύεται με πνευμονία σε γνωστό νοσοκομείο της Αττικής. Η Σία Κοσιώνη, ...  \nTo άρθρο Σία Κοσιώνη: Παραμένει στην εντατική με σημάδια βελτίωσης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sia-kosioni-ndp1-1200x731.jpg",
           "source": "NewsIT"
         },
@@ -135,6 +135,14 @@
           "description": "Ο Νικήτας Τσακίρουγλου μίλησε για την αγαπημένη του σύζυγο, Χρυσούλα Διαβάτη, αποκαλύπτοντας ότι η υγεία της έχει βελτιωθεί. Η γνωστή ηθοποιός εδώ και καιρό δίνει ...  \nTo άρθρο «Η Χρυσούλα Διαβάτη είναι καλύτερα, θα κερδίσει το στοίχημα της ζωής», είπε ο Νικήτας Τσακίρογλου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xrysoula-diavati-ndp-1200x689.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "«Ο Τσάμπι Αλόνσο είναι σε επαφές με τη Λίβερπουλ»",
+          "link": "https://www.in.gr/2026/01/25/sports/football/o-tsampi-alonso-einai-se-epafes-ti-liverpoul/",
+          "pubDate": "Sun, 25 Jan 2026 14:38:17 +0300",
+          "description": "Για επαφή της Λίβερπουλ με τον Τσάμπι Αλόνσο κάνουν λόγο ξένα Μέσα – Τι απάντησε ο Ισπανός;",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Xabi-Alonso-e1762961434729-1-768x435.jpeg",
+          "source": "In.gr"
         },
         {
           "title": "Μετά από 12 χρόνια σιωπής, πατέρας και κόρη στο εδώλιο με εισαγγελική πρόταση για υπόθεση αιμομιξίας στη Ρόδο ",
@@ -239,14 +247,6 @@
           "description": "Ο Ολυμπιακός φέρεται να είναι στη μάχη για τον επιθετικό της Ρίβερ Πλέιτ, Αγκουστίν, Ρουμπέρτο, σύμφωνα με τον Τούρκο δημοσιογράφο, Εκρέμ Κονούρ. Η μεταγραφική περίοδος ...  \nTo άρθρο Ο Ολυμπιακός στη μάχη για τον επιθετικό της Ρίβερ Πλέιτ, Αγκουστίν Ρουμπέρτο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ruberto-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ο Κινέζος πρέσβης στην Αθήνα τραγούδησε «Ας κρατήσουν οι χοροί» στην κοπή της πίτας της πρεσβείας",
-          "link": "https://www.protothema.gr/greece/article/1763033/i-kineziki-presveia-stin-ellada-ekopse-gia-proti-fora-vasilopita-viral-to-tragoudi-tou-presvi/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 13:06:00 +0200",
-          "description": "Η κινεζική πρεσβεία έδειξε βίντεο από τις πρόβες που έκανε ο Φανγκ Τσιού για να τραγουδήσει Σαββόπουλο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-presvis.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Περιοδικό TIME: Ο αριθμός των νεκρών από τις διαδηλώσεις στο Ιράν ίσως υπερβαίνει τις 30.000",
+          "link": "http://gr.euronews.com/2026/01/25/periodiko-time-arithmos-nekrwn-diadhlwseis-iran-isws-upervainei-30000",
+          "pubDate": "Sun, 25 Jan 2026 13:34:04 +0100",
+          "description": "Επικαλούμενο δύο κορυφαίους αξιωματούχους του υπουργείου Υγείας του Ιράν, το αμερικανικό περιοδικό μεταδίδει ότι η κλίμακα της καταστολής των διαδηλωτών στις 8 και 9 Ιανουαρίου ήταν τόσο μεγάλη που τα ασθενοφόρα αντικαταστάθηκαν από νταλίκες",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Sir Mark Tully, the BBC's 'voice of India', dies aged 90",
           "link": "https://www.bbc.com/news/articles/c4nnp4d064do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 12:12:08 GMT",
@@ -731,14 +739,6 @@
           "description": "«Θα υπερασπιστούμε μέχρι θανάτου» λέει ο ιρανικός στρατός - Κλιμακώνονται οι στρατιωτικές και πολιτικές εντάσεις αλλά και οι φόβοι για άμεση σύγκρουση μεταξύ ΗΠΑ και Ιράν",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Snow ploughs battle blizzards on roads and runways in Oklahoma",
-          "link": "https://www.bbc.com/news/videos/cvgj13e5ddlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Jan 2026 17:52:07 GMT",
-          "description": "A severe winter storm that could affect more than 200 million Americans has brought heavy snow, and freezing temperatures.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a052/live/7d7f3bd0-f947-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -755,10 +755,10 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Ο Τζόκοβιτς προκρίθηκε απευθείας στους «8» του Αυστραλιανού Όπεν μετά την αποχώρηση του Μένσικ",
+          "title": "Τζόκοβιτς: Απευθείας στους \"8\" του Australian Open",
           "link": "https://www.gazzetta.gr/tennis/australian-open/2509990/o-tzokobits-prokrithike-apeytheias-stoys-8-toy-aystralianoy-open",
           "pubDate": "Sun, 25 Jan 2026 14:29:54 +0200",
-          "description": "Ο Νόβακ Τζόκοβιτς πέρασε απευθείας στα προημιτελικά του Αυστραλιανού Όπεν, καθώς ο αντίπαλος του, Γιάκουμπ Μένσικ, παραιτήθηκε εξαιτίας ενοχλήσεων στους κοιλιακούς.",
+          "description": "Ο Νόβακ Τζόκοβιτς πέρασε απευθείας στα προημιτελικά του Australian Open, καθώς ο αντίπαλος του, Γιάκουμπ Μένσικ, παραιτήθηκε εξαιτίας ενοχλήσεων στους κοιλιακούς.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/novak_djokovic_gettyimages-2257041545.jpg?itok=nVrJMwBu",
           "source": "Gazzetta"
         },
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Τέλος στο μύθο της ιδιωτικότητας: Η Microsoft παραδίδει τα κλειδιά κρυπτογράφησης στο FBI",
+          "link": "https://www.techgear.gr/telos-sto-mytho-tis-idiotikotitas-i-microsoft-paradidei-ta-kleidia-kryptografisis-sto-fbi-47307",
+          "pubDate": "Sun, 25 Jan 2026 14:36:00 +0200",
+          "description": "Μια νέα πραγματικότητα διαμορφώνεται για εκατομμύρια χρήστες Windows παγκοσμίως, καθώς πρόσφατες αποκαλύψεις φέρνουν στο φως τη συνεργασία της ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/microsoft-bitlocker-keys-fbi.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Είδατε περίεργες ειδοποιήσεις στο Gmail; Δεν ήσασταν οι μόνοι",
           "link": "https://www.techgear.gr/eidate-perierges-eidopoiiseis-sto-gmail-den-isastan-oi-monoi-47306",
           "pubDate": "Sun, 25 Jan 2026 12:17:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Fri, 23 Jan 2026 12:17:00 +0200",
           "description": "Μια ανησυχητική εξέλιξη στον κυβερνοχώρο έρχεται να επιβεβαιώσει τους φόβους των ειδικών ασφαλείας: οι εγκληματίες του διαδικτύου δεν αρκούνται πλέον ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/android-malware.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Πώς το 1Password σε σώζει από το ίδιο σου το λάθος όταν βιάζεσαι να συνδεθείς",
-          "link": "https://www.techgear.gr/pos-to-1password-se-sozei-apo-to-idio-soy-to-lathos-otan-viazesai-na-syndetheis-47290",
-          "pubDate": "Fri, 23 Jan 2026 07:37:00 +0200",
-          "description": "Στον διαρκή πόλεμο της κυβερνοασφάλειας, ο πιο αδύναμος κρίκος παραμένει συχνά ο ανθρώπινος παράγοντας. Ενώ οι αλγόριθμοι κρυπτογράφησης γίνονται όλο ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/1password-ai-anti-phishing.jpg",
           "source": "Techgear"
         }
       ]
