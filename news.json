@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T18:50:28.192Z",
+  "lastUpdated": "2026-01-25T18:55:27.908Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γιουβέντους – Νάπολι 3-0: Την διέλυσε μέσα στο Τορίνο και την πλησίασε στο βαθμό",
+          "link": "https://www.newsit.gr/athlitika/giouventous-napoli-3-0-tin-dielyse-mesa-sto-torino-kai-tin-plisiase-sto-vathmo/4583241/",
+          "pubDate": "Sun, 25 Jan 2026 18:54:42 +0000",
+          "description": "Περισσότερα σε λίγο…\nTo άρθρο Γιουβέντους – Νάπολι 3-0: Την διέλυσε μέσα στο Τορίνο και την πλησίασε στο βαθμό δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/juventus-napoli-reuters-1200x829.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "WRC: Θρίαμβος Solberg και Toyota με 1-2-3 στο Μόντε Κάρλο",
+          "link": "https://www.newsit.gr/auto/wrc-thriamvos-solberg-kai-toyota-me-1-2-3-sto-monte-karlo/4583234/",
+          "pubDate": "Sun, 25 Jan 2026 18:50:30 +0000",
+          "description": "Αναμφίβολα ο Όλιβερ Σόλμπεργκ ήταν το πρόσωπο του πρώτου ράλι της χρονιάς του WRC, στο Μόντε Κάρλο. Ο γιος του Πέτερ Σόλμπεργκ, παγκόσμιου πρωταθλητή του ...  \nTo άρθρο WRC: Θρίαμβος Solberg και Toyota με 1-2-3 στο Μόντε Κάρλο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/wrc-toyota-featured-wrc.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Μάνος Ζερδεβάς: Ο «φρουρός» του τέρματος της εθνικής πόλο ανδρών στο ευρωπαϊκό πρωτάθλημα",
           "link": "https://www.newsit.gr/athlitika/manos-zerdevas-o-frouros-tou-termatos-tis-ethnikis-polo-andron-sto-eyropaiko-protathlima/4583232/",
@@ -73,12 +89,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Καιρός: Ισχυρές βροχές και καταιγίδες θα σαρώσουν όλη τη χώρα – Οι «επικίνδυνες» ώρες στην Αττική",
+          "link": "https://www.in.gr/2026/01/25/greece/kairos-isxyres-vroxes-kai-kataigides-tha-sarosoun-oli-ti-xora-oi-epikindynes-ores-stin-attiki/",
+          "pubDate": "Sun, 25 Jan 2026 20:51:34 +0300",
+          "description": "Τα φαινόμενα τοπικά θα είναι έντονα σε διάφορες περιοχές της χώρας - Σε επιφυλακή το υπουργείο Πολιτικής Προστασίας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kategida-1.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Μπαρτσελόνα – Οβιέδο 3-0: Ξέσπασε στο δεύτερο ημίχρονο και επέστρεψε στην κορυφή της La Liga",
           "link": "https://www.newsit.gr/athlitika/mpartselona-oviedo-3-0-ksespase-sto-deytero-imixrono-kai-epestrepse-stin-koryfi-tis-la-liga/4583191/",
           "pubDate": "Sun, 25 Jan 2026 17:51:29 +0000",
           "description": "Ξέσπασε στην επανάληψη η Μπαρτσελόνα και ανέβηκε ξανά στην κορυφή της La Liga, καθώς νίκησε με 3-0 στο “Καμπ Νου” την ουραγό της βαθμολογίας Οβιέδο, ...  \nTo άρθρο Μπαρτσελόνα – Οβιέδο 3-0: Ξέσπασε στο δεύτερο ημίχρονο και επέστρεψε στην κορυφή της La Liga δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/barcelona-reuters-1200x815.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Μα πώς μπορεί κανείς να μισεί έναν σκαντζόχοιρο; Η σκοτεινή ιστορία πίσω από ένα αξιολάτρευτο ζωάκι",
+          "link": "https://www.in.gr/2026/01/25/life/culture-live/ma-pos-mporei-kaneis-na-misei-enan-skantzoxoiro-skoteini-istoria-piso-apo-ena-aksiolatreyto-zoaki/",
+          "pubDate": "Sun, 25 Jan 2026 20:50:21 +0300",
+          "description": "Σήμερα δύσκολα θα φανταζόταν κανείς ότι ένα ζωάκι σαν τον σκαντζόχοιρο θα μπορούσε να προκαλεί φόβο ή μίσος. Κι όμως, πίσω από τη χαριτωμένη εικόνα του κρύβεται μια μακρά ιστορία προκαταλήψεων και διωγμών.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/December-768x577.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Αποστρατεύτηκαν από την ΕΛ.ΑΣ. οι κουμπάρες της ΕΥΠ που δεν… μιλούσαν για το Predator",
@@ -214,38 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 17:15:21 +0000",
           "description": "Ο Παναθηναϊκός αντιμετωπίζει εκτός έδρας τον Ατρόμητο για την 18η αγωνιστική της Super League, με τις δύο ομάδες να ψάχνουν το τρίποντο για να ανέβουν ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός live για την 18η αγωνιστική της Super League δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/siopis-1-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "H Ελένη Τσολάκη για το τέλος της εκπομπής της: «Όλα θα τα πούμε κάποια άλλη στιγμή»",
-          "link": "https://www.newsit.gr/media/h-eleni-tsolaki-gia-to-telos-tis-ekpompis-tis-ola-tha-ta-poume-kapoia-alli-stigmi/4583157/",
-          "pubDate": "Sun, 25 Jan 2026 17:14:54 +0000",
-          "description": "Για την πρόωρη ολοκλήρωση της εκπομπής «Πρωινό Σαββατοκύριακο» από τη συχνότητα του ΑΝΤ1 κλήθηκε να απαντήσει η Ελένη Τσολάκη, η οποία υπογράμμισε ότι θα μιλήσει ...  \nTo άρθρο H Ελένη Τσολάκη για το τέλος της εκπομπής της: «Όλα θα τα πούμε κάποια άλλη στιγμή» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eleni-tsolaki-ndp-1200x728.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ζελένσκι: 100% έτοιμο το έγγραφο των εγγυήσεων Τραμπ για την ασφάλεια της Ουκρανίας",
-          "link": "https://www.newsit.gr/kosmos/zelenski-100-etoimo-to-eggrafo-ton-eggyiseon-tramp-gia-tin-asfaleia-tis-oukranias/4583163/",
-          "pubDate": "Sun, 25 Jan 2026 17:14:38 +0000",
-          "description": "Το έγγραφο των αμερικανικών εγγυήσεων για την Ουκρανία είναι 100% έτοιμο, δηλώνει ο Βολοντίμιρ Ζελένσκι την Κυριακή (25.01.2026). Το έγγραφο θα σταλεί προς επικύρωση στο ...  \nTo άρθρο Ζελένσκι: 100% έτοιμο το έγγραφο των εγγυήσεων Τραμπ για την ασφάλεια της Ουκρανίας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/volodymyr-zelenskiy-25012026.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ατρόμητος-Παναθηναϊκός: Αρνήθηκε πέναλτι στους γηπεδούχους ο διαιτητής (vid)",
-          "link": "https://www.in.gr/2026/01/25/sports/football/atromitos-panathinaikos-arnithike-penalti-stous-gipedouxous-o-diaititis-vid/",
-          "pubDate": "Sun, 25 Jan 2026 20:13:58 +0300",
-          "description": "Στο 4ο λεπτό του Ατρόμητος - Παναθηναϊκός, τόσο ο διαιτητής Βεργέτης, όσο και ο VAR Κατσικογιάννης αρνήθηκαν να δώσουν πέναλτι υπέρ της ομάδας του Περιστερίου.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/penlatrrr-768x446.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Διακοπή κυκλοφορίας στην Λιοσίων λόγω φωτιάς σε κτίριο στο ύψος της οδού Ηπείρου",
-          "link": "https://www.newsit.gr/ellada/diakopi-kykloforias-stin-liosion-logo-fotias-se-ktirio-sto-ypsos-tis-odou-ipeirou/4583162/",
-          "pubDate": "Sun, 25 Jan 2026 17:11:24 +0000",
-          "description": "Φωτιά ξέσπασε στην οδό Λιοσιών στην Αθήνα το απόγευμα της Κυριακής (25.01.2026) σε εγκαταλελειμμένο κτίριο. Η κυκλοφορία των οχημάτων διακόπηκε στην οδό Λιοσίων, μετά τη ...  \nTo άρθρο Διακοπή κυκλοφορίας στην Λιοσίων λόγω φωτιάς σε κτίριο στο ύψος της οδού Ηπείρου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fotia-liosion-1200x799.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Γιουβέντους - Νάπολι 3-0: Σάρωσε και φουλάρει για την τετράδα",
+          "link": "https://www.gazzetta.gr/football/serie/2510136/gioybentoys-napoli-3-0-sarose-kai-foylarei-gia-tin-tetrada",
+          "pubDate": "Sun, 25 Jan 2026 20:54:32 +0200",
+          "description": "Η Γιουβέντους επικράτησε 3-0 της Νάπολι εντός έδρας και έπιασε τη Ρόμα στην τέταρτη θέση της βαθμολογίας της Serie A.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/juventus.jpg?itok=EWvtinhc",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πετκίμ-Φενέρμπαχτσε 70-78: Με υπογραφή Μπάλντγουιν",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510135/petkim-fenermpahtse-70-78-me-ypografi-mpalntgoyin",
+          "pubDate": "Sun, 25 Jan 2026 20:53:48 +0200",
+          "description": "Ο Ουέιντ Μπάλντγουιν ήταν ο ηγέτης της Φενέρμπαχτσε στη νίκη (78-70) εκτός έδρας επί της Πετκίμ για την 17η αγωνιστική του τουρκικού πρωταθλήματος.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/baldwin.jpg?itok=qeveivpr",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μάνος Ζερδεβάς: Ο «φρουρός» του τέρματος της εθνικής πόλο ανδρών στο ευρωπαϊκό πρωτάθλημα",
           "link": "https://www.newsit.gr/athlitika/manos-zerdevas-o-frouros-tou-termatos-tis-ethnikis-polo-andron-sto-eyropaiko-protathlima/4583232/",
           "pubDate": "Sun, 25 Jan 2026 18:42:02 +0000",
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 19:18:21 +0200",
           "description": "Η Εθνική ομάδα πόλο ανδρών το έκανε! Το πρώτο βάθρο της ιστορίας σε Ευρωπαϊκό πρωτάθλημα είναι γεγονός και συνοδεύτηκε με το χάλκινο μετάλλιο...",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ellada_1.jpg?itok=LH7cBaCP",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Εθνική ομάδα ανδρών: Το πρώτο της μετάλλιο σε Ευρωπαϊκό πρωτάθλημα",
-          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510045/ethniki-omada-andron-proto-tis-metallio-se-eyropaiko",
-          "pubDate": "Sun, 25 Jan 2026 19:17:00 +0200",
-          "description": "Η Εθνική ομάδα πόλο ανδρών το έκανε! Το πρώτο βάθρο της ιστορίας σε Ευρωπαϊκό πρωτάθλημα είναι γεγονός και συνοδεύτηκε με το χάλκινο μετάλλιο...",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hellas_andron_polo_0.jpg?itok=w0Y95jjt",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Εφιάλτης» το πάρκινγκ στην Αθήνα: 3+1 λύσεις για την «κρίση»",
-          "link": "https://www.gazzetta.gr/2436947/boyliazoyn-10-ipeirotikoi-proorismoi-gia-pasha",
-          "pubDate": "Sun, 25 Jan 2026 19:17:00 +0200",
-          "description": "Η έλλειψη διαθέσιμων χώρων στάθμευσης στην Αθήνα αποτελεί ένα από τα μεγαλύτερα προβλήματα της καθημερινότητας των κατοίκων και επισκεπτών.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/parkingk.jpg.png?itok=ae0wPnHP",
           "source": "Gazzetta"
         }
       ]
