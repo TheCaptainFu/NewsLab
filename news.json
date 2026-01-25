@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T19:25:26.208Z",
+  "lastUpdated": "2026-01-25T19:30:30.126Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "New York Times: Ο Χαμενεΐ διέταξε την καταστολή των διαδηλώσεων στο Ιράν «με κάθε μέσο» – «Οργανωμένη σφαγή από το κράτος»",
+          "link": "https://www.newsit.gr/kosmos/new-york-times-o-xamenei-dietakse-tin-katastoli-ton-diadiloseon-sto-iran-me-kathe-meso-organomeni-sfagi-apo-to-kratos/4583242/",
+          "pubDate": "Sun, 25 Jan 2026 19:29:18 +0000",
+          "description": "Διαταγή στο Ανώτατο Συμβούλιο Εθνικής Ασφάλειας του Ιράν να καταστείλει τις διαμαρτυρίες στις 9 Ιανουαρίου χρησιμοποιώντας «όλα τα απαραίτητα μέσα» έδωσε ο ανώτατος ηγέτης Αγιατολάχ ...  \nTo άρθρο New York Times: Ο Χαμενεΐ διέταξε την καταστολή των διαδηλώσεων στο Ιράν «με κάθε μέσο» – «Οργανωμένη σφαγή από το κράτος» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iran-protest-tehran.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ατρόμητος – Παναθηναϊκός 0-0: Νέα απώλεια βαθμών για τους «πράσινους» στη Super League",
+          "link": "https://www.newsit.gr/athlitika/atromitos-panathinaikos-0-0-nea-apoleia-vathmon-gia-tous-prasinous-sti-super-league/4583231/",
+          "pubDate": "Sun, 25 Jan 2026 19:27:20 +0000",
+          "description": "Ο Παναθηναϊκός έκανε μία ακόμη “άνευρη” εμφάνιση τη φετινή σεζόν και έμεινε στο 0-0 στην έδρα του Ατρομήτου για την 18η αγωνιστική της Super League, ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός 0-0: Νέα απώλεια βαθμών για τους «πράσινους» στη Super League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tetteh-1200x799.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "To τρολάρισμα Μητσοτάκη σε σκιέρ που τον είπε «γκαντέμη»: ««Γύρνα το σε snowboard»",
           "link": "https://www.newsit.gr/politikh/to-trolarisma-mitsotaki-se-skier-pou-ton-eipe-gkantemi-gyrna-to-se-snowboard/4583253/",
@@ -95,6 +111,22 @@
           "description": "Η Μάντσεστερ Γιουνάιτεντ έβγαλε αντίδραση μετά την ήττα στο Κύπελλο Αγγλίας και “άλωσε” την έδρα της πρωτοπόρου της Premier League, Άρσεναλ, με ένα φοβερό διπλό ...  \nTo άρθρο Άρσεναλ – Μάντσεστερ Γιουνάιτεντ 2-3: Φοβερό διπλό των «κόκκινων διαβόλων» στην Premier League δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/cunha-1200x804.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "ΕΝΦΙΑ: Τελευταία ευκαιρία για διορθώσεις στο Ε9 έως 31 Ιανουαρίου",
+          "link": "https://www.in.gr/2026/01/25/economy/oikonomikes-eidiseis/enfia-teleytaia-eykairia-gia-diorthoseis-sto-e9-eos-31-ianouariou/",
+          "pubDate": "Sun, 25 Jan 2026 21:27:26 +0300",
+          "description": "Λίγες ημέρες απομένουν μέχρι τις 31 Ιανουαρίου για διορθώσεις στο Ε9, πριν «κλειδώσει» ο επόμενος λογαριασμός του ΕΝΦΙΑ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6739655-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ατρόμητος-Παναθηναϊκός 0-0: Η τετράδα απομακρύνθηκε στο Περιστέρι",
+          "link": "https://www.in.gr/2026/01/25/sports/football/atromitos-panathinaikos-0-0-tetrada-apomakrynthike-sto-peristeri/",
+          "pubDate": "Sun, 25 Jan 2026 21:25:38 +0300",
+          "description": "Ο Παναθηναϊκός απέτυχε να πλησιάσει στην τετράδα μετά το 0-0 με τον Ατρόμητο. Απέκρουσε πέναλτι ο Λαφόν, τραγικοί οι «πράσινοι» του Μπενίτεθ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5005099-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Πέντε τραυματίες από πυροβολισμούς στο Βερολίνο οι δύο σε κρίσιμη κατάσταση",
@@ -214,38 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 17:39:59 +0000",
           "description": "Συναγερμός στην Κωνσταντινούπολη από το ακέφαλο πτώμα μίας 37χρονης γυναίκας, το οποίο ήταν επίσης ακρωτηριασμένο στα πόδια. Το μακάβριο εύρημα εντοπίστηκε μέσα σε κάδο απορριμμάτων, ...  \nTo άρθρο Θρίλερ στην Κωνσταντινούπολη με πτώμα γυναίκας χωρίς κεφάλι και πόδια σε κάδο σκουπιδιών δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/konstantinoupoli-woman-25012026.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Έξυπνες» κάμερες: Σε πλήρη λειτουργία έως το τέλος του μήνα",
-          "link": "https://www.in.gr/2026/01/25/greece/eksypnes-kameres-se-pliri-leitourgia-eos-telos-tou-mina/",
-          "pubDate": "Sun, 25 Jan 2026 20:36:45 +0300",
-          "description": "Σημειώνεται πως την περίοδο από 18/12/2025 έως 21/01/2026, οι «έξυπνες» κάμερες της Τροχαίας, που λειτουργούν πιλοτικά, έχουν καταγράψει 40.691 παραβάσεις",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kameres-768x458.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "ΚΚΕ: Επίθεση σε Μητσοτάκη για «τον ρόλο του ‘σημαιοφόρου’» στους αμερικανοΝΑΤΟϊκούς σχεδιασμούς και πολέμους",
-          "link": "https://www.in.gr/2026/01/25/politics/kke-epithesi-se-mitsotaki-gia-ton-rolo-tou-simaioforou-stous-amerikanonatoikous-sxediasmous-kai-polemous/",
-          "pubDate": "Sun, 25 Jan 2026 20:33:40 +0300",
-          "description": "«Αυτός ο ρόλος δεν μπορεί να κρυφτεί πίσω από τα ευχολόγια για ‘σεβασμό του διεθνούς δικαίου’», σχολιάζει το ΚΚΕ.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kke-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Εθνική πόλο ανδρών: Αυτά είναι τα μετάλλια της Ελλάδας μετά την κατάκτηση του χάλκινου στο ευρωπαϊκό",
-          "link": "https://www.newsit.gr/athlitika/ethniki-polo-andron-ayta-einai-ta-metallia-tis-elladas-meta-tin-kataktisi-tou-xalkinou-sto-eyropaiko/4583180/",
-          "pubDate": "Sun, 25 Jan 2026 17:33:34 +0000",
-          "description": "Η Εθνική πόλο ανδρών κατέκτησε το πρώτο της μετάλλιο σε Ευρωπαϊκό πρωτάθλημα και… έσπασε την κατάρα που την κυνηγούσε στη διοργάνωση! Η γαλανόλευκη διέλυσε με ...  \nTo άρθρο Εθνική πόλο ανδρών: Αυτά είναι τα μετάλλια της Ελλάδας μετά την κατάκτηση του χάλκινου στο ευρωπαϊκό δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ethniki-polo-2-eurokinissi-1200x760.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γιώργος Μαζωνάκης: Κόπηκε ο ήχος στο μαγαζί που εμφανίζεται – Η αντίδραση του τραγουδιστή",
-          "link": "https://www.newsit.gr/lifestyle/giorgos-mazonakis-kopike-o-ixos-sto-magazi-pou-emfanizetai-i-antidrasi-tou-tragoudisti/4583107/",
-          "pubDate": "Sun, 25 Jan 2026 17:33:04 +0000",
-          "description": "Με ένα απρόσμενο τεχνικό ζήτημα ήρθε αντιμέτωπος ο Γιώργος Μαζωνάκης το βράδυ του Σαββάτου (25.01.2026) στο νυχτερινό κέντρο, όπου εμφανίζεται με επιτυχία στην Αθήνα. Ενώ ...  \nTo άρθρο Γιώργος Μαζωνάκης: Κόπηκε ο ήχος στο μαγαζί που εμφανίζεται – Η αντίδραση του τραγουδιστή δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-mazonakis-ndp-3-1200x743.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,46 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παυλίδης: Δεύτερο γκολ για την Μπενφίκα με πέναλτι",
+          "link": "https://www.gazzetta.gr/football/primeira-liga/2510154/paylidis-deytero-gkol-gia-tin-mpenfika-me-penalti",
+          "pubDate": "Sun, 25 Jan 2026 21:28:41 +0200",
+          "description": "Ο Βαγγέλης Παυλίδης σκόραρε ξανά για την Μπενφίκα ενάντια στην Εστρέλα Αμαδόρα, κάνοντας με πέναλτι το 2-0 στο 55'.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pavlidis_1.jpg?itok=gcAV5wec",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Η απίστευτη απάντηση Μητσοτάκη σε σκιέρ που τον είπε γκαντέμη",
+          "link": "https://www.gazzetta.gr/plus/2510153/i-apisteyti-apantisi-mitsotaki-se-skier-poy-ton-eipe-gkantemi",
+          "pubDate": "Sun, 25 Jan 2026 21:28:33 +0200",
+          "description": "Η απίστευτη απάντηση που έδωσε μέσω TikTok ο Κυριάκος Μητσοτάκης σε σκιέρ που τον είπε γκαντέμη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2022-03/skier-pixabay1.jpg?itok=rfERIZfK",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Το κιτρινόμαυρο πάρτι στην Τρίπολη και οι πανηγυρισμοί για το διπλό κορυφής",
+          "link": "https://www.gazzetta.gr/football/superleague/2510152/aek-kitrinomayro-parti-stin-tripoli-kai-oi-panigyrismoi-gia-diplo",
+          "pubDate": "Sun, 25 Jan 2026 21:28:15 +0200",
+          "description": "Δείτε όσα κατέγραψε η παρακάμερα της ΑΕΚ από το δύσκολο διπλό στην Τρίπολη επί του Αστέρα που έστειλε την Ένωση μόνη πρώτη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_opadoi.jpg?itok=Qi-AdBBQ",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ατρόμητος – Παναθηναϊκός 0-0: Νέα απώλεια βαθμών για τους «πράσινους» στη Super League",
+          "link": "https://www.newsit.gr/athlitika/atromitos-panathinaikos-0-0-nea-apoleia-vathmon-gia-tous-prasinous-sti-super-league/4583231/",
+          "pubDate": "Sun, 25 Jan 2026 19:27:20 +0000",
+          "description": "Ο Παναθηναϊκός έκανε μία ακόμη “άνευρη” εμφάνιση τη φετινή σεζόν και έμεινε στο 0-0 στην έδρα του Ατρομήτου για την 18η αγωνιστική της Super League, ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός 0-0: Νέα απώλεια βαθμών για τους «πράσινους» στη Super League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tetteh-1200x799.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Superleague, η βαθμολογία: Ο Παναθηναϊκός παρέμεινε στο -9 από 4άδα και Λεβαδειακό!",
+          "link": "https://www.gazzetta.gr/football/superleague/2510151/superleague-i-bathmologia-o-panathinaikos-paremeine-sto-9-apo-4ada-kai",
+          "pubDate": "Sun, 25 Jan 2026 21:26:27 +0200",
+          "description": "Ο Παναθηναϊκός... κόλλησε στο Περιστέρι και έτσι η απόσταση του από τον Λεβαδειακό και την 4η θέση έμεινε στους 9 βαθμούς!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pao_atro.jpg?itok=MPHdtMr7",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ατρόμητος - Παναθηναϊκός: Ο Τσιριβέγια αποχώρησε τραυματίας",
           "link": "https://www.gazzetta.gr/football/superleague/2510150/atromitos-panathinaikos-o-tsiribegia-apohorise-traymatias",
           "pubDate": "Sun, 25 Jan 2026 21:21:05 +0200",
@@ -945,46 +985,6 @@
           "description": "Ο Κώστας Κάκαρης αναδείχθηκε σε MVP του μικρού τελικού, όπου η Εθνική ομάδα πόλο ανδρών επικράτησε με 12-5 της Ιταλίας και κατέκτησε το χάλκινο μετάλλιο...",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kakaris.jpg?itok=qrt7uxBI",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Βλάχος: «Θέλαμε να φύγουμε από εδώ με το μετάλλιο για πολλούς λόγους»",
-          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510127/blahos-thelame-na-fygoyme-apo-edo-me-metallio-gia-polloys",
-          "pubDate": "Sun, 25 Jan 2026 20:17:45 +0200",
-          "description": "Ο Θοδωρής Βλάχος δήλωσε ανακουφισμένος μετά το ιστορικό χάλκινο μετάλλιο, τονίζοντας πόσο σημαντική ήταν η νίκη για την ομάδα και την προσπάθεια των παικτών του.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vlahos.jpg?itok=C-AVgAv4",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μετς - Λιόν 2-5: Καταιγιστική με πεντάρα πριν το ματς με τον ΠΑΟΚ",
-          "link": "https://www.gazzetta.gr/football/ligue-1/2510126/mets-lion-2-5-kataigistiki-me-pentara-prin-mats-me-ton-paok",
-          "pubDate": "Sun, 25 Jan 2026 20:13:13 +0200",
-          "description": "Η Λιόν ήταν ασταμάτητη κόντρα στην Μετς (5-2) και είναι έτοιμη να υποδεχτεί τον ΠΑΟΚ για την τελευταία αγωνιστική της League Phase του Europa League.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/lyon_1.jpg?itok=UzirDqWM",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μπασκόνια - Μπανταλόνα 87-77: Μετά το 0/2 της διαβολοβδομάδας, 7η σερί νίκη στην ACB",
-          "link": "https://www.gazzetta.gr/basketball/mpasket-ispania/2510125/mpaskonia-mpantalona-87-77-meta-02-tis-diabolobdomadas-7i-seri",
-          "pubDate": "Sun, 25 Jan 2026 20:06:22 +0200",
-          "description": "Η Μπασκόνια συνέχισε να κερδίσει στο πρωτάθλημα της ACB καθώς επικράτησε και της Μπανταλόνα για την 17η αγωνιστική με 87-77 εντός έδρας.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/baskonia_badalona_rubio_acb.jpg?itok=O-9PN55G",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ατρόμητος - Παναθηναϊκός: Ο Λαφόν απέκρουσε το πέναλτι του Μίχορλ",
-          "link": "https://www.gazzetta.gr/football/superleague/2510124/atromitos-panathinaikos-o-lafon-apekroyse-penalti-toy-mihorl",
-          "pubDate": "Sun, 25 Jan 2026 20:05:56 +0200",
-          "description": "Στο 13' ο Αλμπάν Λαφόν έπεσε σωστά στη γωνία του και σταμάτησε το χτύπημα πέναλτι του Μίχορλ, κρατώντας το 0-0 στο Ατρόμητος - Παναθηναϊκός.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lafont.jpg?itok=NXEqQTTO",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΟΦΗ – Παναιτωλικός 1-0: Η λύση ήρθε από... τη βούλα! ",
-          "link": "https://www.gazzetta.gr/football/superleague/2510123/ofi-panaitolikos-1-0-i-lysi-irthe-apo-ti-boyla",
-          "pubDate": "Sun, 25 Jan 2026 20:05:39 +0200",
-          "description": "Με το εύστοχο πέναλτι του Σαλσέδο (υπόδειξη που αμφισβητήθηκε από τους φιλοξενούμενους), ο ΟΦΗ επικράτησε στο Ηράκλειο με 1-0 του Παναιτωλικού και βρίσκεται στο -1 από το γκρουπ «5-8». Στο +2 από τη ζώνη υποβιβασμού οι Αγρινιώτες, που ολοκλήρωσαν με 10 το ματς λόγω αποβολής του Σατσιά.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ofii_1.jpg?itok=7NA9U7lo",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -993,12 +993,12 @@
       "color": "lime",
       "articles": [
         {
-          "title": "Νέα γκέλα για τον Παναθηναϊκό στο Περιστέρι! – Η βαθμολογία της Super League",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/nea-gkela-gia-ton-panathinaiko-sto-peri/?utm_source=rss&utm_medium=rss&utm_campaign=nea-gkela-gia-ton-panathinaiko-sto-peri",
-          "pubDate": "Sun, 25 Jan 2026 19:24:46 +0000",
-          "description": "Αυτή είναι η βαθμολογία της Super League, μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού! Μετά την ολοκλήρωση της αναμέτρησης της 18ης αγωνιστικής, η βαθμολογία της Super League αποτυπώνει με σαφήνεια τη δύσκολη πραγματικότητα για τον Παναθηναϊκό, ο οποίος παραμένει στην 5η θέση του πίνακα με 26 βαθμούς σε 17 παιχνίδια. Το «Τριφύλλι» βρίσκεται πλέον σε […]\nThe post Νέα γκέλα για τον Παναθηναϊκό στο Περιστέρι! – Η βαθμολογία της Super League appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/ingason-1-scaled.jpg",
-          "source": "Όλα Πράσινα"
+          "title": "Νέο «στραπάτσο» ο Παναθηναϊκός!",
+          "link": "https://trifilara.gr/neo-strapatso-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=neo-strapatso-o-panathinaikos",
+          "pubDate": "Sun, 25 Jan 2026 19:26:08 +0000",
+          "description": "O Παναθηναϊκός έφυγε από το Περιστέρι με τον βαθμό (0-0), όμως το αποτέλεσμα δεν λέει όλη την αλήθεια. Γιατί το ματς της 18ης αγωνιστικής της Super League, την Κυριακή 25 Ιανουαρίου (19:30), ήταν από εκείνα που αφήνουν περισσότερο προβληματισμό παρά ικανοποίηση, ειδικά από τη στιγμή που ο Ράφα Μπενίτεθ είδε την ομάδα του να «παίζει με τη φωτιά» από πολύ νωρίς και να σώζεται ουσιαστικά από τον Αλμπάν Λαφόν.\nThe post Νέο «στραπάτσο» ο Παναθηναϊκός! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Κόλλησε στο Περιστέρι και έχασε και άλλο έδαφος ο Παναθηναϊκός",
@@ -1014,6 +1014,14 @@
           "pubDate": "Sun, 25 Jan 2026 19:24:31 +0000",
           "description": "Ένα ακόμη… στραβοπάτημα για τον Παναθηναϊκό στο πρωτάθλημα, με τους «πράσινους» να μη μπορούν να νικήσουν ούτ τον Ατρόμητο στο Περιστέρι, μένοντας στο 0-0. Ατρόμητος (Κέρκεζ): Χουτεσιώτης, Μουντές, Τσακμάκης, Μανσούρ, Ούρονεν, Μουτουσαμί, Τσιγγάρας, Γιουμπιτάνα, Μίχορλ, Μπάκου, Τσαντίλας. Παναθηναϊκός (Μπενίτεθ):Λαφόν, Κώτσιρα, Κυριακόπουλο, Ίνγκασον, Τουμπά, Σιώπη, Μπακασέτα, Μπόκο, Ζαρουρί, Τεττέη, Πάντοβιτς. Αρχικά ο Παναθηναϊκός πήγε στο Περιστέρι […]\nThe post Ανύπαρκτος στο Περιστέρι ο Παναθηναϊκός! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/tetteh-1-2.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Νέα γκέλα για τον Παναθηναϊκό στο Περιστέρι! – Η βαθμολογία της Super League",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/nea-gkela-gia-ton-panathinaiko-sto-peri/?utm_source=rss&utm_medium=rss&utm_campaign=nea-gkela-gia-ton-panathinaiko-sto-peri",
+          "pubDate": "Sun, 25 Jan 2026 19:23:46 +0000",
+          "description": "Αυτή είναι η βαθμολογία της Super League, μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού! Μετά την ολοκλήρωση της αναμέτρησης της 18ης αγωνιστικής, η βαθμολογία της Super League αποτυπώνει με σαφήνεια τη δύσκολη πραγματικότητα για τον Παναθηναϊκό, ο οποίος παραμένει στην 5η θέση του πίνακα με 26 βαθμούς σε 17 παιχνίδια. Το «Τριφύλλι» βρίσκεται πλέον σε […]\nThe post Νέα γκέλα για τον Παναθηναϊκό στο Περιστέρι! – Η βαθμολογία της Super League appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/ingason-1-scaled.jpg",
           "source": "Όλα Πράσινα"
         },
         {
@@ -1222,14 +1230,6 @@
           "pubDate": "Sun, 25 Jan 2026 14:25:45 +0000",
           "description": "Για αδιευκρίνιστους μέχρι στιγμής λόγους.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5003780.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Live streaming: Παναθηναϊκός-Μαρούσι",
-          "link": "https://panathinaikos24.gr/2026/01/25/617594/live-streaming-panathinaikos-marousi-3/",
-          "pubDate": "Sun, 25 Jan 2026 13:44:56 +0000",
-          "description": "Παρακολουθήστε live  την εξέλιξη του αγώνα, στο πλαίσιο της 16ης αγωνιστικής της Stoiximan GBL.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/31062.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
