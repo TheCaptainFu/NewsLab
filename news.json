@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T10:50:30.369Z",
+  "lastUpdated": "2026-01-25T10:55:27.133Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,6 +9,14 @@
       "color": "red",
       "articles": [
         {
+          "title": "«Παιδί μου πέθανα τώρα, μη με σκοτώνεις άλλο»: Οι τελευταίες λέξεις του 80χρονου πριν πέσει νεκρός από το χέρι του γιου του",
+          "link": "https://www.protothema.gr/greece/article/1763031/paidi-mou-pethana-tora-mi-me-skotoneis-allo-oi-teleutaies-lexeis-tou-80hronou-prin-pesei-nekros-apo-to-heri-tou-giou-tou/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 12:51:00 +0200",
+          "description": "Η μαρτυρία του ανθρώπου, που ειδοποίησε την αστυνομία για το φονικό, προκαλεί σοκ - Ο 46χρονος είχε στήσει καρτέρι στον πατέρα του και τον σκότωσε όταν βγήκε για να πάει στην εκκλησία",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/glyfada.jpg",
+          "source": "Πρώτο Θέμα: Ελλάδα"
+        },
+        {
           "title": "Διαπραγματεύσεις για τη νέα ΚΑΠ: Στόχος η στήριξη των πόρων για την Ελλάδα",
           "link": "https://www.newsit.gr/oikonomia/finance/diapragmateyseis-gia-ti-nea-kap-stoxos-i-stiriksi-ton-poron-gia-tin-ellada/4582935/",
           "pubDate": "Sun, 25 Jan 2026 10:43:57 +0000",
@@ -17,10 +25,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Γλυφάδα: Ο 46χρονος όταν το 2014 δολοφόνησε τη μητέρα του, έψαχνε να σκοτώσει και τον πατέρα του",
+          "title": "Γλυφάδα: Ο 46χρονος, όταν το 2014 δολοφόνησε τη μητέρα του, έψαχνε να σκοτώσει και τον πατέρα του",
           "link": "https://www.newsit.gr/ellada/glyfada-o-46xronos-otan-to-2014-dolofonise-ti-mitera-tou-epsaxne-na-skotosei-kai-ton-patera-tou/4582939/",
           "pubDate": "Sun, 25 Jan 2026 10:42:30 +0000",
-          "description": "Πολλά είναι τα ερωτήματα που εγείρει η υπόθεση της δολοφονίας του του 80χρονου στη Γλυφάδα το πρωί της Κυριακής από τα χέρια του γιου του. ...  \nTo άρθρο Γλυφάδα: Ο 46χρονος όταν το 2014 δολοφόνησε τη μητέρα του, έψαχνε να σκοτώσει και τον πατέρα του δημοσιεύτηκε στο NewsIT .",
+          "description": "Πολλά είναι τα ερωτήματα που εγείρει η υπόθεση της δολοφονίας του του 80χρονου στη Γλυφάδα το πρωί της Κυριακής από τα χέρια του γιου του. ...  \nTo άρθρο Γλυφάδα: Ο 46χρονος, όταν το 2014 δολοφόνησε τη μητέρα του, έψαχνε να σκοτώσει και τον πατέρα του δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/glifada-dolofonia1-1200x675.jpg",
           "source": "NewsIT"
         },
@@ -121,6 +129,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "LIVE: Κολοσσός Ρόδου – Ολυμπιακός",
+          "link": "https://www.in.gr/2026/01/25/sports/live-kolossos-rodou-olympiakos-6/",
+          "pubDate": "Sun, 25 Jan 2026 12:53:05 +0300",
+          "description": "LIVE: Κολοσσός Ρόδου – Ολυμπιακός. Παρακολουθήστε live στις 13:00 την εξέλιξη της αναμέτρησης Κολοσσός Ρόδου – Ολυμπιακός για τη 16η αγωνιστική της Stoiximan GBL. Τηλεοπτικά από την ΕΡΤ2 ΣΠΟΡ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6821572-768x512.jpg",
+          "source": "in.gr"
+        },
+        {
           "title": "Σε διαθεσιμότητα η καθηγήτρια που φίμωσε και έδεσε με ταινία 13χρονο μαθητή στις Σέρρες",
           "link": "https://www.protothema.gr/greece/article/1763005/se-diathesimotita-i-kathigitria-pou-fimose-kai-edese-me-tainia-13hrono-mathiti-stis-serres/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 11:51:00 +0200",
@@ -165,7 +181,7 @@
           "link": "https://www.in.gr/2026/01/25/world/taipei-anarrixitis-skarfalose-xoris-skoini-se-ouranoksysti-508-metron/",
           "pubDate": "Sun, 25 Jan 2026 12:42:05 +0300",
           "description": "Το εγχείρημά του μεταδόθηκε live - Ο γνωστός αναρριχητής έγινε παγκοσμίως γνωστός το 2017, όταν ανέβηκε χωρίς κανένα μέτρο ασφαλείας τον βράχο El Capitan, ύψους 914 μέτρων",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/screenshot-2026-01-25-061544-768x464-768x464.jpg",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T055428Z_1601092951_RC218JA313S2_RTRMADP_3_TAIWAN-CLIMBING-768x512.jpg",
           "source": "in.gr"
         },
         {
@@ -231,22 +247,6 @@
           "description": "Η επιστροφή αυτή εντάσσεται στο πλαίσιο της αξιοποίησης της ακίνητης περιουσίας του για το μεγάλο Οικιστικό Πρόγραμμα των Ενόπλων Δυνάμεων",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-10-29/xrwma-ypoyrgeio-amynas.jpg",
           "source": "Πρώτο Θέμα: Ελλάδα"
-        },
-        {
-          "title": "Έξαλλος ο Σάρι: «Οι παίκτες μας θέλουν να φύγουν επειδή δεν βλέπουν καμία φιλοδοξία στη Λάτσιο»",
-          "link": "https://www.in.gr/2026/01/25/sports/football/eksallos-o-sari-oi-paiktes-mas-theloun-na-fygoun-epeidi-den-vlepoun-kamia-filodoksia-sti-latsio/",
-          "pubDate": "Sun, 25 Jan 2026 12:19:39 +0300",
-          "description": "Ο Μαουρίτσιο Σάρι μίλησε για τη δύσκολη κατάσταση στην οποία έχει βρεθεί η Λάτσιο, η οποία δείχνει να μην μπορεί να προσφέρει όσα θα περίμεναν οι παίκτες της.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/sarri-768x451.jpg",
-          "source": "in.gr"
-        },
-        {
-          "title": "Εξαφάνιση Λόρα: Νέο βίντεο ντοκουμέντο από του Ζωγράφου εξετάζουν οι Αρχές",
-          "link": "https://www.newsit.gr/ellada/eksafanisi-lora-neo-vinteo-ntokoumento-apo-tou-zografou-eksetazoun-oi-arxes/4582890/",
-          "pubDate": "Sun, 25 Jan 2026 09:17:56 +0000",
-          "description": "Ένα νέο βίντεο ντοκουμέντο από του Ζωγράφου εξετάζουν οι Αρχές, όπου ενδεχομένως να εμφανίζεται η εξαφανισμένη Λόρα, που έφυγε στις 8 Ιανουαρίου από το σπίτι ...  \nTo άρθρο Εξαφάνιση Λόρα: Νέο βίντεο ντοκουμέντο από του Ζωγράφου εξετάζουν οι Αρχές δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/16xroni-lora-patra-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
