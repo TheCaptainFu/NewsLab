@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T03:20:28.056Z",
+  "lastUpdated": "2026-01-25T03:25:24.210Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -14,6 +14,13 @@
           "pubDate": "Sun, 25 Jan 2026 03:00:00 +0000",
           "description": "Χαλάει πάλι ο καιρός σήμερα Κυριακή 25 Ιανουαρίου με βροχές και καταιγίδες σε πολλές περιοχές της χώρας. Η θερμοκρασία θα σημειώσει μικρή άνοδο. Οι άνεμοι ...  \nTo άρθρο Καιρός σήμερα: Βροχές και καταιγίδες με ανέμους 8 μποφόρ και ομίχλες – Αναλυτική πρόγνωση δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos2-24012026.jpg"
+        },
+        {
+          "title": "Συρία: Η κυβέρνηση απελευθέρωσε 126 ανηλίκους από φυλακή όπου κρατούνταν μαχητές του Ισλαμικού Κράτους",
+          "link": "https://www.in.gr/2026/01/25/world/syria-kyvernisi-apeleytherose-126-anilikous-apo-fylaki-opou-kratountan-maxites-tou-islamikou-kratous/",
+          "pubDate": "Sun, 25 Jan 2026 05:19:54 +0300",
+          "description": "Η κυβέρνηση Αλ Σάρα στη Συρία προέβη στην απελευθέρωση 126 ανήλικων κρατουμένων από την φυλακή Αλ Ακτάν στη Ράκα, καθώς ανέφερε πως δεν υπήρχαν στοιχεία εναντίον τους.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-24T201900Z_264372672_RC2Q7JACBBQK_RTRMADP_5_SYRIA-SECURITY-PRISON-768x514.jpg"
         },
         {
           "title": "Βρετανοί καταναλωτές: Ποιότητα χωρίς συμβιβασμούς στις αγορές τροφίμων",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 20:58:00 +0000",
           "description": "Η Μαρίλια Μητρούση μίλησε για τη σειρά «Να μ’ αγαπάς» στην οποία παίρνει μέρος φέτος και παραδέχτηκε ότι νιώθει τυχερή που παίζει κάθε χρόνο σε ...  \nTo άρθρο Μαρίλια Μητρούση: Σχεδόν τους παρακάλεσα για να με πάρουν στο καστ του «Να μ’ αγαπάς» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marilia-mitroysi-ndp-1200x701.jpg"
-        },
-        {
-          "title": "Κρίσεις Ταξιάρχων Ελληνικής Αστυνομίας: Ποιοι προήχθησαν, ποιοι διατηρούνται και ποιοι αποστρατεύονται",
-          "link": "https://www.protothema.gr/greece/article/1762866/kriseis-taxiarhon-ellinikis-astunomias/?utm_source=rss",
-          "pubDate": "Sat, 24 Jan 2026 22:58:00 +0200",
-          "description": "Παράλληλα, η ΕΛΑΣ ανακοίνωσε και τις τοποθετήσεις των νέων Υποστράτηγων μετά τις σχετικές κρίσεις",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-01-18/elas-kriseis.jpg"
         }
       ]
     },
