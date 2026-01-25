@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-25T13:55:28.561Z",
+  "lastUpdated": "2026-01-25T14:00:36.551Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γροιλανδία: Βλάβη σε καλώδιο ηλεκτροδότησης λόγω κακοκαιρίας προκάλεσε το «μυστηριώδες» black out στο Νουούκ",
+          "link": "https://www.newsit.gr/kosmos/groilandia-vlavi-se-kalodio-ilektrodotisis-logo-kakokairias-prokalese-to-mystiriodes-black-out-sto-nououk/4583022/",
+          "pubDate": "Sun, 25 Jan 2026 13:58:08 +0000",
+          "description": "Αποκαταστάθηκε το μεσημέρι της Κυριακής (25.01.2026) η ηλεκτροδότηση στην πρωτεύουσα της Γροιλανδίας, μετά το «black out» λόγω καταιγίδας που προκάλεσε ζημιά σε καλώδιο υψηλής τάσης ...  \nTo άρθρο Γροιλανδία: Βλάβη σε καλώδιο ηλεκτροδότησης λόγω κακοκαιρίας προκάλεσε το «μυστηριώδες» black out στο Νουούκ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/greenland-electricity2.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Το απίθανο triple double του Τάισον Γουόρντ στη νίκη του Ολυμπιακού στη Ρόδο",
           "link": "https://www.newsit.gr/athlitika/to-apithano-triple-double-tou-taison-gouornt-sti-niki-tou-olympiakou-sti-rodo/4583027/",
@@ -121,12 +129,44 @@
           "source": "NewsIT"
         },
         {
+          "title": "Πάτρα: Νεκρός πρώην προπονητής μετά από φωτιά στο σπίτι του",
+          "link": "https://www.in.gr/2026/01/25/greece/patra-nekros-proin-proponitis-meta-apo-fotia-sto-spiti-tou/",
+          "pubDate": "Sun, 25 Jan 2026 15:58:18 +0300",
+          "description": "Η φωτιά ξεκίνησε μετά από έκρηξη στο σπίτι του προπονητή",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/DSC_4866-1-1200x800-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Μεσσίες ή Τιμωροί; Τα φαινόμενα τύπου Καρυστιανού και η απαξίωση των παραδοσιακών πολιτικών κομμάτων",
+          "link": "https://www.in.gr/2026/01/25/politics/messies-timoroi-ta-fainomena-typou-karystianou-kai-apaksiosi-ton-paradosiakon-politikon-kommaton/",
+          "pubDate": "Sun, 25 Jan 2026 15:57:36 +0300",
+          "description": "Η περίπτωση της Μαρίας Καρυστιανού είναι το νέο κεφάλαιο στην προσπάθεια μερίδας της κοινωνίας να ακολουθήσει πιστά έναν νέο ηγέτη ή εν προκειμένω μια νέα ηγέτιδα.  Για το φαινόμενο μιλούν στο in ένας πολιτικός επιστήμονας και ένας ειδικός στην πολιτική επικοινωνία.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/laikismos-2.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "LIVE: Κρίσταλ Πάλας – Τσέλσι",
+          "link": "https://www.in.gr/matchcenter/4813599/",
+          "pubDate": "Sun, 25 Jan 2026 15:57:05 +0300",
+          "description": "LIVE: Κρίσταλ Πάλας – Τσέλσι. Παρακολουθήστε live στις 16:00 την αναμέτρηση Κρίσταλ Πάλας – Τσέλσι για την 23η αγωνιστική της Premier League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/chelsea-celebrate-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Τρεις συλλήψεις για ναρκωτικά στα Χανιά",
           "link": "https://www.protothema.gr/greece/article/1763086/treis-sullipseis-gia-narkotika-sta-hania/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 14:56:23 +0200",
           "description": "Συνελήφθησαν τρία άτομα ηλικίας 19, 24, 47 ετών",
           "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2025-01-15/xeiropedes-750x375.jpeg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "LIVE: Μπρέντφορντ – Νότιγχαμ Φόρεστ",
+          "link": "https://www.in.gr/matchcenter/4813597/",
+          "pubDate": "Sun, 25 Jan 2026 15:55:45 +0300",
+          "description": "LIVE: Μπρέντφορντ – Νότιγχαμ Φόρεστ. Παρακολουθήστε live στις 16:00 την αναμέτρηση Μπρέντφορντ – Νότιγχαμ Φόρεστ για την 23η αγωνιστική της Premier League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/38ee8c7ddc11aec3110ee3e883a0ddfb-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "LIVE: Άρης – Λεβαδειακός",
@@ -207,46 +247,6 @@
           "description": "LIVE: Παναθηναϊκός – Μαρούσι. Παρακολουθήστε live στις 15:45 την εξέλιξη της αναμέτρησης Παναθηναϊκός – Μαρούσι για τη 16η αγωνιστική της Stoiximan GBL. Τηλεοπτικά από την ΕΡΤ2 ΣΠΟΡ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/MAROUSI-PAO-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "To «Porto Leone» επιστρέφει στον Alpha την Τρίτη 03 Φεβρουαρίου με νέα επεισόδια",
-          "link": "https://www.newsit.gr/media/to-porto-leone-epistrefei-ston-alpha-tin-triti-03-fevrouariou-me-nea-epeisodia/4581902/",
-          "pubDate": "Sun, 25 Jan 2026 12:32:00 +0000",
-          "description": "Από την Τρίτη 03 Φεβρουαρίου θα επιστρέψει στη μικρή οθόνη, στις 22:30, με νέα επεισόδια η σειρά «Porto Leone», που προβάλλεται στον ALPHA.  Στη δραματική ...  \nTo άρθρο To «Porto Leone» επιστρέφει στον Alpha την Τρίτη 03 Φεβρουαρίου με νέα επεισόδια δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/porto-leone1-1-1200x749.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άρης: Ντεμπούτο του Χόνγκλα κόντρα στον Λεβαδειακό – Αυτή είναι η ενδεκάδα",
-          "link": "https://www.in.gr/2026/01/25/sports/football/aris-me-allages-kai-vasiko-ton-xongkla-kontra-ston-levadeiako/",
-          "pubDate": "Sun, 25 Jan 2026 15:28:25 +0300",
-          "description": "Με τέσσερα νέα πρόσωπα στην ενδεκάδα ο Άρης υποδέχεται σήμερα (25/1, 16.00) τον Λεβαδειακό στο «Κλεάνθης Βικελίδης», ενώ ο Καμερουνέζος χαφ ξεκινάει για πρώτη φορά στο αρχικό σχήμα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Hongla-1200x800-1-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Σία Κοσιώνη: Παραμένει στην εντατική με σημάδια βελτίωσης",
-          "link": "https://www.newsit.gr/ellada/sia-kosioni-paramenei-stin-entatiki-me-simadia-veltiosis/4582983/",
-          "pubDate": "Sun, 25 Jan 2026 12:27:29 +0000",
-          "description": "Καλύτερα είναι στην υγεία της η Σία Κοσιώνη, η οποία από την Πέμπτη (22.01.2026) νοσηλεύεται με πνευμονία σε γνωστό νοσοκομείο της Αττικής. Η Σία Κοσιώνη, ...  \nTo άρθρο Σία Κοσιώνη: Παραμένει στην εντατική με σημάδια βελτίωσης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sia-kosioni-ndp1-1200x731.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Παναθηναϊκός: Νοκ άουτ και ο Γιούρτσεβεν για το παιχνίδι με το Μαρούσι",
-          "link": "https://www.newsit.gr/athlitika/panathinaikos-nok-aout-kai-o-giourtseven-gia-to-paixnidi-me-to-marousi/4582986/",
-          "pubDate": "Sun, 25 Jan 2026 12:27:01 +0000",
-          "description": "Ο Παναθηναϊκός αντιμετωπίζει το Μαρούσι για την 16η αγωνιστική της GBL (25/01/26, 16:00, ΕΡΤ2 ΣΠΟΡ) και μετά τους Ναν και Όσμαν έκανε γνωστό ότι ούτε ...  \nTo άρθρο Παναθηναϊκός: Νοκ άουτ και ο Γιούρτσεβεν για το παιχνίδι με το Μαρούσι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/yurtseven-1200x798.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γιατί ο καρκίνος και η Αλτσχάιμερ εμφανίζονται σπάνια στον ίδιο άνθρωπο;",
-          "link": "https://www.in.gr/2026/01/25/in-science/episthmes/giati-o-karkinos-kai-altsxaimer-emfanizontai-spania-ston-idio-anthropo/",
-          "pubDate": "Sun, 25 Jan 2026 15:20:22 +0300",
-          "description": "Μια πρωτεΐνη που απελευθερώνεται από τα καρκινικά κύτταρα δείχνει να προστατεύει από την Αλτσχάιμερ, τουλάχιστον σε ποντίκια.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pexels-shvetsa-4226264-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -269,6 +269,14 @@
           "description": "Με ανοικτό τον κίνδυνο διάσπασης συνεχίζεται το προγραμματικό συνέδριο της Νέας Αριστεράς και ενώ στο παρασκήνιο είναι σε εξέλιξη προσπάθειες για έναν συμβιβασμό που θα περιλαμβάνεται στην πολιτική πρόταση του.…\nΣτα όρια της ρήξης η Νέα Αριστερά – Σκληρή επίθεση Νίκου Βούτση στον Αλέξη Τσίπρα  - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Η διεύρυνση του ΠαΣοΚ στην εκδήλωση Ανανεωτικής Αριστεράς και Κινήσεων Πολιτών",
+          "link": "https://www.tovima.gr/2026/01/25/politics/i-dieyrynsi-tou-pasok-stin-ekdilosi-ananeotikis-aristeras-kai-kiniseon-politon/",
+          "pubDate": "Sun, 25 Jan 2026 14:35:11 +0300",
+          "description": "Με τη συμμετοχή στελεχών, μελών και φίλων της Ανανεωτικής Αριστεράς και των Κινήσεων Πολιτών για τη Σοσιαλδημοκρατία, πραγματοποιήθηκε η κοπή βασιλόπιτας",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/25/pita-1024x668.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Γ. Χατζηθεοδοσίου: Είναι στις προθέσεις μου να θέσω υποψηφιότητα για περιφερειάρχης Αττικής",
@@ -311,6 +319,14 @@
           "source": "Τα Νέα"
         },
         {
+          "title": "Τα «αγκάθια» για τις αλλαγές στο Σύνταγμα",
+          "link": "https://www.tovima.gr/print/politics/ta-agkathia-gia-tis-allages-sto-syntagma/",
+          "pubDate": "Sun, 25 Jan 2026 12:49:00 +0300",
+          "description": "Τι θα γίνει με τον νόμο περί ευθύνης υπουργών και τη μονιμότητα των δημοσίων υπαλλήλων - Το πολυσυζητημένο άρθρο 16 για τα πανεπιστήμια και η απόφαση του Συμβουλίου της Επικρατείας",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/30/vouli-synnefa-1024x679.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Κυρανάκης στο “Face 2 Face”: Είμαι προϊόν καλοκαιρινού έρωτα στη Σκιάθο – Δεν του κρατάω κακία, είναι ο βιολογικός μου πατέρας",
           "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-tin-sxesi-me-ton-patera-tou-krato-mia-epafi-mazi-tou-oi-epiloges-tou-kathenos-einai-sevastes/",
           "pubDate": "Sun, 25 Jan 2026 09:30:58 +0000",
@@ -343,6 +359,14 @@
           "source": "Τα Νέα"
         },
         {
+          "title": "Μητσοτάκης: Όχι σε αντιπαράθεση, αλλά σε συνεννόηση με τους συμμάχους μας",
+          "link": "https://www.tovima.gr/2026/01/25/politics/mitsotakis-oxi-se-antiparathesi-alla-se-synennoisi-me-tous-symmaxous-mas/",
+          "pubDate": "Sun, 25 Jan 2026 11:42:50 +0300",
+          "description": "«Επιδιώκουμε ενεργό ευρωπαϊκό ρόλο στη Γάζα και στη Μέση Ανατολή» έγραψε ο Κυριάκος Μητσοτάκης στην εβδομαδιαία ανασκόπησή του",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/09/mitsotakis-kyriakos-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Κ. Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη, διατηρώντας λειτουργικούς διαύλους συνεργασίας με τις ΗΠΑ",
           "link": "https://www.naftemporiki.gr/politics/2063499/k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa",
           "pubDate": "Sun, 25 Jan 2026 08:31:30 +0000",
@@ -373,6 +397,22 @@
           "description": "Ο Αναπληρωτής Υπουργός Μεταφορών, Κωνσταντίνος Κυρανάκης, μίλησε στο “Face 2 Face” και στην Κατερίνα Παναγοπούλου για την ασφάλεια των τρένων στην Ελλάδα, μετά την τραγωδία στα Τέμπη, επισημαίνοντας ότι το βασικό μέλημα είναι η εγκατάσταση πολλαπλών δικλείδων ασφαλείας για να μειωθούν τα ανθρώπινα λάθη. Αναφέρθηκε ακόμη στον τρόπο αντιμετώπισης της κυκλοφοριακής συμφόρησης, στο επεισόδιο με […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Konstadinos-Kyranakis-sto-face-to-face.jpg-1024x576.jpeg",
           "source": "Τα Νέα"
+        },
+        {
+          "title": "Ντοκιμαντέρ για τον Σημίτη – Τελευταίο Επεισόδιο: Η παρακαταθήκη",
+          "link": "https://www.tovima.gr/2026/01/25/politics/kostas-simitis-i-epoxi-tis-eyropis-ena-ntokimanter-apo-to-vima/",
+          "pubDate": "Sun, 25 Jan 2026 10:29:50 +0300",
+          "description": "ΤΟ ΒΗΜΑ φωτίζει τις κρίσιμες στιγμές της πολιτικής διαδρομής του Κώστα Σημίτη, μέσα από μαρτυρίες στενών συνεργατών, φίλων, αλλά και πολιτικών αντιπάλων του, σε μια συναρπαστική σειρά ντοκιμαντέρ τεσσάρων επεισοδίων",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/25/Simitis_Episode_4_ArticleImageCleverStory-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Κύκλος Ιδεών: Δέκα χρόνια στο «εργαστήριο» της μεταπολιτικής",
+          "link": "https://www.tovima.gr/2026/01/25/politics/kyklos-ideon-deka-xronia-sto-ergastirio-tis-metapolitikis/",
+          "pubDate": "Sun, 25 Jan 2026 10:28:37 +0300",
+          "description": "Μια δεκαετία παρεμβάσεων στον δημόσιο λόγο, από την κρίση έως τις σύγχρονες προκλήσεις",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/11/venizelos-1024x683.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Ελληνική Αστυνομία: Αυτοί είναι οι νέοι υποστράτηγοι",
@@ -451,46 +491,6 @@
           "link": "https://www.naftemporiki.gr/politics/2063259/anna-diamantopoyloy-stin-efsyn-politika-kai-ithika-den-mporoyme-na-synergastoyme-me-ti-nea-dimokratia/?utm_source=rss&utm_medium=rss&utm_campaign=anna-diamantopoyloy-stin-efsyn-politika-kai-ithika-den-mporoyme-na-synergastoyme-me-ti-nea-dimokratia",
           "pubDate": "Sat, 24 Jan 2026 11:26:15 +0000",
           "description": "Την ανάγκη το ΠΑΣΟΚ να δώσει «διέξοδο για μια άλλη διακυβέρνηση» υπογραμμίζει η Άννα Διαμαντοπούλου, απορρίπτοντας ρητά κάθε ενδεχόμενο συνεργασίας με τη Νέα Δημοκρατία και θέτοντας ως κεντρικό διακύβευμα την…\nΆννα Διαμαντοπούλου στην ΕΦΣΥΝ: Πολιτικά και ηθικά δεν μπορούμε να συνεργαστούμε με τη Νέα Δημοκρατία - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Πηγές του ΥΕΘΑ διαψεύδουν τα περί πώλησης κτιρίου του Πολεμικού Ναυτικού στην πλατεία Κλαυθμώνος",
-          "link": "https://www.naftemporiki.gr/politics/2063247/piges-toy-yetha-diapseydoyn-ta-peri-polisis-ktirioy-toy-polemikoy-naytikoy-stin-plateia-klaythmonos/?utm_source=rss&utm_medium=rss&utm_campaign=piges-toy-yetha-diapseydoyn-ta-peri-polisis-ktirioy-toy-polemikoy-naytikoy-stin-plateia-klaythmonos",
-          "pubDate": "Sat, 24 Jan 2026 10:28:48 +0000",
-          "description": "Δημοσιεύματα περί δήθεν «πώλησης του κτιρίου του Πολεμικού Ναυτικού στην Πλατεία Κλαυθμώνος» διαψεύδουν κατηγορηματικά πηγές του υπουργείου Εθνικής Άμυνας .\nΠηγές του ΥΕΘΑ διαψεύδουν τα περί πώλησης κτιρίου του Πολεμικού Ναυτικού στην πλατεία Κλαυθμώνος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Στη Βουλή το ν/σ για τη νόμιμη μετανάστευση: Τι αλλάζει σε άδειες, απασχόληση, ΜΚΟ – Ακόμη και ισόβια για διακινητές",
-          "link": "https://www.naftemporiki.gr/politics/2063229/sti-voyli-to-n-s-gia-ti-nomimi-metanasteysi-ti-allazei-se-adeies-apascholisi-mko-akomi-kai-isovia-gia-diakinites/?utm_source=rss&utm_medium=rss&utm_campaign=sti-voyli-to-n-s-gia-ti-nomimi-metanasteysi-ti-allazei-se-adeies-apascholisi-mko-akomi-kai-isovia-gia-diakinites",
-          "pubDate": "Sat, 24 Jan 2026 10:13:08 +0000",
-          "description": "Αλλαγές στα στάδια αδειοδότησης, αυστηρότερες κυρώσεις για παράνομη διακίνηση μεταναστών και ρύθμιση του πλαισίου λειτουργίας των ΜΚΟ φέρνει το νομοσχέδιο του υπουργείου Μετανάστευσης και Ασύλου «Προώθηση Πολιτικών Νόμιμης Μετανάστευσης», το…\nΣτη Βουλή το ν/σ για τη νόμιμη μετανάστευση: Τι αλλάζει σε άδειες, απασχόληση, ΜΚΟ – Ακόμη και ισόβια για διακινητές - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Νομοσχέδιο «Ενεργή Μάχη»: Τι αλλάζει με τους Κανόνες Εμπλοκής στο Πυροσβεστικό Σώμα",
-          "link": "https://www.naftemporiki.gr/politics/2063176/nomoschedio-energi-machi-ti-allazei-me-toys-kanones-emplokis-sto-pyrosvestiko-soma/?utm_source=rss&utm_medium=rss&utm_campaign=nomoschedio-energi-machi-ti-allazei-me-toys-kanones-emplokis-sto-pyrosvestiko-soma",
-          "pubDate": "Sat, 24 Jan 2026 09:41:15 +0000",
-          "description": "Αντίστροφα μετρά ο χρόνος για το νέο νομοσχέδιο του Υπουργείου Κλιματικής Κρίσης και Πολιτικής Προστασίας με τίτλο «Ενεργή Μάχη» καθώς τη Δευτέρα 26/01 λήγει η δημόσια διαβούλευση.\nΝομοσχέδιο «Ενεργή Μάχη»: Τι αλλάζει με τους Κανόνες Εμπλοκής στο Πυροσβεστικό Σώμα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Π. Παυλόπουλος από Αίγινα: «Ο Καποδίστριας είναι ο ιδρυτής του Νεότερου Ελληνικού Κράτους»",
-          "link": "https://www.naftemporiki.gr/politics/2063236/p-paylopoylos-apo-aigina-o-kapodistrias-einai-o-idrytis-toy-neoteroy-ellinikoy-kratoys/?utm_source=rss&utm_medium=rss&utm_campaign=p-paylopoylos-apo-aigina-o-kapodistrias-einai-o-idrytis-toy-neoteroy-ellinikoy-kratoys",
-          "pubDate": "Sat, 24 Jan 2026 09:38:08 +0000",
-          "description": "Με κεντρικό θέμα «Ο Ιωάννης Καποδίστριας ως ιδρυτής του Νεότερου Ελληνικού Κράτους» μίλησε στην Αίγινα ο πρώην Πρόεδρος της Δημοκρατίας, Ακαδημαϊκός και Επίτιμος Καθηγητής της Νομικής Σχολής του ΕΚΠΑ, Προκόπιος…\nΠ. Παυλόπουλος από Αίγινα: «Ο Καποδίστριας είναι ο ιδρυτής του Νεότερου Ελληνικού Κράτους» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Γ. Παπανδρέου για Σ. Βαλυράκη: «Σήμερα που το κράτος δικαίου δοκιμάζεται ξανά, η στάση του Σήφη δεν είναι απλώς μνήμη: Είναι φάρος»",
-          "link": "https://www.naftemporiki.gr/politics/2063163/g-papandreoy-gia-s-valyraki-simera-poy-to-kratos-dikaioy-dokimazetai-xana-i-stasi-toy-sifi-den-einai-aplos-mnimi-einai-faros/?utm_source=rss&utm_medium=rss&utm_campaign=g-papandreoy-gia-s-valyraki-simera-poy-to-kratos-dikaioy-dokimazetai-xana-i-stasi-toy-sifi-den-einai-aplos-mnimi-einai-faros",
-          "pubDate": "Fri, 23 Jan 2026 19:55:21 +0000",
-          "description": "«Ο Σήφης Βαλυράκης μας λείπει. Λείπει ως πατέρας, ως αδελφός, ως σύντροφος – σύντροφος στη ζωή και σύντροφος στους αγώνες. Μας λείπει όμως και ως εκείνη η σπάνια μορφή ανθρώπου…\nΓ. Παπανδρέου για Σ. Βαλυράκη: «Σήμερα που το κράτος δικαίου δοκιμάζεται ξανά, η στάση του Σήφη δεν είναι απλώς μνήμη: Είναι φάρος» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
@@ -795,7 +795,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Ατρόμητος: Η υπέροχη κίνηση των «Fentagin» για απινιδωτές στα ΚΕΦΙ του Περιστεριου",
+          "title": "Ατρόμητος: Η υπέροχη κίνηση των «Fentagin» για απινιδωτές στα ΚΕΦΙ του Περιστερίου",
           "link": "https://www.gazzetta.gr/football/superleague/2510015/atromitos-i-yperohi-kinisi-ton-fentagin-gia-apinidotes-sta-kefi-toy",
           "pubDate": "Sun, 25 Jan 2026 15:28:48 +0200",
           "description": "Μία όμορφη πρωτοβουλία πήραν οι οργανωμένοι οπαδοί του Ατρομήτου με γνώμονα να βοηθήσουν τους συνανθρώπους τους στην περιοχή του Περιστερίου.",
