@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T16:25:24.131Z",
+  "lastUpdated": "2026-01-25T16:30:35.009Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Έχουμε προσφύγει στο ΣτΕ, σε υπουργεία, ζητήσαμε παρέμβαση της Αρχής Διαφάνειας, κανείς δεν κάνει τίποτα, λέει ο δήμαρχος Μήλου για το νέο οικολογικό έγκλημα",
+          "link": "https://www.protothema.gr/greece/article/1763164/ehoume-prosfugei-sto-ste-se-upourgeia-zitisame-paremvasi-tis-arhis-diafaneias-kaneis-den-kanei-tipota/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 18:27:00 +0200",
+          "description": "Οι εργασίες για την επέκταση της τουριστικής μονάδας μόλις δύο χιλιόμετρα μακριά από το Σαρακήνικο προχωρούν με εντατικούς ρυθμούς - Ο Μανώλης Μικέλης αποκαλύπτει, μεταξύ άλλων, ότι προσέφυγε στο ΣτΕ ζητώντας άρση της άδειας του ξενοδοχείου, αλλά, επειδή μετακομίζει το Συμβούλιο, αργεί η γνωμοδότηση",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/mylos2-xrm.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Τακαΐτσι προειδοποιεί για παρέμβαση στις αγορές καθώς το γιεν αποδυναμώνεται και οι αποδόσεις ομολόγων αυξάνονται",
+          "link": "https://www.newsit.gr/oikonomia/diethni/takaitsi-proeidopoiei-gia-paremvasi-stis-agores-kathos-to-gien-apodynamonetai-kai-oi-apodoseis-omologon-ayksanontai/4583098/",
+          "pubDate": "Sun, 25 Jan 2026 16:26:52 +0000",
+          "description": "Εν μέσω αποδυνάμωσης του γιεν και αύξησης των αποδόσεων των ομολόγων, η πρωθυπουργός της Ιαπωνίας, Σανάε Τακαΐτσι, προειδοποίησε τις χρηματοπιστωτικές αγορές ότι η κυβέρνηση είναι ...  \nTo άρθρο Τακαΐτσι προειδοποιεί για παρέμβαση στις αγορές καθώς το γιεν αποδυναμώνεται και οι αποδόσεις ομολόγων αυξάνονται δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sanae-takaichi-2.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Premier League: Νίκες για Τσέλσι και Νότιγχαμ Φόρεστ, μεγάλο διπλό από την Άστον Βίλα",
           "link": "https://www.newsit.gr/athlitika/premier-league-nikes-gia-tselsi-kai-notigxam-forest-megalo-diplo-apo-tin-aston-vila/4583094/",
@@ -231,22 +247,6 @@
           "description": "Ο διευθύνων σύμβουλος της Airbus προειδοποιεί για νέες απειλές στο παγκόσμιο περιβάλλον της αεροναυπηγικής, μετά τις σοβαρές επιπτώσεις των εμπορικών πολέμων και του προστατευτισμού",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T112630Z_1249414573_RC2A8JAD1XE1_RTRMADP_5_AIRBUS-CEO-768x491.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": " Ηλικιωμένη σκοτώθηκε στα Κρέστενα στην προσπάθειά της να κόψει μανταρίνια ",
-          "link": "https://www.protothema.gr/greece/article/1763130/ilikiomeni-skotothike-sta-krestena-stin-prospatheia-tis-na-kopsei-madarinia/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 16:54:00 +0200",
-          "description": "Η γυναίκα φέρεται να ανέβηκε σε υπόστεγο, στο οποίο είχε τοποθετήσει και σκάλα με αποτέλεσμα να πέσει και να τραυματιστεί σοβαρά στο κεφάλι",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-07-28/ekab-xorio-mkt.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ταϊρίκ Τζόουνς: Ο σέντερ του Ολυμπιακού θα υποβληθεί σε μαγνητική τομογραφία",
-          "link": "https://www.newsit.gr/athlitika/tairik-tzoouns-o-senter-tou-olympiakou-tha-ypovlithei-se-magnitiki-tomografia/4583046/",
-          "pubDate": "Sun, 25 Jan 2026 14:50:34 +0000",
-          "description": "Ο Ταϊρίκ Τζόουνς αισθάνθηκε ενοχλήσεις στον μηρό και δεν αγωνίστηκε στο δεύτερο μέρος της νίκης του Ολυμπιακού, με 98-85, του Κολοσσού, στη Ρόδο για τη ...  \nTo άρθρο Ταϊρίκ Τζόουνς: Ο σέντερ του Ολυμπιακού θα υποβληθεί σε μαγνητική τομογραφία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tairik-tzoyns-eurokinissi-1200x889.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ράτσιτς: «Κάποιες στιγμές μας λείπει η τακτική ευφυία»",
+          "link": "https://www.gazzetta.gr/football/superleague/2510094/ratsits-kapoies-stigmes-mas-leipei-i-taktiki-eyfyia",
+          "pubDate": "Sun, 25 Jan 2026 18:29:54 +0200",
+          "description": "Ο Ούρος Ράτσιτς αναφέρθηκε στις επιπολαιότητες που πληρώνει ο Άρης από το ξεκίνημα της χρονιάς σαν αυτή που «πλήγωσε» και στην ισοπαλία με τον Λεβαδειακό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/5004111_1.jpg?itok=Vw5lDvf_",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Έφερε στην Ελλάδα τον Κροάτη Σέντλατσεκ",
+          "link": "https://www.gazzetta.gr/volleyball/volley-league/2510093/olympiakos-efere-stin-ellada-ton-kroati-sentlatsek",
+          "pubDate": "Sun, 25 Jan 2026 18:28:05 +0200",
+          "description": "Ο Κροάτης Μάρκο Σέντλατσεκ είναι που έφτασε στην Ελλάδα για λογαριασμό της ομάδας του Ολυμπιακού.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_meta1_1.jpg?itok=UqTUPZ7n",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Premier League: Νίκες για Τσέλσι και Νότιγχαμ Φόρεστ, μεγάλο διπλό από την Άστον Βίλα",
           "link": "https://www.newsit.gr/athlitika/premier-league-nikes-gia-tselsi-kai-notigxam-forest-megalo-diplo-apo-tin-aston-vila/4583094/",
           "pubDate": "Sun, 25 Jan 2026 16:23:13 +0000",
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 17:26:55 +0200",
           "description": "Ο Τάισον Γουόρντ αναφέρθηκε στη νίκη του Ολυμπιακού επί του Κολοσσού, την χρησιμοποίηση του ως πλέι μέικερ και την απόκτηση του Τζόσεφ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4982439.jpg?itok=hXkdonkp",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Δούλεψε 200 ημέρες για ένα ηλιακό γιοτ, αλλά το πρώτο του ταξίδι δεν πήγε όπως περίμενε",
-          "link": "https://www.gazzetta.gr/plus/2510067/doylepse-200-imeres-gia-ena-iliako-giot-alla-proto-toy-taxidi-den-pige-opos-perimene",
-          "pubDate": "Sun, 25 Jan 2026 17:20:53 +0200",
-          "description": "Ένας κατασκευαστής παρουσίασε το Helios 11, ένα γιοτ που κινείται αποκλειστικά με ηλιακή ενέργεια. Στο πρώτο του ταξίδι, το σκάφος δοκιμάστηκε σε παγωμένα κανάλια της Γαλλίας.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/yacht.jpg?itok=ldJGxcfg",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Α' Εθνική Γυναικών: Το καθήκον της η ΑΕΚ, η Κηφισιά πήρε ανάσα στο φινάλε",
-          "link": "https://www.gazzetta.gr/football/ethniki-gynaikon/2510066/ethniki-gynaikon-ekane-kathikon-tis-i-aek-i-kifisia-pire-anasa",
-          "pubDate": "Sun, 25 Jan 2026 17:12:44 +0200",
-          "description": "Ο ΠΑΟΚ συνεχίζει αήττητος, η ΑΕΚ και η ΡΕΑ πανηγύρισαν νίκες, ενώ Κηφισιά και Αγία Παρασκευή πήραν σημαντικούς βαθμούς στη 15η αγωνιστική της Α' Εθνικής γυναικών.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_women_1.jpg?itok=XapFGyom",
           "source": "Gazzetta"
         }
       ]
