@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T06:05:27.801Z",
+  "lastUpdated": "2026-01-25T06:10:31.970Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Δεν έχει εφαρμοστεί ακόμα το όριο ταχύτητας των 30 χλμ./ώρα",
+          "link": "https://www.newsit.gr/auto/den-exei-efarmostei-akoma-to-orio-taxytitas-ton-30-xlm-ora/4582503/",
+          "pubDate": "Sun, 25 Jan 2026 06:05:00 +0000",
+          "description": "Ιδιαίτερη συζήτηση δημιούργησε η επιβολή ορίου ταχύτητας 30 χλμ./ώρα μέσα στις πόλεις, τόσο κατά τη διαβούλευση του νέου ΚΟΚ, όσο και μετά την ψήφισή του. ...  \nTo άρθρο Δεν έχει εφαρμοστεί ακόμα το όριο ταχύτητας των 30 χλμ./ώρα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/kinisi-mpotiliarisma-eurok-1200x900.jpg"
+        },
         {
           "title": "Χιονοθύελλα παραλύει τις ΗΠΑ: 130.000 νοικοκυριά και επιχειρήσεις χωρίς ρεύμα, ακυρώθηκαν χιλιάδες πτήσεις",
           "link": "https://www.newsit.gr/kosmos/xionothyella-paralyei-tis-ipa-130-000-noikokyria-kai-epixeiriseis-xoris-reyma-akyrothikan-xiliades-ptiseis/4582795/",
@@ -210,13 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 01:25:28 +0300",
           "description": "«Είδηση δεν είναι αν ένας σκύλος δαγκώσει άνθρωπο, αλλά αν ένας άνθρωπος δαγκώσει σκύλο» κατά το δημοσιογραφικό ρητό, όμως ίσως έπρεπε να υπάρχει κάποια αναφορά στις περιπτώσεις που άνθρωπος δαγκώνει άνθρωπο",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Homeland-Security-1-768x576.jpg"
-        },
-        {
-          "title": "Γιώργος Γεραπετρίτης: Αναφαίρετο δικαίωμα τα 12 ναυτικά μίλια – Η Ελλάδα θα επιλέξει πότε θα το ασκήσει",
-          "link": "https://www.newsit.gr/politikh/giorgos-gerapetritis-anafaireto-dikaioma-ta-12-naytika-milia-i-ellada-tha-epileksei-pote-tha-to-askisei/4582749/",
-          "pubDate": "Sat, 24 Jan 2026 22:12:26 +0000",
-          "description": "Στο θέμα της επέκτασης των χωρικών υδάτων της χώρας μας έως τα 12 ναυτικά μίλια αναφέρθηκε, μεταξύ άλλων ζητημάτων, ο Γιώργος Γεραπετρίτης. Σε συνέντευξή του ...  \nTo άρθρο Γιώργος Γεραπετρίτης: Αναφαίρετο δικαίωμα τα 12 ναυτικά μίλια – Η Ελλάδα θα επιλέξει πότε θα το ασκήσει δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gerapetritis-1200x800.jpg"
         }
       ]
     },
@@ -441,6 +441,27 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Φέτος, η θέα των ανθισμένων κερασιών στην Ιαπωνία μπορεί να είναι απρόσμενα προσιτή",
+          "link": "http://gr.euronews.com/travel/2026/01/25/this-year-could-be-a-surprisingly-affordable-time-to-see-japans-cherry-blossoms",
+          "pubDate": "Sun, 25 Jan 2026 07:00:36 +0100",
+          "description": "Τόσο τα μεμονωμένα ταξίδια όσο και τα πακέτα διακοπών εμφανίζουν φέτος πιο ανταγωνιστικές τιμές.",
+          "thumbnail": null
+        },
+        {
+          "title": "Ειδήσεις | 25 Ιανουαρίου 2026 - Πρωινό δελτίο",
+          "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-prwino-deltio",
+          "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
+          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
+          "thumbnail": null
+        },
+        {
+          "title": "Αγέλη λύκων υποχρεώνει τις αρχές να κλείσουν αεροδρόμιο στην Ιταλία",
+          "link": "http://gr.euronews.com/green/2026/01/25/wolf-pack-forces-italian-airport-to-close-how-this-region-is-struggling-with-coexistence",
+          "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
+          "description": "Ο πληθυσμός των λύκων στην Ιταλία ανέρχεται πλέον σε 3.000-3.500 - Στις αρχές της δεκαετίας του 1970, έφταναν σχεδόν στο οριο της εξαφάνισης στη χώρα.",
+          "thumbnail": null
+        },
+        {
           "title": "Video shows moments around fatal shooting in Minneapolis",
           "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 03:34:28 GMT",
@@ -627,27 +648,6 @@
           "link": "http://gr.euronews.com/video/2026/01/24/eidhseis-24-ianoyarioy-2026-meshmbrino-deltio",
           "pubDate": "Sat, 24 Jan 2026 12:00:18 +0100",
           "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 24 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
-          "thumbnail": null
-        },
-        {
-          "title": "Πώς οι Ευρωπαίοι ευθυγραμμίστηκαν για να υπερασπιστούν τη Γροιλανδία απέναντι στον Τραμπ",
-          "link": "http://gr.euronews.com/my-europe/2026/01/24/pws-oi-eurwpaioi-euthugrammisthkan-gia-na-uperaspistoun-th-groilandia-apenanti-ston-tramp",
-          "pubDate": "Sat, 24 Jan 2026 11:00:36 +0100",
-          "description": "Η σοκαριστική απειλή του Ντόναλντ Τραμπ να επιβάλει δασμούς για να καταλάβει τη Γροιλανδία προκάλεσε έναν αγωνιώδη αγώνα δρόμου ενάντια στον χρόνο για να αποτραπεί η κατάρρευση της διατλαντικής συμμαχίας. Ιδού πώς οι Ευρωπαίοι ενώθηκαν για να τη σώσουν",
-          "thumbnail": null
-        },
-        {
-          "title": "Ουκρανία: «Βροχή» από ρωσικά drones και πυραύλους σε Κίεβο και Χάρκοβο",
-          "link": "http://gr.euronews.com/2026/01/24/oykrania-broxh-apo-rwsika-drones-kai-pyrayloys-se-kiebo-kai-xarkobo",
-          "pubDate": "Sat, 24 Jan 2026 10:18:41 +0100",
-          "description": "Αναφορές για έναν νεκρό και τουλάχιστον 20 τραυματίες",
-          "thumbnail": null
-        },
-        {
-          "title": "Τραγωδία Κραν Μοντανά: Οργή της ιταλικής κυβέρνησης επειδή αφέθηκε ελεύθερος ο ιδιοκτήτης του κλαμπ",
-          "link": "http://gr.euronews.com/my-europe/2026/01/24/tragwdia-sto-kran-montana-eley8eros-o-idiokthths-toy-klamp",
-          "pubDate": "Sat, 24 Jan 2026 09:12:22 +0100",
-          "description": "Θυέλλα αντιδράσεων προκάλεσε η απόφαση δικαστηρίου της Σιόν",
           "thumbnail": null
         }
       ]
