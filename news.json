@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T07:35:31.495Z",
+  "lastUpdated": "2026-01-25T07:40:25.976Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,20 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Οι Σικάγο Μπουλς απέσυραν τη φανέλα του Ντέρικ Ρόουζ, με δάκρυα στα μάτια ο άλλοτε MVP του NBA",
+          "link": "https://www.newsit.gr/athlitika/oi-sikago-mpouls-apesyran-ti-fanela-tou-nterik-roouz-me-dakrya-sta-matia-o-allote-mvp-tou-nba/4582829/",
+          "pubDate": "Sun, 25 Jan 2026 07:38:53 +0000",
+          "description": "Οι Σικάγο Μπουλς τίμησαν τον άλλοτε MVP του NBA, Ντέρικ Ρόουζ, αποσύροντας τη φανέλα του, με τον ίδιο να μην μπορεί να συγκρατήσει τα δάκρυά ...  \nTo άρθρο Οι Σικάγο Μπουλς απέσυραν τη φανέλα του Ντέρικ Ρόουζ, με δάκρυα στα μάτια ο άλλοτε MVP του NBA δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/rose-1200x800.jpg"
+        },
+        {
+          "title": "Μινεσότα: Άλεξ Πρέτι, ο 37χρονος νοσηλευτής που δολοφονήθηκε από την ICE – «Ήθελε να βοηθά τους ανθρώπους»",
+          "link": "https://www.newsit.gr/kosmos/minesota-aleks-preti-o-37xronos-nosileytis-pou-dolofonithike-apo-tin-ice-ithele-na-voitha-tous-anthropous/4582801/",
+          "pubDate": "Sun, 25 Jan 2026 07:34:06 +0000",
+          "description": "Ως έναν ήρεμο και συμπονετικό άνθρωπο περιγράφουν συνάδελφοι και φίλοι τον Άλεξ Πρέτι, τον 37χρονο άνδρα που έπεσε νεκρός από πυρά ομοσπονδιακών πρακτόρων της ICE ...  \nTo άρθρο Μινεσότα: Άλεξ Πρέτι, ο 37χρονος νοσηλευτής που δολοφονήθηκε από την ICE – «Ήθελε να βοηθά τους ανθρώπους» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alex-r-minneapolis-1-1200x765.jpg"
+        },
         {
           "title": "Grand Hotel – επόμενα επεισόδια: Πανικός στο νοσοκομείο λόγω χολέρας, ο Ρήγας μεταφέρεται στο νοσοκομείο",
           "link": "https://www.newsit.gr/media/grand-hotel-epomena-epeisodia-panikos-sto-nosokomeio-logo-xoleras-o-rigas-metaferetai-sto-nosokomeio/4581892/",
@@ -72,6 +86,20 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vroxi-eurok-2-1200x800.jpg"
         },
         {
+          "title": "Good Job Nicky: Ποια είναι η 24χρονη τραγουδίστρια που του έχει κλέψει την καρδιά",
+          "link": "https://www.in.gr/2026/01/25/go-fun/fizz/good-job-nicky-poia-einai-24xroni-tragoudistria-pou-tou-exei-klepsei-tin-kardia/",
+          "pubDate": "Sun, 25 Jan 2026 09:38:42 +0300",
+          "description": "O Good Job Nicky είναι ερωτευμένος και δεν το κρύβει.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/7906_GOOD_JOB_NICKY_NIKOLAS_VARTHAKOYRIS_1022024-768x538.jpg"
+        },
+        {
+          "title": "Στην «εποχή Τραμπ» εξωτερική πολιτική δεν γίνεται με φραστικές ακροβασίες",
+          "link": "https://www.in.gr/2026/01/25/editorial/stin-epoxi-tramp-eksoteriki-politiki-den-ginetai-frastikes-akrovasies/",
+          "pubDate": "Sun, 25 Jan 2026 09:37:27 +0300",
+          "description": "Ο πρωθυπουργός ολοένα και περισσότερο με τις δημόσιες δηλώσεις του αποτυπώνει την αμηχανία της κυβέρνησης σε σχέση με τις ελληνοαμερικανικές σχέσεις",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/mitsotakis-trumb-768x547.jpg"
+        },
+        {
           "title": "Αυξήσεις μισθών για ένα εκατομμύριο εργαζόμενους στον ιδιωτικό τομέα αυτήν την εβδομάδα",
           "link": "https://www.newsit.gr/oikonomia/xristika/ayksiseis-misthon-gia-ena-ekatommyrio-ergazomenous-ston-idiotiko-tomea-aytin-tin-evdomada/4582797/",
           "pubDate": "Sun, 25 Jan 2026 06:36:02 +0000",
@@ -84,6 +112,13 @@
           "pubDate": "Sun, 25 Jan 2026 08:35:24 +0200",
           "description": "Μετά τα ξενοδοχεία σκύλων που εξυπηρετούν τους κηδεμόνες όταν δεν μπορούν να ταξιδεύουν με τα κατοικίδιά τους, τώρα ήρθαν και τα κέντρα ημερήσιας απασχόλησης και μάλιστα διαθέτουν και ... σχολικά",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-23/xrwma-skulia.jpg"
+        },
+        {
+          "title": "Super League: Ψάχνει διπλό στο Περιστέρι ο Παναθηναϊκός – Άρης και Λεβαδειακός «μάχονται» στο «Κλεάνθης Βικελίδης»",
+          "link": "https://www.in.gr/2026/01/25/sports/football/superleague-sto-peristeri-o-panathinaikos-maxes-se-thessaloniki-kai-kriti/",
+          "pubDate": "Sun, 25 Jan 2026 09:34:28 +0300",
+          "description": "Άρης – Λεβαδειακός, ΟΦΗ – Παναιτωλικός και Ατρόμητος – Παναθηναϊκός είναι τα σημερινά (25/1) ματς της Super League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6808509-768x512.jpg"
         },
         {
           "title": "Καιρός: Νέα επιδείνωση με βροχές και καταιγίδες – Τρία διαδοχικά κύματα κακοκαιρίας θα πλήξουν τη χώρα",
@@ -182,41 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 08:41:53 +0300",
           "description": "Απόσταση χωρίζει τις εκτιμήσεις εργαζομένων και CEOs για την Τεχνητή Νοημοσύνη και τα οφέλη της",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_2424366159-768x569.jpg"
-        },
-        {
-          "title": "Smalltown Boy: Μια δυνατή coming-of-age παράσταση του Μάνου Τζωρτζάκη στο θέατρο 104",
-          "link": "https://www.in.gr/2026/01/25/life/culture-live/smalltown-boy-mia-dynati-coming-age-parastasi-tou-manou-tzortzaki-sto-theatro-104/",
-          "pubDate": "Sun, 25 Jan 2026 08:40:28 +0300",
-          "description": "Η παράσταση Smalltown Boy έρχεται από τις 16 Φεβρουαρίου στο Black Box του θεάτρου 104.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Smalltown-Boy-4-768x511.jpg"
-        },
-        {
-          "title": "Ο Ολυμπιακός αντιμετωπίζει τον Κολοσσό στη Ρόδο, στο ΟΑΚΑ με το Μαρούσι ο Παναθηναϊκός",
-          "link": "https://www.in.gr/2026/01/25/sports/basketball/euroleague/o-olympiakos-antimetopizei-ton-kolosso-sti-rodo-sto-oaka-marousi-o-panathinaikos/",
-          "pubDate": "Sun, 25 Jan 2026 08:38:10 +0300",
-          "description": "Ολυμπιακός και Παναθηναϊκός επιστρέφουν στη δράση της Stoiximan GBL, κόντρα σε Κολοσσό (13:00, εκτός) και Μαρούσι (15:45, εντός), αντίστοιχα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6797692-4-768x511.jpg"
-        },
-        {
-          "title": "Η Μινεσότα «φλέγεται» μετά τη δολοφονία 37χρονου από  πράκτορες της ICE – «Αηδιαστικά ψέματα» από τον Τραμπ καταγγέλλουν οι γονείς του",
-          "link": "https://www.newsit.gr/kosmos/i-minesota-flegetai-meta-ti-dolofonia-37xronou-apo-praktores-tis-ice-aidiastika-psemata-apo-ton-tramp-kataggelloun-oi-goneis-tou/4582791/",
-          "pubDate": "Sun, 25 Jan 2026 05:36:25 +0000",
-          "description": "Μαζικές αντιδράσεις και διαδηλώσεις έχει προκαλέσει η δολοφονία ενός άνδρα από πράκτορες της ICE στην Μινεάπολη των ΗΠΑ. Οι γονείς του 37χρονου θύματος καταγγέλλουν τους ...  \nTo άρθρο Η Μινεσότα «φλέγεται» μετά τη δολοφονία 37χρονου από  πράκτορες της ICE – «Αηδιαστικά ψέματα» από τον Τραμπ καταγγέλλουν οι γονείς του δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-protests-1-1200x800.jpg"
-        },
-        {
-          "title": "Νέα Ζηλανδία: Διακόπηκε η επιχείρηση ανεύρεσης των θυμάτων κατολίσθησης στο κάμπινγκ",
-          "link": "https://www.in.gr/2026/01/25/world/nea-zilandia-diakopike-epixeirisi-aneyresis-ton-thymaton-katolisthisis-sto-kampingk/",
-          "pubDate": "Sun, 25 Jan 2026 08:34:05 +0300",
-          "description": "Λόγω της αστάθειας του εδάφους και ρωγμών που παρατηρήθηκαν στο σημείο, κρίθηκε σκόπιμο να διακοπεί η επιχείρηση στη Νέα Ζηλανδία",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-24T025129Z_755649696_RC2D7JA878F9_RTRMADP_5_NEWZEALAND-WEATHER-768x512.jpg"
-        },
-        {
-          "title": "Τι λένε τα ζώδια για σήμερα Κυριακή 25 Ιανουαρίου 2026",
-          "link": "https://www.newsit.gr/lifestyle/ti-lene-ta-zodia-gia-simera-kyriaki-25-ianouariou-2026/4582595/",
-          "pubDate": "Sun, 25 Jan 2026 05:31:00 +0000",
-          "description": "Τι λένε τα ζώδια για σήμερα Κυριακή 25 Ιανουαρίου 2026; Τι προβλέπει το ζώδιο και ο ωροσκόπος για σήμερα; Ταύρος: Δέχεσαι περισσότερη προσοχή και θαυμασμό ...  \nTo άρθρο Τι λένε τα ζώδια για σήμερα Κυριακή 25 Ιανουαρίου 2026 δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2022/12/iStock-1372910783-1200x800.jpg"
         }
       ]
     },
@@ -441,6 +441,13 @@
       "color": "blue",
       "articles": [
         {
+          "title": "«Αμαρτία αλλά απαραίτητα τα πυρηνικά όπλα» λέει σύμβουλος του Πούτιν",
+          "link": "http://gr.euronews.com/2026/01/25/amartia-alla-aparaithta-ta-pyrhnika-opla-leei-symboylos-toy-poytin",
+          "pubDate": "Sun, 25 Jan 2026 08:31:38 +0100",
+          "description": "Ο Πούτιν είναι «πολύ θρησκευόμενος και προσεκτικός», κάτι που –κατά τον ίδιο– αποτρέπει μια πρόωρη κλιμάκωση",
+          "thumbnail": null
+        },
+        {
           "title": "Ο «άθεος» Χαβιέρ Θέρκας, ο Πάπας Φραγκίσκος και το μυστήριο της αιώνιας ζωής",
           "link": "http://gr.euronews.com/culture/2026/01/25/o-a8eos-xabier-8erkas-o-papas-fragkiskos-kai-to-mysthrio-ths-aiwnias-zwhs",
           "pubDate": "Sun, 25 Jan 2026 08:18:24 +0100",
@@ -642,13 +649,6 @@
           "pubDate": "Sat, 24 Jan 2026 13:59:13 +0100",
           "description": "Οι αρχές καλούν τους πολίτες να παρακολουθούν τις επίσημες ανακοινώσεις, να προετοιμάζονται για παρατεταμένες δύσκολες συνθήκες και να ακολουθούν πιστά τις οδηγίες έως ότου υποχωρήσει η κακοκαιρία",
           "thumbnail": null
-        },
-        {
-          "title": "Αυτή είναι η «αρμάδα» του αμερικανικού ναυτικού που έστειλε ο Τραμπ στο Ιράν",
-          "link": "http://gr.euronews.com/2026/01/24/auth-einai-armada-tou-amerikanikou-nautikou-pou-esteile-tramp-sto-iran",
-          "pubDate": "Sat, 24 Jan 2026 12:43:20 +0100",
-          "description": "Σύμφωνα με δεδομένα παρακολούθησης και φωτογραφίες παρατηρητών, αρκετά πολεμικά πλοία των ΗΠΑ έχουν φύγει από τη Θάλασσα της Κίνας με προορισμό τη Μέση Ανατολή",
-          "thumbnail": null
         }
       ]
     },
@@ -656,6 +656,13 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Οι Σικάγο Μπουλς απέσυραν τη φανέλα του Ντέρικ Ρόουζ, με δάκρυα στα μάτια ο άλλοτε MVP του NBA",
+          "link": "https://www.newsit.gr/athlitika/oi-sikago-mpouls-apesyran-ti-fanela-tou-nterik-roouz-me-dakrya-sta-matia-o-allote-mvp-tou-nba/4582829/",
+          "pubDate": "Sun, 25 Jan 2026 07:38:53 +0000",
+          "description": "Οι Σικάγο Μπουλς τίμησαν τον άλλοτε MVP του NBA, Ντέρικ Ρόουζ, αποσύροντας τη φανέλα του, με τον ίδιο να μην μπορεί να συγκρατήσει τα δάκρυά ...  \nTo άρθρο Οι Σικάγο Μπουλς απέσυραν τη φανέλα του Ντέρικ Ρόουζ, με δάκρυα στα μάτια ο άλλοτε MVP του NBA δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/rose-1200x800.jpg"
+        },
         {
           "title": "Μάβερικς - Λέικερς 110-116: Ντόντσιτς και ΛεΜπρόν έκαναν την ανατροπή",
           "link": "https://www.gazzetta.gr/basketball/nba/2509936/maberiks-leikers-110-116-ntontsits-kai-lempron-ekanan-tin-anatropi",
@@ -858,13 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:54:03 +0200",
           "description": "Οι δηλώσεις του Μίλαν Ράσταβατς στην κάμερα της NOVA μετά την ήττα του Αστέρα AKTOR από την ΑΕΚ στην Τρίπολη.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/rastavac_1.jpg?itok=uvNBXv_D"
-        },
-        {
-          "title": "Τουρκάλα προσφεύγει στη Δικαιοσύνη για να αναγνωριστεί ως κόρη του Τραμπ: Ζητά τεστ DNA από τον πρόεδρο των ΗΠΑ (vid)",
-          "link": "https://www.gazzetta.gr/plus/2509855/toyrkala-prosfeygei-sti-dikaiosyni-gia-na-anagnoristei-os-kori-toy-tramp-zita-test-dna",
-          "pubDate": "Sat, 24 Jan 2026 22:49:00 +0200",
-          "description": "55χρονη από την Άγκυρα ισχυρίζεται ότι είναι βιολογική κόρη του Ντόναλντ Τραμπ και δίνει νομική μάχη για να υποβληθεί ο πρόεδρος των ΗΠΑ σε τεστ DNA, προκειμένου να αποκαλυφθεί η αλήθεια.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/necla-ozmen.jpg?itok=J5_L2U9s"
         }
       ]
     },
