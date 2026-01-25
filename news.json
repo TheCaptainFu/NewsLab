@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T23:00:39.042Z",
+  "lastUpdated": "2026-01-25T23:05:28.316Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Μάλτα: Ένας πρόσφυγας διασώθηκε, 150 αγνοούνται μετά τη βύθιση των πλοιαρίου τους στα ανοιχτά της Τυνησίας",
+          "link": "https://www.in.gr/2026/01/26/world/malta-enas-prosfygas-diasothike-50-agnoountai-meta-ti-vythisi-tou-ploiariou-tous-sta-anoixta-tis-tynisias/",
+          "pubDate": "Mon, 26 Jan 2026 01:00:14 +0300",
+          "description": "Ένας άνδρας πάλευε με τα κύματα για περισσότερες από 24 ώρες, κατάφερε να διασωθεί και μεταφέρθηκε στη Μάλτα, όμως περίπου 150 άτομα αγνοούνται, εκ των οποίων τα 50 επέβαιναν στη βάρκα με τον διασωθέντα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/15275730-768x512.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Μιχάλης Μητρούσης: ««Τι σαχλαμάρες είναι αυτές; Είναι ανάγκη να πεθάνεις πάνω στο σανίδι;»",
           "link": "https://www.newsit.gr/lifestyle/mixalis-mitrousis-ti-saxlamares-einai-aytes-einai-anagki-na-pethaneis-pano-sto-sanidi/4582803/",
@@ -238,14 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 23:22:11 +0300",
           "description": "Ακόμα δύο γκολ στον λογαριασμό για τον Βαγγέλη Παυλίδη, ακόμα μία νίκη για την Μπενφίκα η οποία διέλυσε με 4-0 την Εστρέλα Αμαδόρα.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G1y_mdTXQAAAdki-1024x683-1-1-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "«Έπεσε πάνω στο τζάμι»: Οι Τζέσι Τάιλερ Φέργκιουσον και Έρικ Στόουνστριτ γελούν ακόμη με στιγμή του Modern Family",
-          "link": "https://www.in.gr/2026/01/25/go-fun/fizz/epese-pano-sto-tzami-oi-tzesi-tailer-fergkiouson-kai-erik-stoounstrit-geloun-akomi-stigmi-tou-modern-family/",
-          "pubDate": "Sun, 25 Jan 2026 23:20:50 +0300",
-          "description": "Σε μια χαλαρή αναδρομή στα χρόνια του Modern Family, οι Τζέσι Τάιλερ Φέργκιουσον και Έρικ Στόουνστριτ θυμούνται το πιο αστείο περιστατικό των γυρισμάτων",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Screenshot-2026-01-25-205521-768x550.jpg",
           "source": "In.gr"
         }
       ]
