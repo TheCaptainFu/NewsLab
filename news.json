@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T06:30:29.564Z",
+  "lastUpdated": "2026-01-25T06:35:25.027Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -37,11 +37,25 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-protests-1-1200x800.jpg"
         },
         {
+          "title": "Νέα Ζηλανδία: Διακόπηκε η επιχείρηση ανεύρεσης των θυμάτων κατολίσθησης στο κάμπινγκ",
+          "link": "https://www.in.gr/2026/01/25/world/nea-zilandia-diakopike-epixeirisi-aneyresis-ton-thymaton-katolisthisis-sto-kampingk/",
+          "pubDate": "Sun, 25 Jan 2026 08:34:05 +0300",
+          "description": "Λόγω της αστάθειας του εδάφους και ρωγμών που παρατηρήθηκαν στο σημείο, κρίθηκε σκόπιμο να διακοπεί η επιχείρηση στη Νέα Ζηλανδία",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-24T025129Z_755649696_RC2D7JA878F9_RTRMADP_5_NEWZEALAND-WEATHER-768x512.jpg"
+        },
+        {
           "title": "Τι λένε τα ζώδια για σήμερα Κυριακή 25 Ιανουαρίου 2026",
           "link": "https://www.newsit.gr/lifestyle/ti-lene-ta-zodia-gia-simera-kyriaki-25-ianouariou-2026/4582595/",
           "pubDate": "Sun, 25 Jan 2026 05:31:00 +0000",
           "description": "Τι λένε τα ζώδια για σήμερα Κυριακή 25 Ιανουαρίου 2026; Τι προβλέπει το ζώδιο και ο ωροσκόπος για σήμερα; Ταύρος: Δέχεσαι περισσότερη προσοχή και θαυμασμό ...  \nTo άρθρο Τι λένε τα ζώδια για σήμερα Κυριακή 25 Ιανουαρίου 2026 δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2022/12/iStock-1372910783-1200x800.jpg"
+        },
+        {
+          "title": "Οι αθλητικές μεταδόσεις (25/1): Πού θα δείτε τον μικρό τελικό της Ελλάδας στο πόλο και τα ματς της Super League",
+          "link": "https://www.in.gr/2026/01/25/sports/othersports/oi-athlitikes-metadoseis-tis-imeras-25-1-pou-tha-deite-ton-mikro-teliko-tis-elladas-sto-polo-kai-ta-mats-tis-superleague/",
+          "pubDate": "Sun, 25 Jan 2026 08:28:41 +0300",
+          "description": "Αναλυτικά το πρόγραμμα με τις αθλητικές μεταδόσεις της ημέρας (25/1) - Ο μικρός τελικός της Ελλάδας στο πόλο και τα ματς της Super League",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6822315-768x498.jpg"
         },
         {
           "title": "Αυξάνονται ζήτηση, τιμές σε σπίτια κοντά στους νέους σταθμούς μετρό",
@@ -203,20 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 04:32:53 +0300",
           "description": "Σύμφωνα με την Ocado, οι Βρετανοί καταναλωτές αναζητούν τον ιδανικό συνδυασμό ποιότητας και οικονομίας στις αγορές τους για τρόφιμα",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/rumman-amin-LNn6O_Mt730-unsplash-768x531.jpg"
-        },
-        {
-          "title": "ΗΠΑ: Οι καλύτερες και οι χειρότερες αμερικανικές αεροπορικές εταιρείες του 2025",
-          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/ipa-oi-kalyteres-kai-oi-xeiroteres-amerikanikes-aeroporikes-etaireies-tou-2025/",
-          "pubDate": "Sun, 25 Jan 2026 03:46:20 +0300",
-          "description": "Η Southwest Airlines αναδείχθηκε ως η κορυφαία αεροπορική εταιρεία των ΗΠΑ το 2025, κατακτώντας την πρώτη θέση",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/aeroplanes.jpg"
-        },
-        {
-          "title": "Έρχεται shrinkflation και στο πασχαλινό καλάθι",
-          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/erxetai-shrinkflation-kai-sto-pasxalino-kalathi/",
-          "pubDate": "Sun, 25 Jan 2026 03:10:08 +0300",
-          "description": "Οι καταναλωτές στη Βρετανία διαπιστώνουν ότι φέτος το πασχαλινό αυγό κοστίζει ακριβότερα, αλλά ζυγίζει λιγότερο",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_618795371-768x458.jpg"
         }
       ]
     },
