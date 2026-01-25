@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T19:55:23.495Z",
+  "lastUpdated": "2026-01-25T20:00:37.873Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Ετρέλα με 4-0",
+          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-petyxe-dyo-gkol-sti-niki-tis-mpenfika-epi-tis-etrela-me-4-0/4583283/",
+          "pubDate": "Sun, 25 Jan 2026 19:55:47 +0000",
+          "description": "Ένα άνετο βράδυ πρωταθλήματος για την Μπενφίκα. Με τον Βαγγέλη Παυλίδη να πετυχαίνει δυο γκολ, η ομάδα του Ζοσέ Μουρίνιο επικράτησε εντός έδρας της Εστρέλα ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Ετρέλα με 4-0 δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-reuters-1200x792.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Πειραγμένες αντλίες σε βενζινάδικα: Τέσσερις προφυλακίσεις για το κύκλωμα",
           "link": "https://www.newsit.gr/ellada/peiragmenes-antlies-se-venzinadika-tesseris-profylakiseis-gia-to-kykloma/4583275/",
@@ -239,14 +247,6 @@
           "description": "Ο Ανδρέας Πετρόπουλος βρέθηκε στο προσκήνιο του Κολοσσός Ρόδου – Ολυμπιακός, μετά τον καυγά του με τον Σάσα Βεζένκοφ μέσα στο παρκέ, αλλά φαίνεται ότι ...  \nTo άρθρο Πετρόπουλος μετά το Κολοσσός Ρόδου – Ολυμπιακός: «Ελπίζω τα φρένα του αυτοκινήτου μου να κόπηκαν μόνα τους» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/petropoulos-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Γιουβέντους – Νάπολι 3-0: «Πάρτι» με καλεσμένους τους Παρτενοπέι",
-          "link": "https://www.in.gr/2026/01/25/sports/football/giouventous-napoli-3-0-parti-kalesmenous-tous-partenopei/",
-          "pubDate": "Sun, 25 Jan 2026 21:02:48 +0300",
-          "description": "Η Γιουβέντους μετέτρεψε σε περίπατο το ντέρμπι με τη Νάπολι, επικράτησε με 3-0 και την πέταξε εκτός τίτλου. Φουλ για τετράδα οι «μπιανκονέρι».",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_hrfzUbwAA-q0T-e1769367057297-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "F1 - Χάμιλτον: «Φέτος είμαι πραγματικά ενθουσιασμένος»",
+          "link": "https://www.gazzetta.gr/gmotion/2509742/f1-hamilton-fetos-eimai-pragmatika-enthoysiasmenos",
+          "pubDate": "Sun, 25 Jan 2026 22:00:00 +0200",
+          "description": "Ο 7 φορές παγκόσμιος πρωταθλητής μίλησε για τη νέα αγωνιστική σεζόν της Formula 1 και το γεγονός πως ανυπομονεί περισσότερο από κάθε άλλη χρονιά.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sf26_trackday_thaddeus-2804_579876b9-450d-4388-a18f-e717d89653511.jpg?itok=yv2ko5vD",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Ετρέλα με 4-0",
+          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-petyxe-dyo-gkol-sti-niki-tis-mpenfika-epi-tis-etrela-me-4-0/4583283/",
+          "pubDate": "Sun, 25 Jan 2026 19:55:47 +0000",
+          "description": "Περισσότερα σε λίγο…\nTo άρθρο Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Ετρέλα με 4-0 δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-reuters-1200x792.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ατρόμητος - Παναθηναϊκός: Τα Highlights του 0-0 στο Περιστέρι",
           "link": "https://www.gazzetta.gr/football/superleague/2510161/atromitos-panathinaikos-ta-highlights-toy-0-0-sto-peristeri",
           "pubDate": "Sun, 25 Jan 2026 21:52:27 +0200",
@@ -969,22 +985,6 @@
           "description": "Η Γιουβέντους ήταν εντυπωσιακή κόντρα στην Νάπολι των πολλών απουσιών, τη νίκησε με 3-0 και έπιασε την Ρόμα στους 42 βαθμούς (οι τζιαλορόσι” αγωνίζονται στη ...  \nTo άρθρο Γιουβέντους – Νάπολι 3-0: Την διέλυσε μέσα στο Τορίνο και την πλησίασε στο βαθμό δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/juventus-napoli-reuters-1200x829.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Γιουβέντους - Νάπολι 3-0: Σάρωσε και φουλάρει για την τετράδα",
-          "link": "https://www.gazzetta.gr/football/serie/2510136/gioybentoys-napoli-3-0-sarose-kai-foylarei-gia-tin-tetrada",
-          "pubDate": "Sun, 25 Jan 2026 20:54:32 +0200",
-          "description": "Η Γιουβέντους επικράτησε 3-0 της Νάπολι εντός έδρας και έπιασε τη Ρόμα στην τέταρτη θέση της βαθμολογίας της Serie A.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/juventus.jpg?itok=EWvtinhc",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πετκίμ-Φενέρμπαχτσε 70-78: Με υπογραφή Μπάλντγουιν",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510135/petkim-fenermpahtse-70-78-me-ypografi-mpalntgoyin",
-          "pubDate": "Sun, 25 Jan 2026 20:53:48 +0200",
-          "description": "Ο Ουέιντ Μπάλντγουιν ήταν ο ηγέτης της Φενέρμπαχτσε στη νίκη (78-70) εκτός έδρας επί της Πετκίμ για την 17η αγωνιστική του τουρκικού πρωταθλήματος.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/baldwin.jpg?itok=qeveivpr",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Ατρόμητος – Παναθηναϊκός 0-0 | Highlights",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/atromitos-panathinaikos-0-0-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=atromitos-panathinaikos-0-0-highlights",
+          "pubDate": "Sun, 25 Jan 2026 19:59:48 +0000",
+          "description": "Οι μεγαλύτερες ευκαιρίες στην αναμέτρηση του Παναθηναϊκού με τον Ατρόμητο, με τις δύο ομάδες να μην μπορούν να βρουν γκολ!\nThe post Ατρόμητος – Παναθηναϊκός 0-0 | Highlights appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/tetteh-2-1.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Κερκέζ: «Αξίζαμε την νίκη – Αυτοί είχαν μια ευκαιρία!»",
           "link": "https://trifilara.gr/kerkez-axizame-tin-niki-aftoi-eichan-mia-efkairia/?utm_source=rss&utm_medium=rss&utm_campaign=kerkez-axizame-tin-niki-aftoi-eichan-mia-efkairia",
@@ -1025,28 +1033,12 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός",
-          "link": "https://trifilara.gr/ta-prota-logia-tou-beniteth-meta-to-atromitos-panathinaikos-2/?utm_source=rss&utm_medium=rss&utm_campaign=ta-prota-logia-tou-beniteth-meta-to-atromitos-panathinaikos-2",
-          "pubDate": "Sun, 25 Jan 2026 19:40:06 +0000",
-          "description": "Ο Ράφα Μπενίτεθ μίλησε στην μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» με τον Ατρόμητο.\nThe post Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
           "title": "Βαθμολογία Super League: Η θέση του Παναθηναϊκού",
           "link": "https://panathinaikos24.gr/2026/01/25/617710/vathmologia-super-league-i-thesi-tou-panathinaikou/",
           "pubDate": "Sun, 25 Jan 2026 19:37:58 +0000",
           "description": "Η βαθμολογία της Stoiximan Super League μετά το 0-0 του Παναθηναϊκού στο Περιστέρι.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/BATHMOLOGIA.jpg?fit=900%2C599&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League",
-          "link": "https://trifilara.gr/stasimos-o-panathinaikos-kai-to-klima-varainei-i-vathmologia-tis-super-league/?utm_source=rss&utm_medium=rss&utm_campaign=stasimos-o-panathinaikos-kai-to-klima-varainei-i-vathmologia-tis-super-league",
-          "pubDate": "Sun, 25 Jan 2026 19:36:32 +0000",
-          "description": "Δείτε πώς διαμορφώθηκε η βαθμολογία μετά το Παναθηναϊκός - Πανσερραϊκός στο πλαίσιο τις 11η αγωνιστικής της Super League.\nThe post Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         },
         {
           "title": "Ανύπαρκτος στο Περιστέρι ο Παναθηναϊκός!",
@@ -1089,6 +1081,22 @@
           "source": "Όλα Πράσινα"
         },
         {
+          "title": "Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League",
+          "link": "https://trifilara.gr/stasimos-o-panathinaikos-kai-to-klima-varainei-i-vathmologia-tis-super-league/?utm_source=rss&utm_medium=rss&utm_campaign=stasimos-o-panathinaikos-kai-to-klima-varainei-i-vathmologia-tis-super-league",
+          "pubDate": "Sun, 25 Jan 2026 19:20:32 +0000",
+          "description": "Δείτε πώς διαμορφώθηκε η βαθμολογία μετά το Παναθηναϊκός - Πανσερραϊκός στο πλαίσιο τις 11η αγωνιστικής της Super League.\nThe post Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός",
+          "link": "https://trifilara.gr/ta-prota-logia-tou-beniteth-meta-to-atromitos-panathinaikos-2/?utm_source=rss&utm_medium=rss&utm_campaign=ta-prota-logia-tou-beniteth-meta-to-atromitos-panathinaikos-2",
+          "pubDate": "Sun, 25 Jan 2026 19:15:06 +0000",
+          "description": "Ο Ράφα Μπενίτεθ μίλησε στην μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» με τον Ατρόμητο.\nThe post Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Ήττα… πλήγμα για τον Παναθηναϊκό!",
           "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/itta-pligma-gia-ton-panathinaiko/?utm_source=rss&utm_medium=rss&utm_campaign=itta-pligma-gia-ton-panathinaiko",
           "pubDate": "Sun, 25 Jan 2026 19:09:24 +0000",
@@ -1126,14 +1134,6 @@
           "pubDate": "Sun, 25 Jan 2026 18:16:59 +0000",
           "description": "Η φάση του 1ου ημιχρόνου μεταξύ Ατρόμητου και Παναθηναϊκού ανήκει στον Αλμπάν Λαφόν.\nThe post Ατρόμητος – Παναθηναϊκός: Έκανε πέναλτι και μετά το… έπιασε ο «κέρβερος» Λαφόν! (vid) appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/lafont-2.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Μεγάλη ένταση με Μπαρτζώκα – Λυκογιάννη μετά τη λήξη του Κολοσσός – Ολυμπιακός! (vid)",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/megali-entasi-me-bartzoka-lykogiann-2/?utm_source=rss&utm_medium=rss&utm_campaign=megali-entasi-me-bartzoka-lykogiann-2",
-          "pubDate": "Sun, 25 Jan 2026 18:14:50 +0000",
-          "description": "Ένταση ανάμεσα σε Άρη Λυκογιάννη και Γιώργο Μπαρτζώκα στις χειραψίες των προπονητών μετά το Κολοσσός Ρόδου - Ολυμπιακός!\nThe post Μεγάλη ένταση με Μπαρτζώκα – Λυκογιάννη μετά τη λήξη του Κολοσσός – Ολυμπιακός! (vid) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Lykogiannis-Mpartzokas.jpg",
           "source": "Όλα Πράσινα"
         },
         {
@@ -1238,6 +1238,14 @@
       "title": "ΤΕΧΝΟΛΟΓΙΑ & SCIENCE",
       "color": "pink",
       "articles": [
+        {
+          "title": "Αναζήτηση με... προσωπικότητα: Η μεγάλη αλλαγή στο Google Search",
+          "link": "https://www.techgear.gr/anazitisi-me-prosopikotita-i-megali-allagi-sto-google-search-47310",
+          "pubDate": "Sun, 25 Jan 2026 22:00:00 +0200",
+          "description": "Ένα από τα μεγαλύτερα στοιχήματα στην ιστορία της μηχανής αναζήτησής της παίζει η Google, λανσάροντας και επίσημα τη λειτουργία «Personal ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/google-personal-intelligence.jpg",
+          "source": "Techgear"
+        },
         {
           "title": "Το νέο Fable έρχεται το φθινόπωρο στο PlayStation!",
           "link": "https://www.techgear.gr/to-neo-fable-erchetai-to-fthinoporo-sto-playstation-47309",
@@ -1468,14 +1476,6 @@
           "pubDate": "Fri, 23 Jan 2026 15:19:52 +0000",
           "description": "Ο CEO Neal Mohan αποκαλύπτει τα νέα εργαλεία δημιουργίας AI avatars, και τη στρατηγική κατά του χαμηλής ποιότητας περιεχομένου.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/y/youtube-ac/youtube-acknowledges-slop-problem-but-its-still-full-steam-a_tb1a.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Steam: Τώρα μπορείς να δωρίζεις bundles χωρίς να ξαναπληρώνεις όσα ήδη έχει ο φίλος σου",
-          "link": "https://gr.pcmag.com/pc-games/51094/steam-tora-mporeis-na-dorizeis-bundles-khoris-na-xanapleroneis-osa-ede-ekhei-o-philos-sou",
-          "pubDate": "Fri, 23 Jan 2026 15:03:03 +0000",
-          "description": "Η Valve αναβαθμίζει τα «Complete the Set» bundles, επιτρέποντας την αποστολή δώρων με αυτόματη έκπτωση για το περιεχόμενο που υπάρχει ήδη στη βιβλιοθήκη του παραλήπτη.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/v/valve-now-/valve-now-lets-you-gift-bundles-to-friends-minus-what-they-a_vpmf.jpg",
           "source": "PC Magazine"
         }
       ]
