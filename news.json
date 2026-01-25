@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T13:25:28.935Z",
+  "lastUpdated": "2026-01-25T13:30:34.227Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": " Συνεδρίασε η Επιτροπή Εκτίμησης Κινδύνου για το νέο κύμα κακοκαιρίας, συστάσεις από της Πολιτικής Προστασίας\n",
+          "link": "https://www.protothema.gr/greece/article/1763097/sunedriase-i-epitropi-ektimisis-kindunou-gia-to-neo-kuma-kakokairias-pou-tha-htupisoun-edona-fainomena/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 15:29:04 +0200",
+          "description": "Η ΕΜΥ εξέδωσε έκτακτο δελτίο καιρού για ισχυρές βροχές και καταιγίδες αύριο Δευτέρα 26 Ιανουαρίου",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-24/maketa-vroxi1.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Φωτιά στην Πάτρα: Νεκρός βρέθηκε 75χρονος στο σπίτι του στον Καστελλόκαμπο",
+          "link": "https://www.newsit.gr/ellada/fotia-stin-patra-nekros-vrethike-75xronos-sto-spiti-tou-ston-kastellokampo/4583015/",
+          "pubDate": "Sun, 25 Jan 2026 13:25:58 +0000",
+          "description": "Τραγικό θάνατο βρήκε ένας άνδρας στην Πάτρα, όπου ξέσπασε φωτιά μέσα στο σπίτι του στον Καστελλόκαμπο την Κυριακή (25.01.2026). Συναγερμός σήμανε στην Πάτρα, έπειτα από ...  \nTo άρθρο Φωτιά στην Πάτρα: Νεκρός βρέθηκε 75χρονος στο σπίτι του στον Καστελλόκαμπο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fotia-patra1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Καλλιρόη Μυριαγκού: «Νιώθω περήφανη για τον Αντώνη Μυριαγκό, του ταιριάζει γάντι ο ρόλος του Καποδίστρια",
           "link": "https://www.newsit.gr/lifestyle/kalliroi-myriagkou-niotho-perifani-gia-ton-antoni-myriagko-tou-tairiazei-ganti-o-rolos-tou-kapodistria/4582965/",
@@ -121,6 +137,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Άρης: Ντεμπούτο του Χόνγκλα κόντρα στον Λεβαδειακό – Αυτή είναι η ενδεκάδα",
+          "link": "https://www.in.gr/2026/01/25/sports/football/aris-me-allages-kai-vasiko-ton-xongkla-kontra-ston-levadeiako/",
+          "pubDate": "Sun, 25 Jan 2026 15:28:25 +0300",
+          "description": "Με τέσσερα νέα πρόσωπα στην ενδεκάδα ο Άρης υποδέχεται σήμερα (25/1, 16.00) τον Λεβαδειακό στο «Κλεάνθης Βικελίδης», ενώ ο Καμερουνέζος χαφ ξεκινάει για πρώτη φορά στο αρχικό σχήμα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Hongla-1200x800-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Σία Κοσιώνη: Παραμένει στην εντατική με σημάδια βελτίωσης",
           "link": "https://www.newsit.gr/ellada/sia-kosioni-paramenei-stin-entatiki-me-simadia-veltiosis/4582983/",
           "pubDate": "Sun, 25 Jan 2026 12:27:29 +0000",
@@ -223,30 +247,6 @@
           "description": "Μετά από ακόμα μία ήττα από την Μπόρνμουθ (3-2) η Λίβερπουλ φαίνεται πως σκέφτεται να κάνει αλλαγή στην τεχνική της ηγεσία με τον Τσάμπι Αλόνσο ...  \nTo άρθρο Η Λίβερπουλ έχει κάνει κρούση στον Τσάμπι Αλόνσο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xabi-alonso-1-1200x847.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ρωσία: Η Μόσχα δεν θα συζητήσει ποτέ με την Κάλας, λέει ο Πεσκόφ",
-          "link": "https://www.in.gr/2026/01/25/world/rosia-mosxa-den-tha-syzitisei-pote-tin-kalas-leei-o-peskof/",
-          "pubDate": "Sun, 25 Jan 2026 15:03:32 +0300",
-          "description": "«Πρέπει απλώς να περιμένουμε μέχρι να φύγει», δήλωσε ο Πεσκόφ για την Κάγια Κάλας",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet-2026-01-25T150018.090-768x526.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Αντρέας Γεωργίου: Τι αποκαλύπτει για τα τελευταία επεισόδια στη «Γη της Ελιάς»",
-          "link": "https://www.in.gr/2026/01/25/go-fun/tv/antreas-georgiou-ti-apokalyptei-gia-ta-teleytaia-epeisodia-sti-gi-tis-elias/",
-          "pubDate": "Sun, 25 Jan 2026 15:02:39 +0300",
-          "description": "Ο Αντρέας Γεωργίου λίγο πριν το φινάλε.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Η-γη-της-ελιάς_Ε_επ.-20-24-3-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Φάλαινα εμφανίστηκε μετά από 87 χρόνια στον Παγασητικό Κόλπο",
-          "link": "https://www.in.gr/2026/01/25/greece/falaina-emfanistike-meta-apo-87-xronia-ston-pagasitiko-kolpo/",
-          "pubDate": "Sun, 25 Jan 2026 15:01:29 +0300",
-          "description": "Η φάλαινα κινείται σε σχετικά μικρή απόσταση από το σκάφος, αναδυόμενη στα ήρεμα νερά του Παγασητικού Κόλπου, προσφέροντας ένα θέαμα που δύσκολα μπορεί να περιγραφεί με λόγια",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/falaina-768x392.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Final round of voting closes in 'sham' Myanmar election",
+          "link": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 13:05:23 GMT",
+          "description": "The party backed by the ruling generals is expected to win a landslide in a country gripped by fear and civil war.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1203/live/ff7eff80-f9e7-11f0-bfcb-015a25c825bf.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Όταν η αστική τέχνη «σκάβει» τη μνήμη της πόλης - Έργα του Βιλς στο Mude της Λισαβόνας",
           "link": "http://gr.euronews.com/culture/2026/01/25/otan-h-astikh-texnh-skabei-th-mnhmh-ths-polhs-erga-toy-bils-sto-mude-ths-lisabonas",
           "pubDate": "Sun, 25 Jan 2026 13:44:46 +0100",
@@ -522,6 +530,14 @@
           "pubDate": "Sun, 25 Jan 2026 12:12:08 GMT",
           "description": "Sir Mark covered some of the defining moments in India's history in a career that spanned decades.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4121/live/0ed9ada0-1c21-11ef-80aa-699d54c46324.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok",
+          "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 11:48:19 GMT",
+          "description": "The singer hit out at Dr Zayn Khalid Majeed - who says he will try to have a positive impact with his content.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1af/live/2102fde0-f7b9-11f0-8a71-ff10b47f652a.jpg",
           "source": "BBC News"
         },
         {
@@ -723,22 +739,6 @@
           "description": "Αυξάνεται οι ένταση ανάμεσα στις δυο γειτονικές χώρες της Βόρειας Αμερικής μετά και την πρόσφατη ομιλία του Καναδού Πρωθυπουργού στο Νταβός",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "«Δεν είναι μακριά» μια συνάντηση Πούτιν-Ζελένσκι δηλώνει Αμερικανός αξιωματούχος",
-          "link": "http://gr.euronews.com/2026/01/24/trimerhs-hpa-rwsias-kai-oykranias-sto-ampoy-ntampi-sto-epikentro-to-ntonmpas",
-          "pubDate": "Sat, 24 Jan 2026 20:15:17 +0100",
-          "description": "Ολοκληρώθηκε ο διάλογος Ουκρανίας - Ρωσίας - ΗΠΑ στο Άμπου Ντάμπι και αναμένεται την άλλη Κυριακή στο ίδιο μέρος νέος γύρος",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Germany arrests suspected Hamas member over alleged attack plot",
-          "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Jan 2026 18:57:09 GMT",
-          "description": "The Lebanese man helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9759/live/98f3f5b0-f945-11f0-b5f7-49f0357294ff.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ατρόμητος: Η υπέροχη κίνηση των «Fentagin» για απινιδωτές στα ΚΕΦΙ του Περιστεριου",
+          "link": "https://www.gazzetta.gr/football/superleague/2510015/atromitos-i-yperohi-kinisi-ton-fentagin-gia-apinidotes-sta-kefi-toy",
+          "pubDate": "Sun, 25 Jan 2026 15:28:48 +0200",
+          "description": "Μία όμορφη πρωτοβουλία πήραν οι οργανωμένοι οπαδοί του Ατρομήτου με γνώμονα να βοηθήσουν τους συνανθρώπους τους στην περιοχή του Περιστερίου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/atromitos_kosmos_intime.jpg?itok=BPFSzvxD",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λυκογιάννης για την αψιμαχία με Μπαρτζώκα: «Κανένα σχόλιο! Ρωτήστε εκείνον!»",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510013/lykogiannis-gia-tin-apsimahia-me-mpartzoka-kanena-sholio-rotiste",
+          "pubDate": "Sun, 25 Jan 2026 15:27:42 +0200",
+          "description": "Ο Άρης Λυκογιάννης τοποθετήθηκε για τη λογομαχία του με τον Γιώργο Μπαρτζώκα λέγοντας πως θα έπρεπε να ερωτηθεί ο προπονητής του Ολυμπιακού για το ζήτημα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/whatsapp_image_2026-01-25_at_15.22.36.jpeg?itok=rjF-S1DB",
+          "source": "Gazzetta"
+        },
         {
           "title": "Άρης: Εκτός και ο Διούδης λόγω ίωσης",
           "link": "https://www.gazzetta.gr/football/superleague/2510011/aris-ektos-kai-o-dioydis-logo-iosis",
@@ -832,6 +848,14 @@
           "pubDate": "Sun, 25 Jan 2026 14:58:29 +0200",
           "description": "Το Μαρόκο φιλοξένησε την 35η έκδοση του Κυπέλλου Εθνών Αφρικής, με την διοργανώτρια χώρα να εξοικονομεί πάνω από 1,5 δισεκατομμύριο ευρώ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/brahim_diaz_morocco.jpg?itok=fB_2uHGB",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο άνθρωπος που κατάφερε να εξαπατήσει όλη τη Ζάκυνθο: Παρίστανε για χρόνια παλαίμαχο άσο της Μάντσεστερ Γιουνάιτεντ",
+          "link": "https://www.gazzetta.gr/plus/2510014/o-anthropos-poy-katafere-na-exapatisei-oli-ti-zakyntho-paristane-gia-hronia-palaimaho",
+          "pubDate": "Sun, 25 Jan 2026 14:53:32 +0200",
+          "description": "Σάλος προκλήθηκε στην Βρετανία όταν από τη Ζάκυνθο έγινε γνωστός ο θάνατος ενός παλαίμαχου άσου της Μάντσεστερ Γιουνάιτεντ, ο οποίος ζούσε τα τελευταία χρόνια στο ελληνικό νησί.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/phgadakia_proponhsh_3.jpg?itok=jD2essdv",
           "source": "Gazzetta"
         },
         {
@@ -960,30 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 13:56:40 +0200",
           "description": "Οι Παναγιώτης και Γιώργος Αγγελόπουλος βρέθηκαν στην εκδήλωση για την ονομασία του κλειστού του Αγίου Δημητρίου σε «Γιώργος Πρίντεζης» και μίλησαν για τον πρώην αρχηγό του Ολυμπιακού.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aggelopouloi.jpg?itok=7cTkRgq8",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πρίντεζης: «Οι αναμνήσεις είναι αυτές που μένουν και σε κάνουν να αγαπάς κάτι»",
-          "link": "https://www.gazzetta.gr/basketball/2509981/printezis-oi-anamniseis-einai-aytes-poy-menoyn-kai-se-kanoyn-na-agapas-kati",
-          "pubDate": "Sun, 25 Jan 2026 13:47:27 +0200",
-          "description": "Ο Γιώργος Πρίντεζης ευχαρίστησε τους προέδρους του Ολυμπιακού εξηγώντας ότι χωρίς εκείνους ενδεχομένως να μην είχε συμβεί αυτή η τιμητική διάκριση με την καριέρα που είχε προηγηθεί",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/printezis_intime.jpg?itok=HvMQ3gl1",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Το μυστήριο του Στόουνχεντζ μπορεί τελικά να λυθεί: Η μελέτη που ανατρέπει τα δεδομένα",
-          "link": "https://www.gazzetta.gr/plus/2509982/mystirio-toy-stooynhentz-mporei-telika-na-lythei-i-meleti-poy-anatrepei-ta-dedomena",
-          "pubDate": "Sun, 25 Jan 2026 13:43:40 +0200",
-          "description": "Μια νέα μελέτη έρχεται να δώσει την εξήγηση για το πώς οι τεράστιες πέτρες του Στόουνχεντζ έφτασαν στην πεδιάδα του Σάλσμπερι.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/k-mitch-hodge-oq9pecond48-unsplash.jpg?itok=frrFeUje",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τα δεδομένα για τις οικονομικές υποχρεώσεις ΑΣ ΠΑΟΚ και Γιέντρικ",
-          "link": "https://www.gazzetta.gr/2509980/ta-dedomena-gia-tis-oikonomikes-ypohreoseis-paok-kai-gientrik",
-          "pubDate": "Sun, 25 Jan 2026 13:38:29 +0200",
-          "description": "Δύο διακριτά οικονομικά ζητήματα που αφορούν τον ΑΣ ΠΑΟΚ ξεχωρίζουν μετά τη συμφωνία για τη μεταβίβαση της ΚΑΕ, με φόντο τόσο τις οφειλές όσο και τη στήριξη στο ΤΑΑ βόλεϊ",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_toumba.jpg?itok=Z0zFDGXQ",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "TikTok USDS: Τέλος στο δράμα της απαγόρευσης με νέα αμερικανική κοινοπραξία",
+          "link": "https://gr.pcmag.com/social-media-1/51106/tiktok-usds-telos-sto-drama-tes-apagoreuses-me-nea-amerikanike-koinopraxia",
+          "pubDate": "Sun, 25 Jan 2026 13:22:21 +0000",
+          "description": "Η ByteDance παραχωρεί τον έλεγχο των δεδομένων των ΗΠΑ σε Oracle, Silver Lake και MGX, διασώζοντας την εφαρμογή την τελευταία στιγμή με τις ευλογίες του Τραμπ.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/t/tiktok-dea/tiktok-deal-is-finally-done-after-all-the-drama-does-it-even_vmyf.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "Samsung Galaxy Watch: Σοβαρό bug στο «Do Not Disturb» αφήνει τις ειδοποιήσεις ενεργές",
           "link": "https://gr.pcmag.com/wearables-1/51105/samsung-galaxy-watch-sobaro-bug-sto-do-not-disturb-aphenei-tis-eidopoieseis-energes",
           "pubDate": "Sun, 25 Jan 2026 13:08:02 +0000",
@@ -1468,14 +1476,6 @@
           "pubDate": "Fri, 23 Jan 2026 13:06:00 +0200",
           "description": "Η AOC εμπλουτίζει την πολυδιάστατη σειρά B3 με δύο νέες οθόνες QHD, σχεδιασμένες για απαιτητικούς χρήστες. Τα μοντέλα Q24B36X 23,8 ιντσών (60,5 εκ) ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/aoc-q27b36x-1.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Χωρίς ανθρώπους, χωρίς φώτα: Ένα αυτοκίνητο κάθε 76 δευτερόλεπτα στα «σκοτεινά» εργοστάσια της Κίνας!",
-          "link": "https://www.techgear.gr/choris-anthropoys-choris-fota-ena-aytokinito-kathe-76-deyterolepta-sta-skoteina-ergostasia-tis-kinas-47294",
-          "pubDate": "Fri, 23 Jan 2026 12:46:00 +0200",
-          "description": "Φανταστείτε ένα κτίριο αχανές, γεμάτο μηχανήματα βαρέος τύπου, όπου επικρατεί απόλυτη ησυχία και, το κυριότερο, απόλυτο σκοτάδι. Δεν υπάρχουν άνθρωποι...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/china-robots-factory.jpg",
           "source": "Techgear"
         }
       ]
