@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T21:20:29.620Z",
+  "lastUpdated": "2026-01-25T21:25:29.871Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΗΠΑ: Πολέμιοι της οπλοκατοχής μετά τον θάνατο του Άλεξ Πρέτι οι Ρεπουμπλικανοί, υπέρμαχοι τώρα οι Δημοκρατικοί",
+          "link": "https://www.newsit.gr/kosmos/ipa-polemioi-tis-oplokatoxis-meta-ton-thanato-tou-aleks-preti-oi-repoumplikanoi-ypermaxoi-tora-oi-dimokratikoi/4583324/",
+          "pubDate": "Sun, 25 Jan 2026 21:22:31 +0000",
+          "description": "Ο Άλεξ Πρέτι, ένας Αμερικανός 37χρονος νοσηλευτής σκοτώθηκε από ομοσπονδιακούς πράκτορες το Σάββατο στη Μινεάπολη. Η κυβέρνηση δικαιολόγησε τον θάνατό του λόγω του γεγονότος ότι ...  \nTo άρθρο ΗΠΑ: Πολέμιοι της οπλοκατοχής μετά τον θάνατο του Άλεξ Πρέτι οι Ρεπουμπλικανοί, υπέρμαχοι τώρα οι Δημοκρατικοί δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alex-pretti-minneapolis-1200x764.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Νέο κύμα κακοκαιρίας με βροχές και καταιγίδες από το πρωί της Δευτέρας, θα πληγεί και η Αττική, «Red Code» για έξι περιφέρειες",
           "link": "https://www.protothema.gr/greece/article/1763237/epistrefei-i-kakokairia-stin-hora-aurio-red-code-gia-exi-perifereies-analutika-i-prognosi/?utm_source=rss",
@@ -95,6 +103,30 @@
           "description": "Σε αναστολή άσκησης καθηκόντων τίθεται από Δευτέρα (26/1/26) η εκπαιδευτικός που εμπλέκεται στο περιστατικό σε σχολική μονάδα στις Σέρρες, όπως ακριβώς προβλέπεται από την κείμενη ...  \nTo άρθρο Σέρρες: Σε αναστολή άσκησης καθηκόντων από τη Δευτέρα η εκπαιδευτικός που φίμωσε μαθητή – Εξηγήσεις ζητάει η υπουργός Παιδείας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kathigitria-serres.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Σε πλήρη πολεμική ετοιμότητα οι ΗΠΑ με την αρμάδα του αεροπλανοφόρου Λίνκολν να φτάνει στη Μέση Ανατολή [βίντεο]",
+          "link": "https://www.in.gr/2026/01/25/world/se-pliri-polemiki-etoimotita-oi-ipa-tin-armada-tou-aeroplanoforou-linkoln-na-ftanei-sti-mesi-anatoli/",
+          "pubDate": "Sun, 25 Jan 2026 23:22:39 +0300",
+          "description": "Εντός 24 ωρών η αμερικανική αρμάδα του αεροπλανοφόρου Λίνκολν θα βρίσκεται στο επιχειρησιακό πεδίο της CENTCOM, περιοχή που περιλαμβάνει και το Ιράν. Τι περιμένουν ΗΠΑ και Ισραήλ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/abraham-Lincoln-Strike-Group-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Μπενφίκα – Εστρέλα Αμαδόρα 4-0: «Καθάρισε» ο Παυλίδης με δύο γκολ",
+          "link": "https://www.in.gr/2026/01/25/sports/football/mpenfika-estrela-amadora-4-0-katharise-o-paylidis-dyo-gkol/",
+          "pubDate": "Sun, 25 Jan 2026 23:22:11 +0300",
+          "description": "Ακόμα δύο γκολ στον λογαριασμό για τον Βαγγέλη Παυλίδη, ακόμα μία νίκη για την Μπενφίκα η οποία διέλυσε με 4-0 την Εστρέλα Αμαδόρα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G1y_mdTXQAAAdki-1024x683-1-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "«Έπεσε πάνω στο τζάμι»: Οι Τζέσι Τάιλερ Φέργκιουσον και Έρικ Στόουνστριτ γελούν ακόμη με στιγμή του Modern Family",
+          "link": "https://www.in.gr/2026/01/25/go-fun/fizz/epese-pano-sto-tzami-oi-tzesi-tailer-fergkiouson-kai-erik-stoounstrit-geloun-akomi-stigmi-tou-modern-family/",
+          "pubDate": "Sun, 25 Jan 2026 23:20:50 +0300",
+          "description": "Σε μια χαλαρή αναδρομή στα χρόνια του Modern Family, οι Τζέσι Τάιλερ Φέργκιουσον και Έρικ Στόουνστριτ θυμούνται το πιο αστείο περιστατικό των γυρισμάτων",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Screenshot-2026-01-25-205521-768x550.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Παναιτωλικός κατά Λανουά: «Αποδείχτηκε ότι δεν μπορούμε να εμπιστευόμαστε τις επιλογές και τις πράξεις του»",
@@ -214,38 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 19:38:37 +0000",
           "description": "Μαραθώνια η διαδικασία των απολογιών των 13 συλληφθέντων, μέλη του κυκλώματος που εξαπατούσε τους καταναλωτές με πειραγμένες αντλίες σε βενζινάδικα. Μέσω παράνομου λογισμικού, εν αγνοία ...  \nTo άρθρο Πειραγμένες αντλίες σε βενζινάδικα: Τέσσερις προφυλακίσεις για το κύκλωμα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/antlia-venzinis-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γερμανία: Πέντε τραυματίες από πυροβολισμούς σε διαμέρισμα στο Βερολίνο – Σε σοβαρή κατάσταση οι δύο",
-          "link": "https://www.newsit.gr/kosmos/germania-pente-traymaties-apo-pyrovolismous-se-diamerisma-sto-verolino-se-sovari-katastasi-oi-dyo/4583274/",
-          "pubDate": "Sun, 25 Jan 2026 19:35:33 +0000",
-          "description": "Πέντε τραυματίες από πυροβολισμούς βρέθηκαν σε ένα διαμέρισμα στην οδό Wichmannstraße, στην περιοχή Tiergarten του Βερολίνου, δύο εκ των οποίων φέρεται να είναι σε σοβαρή ...  \nTo άρθρο Γερμανία: Πέντε τραυματίες από πυροβολισμούς σε διαμέρισμα στο Βερολίνο – Σε σοβαρή κατάσταση οι δύο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/germany-police-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η βαθμολογία της Super League μετά τη νέα «γκέλα» του Παναθηναϊκού, οι φάσεις και τα γκολ της αγωνιστικής",
-          "link": "https://www.newsit.gr/athlitika/i-vathmologia-tis-super-league-meta-ti-nea-gkela-tou-panathinaikou-oi-faseis-kai-ta-gkol-tis-agonistikis/4583237/",
-          "pubDate": "Sun, 25 Jan 2026 19:32:00 +0000",
-          "description": "Νέα βαθμολογική απώλεια για τον Παναθηναϊκό, στην προσπάθεια που κάνει η ομάδα για να μπει στην πρώτη τετράδα του βαθμολογικού πίνακα της Super League. Ο ...  \nTo άρθρο Η βαθμολογία της Super League μετά τη νέα «γκέλα» του Παναθηναϊκού, οι φάσεις και τα γκολ της αγωνιστικής δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/atromitos-panathinaikos-eurokinissi.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Πηνελόπη Αναστασοπούλου για Πέτρο Φιλιππίδη: Είμαι θυμωμένη, αλλά δεν έχω ευχηθεί το κακό κανενός – Δικαιοσύνη ζήτησα",
-          "link": "https://www.in.gr/2026/01/25/go-fun/tv/pinelopi-anastasopoulou-gia-petro-filippidi-eimai-thymomeni-alla-den-exo-eyxithei-kako-kanenos-dikaiosyni-zitisa/",
-          "pubDate": "Sun, 25 Jan 2026 22:30:10 +0300",
-          "description": "«Οι άνθρωποι που αποφασίζουν για το ποιος θα βρίσκεται σε μια σκηνή, αποφασίζουν, ούτως ή άλλως, ερήμην μας. Οπότε, εγώ έκανα ό,τι μπορούσα να κάνω», είπε μεταξύ άλλων η Πηνελόπη Αναστασοπούλου",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/7712_PINELOPI_ANASTASOPOYLOY_29102025-1-768x510.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "New York Times: Ο Χαμενεΐ διέταξε την καταστολή των διαδηλώσεων στο Ιράν «με κάθε μέσο» – «Οργανωμένη σφαγή από το κράτος»",
-          "link": "https://www.newsit.gr/kosmos/new-york-times-o-xamenei-dietakse-tin-katastoli-ton-diadiloseon-sto-iran-me-kathe-meso-organomeni-sfagi-apo-to-kratos/4583242/",
-          "pubDate": "Sun, 25 Jan 2026 19:29:18 +0000",
-          "description": "Διαταγή στο Ανώτατο Συμβούλιο Εθνικής Ασφάλειας του Ιράν να καταστείλει τις διαμαρτυρίες στις 9 Ιανουαρίου χρησιμοποιώντας «όλα τα απαραίτητα μέσα» έδωσε ο ανώτατος ηγέτης Αγιατολάχ ...  \nTo άρθρο New York Times: Ο Χαμενεΐ διέταξε την καταστολή των διαδηλώσεων στο Ιράν «με κάθε μέσο» – «Οργανωμένη σφαγή από το κράτος» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iran-protest-tehran.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ραμάτ Γκαν-Μακάμπι Τελ Αβίβ 91-98: Ο Μπλατ έκανε τη δουλειά",
+          "link": "https://www.gazzetta.gr/basketball/mpasket-israil/2510187/ramat-gkan-makampi-tel-abib-91-98-o-mplat-ekane-ti-doyleia",
+          "pubDate": "Sun, 25 Jan 2026 23:24:25 +0200",
+          "description": "Η Μακάμπι Τελ Αβίβ επιβλήθηκε (98-91) της Ραμάτ Γκαν εκτός έδρας για την 15η αγωνιστική του ισραηλινού πρωταθλήματος.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-06/blatt_maccabi.jpg?itok=fAGVZP1Y",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι Αργυρόπουλος και Κάκαρης στην κορυφαία επτάδα του ευρωπαϊκού πρωταθλήματος",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510185/oi-argyropoylos-kai-kakaris-stin-koryfaia-eptada-toy",
+          "pubDate": "Sun, 25 Jan 2026 23:23:15 +0200",
+          "description": "Οι Στέλιος Αργυρόπουλος και Κωνσταντίνος Κάκαρης είναι ανάμεσα στους επτά παίκτες που συνέθεσαν την κορυφαία ομάδα στο ευρωπαϊκό πρωτάθλημα του Βελιγραδίου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kakaris_0.jpg?itok=H1ZbsoOq",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ευρωπαϊκό Πρωτάθλημα Πόλο: Η απονομή του χάλκινου μεταλλίου στην Εθνική ομάδα (vid)",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-ygroy-stiboy/2510184/eyropaiko-protathlima-polo-i-aponomi-toy-halkinoy",
+          "pubDate": "Sun, 25 Jan 2026 23:22:37 +0200",
+          "description": "Η Εθνική ομάδα πόλο ανδρών ανέβηκε για πρώτη φορά στην ιστορία της στο βάθρο Ευρωπαϊκού Πρωταθλήματος, κατακτώντας το χάλκινο μετάλλιο στη διοργάνωση του Βελιγραδίου. Την απονομή έκαναν ο Γιάννης Βρούτσης και ο Ισίδωρος Κούβελος.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/polo_1.jpg?itok=bhe4JwIc",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ρόμπερτσον: Χαλάει η μεταγραφή του στην Τότεναμ",
+          "link": "https://www.gazzetta.gr/football/premier-league/2510183/rompertson-halaei-i-metagrafi-toy-stin-totenam",
+          "pubDate": "Sun, 25 Jan 2026 23:20:58 +0200",
+          "description": "Η Λίβερπουλ αποφάσισε να απορρίψει την πρόταση της Τότεναμ και να κρατήσει τον Άντι Ρόμπερτσον, σε μια εξέλιξη που μπορεί να επηρεάσει και το μέλλον του Κώστα Τσιμίκα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-11/robertson_1.jpg?itok=dnOaeXo5",
+          "source": "Gazzetta"
+        },
+        {
           "title": "NBA: Αναβλήθηκε το Μπακς-Μάβερικς λόγω καιρικών συνθηκών",
           "link": "https://www.gazzetta.gr/basketball/nba/2510182/nba-anablithike-mpaks-maberiks-logo-kairikon-synthikon",
           "pubDate": "Sun, 25 Jan 2026 23:16:16 +0200",
@@ -953,38 +985,6 @@
           "description": "Ένα άνετο βράδυ πρωταθλήματος για την Μπενφίκα. Με τον Βαγγέλη Παυλίδη να πετυχαίνει δυο γκολ, η ομάδα του Ζοσέ Μουρίνιο επικράτησε εντός έδρας της Εστρέλα ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Εστρέλα με 4-0 δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-reuters-1200x792.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ατρόμητος - Παναθηναϊκός: Τα Highlights του 0-0 στο Περιστέρι",
-          "link": "https://www.gazzetta.gr/football/superleague/2510161/atromitos-panathinaikos-ta-highlights-toy-0-0-sto-peristeri",
-          "pubDate": "Sun, 25 Jan 2026 21:52:27 +0200",
-          "description": "Ο Παναθηναϊκός έμεινε στο 0-0 εναντίον του Ατρομήτου, με την ομάδα του Περιστερίου να χάνει πέναλτι στο 13'.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/0-0.jpg?itok=HYc26qOQ",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πυροβολισμοί στο Βερολίνο: Πέντε τραυματίες - οι δύο σοβαρά",
-          "link": "https://www.gazzetta.gr/plus/2510160/pyrobolismoi-sto-berolino-pente-traymaties-oi-dyo-sobara",
-          "pubDate": "Sun, 25 Jan 2026 21:51:13 +0200",
-          "description": "Συναγερμός στο Βερολίνο μετά από πυροβολισμούς σε διαμέρισμα στην περιοχή Tiergarten. Πέντε άτομα τραυματίστηκαν, δύο είναι σε κρίσιμη κατάσταση, ενώ η αστυνομία έχει προχωρήσει σε συλλήψεις.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/verolino.jpg?itok=I2fGSH7c",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ρεάλ Σοσιεδάδ - Θέλτα 3-1: Νίκη με τριάρα ",
-          "link": "https://www.gazzetta.gr/football/la-liga/2510159/real-sosiedad-thelta-3-1-niki-me-triara",
-          "pubDate": "Sun, 25 Jan 2026 21:51:03 +0200",
-          "description": "Η Ρεάλ Σοσιεδάδ φρέναρε την Θέλτα επικρατώντας με 3-1 και πλησίασε κι άλλο στην 6η θέση που οδηγεί σε ευρωπαϊκή έξοδο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sociedad_0.jpg?itok=8JoECknK",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "LIVE το ΝΒΑ στο Gazzetta",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510057/live-nba-sto-gazzetta",
-          "pubDate": "Sun, 25 Jan 2026 21:45:09 +0200",
-          "description": "Η δράση στο ΝΒΑ συνεχίζεται το βράδυ της Κυριακής 25/1 και τα ξημερώματα της Δευτέρας 26/1 με έξι αναμετρήσεις.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-02/fox_getty.jpg?itok=iTiJDQOn",
-          "source": "Gazzetta"
         }
       ]
     },
