@@ -1,13 +1,41 @@
 {
-  "lastUpdated": "2026-01-25T08:30:31.478Z",
+  "lastUpdated": "2026-01-25T08:35:28.609Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Το 2014 δολοφόνησε τη μητέρα του, σήμερα τον πατέρα του: «Θα σκοτώσω και τα αδέρφια μου» φώναζε στους αστυνομικούς\n",
+          "link": "https://www.protothema.gr/greece/article/1762970/to-2014-dolofonise-ti-mitera-tou-simera-ton-patera-tou-tha-skotoso-kai-ta-aderfia-mou-fonaze-stous-astunomikous/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 10:33:59 +0200",
+          "description": "Στις 2 Απριλίου 2018 αποφυλακίστηκε με διάταξη της εισαγγελίας Πειραιά, εμφανίστηκε στις 16 Ιανουαρίου στο τμήμα ως όφειλε να κάνει",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/glyfada_egklima.jpg"
+        },
+        {
+          "title": "Ολυμπιακός: Τη Δευτέρα στην Αθήνα για τους Πειραιώτες ο Κόρι Τζόζεφ",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-ti-deytera-stin-athina-gia-tous-peiraiotes-o-kori-tzozef/4582871/",
+          "pubDate": "Sun, 25 Jan 2026 08:33:32 +0000",
+          "description": "Ο Κόρι Τζόζεφ θα έρθει στην Ελλάδα τη Δευτέρα (26/01/26) στις 09:00 το πρωί για να ολοκληρώσει τη μεταγραφή του στον Ολυμπιακό. Ο Ολυμπιακός έκανε ...  \nTo άρθρο Ολυμπιακός: Τη Δευτέρα στην Αθήνα για τους Πειραιώτες ο Κόρι Τζόζεφ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/joseph-1200x800.jpg"
+        },
+        {
+          "title": "Τέλος χρόνου για τις υποχρεώσεις των φορολογουμένων: Όλες οι κρίσιμες προθεσμίες μέχρι 31 Ιανουαρίου",
+          "link": "https://www.newsit.gr/oikonomia/xristika/telos-xronou-gia-tis-ypoxreoseis-ton-forologoumenon-oles-oi-krisimes-prothesmies-mexri-31-ianouariou/4581826/",
+          "pubDate": "Sun, 25 Jan 2026 08:30:00 +0000",
+          "description": "Ένα «πακέτο» υποχρεώσεων φέρνει μαζί της η τελευταία εβδομάδα του Ιανουαρίου, με κρίσιμες προθεσμίες να λήγουν για χιλιάδες φορολογούμενους, από ιδιοκτήτες οχημάτων και ακινήτων μέχρι ...  \nTo άρθρο Τέλος χρόνου για τις υποχρεώσεις των φορολογουμένων: Όλες οι κρίσιμες προθεσμίες μέχρι 31 Ιανουαρίου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1308840590-1200x800.jpg"
+        },
+        {
+          "title": "Δέσποινα Βανδή: «Όταν αποχώρησα από το σχήμα του Σφακιανάκη ήμουν στριμωγμένη οικονομικά, αλλά θα το ξαναέκανα»",
+          "link": "https://www.newsit.gr/lifestyle/despoina-vandi-otan-apoxorisa-apo-to-sxima-tou-sfakianaki-imoun-strimogmeni-oikonomika-alla-tha-to-ksanaekana/4582861/",
+          "pubDate": "Sun, 25 Jan 2026 08:29:33 +0000",
+          "description": "Μία άκρως εξομολογητική συνέντευξη παραχώρησε η Δέσποινα Βανδή στην εκπομπή «Τετ α Τετ» και τον Τάσο Τρύφωνος, μιλώντας ανοιχτά για τη ζωή, την καριέρα, τη ...  \nTo άρθρο Δέσποινα Βανδή: «Όταν αποχώρησα από το σχήμα του Σφακιανάκη ήμουν στριμωγμένη οικονομικά, αλλά θα το ξαναέκανα» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vandi-ndp-1200x832.jpg"
+        },
         {
           "title": "Ο Ματίας Αλμέιδα αφιέρωσε τη νίκη στης Σεβίλλης κόντρα στην Μπιλμπάο σε αδικοχαμένο φίλαθλο",
           "link": "https://www.newsit.gr/athlitika/o-matias-almeida-afierose-ti-niki-stis-sevillis-kontra-stin-mpilmpao-se-adikoxameno-filathlo/4582863/",
@@ -91,6 +119,13 @@
           "pubDate": "Sun, 25 Jan 2026 07:34:06 +0000",
           "description": "Ως έναν ήρεμο και συμπονετικό άνθρωπο περιγράφουν συνάδελφοι και φίλοι τον Άλεξ Πρέτι, τον 37χρονο άνδρα που έπεσε νεκρός από πυρά ομοσπονδιακών πρακτόρων της ICE ...  \nTo άρθρο Μινεσότα: Άλεξ Πρέτι, ο 37χρονος νοσηλευτής που δολοφονήθηκε από την ICE – «Ήθελε να βοηθά τους ανθρώπους» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alex-r-minneapolis-1-1200x765.jpg"
+        },
+        {
+          "title": "Γλυφάδα: Οι πρώτες εικόνες μετά την άγρια πατροκτονία – «Το περιμέναμε» λένε οι γείτονες",
+          "link": "https://www.in.gr/2026/01/25/greece/glyfada-oi-protes-eikones-meta-tin-agria-patroktonia-perimename-lene-oi-geitones/",
+          "pubDate": "Sun, 25 Jan 2026 10:32:39 +0300",
+          "description": "Το οικογενειακό δράμα πίσω από το έγκλημα στη Γλυφάδα - «Του λέγαμε καλημέρα, μας έλεγε και εκείνος, αλλά πάντα είχαμε μία σκέψη... επειδή είχαμε ακούσει ότι είχε πολλά ψυχολογικά» λέει γειτόνισσα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/glyfada-egklima25-1-768x437.jpg"
         },
         {
           "title": "Grand Hotel – επόμενα επεισόδια: Πανικός λόγω χολέρας, ο Ρήγας μεταφέρεται στο νοσοκομείο",
@@ -182,41 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 08:49:00 +0200",
           "description": "Δείτε βίντεο από το σημείο - Σκότωσε με μαχαίρι τον πατέρα του - Ο 46χρονος γιος φέρεται να αντιμετωπίζει ψυχολογικά προβλήματα",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-glufada.jpg"
-        },
-        {
-          "title": "Χειμερινές εκπτώσεις: Κυριακή με ανοιχτά τα καταστήματα – Υποτονική η κίνηση παρά τις ελκυστικές τιμές",
-          "link": "https://www.newsit.gr/oikonomia/xristika/xeimerines-ekptoseis-kyriaki-me-anoixta-ta-katastimata-ypotoniki-i-kinisi-para-tis-elkystikes-times/4582802/",
-          "pubDate": "Sun, 25 Jan 2026 06:46:14 +0000",
-          "description": "Ανοικτά θα παραμείνουν και σήμερα (25.1.2026), τα καταστήματα, καθώς είναι η δεύτερη Κυριακή των χειμερινών εκπτώσεων. Συγκεκριμένα, το προτεινόμενο ωράριο λειτουργίας για τα καταστήματα στο ...  \nTo άρθρο Χειμερινές εκπτώσεις: Κυριακή με ανοιχτά τα καταστήματα – Υποτονική η κίνηση παρά τις ελκυστικές τιμές δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1590519676-3-1200x800.jpg"
-        },
-        {
-          "title": "Μινεσότα: Οργή στους δρόμους μετά τη δολοφονία του 37χρονου Άλεξ Πρέτι από την ICE – Νοσοκόμος σε ΜΕΘ το θύμα",
-          "link": "https://www.in.gr/2026/01/25/world/minesota-orgi-stous-dromous-meta-ti-dolofonia-37xronou-aleks-preti-apo-tin-ice-nosokomos-se-meth-thyma/",
-          "pubDate": "Sun, 25 Jan 2026 09:44:21 +0300",
-          "description": "Στη Μινεσότα κλιμακώνονται οι διαδηλώσεις για «τη δεύτερη εν ψυχρώ εκτέλεση», λιγότερο από τρεις εβδομάδες αφότου η Ρενέ Γκουντ πυροβολήθηκε θανάσιμα από πράκτορα της ICE",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T030809Z_1142189058_RC2V7JA6ZGDA_RTRMADP_5_USA-TRUMP-MINNESOTA-768x512.jpg"
-        },
-        {
-          "title": "Καιρός: Τρία διαδοχικά κύματα κακοκαιρίας θα χτυπήσουν τη χώρα – Έρχονται βροχές και ισχυροί άνεμοι",
-          "link": "https://www.newsit.gr/ellada/kairos-tria-diadoxika-kymata-kakokairias-tha-xtypisoun-ti-xora-erxontai-vroxes-kai-isxyroi-anemoi/4582799/",
-          "pubDate": "Sun, 25 Jan 2026 06:43:09 +0000",
-          "description": "Χαλάει ο καιρός από σήμερα Κυριακή (25.01.2026) και τρία διαδοχικά κύματα κακοκαιρίας αναμένεται να χτυπήσουν τη χώρα μέσα στις επόμενες. Τα στοιχεία από την ΕΜΥ ...  \nTo άρθρο Καιρός: Τρία διαδοχικά κύματα κακοκαιρίας θα χτυπήσουν τη χώρα – Έρχονται βροχές και ισχυροί άνεμοι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vroxi-eurok-2-1200x800.jpg"
-        },
-        {
-          "title": "Good Job Nicky: Ποια είναι η 24χρονη τραγουδίστρια που του έχει κλέψει την καρδιά",
-          "link": "https://www.in.gr/2026/01/25/go-fun/fizz/good-job-nicky-poia-einai-24xroni-tragoudistria-pou-tou-exei-klepsei-tin-kardia/",
-          "pubDate": "Sun, 25 Jan 2026 09:38:42 +0300",
-          "description": "O Good Job Nicky είναι ερωτευμένος και δεν το κρύβει.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/7906_GOOD_JOB_NICKY_NIKOLAS_VARTHAKOYRIS_1022024-768x538.jpg"
-        },
-        {
-          "title": "Στην «εποχή Τραμπ» εξωτερική πολιτική δεν γίνεται με φραστικές ακροβασίες",
-          "link": "https://www.in.gr/2026/01/25/editorial/stin-epoxi-tramp-eksoteriki-politiki-den-ginetai-frastikes-akrovasies/",
-          "pubDate": "Sun, 25 Jan 2026 09:37:27 +0300",
-          "description": "Ο πρωθυπουργός ολοένα και περισσότερο με τις δημόσιες δηλώσεις του αποτυπώνει την αμηχανία της κυβέρνησης σε σχέση με τις ελληνοαμερικανικές σχέσεις",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/mitsotakis-trumb-768x547.jpg"
         }
       ]
     },
@@ -224,6 +224,20 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Κ. Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη, διατηρώντας λειτουργικούς διαύλους συνεργασίας με τις ΗΠΑ",
+          "link": "https://www.naftemporiki.gr/politics/2063499/k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa",
+          "pubDate": "Sun, 25 Jan 2026 08:31:30 +0000",
+          "description": "Στις αναταράξεις στις ευρωατλαντικές σχέσεις που σημάδεψαν την εβδομάδα που πέρασε εστιάζει ο πρωθυπουργός Κυριάκος Μητσοάκης στην καθιερωμένη κυριακάτικη ανάρτησή του, τονίζοντας την ανάγκη διατήρησης διαύλων συνεργασίας με τις ΗΠΑ,…\nΚ. Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη, διατηρώντας λειτουργικούς διαύλους συνεργασίας με τις ΗΠΑ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null
+        },
+        {
+          "title": "Κυρανάκης στο “Face 2 Face” για κυκλοφοριακή συμφόρηση: «Η Αθήνα δεν έχει σχεδιαστεί για τέτοια πυκνότητα οχημάτων»",
+          "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-kykloforiaki-symforisi-i-athina-den-exei-sxediastei-gia-tetoia-pyknotita-oximaton/",
+          "pubDate": "Sun, 25 Jan 2026 08:30:48 +0000",
+          "description": "Ο Κωνσταντίνος Κυρανάκης φιλοξενήθηκε την Κυριακή 25 Ιανουαρίου στην εκπομπή “Face 2 Face” με την Κατερίνα Παναγοπούλου, όπου συζητήθηκε εκτενώς το πρόβλημα της κυκλοφοριακής συμφόρησης στην Αθήνα. Η δημοσιογράφος αναφέρθηκε στα μέτρα που εξετάζει το υπουργείο, ανάμεσά τους και την πιθανή απαγόρευση κυκλοφορίας βαρέων οχημάτων από τις 7:00 έως τις 10:00 το πρωί στην Εθνική […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Kyranakis-2-1024x683.jpg"
+        },
         {
           "title": "Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη – Να διατηρήσουμε διαύλους συνεργασίας με τις ΗΠΑ",
           "link": "https://www.tanea.gr/2026/01/25/politics/mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-na-diatirisoume-diaylous-synergasias-me-tis-ipa/",
@@ -237,13 +251,6 @@
           "pubDate": "Sun, 25 Jan 2026 08:02:00 +0000",
           "description": "Ο Αναπληρωτής Υπουργός Μεταφορών, Κωνσταντίνος Κυρανάκης, μίλησε στο “Face 2 Face” και στην Κατερίνα Παναγοπούλου για την ασφάλεια των τρένων στην Ελλάδα, μετά την τραγωδία στα Τέμπη, επισημαίνοντας ότι το βασικό μέλημα είναι η εγκατάσταση πολλαπλών δικλείδων ασφαλείας για να μειωθούν τα ανθρώπινα λάθη. Σύμφωνα με τον ίδιο, η νύχτα του δυστυχήματος χαρακτηρίστηκε από τουλάχιστον […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Konstadinos-Kyranakis-sto-face-to-face.jpg-1024x576.jpeg"
-        },
-        {
-          "title": "Κύκλος Ιδεών: Δέκα χρόνια στο «εργαστήριο» της μεταπολιτικής",
-          "link": "https://www.tovima.gr/2026/01/25/politics/kyklos-ideon-deka-xronia-sto-ergastirio-tis-metapolitikis/",
-          "pubDate": "Sun, 25 Jan 2026 10:28:37 +0300",
-          "description": "Μια δεκαετία παρεμβάσεων στον δημόσιο λόγο, από την κρίση έως τις σύγχρονες προκλήσεις",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/11/venizelos-1024x683.jpg"
         },
         {
           "title": "Ελληνική Αστυνομία: Αυτοί είναι οι νέοι υποστράτηγοι",
@@ -358,20 +365,6 @@
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/4939264-1024x683.jpg"
         },
         {
-          "title": "Γιώργος Φλωρίδης – ΒΗΜΑ Talks: «Πιστεύω ότι η αυτοδυναμία στις επόμενες εκλογές θα είναι εφικτή»",
-          "link": "https://www.tovima.gr/2026/01/24/politics/giorgos-floridis-vima-talks-pisteyo-oti-i-aytodynamia-stis-epomenes-ekloges-tha-einai-efikti/",
-          "pubDate": "Sat, 24 Jan 2026 10:00:20 +0300",
-          "description": "Ο υπουργός Δικαιοσύνης, Γιώργος Φλωρίδης, μιλά στο ΒΗΜΑ Talks για την κρίση εμπιστοσύνης στη Δικαιοσύνη, τη διαδρομή του από το ΠαΣοΚ στη Ν.Δ., τη σχέση πολιτικής και θεσμών και γιατί θεωρεί εφικτή μια νέα αυτοδυναμία Μητσοτάκη.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/23/M_M02334-1024x683.jpg"
-        },
-        {
-          "title": "Μαρία Καρυστιανού: «Άπειρη και πελαγωμένη», ποιοι τη θέλουν μπροστά, ποιοι αντιδρούν",
-          "link": "https://www.tovima.gr/2026/01/24/politics/maria-karystianou-apeiri-kai-pelagomeni-poioi-ti-theloun-mprosta-poioi-antidroun/",
-          "pubDate": "Sat, 24 Jan 2026 09:21:31 +0300",
-          "description": "Η Μαρία Καρυστιανού στην πολιτική αρένα - Το κίνημα βάσης, οι πιέσεις και ο κίνδυνος αποδόμησης",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/07/MARIA-KARYSTIANOU-1024x652.jpg"
-        },
-        {
           "title": "Γ. Παπανδρέου για Σ. Βαλυράκη: «Σήμερα που το κράτος δικαίου δοκιμάζεται ξανά, η στάση του Σήφη δεν είναι απλώς μνήμη: Είναι φάρος»",
           "link": "https://www.naftemporiki.gr/politics/2063163/g-papandreoy-gia-s-valyraki-simera-poy-to-kratos-dikaioy-dokimazetai-xana-i-stasi-toy-sifi-den-einai-aplos-mnimi-einai-faros/?utm_source=rss&utm_medium=rss&utm_campaign=g-papandreoy-gia-s-valyraki-simera-poy-to-kratos-dikaioy-dokimazetai-xana-i-stasi-toy-sifi-den-einai-aplos-mnimi-einai-faros",
           "pubDate": "Fri, 23 Jan 2026 19:55:21 +0000",
@@ -384,20 +377,6 @@
           "pubDate": "Fri, 23 Jan 2026 17:20:47 +0000",
           "description": "«Με τον Σήφη ήμασταν φίλοι. Και ας γεννήθηκε αυτή η φιλία ανάμεσα σε δύο ανθρώπους που πολιτεύτηκαν σε μια εποχή πολιτικού πάθους και σφοδρών συγκρούσεων. Στην εποχή των πράσινων και…\nΑντ. Σαμαράς για τον Σήφη Βαλυράκη: Άδολος πατριώτης που σπανίζει σήμερα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null
-        },
-        {
-          "title": "Κώστας Σημίτης: Η εποχή της Ευρώπης – Φινάλε στις 25 Ιανουαρίου",
-          "link": "https://www.tovima.gr/2026/01/23/politics/kostas-simitis-i-epoxi-tis-eyropis-finale-stis-25-ianouariou/",
-          "pubDate": "Fri, 23 Jan 2026 19:54:49 +0300",
-          "description": "Η σειρά ντοκιμαντέρ του Βήματος για τη ζωή και το έργο του Κώστα Σημίτη ρίχνει αυλαία με ένα επεισόδιο αφιερωμένο στην παρακαταθήκη του εκσυγχρονιστή πρωθυπουργού",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/23/Simitis_Episode_4_ArticleImageTrailer-1024x683.jpg"
-        },
-        {
-          "title": "Σήφης Βαλυράκης: Ανδρουλάκης, Σαμαράς, Παπανδρέου στην εκδήλωση",
-          "link": "https://www.tovima.gr/2026/01/23/politics/sifis-valyrakis-androulakis-samaras-papandreou-stin-ekdilosi/",
-          "pubDate": "Fri, 23 Jan 2026 19:54:10 +0300",
-          "description": "Πλήθος στελεχών, κυρίως από τον χώρο του ΠαΣοΚ στην εκδήλωση της ΕΣΗΕΑ για τον Σήφη Βαλυράκη - Η ομιλία του Αντώνη Σαμαρά",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/23/androulakis-papandreou-samaras2-1024x684.jpg"
         },
         {
           "title": "Επίθεση της Hurriyet στον Ν. Δένδια για τα 12 ναυτικά μίλια – Κάνει λόγο για «πρόκληση στο Αιγαίο»",
@@ -432,6 +411,27 @@
           "link": "https://www.naftemporiki.gr/politics/2062878/syriza-i-lixi-ton-mplokon-den-einai-itta-ton-agroton-alla-afetiria-gia-neoys-agones/?utm_source=rss&utm_medium=rss&utm_campaign=syriza-i-lixi-ton-mplokon-den-einai-itta-ton-agroton-alla-afetiria-gia-neoys-agones",
           "pubDate": "Fri, 23 Jan 2026 13:04:52 +0000",
           "description": "Τον αγώνα των αγροτών και κτηνοτρόφων που συμμετείχαν στα μπλόκα και με τις κινητοποιήσεις τους «έκαναν σαφές ότι δεν θα παραδώσουν την ύπαιθρο στις νεοφιλελεύθερες πολιτικές της κυβέρνησης Μητσοτάκη» χαιρετίζει…\nΣΥΡΙΖΑ: Η λήξη των μπλόκων δεν είναι ήττα των αγροτών, αλλά αφετηρία για νέους αγώνες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null
+        },
+        {
+          "title": "Η Άγκυρα υπονομεύει τη σύγκληση του ΑΣΣ με απαράδεκτη NAVTEX διαρκείας",
+          "link": "https://www.naftemporiki.gr/politics/2062764/i-agkyra-yponomeyei-ti-sygklisi-toy-ass-me-aparadekti-navtex-diarkeias/?utm_source=rss&utm_medium=rss&utm_campaign=i-agkyra-yponomeyei-ti-sygklisi-toy-ass-me-aparadekti-navtex-diarkeias",
+          "pubDate": "Fri, 23 Jan 2026 12:14:20 +0000",
+          "description": "Η Τουρκία «δυναμιτίζει» το κλίμα και τα «ήρεμα νερά» που διέπουν τις ελληνοτουρκικές σχέσεις σε χρόνο που Αθήνα και Άγκυρα αναζητούν ημερομηνίες (εντός του Φεβρουαρίου) για τη διεξαγωγή του Ανώτατου…\nΗ Άγκυρα υπονομεύει τη σύγκληση του ΑΣΣ με απαράδεκτη NAVTEX διαρκείας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null
+        },
+        {
+          "title": "Τουρκία: Η προμήθεια Eurofighter και πόσο αλλάζουν οι ισορροπίες ισχύος – Ο πτέραρχος ε.α. Αθ. Παπανικολάου στο Naftemporiki TV",
+          "link": "https://www.naftemporiki.gr/politics/2062739/toyrkia-i-promitheia-eurofighter-kai-poso-allazoyn-oi-isorropies-ischyos-o-pterarchos-e-a-ath-papanikolaoy-sto-naftemporiki-tv/?utm_source=rss&utm_medium=rss&utm_campaign=toyrkia-i-promitheia-eurofighter-kai-poso-allazoyn-oi-isorropies-ischyos-o-pterarchos-e-a-ath-papanikolaoy-sto-naftemporiki-tv",
+          "pubDate": "Fri, 23 Jan 2026 10:19:56 +0000",
+          "description": "Για τους νέους συσχετισμούς ισχύος που αναμένεται να διαμορφώσει η επικείμενη παραλαβή Eurofighter από την Τουρκία, μίλησε στο κανάλι της Ναυτεμπορικής και στην εκπομπή “Momentum” με τη Μάγκυ Δούση ο…\nΤουρκία: Η προμήθεια Eurofighter και πόσο αλλάζουν οι ισορροπίες ισχύος – Ο πτέραρχος ε.α. Αθ. Παπανικολάου στο Naftemporiki TV - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null
+        },
+        {
+          "title": "Κ. Μητσοτάκης στο Euronews: Όλο και πιο περίπλοκη η διατλαντική σχέση – Η Ευρώπη πρέπει να υπερασπιστεί τα συμφέροντά της",
+          "link": "https://www.naftemporiki.gr/politics/2062688/k-mitsotakis-sto-euronews-olo-kai-pio-periploki-i-diatlantiki-schesi-i-eyropi-prepei-na-yperaspistei-ta-symferonta-tis/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-sto-euronews-olo-kai-pio-periploki-i-diatlantiki-schesi-i-eyropi-prepei-na-yperaspistei-ta-symferonta-tis",
+          "pubDate": "Fri, 23 Jan 2026 08:23:56 +0000",
+          "description": "Οι ευρωατλαντικές σχέσεις γίνονται όλο και πιο περίπλοκες, τόνισε ο πρωθυπουργός Κυριάκος Μητσοτάκης, σε συνέντευξή του στο Euronews, μία ημέρα μετά τη Σύνοδο των 27 στις Βρυξέλλες.\nΚ. Μητσοτάκης στο Euronews: Όλο και πιο περίπλοκη η διατλαντική σχέση – Η Ευρώπη πρέπει να υπερασπιστεί τα συμφέροντά της - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null
         }
       ]
@@ -495,6 +495,13 @@
           "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
           "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
           "thumbnail": null
+        },
+        {
+          "title": "Watch: BBC at protests near scene where Alex Pretti was shot dead",
+          "link": "https://www.bbc.com/news/videos/c6206p2zyyqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 05:45:44 GMT",
+          "description": "Protesters chanted Alex Pretti's name after he became the second person this month to be shot dead by federal agents in Minneapolis.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ed/live/53afe460-f9ad-11f0-b5f7-49f0357294ff.jpg"
         },
         {
           "title": "Video shows moments around fatal shooting in Minneapolis",
@@ -642,13 +649,6 @@
           "pubDate": "Sat, 24 Jan 2026 14:49:30 +0100",
           "description": "Για την καθηγήτρια Γυμνασίου σχηματίστηκε δικογραφία για παράνομη βία και σωματική βλάβη κατά αδύναμων προσώπων",
           "thumbnail": null
-        },
-        {
-          "title": "Παρά την παγωνιά, η Μινεσότα «φλέγεται» - Χιλιάδες στους δρόμους ενάντια στις πρακτικές της ICE",
-          "link": "http://gr.euronews.com/2026/01/24/para-thn-pagwnia-minesota-flegetai-xiliades-stous-dromous-enantia-stis-praktikes-tou-ice",
-          "pubDate": "Sat, 24 Jan 2026 14:19:00 +0100",
-          "description": "Η οργή ξεχειλίζει μετά τη σύλληψη ενός πεντάχρονου και ενός νηπίου από πράκτορες της «υπηρεσίας μετανάστευσης και τελωνειακής επιβολής»",
-          "thumbnail": null
         }
       ]
     },
@@ -657,6 +657,20 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Τη Δευτέρα στην Αθήνα για τους Πειραιώτες ο Κόρι Τζόζεφ",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-ti-deytera-stin-athina-gia-tous-peiraiotes-o-kori-tzozef/4582871/",
+          "pubDate": "Sun, 25 Jan 2026 08:33:32 +0000",
+          "description": "Ο Κόρι Τζόζεφ θα έρθει στην Ελλάδα τη Δευτέρα (26/01/26) στις 09:00 το πρωί για να ολοκληρώσει τη μεταγραφή του στον Ολυμπιακό. Ο Ολυμπιακός έκανε ...  \nTo άρθρο Ολυμπιακός: Τη Δευτέρα στην Αθήνα για τους Πειραιώτες ο Κόρι Τζόζεφ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/joseph-1200x800.jpg"
+        },
+        {
+          "title": "Σεσκ Φάμπρεγας, πόσο underrated είναι ο Τάσος Δουβίκας;",
+          "link": "https://www.gazzetta.gr/football/serie/2509943/sesk-fampregas-poso-underrated-einai-o-tasos-doybikas",
+          "pubDate": "Sun, 25 Jan 2026 10:30:51 +0200",
+          "description": "Η Κόμο έχει κάνει όλη την Ευρώπη να την παρακολουθεί και ο Τάσος Δουβίκας αναδύεται μέσα από αυτή τη λάμψη και την οδηγεί στις ευρωπαϊκές διοργανώσεις.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/douvikas_2.jpg?itok=crgFvF0E"
+        },
+        {
           "title": "Ο Ματίας Αλμέιδα αφιέρωσε τη νίκη στης Σεβίλλης κόντρα στην Μπιλμπάο σε αδικοχαμένο φίλαθλο",
           "link": "https://www.newsit.gr/athlitika/o-matias-almeida-afierose-ti-niki-stis-sevillis-kontra-stin-mpilmpao-se-adikoxameno-filathlo/4582863/",
           "pubDate": "Sun, 25 Jan 2026 08:21:06 +0000",
@@ -664,7 +678,7 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/screenshot-2026-01-25-100645.png"
         },
         {
-          "title": "Κόρι Τζόσεφ: Την Δευτέρα (26/1) στην Ελλάδα ο Καναδός ",
+          "title": "Κόρι Τζόσεφ: Τη Δευτέρα (26/1) στην Ελλάδα ο Καναδός ",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2509941/kori-tzosef-tin-deytera-261-stin-ellada-o-kanados",
           "pubDate": "Sun, 25 Jan 2026 10:15:28 +0200",
           "description": "Ο Κόρι Τζόσεφ αναμένεται την Δευτέρα (26/1) στην Αθήνα για λογαριασμό του Ολυμπιακού.",
@@ -851,20 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 21:49:56 +0000",
           "description": "Ο Γιάννης Αντετοκούνμπο τραυματίστηκε ξανά, σε μία τραγική σεζόν για τους Μιλγουόκι Μπακς και τα σενάρια για το μέλλον του έχουν “φουντώσει” και πάλι, με ...  \nTo άρθρο Γιάννης Αντετοκούνμπο: Συγκεντρώνουν draft picks για το καλοκαίρι οι ομάδες του NBA δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/giannis-2-1200x800.jpg"
-        },
-        {
-          "title": "Serie A: «Κουλούρια» για Λέτσε και Λάτσιο",
-          "link": "https://www.gazzetta.gr/football/serie/2509891/serie-koyloyria-gia-letse-kai-latsio",
-          "pubDate": "Sat, 24 Jan 2026 23:42:21 +0200",
-          "description": "Σε ένα ματς που πιθανότατα θα ξεχαστεί γρήγορα, Λέτσε και Λάτσιο έμειναν στο 0-0.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lecce_lazio.jpg?itok=krZXz7s1"
-        },
-        {
-          "title": "Κίνα: 17χρονος καταδικάστηκε σε 6 χρόνια φυλάκιση για απάτη εκατοντάδων χιλιάδων ευρώ μέσω επιστροφών προϊόντων",
-          "link": "https://www.gazzetta.gr/plus/2509880/kina-17hronos-katadikastike-se-6-hronia-fylakisi-gia-apati-ekatontadon-hiliadon-eyro",
-          "pubDate": "Sat, 24 Jan 2026 23:38:00 +0200",
-          "description": "Έφηβος εκμεταλλεύτηκε κενό επιστροφής χρημάτων σε ηλεκτρονικό κατάστημα και έβγαλε κέρδη άνω των 500.000 δολαρίων. Κατέληξε στη φυλακή για έξι χρόνια.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hack_1.jpg?itok=-K0aS8lT"
         }
       ]
     },
