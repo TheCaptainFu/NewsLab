@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-25T10:41:33.145Z",
+  "lastUpdated": "2026-01-25T10:40:27.267Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 16,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
@@ -755,14 +755,6 @@
           "source": "Gazzetta RSS"
         },
         {
-          "title": "Μισός Έλληνας ο Ράμα, σπούδασε στο Χάρβαρντ με ελληνική υποτροφία",
-          "link": "https://www.gazzetta.gr/plus/2509961/misos-ellinas-o-rama-spoydase-sto-harbarnt-me-elliniki-ypotrofia",
-          "pubDate": "Sun, 25 Jan 2026 12:33:43 +0200",
-          "description": "Η Νίκη Τζαβέλλα αποκάλυψε ότι ο Έντι Ράμα έλαβε, λόγω της μειονοτικής του καταγωγής, υποτροφία από ελληνικό ίδρυμα για να σπουδάσει στο Χάρβαρντ",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/edi-rama-8.jpg?itok=g0C283hL",
-          "source": "Gazzetta RSS"
-        },
-        {
           "title": "O Τζος Χόι «έσπασε» παγκόσμιο ρεκόρ 29 ετών στα 800μ. στον κλειστό στίβο",
           "link": "https://www.gazzetta.gr/stibos/2509959/o-tzos-hoi-espase-pagkosmio-rekor-29-eton-sta-800m-ston-kleisto-stibo",
           "pubDate": "Sun, 25 Jan 2026 12:28:50 +0200",
@@ -985,6 +977,14 @@
           "description": "Ο Ράφα Μπενίτεθ κράτησε κλειστά τα «χαρτιά» του για το ματς με τον Ατρόμητο. Οι παίκτες που φαίνεται πως θα βρεθούν στην ενδεκάδα και το σύστημα που θα χρησιμοποιήσει.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benitez_intime_3.jpg?itok=4kpEqUmm",
           "source": "Gazzetta RSS"
+        },
+        {
+          "title": "NBA: Οι Μπουλς με buzzer beater νίκησαν τους Σέλτικς, ο Ντόντσιτς κορυφαίος στη νίκη των Λέικερς κόντρα στους Μάβερικς",
+          "link": "https://www.newsit.gr/athlitika/nba-oi-mpouls-me-buzzer-beater-nikisan-tous-seltiks-o-ntontsits-koryfaios-sti-niki-ton-leikers-kontra-stous-maveriks/4582850/",
+          "pubDate": "Sun, 25 Jan 2026 07:58:44 +0000",
+          "description": "Οι Σικάγο Μπουλς επικράτησαν με 114-111 των Μπόστον Σέλτικς χάρη στο buzzer beater τρίποντο του Κέβιν Χέρτερ και έφτασαν τις 23 νίκες στο NBA. Ο ...  \nTo άρθρο NBA: Οι Μπουλς με buzzer beater νίκησαν τους Σέλτικς, ο Ντόντσιτς κορυφαίος στη νίκη των Λέικερς κόντρα στους Μάβερικς δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/huerter-1200x800.jpg",
+          "source": "Αθλητικά"
         }
       ]
     },
@@ -1255,14 +1255,6 @@
           "source": "Techgear.gr"
         },
         {
-          "title": "Offline is the new luxury: Το φαινόμενο των dumbphones",
-          "link": "https://www.digitallife.gr/offline-is-the-new-luxury-to-fainomeno-ton-dumbphones-43910/",
-          "pubDate": "Sun, 25 Jan 2026 08:00:03 +0000",
-          "description": "Στις αρχές του 2026, μια απρόσμενη τάση αρχίζει να αναδιαμορφώνει τη σχέση των ανθρώπων με την τεχνολογία. Την ώρα που η τεχνητή νοημοσύνη, τα wearables και η διαρκής συνδεσιμότητα κυριαρχούν, ένα αντίρροπο ρεύμα κερδίζει έδαφος: η επιστροφή των dumbphones. Πρόκειται για απλά κινητά, χωρίς εφαρμογές, social media και αδιάκοπες ειδοποιήσεις, τα οποία υιοθετούν ολοένα και […]\nThe post Offline is the new luxury: Το φαινόμενο των dumbphones appeared first on Digital Life.",
-          "thumbnail": null,
-          "source": "Digital Life"
-        },
-        {
           "title": "AMD Ryzen 7 9850X3D: Ο νέος «βασιλιάς» του gaming έρχεται στις 29 Ιανουαρίου",
           "link": "https://gr.pcmag.com/processors/51103/amd-ryzen-7-9850x3d-o-neos-basilias-tou-gaming-erkhetai-stis-29-ianouariou",
           "pubDate": "Sat, 24 Jan 2026 22:09:00 +0000",
@@ -1335,36 +1327,12 @@
           "source": "PCMag Greece"
         },
         {
-          "title": "Όταν η AI ανεβάζει τις τιμές: Τι φέρνει το 2026 για smartphones, PCs και κονσόλες",
-          "link": "https://www.digitallife.gr/otan-i-ai-anevazei-tis-times-ti-fernei-to-2026-gia-smartphones-pcs-kai-konsoles-68466/",
-          "pubDate": "Fri, 23 Jan 2026 15:01:00 +0000",
-          "description": "Μετά από δύο σχετικά «διστακτικά» χρόνια ανάκαμψης, το 2024 και το 2025, όλα δείχνουν ότι το 2026 ενδέχεται να αποδειχθεί μια ακόμη δύσκολη χρονιά για την παγκόσμια αγορά smartphones — και όχι μόνο. Σύμφωνα με νέες εκτιμήσεις, ο κλάδος κινδυνεύει να επιστρέψει σε αρνητικούς ρυθμούς ανάπτυξης, θυμίζοντας την προβληματική περίοδο 2020–2023. Το πρόβλημα δεν περιορίζεται […]\nThe post Όταν η AI ανεβάζει τις τιμές: Τι φέρνει το 2026 για smartphones, PCs και κονσόλες appeared first on Digital Life.",
-          "thumbnail": null,
-          "source": "Digital Life"
-        },
-        {
-          "title": "Ο Elon Musk ορκίζεται! Τα ρομπότ της Tesla θα διατίθενται προς πώληση μέσα στο 2026!",
-          "link": "https://www.digitallife.gr/o-elon-musk-orkizetai-ta-robot-tis-tesla-tha-diatithentai-pros-polisi-mesa-sto-2026/",
-          "pubDate": "Fri, 23 Jan 2026 15:00:00 +0000",
-          "description": "Ο Elon Musk ανέβηκε στη σκηνή του World Economic Forum στο Νταβός της Ελβετίας και έκανε μία ακόμη εντυπωσιακή ανακοίνωση: τα ανθρωποειδή ρομπότ Optimus της Tesla θα πωλούνται στο κοινό μέχρι το τέλος του 2026. Τα ρομπότ αυτά υπόσχονται να μπορούν να εκτελούν κάθε εργασία που μπορεί να κάνει ένας άνθρωπος — τουλάχιστον θεωρητικά. Όπως […]\nThe post Ο Elon Musk ορκίζεται! Τα ρομπότ της Tesla θα διατίθενται προς πώληση μέσα στο 2026! appeared first on Digital Life.",
-          "thumbnail": null,
-          "source": "Digital Life"
-        },
-        {
           "title": "W: Η Ευρώπη απαντά στον Elon Musk με μια εναλλακτική πλατφόρμα έναντι του X",
           "link": "https://gr.pcmag.com/social-media-1/51093/w-e-europe-apanta-ston-elon-musk-me-mia-enallaktike-platphorma-enanti-tou-x",
           "pubDate": "Fri, 23 Jan 2026 14:51:32 +0000",
           "description": "Με έδρα τη Σουηδία και υποχρεωτική ταυτοποίηση χρηστών, η νέα πλατφόρμα \"W\" υπόσχεται τέλος στην παραπληροφόρηση και πλήρη ανεξαρτησία από τις ΗΠΑ.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/w/w-emerges-/w-emerges-as-x-alternative-aimed-at-combating-systemic-disin_82hf.jpg",
           "source": "PCMag Greece"
-        },
-        {
-          "title": "Η σειρά Redmi Note 15 διαθέσιμη στα καταστήματα Vodafone και στο Vodafone eShop",
-          "link": "https://www.digitallife.gr/i-seira-redmi-note-15-diathesimi-sta-katastimata-vodafone-kai-sto-vodafone-eshop-61172/",
-          "pubDate": "Fri, 23 Jan 2026 14:12:51 +0000",
-          "description": "Η νέα σειρά Redmi Note 15 είναι διαθέσιμη στα καταστήματα Vodafone και στο Vodafone eShop, και φέρνει αναβαθμισμένο σχεδιασμό, ισχυρές επιδόσεις και κορυφαία χαρακτηριστικά σε κάθε κατηγορία. Η σειρά περιλαμβάνει δύο μοντέλα στην κλασική έκδοση, δύο στη σειρά Pro και το κορυφαίο Redmi Note 15 Pro+, καλύπτοντας ένα ευρύ φάσμα αναγκών. Η φετινή σειρά Redmi […]\nThe post Η σειρά Redmi Note 15 διαθέσιμη στα καταστήματα Vodafone και στο Vodafone eShop appeared first on Digital Life.",
-          "thumbnail": null,
-          "source": "Digital Life"
         },
         {
           "title": "GameStop: Τέλος στο σφάλμα «άπειρου χρήματος» με το Nintendo Switch 2",
@@ -1375,28 +1343,12 @@
           "source": "PCMag Greece"
         },
         {
-          "title": "Επιστρέφει το Windows Phone; Android, Linux και Windows 11 σε ένα κινητό",
-          "link": "https://www.digitallife.gr/epistrefei-to-windows-phone-android-linux-kai-windows-11-se-ena-kinito-38609/",
-          "pubDate": "Fri, 23 Jan 2026 14:00:25 +0000",
-          "description": "Σχεδόν δέκα χρόνια μετά την κυκλοφορία του τελευταίου Windows Phone, μια νέα συσκευή υπόσχεται να φέρει ξανά τον αέρα των κινητών της Microsoft. Το NexPhone, που αναμένεται να κυκλοφορήσει αργότερα φέτος, λειτουργεί με Android 16, Linux και Windows 11, προσφέροντας την ευελιξία ενός smartphone αλλά και ενός υπολογιστή μέσα από μία συσκευή. Το NexPhone έχει […]\nThe post Επιστρέφει το Windows Phone; Android, Linux και Windows 11 σε ένα κινητό appeared first on Digital Life.",
-          "thumbnail": null,
-          "source": "Digital Life"
-        },
-        {
           "title": "Ryanair vs Elon Musk: Πώς ο \"πόλεμος\" για το Starlink αύξησε τις πωλήσεις εισιτηρίων",
           "link": "https://gr.pcmag.com/old-travel/51090/ryanair-vs-elon-musk-pos-o-polemos-gia-to-starlink-auxese-tis-poleseis-eisiterion",
           "pubDate": "Fri, 23 Jan 2026 13:51:06 +0000",
           "description": "Ο Michael O’Leary τρολάρει τον Musk με προσφορές για \"ηλίθιους\" και απορρίπτει το δορυφορικό internet λόγω κόστους καυσίμων, παρά τις απειλές για εξαγορά.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/r/ryanair-ce/ryanair-ceo-to-elon-musk-thanks-this-starlink-feud-gave-us-a_p7b8.jpg",
           "source": "PCMag Greece"
-        },
-        {
-          "title": "Παρουσίαση των έξυπνων γυαλιών Mijia Smart Audio Glasses, που συνδυάζουν στυλ και πρακτικότητα",
-          "link": "https://www.digitallife.gr/parousiasi-ton-exypnon-gyalion-mijia-smart-audio-glasses-pou-syndyazoun-styl-kai-praktikotita-15583/",
-          "pubDate": "Fri, 23 Jan 2026 13:34:29 +0000",
-          "description": "Παράλληλα με την κυκλοφορία της σειράς REDMI Note 15, η Xiaomi πρόσθεσε στη σειρά προϊόντων της τα νέα ακουστικά γυαλιά, Mijia Smart Audio Glasses. Συνδυάζοντας το διαχρονικό σχεδιασμό των γυαλιών με την τεχνολογία ανοιχτού αυτιού (open-ear audio technology), τα γυαλιά της Xiaomi διαθέτουν ένα σύστημα ηχείων και 4 ενσωματωμένα μικρόφωνα. Αυτό επιτρέπει στους χρήστες να […]\nThe post Παρουσίαση των έξυπνων γυαλιών Mijia Smart Audio Glasses, που συνδυάζουν στυλ και πρακτικότητα appeared first on Digital Life.",
-          "thumbnail": null,
-          "source": "Digital Life"
         },
         {
           "title": "Ιπτάμενο αεροπλανοφόρο 120.000 τόνων; Το φιλόδοξο σχέδιο της Κίνας που σοκάρει τη Δύση",
@@ -1463,20 +1415,68 @@
           "source": "Techgear.gr"
         },
         {
-          "title": "Η Nova πρωταγωνιστεί και στα Oscars 2026",
-          "link": "https://www.digitallife.gr/i-nova-protagonistei-kai-sta-oscars-2026/",
-          "pubDate": "Fri, 23 Jan 2026 12:09:48 +0000",
-          "description": ". Η Nova, συνεχίζει να πρωταγωνιστεί στα μεγαλύτερα διεθνή βραβεία, αποσπώντας 38 υποψηφιότητες σε όλες τις Premium Κατηγορίες των φετινών “Oscars 2026” για ταινίες που θα προβληθούν αποκλειστικά από τα κανάλια της, τα Novacinema, τον απόλυτο κινηματογραφικό προορισμό! Η ταινία «Sentimental Value» συγκέντρωσε 9 υποψηφιότητες, μεταξύ των οποίων: Καλύτερη Ταινία, Καλύτερη Σκηνοθεσία, Καλύτερο Πρωτότυπο Σενάριο, […]\nThe post Η Nova πρωταγωνιστεί και στα Oscars 2026 appeared first on Digital Life.",
-          "thumbnail": null,
-          "source": "Digital Life"
+          "title": "Αυτά είναι τα νέα πικάπ της Sony",
+          "link": "https://www.techgear.gr/ayta-einai-ta-nea-pikap-tis-sony-47297",
+          "pubDate": "Fri, 23 Jan 2026 13:57:00 +0200",
+          "description": "Η Sony ανακοίνωσε δύο νέα μοντέλα πικάπ, τα PS-LX3BT και PS-LX5BT, τα οποία έχουν σχεδιαστεί για να καθιστούν απλή και εύκολη την απόλαυση του ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/sony-turntable-3.jpg",
+          "source": "Techgear.gr"
         },
         {
-          "title": "Ρεκόρ και ανατροπές στα Όσκαρ 2026 – Τι δείχνουν οι φετινές υποψηφιότητες",
-          "link": "https://www.digitallife.gr/rekor-kai-anatropes-sta-oskar-2026-ti-deichnoun-oi-fetines-ypopsifiotites-87917/",
-          "pubDate": "Fri, 23 Jan 2026 12:00:56 +0000",
-          "description": "Η ανακοίνωση των φετινών υποψηφιοτήτων για τα Όσκαρ άνοιξε και επίσημα μια επτά εβδομάδων περίοδο συζητήσεων, διαφωνιών και προβλέψεων, με την τελετή απονομής να έχει οριστεί για τις 15 Μαρτίου. Όπως κάθε χρόνο, οι λίστες των υποψηφιοτήτων δεν άφησαν κανέναν αδιάφορο, επιβεβαιώνοντας τάσεις αλλά και δημιουργώντας νέες απορίες για τις τελικές επιλογές της Ακαδημίας. Αδιαμφισβήτητος […]\nThe post Ρεκόρ και ανατροπές στα Όσκαρ 2026 – Τι δείχνουν οι φετινές υποψηφιότητες appeared first on Digital Life.",
-          "thumbnail": null,
-          "source": "Digital Life"
+          "title": "PrimeBot: Το ανθρωποειδές τσέπης που χωράει στο σακίδιό σου",
+          "link": "https://www.techgear.gr/primebot-to-anthropoeides-tsepis-poy-choraei-sto-sakidio-soy-47296",
+          "pubDate": "Fri, 23 Jan 2026 13:16:00 +0200",
+          "description": "Η Ρώμη δεν χτίστηκε σε μια μέρα, και όπως φαίνεται, ούτε η ρομποτική επανάσταση. Ωστόσο, η CES 2026 μας επιφύλασσε μια έκπληξη που δείχνει ότι το ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/agibot-prime-q1.jpg",
+          "source": "Techgear.gr"
+        },
+        {
+          "title": "AOC Q24B36X και Q27B36X: Οθόνες QHD για υψηλή απόδοση στην εργασία και ομαλή εμπειρία στο παιχνίδι",
+          "link": "https://www.techgear.gr/aoc-q24b36x-kai-q27b36x-othones-qhd-gia-ypsili-apodosi-stin-ergasia-kai-omali-empeiria-sto-paichnidi-47295",
+          "pubDate": "Fri, 23 Jan 2026 13:06:00 +0200",
+          "description": "Η AOC εμπλουτίζει την πολυδιάστατη σειρά B3 με δύο νέες οθόνες QHD, σχεδιασμένες για απαιτητικούς χρήστες. Τα μοντέλα Q24B36X 23,8 ιντσών (60,5 εκ) ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/aoc-q27b36x-1.jpg",
+          "source": "Techgear.gr"
+        },
+        {
+          "title": "Χωρίς ανθρώπους, χωρίς φώτα: Ένα αυτοκίνητο κάθε 76 δευτερόλεπτα στα «σκοτεινά» εργοστάσια της Κίνας!",
+          "link": "https://www.techgear.gr/choris-anthropoys-choris-fota-ena-aytokinito-kathe-76-deyterolepta-sta-skoteina-ergostasia-tis-kinas-47294",
+          "pubDate": "Fri, 23 Jan 2026 12:46:00 +0200",
+          "description": "Φανταστείτε ένα κτίριο αχανές, γεμάτο μηχανήματα βαρέος τύπου, όπου επικρατεί απόλυτη ησυχία και, το κυριότερο, απόλυτο σκοτάδι. Δεν υπάρχουν άνθρωποι...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/china-robots-factory.jpg",
+          "source": "Techgear.gr"
+        },
+        {
+          "title": "Το Adobe Acrobat μετατρέπει έγγραφα PDF σε podcasts και παρουσιάσεις",
+          "link": "https://www.techgear.gr/to-adobe-acrobat-metatrepei-eggrafa-pdf-se-podcasts-kai-paroysiaseis-47293",
+          "pubDate": "Fri, 23 Jan 2026 12:30:00 +0200",
+          "description": "Η έννοια του ψηφιακού εγγράφου αλλάζει ριζικά. Το Adobe Acrobat, το εργαλείο που επί δεκαετίες αποτελεί συνώνυμο της ανάγνωσης και επεξεργασίας ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/adobe-pdf-to-podcast.jpg",
+          "source": "Techgear.gr"
+        },
+        {
+          "title": "MQ-9B SeaGuardian: Ο νέος «αόρατος» κυνηγός των υποβρυχίων",
+          "link": "https://www.techgear.gr/mq-9b-seaguardian-o-neos-aoratos-kynigos-ton-ypovrychion-47292",
+          "pubDate": "Fri, 23 Jan 2026 12:22:00 +0200",
+          "description": "Μια καθοριστική εξέλιξη στον τομέα της ναυτικής επιτήρησης και του ανθυποβρυχιακού πολέμου (ASW) έλαβε χώρα πρόσφατα στους ουρανούς της Νότιας ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/general-atomics-drone.jpg",
+          "source": "Techgear.gr"
+        },
+        {
+          "title": "Το Android στο στόχαστρο: Malware με νοημοσύνη «βλέπει» και κλικάρει μόνο του",
+          "link": "https://www.techgear.gr/to-android-sto-stochastro-malware-me-noimosyni-vlepei-kai-klikarei-mono-toy-47291",
+          "pubDate": "Fri, 23 Jan 2026 12:17:00 +0200",
+          "description": "Μια ανησυχητική εξέλιξη στον κυβερνοχώρο έρχεται να επιβεβαιώσει τους φόβους των ειδικών ασφαλείας: οι εγκληματίες του διαδικτύου δεν αρκούνται πλέον ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/android-malware.jpg",
+          "source": "Techgear.gr"
+        },
+        {
+          "title": "Πώς το 1Password σε σώζει από το ίδιο σου το λάθος όταν βιάζεσαι να συνδεθείς",
+          "link": "https://www.techgear.gr/pos-to-1password-se-sozei-apo-to-idio-soy-to-lathos-otan-viazesai-na-syndetheis-47290",
+          "pubDate": "Fri, 23 Jan 2026 07:37:00 +0200",
+          "description": "Στον διαρκή πόλεμο της κυβερνοασφάλειας, ο πιο αδύναμος κρίκος παραμένει συχνά ο ανθρώπινος παράγοντας. Ενώ οι αλγόριθμοι κρυπτογράφησης γίνονται όλο ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/1password-ai-anti-phishing.jpg",
+          "source": "Techgear.gr"
         }
       ]
     }
