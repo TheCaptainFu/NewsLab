@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T22:30:34.426Z",
+  "lastUpdated": "2026-01-25T22:35:24.364Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -39,6 +39,14 @@
           "description": "Η Εθνική πόλο ανδρών της Ελλάδας κατέκτησε το χάλκινο μετάλλιο στο ευρωπαϊκό πρωτάθλημα του Βελιγραδίου και ανέβηκε για πρώτη φορά στην ιστορία της στο βάθρο ...  \nTo άρθρο Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grpolo-1200x784.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Πόλο: Συγχαρητήρια του πολιτικού κόσμου στην εθνική ομάδα",
+          "link": "https://www.in.gr/2026/01/26/politics/polo-sygxaritiria-tou-politikou-kosmou-stin-ethniki-omada/",
+          "pubDate": "Mon, 26 Jan 2026 00:30:31 +0300",
+          "description": "Χαρά και υπερηφάνεια για το  πρώτο μετάλλιο της εθνικής ομάδας πόλο σε Ευρωπαϊκό Πρωτάθλημα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/polo-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Αναβλήθηκε το Μιλγουόκι Μπακς – Ντάλας Μάβερικς λόγω κακοκαιρίας στο Τέξας",
@@ -239,14 +247,6 @@
           "description": "Ανακοίνωση με τίτλο «τα ψέματα τελείωσαν» εξέδωσε η ΠΑΕ Παναιτωλικός, μετά την ήττα με 1-0 από τον ΟΦΗ, για την 18η αγωνιστική της Super League. ...  \nTo άρθρο Παναιτωλικός κατά Λανουά: «Αποδείχτηκε ότι δεν μπορούμε να εμπιστευόμαστε τις επιλογές και τις πράξεις του» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ofi-panaitolikos-eurokinissi.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Κακοκαιρία: Σε κατάσταση «Red Code» έξι Περιφερειακές Ενότητες για επικίνδυνα φαινόμενα – Ανησυχία και για την Αττική",
-          "link": "https://www.in.gr/2026/01/25/greece/kakokairia-se-katastasi-red-code-tethikan-eksi-perioxes-se-makedonia-kai-thraki/",
-          "pubDate": "Sun, 25 Jan 2026 23:19:39 +0300",
-          "description": "Μετά από έκτακτη συνεδρίαση της Επιτροπής Εκτίμησης Κινδύνου στην Πολιτική Προστασία σήμανε συναγερμός για επικίνδυνα καιρικά φαινόμενα σε Σέρρες, Δράμα, Καβάλα, Θάσο, Ξάνθη και Ροδόπη",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/094781de-sa.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -1153,14 +1153,6 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Ο Λαφόν τιμώρησε τον Βεργέτη: Απέκρουσε εντυπωσιακά το “πέναλτι” του Μίχορλ!",
-          "link": "https://panathinaikos24.gr/2026/01/25/617671/o-lafon-timorise-ton-vergeti-apekrouse-entyposiaka-to-penalti-tou-mixorl/",
-          "pubDate": "Sun, 25 Jan 2026 18:07:50 +0000",
-          "description": "Τιμώρησε τον Βεργέτη ο Λαφόν, απέκρουσε το -ανύπαρκτο- πέναλτι που καταλόγισε υπέρ του Ατρομήτου!",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6825442.jpg?fit=900%2C541&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
           "title": "ΚΑΤΑΓΓΕΛΙΑ-ΣΟΚ από τον παίκτη που είχε τη σύρραξη με Βεζένκοφ!",
           "link": "https://panathinaikos24.gr/2026/01/25/617661/kataggelia-sok-apo-ton-paikti-pou-eixe-ti-syrraksi-me-vezenkof/",
           "pubDate": "Sun, 25 Jan 2026 17:47:45 +0000",
@@ -1231,6 +1223,14 @@
           "description": "Οι καλύτερες φάσεις και ο τρόπος που ο Παναθηναϊκός πήρε την νίκη κόντρα στο Μαρούσι.\nThe post Παναθηναϊκός – Μαρούσι 92-81 | HIGHLIGHTS appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
+        },
+        {
+          "title": "Τι είπε ο Αταμάν για τις απουσίες του Παναθηναϊκού μετά το ματς κόντρα στο Μαρούσι (video)",
+          "link": "https://panathinaikos24.gr/2026/01/25/617631/ti-eipe-o-ataman-gia-tis-apousies-tou-panathinaikou-meta-to-mats-kontra-sto-marousi-video/",
+          "pubDate": "Sun, 25 Jan 2026 15:53:08 +0000",
+          "description": "Ο κόουτς Αταμάν μίλησε για την κατάσταση της υγείας του Τζέντι Οσμάν, του Κέντρικ Ναν και του Ομέρ Γιουρτσέβεν, ενόψει των επερχόμενων αγωνιστικών υποχρεώσεων του Παναθηναϊκού στην Euroleague.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/image-19.jpg?fit=960%2C540&amp;ssl=1",
+          "source": "Panathinaikos24"
         }
       ]
     },
