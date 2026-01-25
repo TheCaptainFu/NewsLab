@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T08:45:26.676Z",
+  "lastUpdated": "2026-01-25T08:50:29.970Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -225,6 +225,13 @@
       "color": "purple",
       "articles": [
         {
+          "title": "Το πρόγραμμα της Καρυστιανού με τα δικά της λόγια",
+          "link": "https://www.tanea.gr/print/2026/01/25/politics/to-programma-lftis-karystianou-lfme-ta-dika-tis-logia/",
+          "pubDate": "Sun, 25 Jan 2026 08:46:00 +0000",
+          "description": "Ενα μικρό απάνθισμα, μια ιδέα της ουσίας των προγραμματικών δεσμεύσεων που προτίθεται να αναλάβει το νέο κόμμα με βάση τα λεγόμενά της σε συνεντεύξεις, αναρτήσεις και δηλώσεις της",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6804606-1.jpg"
+        },
+        {
           "title": "Κ. Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη, διατηρώντας λειτουργικούς διαύλους συνεργασίας με τις ΗΠΑ",
           "link": "https://www.naftemporiki.gr/politics/2063499/k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa",
           "pubDate": "Sun, 25 Jan 2026 08:31:30 +0000",
@@ -426,13 +433,6 @@
           "pubDate": "Fri, 23 Jan 2026 16:02:10 +0000",
           "description": "Σε σημερινό της δημοσίευμα η τουρκική φιλοκυβερνητική Hurriyet επιτίθεται στην Ελλάδα και τον Νίκο Δένδια, με αφορμή τις πρόσφατες δηλώσεις του Υπουργού Εθνικής Άμυνας για την επέκταση των χωρικών υδάτων.…\nΕπίθεση της Hurriyet στον Ν. Δένδια για τα 12 ναυτικά μίλια – Κάνει λόγο για «πρόκληση στο Αιγαίο» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null
-        },
-        {
-          "title": "Σ. Φάμελλος προς Δανό πρέσβη: Αδιαπραγμάτευτα τα θέματα εδαφικής ακεραιότητας και εθνικής κυριαρχίας",
-          "link": "https://www.naftemporiki.gr/politics/2062985/s-famellos-pros-dano-presvi-adiapragmateyta-ta-themata-edafikis-akeraiotitas-kai-ethnikis-kyriarchias/?utm_source=rss&utm_medium=rss&utm_campaign=s-famellos-pros-dano-presvi-adiapragmateyta-ta-themata-edafikis-akeraiotitas-kai-ethnikis-kyriarchias",
-          "pubDate": "Fri, 23 Jan 2026 15:06:00 +0000",
-          "description": "«Για τον ΣΥΡΙΖΑ-ΠΣ τα ζητήματα της εδαφικής ακεραιότητας και της εθνικής κυριαρχίας δεν είναι διαπραγματεύσιμα», επισήμανε ο πρόεδρος του κόμματος, Σωκράτης Φάμελλος, κατά τη συνάντηση που πραγματοποίησε -με πρωτοβουλία και…\nΣ. Φάμελλος προς Δανό πρέσβη: Αδιαπραγμάτευτα τα θέματα εδαφικής ακεραιότητας και εθνικής κυριαρχίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null
         }
       ]
     },
@@ -546,10 +546,10 @@
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e52/live/0d3f3e30-f94a-11f0-b385-5f48925de19a.jpg"
         },
         {
-          "title": "Εκατοντάδες στο μνημόσυνο για τον Άλεξ Πρέτι, που σκοτώθηκε από συνοριοφύλακα στη Μινεάπολις",
+          "title": "Εκατοντάδες στο μνημόσυνο για τον 37χρονο Άλεξ Πρέτι που σκοτώθηκε στη Μινεάπολη",
           "link": "http://gr.euronews.com/video/2026/01/25/hundreds-gathered-at-a-memorial-for-alex-pretti-the-man-who-was-killed-by-a-border-patrol",
           "pubDate": "Sun, 25 Jan 2026 00:01:39 +0100",
-          "description": "Εκατοντάδες συγκεντρώνονται σε εκδήλωση μνήμης για τον Άλεξ Πρέτι στη Μινεάπολη, για να διαμαρτυρηθούν για τη δολοφονία του.",
+          "description": "Σύμφωνα με την οικογένειά του, ο Πρέτι εργαζόταν ως νοσηλευτής σε μονάδα εντατικής θεραπείας (ΜΕΘ) σε νοσοκομείο του Υπουργείου Υποθέσεων Βετεράνων",
           "thumbnail": null
         },
         {
@@ -657,6 +657,13 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ο Αλμέιδα αφιέρωσε τη νίκη της Σεβίλλης σε οπαδό που έχασε τη ζωή του σε σιδηροδρομικό δυστύχημα!",
+          "link": "https://www.gazzetta.gr/football/la-liga/2509945/o-almeida-afierose-ti-niki-tis-sebillis-se-opado-poy-ehase-ti-zoi-toy-sto",
+          "pubDate": "Sun, 25 Jan 2026 10:48:46 +0200",
+          "description": "Ο Ματίας Αλμέιδα αφιέρωσε τη νίκη της ομάδας του απέναντι στην Αθλέτικ Μπιλμπάο σε 28χρόνο οδηγό που έχασε τη ζωή του στο σιδηροδρομικό ατύχημα της Ισπανίας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/almeyda.jpg?itok=a9_G4f_L"
+        },
+        {
           "title": "ΑΕΚ: Ο παικταράς Γιόβιτς, ο σπουδαίος Στρακόσα και ένα δύσκολο, μα πολύτιμο τρίποντο",
           "link": "https://www.gazzetta.gr/football/superleague/2509942/aek-o-paiktaras-giobits-o-spoydaios-strakosa-kai-ena-dyskolo-ma",
           "pubDate": "Sun, 25 Jan 2026 10:40:00 +0200",
@@ -675,7 +682,7 @@
           "link": "https://www.gazzetta.gr/football/serie/2509943/sesk-fampregas-poso-underrated-einai-o-tasos-doybikas",
           "pubDate": "Sun, 25 Jan 2026 10:30:51 +0200",
           "description": "Η ερώτηση που θα έπρεπε να γίνει στον Σεσκ Φάμπρεγας βλέποντας τον Τάσο Δουβίκα να αναδύεται μέσα από τη λάμψη της Κόμο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/douvikas_2_0.jpg?itok=XUge1L7Z"
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/douvikas_2_1.jpg?itok=pp1fusV9"
         },
         {
           "title": "Εβδομάδα αυξήσεων για ένα εκατομμύριο εργαζόμενους: Τι αλλαγές θα δουν",
@@ -858,13 +865,6 @@
           "pubDate": "Sun, 25 Jan 2026 00:03:43 +0200",
           "description": "Η Παρί επέβαλε πανηγυρικά την κυριαρχία της, διαλύοντας τη Λε Πορτέλ με 120-57 με διαφορά 63 πόντων και πρωταγωνιστή τον Ναντίρ Ιφί.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-06/hifi_pari.jpg?itok=6x7P8Mc8"
-        },
-        {
-          "title": "Βιγιαρεάλ - Ρεάλ Μαδρίτης 0-2: «Απόδραση» με Μπαπέ κι επιστροφή στην κορυφή",
-          "link": "https://www.gazzetta.gr/football/la-liga/2509893/bigiareal-real-madritis-0-2-apodrasi-me-mpape-ki-epistrofi-stin-koryfi",
-          "pubDate": "Sat, 24 Jan 2026 23:57:02 +0200",
-          "description": "Σε ένα ισορροπημένο ματς στο «Θεράμικα», τα γκολ του Κιλιάν Μπαπέ έδωσαν τη λύση στη Ρεάλ που επικράτησε 2-0 επί της Βιγιαρεάλ και βρέθηκε προσωρινά στην κορυφή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mbappe_madrid_1.jpg?itok=6kGGKdPF"
         }
       ]
     },
@@ -872,6 +872,13 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Για το τρίποντο στο Περιστέρι",
+          "link": "https://panathinaikos24.gr/2026/01/25/617541/gia-to-triponto-sto-peristeri/",
+          "pubDate": "Sun, 25 Jan 2026 08:25:02 +0000",
+          "description": "Στο Περιστέρι συνεχίζονται οι αγωνιστικές υποχρεώσεις του Παναθηναϊκού για τη Super League, με το «τριφύλλι» να κοντράρεται με τον Ατρόμητο στο πλαίσιο της 18ης αγωνιστικής (19:30, Novasports).",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/0667986fe7005936090900a6f94c9ab9_XL.jpg?fit=750%2C422&amp;ssl=1"
+        },
         {
           "title": "Παναθηναϊκός: Με φόρα για άλλη μία νίκη",
           "link": "https://panathinaikos24.gr/2026/01/25/617538/panathinaikos-me-fora-gia-alli-mia-niki/",
@@ -1074,13 +1081,6 @@
           "pubDate": "Sat, 24 Jan 2026 13:13:45 +0000",
           "description": "Ο Σαντίνο Αντίνο μίλησε στο PAO TV για την μεταγραφή του υπογραμμίζοντας τον σημαντικό ρόλο που έπαιξε η επικοινωνία του με τον Γιάννη Αλαφούζο και τον Ράφα Μπενίτεθ.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/antino.jpeg?fit=1200%2C800&amp;ssl=1"
-        },
-        {
-          "title": "Εκτός έδρας τριάρα για την Κ19",
-          "link": "https://panathinaikos24.gr/2026/01/24/617474/ektos-edras-triara-gia-tin-k19/",
-          "pubDate": "Sat, 24 Jan 2026 12:54:20 +0000",
-          "description": "Η Κ19 του Παναθηναϊκού επικράτησε με 3-1 εκτός έδρας της αντίστοιχης του Ατρομήτου.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3711.jpeg?fit=1024%2C684&amp;ssl=1"
         }
       ]
     },
