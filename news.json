@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T22:10:29.894Z",
+  "lastUpdated": "2026-01-25T22:15:29.392Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Πετρόπουλος: Κατέβασε το story για το πρόβλημα στα φρένα",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510195/petropoylos-katebase-story-gia-problima-sta-frena",
+          "pubDate": "Mon, 26 Jan 2026 00:12:57 +0200",
+          "description": "Το story που δημοσίευσε στον προσωπικό του λογαριασμό στο Instagram ο Ανδρέας Πετρόπουλος για το πρόβλημα στα φρένα του αυτοκινήτου του το απέσυρε λίγες ώρες αργότερα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/petropoulos_kolossos.jpg?itok=tHAncav6",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Αλαβές - Μπέτις 2-1: Γκέλαραν οι Βερδιμπλάνκος",
           "link": "https://www.gazzetta.gr/football/la-liga/2510192/alabes-mpetis-2-1-gkelaran-oi-berdimplankos",
           "pubDate": "Sun, 25 Jan 2026 23:58:10 +0200",
@@ -977,14 +985,6 @@
           "description": "Τα λόγια του Ράφα Μπενίτεθ στην συνέντευξη Τύπου μετά την γκέλα (0-0) του Παναθηναϊκού με τον Ατρόμητο στο Περιστέρι.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benitez_intime_7.jpg?itok=R_CeLh9E",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Παναιτωλικός κατά Λανουά: «Αποδείχτηκε ότι δεν μπορούμε να εμπιστευόμαστε τις επιλογές και τις πράξεις του»",
-          "link": "https://www.newsit.gr/athlitika/panaitolikos-kata-lanoua-apodeixtike-oti-den-mporoume-na-empisteyomaste-tis-epiloges-kai-tis-prakseis-tou/4583298/",
-          "pubDate": "Sun, 25 Jan 2026 20:20:12 +0000",
-          "description": "Ανακοίνωση με τίτλο «τα ψέματα τελείωσαν» εξέδωσε η ΠΑΕ Παναιτωλικός, μετά την ήττα με 1-0 από τον ΟΦΗ, για την 18η αγωνιστική της Super League. ...  \nTo άρθρο Παναιτωλικός κατά Λανουά: «Αποδείχτηκε ότι δεν μπορούμε να εμπιστευόμαστε τις επιλογές και τις πράξεις του» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ofi-panaitolikos-eurokinissi.jpg",
-          "source": "NewsIT"
         }
       ]
     },
