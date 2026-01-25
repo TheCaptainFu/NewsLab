@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T00:10:27.719Z",
+  "lastUpdated": "2026-01-25T00:15:31.572Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ακραία χιονοθύελλα στις ΗΠΑ – Τουλάχιστον 16 πολιτείες σε κατάσταση έκτακτης ανάγκης",
+          "link": "https://www.in.gr/2026/01/25/world/akraia-xionothyella-stis-ipa-toulaxiston-16-politeies-se-katastasi-ektaktis-anagkis/",
+          "pubDate": "Sun, 25 Jan 2026 02:09:56 +0300",
+          "description": "Τα δύο τρίτα του πληθυσμού των ΗΠΑ βρίσκονται αντιμέτωπα με χιονοθύελλα και ακραίο κρύο. Οι Αρχές προειδοποιούν πως τις επόμενες ώρες το χιόνι και ο πάγος θα εκτείνονται από το Τέξας έως τη Νέα Αγγλία",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/0987-2-768x512.jpg"
+        },
         {
           "title": "Η Ουκρανία βομβάρδισε με πυραύλους και drones τη ρωσική περιφέρεια του Μπέλγκοροντ",
           "link": "https://www.newsit.gr/kosmos/i-oukrania-vomvardise-me-pyraylous-kai-drones-ti-rosiki-perifereia-tou-mpelgkoront/4582753/",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 23:34:10 +0300",
           "description": "Ο Μάρκο Νίκολιτς εξέφρασε την εκτίμηση πως η ΑΕΚ θα έχει αποκτήσει τον μέσο που ψάχνει πριν το ντέρμπι με τον Ολυμπιακό.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6824011-768x553.jpg"
-        },
-        {
-          "title": "Η δραματική έκκληση της μητέρας της Λόρας: «Θέλουμε να ξέρουμε ότι είσαι καλά»",
-          "link": "https://www.in.gr/2026/01/24/greece/dramatiki-ekklisi-tis-miteras-tis-loras-theloume-na-kseroume-oti-eisai-kala/",
-          "pubDate": "Sat, 24 Jan 2026 23:34:02 +0300",
-          "description": "Η μητέρα της 16χρονης μαθήτριας προσπαθεί να εξηγήσει τι μπορεί να την οδήγησε στη φυγή της",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/lora_moth-768x500.jpg"
         }
       ]
     },
