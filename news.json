@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T21:30:33.198Z",
+  "lastUpdated": "2026-01-25T21:35:26.329Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα",
+          "link": "https://www.newsit.gr/athlitika/ethniki-polo-andron-i-aponomi-tou-xalkinou-metalliou-sto-eyropaiko-protathlima/4583323/",
+          "pubDate": "Sun, 25 Jan 2026 21:30:52 +0000",
+          "description": "Η Εθνική πόλο ανδρών της Ελλάδας κατέκτησε το χάλκινο μετάλλιο στο ευρωπαϊκό πρωτάθλημα του Βελιγραδίου και ανέβηκε για πρώτη φορά στην ιστορία της στο βάθρο ...  \nTo άρθρο Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grpolo-1200x784.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Αναβλήθηκε το Μιλγουόκι Μπακς – Ντάλας Μάβερικς λόγω κακοκαιρίας στο Τέξας",
           "link": "https://www.newsit.gr/athlitika/anavlithike-to-milgouoki-mpaks-ntalas-maveriks-logo-kakokairias-sto-teksas/4583327/",
@@ -238,14 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 22:41:26 +0300",
           "description": "Ρεπορτάζ-βόμβα κάνει λόγο για δεδομένη συμφωνία της Λίβερπουλ με τον Τσάμπι Αλόνσο ως το 2027, αφού ο Άρνε Σλοτ είναι «τελειωμένος» από τους «κόκκινους».",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alonso-25126-768x466.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Λέπρα: Όχι απλώς υπάρχει, αλλά πρέπει να τύχει περισσότερης προσοχής",
-          "link": "https://www.in.gr/2026/01/25/world/deutsche-welle/lepra-oxi-aplos-yparxei-alla-prepei-na-tyxei-perissoteris-prosoxis/",
-          "pubDate": "Sun, 25 Jan 2026 22:38:56 +0300",
-          "description": "Σε πολλούς θυμίζει… Μεσαίωνα. Ωστόσο η λέπρα υπάρχει ακόμη. Σύμφωνα με τον ΠΟΥ, το 2024 μόλυνε 471 ανθρώπους τη μέρα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/14688101-768x520.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
+          "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 21:29:31 GMT",
+          "description": "The interior minister condemned the attack, which police say they are investigating.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6584/live/8e1c0d70-fa31-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Η κακοκαιρία Joseph θέτει τη Γαλικία σε κόκκινο συναγερμό λόγω του κινδύνου καταρρακτωδών βροχών",
           "link": "http://gr.euronews.com/green/2026/01/25/i-kakokairia-joseph-thetei-ti-galikia-se-kokkino-synagermo",
           "pubDate": "Sun, 25 Jan 2026 21:21:47 +0100",
@@ -731,14 +739,6 @@
           "description": "Ο πρόεδρος των ΗΠΑ διπλασίασε το προσωπικό, ωστόσο υπάρχουν ανησυχίες σχετικά με την εκπαίδευσή του και τον τρόπο λειτουργίας της υπηρεσίας",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Πλήγματα σε ιρανικές στρατιωτικές υποδομές και κυβερνητικά κτίρια προτείνουν οι IDF στον Τραμπ - «Κρίσιμη αυτή η εβδομάδα» λένε αξιωματούχοι",
-          "link": "http://gr.euronews.com/2026/01/25/plhgmata-se-iranikes-stratiwtikes-ypodomes-kai-kyberhntika-ktiria-proteinoyn-oi-idf-ston-t",
-          "pubDate": "Sun, 25 Jan 2026 08:42:43 +0100",
-          "description": "Σύμφωνα με ισραηλινά ΜΜΕ",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Αναβλήθηκε το Μιλγουόκι Μπακς – Ντάλας Μάβερικς λόγω κακοκαιρίας στο Τέξας",
+          "link": "https://www.newsit.gr/athlitika/anavlithike-to-milgouoki-mpaks-ntalas-maveriks-logo-kakokairias-sto-teksas/4583327/",
+          "pubDate": "Sun, 25 Jan 2026 21:27:41 +0000",
+          "description": "Η αναμέτρηση των Μιλγουόκι Μπακς με τους Ντάλας Μάβερικς στο NBA, αναβλήθηκε οριστικά, εξαιτίας των δυσμενών καιρικών συνθηκών που επικρατούν τις τελευταίες ώρες στο Τέξας. ...  \nTo άρθρο Αναβλήθηκε το Μιλγουόκι Μπακς – Ντάλας Μάβερικς λόγω κακοκαιρίας στο Τέξας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/portis-bucks-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ραμάτ Γκαν-Μακάμπι Τελ Αβίβ 91-98: Ο Μπλατ έκανε τη δουλειά",
           "link": "https://www.gazzetta.gr/basketball/mpasket-israil/2510187/ramat-gkan-makampi-tel-abib-91-98-o-mplat-ekane-ti-doyleia",
@@ -977,14 +985,6 @@
           "description": "Ο 7 φορές παγκόσμιος πρωταθλητής μίλησε για τη νέα αγωνιστική σεζόν της Formula 1 και το γεγονός πως ανυπομονεί περισσότερο από κάθε άλλη χρονιά.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sf26_trackday_thaddeus-2804_579876b9-450d-4388-a18f-e717d89653511.jpg?itok=yv2ko5vD",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Εστρέλα με 4-0",
-          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-petyxe-dyo-gkol-sti-niki-tis-mpenfika-epi-tis-estrela-me-4-0/4583283/",
-          "pubDate": "Sun, 25 Jan 2026 19:55:47 +0000",
-          "description": "Ένα άνετο βράδυ πρωταθλήματος για την Μπενφίκα. Με τον Βαγγέλη Παυλίδη να πετυχαίνει δυο γκολ, η ομάδα του Ζοσέ Μουρίνιο επικράτησε εντός έδρας της Εστρέλα ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Εστρέλα με 4-0 δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-reuters-1200x792.jpg",
-          "source": "NewsIT"
         }
       ]
     },
