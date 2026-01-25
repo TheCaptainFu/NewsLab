@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T12:45:29.940Z",
+  "lastUpdated": "2026-01-25T12:50:30.899Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Σύλληψη έξι ατόμων για διάφορα αδικήματα στη Θεσσαλονίκη",
+          "link": "https://www.protothema.gr/greece/article/1763082/sullipsi-exi-atomon-gia-diafora-adikimata-stin-thessaloniki/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 14:50:11 +0200",
+          "description": "Μεταξύ των συλληφθέντων είναι ένας 17χρονος που αφαίρεσε με χρήση βίας χρηματικά ποσά από παρέα ανηλίκων",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-20/peripoliko_arthrou.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Αντρέας Γεωργίου: Το beef με τον Κωνσταντίνο Βασάλο, το spoiler για τη «Γη της ελιάς» και η εξομολόγηση για την κόρη του",
+          "link": "https://www.newsit.gr/lifestyle/antreas-georgiou-to-beef-me-ton-konstantino-vasalo-to-spoiler-gia-ti-gi-tis-elias-kai-i-eksomologisi-gia-tin-kori-tou/4582966/",
+          "pubDate": "Sun, 25 Jan 2026 12:46:56 +0000",
+          "description": "Μία νέα τηλεοπτική συνέντευξη έδωσε ο Αντρέας Γεωργίου και αναφέρθηκε στη «Γη της ελιάς», τον ερχομό της κόρης του, ενώ ταυτόχρονα έλυσε on και την ...  \nTo άρθρο Αντρέας Γεωργίου: Το beef με τον Κωνσταντίνο Βασάλο, το spoiler για τη «Γη της ελιάς» και η εξομολόγηση για την κόρη του δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/antreas-georgiou-1200x726.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Νεκρός από φωτιά σε σπίτι στην Πάτρα εντοπίστηκε ένας άντρας",
           "link": "https://www.protothema.gr/greece/article/1763081/nekros-apo-fotia-se-spiti-stin-patra-edopistike-enas-adras/?utm_source=rss",
@@ -137,6 +153,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Ν. Κορέα απέναντι στη Β. Κορέα: γιατί το Πεντάγωνο περνά τη σκυτάλη στη Σεούλ",
+          "link": "https://www.in.gr/2026/01/25/world/n-korea-apenanti-sti-v-korea-giati-pentagono-perna-ti-skytali-sti-seoul/",
+          "pubDate": "Sun, 25 Jan 2026 14:45:00 +0300",
+          "description": "Έγγραφο του Αμερικανικού Πενταγώνου δρομολογεί εξελίξεις που πιθανότατα θα ανησυχήσουν τη Σεούλ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/korea-amerikanikes-deinameis-in.gr_-768x511.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "«Ο Τσάμπι Αλόνσο είναι σε επαφές με τη Λίβερπουλ»",
           "link": "https://www.in.gr/2026/01/25/sports/football/o-tsampi-alonso-einai-se-epafes-ti-liverpoul/",
           "pubDate": "Sun, 25 Jan 2026 14:38:17 +0300",
@@ -223,30 +247,6 @@
           "description": "«Κλειδί» αποτελεί η πρώιμη απόκριση των κυττάρων της μύτης, από όπου εισέρχονται στον οργανισμό οι ρινοϊοί, κύριοι ένοχοι για το κοινό κρυολόγημα - ελπίδα για νέες στοχευμένες θεραπείες.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/woman_blow_blowing_nose_hand_chief_grey_blond_female-1079551-1024x710-768x533.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "«Άρρωστοι όπως τα μυστικά μας» – Η Νατάσα Λιόν μιλάει ανοιχτά για την προσπάθεια να παραμείνει νηφάλια",
-          "link": "https://www.in.gr/2026/01/25/go-fun/fizz/arrostoi-opos-ta-mystika-mas-natasa-lion-milaei-anoixta-gia-tin-prospatheia-tis-na-parameinei-nifalia/",
-          "pubDate": "Sun, 25 Jan 2026 14:10:40 +0300",
-          "description": "Η Αμερικανίδα ηθοποιός και σκηνοθέτης, Νατάσα Λιόν, λέει ότι υποτροπίασε μετά από χρόνια νηφαλιότητας: «Η ανάρρωση είναι μια δια βίου διαδικασία».",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-05T003202Z_1523584784_RC2NUIA4YEKL_RTRMADP_5_AWARDS-CRITICS-CHOICE-768x532.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Καναδάς: Μητέρα φτιάχνει παγωτό στο χιόνι στους -15°C και γίνεται viral",
-          "link": "https://www.in.gr/2026/01/25/go-fun/perierga/kanadas-mitera-ftiaxnei-pagoto-sto-xioni-stous-15c-kai-ginetai-viral/",
-          "pubDate": "Sun, 25 Jan 2026 14:10:06 +0300",
-          "description": "Για το παγωτό χρησιμοποίησε μόλις τρία υλικά και στη συνέχεια άφησε το τσουχτερό κρύο να κάνει όλη τη δουλειά",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pagoto-768x457.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ο Ολυμπιακός στη μάχη για τον επιθετικό της Ρίβερ Πλέιτ, Αγκουστίν Ρουμπέρτο",
-          "link": "https://www.newsit.gr/athlitika/o-olympiakos-sti-maxi-gia-ton-epithetiko-tis-river-pleit-agkoustin-roumperto/4582950/",
-          "pubDate": "Sun, 25 Jan 2026 11:10:00 +0000",
-          "description": "Ο Ολυμπιακός φέρεται να είναι στη μάχη για τον επιθετικό της Ρίβερ Πλέιτ, Αγκουστίν, Ρουμπέρτο, σύμφωνα με τον Τούρκο δημοσιογράφο, Εκρέμ Κονούρ. Η μεταγραφική περίοδος ...  \nTo άρθρο Ο Ολυμπιακός στη μάχη για τον επιθετικό της Ρίβερ Πλέιτ, Αγκουστίν Ρουμπέρτο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ruberto-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Όταν η αστική τέχνη «σκάβει» τη μνήμη της πόλης - Έργα του Βιλς στο Mude της Λισαβόνας",
+          "link": "http://gr.euronews.com/culture/2026/01/25/otan-h-astikh-texnh-skabei-th-mnhmh-ths-polhs-erga-toy-bils-sto-mude-ths-lisabonas",
+          "pubDate": "Sun, 25 Jan 2026 13:44:46 +0100",
+          "description": "Τα έργα που έχουν επιλεγεί για την έκθεση αναδεικνύουν τον κεντρικό ρόλο που διαδραματίζουν οι εκδόσεις στην καλλιτεχνική πρακτική του Βιλς, λειτουργώντας ως χώρος πειραματισμού και συνεργασίας με άλλους δημιουργούς",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Περιοδικό TIME: Ο αριθμός των νεκρών από τις διαδηλώσεις στο Ιράν ίσως υπερβαίνει τις 30.000",
           "link": "http://gr.euronews.com/2026/01/25/periodiko-time-arithmos-nekrwn-diadhlwseis-iran-isws-upervainei-30000",
           "pubDate": "Sun, 25 Jan 2026 13:34:04 +0100",
@@ -731,14 +739,6 @@
           "description": "The Lebanese man helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9759/live/98f3f5b0-f945-11f0-b5f7-49f0357294ff.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Αναφορές ότι «μεταφέρθηκε σε υπόγειο καταφύγιο» ο Αγιατολάχ Αλί Χαμενεΐ",
-          "link": "http://gr.euronews.com/2026/01/24/anafores-oti-metaferthike-se-ypogeio-katafygio-o-agiatolax-ali-xamenei",
-          "pubDate": "Sat, 24 Jan 2026 19:31:38 +0100",
-          "description": "«Θα υπερασπιστούμε μέχρι θανάτου» λέει ο ιρανικός στρατός - Κλιμακώνονται οι στρατιωτικές και πολιτικές εντάσεις αλλά και οι φόβοι για άμεση σύγκρουση μεταξύ ΗΠΑ και Ιράν",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -747,7 +747,15 @@
       "color": "green",
       "articles": [
         {
-          "title": "Κολοσσός - Ολυμπιακός: Λογομαχία Μπαρτζώκα - Λυκογιάννη, από μία τεχνική ποινή οι δύο προπονητές",
+          "title": "Κατώτατος μισθός: Η «έκπληξη» στο ποσοστό αύξησής του",
+          "link": "https://www.gazzetta.gr/2436947/boyliazoyn-10-ipeirotikoi-proorismoi-gia-pasha",
+          "pubDate": "Sun, 25 Jan 2026 14:45:00 +0200",
+          "description": "Εντός της εβδομάδας τα υπομνήματα των κοινωνικών εταίρων",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/shutterstock_-_eurw_-_money_-_lefta-xrimata_1.jpg?itok=1bqyhVx-",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κολοσσός - Ολυμπιακός: Λογομαχία Μπαρτζώκα - Λυκογιάννη",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2509992/kolossos-olympiakos-logomahia-mpartzoka-lykogianni-apo-mia-tehniki",
           "pubDate": "Sun, 25 Jan 2026 14:40:47 +0200",
           "description": "Ο Άρης Λυκογιάννης και ο Γιώργος Μπαρτζώκας λογομάχησαν έντονα κατά τη διάρκεια του Κολοσσός Ρόδου - Ολυμπιακός με αποτέλεσμα να δεχθούν από μία τεχνική ποινή.",
@@ -977,14 +985,6 @@
           "description": "Ο Κόρι Τζόσεφ είναι φτιαγμένος για να μπαίνει στο παρκέ, όταν η ομάδα χρειάζεται ένα ηλεκτρικό σοκ για να επιστρέψει στη ζωή. Γεννήθηκε με μία μπάλα στα χέρια, δούλεψε σκληρά, στέφθηκε πρωταθλητής και φέρνει την εμπειρία του στον Ολυμπιακό.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-joseph.jpg?itok=ey5KApzQ",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Άγριος ξυλοδαρμός 13χρονου από ομάδα ανηλίκων: Διακομίστηκε στο νοσοκομείο με κατάγματα",
-          "link": "https://www.gazzetta.gr/plus/2509964/agrios-xylodarmos-13hronoy-apo-omada-anilikon-diakomistike-sto-nosokomeio-me-katagmata",
-          "pubDate": "Sun, 25 Jan 2026 12:45:33 +0200",
-          "description": "Θύμα ξυλοδαρμού έπεσε ανήλικος 13 ετών στον Άλιμο με αποτέλεσμα να διακομιστεί στο νοσοκομείο. Οι δράστες, επίσης ανήλικοι, αναζητούνται από τις αρχές.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-10/ekav.jpg?itok=aA1nudJH",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Με… δέκα ο Αταμάν κόντρα στο Μαρούσι!",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-me-deka-o-ataman-kontra/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-me-deka-o-ataman-kontra",
+          "pubDate": "Sun, 25 Jan 2026 12:48:26 +0000",
+          "description": "Γνωστή έγινε η… δεκάδα του Παναθηναϊκού, για το παιχνίδι της 16ης αγωνιστικής της GBL κόντρα στο Μαρούσι. Στο πλαίσιο της 16ης αγωνιστικής της GBL, ο Παναθηναϊκός υποδέχεται το Μαρούσι, γνωστοποιώντας τη δωδεκάδα με την οποία θα παραταχθεί σε ακόμη μία υποχρέωση πρωταθλήματος. Το «Τριφύλλι» βρίσκεται στη 2η θέση της βαθμολογίας με ρεκόρ 13-1 και παραμένει […]\nThe post Παναθηναϊκός: Με… δέκα ο Αταμάν κόντρα στο Μαρούσι! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/toliopoulos-basket.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Στο Περιστέρι για… αντίδραση ο Παναθηναϊκός! – Η τηλεοπτική μετάδοση του αγώνα",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/sto-peristeri-gia-antidrasi-o-panathin/?utm_source=rss&utm_medium=rss&utm_campaign=sto-peristeri-gia-antidrasi-o-panathin",
@@ -1223,14 +1231,6 @@
           "description": "Η αποκάλυψη του «Όλα Πράσινα», το stand by του Κραλ και το δύσκολο αλλά υπαρκτό σενάριο αγοράς από τη Βερόνα. Σύμφωνα με πληροφορίες που μεταδόθηκαν στην εκπομπή «The Green Reporter» του «Όλα Πράσινα», ο Παναθηναϊκός συνεχίζει να δουλεύει παράλληλα περισσότερα από ένα μεταγραφικά σενάρια για τον άξονα, επιβεβαιώνοντας πως ο σχεδιασμός δεν εξαντλείται σε μία […]\nThe post Παναθηναϊκός: Το προσπαθεί για Σεχ Νιάς για τον άξονα! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/niasse.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Παναθηναϊκός: Ενδείξεις από την Ουνιόν πως ο Κραλ… πλησιάζει! (pic)",
-          "link": "https://trifilara.gr/panathinaikos-endeixeis-apo-tin-ounion-pos-o-kral-plisiazei-pic/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-endeixeis-apo-tin-ounion-pos-o-kral-plisiazei-pic",
-          "pubDate": "Sat, 24 Jan 2026 19:49:30 +0000",
-          "description": "Μια απουσία που δεν περνά απαρατήρητη και ενισχύει την αίσθηση ότι η υπόθεση μπαίνει στην τελική της ευθεία.\nThe post Παναθηναϊκός: Ενδείξεις από την Ουνιόν πως ο Κραλ… πλησιάζει! (pic) appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         }
       ]
     },
