@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-01-25T12:20:26.855Z",
+  "lastUpdated": "2026-01-25T12:25:32.180Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Εκατό μεταρρυθμίσεις και έργα σε 24 τομείς «έδειξε» ο απολογισμός του 2025 και ο προγραμματισμός του 2026",
+          "link": "https://www.newsit.gr/politikh/ekato-metarrythmiseis-kai-erga-se-24-tomeis-edeikse-o-apologismos-tou-2025-kai-o-programmatismos-tou-2026/4582974/",
+          "pubDate": "Sun, 25 Jan 2026 12:19:45 +0000",
+          "description": "Ο απολογισμός της κυβέρνησης για το 2025 και ο προγραμματισμός 2026 βρίσκονται φέτος στο επίκεντρο της επικοινωνιακής στρατηγικής της κυβέρνησης, η οποία επέλεξε να δώσει ...  \nTo άρθρο Εκατό μεταρρυθμίσεις και έργα σε 24 τομείς «έδειξε» ο απολογισμός του 2025 και ο προγραμματισμός του 2026 δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/maximou-2.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Formula 1: Η Audi F1 δημιουργεί τη δική της ακαδημία οδηγών",
+          "link": "https://www.newsit.gr/auto/formula-1-i-audi-f1-dimiourgei-ti-diki-tis-akadimia-odigon/4582482/",
+          "pubDate": "Sun, 25 Jan 2026 12:19:00 +0000",
+          "description": "Δεν είναι μόνο το γεγονός ότι η Audi, με παρελθόν στον μηχανοκίνητο αθλητισμό μπήκε στη Formula 1. Ούτε το γεγονός ότι έχει έναν έμπειρο οδηγό, ...  \nTo άρθρο Formula 1: Η Audi F1 δημιουργεί τη δική της ακαδημία οδηγών δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/audi-f1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Μετονομάστηκε σε «Γιώργος Πρίντεζης» το κλειστό του Αγίου Δημητρίου – «Οι στιγμές που ξεκινάς είναι αυτές που μένουν»",
           "link": "https://www.newsit.gr/athlitika/metonomastike-se-giorgos-printezis-to-kleisto-tou-agiou-dimitriou-oi-stigmes-pou-ksekinas-einai-aytes-pou-menoun/4582976/",
@@ -231,22 +247,6 @@
           "description": "Σε κρίσιμη φάση μπαίνουν οι διαπραγματεύσεις για τη νέα Κοινή Αγροτική Πολιτική (ΚΑΠ) μετά το 2028, με την Ελλάδα να επιδιώκει τη διατήρηση ή και ...  \nTo άρθρο Διαπραγματεύσεις για τη νέα ΚΑΠ: Στόχος η στήριξη των πόρων για την Ελλάδα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ampeli-trugos-eurokinissi1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Γλυφάδα: Ο 46χρονος έψαχνε να σκοτώσει τον πατέρα του, όταν δολοφόνησε τη μητέρα του το 2014",
-          "link": "https://www.newsit.gr/ellada/glyfada-o-46xronos-epsaxne-na-skotosei-ton-patera-tou-otan-dolofonise-ti-mitera-tou-to-2014/4582939/",
-          "pubDate": "Sun, 25 Jan 2026 10:42:30 +0000",
-          "description": "Πολλά είναι τα ερωτήματα που εγείρει η υπόθεση της δολοφονίας του του 80χρονου στη Γλυφάδα το πρωί της Κυριακής από τα χέρια του γιου του. ...  \nTo άρθρο Γλυφάδα: Ο 46χρονος έψαχνε να σκοτώσει τον πατέρα του, όταν δολοφόνησε τη μητέρα του το 2014 δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/glifada-dolofonia1-1200x675.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Εντοπίστηκαν 36 παράνομοι μετανάστες στη Χίο, συνελήφθη αλλοδαπός διακινητής μετά από καταδίωξη",
-          "link": "https://www.protothema.gr/greece/article/1763024/edopistikan-36-paranomoi-metanastes-sti-hio-sunelifthi-allodapos-diakinitis-meta-apo-katadioxi/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 12:41:28 +0200",
-          "description": "Οι μετανάστες μεταφέρθηκαν στην Κλειστή Ελεγχόμενη Δομή της Χίου",
-          "thumbnail": "https://i1.prth.gr/images/w640/1/jpg/files/2026-01-25/%CE%B1%CE%B9_%CF%80%CF%80%CE%BB%CF%83_900_2e16d0ba_fill-900x400.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Στα όρια της ρήξης η Νέα Αριστερά – Σκληρή επίθεση Νίκου Βούτση στον Αλέξη Τσίπρα ",
+          "link": "https://www.naftemporiki.gr/politics/2063557/sta-oria-tis-rixis-i-nea-aristera-skliri-epithesi-nikoy-voytsi-ston-alexi-tsipra/?utm_source=rss&utm_medium=rss&utm_campaign=sta-oria-tis-rixis-i-nea-aristera-skliri-epithesi-nikoy-voytsi-ston-alexi-tsipra",
+          "pubDate": "Sun, 25 Jan 2026 12:22:39 +0000",
+          "description": "Με ανοικτό τον κίνδυνο διάσπασης συνεχίζεται το προγραμματικό συνέδριο της Νέας Αριστεράς και ενώ στο παρασκήνιο είναι σε εξέλιξη προσπαθείς για έναν συμβιβασμό που θα περιλαμβάνεται στην πολιτική πρόταση του.…\nΣτα όρια της ρήξης η Νέα Αριστερά – Σκληρή επίθεση Νίκου Βούτση στον Αλέξη Τσίπρα  - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Γ. Χατζηθεοδοσίου: Είναι στις προθέσεις μου να θέσω υποψηφιότητα για περιφερειάρχης Αττικής",
           "link": "https://www.naftemporiki.gr/politics/2063533/g-chatzitheodosioy-einai-stis-protheseis-moy-na-theso-ypopsifiotita-gia-perifereiarchis-attikis/?utm_source=rss&utm_medium=rss&utm_campaign=g-chatzitheodosioy-einai-stis-protheseis-moy-na-theso-ypopsifiotita-gia-perifereiarchis-attikis",
@@ -295,14 +303,6 @@
           "source": "Τα Νέα"
         },
         {
-          "title": "Τα «αγκάθια» για τις αλλαγές στο Σύνταγμα",
-          "link": "https://www.tovima.gr/print/politics/ta-agkathia-gia-tis-allages-sto-syntagma/",
-          "pubDate": "Sun, 25 Jan 2026 12:49:00 +0300",
-          "description": "Τι θα γίνει με τον νόμο περί ευθύνης υπουργών και τη μονιμότητα των δημοσίων υπαλλήλων - Το πολυσυζητημένο άρθρο 16 για τα πανεπιστήμια και η απόφαση του Συμβουλίου της Επικρατείας",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/30/vouli-synnefa-1024x679.jpg",
-          "source": "Το Βήμα"
-        },
-        {
           "title": "Κυρανάκης στο “Face 2 Face”: Είμαι προϊόν καλοκαιρινού έρωτα στη Σκιάθο – Δεν του κρατάω κακία, είναι ο βιολογικός μου πατέρας",
           "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-tin-sxesi-me-ton-patera-tou-krato-mia-epafi-mazi-tou-oi-epiloges-tou-kathenos-einai-sevastes/",
           "pubDate": "Sun, 25 Jan 2026 09:30:58 +0000",
@@ -335,14 +335,6 @@
           "source": "Τα Νέα"
         },
         {
-          "title": "Μητσοτάκης: Όχι σε αντιπαράθεση, αλλά σε συνεννόηση με τους συμμάχους μας",
-          "link": "https://www.tovima.gr/2026/01/25/politics/mitsotakis-oxi-se-antiparathesi-alla-se-synennoisi-me-tous-symmaxous-mas/",
-          "pubDate": "Sun, 25 Jan 2026 11:42:50 +0300",
-          "description": "«Επιδιώκουμε ενεργό ευρωπαϊκό ρόλο στη Γάζα και στη Μέση Ανατολή» έγραψε ο Κυριάκος Μητσοτάκης στην εβδομαδιαία ανασκόπησή του",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/09/mitsotakis-kyriakos-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
           "title": "Κ. Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη, διατηρώντας λειτουργικούς διαύλους συνεργασίας με τις ΗΠΑ",
           "link": "https://www.naftemporiki.gr/politics/2063499/k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa",
           "pubDate": "Sun, 25 Jan 2026 08:31:30 +0000",
@@ -373,22 +365,6 @@
           "description": "Ο Αναπληρωτής Υπουργός Μεταφορών, Κωνσταντίνος Κυρανάκης, μίλησε στο “Face 2 Face” και στην Κατερίνα Παναγοπούλου για την ασφάλεια των τρένων στην Ελλάδα, μετά την τραγωδία στα Τέμπη, επισημαίνοντας ότι το βασικό μέλημα είναι η εγκατάσταση πολλαπλών δικλείδων ασφαλείας για να μειωθούν τα ανθρώπινα λάθη. Αναφέρθηκε ακόμη στον τρόπο αντιμετώπισης της κυκλοφοριακής συμφόρησης, στο επεισόδιο με […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Konstadinos-Kyranakis-sto-face-to-face.jpg-1024x576.jpeg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Ντοκιμαντέρ για τον Σημίτη – Τελευταίο Επεισόδιο: Η παρακαταθήκη",
-          "link": "https://www.tovima.gr/2026/01/25/politics/kostas-simitis-i-epoxi-tis-eyropis-ena-ntokimanter-apo-to-vima/",
-          "pubDate": "Sun, 25 Jan 2026 10:29:50 +0300",
-          "description": "ΤΟ ΒΗΜΑ φωτίζει τις κρίσιμες στιγμές της πολιτικής διαδρομής του Κώστα Σημίτη, μέσα από μαρτυρίες στενών συνεργατών, φίλων, αλλά και πολιτικών αντιπάλων του, σε μια συναρπαστική σειρά ντοκιμαντέρ τεσσάρων επεισοδίων",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/25/Simitis_Episode_4_ArticleImageCleverStory-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Κύκλος Ιδεών: Δέκα χρόνια στο «εργαστήριο» της μεταπολιτικής",
-          "link": "https://www.tovima.gr/2026/01/25/politics/kyklos-ideon-deka-xronia-sto-ergastirio-tis-metapolitikis/",
-          "pubDate": "Sun, 25 Jan 2026 10:28:37 +0300",
-          "description": "Μια δεκαετία παρεμβάσεων στον δημόσιο λόγο, από την κρίση έως τις σύγχρονες προκλήσεις",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/11/venizelos-1024x683.jpg",
-          "source": "Το Βήμα"
         },
         {
           "title": "Ελληνική Αστυνομία: Αυτοί είναι οι νέοι υποστράτηγοι",
@@ -491,6 +467,30 @@
           "link": "https://www.naftemporiki.gr/politics/2063176/nomoschedio-energi-machi-ti-allazei-me-toys-kanones-emplokis-sto-pyrosvestiko-soma/?utm_source=rss&utm_medium=rss&utm_campaign=nomoschedio-energi-machi-ti-allazei-me-toys-kanones-emplokis-sto-pyrosvestiko-soma",
           "pubDate": "Sat, 24 Jan 2026 09:41:15 +0000",
           "description": "Αντίστροφα μετρά ο χρόνος για το νέο νομοσχέδιο του Υπουργείου Κλιματικής Κρίσης και Πολιτικής Προστασίας με τίτλο «Ενεργή Μάχη» καθώς τη Δευτέρα 26/01 λήγει η δημόσια διαβούλευση.\nΝομοσχέδιο «Ενεργή Μάχη»: Τι αλλάζει με τους Κανόνες Εμπλοκής στο Πυροσβεστικό Σώμα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Π. Παυλόπουλος από Αίγινα: «Ο Καποδίστριας είναι ο ιδρυτής του Νεότερου Ελληνικού Κράτους»",
+          "link": "https://www.naftemporiki.gr/politics/2063236/p-paylopoylos-apo-aigina-o-kapodistrias-einai-o-idrytis-toy-neoteroy-ellinikoy-kratoys/?utm_source=rss&utm_medium=rss&utm_campaign=p-paylopoylos-apo-aigina-o-kapodistrias-einai-o-idrytis-toy-neoteroy-ellinikoy-kratoys",
+          "pubDate": "Sat, 24 Jan 2026 09:38:08 +0000",
+          "description": "Με κεντρικό θέμα «Ο Ιωάννης Καποδίστριας ως ιδρυτής του Νεότερου Ελληνικού Κράτους» μίλησε στην Αίγινα ο πρώην Πρόεδρος της Δημοκρατίας, Ακαδημαϊκός και Επίτιμος Καθηγητής της Νομικής Σχολής του ΕΚΠΑ, Προκόπιος…\nΠ. Παυλόπουλος από Αίγινα: «Ο Καποδίστριας είναι ο ιδρυτής του Νεότερου Ελληνικού Κράτους» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Γ. Παπανδρέου για Σ. Βαλυράκη: «Σήμερα που το κράτος δικαίου δοκιμάζεται ξανά, η στάση του Σήφη δεν είναι απλώς μνήμη: Είναι φάρος»",
+          "link": "https://www.naftemporiki.gr/politics/2063163/g-papandreoy-gia-s-valyraki-simera-poy-to-kratos-dikaioy-dokimazetai-xana-i-stasi-toy-sifi-den-einai-aplos-mnimi-einai-faros/?utm_source=rss&utm_medium=rss&utm_campaign=g-papandreoy-gia-s-valyraki-simera-poy-to-kratos-dikaioy-dokimazetai-xana-i-stasi-toy-sifi-den-einai-aplos-mnimi-einai-faros",
+          "pubDate": "Fri, 23 Jan 2026 19:55:21 +0000",
+          "description": "«Ο Σήφης Βαλυράκης μας λείπει. Λείπει ως πατέρας, ως αδελφός, ως σύντροφος – σύντροφος στη ζωή και σύντροφος στους αγώνες. Μας λείπει όμως και ως εκείνη η σπάνια μορφή ανθρώπου…\nΓ. Παπανδρέου για Σ. Βαλυράκη: «Σήμερα που το κράτος δικαίου δοκιμάζεται ξανά, η στάση του Σήφη δεν είναι απλώς μνήμη: Είναι φάρος» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Αντ. Σαμαράς για τον Σήφη Βαλυράκη: Άδολος πατριώτης που σπανίζει σήμερα",
+          "link": "https://www.naftemporiki.gr/politics/2063059/ant-samaras-gia-s-valyraki-adolos-patriotis-pone-iroika-as-min-to-xechasoyme-pote/?utm_source=rss&utm_medium=rss&utm_campaign=ant-samaras-gia-s-valyraki-adolos-patriotis-pone-iroika-as-min-to-xechasoyme-pote",
+          "pubDate": "Fri, 23 Jan 2026 17:20:47 +0000",
+          "description": "«Με τον Σήφη ήμασταν φίλοι. Και ας γεννήθηκε αυτή η φιλία ανάμεσα σε δύο ανθρώπους που πολιτεύτηκαν σε μια εποχή πολιτικού πάθους και σφοδρών συγκρούσεων. Στην εποχή των πράσινων και…\nΑντ. Σαμαράς για τον Σήφη Βαλυράκη: Άδολος πατριώτης που σπανίζει σήμερα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Μανδάς: Αποχαιρέτησε τους συμπαίκτες του στη Λάτσιο τώρα... Μπόρνμουθ",
+          "link": "https://www.gazzetta.gr/football/premier-league/2509988/mandas-apohairetise-toys-sympaiktes-toy-sti-latsio-tora-mpornmoyth",
+          "pubDate": "Sun, 25 Jan 2026 14:24:23 +0200",
+          "description": "Μετά την αναμέτρηση με τη Λέτσε, ο Χρήστος Μανδάς αποχαιρέτησε τους συμπαίκτες του και πλέον ετοιμάζεται να φορέσει τη φανέλα της Μπόρνμουθ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-04/mandas_1.jpg?itok=h1rYQL66",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μετονομάστηκε σε «Γιώργος Πρίντεζης» το κλειστό του Αγίου Δημητρίου – «Οι στιγμές που ξεκινάς είναι αυτές που μένουν»",
           "link": "https://www.newsit.gr/athlitika/metonomastike-se-giorgos-printezis-to-kleisto-tou-agiou-dimitriou-oi-stigmes-pou-ksekinas-einai-aytes-pou-menoun/4582976/",
           "pubDate": "Sun, 25 Jan 2026 12:11:26 +0000",
@@ -977,14 +985,6 @@
           "description": "Ο Τζος Χόι με 1:42.50 κατέρριψε παγκόσμιο ρεκόρ 29 ετών στα 800μ. στον κλειστό στίβο σε μίτινγκ στη Βοστώνη.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/josh_hoey_gettyimages-2206321116.jpg?itok=ogtn7-M1",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Δουβίκας: «Ο Μπενίτεθ μου δίδαξε πολλά, σπουδαίος προπονητής ο Φάμπρεγκας»",
-          "link": "https://www.newsit.gr/athlitika/douvikas-o-mpeniteth-mou-didakse-polla-spoudaios-proponitis-o-fampregkas/4582930/",
-          "pubDate": "Sun, 25 Jan 2026 10:28:26 +0000",
-          "description": "Ο Τάσος Δουβίκας κάνει τρομερή χρονιά με τη φανέλα της Κόμο στη Serie A και σε δηλώσεις του στην Gazzeta dello Sport αναφέρθηκε στον Ράφα ...  \nTo άρθρο Δουβίκας: «Ο Μπενίτεθ μου δίδαξε πολλά, σπουδαίος προπονητής ο Φάμπρεγκας» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/douvikas-1-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
