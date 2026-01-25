@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T21:45:28.539Z",
+  "lastUpdated": "2026-01-25T21:50:25.956Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -87,6 +87,14 @@
           "description": "Η πολική κακοκαιρία εξακολουθεί να κρατά «αιχμάλωτες» τις ΗΠΑ. Μία μεγάλη χιονοθύελλα κατευθύνεται προς τις βορειοανατολικές πολιτείες, αφού έπληξε προηγουμένως πολλές στα κεντρικά και τα ...  \nTo άρθρο Κακοκαιρία στις ΗΠΑ: H μεγάλη χιονοθύελλα άφησε χωρίς ρεύμα 900.000 νοικοκυριά και επιχειρήσεις – Ακυρώθηκαν 15.000 πτήσεις δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-weather1-25012026.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Κρίσιμα ορυκτά: Κυρίαρχη η Λατινική Αμερική – Το «Τρίγωνο του Λιθίου»",
+          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/krisima-orykta-kyriarxi-latiniki-ameriki-trigono-tou-lithiou/",
+          "pubDate": "Sun, 25 Jan 2026 23:46:06 +0300",
+          "description": "Η παγκόσμια ζήτηση για κρίσιμα ορυκτά θα μπορούσε να αυξηθεί από 28 εκατ. τόνους το 2021 σε σχεδόν 41 εκατ. έως το 2040.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/minerals-768x542.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Ράφα Μπενίτεθ: «Θέλαμε να προφυλάξουμε παίκτες, αδύνατον να στηρίζεσαι σε λίγους με τρεις διοργανώσεις»",
@@ -239,14 +247,6 @@
           "description": "Συνεδριάζει το Υπουργικό Συμβούλιο υπό τον Κυριάκο Μητσοτάκη. Τα θέματα που θα επικεντρωθεί η συνεδρίαση.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ipourgiko-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Εστρέλα με 4-0",
-          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-petyxe-dyo-gkol-sti-niki-tis-mpenfika-epi-tis-estrela-me-4-0/4583283/",
-          "pubDate": "Sun, 25 Jan 2026 19:55:47 +0000",
-          "description": "Ένα άνετο βράδυ πρωταθλήματος για την Μπενφίκα. Με τον Βαγγέλη Παυλίδη να πετυχαίνει δυο γκολ, η ομάδα του Ζοσέ Μουρίνιο επικράτησε εντός έδρας της Εστρέλα ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Εστρέλα με 4-0 δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-reuters-1200x792.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ατρόμητος - Παναθηναϊκός: «Καθαρό πέναλτι στον Ούρονεν»",
+          "link": "https://www.gazzetta.gr/football/superleague/2510190/atromitos-panathinaikos-katharo-penalti-ston-oyronen",
+          "pubDate": "Sun, 25 Jan 2026 23:48:49 +0200",
+          "description": "Παράπονα στον Ατρόμητο για τον μη καταλογισμό πέναλτι στο 3' σε ματς με τον Παναθηναϊκό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/atromitos_-_panathinaikos_6.jpg?itok=0K9M8XIX",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Παναθηναϊκός: Αν ο Μπενίτεθ δεν αντιλαμβάνεται τον κίνδυνο... ",
           "link": "https://www.gazzetta.gr/football/superleague/2510189/panathinaikos-o-mpeniteth-den-antilambanetai-ton-kindyno",
           "pubDate": "Sun, 25 Jan 2026 23:40:07 +0200",
@@ -807,7 +815,7 @@
           "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-ygroy-stiboy/2510184/eyropaiko-protathlima-polo-i-aponomi-toy-halkinoy",
           "pubDate": "Sun, 25 Jan 2026 23:22:37 +0200",
           "description": "Η Εθνική ομάδα πόλο ανδρών ανέβηκε για πρώτη φορά στην ιστορία της στο βάθρο Ευρωπαϊκού Πρωταθλήματος, κατακτώντας το χάλκινο μετάλλιο στη διοργάνωση του Βελιγραδίου. Την απονομή έκαναν ο Γιάννης Βρούτσης και ο Ισίδωρος Κούβελος.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/polo_1.jpg?itok=bhe4JwIc",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/medal_water_polo.jpg?itok=SryNWayk",
           "source": "Gazzetta"
         },
         {
@@ -976,14 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 22:07:25 +0200",
           "description": "Ο Παναιτωλικός με ανακοίνωση του εξέφρασε τα παράπονα του για τη διαιτησία του αγώνα με τον ΟΦΗ και τόνισε πως πλέον δεν μπορεί να εμπιστεύεται τον Στεφάν Λανουά.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/lanua_4.jpg?itok=vdBNlGE-",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παρτίζαν-Ιγκοκέα 90-84: Ζορίστηκαν αλλά νίκησαν οι Σέρβοι",
-          "link": "https://www.gazzetta.gr/basketball/aba-liga/2510166/partizan-igkokea-90-84-zoristikan-alla-nikisan-oi-serboi",
-          "pubDate": "Sun, 25 Jan 2026 22:02:50 +0200",
-          "description": "Η Παρτίζαν επικράτησε δύσκολα της Ιγκοκέα με 90-84 για την Αδριατική Λίγκα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/partizan_0.jpg?itok=bjXEDOhi",
           "source": "Gazzetta"
         }
       ]
