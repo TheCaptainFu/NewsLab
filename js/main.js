@@ -249,11 +249,20 @@ function renderNews(categories) {
                                     </h3>
                                     ${longDescription ? `<p class="text-zinc-400 text-base leading-relaxed mb-6 line-clamp-4">${longDescription}</p>` : ''}
                                     <div class="mt-auto">
-                                        ${art.source ? `<p class="text-zinc-500 text-sm mb-4">Πηγή: ${art.source}</p>` : ''}
+                                        ${art.source ? `<p class="text-white text-sm mb-4">Πηγή: ${art.source}</p>` : ''}
                                         <div class="flex items-center justify-between pt-4 border-t border-zinc-800">
-                                            <span class="text-white text-sm font-medium flex items-center gap-2">
-                                                <i class="fa-solid fa-clock"></i> ${relativeTime}
-                                            </span>
+                                            <div class="flex items-center gap-3">
+                                                <span class="text-white text-sm font-medium flex items-center gap-2">
+                                                    <i class="fa-solid fa-clock"></i> ${relativeTime}
+                                                </span>
+                                                <button 
+                                                    onclick="handleShareClick(event, '${art.link.replace(/'/g, "\\'")}')"
+                                                    class="text-zinc-400 hover:text-white transition-colors p-2 hover:bg-zinc-800 rounded-lg"
+                                                    title="Αντιγραφή link"
+                                                >
+                                                    <i class="fa-solid fa-share-nodes text-sm"></i>
+                                                </button>
+                                            </div>
                                             <span class="${styles.readMore} text-sm font-semibold opacity-100 flex items-center gap-2">
                                                 Διαβάστε περισσότερα <i class="fa-solid fa-arrow-right"></i>
                                             </span>
@@ -290,9 +299,18 @@ function renderNews(categories) {
                                 </h3>
                                 ${description ? `<p class="text-zinc-400 text-sm leading-relaxed mb-3 line-clamp-3">${description}</p>` : ''}
                                 <div class="mt-auto">
-                                    ${art.source ? `<p class="text-zinc-500 text-xs mb-3">Πηγή: ${art.source}</p>` : ''}
-                                    <div class="flex items-center justify-between pt-2 border-t border-zinc-800">
-                                        <span class="text-white text-xs">🕒 ${relativeTime}</span>
+                                    ${art.source ? `<p class="text-white text-xs mb-4">Πηγή: ${art.source}</p>` : ''}
+                                    <div class="flex items-center justify-between pt-4 border-t border-zinc-800">
+                                        <div class="flex items-center gap-2">
+                                            <span class="text-white text-xs">🕒 ${relativeTime}</span>
+                                            <button 
+                                                onclick="handleShareClick(event, '${art.link.replace(/'/g, "\\'")}')"
+                                                class="text-zinc-400 hover:text-white transition-colors p-1.5 hover:bg-zinc-800 rounded"
+                                                title="Αντιγραφή link"
+                                            >
+                                                <i class="fa-solid fa-share-nodes text-xs"></i>
+                                            </button>
+                                        </div>
                                         <span class="${styles.readMore} text-xs opacity-100">Διαβάστε →</span>
                                     </div>
                                 </div>
@@ -584,11 +602,90 @@ function startAutoRefresh() {
 }
 
 // ============================================================================
+// SHARE FUNCTIONALITY
+// ============================================================================
+function copyToClipboard(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+        return navigator.clipboard.writeText(text);
+    } else {
+        // Fallback for older browsers
+        const textArea = document.createElement('textarea');
+        textArea.value = text;
+        textArea.style.position = 'fixed';
+        textArea.style.opacity = '0';
+        document.body.appendChild(textArea);
+        textArea.select();
+        try {
+            document.execCommand('copy');
+            document.body.removeChild(textArea);
+            return Promise.resolve();
+        } catch (err) {
+            document.body.removeChild(textArea);
+            return Promise.reject(err);
+        }
+    }
+}
+
+function showToast(message) {
+    // Remove existing toast if any
+    const existingToast = document.getElementById('shareToast');
+    if (existingToast) {
+        existingToast.remove();
+    }
+    
+    // Create toast element
+    const toast = document.createElement('div');
+    toast.id = 'shareToast';
+    toast.className = 'fixed bottom-4 right-4 bg-green-600 text-white px-6 py-3 rounded-lg shadow-2xl z-50 flex items-center gap-2';
+    toast.style.opacity = '0';
+    toast.style.transform = 'translateY(20px)';
+    toast.style.transition = 'opacity 0.3s, transform 0.3s';
+    toast.innerHTML = `
+        <i class="fa-solid fa-check-circle"></i>
+        <span>${message}</span>
+    `;
+    
+    document.body.appendChild(toast);
+    
+    // Animate in
+    setTimeout(() => {
+        toast.style.opacity = '1';
+        toast.style.transform = 'translateY(0)';
+    }, 10);
+    
+    // Remove after 3 seconds
+    setTimeout(() => {
+        toast.style.opacity = '0';
+        toast.style.transform = 'translateY(20px)';
+        setTimeout(() => {
+            if (toast.parentNode) {
+                toast.parentNode.removeChild(toast);
+            }
+        }, 300);
+    }, 3000);
+}
+
+function handleShareClick(event, articleLink) {
+    event.preventDefault();
+    event.stopPropagation();
+    
+    copyToClipboard(articleLink)
+        .then(() => {
+            showToast('🔗 Το link αντιγράφηκε!');
+        })
+        .catch((err) => {
+            console.error('Failed to copy:', err);
+            showToast('❌ Αποτυχία αντιγραφής');
+        });
+}
+
+// ============================================================================
 // INITIALIZATION
 // ============================================================================
 window.getNews = getNews;
 window.filterByCategory = filterByCategory;
 window.loadMoreArticles = loadMoreArticles;
+window.handleShareClick = handleShareClick;
 
 window.addEventListener('DOMContentLoaded', () => {
     console.log('🚀 CaptainNews.gr - Flat Data Edition');
