@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T04:25:26.918Z",
+  "lastUpdated": "2026-01-25T04:30:30.471Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Καιρός: Τρία κύματα κακοκαιρίας από σήμερα με βροχές και ισχυρούς νοτιάδες  \n",
+          "link": "https://www.protothema.gr/greece/article/1762895/kairos-tria-kumata-kakokairias-apo-simera-me-vrohes-kai-ishurous-notiades/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 06:28:03 +0200",
+          "description": "Πολλές βροχές και πάνω από τα κανονικά επίπεδα θερμοκρασίας σύμφωνα με τον Κολυδά – Για φαινόμενα σε Αττική, Ιόνιο και Αιγαίο, προειδοποιεί ο Αρναούτογλου",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-03/xrwma-vroxi.jpg"
+        },
         {
           "title": "Βενεζουέλα: Η προσωρινή πρόεδρος Ροδρίγκες λέει πως θα επιδιώξει «συμφωνίες με την αντιπολίτευση»",
           "link": "https://www.in.gr/2026/01/25/world/venezouela-prosorini-proedros-rodrigkes-leei-pos-tha-epidioksei-symfonies-tin-antipoliteysi/",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 20:59:00 +0000",
           "description": "Η ΑΕΛ Novibet νίκησε δύσκολα με 1-0 τον Πανσερραϊκό στη “μάχη” των ουραγών της Super League, στη 18η αγωνιστική, με τους Σερραίους να είναι έξαλλοι ...  \nTo άρθρο Πανσερραϊκός: «Αίσχος και μαύρη ημέρα για το ελληνικό ποδόσφαιρο» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/serres-1-1200x800.jpg"
-        },
-        {
-          "title": "Τραγωδία στην Πάτρα – Nεκροί δύο νέοι σε τροχαίο στην Παραλία",
-          "link": "https://www.in.gr/2026/01/24/greece/tragodia-stin-patra-nekroi-dyo-neoi-se-troxaio-stin-paralia/",
-          "pubDate": "Sat, 24 Jan 2026 23:58:51 +0300",
-          "description": "Το ΙΧ καρφώθηκε σε κολώνα με υπερβολική ταχύτητα - Δυστυχώς, οι δύο επιβαίνοντες του οχήματος, περίπου 19 ετών, ένα αγόρι και ένα κορίτσι, ανασύρθηκαν νεκροί από τα συντρίμμια.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trox_pat4-768x511.jpg"
         }
       ]
     },
