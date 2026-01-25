@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T18:55:27.908Z",
+  "lastUpdated": "2026-01-25T19:00:36.800Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κρίσεις Διευθυντών Ελληνικής Αστυνομίας: Ποιοι προήχθησαν, ποιοι διατηρούνται και ποιοι αποστρατεύονται\n",
+          "link": "https://www.protothema.gr/greece/article/1763208/kriseis-dieuthudon-ellinikis-astunomias-poioi-proihthisan-poioi-diatiroudai-kai-poioi-apostrateuodai/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 20:58:58 +0200",
+          "description": "Μετά τις κρίσεις των Ταξιάρχων, το Ανώτατο Συμβούλιο έκρινε προακτέους 32 Αστυνομικούς Διευθυντές για κάλυψη οργανικών θέσεων",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-05-12/gada23-mkt.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Γιουβέντους – Νάπολι 3-0: Την διέλυσε μέσα στο Τορίνο και την πλησίασε στο βαθμό",
           "link": "https://www.newsit.gr/athlitika/giouventous-napoli-3-0-tin-dielyse-mesa-sto-torino-kai-tin-plisiase-sto-vathmo/4583241/",
@@ -239,14 +247,6 @@
           "description": "Η Εθνική πόλο ανδρών έγραψε ιστορία στο ευρωπαϊκό πρωτάθλημα υδατοσφαίρισης του Βελιγραδίου! Η Ελλάδα “βούλιαξε” την Ιταλία στον “μικρό” τελικό της διοργάνωσης (5-12) και κατέκτησε ...  \nTo άρθρο Ιταλία – Ελλάδα 5-12: Ιστορικό χάλκινο μετάλλιο για την Εθνική πόλο ανδρών στο ευρωπαϊκό με ανεπανάληπτο Ζερδεβά δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ethniki-polo-andron-eurokinissi-5.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ατρόμητος – Παναθηναϊκός live για την 18η αγωνιστική της Super League",
-          "link": "https://www.newsit.gr/athlitika/atromitos-panathinaikos-live-gia-tin-18i-agonistiki-tis-super-league/4583040/",
-          "pubDate": "Sun, 25 Jan 2026 17:15:21 +0000",
-          "description": "Ο Παναθηναϊκός αντιμετωπίζει εκτός έδρας τον Ατρόμητο για την 18η αγωνιστική της Super League, με τις δύο ομάδες να ψάχνουν το τρίποντο για να ανέβουν ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός live για την 18η αγωνιστική της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/siopis-1-1200x799.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Θερμά συγχαρητήρια από τον Πρόεδρο της Δημοκρατίας στους αθλητές της Εθνικής Πόλο",
+          "link": "https://www.naftemporiki.gr/politics/2063674/therma-sygcharitiria-apo-ton-proedro-tis-dimokratias-stoys-athlites-tis-ethnikis-polo/?utm_source=rss&utm_medium=rss&utm_campaign=therma-sygcharitiria-apo-ton-proedro-tis-dimokratias-stoys-athlites-tis-ethnikis-polo",
+          "pubDate": "Sun, 25 Jan 2026 19:00:08 +0000",
+          "description": "«Έδωσαν τον καλύτερό τους εαυτό και πέτυχαν μια σημαντική διάκριση για τον ελληνικό αθλητισμό». Τα θερμα του συγχαρητήρια έδωσε ο Πρόεδρος της Δημοκρατίας Κωνσταντίνος Τασούλας στους αθλητές της Εθνικής Ομάδας…\nΘερμά συγχαρητήρια από τον Πρόεδρο της Δημοκρατίας στους αθλητές της Εθνικής Πόλο - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "«Συγκινημένοι και υπερήφανοι» – Τα συγχαρητήρια του Κυριάκου Μητσοτάκη στην Εθνική Πόλο",
           "link": "https://www.naftemporiki.gr/politics/2063670/sygkinimenoi-kai-yperifanoi-ta-sygcharitiria-toy-kyriakoy-mitsotaki-stin-ethniki-polo/?utm_source=rss&utm_medium=rss&utm_campaign=sygkinimenoi-kai-yperifanoi-ta-sygcharitiria-toy-kyriakoy-mitsotaki-stin-ethniki-polo",
@@ -485,14 +493,6 @@
           "description": "Ο Αναπληρωτής Υπουργός Μεταφορών, Κωνσταντίνος Κυρανάκης, μίλησε στο “Face 2 Face” και στην Κατερίνα Παναγοπούλου για την ασφάλεια των τρένων στην Ελλάδα, μετά την τραγωδία στα Τέμπη, επισημαίνοντας ότι το βασικό μέλημα είναι η εγκατάσταση πολλαπλών δικλείδων ασφαλείας για να μειωθούν τα ανθρώπινα λάθη. Αναφέρθηκε ακόμη στον τρόπο αντιμετώπισης της κυκλοφοριακής συμφόρησης, στο επεισόδιο με […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Konstadinos-Kyranakis-sto-face-to-face.jpg-1024x576.jpeg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Ντοκιμαντέρ για τον Σημίτη – Τελευταίο Επεισόδιο: Η παρακαταθήκη",
-          "link": "https://www.tovima.gr/2026/01/25/politics/kostas-simitis-i-epoxi-tis-eyropis-ena-ntokimanter-apo-to-vima/",
-          "pubDate": "Sun, 25 Jan 2026 10:29:50 +0300",
-          "description": "ΤΟ ΒΗΜΑ φωτίζει τις κρίσιμες στιγμές της πολιτικής διαδρομής του Κώστα Σημίτη, μέσα από μαρτυρίες στενών συνεργατών, φίλων, αλλά και πολιτικών αντιπάλων του, σε μια συναρπαστική σειρά ντοκιμαντέρ τεσσάρων επεισοδίων",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/25/Simitis_Episode_4_ArticleImageCleverStory-1024x683.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -603,6 +603,14 @@
           "description": "Ο Αμερικανός Αλεξ Χόλοντ έφτασε στην κορυφή του κτιρίου σε περίπου μιάμιση ώρα με εκατομμύρια κόσμου να παρακολουθούν live την προσπάθειά του",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "Cyclist wins Australia race despite being knocked off by Kangaroo",
+          "link": "https://www.bbc.com/sport/cycling/articles/cgez09jl05wo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 14:16:37 GMT",
+          "description": "Australian Jay Vine wins the Tour Down Under - despite being knocked off his bike in a crash caused by a kangaroo.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a808/live/014610a0-f9f8-11f0-b385-5f48925de19a.jpg",
+          "source": "BBC News"
         },
         {
           "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
@@ -731,14 +739,6 @@
           "description": "Συνολικά, οι γυναίκες χάνουν περίπου 75 εκατομμύρια χρόνια υγιούς ζωής ετησίως. Ισοδυναμεί με μια εβδομάδα υγείας που χάνει κάθε γυναίκα, σύμφωνα με νέα έκθεση.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Φέτος, η θέα των ανθισμένων κερασιών στην Ιαπωνία μπορεί να είναι απρόσμενα προσιτή",
-          "link": "http://gr.euronews.com/travel/2026/01/25/this-year-could-be-a-surprisingly-affordable-time-to-see-japans-cherry-blossoms",
-          "pubDate": "Sun, 25 Jan 2026 07:00:36 +0100",
-          "description": "Τόσο τα μεμονωμένα ταξίδια όσο και τα πακέτα διακοπών εμφανίζουν φέτος πιο ανταγωνιστικές τιμές.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΟΦΗ - Παναιτωλικός: «Αιχμές» Αναστασίου για τη διαιτησία ",
+          "link": "https://www.gazzetta.gr/football/superleague/2510137/ofi-panaitolikos-aihmes-anastasioy-gia-ti-diaitisia",
+          "pubDate": "Sun, 25 Jan 2026 20:59:15 +0200",
+          "description": "Ο Γιάννης Αναστασίου μετά την ήττα του Παναιτωλικού από τον ΟΦΗ άφησε αιχμές κατά της διαιτησίας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/anastasiou_2.jpg?itok=v6pY89VW",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γιουβέντους – Νάπολι 3-0: Την διέλυσε μέσα στο Τορίνο και την πλησίασε στο βαθμό",
+          "link": "https://www.newsit.gr/athlitika/giouventous-napoli-3-0-tin-dielyse-mesa-sto-torino-kai-tin-plisiase-sto-vathmo/4583241/",
+          "pubDate": "Sun, 25 Jan 2026 18:54:42 +0000",
+          "description": "Περισσότερα σε λίγο…\nTo άρθρο Γιουβέντους – Νάπολι 3-0: Την διέλυσε μέσα στο Τορίνο και την πλησίασε στο βαθμό δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/juventus-napoli-reuters-1200x829.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Γιουβέντους - Νάπολι 3-0: Σάρωσε και φουλάρει για την τετράδα",
           "link": "https://www.gazzetta.gr/football/serie/2510136/gioybentoys-napoli-3-0-sarose-kai-foylarei-gia-tin-tetrada",
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 19:24:23 +0200",
           "description": "Ο ΟΦΗ προηγήθηκε με πέναλτι του Σαλσέδο κόντρα στον Παναιτωλικό.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/salsedo_5.jpg?itok=7tDbyfDu",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Φαρίντ: «Θέλουμε να βρεθούμε στο Final Four και να το κερδίσουμε»",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510112/farint-theloyme-na-brethoyme-sto-final-four-kai-na-kerdisoyme",
-          "pubDate": "Sun, 25 Jan 2026 19:19:44 +0200",
-          "description": "Ο Κένεθ Φαρίντ ξεκαθάρισε ότι ο μεγάλος στόχος είναι το Final Four της Euroleague και είναι κάτι για το οποίο έχουν ρίξει όλοι το βάρος.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/faried_intime_4.jpg?itok=QAhd0QEZ",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Εθνική ομάδα πόλο ανδρών: Τα μετάλλια της σε μεγάλες διοργανώσεις",
-          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510111/ethniki-omada-polo-andron-ta-metallia-tis-se-megales",
-          "pubDate": "Sun, 25 Jan 2026 19:18:21 +0200",
-          "description": "Η Εθνική ομάδα πόλο ανδρών το έκανε! Το πρώτο βάθρο της ιστορίας σε Ευρωπαϊκό πρωτάθλημα είναι γεγονός και συνοδεύτηκε με το χάλκινο μετάλλιο...",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ellada_1.jpg?itok=LH7cBaCP",
           "source": "Gazzetta"
         }
       ]
