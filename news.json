@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T06:40:25.674Z",
+  "lastUpdated": "2026-01-25T06:45:26.663Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Καιρός: Τρία διαδοχικά κύματα κακοκαιρίας θα χτυπήσουν τη χώρα – Έρχονται βροχές και ισχυροί άνεμοι",
+          "link": "https://www.newsit.gr/ellada/kairos-tria-diadoxika-kymata-kakokairias-tha-xtypisoun-ti-xora-erxontai-vroxes-kai-isxyroi-anemoi/4582799/",
+          "pubDate": "Sun, 25 Jan 2026 06:43:09 +0000",
+          "description": "Χαλάει ο καιρός από σήμερα Κυριακή (25.01.2026) και τρία διαδοχικά κύματα κακοκαιρίας αναμένεται να χτυπήσουν τη χώρα μέσα στις επόμενες. Τα στοιχεία από την ΕΜΥ ...  \nTo άρθρο Καιρός: Τρία διαδοχικά κύματα κακοκαιρίας θα χτυπήσουν τη χώρα – Έρχονται βροχές και ισχυροί άνεμοι δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vroxi-eurok-2-1200x800.jpg"
+        },
         {
           "title": "Αυξήσεις μισθών για ένα εκατομμύριο εργαζόμενους στον ιδιωτικό τομέα αυτήν την εβδομάδα",
           "link": "https://www.newsit.gr/oikonomia/xristika/ayksiseis-misthon-gia-ena-ekatommyrio-ergazomenous-ston-idiotiko-tomea-aytin-tin-evdomada/4582797/",
@@ -42,6 +49,27 @@
           "pubDate": "Sun, 25 Jan 2026 06:00:00 +0000",
           "description": "Τάξη, έχουμε άγνωστες λέξεις; «τι είναι το πάνκο;», ακούω από το βάθος; Το λοιπόν, το Panko είναι ένα ιαπωνικό είδος τριμμένης φρυγανιάς που είναι ιδιαίτερα ...  \nTo άρθρο Συνταγή για τραγανά φιλέτα σολομού με μουστάρδα μελιού και κρούστα πάνκο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-855973432-1200x802.jpg"
+        },
+        {
+          "title": "Αρκάς: Η καλημέρα της Κυριακής με ματιά στο καλοκαίρι",
+          "link": "https://www.in.gr/2026/01/25/go-fun/arkas-kalimera-tis-kyriakis-matia-sto-kalokairi/",
+          "pubDate": "Sun, 25 Jan 2026 08:43:48 +0300",
+          "description": "Ο Αρκάς βλέποντας το καλοκαίρι.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Arkas1-2.jpg"
+        },
+        {
+          "title": "Τεχνητή νοημοσύνη: Οι CEO’s λένε ότι η AI εξοικονομεί χρόνο – Οι εργαζόμενοι λένε κάτι άλλο",
+          "link": "https://www.in.gr/2026/01/25/economy/oikonomikes-eidiseis/texniti-noimosyni-oi-ceos-lene-oti-ai-eksoikonomei-xrono-oi-ergazomenoi-lene-kati-allo/",
+          "pubDate": "Sun, 25 Jan 2026 08:41:53 +0300",
+          "description": "Απόσταση χωρίζει τις εκτιμήσεις εργαζομένων και CEOs για την Τεχνητή Νοημοσύνη και τα οφέλη της",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_2424366159-768x569.jpg"
+        },
+        {
+          "title": "Smalltown Boy: Μια δυνατή coming-of-age παράσταση του Μάνου Τζωρτζάκη στο θέατρο 104",
+          "link": "https://www.in.gr/2026/01/25/life/culture-live/smalltown-boy-mia-dynati-coming-age-parastasi-tou-manou-tzortzaki-sto-theatro-104/",
+          "pubDate": "Sun, 25 Jan 2026 08:40:28 +0300",
+          "description": "Η παράσταση Smalltown Boy έρχεται από τις 16 Φεβρουαρίου στο Black Box του θεάτρου 104.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Smalltown-Boy-4-768x511.jpg"
         },
         {
           "title": "Ο Ολυμπιακός αντιμετωπίζει τον Κολοσσό στη Ρόδο, στο ΟΑΚΑ με το Μαρούσι ο Παναθηναϊκός",
@@ -189,34 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 08:00:05 +0300",
           "description": "Ψηφιακό φάκελο αποκτά κάθε δικαιούχος - Οι αλλαγές που σχεδιάζονται για ενισχύσεις και επιδόματα - Πώς θα λειτουργήσει το Εθνικό Μητρώο Παροχών και Ενισχύσεων",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/epido14-6-768x505.jpg"
-        },
-        {
-          "title": "Συνταγή: Κέικ αμυγδάλου με γεύση βερίκοκο",
-          "link": "https://www.in.gr/2026/01/25/plus/vita/syntagi-keik-amygdalou-geysi-verikoko/",
-          "pubDate": "Sun, 25 Jan 2026 07:30:38 +0300",
-          "description": "Μια συνταγή ότι πρέπει για να σας κάνει παρέα με τον καφέ.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/luiz-carlos-santi-FaF9xrSobw8-unsplash-768x513.jpg"
-        },
-        {
-          "title": "Καιρός: Τρία κύματα κακοκαιρίας από σήμερα με βροχές και ισχυρούς νοτιάδες  \n",
-          "link": "https://www.protothema.gr/greece/article/1762895/kairos-tria-kumata-kakokairias-apo-simera-me-vrohes-kai-ishurous-notiades/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 06:28:00 +0200",
-          "description": "Πολλές βροχές και πάνω από τα κανονικά επίπεδα θερμοκρασίας σύμφωνα με τον Κολυδά – Για φαινόμενα σε Αττική, Ιόνιο και Αιγαίο, προειδοποιεί ο Αρναούτογλου",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-03/xrwma-vroxi.jpg"
-        },
-        {
-          "title": "Ρωσία: H Ουκρανία κατάφερε πλήγματα στην περιφέρεια Μπέλγκοροντ",
-          "link": "https://www.in.gr/2026/01/25/world/rosia-h-oukrania-katafere-pligmata-stin-perifereia-mpelgkoront/",
-          "pubDate": "Sun, 25 Jan 2026 06:51:50 +0300",
-          "description": "Η Ουκρανία χτύπησε την Ρωσία στην περιφέρεια του Μπέλγκοροντ σε αυτό που αποκάλεσε ως «μαζική» επίθεση με πυραύλους και drones",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1463695-768x489.jpg"
-        },
-        {
-          "title": "Βενεζουέλα: Η προσωρινή πρόεδρος Ροδρίγκες λέει πως θα επιδιώξει «συμφωνίες με την αντιπολίτευση»",
-          "link": "https://www.in.gr/2026/01/25/world/venezouela-prosorini-proedros-rodrigkes-leei-pos-tha-epidioksei-symfonies-tin-antipoliteysi/",
-          "pubDate": "Sun, 25 Jan 2026 06:05:37 +0300",
-          "description": "Η προσωρινή πρόεδρος Ροδρίγκες, δήλωσε από τη Βενεζουέλα πως θα επιδιώξει να προχωρήσει σε συμφωνίες με την αντιπολίτευση της χώρας.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-17T070135Z_1700029865_RC2WVIAPDO0Y_RTRMADP_5_USA-VENEZUELA-POLITICS-RODRIGUEZ-1-768x512.jpg"
         }
       ]
     },
@@ -657,6 +657,13 @@
       "color": "green",
       "articles": [
         {
+          "title": "Η «υπόγεια πόλη» της Ελβετίας κάτω από τις Άλπεις: 2.000 χλμ σηράγγων σώζουν το περιβάλλον (vid)",
+          "link": "https://www.gazzetta.gr/plus/2508934/i-ypogeia-poli-tis-elbetias-kato-apo-tis-alpeis-2000-hlm-siraggon-sozoyn-periballon",
+          "pubDate": "Sun, 25 Jan 2026 08:44:00 +0200",
+          "description": "Κάτω από τις Άλπεις εκτείνεται ένα τεράστιο δίκτυο 1.400 σηράγγων, που μετατρέπει την Ελβετία σε παγκόσμιο πρότυπο βιώσιμων μεταφορών, μειώνοντας ρύπους, φορτηγά και ενεργειακή κατανάλωση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/elvetia-suragga.jpg?itok=pehYs95_"
+        },
+        {
           "title": "Τζόρνταν σε Ρόουζ: «Ανυπομωνώ να δω τη φανέλα σου δίπλα στη δική μου»",
           "link": "https://www.gazzetta.gr/basketball/nba/2509931/tzorntan-se-rooyz-anypomono-na-do-ti-fanela-soy-dipla-sti-diki-moy",
           "pubDate": "Sun, 25 Jan 2026 08:01:27 +0200",
@@ -858,13 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:29:25 +0200",
           "description": "Oι οπαδοί της Τότεναμ τάχθηκαν κατά του Τόμας Φρανκ στο εκτός έδρας ματς με την Μπέρνλι ζητώντας την απόλυσή του.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/thomas_frank1.jpg?itok=FRZNR5OO"
-        },
-        {
-          "title": "ΑΕΛ Novibet - Πανσερραϊκός 1-0: Ο Καζίας έβραζε για τη διαιτησία",
-          "link": "https://www.gazzetta.gr/football/superleague/2509869/ael-novibet-panserraikos-1-0-o-kazias-ebraze-gia-ti-diaitisia",
-          "pubDate": "Sat, 24 Jan 2026 22:28:16 +0200",
-          "description": "Ο πρόεδρος του Πανσερραϊκού Τάσος Καζίας ήταν έξαλλος με τον διαιτητή Κόκκινο και το VAR στο ματς με την ΑΕΛ Novibet.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kazias.jpg?itok=l1LH_WAC"
         }
       ]
     },
