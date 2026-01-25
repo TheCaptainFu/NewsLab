@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T05:35:27.350Z",
+  "lastUpdated": "2026-01-25T05:40:26.939Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Η Μινεσότα «φλέγεται» μετά τη δολοφονία 37χρονου από  πράκτορες της ICE – Τα «αηδιαστικά ψέματα» του Τραμπ καταγγέλλουν οι γονείς του",
+          "link": "https://www.newsit.gr/kosmos/i-minesota-flegetai-meta-ti-dolofonia-37xronou-apo-praktores-tis-ice-ta-aidiastika-psemata-tou-tramp-kataggelloun-oi-goneis-tou/4582791/",
+          "pubDate": "Sun, 25 Jan 2026 05:36:25 +0000",
+          "description": "Μαζικές αντιδράσεις και διαδηλώσεις έχει προκαλέσει η δολοφονία ενός άνδρα από πράκτορες της ICE στην Μινεάπολη των ΗΠΑ. Οι γονείς του 37χρονου θύματος καταγγέλλουν τους ...  \nTo άρθρο Η Μινεσότα «φλέγεται» μετά τη δολοφονία 37χρονου από  πράκτορες της ICE – Τα «αηδιαστικά ψέματα» του Τραμπ καταγγέλλουν οι γονείς του δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-protests-1-1200x800.jpg"
+        },
         {
           "title": "Τι λένε τα ζώδια για σήμερα Κυριακή 25 Ιανουαρίου 2026",
           "link": "https://www.newsit.gr/lifestyle/ti-lene-ta-zodia-gia-simera-kyriaki-25-ianouariou-2026/4582595/",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 21:16:52 +0000",
           "description": "Η επιχείρηση στις φυλακές Μαλανδρίνου έγινε το πρωί του Σαββάτου (24/1/26) από τη Διεύθυνση Αντιμετώπισης Οργανωμένου Εγκλήματος. Σύμφωνα με την ΕΛΑΣ, έγινε έρευνα σε συνολικά ...  \nTo άρθρο Μαχαίρια, ναρκωτικά και κινητά αποκάλυψε έφοδος της ΕΛ.ΑΣ. στις φυλακές Μαλανδρίνου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/malandrino.jpg"
-        },
-        {
-          "title": "Ασήμι: Πώς μπορεί να αγοράσει κανείς σήμερα",
-          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/asimi-pos-mporei-na-agorasei-kaneis-simera/",
-          "pubDate": "Sun, 25 Jan 2026 00:15:00 +0300",
-          "description": "Οι επενδυτές έσπευσαν στο ασήμι εν μέσω γεωπολιτικής αναταραχής και προσδοκιών για μειώσεις των επιτοκίων στις ΗΠΑ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/silver-702537_1920-768x560.jpg"
         }
       ]
     },
