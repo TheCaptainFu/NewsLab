@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T21:35:26.329Z",
+  "lastUpdated": "2026-01-25T21:40:26.467Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -103,6 +103,14 @@
           "description": "Αναμένεται σαφής επιδείνωση του καιρού με έντονες βροχές και καταιγίδες σε μεγάλη έκταση της Ελλάδας, και με φαινόμενα που θα επηρεάσουν και την Αττική.",
           "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-25/260121173039_vroxi-rain.jpeg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Γαλλία: Διαδήλωση στο Παρίσι για τον θάνατο Μαυριτανού μετανάστη υπό αστυνομική κράτηση",
+          "link": "https://www.in.gr/2026/01/25/world/gallia-diadilosi-sto-parisi-gia-ton-thanato-mayritanou-metanasti-ypo-astynomiki-kratisi/",
+          "pubDate": "Sun, 25 Jan 2026 23:35:33 +0300",
+          "description": "Χιλιάδες Γάλλοι συμμετείχαν σε διαδήλωση στη γαλλική πρωτεύουσα, καταγγέλλοντας τον θάνατο μετανάστη. Ο Ελ Χασέν Ντιαρά πέθανε τη νύχτα της 14ης προς 15η Ιανουαρίου στο αστυνομικό τμήμα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/El-Hacen-Diarra-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Ο Κώστας Τσιμίκας επιστρέφει άμεσα στη Λίβερπουλ",
@@ -238,14 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 22:43:15 +0300",
           "description": "Χιλιάδες διαδηλωτές είχαν συγκεντρωθεί, υπό καταρρακτώδη βροχή, σε μια πλατεία της πρωτεύουσας για να εκφράσουν τη στήριξή τους στον Μπολσονάρου στη Βραζιλία",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/bas-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Κοντά σε νέα εποχή η Λίβερπουλ: «Απολύεται ο Σλοτ, τον αντικαθιστά ο Αλόνσο»",
-          "link": "https://www.in.gr/2026/01/25/sports/football/konta-se-nea-epoxi-liverpoul-apolyetai-o-slot-ton-antikathista-o-alonso/",
-          "pubDate": "Sun, 25 Jan 2026 22:41:26 +0300",
-          "description": "Ρεπορτάζ-βόμβα κάνει λόγο για δεδομένη συμφωνία της Λίβερπουλ με τον Τσάμπι Αλόνσο ως το 2027, αφού ο Άρνε Σλοτ είναι «τελειωμένος» από τους «κόκκινους».",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alonso-25126-768x466.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παναθηναϊκός: Αν ο Μπενίτεθ δεν αντιλαμβάνεται τον κίνδυνο... ",
+          "link": "https://www.gazzetta.gr/football/superleague/2510189/panathinaikos-o-mpeniteth-den-antilambanetai-ton-kindyno",
+          "pubDate": "Sun, 25 Jan 2026 23:40:07 +0200",
+          "description": "Ο Γιάννης Σερέτης γράφει για την απόφαση του Μπενίτεθ στην τρέχουσα αγωνιστική περίοδο και το βαρύ κόστος που αυτή ενδέχεται να επιφέρει στον Παναθηναϊκό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benitez_kontino.jpg?itok=OFdEls8F",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λιλ - Στρασβούργο 1-4: Την ταπείνωσε μέσα στο σπίτι της",
+          "link": "https://www.gazzetta.gr/football/ligue-1/2510188/lil-strasboyrgo-1-4-tin-tapeinose-mesa-sto-spiti-tis",
+          "pubDate": "Sun, 25 Jan 2026 23:39:09 +0200",
+          "description": "Το Στρασβούργο ταπείνωσε με 4-1 τη Λιλ εκτός έδρας και συνέχισε τη νικηφόρα πορεία του.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/strasbourg.jpg?itok=i6Ryw6ZL",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΗΠΑ: Δύο νεκροί από σφοδρή χιονοθύελλα – Χάος στις μετακινήσεις, ακυρώθηκαν 15.000 πτήσεις",
+          "link": "https://www.gazzetta.gr/plus/2510179/ipa-dyo-nekroi-apo-sfodri-hionothyella-haos-stis-metakiniseis-akyrothikan-15000",
+          "pubDate": "Sun, 25 Jan 2026 23:38:50 +0200",
+          "description": "Τουλάχιστον δύο άνθρωποι έχασαν τη ζωή τους από υποθερμία στις ΗΠΑ, καθώς μια από τις ισχυρότερες χιονοθύελλες των τελευταίων δεκαετιών προκαλεί εκτεταμένες διακοπές ρεύματος και μαζικές ακυρώσεις πτήσεων.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/louisiana.jpg?itok=Eovgjo6t",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα",
+          "link": "https://www.newsit.gr/athlitika/ethniki-polo-andron-i-aponomi-tou-xalkinou-metalliou-sto-eyropaiko-protathlima/4583323/",
+          "pubDate": "Sun, 25 Jan 2026 21:30:52 +0000",
+          "description": "Η Εθνική πόλο ανδρών της Ελλάδας κατέκτησε το χάλκινο μετάλλιο στο ευρωπαϊκό πρωτάθλημα του Βελιγραδίου και ανέβηκε για πρώτη φορά στην ιστορία της στο βάθρο ...  \nTo άρθρο Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grpolo-1200x784.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Αναβλήθηκε το Μιλγουόκι Μπακς – Ντάλας Μάβερικς λόγω κακοκαιρίας στο Τέξας",
           "link": "https://www.newsit.gr/athlitika/anavlithike-to-milgouoki-mpaks-ntalas-maveriks-logo-kakokairias-sto-teksas/4583327/",
           "pubDate": "Sun, 25 Jan 2026 21:27:41 +0000",
@@ -952,38 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 22:02:50 +0200",
           "description": "Η Παρτίζαν επικράτησε δύσκολα της Ιγκοκέα με 90-84 για την Αδριατική Λίγκα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/partizan_0.jpg?itok=bjXEDOhi",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λεβαδειακός - Παναθηναϊκός: Το πρόγραμμα για την είσοδο στην τετράδα",
-          "link": "https://www.gazzetta.gr/football/superleague/2510165/lebadeiakos-panathinaikos-programma-gia-tin-eisodo-stin-tetrada",
-          "pubDate": "Sun, 25 Jan 2026 22:02:06 +0200",
-          "description": "Ο Λεβαδειακός παραμένει το φαβορί για την είσοδο στα playoffs μετά και τη 18η αγωνιστική της Super League. Μαθηματικά ελπίζει ο Βόλος, νοκ άουτ τέθηκε ο Άρης",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lebadeiakos_-_panathinaikos_0.jpg?itok=3WgEf8Gw",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΟΦΗ: «Πονοκέφαλος» για Σαλσέδο και Καραχάλιο",
-          "link": "https://www.gazzetta.gr/football/superleague/2510164/ofi-ponokefalos-gia-salsedo-kai-karahalio",
-          "pubDate": "Sun, 25 Jan 2026 22:00:42 +0200",
-          "description": "Ο Έντι Σαλσέδο και ο Ζήσης Καραχάλιος έγιναν αναγκαστική αλλαγή στον αγώνα του ΟΦΗ με τον Παναιτωλικό, λόγω ενοχλήσεων.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/salcedo.jpg?itok=izpYAnBC",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μπενφίκα - Εστρέλα Αμαδόρα 4-0: Τεσσάρα με... διπλό Παυλίδη",
-          "link": "https://www.gazzetta.gr/football/primeira-liga/2510163/mpenfika-estrela-amadora-4-0-tessara-me-diplo-paylidi",
-          "pubDate": "Sun, 25 Jan 2026 22:00:26 +0200",
-          "description": "Με τον Βαγγέλη Παυλίδη να σκοράρει δις, η Μπενφίκα διέλυσε με 4-0 την Εστρέλα Αμαδόρα εντός έδρας για την Primeira Liga.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pavlidis_benfica_0.jpg?itok=o9-RlfHh",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "F1 - Χάμιλτον: «Φέτος είμαι πραγματικά ενθουσιασμένος»",
-          "link": "https://www.gazzetta.gr/gmotion/2509742/f1-hamilton-fetos-eimai-pragmatika-enthoysiasmenos",
-          "pubDate": "Sun, 25 Jan 2026 22:00:00 +0200",
-          "description": "Ο 7 φορές παγκόσμιος πρωταθλητής μίλησε για τη νέα αγωνιστική σεζόν της Formula 1 και το γεγονός πως ανυπομονεί περισσότερο από κάθε άλλη χρονιά.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sf26_trackday_thaddeus-2804_579876b9-450d-4388-a18f-e717d89653511.jpg?itok=yv2ko5vD",
           "source": "Gazzetta"
         }
       ]
