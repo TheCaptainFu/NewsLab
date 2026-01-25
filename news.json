@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T08:05:25.914Z",
+  "lastUpdated": "2026-01-25T08:10:30.130Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πάτρα: 19χρονος και 17χρονη τα θύματα του σοκαριστικού τροχαίου δυστυχήματος – Άμορφη μάζα το αυτοκίνητό τους",
+          "link": "https://www.newsit.gr/ellada/patra-19xronos-kai-17xroni-ta-thymata-tou-sokaristikou-troxaiou-dystyximatos-amorfi-maza-to-aytokinito-tous/4582847/",
+          "pubDate": "Sun, 25 Jan 2026 08:04:38 +0000",
+          "description": "Δυο νέα παιδιά, 19 και 17 ετών είναι τα θύματα του τροχαίου δυστυχήματος που έγινε το βράδυ του Σαββάτου (24.01.2026) στην Πάτρα. Το τροχαίο δυστύχημα ...  \nTo άρθρο Πάτρα: 19χρονος και 17χρονη τα θύματα του σοκαριστικού τροχαίου δυστυχήματος – Άμορφη μάζα το αυτοκίνητό τους δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/patra-troxaio-1200x760.jpg"
+        },
         {
           "title": "Peyronie: Η νόσος-ταμπού που προκαλεί κατάθλιψη στους άνδρες",
           "link": "https://www.newsit.gr/ygeia/peyronie-i-nosos-tampou-pou-prokalei-katathlipsi-stous-andres/4581761/",
@@ -210,13 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 09:07:43 +0300",
           "description": "Η εθνική σύνταξη για το τρέχον έτος διαμορφώθηκε στα 446,87 ευρώ για ασφάλιση με 20 ετών - Η  αύξηση αυτή συμπαρασύρει μια σειρά παροχών που χορηγεί e – ΕΦΚΑ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/sintaxeis1-1200x800-1-768x512.jpg"
-        },
-        {
-          "title": "Δεν έχει εφαρμοστεί ακόμα το όριο ταχύτητας των 30 χλμ./ώρα",
-          "link": "https://www.newsit.gr/auto/den-exei-efarmostei-akoma-to-orio-taxytitas-ton-30-xlm-ora/4582503/",
-          "pubDate": "Sun, 25 Jan 2026 06:05:00 +0000",
-          "description": "Ιδιαίτερη συζήτηση δημιούργησε η επιβολή ορίου ταχύτητας 30 χλμ./ώρα μέσα στις πόλεις, τόσο κατά τη διαβούλευση του νέου ΚΟΚ, όσο και μετά την ψήφισή του. ...  \nTo άρθρο Δεν έχει εφαρμοστεί ακόμα το όριο ταχύτητας των 30 χλμ./ώρα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/kinisi-mpotiliarisma-eurok-1200x900.jpg"
         }
       ]
     },
@@ -224,6 +224,13 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη – Να διατηρήσουμε διαύλους συνεργασίας με τις ΗΠΑ",
+          "link": "https://www.tanea.gr/2026/01/25/politics/mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-na-diatirisoume-diaylous-synergasias-me-tis-ipa/",
+          "pubDate": "Sun, 25 Jan 2026 08:08:28 +0000",
+          "description": "«Όπως συζητήσαμε στο έκτακτο Ευρωπαϊκό Συμβούλιο της Πέμπτης, η Ευρώπη οφείλει να είναι ενωμένη, να υπερασπίζεται το Διεθνές Δίκαιο και την κυριαρχία των κρατών-μελών της, όπως στην περίπτωση της Δανίας και της Γροιλανδίας. Ταυτόχρονα, οφείλουμε να διατηρούμε ένα πλαίσιο συνεννόησης και λειτουργικούς διαύλους συνεργασίας με τις Ηνωμένες Πολιτείες, ακόμη και σε περιόδους έντασης. Καθιστώντας παράλληλα […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/mitsotakis-8-1.jpg"
+        },
         {
           "title": "Κυρανάκης στο “Face 2 Face” για τρένα: «Βασικό μέλημα η εγκατάσταση πολλαπλών δικλείδων ασφαλείας»",
           "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-trena-vasiko-melima-i-egkatastasi-pollaplon-dikleidon-asfaleias/",
@@ -426,13 +433,6 @@
           "pubDate": "Fri, 23 Jan 2026 12:14:20 +0000",
           "description": "Η Τουρκία «δυναμιτίζει» το κλίμα και τα «ήρεμα νερά» που διέπουν τις ελληνοτουρκικές σχέσεις σε χρόνο που Αθήνα και Άγκυρα αναζητούν ημερομηνίες (εντός του Φεβρουαρίου) για τη διεξαγωγή του Ανώτατου…\nΗ Άγκυρα υπονομεύει τη σύγκληση του ΑΣΣ με απαράδεκτη NAVTEX διαρκείας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null
-        },
-        {
-          "title": "Όλγα Κεφαλογιάννη: «Έκανα χρήση της ρύθμισης, αντιμετωπίζω μια ιδιαίτερα δύσκολη πραγματικότητα»",
-          "link": "https://www.tovima.gr/2026/01/23/politics/olga-kefalogianni-ekana-xrisi-tis-rythmisis-antimetopizo-mia-idiaitera-dyskoli-pragmatikotita/",
-          "pubDate": "Fri, 23 Jan 2026 14:34:44 +0300",
-          "description": "Σε ανάρτησή της η Όλγα Κεφαλογιάννη επισημαίνει ότι «οι οικογενειακές υποθέσεις και ειδικά αυτές που αφορούν ανήλικα παιδιά «δεν προσφέρονται για εκβιασμούς ή πολιτική εκμετάλλευση».",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/01/21/kefalogianni-1024x683.jpg"
         }
       ]
     },
