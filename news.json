@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T20:55:28.477Z",
+  "lastUpdated": "2026-01-25T21:00:35.458Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Wall Street Journal: Κορυφαίος Κινέζος στρατηγός και στενός σύμμαχος του Σι Τζινπίνγκ υπό έρευνα για διαρροή πυρηνικών στοιχείων στις ΗΠΑ",
+          "link": "https://www.newsit.gr/kosmos/wall-street-journal-koryfaios-kinezos-stratigos-kai-stenos-symmaxos-tou-si-tzinpingk-ypo-ereyna-gia-diarroi-pyrinikon-stoixeion-stis-ipa/4583288/",
+          "pubDate": "Sun, 25 Jan 2026 20:59:40 +0000",
+          "description": "Για φερόμενη διαρροή πληροφοριών στις ΗΠΑ, σχετικά με τα πυρηνικά όπλα της Κίνας, αλλά  και για δωροδοκία για προαγωγές αξιωματούχων ερευνάται ο Κινέζος ανώτερος στρατηγός, ...  \nTo άρθρο Wall Street Journal: Κορυφαίος Κινέζος στρατηγός και στενός σύμμαχος του Σι Τζινπίνγκ υπό έρευνα για διαρροή πυρηνικών στοιχείων στις ΗΠΑ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zhang-youxia.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Βραζιλία: Κεραυνός χτύπησε διαδήλωση υπέρ του Μπολσονάρο και τραυμάτισε 30 ανθρώπους",
+          "link": "https://www.newsit.gr/kosmos/vrazilia-keraynos-xtypise-diadilosi-yper-tou-mpolsonaro-kai-traymatise-30-anthropous/4583313/",
+          "pubDate": "Sun, 25 Jan 2026 20:57:36 +0000",
+          "description": "Τουλάχιστον 30 άνθρωποι τραυματίστηκαν όταν κεραυνός έπληξε τη διαδήλωση υποστηρικτών του ακροδεξιού πρώην προέδρου Ζαΐχ Μπολσονάρο στην Βραζιλία, ανακοίνωσε η πυροσβεστική υπηρεσία. Χιλιάδες διαδηλωτές είχαν ...  \nTo άρθρο Βραζιλία: Κεραυνός χτύπησε διαδήλωση υπέρ του Μπολσονάρο και τραυμάτισε 30 ανθρώπους δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/brazil-politics-protest.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ο Εμμανουήλ Καραλής ξεκίνησε εντυπωσιακά και το 2026 με άλμα στα 5,93 μέτρα στην Πολωνία",
           "link": "https://www.newsit.gr/athlitika/o-emmanouil-karalis-ksekinise-entyposiaka-kai-to-2026-me-alma-sta-5-93-metra-stin-polonia/4583303/",
@@ -95,6 +111,14 @@
           "description": "Για την ενασχόληση με τον χώρο της πολιτικής αλλά και την αδιάκοπη ανησυχία του για τα κοινά μίλησε, μεταξύ άλλων, ο Γιάννης Βούρος. Ο δημοφιλής ...  \nTo άρθρο Γιάννης Βούρος: Αν θες να αλλάξεις κάποια πράγματα, πρέπει να μπεις μέσα στο όποιο σύστημα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giannis-vouros-25012026.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Συνεδριάζει το Υπουργικό Συμβούλιο – Τα θέματα που θα συζητηθούν",
+          "link": "https://www.in.gr/2026/01/25/politics/synedriazei-ypourgiko-symvoulio-ta-themata-pou-tha-syzitithoun-3/",
+          "pubDate": "Sun, 25 Jan 2026 22:58:23 +0300",
+          "description": "Συνεδριάζει το Υπουργικό Συμβούλιο υπό τον Κυριάκο Μητσοτάκη. Τα θέματα που θα επικεντρωθεί η συνεδρίαση.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ipourgiko-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Εστρέλα με 4-0",
@@ -223,30 +247,6 @@
           "description": "Το δημογραφικό δείχνει το πιο σκληρό του πρόσωπο. Κάτω από το ψυχολογικό όριο των 70.000 οι γεννήσεις το 2025, σημειώνοντας το χαμηλότερο επίπεδο στην ιστορία της νεότερης Ελλάδας. Αρνητικό το φυσικό ισοζύγιο με τους θανάτους να είναι διπλάσιοι.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/dimografiko-1-768x554.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Ματθαίος Γιαννούλης για απώλεια βάρους: Δεν μπορούσα άλλο να είναι 60 χρονών και να παίρνω τόσα χάπια",
-          "link": "https://www.newsit.gr/lifestyle/matthaios-giannoulis-gia-apoleia-varous-den-mporousa-allo-na-einai-60-xronon-kai-na-pairno-tosa-xapia/4583125/",
-          "pubDate": "Sun, 25 Jan 2026 19:01:00 +0000",
-          "description": "Τόσο «ταμπέλα» των πανηγυριών όσο και στη μεγάλη αλλαγή που αποφάσισε να κάνει στην εξωτερική του εμφάνιση αναφέρθηκε σε πρόσφατη συνέντευξή του ο Ματθαίος Γιαννούλης. ...  \nTo άρθρο Ματθαίος Γιαννούλης για απώλεια βάρους: Δεν μπορούσα άλλο να είναι 60 χρονών και να παίρνω τόσα χάπια δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/matthaios-giannoulis-ndp-1200x692.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η απλή μέθοδος των τριών (σε δύο ντέρμπι)",
-          "link": "https://www.in.gr/2026/01/25/sports/on-field/apli-methodos-ton-trion-se-dyo-ntermpi/",
-          "pubDate": "Sun, 25 Jan 2026 22:00:17 +0300",
-          "description": "Τρεις παίκτες της Γιουνάιτεντ έκαναν την διαφορά στις νίκες με Σίτι και Άρσεναλ, δίνοντας πολλούς «πόντους» στον Μίκαελ Κάρικ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T184907Z_1395425060_UP1EM1P1FJK7L_RTRMADP_5_SOCCER-ENGLAND-ARS-MUN-768x503.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Κρίσεις Διευθυντών Ελληνικής Αστυνομίας: Ποιοι προήχθησαν και ποιοι αποστρατεύονται\n",
-          "link": "https://www.protothema.gr/greece/article/1763208/kriseis-dieuthudon-ellinikis-astunomias-poioi-proihthisan-poioi-diatiroudai-kai-poioi-apostrateuodai/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 20:58:00 +0200",
-          "description": "Μετά τις κρίσεις των Ταξιάρχων, το Ανώτατο Συμβούλιο έκρινε προακτέους 32 Αστυνομικούς Διευθυντές για κάλυψη οργανικών θέσεων",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-05-12/gada23-mkt.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Τουρκία: Φιάσκο με απευθείας εκτέλεση φάουλ που δεν μέτρησε ως γκολ! ",
+          "link": "https://www.gazzetta.gr/football/2510178/toyrkia-fiasko-me-apeytheias-ektelesi-faoyl-poy-den-metrise-os-gkol",
+          "pubDate": "Sun, 25 Jan 2026 22:58:56 +0200",
+          "description": "Απίστευτα πράγματα στην Τουρκία, εκεί όπου ομάδα τέταρτης κατηγορίας σκόραρε με απευθείας εκτέλεση φάουλ και ο διαιτητής δεν το είδε ποτέ!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/turkey_foul.png?itok=GubvEXhj",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σερβία - Ουγγαρία 10-7: Επέστρεψε στην κορυφή της Ευρώπης μέσα στο σπίτι της",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510177/serbia-oyggaria-10-7-epestrepse-stin-koryfi-tis-eyropis",
+          "pubDate": "Sun, 25 Jan 2026 22:58:50 +0200",
+          "description": "Η Σερβία νικώντας την Ουγγαρία με 10-7, έγινε ξανά πρωταθλήτρια Ευρώπης, φθάνοντας στο τρία στα τρία τα τελευταία 20 χρόνια, όταν και φιλοξένησε τη διοργάνωση στο Βελιγράδι.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/serbia_gettyimages-2257290149.jpg?itok=RmcBhI59",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μπαρτσελόνα-Τενερίφη 82-89: Εντός έδρας ήττα πριν από τον Ολυμπιακό",
           "link": "https://www.gazzetta.gr/basketball/mpasket-ispania/2510176/mpartselona-tenerifi-82-89-entos-edras-itta-prin-apo-ton",
           "pubDate": "Sun, 25 Jan 2026 22:52:06 +0200",
@@ -775,7 +791,7 @@
           "link": "https://www.gazzetta.gr/football/superleague/2510172/o-panathinaikos-halia-mayra-kai-sto-peristeri",
           "pubDate": "Sun, 25 Jan 2026 22:40:40 +0200",
           "description": "O Nίκος Αθανασίου γράφει στο Gazzetta για την νέα εικόνα ποδοσφαιρικής τραγωδίας του Παναθηναϊκού κόντρα στον Ατρόμητο και την καταστροφή της πέμτης θέσης που πλησιάζει.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mpeniteh.jpg?itok=0O7aKdup",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/poo.jpg?itok=h3PYly6C",
           "source": "Gazzetta"
         },
         {
@@ -926,7 +942,7 @@
           "title": "LIVE το ΝΒΑ στο Gazzetta",
           "link": "https://www.gazzetta.gr/basketball/nba/2510057/live-nba-sto-gazzetta",
           "pubDate": "Sun, 25 Jan 2026 21:45:09 +0200",
-          "description": "Η δράση στο ΝΒΑ συνεχίζεται το βράδυ της Κυριακής 25/1 και τα ξημερώματα της Δευτέρας 26/1 με οκτώ αναμετρήσεις.",
+          "description": "Η δράση στο ΝΒΑ συνεχίζεται το βράδυ της Κυριακής 25/1 και τα ξημερώματα της Δευτέρας 26/1 με έξι αναμετρήσεις.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-02/fox_getty.jpg?itok=iTiJDQOn",
           "source": "Gazzetta"
         },
@@ -969,22 +985,6 @@
           "description": "Νέα βαθμολογική απώλεια για τον Παναθηναϊκό, στην προσπάθεια που κάνει η ομάδα για να μπει στην πρώτη τετράδα του βαθμολογικού πίνακα της Super League. Ο ...  \nTo άρθρο Η βαθμολογία της Super League μετά τη νέα «γκέλα» του Παναθηναϊκού, οι φάσεις και τα γκολ της αγωνιστικής δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/atromitos-panathinaikos-eurokinissi.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Κόντης: «Μεγάλη νίκη, ξεφύγαμε από τις χαμηλές θέσεις»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510155/kontis-megali-niki-xefygame-apo-tis-hamiles-theseis",
-          "pubDate": "Sun, 25 Jan 2026 21:31:14 +0200",
-          "description": "Οι δηλώσεις του Χρήστου Κόντη μετά τη νίκη του ΟΦΗ επί του Παναιτωλικού στο Παγκρήτιο Στάδιο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kontis_1_0.jpg?itok=Mbmy3kdq",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παυλίδης: Δεύτερο γκολ για την Μπενφίκα με πέναλτι",
-          "link": "https://www.gazzetta.gr/football/primeira-liga/2510154/paylidis-deytero-gkol-gia-tin-mpenfika-me-penalti",
-          "pubDate": "Sun, 25 Jan 2026 21:28:41 +0200",
-          "description": "Ο Βαγγέλης Παυλίδης σκόραρε ξανά για την Μπενφίκα ενάντια στην Εστρέλα Αμαδόρα, κάνοντας με πέναλτι το 2-0 στο 55'.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pavlidis_1.jpg?itok=gcAV5wec",
-          "source": "Gazzetta"
         }
       ]
     },
