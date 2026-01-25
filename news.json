@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T04:05:23.396Z",
+  "lastUpdated": "2026-01-25T04:10:29.906Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βενεζουέλα: Η προσωρινή πρόεδρος Ροδρίγκες λέει πως θα επιδιώξει «συμφωνίες με την αντιπολίτευση»",
+          "link": "https://www.in.gr/2026/01/25/world/venezouela-prosorini-proedros-rodrigkes-leei-pos-tha-epidioksei-symfonies-tin-antipoliteysi/",
+          "pubDate": "Sun, 25 Jan 2026 06:05:37 +0300",
+          "description": "Η προσωρινή πρόεδρος Ροδρίγκες, δήλωσε από τη Βενεζουέλα πως θα επιδιώξει να προχωρήσει σε συμφωνίες με την αντιπολίτευση της χώρας.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-17T070135Z_1700029865_RC2WVIAPDO0Y_RTRMADP_5_USA-VENEZUELA-POLITICS-RODRIGUEZ-1-768x512.jpg"
+        },
         {
           "title": "Καιρός σήμερα: Βροχές και καταιγίδες με ανέμους 8 μποφόρ και ομίχλες – Αναλυτική πρόγνωση",
           "link": "https://www.newsit.gr/ellada/kairos-simera-vroxes-kai-kataigides-me-anemous-8-mpofor-kai-omixles-analytiki-prognosi/4582620/",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 23:58:51 +0300",
           "description": "Το ΙΧ καρφώθηκε σε κολώνα με υπερβολική ταχύτητα - Δυστυχώς, οι δύο επιβαίνοντες του οχήματος, περίπου 19 ετών, ένα αγόρι και ένα κορίτσι, ανασύρθηκαν νεκροί από τα συντρίμμια.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trox_pat4-768x511.jpg"
-        },
-        {
-          "title": "Μαρίλια Μητρούση: Σχεδόν τους παρακάλεσα για να με πάρουν στο καστ του «Να μ’ αγαπάς»",
-          "link": "https://www.newsit.gr/media/marilia-mitrousi-sxedon-tous-parakalesa-gia-na-me-paroun-sto-kast-tou-na-m-agapas/4582534/",
-          "pubDate": "Sat, 24 Jan 2026 20:58:00 +0000",
-          "description": "Η Μαρίλια Μητρούση μίλησε για τη σειρά «Να μ’ αγαπάς» στην οποία παίρνει μέρος φέτος και παραδέχτηκε ότι νιώθει τυχερή που παίζει κάθε χρόνο σε ...  \nTo άρθρο Μαρίλια Μητρούση: Σχεδόν τους παρακάλεσα για να με πάρουν στο καστ του «Να μ’ αγαπάς» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marilia-mitroysi-ndp-1200x701.jpg"
         }
       ]
     },
