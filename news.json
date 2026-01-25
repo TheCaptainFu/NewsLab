@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T02:30:34.424Z",
+  "lastUpdated": "2026-01-25T02:35:28.600Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βρετανοί καταναλωτές: Ποιότητα χωρίς συμβιβασμούς στις αγορές τροφίμων",
+          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/vretanoi-katanalotes-poiotita-xoris-symvivasmous-stis-agores-trofimon/",
+          "pubDate": "Sun, 25 Jan 2026 04:32:53 +0300",
+          "description": "Σύμφωνα με την Ocado, οι Βρετανοί καταναλωτές αναζητούν τον ιδανικό συνδυασμό ποιότητας και οικονομίας στις αγορές τους για τρόφιμα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/rumman-amin-LNn6O_Mt730-unsplash-768x531.jpg"
+        },
         {
           "title": "ΗΠΑ: Οι καλύτερες και οι χειρότερες αμερικανικές αεροπορικές εταιρείες του 2025",
           "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/ipa-oi-kalyteres-kai-oi-xeiroteres-amerikanikes-aeroporikes-etaireies-tou-2025/",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 20:54:51 +0000",
           "description": "Κρίσεις υποστρατήγων της Ελληνικής Αστυνομίας πραγματοποιήθηκαν το Σάββατο (24.01.2026), σύμφωνα με ανακοίνωση του αρχηγείου της ΕΛΑΣ. Το Ανώτατο Συμβούλιο Κρίσεων συνεδρίασε υπό την προεδρία του ...  \nTo άρθρο Ελληνική Αστυνομία: Αυτοί είναι οι νέοι υποστράτηγοι δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/astinomia-1200x675-1.webp"
-        },
-        {
-          "title": "Ο κυβερνήτης της Μινεσότα Τιμ Γουάλτς αποφάσισε να αναπτύξει την Εθνοφρουρά [βίντεο]",
-          "link": "https://www.in.gr/2026/01/24/world/o-kyvernitis-tis-minesota-tim-goualts-apofasise-na-anaptyksei-tin-ethnofroura-vinteo/",
-          "pubDate": "Sat, 24 Jan 2026 23:54:09 +0300",
-          "description": "Ο κυβερνήτης της Μινεσότα αποφάσισε να αναπτύξει την Εθνοφρουρά στην πολιτεία του, σε μια προσπάθεια να «προστατέψει τους πολίτες» από τις ομοσπονδιακές υπηρεσίες.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-17T011312Z_868012131_RC25VIAKNC5V_RTRMADP_5_USA-TRUMP-MINNESOTA-INVESTIGATION-768x512.jpg"
         }
       ]
     },
