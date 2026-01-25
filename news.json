@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T07:00:37.678Z",
+  "lastUpdated": "2026-01-25T07:05:28.049Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,18 +9,25 @@
       "color": "red",
       "articles": [
         {
-          "title": "Γλυφάδα: Γιος δολοφόνησε με μαχαίρι τον πατέρα του – Είχε σκοτώσει τη μητέρα του το 2014",
-          "link": "https://www.newsit.gr/ellada/glyfada-gios-dolofonise-me-maxairi-ton-patera-tou-eixe-skotosei-ti-mitera-tou-to-2014/4582806/",
+          "title": "Το παιδί – επόμενα επεισόδια: Ο Πέτρος ανακαλύπτει ένα μυστικό του χωριού και η Άρτεμις καλείται να του δώσει εξηγήσεις",
+          "link": "https://www.newsit.gr/media/to-paidi-epomena-epeisodia-o-petros-anakalyptei-ena-mystiko-tou-xoriou-kai-i-artemis-kaleitai-na-tou-dosei-eksigiseis/4574277/",
+          "pubDate": "Sun, 25 Jan 2026 07:01:00 +0000",
+          "description": "Εξελίξεις και ανατροπές στα νέα επεισόδια της σειράς της ΕΡΤ1 «Το παιδί», τα οποία θα προβληθούν από τη Δευτέρα έως την Πέμπτη 26.01.2026-29.01.2026 στις 23:00 ...  \nTo άρθρο Το παιδί – επόμενα επεισόδια: Ο Πέτρος ανακαλύπτει ένα μυστικό του χωριού και η Άρτεμις καλείται να του δώσει εξηγήσεις δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/to-paidi-1.jpg"
+        },
+        {
+          "title": "Γλυφάδα: Γιος δολοφόνησε τον πατέρα του και τον έβαλε στο πορτμπαγκάζ αυτοκινήτου – Είχε σκοτώσει τη μητέρα του το 2014",
+          "link": "https://www.newsit.gr/ellada/glyfada-gios-dolofonise-ton-patera-tou-kai-ton-evale-sto-portmpagkaz-aytokinitou-eixe-skotosei-ti-mitera-tou-to-2014/4582806/",
           "pubDate": "Sun, 25 Jan 2026 06:50:19 +0000",
-          "description": "Άγρια δολοφονία σημειώθηκε στη Γλυφάδα με έναν άνδρα να βρίσκεται μαχαιρωμένος σε πορτμπαγκάζ αυτοκινήτου. Σύμφωνα με όσα έχουν γίνει γνωστά ένας άνδρας δολοφόνησε με μαχαίρι ...  \nTo άρθρο Γλυφάδα: Γιος δολοφόνησε με μαχαίρι τον πατέρα του – Είχε σκοτώσει τη μητέρα του το 2014 δημοσιεύτηκε στο NewsIT .",
+          "description": "Άγρια δολοφονία σημειώθηκε στη Γλυφάδα με έναν άνδρα να βρίσκεται μαχαιρωμένος σε πορτμπαγκάζ αυτοκινήτου. Σύμφωνα με όσα έχουν γίνει γνωστά ένας άνδρας δολοφόνησε με μαχαίρι ...  \nTo άρθρο Γλυφάδα: Γιος δολοφόνησε τον πατέρα του και τον έβαλε στο πορτμπαγκάζ αυτοκινήτου – Είχε σκοτώσει τη μητέρα του το 2014 δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-eurok-1-1200x800.jpg"
         },
         {
-          "title": "Νεκρός άνδρας σε πορτ παγκάζ αυτοκινήτου στη Γλυφάδα - Συνελήφθη ο γιος του, είχε σκοτώσει και τη μητέρα του το 2014!",
+          "title": "Νεκρός άνδρας σε πορτ παγκάζ αυτοκινήτου στη Γλυφάδα - Συνελήφθη ο γιος του, είχε σκοτώσει και τη μητέρα του το 2014",
           "link": "https://www.protothema.gr/greece/article/1762927/nekros-andras-se-port-pagaz-autokinitou-sti-glufada-sunelifthi-o-gios-tou/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 08:49:00 +0200",
-          "description": "Σκότωσε με μαχαίρι τον πατέρα του - Ο γιος φέρεται να αντιμετωπίζει ψυχολογικά προβλήματα",
-          "thumbnail": null
+          "description": "Σκότωσε με μαχαίρι τον πατέρα του - Ο 46χρονος γιος φέρεται να αντιμετωπίζει ψυχολογικά προβλήματα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-peripoliko.jpg"
         },
         {
           "title": "Ανοιχτά τα καταστήματα σήμερα – Εκπτώσεις έως 70%",
@@ -65,11 +72,25 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/snow-oklahoma-1200x800.jpg"
         },
         {
+          "title": "Διατροφή: Τα δύο συστατικά για μακροζωία",
+          "link": "https://www.in.gr/2026/01/25/plus/vita/diatrofi-ta-dyo-systatika-gia-makrozoia/",
+          "pubDate": "Sun, 25 Jan 2026 09:00:52 +0300",
+          "description": "Σύμφωνα με μελέτες, οι καθημερινές συνήθειες στη διατροφή μας, όταν επαναλαμβάνονται για χρόνια, έχουν βαθιά επίδραση στην υγεία μας.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/fin-macbrayne-k_NAd4XwbKA-unsplash-1-768x480.jpg"
+        },
+        {
           "title": "Συνταγή για τραγανά φιλέτα σολομού με μουστάρδα μελιού και κρούστα πάνκο",
           "link": "https://www.newsit.gr/tasteit/syntagi-gia-tragana-fileta-solomou-me-moustarda-meliou-kai-krousta-panko/4566551/",
           "pubDate": "Sun, 25 Jan 2026 06:00:00 +0000",
           "description": "Τάξη, έχουμε άγνωστες λέξεις; «τι είναι το πάνκο;», ακούω από το βάθος; Το λοιπόν, το Panko είναι ένα ιαπωνικό είδος τριμμένης φρυγανιάς που είναι ιδιαίτερα ...  \nTo άρθρο Συνταγή για τραγανά φιλέτα σολομού με μουστάρδα μελιού και κρούστα πάνκο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-855973432-1200x802.jpg"
+        },
+        {
+          "title": "Γλυφάδα: Νεκρός άνδρας σε πορτμπαγκάζ – Συνελήφθη ο γιος του που είχε σκοτώσει τη μητέρα του το 2014",
+          "link": "https://www.in.gr/2026/01/25/greece/glyfada-nekros-andras-se-portmpagkaz-synelifthi-o-gios-tou-pou-eixe-skotosei-ti-mitera-tou-2014/",
+          "pubDate": "Sun, 25 Jan 2026 08:59:54 +0300",
+          "description": "Περισσότερα σε λίγο...",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/65532763-1200x800-1-1200x800-peripoliko-2-768x512.jpg"
         },
         {
           "title": "ΗΠΑ: Στο έλεος της κακοκαιρίας Fern – Τρεις νεκροί από τις ακραίες θερμοκρασίες, χιλιάδες ακυρώσεις πτήσεων",
@@ -196,27 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 08:00:57 +0300",
           "description": "Ο αναθεωρητισμός του Ντόναλντ Τραμπ δοκιμάζει πλέον τα όρια του ΝΑΤΟ, της διχασμένης Δύσης, αλλά και της αμερικανικής ισχύος",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Screenshot-2026-01-24-at-20.14.15-768x520.jpg"
-        },
-        {
-          "title": "Εργασία πέρα από τα σύνορα της ΕΕ: Οι Ευρωπαίοι με τη μεγαλύτερη διεθνή εμπειρία",
-          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/ergasia-pera-apo-ta-synora-tis-ee-oi-eyropaioi-ti-megalyteri-diethni-empeiria/",
-          "pubDate": "Sun, 25 Jan 2026 08:00:53 +0300",
-          "description": "Στην Ευρωπαϊκή Ενιαία Αγορά, το 17 % των ατόμων από την ΕΕ που αναζητούν εργασία έχουν διεθνή εργασιακή εμπειρία, η οποία τους έχει δώσει τη δυνατότητα να γνωρίσουν τη ζωή μακριά από την πατρίδα τους",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/vital-sinkevich-CO0AFExTMVk-unsplash-768x576.jpg"
-        },
-        {
-          "title": "Historic floods: Οι πλημμύρες στην Ελλάδα από το 1886 – Mια ζωντανή πλατφόρμα για κάθε ενδιαφερόμενο",
-          "link": "https://www.in.gr/2026/01/25/in-science/historic-floods-oi-plimmyres-stin-ellada-apo-1886-mia-zontani-platforma-gia-kathe-endiaferomeno/",
-          "pubDate": "Sun, 25 Jan 2026 08:00:44 +0300",
-          "description": "H πλατφόρμα για τις πλημμύρες παρουσιάζει τα ιστορικά δεδομένα 130 ετών.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/PLIMMIRES1-768x512.jpg"
-        },
-        {
-          "title": "Ο γέρος και η Θάλασσα: Αντίτυπο με το τελευταίο γραπτό του Χέμινγουεϊ στο Μουσείο Νόμπελ",
-          "link": "https://www.in.gr/2026/01/25/life/culture-live/o-geros-kai-thalassa-antitypo-teleytaio-grapto-tou-xemingouei-sto-mouseio-nompel/",
-          "pubDate": "Sun, 25 Jan 2026 08:00:43 +0300",
-          "description": "Το βιβλίο περιέχει μια αφιέρωση που πιστεύεται ότι είναι το τελευταίο γνωστό γραπτό κείμενο του Χέμινγουεϊ και θα προστεθεί στις συλλογές του Μουσείου.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/20262831337255-768x512.jpg"
         }
       ]
     },
@@ -657,6 +657,27 @@
       "color": "green",
       "articles": [
         {
+          "title": "Άμυνες που δείχνουν… γκολ στις αναμετρήσεις της Super League!",
+          "link": "https://www.gazzetta.gr/2509676/amynes-poy-deihnoyn-gkol-stis-anametriseis-tis-super-league",
+          "pubDate": "Sun, 25 Jan 2026 09:00:00 +0200",
+          "description": "Η 18η αγωνιστική της Super League ολοκληρώνεται την Κυριακή με τρεις αναμετρήσεις που παρουσιάζουν ιδιαίτερο ενδιαφέρον.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/atromitos-pao.jpg?itok=xG3xupfG"
+        },
+        {
+          "title": "Stoiximan Super League: Με πίεση ο Άρης κόντρα στον «αεράτο» Λεβαδειακό, επικίνδυνη έξοδος για τον Παναθηναϊκό στο Περιστέρι",
+          "link": "https://www.gazzetta.gr/football/2509457/stoiximan-super-league-me-piesi-o-aris-kontra-ston-aerato-lebadeiako-epikindyni",
+          "pubDate": "Sun, 25 Jan 2026 09:00:00 +0200",
+          "description": "Ανάλυση και προγνωστικά για την 18η αγωνιστική της Stoiximan Super League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/tete_4.jpg?itok=c3wmAoF2"
+        },
+        {
+          "title": "Ολυμπιακός: Οι 5 πάσες στο γκολ του Ελ Καμπί και ο θετικότατος Σιπιόνι",
+          "link": "https://www.gazzetta.gr/football/superleague/2509894/olympiakos-oi-5-pases-sto-gkol-toy-el-kampi-kai-o-thetikotatos-sipioni",
+          "pubDate": "Sun, 25 Jan 2026 08:59:00 +0200",
+          "description": "Ο Ολυμπιακός δεν έπιασε τοπ απόδοση στον αγώνα με τον Βόλο ωστόσο η φάση του γκολ του ήταν εξαιρετική από κάθε άποψη ενώ είχε και το κέρδος του Σιπιόνι.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/el_kaabi_oly_volos.jpg?itok=ir4VgVpG"
+        },
+        {
           "title": "Ντέρικ Ρόουζ: Η φανέλα του δίπλα σε Τζόρνταν και Πίπεν",
           "link": "https://www.gazzetta.gr/basketball/nba/2509933/nterik-rooyz-i-fanela-toy-dipla-se-tzorntan-kai-pipen",
           "pubDate": "Sun, 25 Jan 2026 08:50:47 +0200",
@@ -844,27 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:37:22 +0200",
           "description": "Ο νέος τραυματισμός του Γιάννη Αντετοκούνμπο, που τον θέτει εκτός δράσης για 4-6 εβδομάδες, έριξε κι άλλο λάδι στη... φωτιά των φημών γύρω από το μέλλον του στο Μιλγουόκι, με τον Τζέικ Φίσερ να κάνει λόγο για «αναπόφευκτο» διαζύγιο.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/antetokounmpo_2.jpg?itok=j4Gva-m2"
-        },
-        {
-          "title": "Νίκολιτς: «Πριν τον αγώνα με τον Ολυμπιακό πιστεύω ότι θα έχουμε πάρει χαφ»",
-          "link": "https://www.gazzetta.gr/football/superleague/2509874/nikolits-prin-ton-agona-me-ton-olympiako-pisteyo-oti-tha-ehoyme-parei",
-          "pubDate": "Sat, 24 Jan 2026 22:37:00 +0200",
-          "description": "Ο τεχνικός της ΑΕΚ, Μάρκο Νίκολιτς στη συνέντευξη Τύπου μετά τη νίκη στην Τρίπολη τόνισε πως πιστεύει ότι η ερχόμενη εβδομάδα θα φέρει μεταγραφικές εξελίξεις για την Ένωση στην υπόθεση του αμυντικού χαφ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/nikolic_3.jpg?itok=gZ9T2fnf"
-        },
-        {
-          "title": "Ρέλβας: «Έχουμε μεγάλους τερματοφύλακες, να προετοιμαστούμε κατάλληλα για Ολυμπιακό»",
-          "link": "https://www.gazzetta.gr/football/superleague/2509873/relbas-ehoyme-megaloys-termatofylakes-stin-aek-na-proetoimastoyme",
-          "pubDate": "Sat, 24 Jan 2026 22:35:48 +0200",
-          "description": "Οι δηλώσεις του Φιλίπε Ρέλβας στην κάμερα της NOVA μετά τη νίκη της ΑΕΚ στην έδρα του Αστέρα AKTOR.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/relvas-bartolo.jpg?itok=3428RZ_v"
-        },
-        {
-          "title": "Ζιάγκος: «Ήταν μια νίκη που τη χρωστάγαμε στους εαυτούς μας και στους Μυκονιάτες",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2509872/ziagkos-itan-mia-niki-poy-ti-hrostagame-stoys-eaytoys-mas-kai",
-          "pubDate": "Sat, 24 Jan 2026 22:34:30 +0200",
-          "description": "Ο Βαγγέλης Ζιάγκος δεν μπορούσε να κρύψει την ικανοποίησή του μετά τη μεγάλη νίκη της Μυκόνου απέναντι στον Ηρακλή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/ziagkos2.jpg?itok=yYMLI_Pe"
         }
       ]
     },
