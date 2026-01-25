@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T05:40:26.939Z",
+  "lastUpdated": "2026-01-25T05:45:30.035Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -657,6 +657,13 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ντέρικ Ρόουζ: Στον ουρανό του United Center των Μπουλς η φανέλα του",
+          "link": "https://www.gazzetta.gr/basketball/nba/2509930/nterik-rooyz-ston-oyrano-toy-united-center-ton-mpoyls-i-fanela-toy",
+          "pubDate": "Sun, 25 Jan 2026 07:40:53 +0200",
+          "description": "Ο Ντέρικ Ρόουζ, σε μια συγκινητική τελετή, είδε τη φανέλα του να αποσύρεται από τους Σικάγο Μπουλς.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/rose_0.jpg?itok=DFOUW7CI"
+        },
+        {
           "title": "Μαρσέιγ - Λανς 3-1: Δώρο από τους Μασσαλούς στην Παρί",
           "link": "https://www.gazzetta.gr/football/ligue-1/2509896/marseig-lans-3-1-doro-apo-toys-massaloys-stin-pari",
           "pubDate": "Sun, 25 Jan 2026 00:05:45 +0200",
@@ -858,13 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:26:58 +0200",
           "description": "Οι Σάρλοτ Χόρνετς ξεπέρασαν το εμπόδιο των Γουάσινγκτον Γουίζαρντς, επικρατώντας στη Σάρλοτ με 119-115.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/brandon_miller_hornets_getty.jpg?itok=5lLDRTHY"
-        },
-        {
-          "title": "ΑΕΚ: Γιόβιτς, Ρότα, Ρέλβας και Κοϊτά συμπλήρωσαν κάρτες και θα χάσουν ένα από τα επόμενα παιχνίδια της Super League",
-          "link": "https://www.newsit.gr/athlitika/aek-giovits-rota-relvas-kai-koita-symplirosan-kartes-kai-tha-xasoun-ena-apo-ta-epomena-paixnidia-tis-super-league/4582706/",
-          "pubDate": "Sat, 24 Jan 2026 20:26:43 +0000",
-          "description": "Η ΑΕΚ «απέδρασε» από την Τρίπολη με το διπλό με 1-0 επί του Αστέρα, αλλά είδε τέσσερις παίκτες της να δέχονται την κίτρινη κάρτα του ...  \nTo άρθρο ΑΕΚ: Γιόβιτς, Ρότα, Ρέλβας και Κοϊτά συμπλήρωσαν κάρτες και θα χάσουν ένα από τα επόμενα παιχνίδια της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-2-1-1200x799.jpg"
         }
       ]
     },
