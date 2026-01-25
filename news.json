@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-25T15:30:35.892Z",
+  "lastUpdated": "2026-01-25T15:35:28.242Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 13,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Έκλεψαν τα ψώνια από το μίνι μάρκετ στη Λαμία και παραλίγο να προκαλέσουν και τροχαίο, δείτε βίντεο",
+          "link": "https://www.protothema.gr/greece/article/1763147/eklepsan-ta-psonia-apo-to-souper-market-sti-lamia-kai-paraligo-na-prokalesoun-kai-trohaio-deite-video/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 17:34:08 +0200",
+          "description": "Οι δράστες που ήταν μεθυσμένοι αφαίρεσαν προϊόντα αξίας περίπου 50 ευρώ",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/klopi-katastima-lamia.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Φρίκη στην Μεσσηνία: Σκότωσαν σκύλο και τον κρέμασαν σε δέντρο",
           "link": "https://www.protothema.gr/greece/article/1763146/friki-stin-messinia-skotosan-skulo-kai-ton-kremasan-se-dedro/?utm_source=rss",
@@ -71,6 +79,14 @@
           "description": "Η παρουσία των θαλάσσιων θηλαστικών προκάλεσε ενθουσιασμό σε κατοίκους και επισκέπτες",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/fokia-xrm.jpg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "«Skyscraper Live»: Ο θρύλος του free solo Άλεξ Χόνολντ σκαρφάλωσε και τον ουρανοξύστη Taipei 101",
+          "link": "https://www.in.gr/2026/01/25/life/culture-live/skyscraper-live-o-thrylos-tou-free-solo-aleks-xonolnt-skarfalose-kai-ton-ouranoksysti-taipei-101/",
+          "pubDate": "Sun, 25 Jan 2026 17:30:06 +0300",
+          "description": "Ο Άλεξ Χόνολντ ανέβηκε τον ουρανοξύστη Taipei 101, φτάνοντας στην κορυφή των 508 μέτρων μπροστά σε πλήθος θεατών, σε μια ανάβαση που μεταδόθηκε ζωντανά από το Netflix. Ο Αμερικανός θρύλος της αναρρίχησης ακολούθησε την γνωστή για αυτόν «συνταγή»: το free solo.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/In-2017-Alex-Honnold-famously-free-soloed-El-Capitan-in-Yosemite-National-Park-—-nearly-3000-f-1-768x536.jpg",
+          "source": "In.gr"
         },
         {
           "title": "MasterChef – spoiler: Όσα θα δούμε μετά τις οντισιόν – Τα δύο σπίτια, οι μαγειρικές μάχες και οι μεγάλες ανατροπές",
@@ -231,22 +247,6 @@
           "description": "Σύμφωνα με εκτιμήσεις, η Ελλάδα βρίσκεται πιο κοντά στο να διατηρήσει τους πόρους της νέας ΚΑΠ για την περίοδο 2028-2034 σε επίπεδα αντίστοιχα με εκείνα της τρέχουσας προγραμματικής περιόδου",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-24/agrotes-xwrafia-xrm.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ανάρτηση στο «X»: Η άγνωστη πτυχή των σπουδών του «αγνώμονα» Έντι Ράμα – Το Χάρβαρντ και η ελληνική υποτροφία",
-          "link": "https://www.in.gr/2026/01/25/world/anartisi-sto-x-agnosti-ptyxi-ton-spoudon-tou-enti-rama-xarvarnt-kai-elliniki-ypotrofia/",
-          "pubDate": "Sun, 25 Jan 2026 16:33:48 +0300",
-          "description": "Η ανάρτηση στο «X» από την υπεύθυνη για την επιλογή υποτρόφων από τη Νοτιοανατολική Ευρώπη για την άγνωστη πτυχή των σπουδών του Έντι Ράμα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2025-10-02T121056Z_1854283035_RC2J3HA2QATZ_RTRMADP_5_EU-POLITICAL-COMMUNITY-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μπαρτζώκας: «Οι διαιτητές σφύριξαν αλλοπρόσαλλα στο παιχνίδι»",
-          "link": "https://www.newsit.gr/athlitika/mpartzokas-oi-diaitites-sfyriksan-alloprosalla-sto-paixnidi/4583021/",
-          "pubDate": "Sun, 25 Jan 2026 13:30:39 +0000",
-          "description": "Ο Ολυμπιακός κέρδισε 98-85 τον Κολοσσό Ρόδυ σε ένα παιχνίδι γεμάτο ένταση και έναν έντονο καυγά. Ο Μπαρτζώκας ήταν νευριασμένος στις δηλώσεις του, λέγοντας ότι ...  \nTo άρθρο Μπαρτζώκας: «Οι διαιτητές σφύριξαν αλλοπρόσαλλα στο παιχνίδι» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-mpartzokas-eurokinissi-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -261,6 +261,22 @@
           "description": "Συμβιβασμός μεταξύ των δύο βασικών θέσεων σε ότι αφορά το θέμα των συνεργασιών προέκυψε στο Συνέδριο της Νέας Αριστεράς μετά από διαβουλεύσεις που διήρκεσαν τρεις ημέρες.\nΣυμβιβασμός στο Συνέδριο της Νέας Αριστεράς - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Συμβιβασμός στη ΝΕΑΡ: Πώς αποφεύχθηκε η ρήξη ανάμεσα σε Χαρίτση – Σακελλαρίδη",
+          "link": "https://www.tanea.gr/2026/01/25/politics/symvivasmos-sti-near-pos-apofeyxthike-i-riksi-anamesa-se-xaritsi-sakellaridi/",
+          "pubDate": "Sun, 25 Jan 2026 15:16:28 +0000",
+          "description": "Η επιτροπή πολιτικής απόφασης του συνεδρίου της ΝΕΑΡ κατέληξε σε μια συμβιβαστική λύση στη διαφαινόμενη κρίση που υπήρχε τις τελευταίες ημέρες. Η πολιτική απόφαση προβλέπει τη συμφωνία σε προσανατολισμό λαϊκού μετώπου, το οποίο ήταν και το ζητούμενο για την πλευρά Χαριτση. Παράλληλα, ξεκαθαρίζεται ότι η κριτική σε άλλα σχήματα δεν αποκλείει τον διάλογο με αυτά. […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/aristera-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Συνεδριάζει το υπουργικό συμβούλιο υπό τον Κυριάκο Μητσοτάκη: Οι νομοθετικές πρωτοβουλίες που θα παρουσιαστούν",
+          "link": "https://www.tanea.gr/2026/01/25/politics/synedriazei-to-ypoyrgiko-symvoylio-ypo-ton-kyriako-mitsotaki-oi-nomothetikes-protovoylies/",
+          "pubDate": "Sun, 25 Jan 2026 14:54:13 +0000",
+          "description": "Αύριο, Δευτέρα 26 Ιανουαρίου, συνεδριάζει το Υπουργικό Συμβούλιο υπό την προεδρία του Κυριάκου Μητσοτάκη στο Μέγαρο Μαξίμου. Στις 18:00 ο πρωθυπουργός θα συμμετάσχει σε εκδήλωση για το πρόγραμμα «The Greek AI Accelerator».",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/mhtsotakhs-6-scaled-e1756203321790-1024x672.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "ΣΥΡΙΖΑ για ανάρτηση Κ. Μητσοτάκη: Η θέση της Ελλάδας πρέπει να είναι ξεκάθαρη, όχι να ισορροπεί σε δύο βάρκες",
@@ -279,6 +295,14 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Η διεύρυνση του ΠαΣοΚ στην εκδήλωση Ανανεωτικής Αριστεράς και Κινήσεων Πολιτών",
+          "link": "https://www.tovima.gr/2026/01/25/politics/i-dieyrynsi-tou-pasok-stin-ekdilosi-ananeotikis-aristeras-kai-kiniseon-politon/",
+          "pubDate": "Sun, 25 Jan 2026 14:35:11 +0300",
+          "description": "Με τη συμμετοχή στελεχών, μελών και φίλων της Ανανεωτικής Αριστεράς και των Κινήσεων Πολιτών για τη Σοσιαλδημοκρατία, πραγματοποιήθηκε η κοπή βασιλόπιτας",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/25/pita-1024x668.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Γ. Χατζηθεοδοσίου: Είναι στις προθέσεις μου να θέσω υποψηφιότητα για περιφερειάρχης Αττικής",
           "link": "https://www.naftemporiki.gr/politics/2063533/g-chatzitheodosioy-einai-stis-protheseis-moy-na-theso-ypopsifiotita-gia-perifereiarchis-attikis/?utm_source=rss&utm_medium=rss&utm_campaign=g-chatzitheodosioy-einai-stis-protheseis-moy-na-theso-ypopsifiotita-gia-perifereiarchis-attikis",
           "pubDate": "Sun, 25 Jan 2026 11:30:48 +0000",
@@ -295,12 +319,132 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Κυρανάκης στο “Face 2 Face” για Τσίπρα: «Ο κόσμος δεν τον περιμένει ως σωτήρα – Δεν βλέπω να έχει έρεισμα»",
+          "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-tsipra-o-kosmos-den-ton-perimenei-os-sotira-den-vlepo-na-exei-ereisma/",
+          "pubDate": "Sun, 25 Jan 2026 11:09:05 +0000",
+          "description": "Ο Κωνσταντίνος Κυρανάκης φιλοξενήθηκε την Κυριακή 25 Ιανουαρίου στην εκπομπή “Face 2 Face” με την Κατερίνα Παναγοπούλου, όπου σχολίασε την πρόθεση του Αλέξη Τσίπρα να ιδρύσει νέο πολιτικό κόμμα. Απαντώντας στην ερώτηση της δημοσιογράφου για το πώς αντέδρασε στο άκουσμα της είδησης, ο βουλευτής της Νέας Δημοκρατίας τόνισε πως δεν έχει «εμμονικά σύνδρομα απέναντι στον […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/KYRANAKIS-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Κυρανάκης στο “Face 2 Face” για Κωνσταντοπούλου: «Θεωρώ ότι έχει μέσα της πηγαίο μίσος – Παράγει και θρέφεται από αυτό»",
+          "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-konstantopoulou-theoro-oti-exei-mesa-tis-pigaio-misos-paragei-kai-threfetai-apo-ayto/",
+          "pubDate": "Sun, 25 Jan 2026 10:30:59 +0000",
+          "description": "Ο Κωνσταντίνος Κυρανάκης ήταν καλεσμένος την Κυριακή 25 Ιανουαρίου στην εκπομπή “Face 2 Face” με την Κατερίνα Παναγοπούλου, όπου μίλησε για τις πολιτικές του σχέσεις και το κλίμα στη Βουλή. Κατά τη διάρκεια της συνέντευξης, η δημοσιογράφος τον ρώτησε με ποιον πολιτικό αρχηγό θα επέλεγε να περάσει χρόνο εκτός πολιτικής, όπως σε μια βόλτα ή […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Kyranakis-3-1024x684.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Κυρανάκης στο “Face 2 Face” για την πρώτη του δουλειά: «Στην πολιτική, κατάλαβα πόσο σημαντικό είναι να έχεις ένσημα στην πλάτη σου»",
+          "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-tin-proti-tou-douleia-stin-politiki-katalava-poso-simantiko-einai-na-exeis-ensima-stin-plati-sou/",
+          "pubDate": "Sun, 25 Jan 2026 10:00:26 +0000",
+          "description": "Ο Κωνσταντίνος Κυρανάκης μίλησε για τη διαδρομή του από την εργασία στο λιανεμπόριο έως την πολιτική, στην εκπομπή “Face 2 Face” με τη Κατερίνα Παναγοπούλου, την Κυριακή 25 Ιανουαρίου. Η δημοσιογράφος τον ρώτησε για τα πρώτα του όνειρα και τα βήματα που τον οδήγησαν στη δημόσια ζωή  «Τριάντα οχτώ χρονών, πολύ νέος σε ηλικία, παιδί […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Kyranakis-6-1024x681.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Τα «αγκάθια» για τις αλλαγές στο Σύνταγμα",
+          "link": "https://www.tovima.gr/print/politics/ta-agkathia-gia-tis-allages-sto-syntagma/",
+          "pubDate": "Sun, 25 Jan 2026 12:49:00 +0300",
+          "description": "Τι θα γίνει με τον νόμο περί ευθύνης υπουργών και τη μονιμότητα των δημοσίων υπαλλήλων - Το πολυσυζητημένο άρθρο 16 για τα πανεπιστήμια και η απόφαση του Συμβουλίου της Επικρατείας",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/30/vouli-synnefa-1024x679.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Κυρανάκης στο “Face 2 Face”: Είμαι προϊόν καλοκαιρινού έρωτα στη Σκιάθο – Δεν του κρατάω κακία, είναι ο βιολογικός μου πατέρας",
+          "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-tin-sxesi-me-ton-patera-tou-krato-mia-epafi-mazi-tou-oi-epiloges-tou-kathenos-einai-sevastes/",
+          "pubDate": "Sun, 25 Jan 2026 09:30:58 +0000",
+          "description": "Ο Κωνσταντίνος Κυρανάκης μίλησε την Κυριακή 25 Ιανουαρίου στην εκπομπή «Face 2 Face» με την Κατερίνα Παναγοπούλου, σε μια συνέντευξη με έντονα προσωπικό χαρακτήρα. Ο Αναπληρωτής Υπουργός Μεταφορών αναφέρθηκε στη σχέση με τους γονείς του, την απώλεια της μητέρας του και τη δική του οικογένεια, αποκαλύπτοντας άγνωστες πτυχές της ζωής του. Η ειλικρινής κουβέντα πατέρα […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Kyranakis-4-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Τι νοσταλγεί ο Μητσοτάκης, πώς θέλει το 2027 η κυβέρνηση",
+          "link": "https://www.tanea.gr/print/2026/01/25/politics/ti-nostalgei-o-mitsotakis-pos-thelei-to-2027-i-kyvernisi/",
+          "pubDate": "Sun, 25 Jan 2026 09:08:00 +0000",
+          "description": "Συστατικά του 2019 και του 2023 ξαναβγαίνουν από το συρτάρι όπως οι δεκαετείς φωτογραφίες των νοσταλγών (του 2016) στα social media",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2016/01/2448925-1.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Κυρανάκης στο “Face 2 Face” για Πέρκα: «Η φράση μου ήταν λάθος, το αναγνωρίζω – Ζήτησα συγγνώμη και προχωράμε»",
+          "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-perka-i-frasi-mou-itan-lathos-to-anagnorizo-zitisa-syggnomi-kai-proxorame/",
+          "pubDate": "Sun, 25 Jan 2026 09:00:16 +0000",
+          "description": "Ο Κωνσταντίνος Κυρανάκης εμφανίστηκε την Κυριακή 25 Ιανουαρίου στην εκπομπή “Face 2 Face” με την Κατερίνα Παναγοπούλου, όπου αναφέρθηκε στο πρόσφατο περιστατικό με τη βουλευτή της Νέας Αριστεράς Πέτη Πέρκα. Ο αναπληρωτής υπουργός παραδέχθηκε ότι η φράση που χρησιμοποίησε στη Βουλή ήταν λανθασμένη, δηλώνοντας: «Έχετε απόλυτο δίκιο». Όπως εξήγησε, έχει μάθει να αναγνωρίζει τα λάθη […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Kyranakis-1-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Το πρόγραμμα της Καρυστιανού με τα δικά της λόγια",
+          "link": "https://www.tanea.gr/print/2026/01/25/politics/to-programma-lftis-karystianou-lfme-ta-dika-tis-logia/",
+          "pubDate": "Sun, 25 Jan 2026 08:46:00 +0000",
+          "description": "Ενα μικρό απάνθισμα, μια ιδέα της ουσίας των προγραμματικών δεσμεύσεων που προτίθεται να αναλάβει το νέο κόμμα με βάση τα λεγόμενά της σε συνεντεύξεις, αναρτήσεις και δηλώσεις της",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6804606-1.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Μητσοτάκης: Όχι σε αντιπαράθεση, αλλά σε συνεννόηση με τους συμμάχους μας",
+          "link": "https://www.tovima.gr/2026/01/25/politics/mitsotakis-oxi-se-antiparathesi-alla-se-synennoisi-me-tous-symmaxous-mas/",
+          "pubDate": "Sun, 25 Jan 2026 11:42:50 +0300",
+          "description": "«Επιδιώκουμε ενεργό ευρωπαϊκό ρόλο στη Γάζα και στη Μέση Ανατολή» έγραψε ο Κυριάκος Μητσοτάκης στην εβδομαδιαία ανασκόπησή του",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/09/mitsotakis-kyriakos-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Κ. Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη, διατηρώντας λειτουργικούς διαύλους συνεργασίας με τις ΗΠΑ",
           "link": "https://www.naftemporiki.gr/politics/2063499/k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa",
           "pubDate": "Sun, 25 Jan 2026 08:31:30 +0000",
           "description": "Στις αναταράξεις στις ευρωατλαντικές σχέσεις που σημάδεψαν την εβδομάδα που πέρασε εστιάζει ο πρωθυπουργός Κυριάκος Μητσοάκης στην καθιερωμένη κυριακάτικη ανάρτησή του, τονίζοντας την ανάγκη διατήρησης διαύλων συνεργασίας με τις ΗΠΑ,…\nΚ. Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη, διατηρώντας λειτουργικούς διαύλους συνεργασίας με τις ΗΠΑ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Κυρανάκης στο “Face 2 Face” για κυκλοφοριακή συμφόρηση: «Η Αθήνα δεν έχει σχεδιαστεί για τέτοια πυκνότητα οχημάτων»",
+          "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-kykloforiaki-symforisi-i-athina-den-exei-sxediastei-gia-tetoia-pyknotita-oximaton/",
+          "pubDate": "Sun, 25 Jan 2026 08:30:48 +0000",
+          "description": "Ο Κωνσταντίνος Κυρανάκης φιλοξενήθηκε την Κυριακή 25 Ιανουαρίου στην εκπομπή “Face 2 Face” με την Κατερίνα Παναγοπούλου, όπου συζητήθηκε εκτενώς το πρόβλημα της κυκλοφοριακής συμφόρησης στην Αθήνα. Η δημοσιογράφος αναφέρθηκε στα μέτρα που εξετάζει το υπουργείο, ανάμεσά τους και την πιθανή απαγόρευση κυκλοφορίας βαρέων οχημάτων από τις 7:00 έως τις 10:00 το πρωί στην Εθνική […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Kyranakis-2-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη – Να διατηρήσουμε διαύλους συνεργασίας με τις ΗΠΑ",
+          "link": "https://www.tanea.gr/2026/01/25/politics/mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-na-diatirisoume-diaylous-synergasias-me-tis-ipa/",
+          "pubDate": "Sun, 25 Jan 2026 08:08:28 +0000",
+          "description": "«Όπως συζητήσαμε στο έκτακτο Ευρωπαϊκό Συμβούλιο της Πέμπτης, η Ευρώπη οφείλει να είναι ενωμένη, να υπερασπίζεται το Διεθνές Δίκαιο και την κυριαρχία των κρατών-μελών της, όπως στην περίπτωση της Δανίας και της Γροιλανδίας. Ταυτόχρονα, οφείλουμε να διατηρούμε ένα πλαίσιο συνεννόησης και λειτουργικούς διαύλους συνεργασίας με τις Ηνωμένες Πολιτείες, ακόμη και σε περιόδους έντασης. Καθιστώντας παράλληλα […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/mitsotakis-8-1.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Αποκάλυψη Κυρανάκη στο “Face 2 Face” για τα Τέμπη: Ο σταθμάρχης είχε βάλει κι άλλο τρένο στη λάθος γραμμή",
+          "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-trena-vasiko-melima-i-egkatastasi-pollaplon-dikleidon-asfaleias/",
+          "pubDate": "Sun, 25 Jan 2026 08:02:00 +0000",
+          "description": "Ο Αναπληρωτής Υπουργός Μεταφορών, Κωνσταντίνος Κυρανάκης, μίλησε στο “Face 2 Face” και στην Κατερίνα Παναγοπούλου για την ασφάλεια των τρένων στην Ελλάδα, μετά την τραγωδία στα Τέμπη, επισημαίνοντας ότι το βασικό μέλημα είναι η εγκατάσταση πολλαπλών δικλείδων ασφαλείας για να μειωθούν τα ανθρώπινα λάθη. Αναφέρθηκε ακόμη στον τρόπο αντιμετώπισης της κυκλοφοριακής συμφόρησης, στο επεισόδιο με […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Konstadinos-Kyranakis-sto-face-to-face.jpg-1024x576.jpeg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Ντοκιμαντέρ για τον Σημίτη – Τελευταίο Επεισόδιο: Η παρακαταθήκη",
+          "link": "https://www.tovima.gr/2026/01/25/politics/kostas-simitis-i-epoxi-tis-eyropis-ena-ntokimanter-apo-to-vima/",
+          "pubDate": "Sun, 25 Jan 2026 10:29:50 +0300",
+          "description": "ΤΟ ΒΗΜΑ φωτίζει τις κρίσιμες στιγμές της πολιτικής διαδρομής του Κώστα Σημίτη, μέσα από μαρτυρίες στενών συνεργατών, φίλων, αλλά και πολιτικών αντιπάλων του, σε μια συναρπαστική σειρά ντοκιμαντέρ τεσσάρων επεισοδίων",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/25/Simitis_Episode_4_ArticleImageCleverStory-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Κύκλος Ιδεών: Δέκα χρόνια στο «εργαστήριο» της μεταπολιτικής",
+          "link": "https://www.tovima.gr/2026/01/25/politics/kyklos-ideon-deka-xronia-sto-ergastirio-tis-metapolitikis/",
+          "pubDate": "Sun, 25 Jan 2026 10:28:37 +0300",
+          "description": "Μια δεκαετία παρεμβάσεων στον δημόσιο λόγο, από την κρίση έως τις σύγχρονες προκλήσεις",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/11/venizelos-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Ελληνική Αστυνομία: Αυτοί είναι οι νέοι υποστράτηγοι",
+          "link": "https://www.tanea.gr/2026/01/24/politics/elliniki-astynomia-aytoi-einai-oi-neoi-ypostratigoi/",
+          "pubDate": "Sat, 24 Jan 2026 20:59:40 +0000",
+          "description": "Τοποθετήθηκαν οι Υποστράτηγοι της Ελληνικής Αστυνομίας, σύμφωνα με το δελτίο τύπου της Αθήνας στις 24 Ιανουαρίου 2026. Οι τοποθετήσεις των Υποστρατήγων της Ελληνικής Αστυνομίας πραγματοποιήθηκαν σύμφωνα με απόφαση του Αρχηγού της ΕΛ.ΑΣ., Αντιστράτηγου Δημήτριου Μάλλιου, όπως ανακοινώθηκε στις 24 Ιανουαρίου 2026. Σύμφωνα με την απόφαση, ο Υποστράτηγος Μαρίνος Στάκης τοποθετείται στη Γενική Διεύθυνση Προστασίας Επισήμων, […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/Astynomia-16-1024x683.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "Στο χιονοδρομικό των Καλαβρύτων ο Κ. Μητσοτάκης – Το βίντεο που ανήρτησε",
@@ -311,6 +455,22 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Γύρω γύρω κεντροαριστεροί και στη μέση ο… διάλογος",
+          "link": "https://www.tanea.gr/print/2026/01/24/politics/gyro-gyro-kentroaristeroicrkai-sti-mesi-cro-dialogos/",
+          "pubDate": "Sat, 24 Jan 2026 15:56:00 +0000",
+          "description": "Τα κρίσιμα συνέδρια, η επιστροφή Τσίπρα, το νέο τοπίο που δημιουργείται",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/m_m048491736499312.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Συνέδριο ΚΚΕ σε ρευστό πολιτικό τοπίο",
+          "link": "https://www.tanea.gr/print/2026/01/24/greece/synedrio-kke-se-reysto-politiko-topio/",
+          "pubDate": "Sat, 24 Jan 2026 15:52:00 +0000",
+          "description": "Ο Περισσός αναζητά τους όρους καλύτερης θωράκισής του, επικοινωνίας και σύμπραξης με τα λαϊκά στρώματα, ανανέωσης του στελεχικού του δυναμικού",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2023/02/5803870.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Γ. Γεραπετρίτης για Συμβούλιο Ειρήνης: «Η θέση μας καθορίζεται από την ιδιότητά μας ως εκλεγμένο μέλος του Συμβουλίου Ασφαλείας του ΟΗΕ»",
           "link": "https://www.naftemporiki.gr/politics/2063332/g-gerapetritis-gia-symvoylio-eirinis-i-thesi-mas-kathorizetai-apo-tin-idiotita-mas-os-eklegmeno-melos-toy-symvoylioy-asfaleias-toy-oie/?utm_source=rss&utm_medium=rss&utm_campaign=g-gerapetritis-gia-symvoylio-eirinis-i-thesi-mas-kathorizetai-apo-tin-idiotita-mas-os-eklegmeno-melos-toy-symvoylioy-asfaleias-toy-oie",
           "pubDate": "Sat, 24 Jan 2026 15:27:23 +0000",
@@ -319,180 +479,20 @@
           "source": "Ναυτεμπορική"
         },
         {
-          "title": "Άννα Διαμαντοπούλου στην ΕΦΣΥΝ: Πολιτικά και ηθικά δεν μπορούμε να συνεργαστούμε με τη Νέα Δημοκρατία",
-          "link": "https://www.naftemporiki.gr/politics/2063259/anna-diamantopoyloy-stin-efsyn-politika-kai-ithika-den-mporoyme-na-synergastoyme-me-ti-nea-dimokratia/?utm_source=rss&utm_medium=rss&utm_campaign=anna-diamantopoyloy-stin-efsyn-politika-kai-ithika-den-mporoyme-na-synergastoyme-me-ti-nea-dimokratia",
-          "pubDate": "Sat, 24 Jan 2026 11:26:15 +0000",
-          "description": "Την ανάγκη το ΠΑΣΟΚ να δώσει «διέξοδο για μια άλλη διακυβέρνηση» υπογραμμίζει η Άννα Διαμαντοπούλου, απορρίπτοντας ρητά κάθε ενδεχόμενο συνεργασίας με τη Νέα Δημοκρατία και θέτοντας ως κεντρικό διακύβευμα την…\nΆννα Διαμαντοπούλου στην ΕΦΣΥΝ: Πολιτικά και ηθικά δεν μπορούμε να συνεργαστούμε με τη Νέα Δημοκρατία - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
+          "title": "Γεραπετρίτης: Η ελληνική θέση καθορίζεται και από την ιδιότητά της ως εκλεγμένο μέλος του Συμβουλίου Ασφαλείας του ΟΗΕ",
+          "link": "https://www.tanea.gr/2026/01/24/politics/gerapetritis-i-elliniki-thesi-kathorizetai-kai-apo-tin-idiotita-tis-os-eklegmeno-melos-toy/",
+          "pubDate": "Sat, 24 Jan 2026 15:25:09 +0000",
+          "description": "Ο Γ. Γεραπετρίτης δήλωσε πως η Ελλάδα στηρίζει τις πρωτοβουλίες για ειρήνη και πιστεύει στην πολυμερή διπλωματία, ενώ διατηρεί διαρκή συνεργασία με τους Ευρωπαίους εταίρους και συμμάχους της για το Συμβούλιο Ειρήνης.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/gerapetritis-e1758222954124-1024x768.jpg",
+          "source": "Τα Νέα"
         },
         {
-          "title": "Πηγές του ΥΕΘΑ διαψεύδουν τα περί πώλησης κτιρίου του Πολεμικού Ναυτικού στην πλατεία Κλαυθμώνος",
-          "link": "https://www.naftemporiki.gr/politics/2063247/piges-toy-yetha-diapseydoyn-ta-peri-polisis-ktirioy-toy-polemikoy-naytikoy-stin-plateia-klaythmonos/?utm_source=rss&utm_medium=rss&utm_campaign=piges-toy-yetha-diapseydoyn-ta-peri-polisis-ktirioy-toy-polemikoy-naytikoy-stin-plateia-klaythmonos",
-          "pubDate": "Sat, 24 Jan 2026 10:28:48 +0000",
-          "description": "Δημοσιεύματα περί δήθεν «πώλησης του κτιρίου του Πολεμικού Ναυτικού στην Πλατεία Κλαυθμώνος» διαψεύδουν κατηγορηματικά πηγές του υπουργείου Εθνικής Άμυνας .\nΠηγές του ΥΕΘΑ διαψεύδουν τα περί πώλησης κτιρίου του Πολεμικού Ναυτικού στην πλατεία Κλαυθμώνος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Στη Βουλή το ν/σ για τη νόμιμη μετανάστευση: Τι αλλάζει σε άδειες, απασχόληση, ΜΚΟ – Ακόμη και ισόβια για διακινητές",
-          "link": "https://www.naftemporiki.gr/politics/2063229/sti-voyli-to-n-s-gia-ti-nomimi-metanasteysi-ti-allazei-se-adeies-apascholisi-mko-akomi-kai-isovia-gia-diakinites/?utm_source=rss&utm_medium=rss&utm_campaign=sti-voyli-to-n-s-gia-ti-nomimi-metanasteysi-ti-allazei-se-adeies-apascholisi-mko-akomi-kai-isovia-gia-diakinites",
-          "pubDate": "Sat, 24 Jan 2026 10:13:08 +0000",
-          "description": "Αλλαγές στα στάδια αδειοδότησης, αυστηρότερες κυρώσεις για παράνομη διακίνηση μεταναστών και ρύθμιση του πλαισίου λειτουργίας των ΜΚΟ φέρνει το νομοσχέδιο του υπουργείου Μετανάστευσης και Ασύλου «Προώθηση Πολιτικών Νόμιμης Μετανάστευσης», το…\nΣτη Βουλή το ν/σ για τη νόμιμη μετανάστευση: Τι αλλάζει σε άδειες, απασχόληση, ΜΚΟ – Ακόμη και ισόβια για διακινητές - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Νομοσχέδιο «Ενεργή Μάχη»: Τι αλλάζει με τους Κανόνες Εμπλοκής στο Πυροσβεστικό Σώμα",
-          "link": "https://www.naftemporiki.gr/politics/2063176/nomoschedio-energi-machi-ti-allazei-me-toys-kanones-emplokis-sto-pyrosvestiko-soma/?utm_source=rss&utm_medium=rss&utm_campaign=nomoschedio-energi-machi-ti-allazei-me-toys-kanones-emplokis-sto-pyrosvestiko-soma",
-          "pubDate": "Sat, 24 Jan 2026 09:41:15 +0000",
-          "description": "Αντίστροφα μετρά ο χρόνος για το νέο νομοσχέδιο του Υπουργείου Κλιματικής Κρίσης και Πολιτικής Προστασίας με τίτλο «Ενεργή Μάχη» καθώς τη Δευτέρα 26/01 λήγει η δημόσια διαβούλευση.\nΝομοσχέδιο «Ενεργή Μάχη»: Τι αλλάζει με τους Κανόνες Εμπλοκής στο Πυροσβεστικό Σώμα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Π. Παυλόπουλος από Αίγινα: «Ο Καποδίστριας είναι ο ιδρυτής του Νεότερου Ελληνικού Κράτους»",
-          "link": "https://www.naftemporiki.gr/politics/2063236/p-paylopoylos-apo-aigina-o-kapodistrias-einai-o-idrytis-toy-neoteroy-ellinikoy-kratoys/?utm_source=rss&utm_medium=rss&utm_campaign=p-paylopoylos-apo-aigina-o-kapodistrias-einai-o-idrytis-toy-neoteroy-ellinikoy-kratoys",
-          "pubDate": "Sat, 24 Jan 2026 09:38:08 +0000",
-          "description": "Με κεντρικό θέμα «Ο Ιωάννης Καποδίστριας ως ιδρυτής του Νεότερου Ελληνικού Κράτους» μίλησε στην Αίγινα ο πρώην Πρόεδρος της Δημοκρατίας, Ακαδημαϊκός και Επίτιμος Καθηγητής της Νομικής Σχολής του ΕΚΠΑ, Προκόπιος…\nΠ. Παυλόπουλος από Αίγινα: «Ο Καποδίστριας είναι ο ιδρυτής του Νεότερου Ελληνικού Κράτους» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Γ. Παπανδρέου για Σ. Βαλυράκη: «Σήμερα που το κράτος δικαίου δοκιμάζεται ξανά, η στάση του Σήφη δεν είναι απλώς μνήμη: Είναι φάρος»",
-          "link": "https://www.naftemporiki.gr/politics/2063163/g-papandreoy-gia-s-valyraki-simera-poy-to-kratos-dikaioy-dokimazetai-xana-i-stasi-toy-sifi-den-einai-aplos-mnimi-einai-faros/?utm_source=rss&utm_medium=rss&utm_campaign=g-papandreoy-gia-s-valyraki-simera-poy-to-kratos-dikaioy-dokimazetai-xana-i-stasi-toy-sifi-den-einai-aplos-mnimi-einai-faros",
-          "pubDate": "Fri, 23 Jan 2026 19:55:21 +0000",
-          "description": "«Ο Σήφης Βαλυράκης μας λείπει. Λείπει ως πατέρας, ως αδελφός, ως σύντροφος – σύντροφος στη ζωή και σύντροφος στους αγώνες. Μας λείπει όμως και ως εκείνη η σπάνια μορφή ανθρώπου…\nΓ. Παπανδρέου για Σ. Βαλυράκη: «Σήμερα που το κράτος δικαίου δοκιμάζεται ξανά, η στάση του Σήφη δεν είναι απλώς μνήμη: Είναι φάρος» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Αντ. Σαμαράς για τον Σήφη Βαλυράκη: Άδολος πατριώτης που σπανίζει σήμερα",
-          "link": "https://www.naftemporiki.gr/politics/2063059/ant-samaras-gia-s-valyraki-adolos-patriotis-pone-iroika-as-min-to-xechasoyme-pote/?utm_source=rss&utm_medium=rss&utm_campaign=ant-samaras-gia-s-valyraki-adolos-patriotis-pone-iroika-as-min-to-xechasoyme-pote",
-          "pubDate": "Fri, 23 Jan 2026 17:20:47 +0000",
-          "description": "«Με τον Σήφη ήμασταν φίλοι. Και ας γεννήθηκε αυτή η φιλία ανάμεσα σε δύο ανθρώπους που πολιτεύτηκαν σε μια εποχή πολιτικού πάθους και σφοδρών συγκρούσεων. Στην εποχή των πράσινων και…\nΑντ. Σαμαράς για τον Σήφη Βαλυράκη: Άδολος πατριώτης που σπανίζει σήμερα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Επίθεση της Hurriyet στον Ν. Δένδια για τα 12 ναυτικά μίλια – Κάνει λόγο για «πρόκληση στο Αιγαίο»",
-          "link": "https://www.naftemporiki.gr/politics/2063001/epithesi-tis-hurriyet-ston-n-dendia-gia-ta-12-naytika-milia-kanei-logo-gia-proklisi-sto-aigaio/?utm_source=rss&utm_medium=rss&utm_campaign=epithesi-tis-hurriyet-ston-n-dendia-gia-ta-12-naytika-milia-kanei-logo-gia-proklisi-sto-aigaio",
-          "pubDate": "Fri, 23 Jan 2026 16:02:10 +0000",
-          "description": "Σε σημερινό της δημοσίευμα η τουρκική φιλοκυβερνητική Hurriyet επιτίθεται στην Ελλάδα και τον Νίκο Δένδια, με αφορμή τις πρόσφατες δηλώσεις του Υπουργού Εθνικής Άμυνας για την επέκταση των χωρικών υδάτων.…\nΕπίθεση της Hurriyet στον Ν. Δένδια για τα 12 ναυτικά μίλια – Κάνει λόγο για «πρόκληση στο Αιγαίο» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Σ. Φάμελλος προς Δανό πρέσβη: Αδιαπραγμάτευτα τα θέματα εδαφικής ακεραιότητας και εθνικής κυριαρχίας",
-          "link": "https://www.naftemporiki.gr/politics/2062985/s-famellos-pros-dano-presvi-adiapragmateyta-ta-themata-edafikis-akeraiotitas-kai-ethnikis-kyriarchias/?utm_source=rss&utm_medium=rss&utm_campaign=s-famellos-pros-dano-presvi-adiapragmateyta-ta-themata-edafikis-akeraiotitas-kai-ethnikis-kyriarchias",
-          "pubDate": "Fri, 23 Jan 2026 15:06:00 +0000",
-          "description": "«Για τον ΣΥΡΙΖΑ-ΠΣ τα ζητήματα της εδαφικής ακεραιότητας και της εθνικής κυριαρχίας δεν είναι διαπραγματεύσιμα», επισήμανε ο πρόεδρος του κόμματος, Σωκράτης Φάμελλος, κατά τη συνάντηση που πραγματοποίησε -με πρωτοβουλία και…\nΣ. Φάμελλος προς Δανό πρέσβη: Αδιαπραγμάτευτα τα θέματα εδαφικής ακεραιότητας και εθνικής κυριαρχίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Χρ. Κέλλας: Δεν υπάρχει εγκεκριμένο εμβόλιο στην Ε.Ε. κατά της ευλογιάς των προβάτων",
-          "link": "https://www.naftemporiki.gr/politics/2062895/chr-kellas-den-yparchei-egkekrimeno-emvolio-kata-tis-eylogias-ton-provaton-stin-e-e/?utm_source=rss&utm_medium=rss&utm_campaign=chr-kellas-den-yparchei-egkekrimeno-emvolio-kata-tis-eylogias-ton-provaton-stin-e-e",
-          "pubDate": "Fri, 23 Jan 2026 13:31:32 +0000",
-          "description": "Τους ισχυρισμούς περί «σοκαριστικής επιστολής – κόλαφου» της Ευρωπαϊκής Επιτροπής και δήθεν απόκρυψής της αντέκρουσε στη Βουλή ο υφυπουργός Αγροτικής Ανάπτυξης και Τροφίμων, Χρήστος Κέλλας, απαντώντας σε επίκαιρη ερώτηση της…\nΧρ. Κέλλας: Δεν υπάρχει εγκεκριμένο εμβόλιο στην Ε.Ε. κατά της ευλογιάς των προβάτων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Όλγα Κεφαλογιάννη: Τι απαντά για τη ρύθμιση περί επιμέλειας παιδιών",
-          "link": "https://www.naftemporiki.gr/politics/2062901/olga-kefalogianni-ti-anaferei-gia-tin-tropologia-peri-epimeleias-paidion/?utm_source=rss&utm_medium=rss&utm_campaign=olga-kefalogianni-ti-anaferei-gia-tin-tropologia-peri-epimeleias-paidion",
-          "pubDate": "Fri, 23 Jan 2026 13:20:45 +0000",
-          "description": "Στη ρύθμιση περί επιμέλειας παιδιών αναφέρεται με ανάρτησή της η υπουργός Τουρισμού Όλγα Κεφαλογιάννη.\nΌλγα Κεφαλογιάννη: Τι απαντά για τη ρύθμιση περί επιμέλειας παιδιών - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "ΣΥΡΙΖΑ: Η λήξη των μπλόκων δεν είναι ήττα των αγροτών, αλλά αφετηρία για νέους αγώνες",
-          "link": "https://www.naftemporiki.gr/politics/2062878/syriza-i-lixi-ton-mplokon-den-einai-itta-ton-agroton-alla-afetiria-gia-neoys-agones/?utm_source=rss&utm_medium=rss&utm_campaign=syriza-i-lixi-ton-mplokon-den-einai-itta-ton-agroton-alla-afetiria-gia-neoys-agones",
-          "pubDate": "Fri, 23 Jan 2026 13:04:52 +0000",
-          "description": "Τον αγώνα των αγροτών και κτηνοτρόφων που συμμετείχαν στα μπλόκα και με τις κινητοποιήσεις τους «έκαναν σαφές ότι δεν θα παραδώσουν την ύπαιθρο στις νεοφιλελεύθερες πολιτικές της κυβέρνησης Μητσοτάκη» χαιρετίζει…\nΣΥΡΙΖΑ: Η λήξη των μπλόκων δεν είναι ήττα των αγροτών, αλλά αφετηρία για νέους αγώνες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Η Άγκυρα υπονομεύει τη σύγκληση του ΑΣΣ με απαράδεκτη NAVTEX διαρκείας",
-          "link": "https://www.naftemporiki.gr/politics/2062764/i-agkyra-yponomeyei-ti-sygklisi-toy-ass-me-aparadekti-navtex-diarkeias/?utm_source=rss&utm_medium=rss&utm_campaign=i-agkyra-yponomeyei-ti-sygklisi-toy-ass-me-aparadekti-navtex-diarkeias",
-          "pubDate": "Fri, 23 Jan 2026 12:14:20 +0000",
-          "description": "Η Τουρκία «δυναμιτίζει» το κλίμα και τα «ήρεμα νερά» που διέπουν τις ελληνοτουρκικές σχέσεις σε χρόνο που Αθήνα και Άγκυρα αναζητούν ημερομηνίες (εντός του Φεβρουαρίου) για τη διεξαγωγή του Ανώτατου…\nΗ Άγκυρα υπονομεύει τη σύγκληση του ΑΣΣ με απαράδεκτη NAVTEX διαρκείας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Τουρκία: Η προμήθεια Eurofighter και πόσο αλλάζουν οι ισορροπίες ισχύος – Ο πτέραρχος ε.α. Αθ. Παπανικολάου στο Naftemporiki TV",
-          "link": "https://www.naftemporiki.gr/politics/2062739/toyrkia-i-promitheia-eurofighter-kai-poso-allazoyn-oi-isorropies-ischyos-o-pterarchos-e-a-ath-papanikolaoy-sto-naftemporiki-tv/?utm_source=rss&utm_medium=rss&utm_campaign=toyrkia-i-promitheia-eurofighter-kai-poso-allazoyn-oi-isorropies-ischyos-o-pterarchos-e-a-ath-papanikolaoy-sto-naftemporiki-tv",
-          "pubDate": "Fri, 23 Jan 2026 10:19:56 +0000",
-          "description": "Για τους νέους συσχετισμούς ισχύος που αναμένεται να διαμορφώσει η επικείμενη παραλαβή Eurofighter από την Τουρκία, μίλησε στο κανάλι της Ναυτεμπορικής και στην εκπομπή “Momentum” με τη Μάγκυ Δούση ο…\nΤουρκία: Η προμήθεια Eurofighter και πόσο αλλάζουν οι ισορροπίες ισχύος – Ο πτέραρχος ε.α. Αθ. Παπανικολάου στο Naftemporiki TV - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Κ. Μητσοτάκης στο Euronews: Όλο και πιο περίπλοκη η διατλαντική σχέση – Η Ευρώπη πρέπει να υπερασπιστεί τα συμφέροντά της",
-          "link": "https://www.naftemporiki.gr/politics/2062688/k-mitsotakis-sto-euronews-olo-kai-pio-periploki-i-diatlantiki-schesi-i-eyropi-prepei-na-yperaspistei-ta-symferonta-tis/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-sto-euronews-olo-kai-pio-periploki-i-diatlantiki-schesi-i-eyropi-prepei-na-yperaspistei-ta-symferonta-tis",
-          "pubDate": "Fri, 23 Jan 2026 08:23:56 +0000",
-          "description": "Οι ευρωατλαντικές σχέσεις γίνονται όλο και πιο περίπλοκες, τόνισε ο πρωθυπουργός Κυριάκος Μητσοτάκης, σε συνέντευξή του στο Euronews, μία ημέρα μετά τη Σύνοδο των 27 στις Βρυξέλλες.\nΚ. Μητσοτάκης στο Euronews: Όλο και πιο περίπλοκη η διατλαντική σχέση – Η Ευρώπη πρέπει να υπερασπιστεί τα συμφέροντά της - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "K. Μητσοτάκης για σχέσεις Ε.Ε. – ΗΠΑ: Οι καλοί λογαριασμοί κάνουν τους καλούς φίλους",
-          "link": "https://www.naftemporiki.gr/politics/2062600/k-mitsotakis-gia-scheseis-e-e-ipa-oi-kaloi-logariasmoi-kanoyn-toys-kaloys-filoys/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-gia-scheseis-e-e-ipa-oi-kaloi-logariasmoi-kanoyn-toys-kaloys-filoys",
-          "pubDate": "Fri, 23 Jan 2026 04:01:37 +0000",
-          "description": "Την ανάγκη οι ευρωατλαντικές σχέσεις να παραμείνουν σε «λειτουργικό» επίπεδο, παρά τις αναταράξεις του τελευταίου διαστήματος, υπογράμμισε ο πρωθυπουργός Κυριάκος Μητσοτάκης, σε δηλώσεις του μετά την ολοκλήρωση του έκτακτου Ευρωπαϊκού…\nK. Μητσοτάκης για σχέσεις Ε.Ε. – ΗΠΑ: Οι καλοί λογαριασμοί κάνουν τους καλούς φίλους - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "«Ακαδημαϊκές Ομιλίες»: Κυκλοφόρησε το νέο βιβλίο του Προκόπη Παυλόπουλου από την Ακαδημία Αθηνών",
-          "link": "https://www.naftemporiki.gr/politics/2062567/akadimaikes-omilies-kykloforise-to-neo-vivlio-toy-prokopi-paylopoyloy-apo-tin-akadimia-athinon/?utm_source=rss&utm_medium=rss&utm_campaign=akadimaikes-omilies-kykloforise-to-neo-vivlio-toy-prokopi-paylopoyloy-apo-tin-akadimia-athinon",
-          "pubDate": "Thu, 22 Jan 2026 20:03:24 +0000",
-          "description": "Με τίτλο «Ακαδημαϊκές Ομιλίες», κυκλοφόρησε από την Ακαδημία Αθηνών το νέο βιβλίο του πρώην Προέδρου της Δημοκρατίας και Ακαδημαϊκού Προκόπη Παυλόπουλου. Στο βιβλίο είναι συγκεντρωμένες ο παρεμβάσεις του σε θεσμικά…\n«Ακαδημαϊκές Ομιλίες»: Κυκλοφόρησε το νέο βιβλίο του Προκόπη Παυλόπουλου από την Ακαδημία Αθηνών - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Αλέξης Χαρίτσης: Tο «Λαϊκό Μέτωπο» η μόνη απάντηση στην επέλαση του εγχώριου Τραμπισμού – Αυτό το σχέδιο μπορώ να υπηρετήσω",
-          "link": "https://www.naftemporiki.gr/politics/2062554/alexis-charitsis-to-laiko-metopo-i-moni-apantisi-stin-epelasi-toy-egchorioy-trampismoy-ayto-to-schedio-mporo-na-ypiretiso/?utm_source=rss&utm_medium=rss&utm_campaign=alexis-charitsis-to-laiko-metopo-i-moni-apantisi-stin-epelasi-toy-egchorioy-trampismoy-ayto-to-schedio-mporo-na-ypiretiso",
-          "pubDate": "Thu, 22 Jan 2026 19:44:07 +0000",
-          "description": "Με το θέμα των συνεργασιών και την στάση απέναντι στον Αλέξη Τσίπρα να πλανάται επάνω από το ΣΕΦ και να διχάζει το σώμα των συνέδρων, το διαρκές προγραμματικό συνέδριο της…\nΑλέξης Χαρίτσης: Tο «Λαϊκό Μέτωπο» η μόνη απάντηση στην επέλαση του εγχώριου Τραμπισμού – Αυτό το σχέδιο μπορώ να υπηρετήσω - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Θ. Λιβάνιος στη Βουλή: Η κατάργηση των Σχολικών Επιτροπών αποκάλυψε τους σκελετούς στη ντουλάπα",
-          "link": "https://www.naftemporiki.gr/politics/2062545/th-livanios-sti-voyli-i-katargisi-ton-scholikon-epitropon-apokalypse-toys-skeletoys-sti-ntoylapa/?utm_source=rss&utm_medium=rss&utm_campaign=th-livanios-sti-voyli-i-katargisi-ton-scholikon-epitropon-apokalypse-toys-skeletoys-sti-ntoylapa",
-          "pubDate": "Thu, 22 Jan 2026 19:22:26 +0000",
-          "description": "«Η κατάργηση των Σχολικών Επιτροπών έβγαλε τους σκελετούς από τις ντουλάπες», είναι η φράση με την οποία ο Υπουργός Εσωτερικών Θοδωρής Λιβάνιος επιχείρησε να καταδείξει το μείζον διαχειριστικό πρόβλημα με…\nΘ. Λιβάνιος στη Βουλή: Η κατάργηση των Σχολικών Επιτροπών αποκάλυψε τους σκελετούς στη ντουλάπα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Metron Analysis: Τρεις οι «μνηστήρες» της δεύτερης θέσης – Υψηλές «πτήσεις» για την δημοφιλία της Καρυστιανού",
-          "link": "https://www.naftemporiki.gr/politics/2062514/metron-analysis-treis-oi-mnistires-tis-deyteris-thesis-ypsiles-ptiseis-gia-tin-dimofilia-tis-karystianoy/?utm_source=rss&utm_medium=rss&utm_campaign=metron-analysis-treis-oi-mnistires-tis-deyteris-thesis-ypsiles-ptiseis-gia-tin-dimofilia-tis-karystianoy",
-          "pubDate": "Thu, 22 Jan 2026 18:52:54 +0000",
-          "description": "Ρευστό παραμένει το τοπίο στον χώρο της αντιπολίτευσης όπου, σύμφωνα με τη νέα δημοσκόπηση της Metron Analysis, τρεις είναι οι «μνηστήρες» της δεύτερης θέσης, με το εκλογικό σώμα να εμφανίζεται…\nMetron Analysis: Τρεις οι «μνηστήρες» της δεύτερης θέσης – Υψηλές «πτήσεις» για την δημοφιλία της Καρυστιανού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Κ. Μητσοτάκης: «Ναι» στο Συμβούλιο Ειρήνης, αλλά μόνο για τη Γάζα",
-          "link": "https://www.naftemporiki.gr/politics/2062516/k-mitsotakis-nai-sto-symvoylio-eirinis-alla-mono-gia-ti-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-nai-sto-symvoylio-eirinis-alla-mono-gia-ti-gaza",
-          "pubDate": "Thu, 22 Jan 2026 18:45:17 +0000",
-          "description": "Προσχώρηση στο Συμβούλιο Ειρήνης των 13 χωρών που έχουν προσκληθεί σε αυτό, πλην όμως μόνο για την επόμενη φάση της ειρηνευτικής διαδικασίας στη Γάζα και για όσο χρόνο αυτό απαιτεί,…\nΚ. Μητσοτάκης: «Ναι» στο Συμβούλιο Ειρήνης, αλλά μόνο για τη Γάζα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Κίμπερλι Γκιλφόιλ: Ο Τραμπ δεν θα απειλήσει ποτέ με διακοπή LNG – Η Ελλάδα βασιλή πύλη για την Ευρώπη",
-          "link": "https://www.naftemporiki.gr/politics/2062505/kimperli-gkilfoil-o-tramp-den-tha-apeilisei-pote-me-diakopi-lng-i-ellada-vasili-pyli-gia-tin-eyropi/?utm_source=rss&utm_medium=rss&utm_campaign=kimperli-gkilfoil-o-tramp-den-tha-apeilisei-pote-me-diakopi-lng-i-ellada-vasili-pyli-gia-tin-eyropi",
-          "pubDate": "Thu, 22 Jan 2026 18:07:57 +0000",
-          "description": "Η αντιπαράθεση του Προέδρου Τραμπ με την Ευρώπη για τη Γροιλανδία δεν θα εμποδίσει τις επικείμενες συμφωνίες των ΗΠΑ με τις ευρωπαϊκές χώρες, προβλέπει η πρέσβειρα των ΗΠΑ στην Ελλάδα,…\nΚίμπερλι Γκιλφόιλ: Ο Τραμπ δεν θα απειλήσει ποτέ με διακοπή LNG – Η Ελλάδα βασιλή πύλη για την Ευρώπη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
+          "title": "Αποστολή στην Τουρκία με χαμηλές προσδοκίες",
+          "link": "https://www.tanea.gr/print/2026/01/24/politics/apostoli-stin-tourkia-crme-xamiles-prosdokies/",
+          "pubDate": "Sat, 24 Jan 2026 15:06:00 +0000",
+          "description": "Στην τελική φάση οι συνεννοήσεις για τη συνάντηση Μητσοτάκη - Ερντογάν",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2024/07/6270970.jpg",
+          "source": "Τα Νέα"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Video shows moments around fatal shooting of Alex Pretti in Minneapolis",
+          "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 15:31:54 GMT",
+          "description": "Bystander footage has captured the seconds before the killing of 37-year-old Alex Pretti.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf2/live/6592a130-f99f-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
         {
           "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
           "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
@@ -693,14 +701,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Video shows moments around fatal shooting in Minneapolis",
-          "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 03:34:28 GMT",
-          "description": "Bystander footage has captured the seconds before the killing of 37-year-old Alex Pretti.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf2/live/6592a130-f99f-11f0-b5f7-49f0357294ff.jpg",
-          "source": "BBC News"
-        },
-        {
           "title": "What India's Republic Day red carpet means for its foreign policy",
           "link": "https://www.bbc.com/news/articles/c9wxx29yknpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 02:03:04 GMT",
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παναθηναϊκός - Μαρούσι 92-81: Αν και μισός ήταν πληθωρικός ",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510071/panathinaikos-maroysi-92-81-kai-misos-itan-plithorikos",
+          "pubDate": "Sun, 25 Jan 2026 17:31:02 +0200",
+          "description": "Όταν χρειάστηκε ο Παναθηναϊκός απλά... χάιδεψε το πόδι στο γκάζι και επικράτησε χωρίς να προβληματιστεί ιδιαίτερα του Αμαρουσίου με 92-81. Έξι παίκτες με διψήφιο αριθμό πόντων.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/juancho_hernangomez_toliopoulos_intime.jpg?itok=k_YbL1Gp",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άρης - Λεβαδειακός ο Όζμπολτ ισοφάρισε στα 29 δευτερόλεπτα!",
+          "link": "https://www.gazzetta.gr/football/superleague/2510070/aris-lebadeiakos-o-ozmpolt-isofarise-sta-29-deyterolepta",
+          "pubDate": "Sun, 25 Jan 2026 17:30:29 +0200",
+          "description": "Ο Λεβαδειακός με τον Όζμπολτ έκανε το 1-1 στο 46' κόντρα στον Άρη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aris_-_lebadeiakos_1.jpg?itok=f82hMj2M",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Γουόρντ: «Έπαιξα όπως ο Γουόκαπ»",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510069/goyornt-epaixa-opos-o-goyokap",
           "pubDate": "Sun, 25 Jan 2026 17:26:55 +0200",
@@ -763,10 +779,10 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Α' εθνική Γυναικών: Έκανε το καθήκον της η ΑΕΚ, η Κηφισιά πήρε ανάσα στο φινάλε",
+          "title": "Α' Εθνική Γυναικών: Το καθήκον της η ΑΕΚ, η Κηφισιά πήρε ανάσα στο φινάλε",
           "link": "https://www.gazzetta.gr/football/ethniki-gynaikon/2510066/ethniki-gynaikon-ekane-kathikon-tis-i-aek-i-kifisia-pire-anasa",
           "pubDate": "Sun, 25 Jan 2026 17:12:44 +0200",
-          "description": "Ο ΠΑΟΚ συνεχίζει αήττητος, η ΑΕΚ και η ΡΕΑ πανηγύρισαν νίκες, ενώ Κηφισιά και Αγία Παρασκευή πήραν σημαντικούς βαθμούς στη 15η αγωνιστική της Α' εθνικής γυναικών.",
+          "description": "Ο ΠΑΟΚ συνεχίζει αήττητος, η ΑΕΚ και η ΡΕΑ πανηγύρισαν νίκες, ενώ Κηφισιά και Αγία Παρασκευή πήραν σημαντικούς βαθμούς στη 15η αγωνιστική της Α' Εθνικής γυναικών.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_women_1.jpg?itok=XapFGyom",
           "source": "Gazzetta"
         },
@@ -969,22 +985,6 @@
           "description": "Ο Ολυμπιακός κέρδισε 98-85 τον Κολοσσό Ρόδυ σε ένα παιχνίδι γεμάτο ένταση και έναν έντονο καυγά. Ο Μπαρτζώκας ήταν νευριασμένος στις δηλώσεις του, λέγοντας ότι ...  \nTo άρθρο Μπαρτζώκας: «Οι διαιτητές σφύριξαν αλλοπρόσαλλα στο παιχνίδι» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-mpartzokas-eurokinissi-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ατρόμητος: Η υπέροχη κίνηση των «Fentagin» για απινιδωτές στα ΚΕΦΙ του Περιστερίου",
-          "link": "https://www.gazzetta.gr/football/superleague/2510015/atromitos-i-yperohi-kinisi-ton-fentagin-gia-apinidotes-sta-kefi-toy",
-          "pubDate": "Sun, 25 Jan 2026 15:28:48 +0200",
-          "description": "Μία όμορφη πρωτοβουλία πήραν οι οργανωμένοι οπαδοί του Ατρομήτου με γνώμονα να βοηθήσουν τους συνανθρώπους τους στην περιοχή του Περιστερίου.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/atromitos_kosmos_intime.jpg?itok=BPFSzvxD",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λυκογιάννης για την αψιμαχία με Μπαρτζώκα: «Κανένα σχόλιο! Ρωτήστε εκείνον!»",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510013/lykogiannis-gia-tin-apsimahia-me-mpartzoka-kanena-sholio-rotiste",
-          "pubDate": "Sun, 25 Jan 2026 15:27:42 +0200",
-          "description": "Ο Άρης Λυκογιάννης τοποθετήθηκε για τη λογομαχία του με τον Γιώργο Μπαρτζώκα λέγοντας πως θα έπρεπε να ερωτηθεί ο προπονητής του Ολυμπιακού για το ζήτημα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/whatsapp_image_2026-01-25_at_15.22.36.jpeg?itok=rjF-S1DB",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Με Σλούκα «μαέστρο» και Σορτς – Τολιόπουλο διψήφιους ο Παναθηναϊκός κέρδισε άνετα το Μαρούσι",
+          "link": "https://panathinaikos24.gr/2026/01/25/617614/me-slouka-maestro-kai-sorts-toliopoulo-dipsifious-o-panathinaikos-kerdise-aneta-to-marousi/",
+          "pubDate": "Sun, 25 Jan 2026 15:35:21 +0000",
+          "description": "Όταν... πάτησε γκάζι, ο Παναθηναϊκός AKTOR άφησε άνετα πίσω του το Μαρούσι και συνέχισε νικηφόρα στην GBL.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5003739-scaled.jpg?fit=2560%2C1703&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Διπρόσωπος Παναθηναϊκός, έκανε την δουλειά και… καθάρισε το Μαρούσι!",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/diprosopos-panathinaikos-ekane-tin-do/?utm_source=rss&utm_medium=rss&utm_campaign=diprosopos-panathinaikos-ekane-tin-do",
+          "pubDate": "Sun, 25 Jan 2026 15:34:41 +0000",
+          "description": "Ο Παναθηναϊκός πήρε την νίκη κόντρα στο Μαρούσι, σε μια εμφάνιση που προβλημάτισε στο πρώτο μισό και έδειξε στο «Τριφύλλι» πως πρέπει να επιμείνει στην σκληρή δουλειά. Παναθηναϊκός (Αταμάν): Σορτς, Ρογκαβόπουλος, Γκραντ, Φαρίντ, Χουάντσο Μαρούσι (Παπαθεοδώρου): Σαλάς, Κινγκ, Καλαϊτζάκης, Ντε Σόουζα, Περάντες Τα δεκάλεπτα: 19-25, 48-40, 71-61, 92-81. Ο Παναθηναϊκός ξεκίνησε στο παιχνίδι στο ΟΑΚΑ, […]\nThe post Διπρόσωπος Παναθηναϊκός, έκανε την δουλειά και… καθάρισε το Μαρούσι! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Shorts-6.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Μαγικό καλάθι του Χουάντσο – Έβαλε απίθανα φάλτσα στην μπάλα! (video)",
           "link": "https://panathinaikos24.gr/2026/01/25/617609/magiko-kalathi-tou-xouantso-evale-apithana-faltsa-stin-mpala-video/",
@@ -1193,14 +1209,6 @@
           "source": "Όλα Πράσινα"
         },
         {
-          "title": "Παναθηναϊκός: Περιμένει το Μαρούσι για… ξεμούδιασμα – Η τηλεοπτική μετάδοση!",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-perimenei-to-marousi-gi/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-perimenei-to-marousi-gi",
-          "pubDate": "Sun, 25 Jan 2026 11:11:37 +0000",
-          "description": "Την Κυριακή 25 Ιανουαρίου ο Παναθηναϊκός υποδέχεται το Μαρούσι στο Telekom Center Athens, στο πλαίσιο της 16ης αγωνιστικής της GBL. O Παναθηναϊκός πήγε να πληρώσει τα προβλήματά του στην προηγούμενη αγωνιστική στην έδρα του ΠΑΟΚ. Παρότι προηγήθηκε ακόμη και με 21 πόντους, η εικόνα του στην τρίτη περίοδο ήταν απογοητευτική, με τους γηπεδούχους να τρέχουν […]\nThe post Παναθηναϊκός: Περιμένει το Μαρούσι για… ξεμούδιασμα – Η τηλεοπτική μετάδοση! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Osman-Holmes-basket.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Ρόμα – Μίλαν με «Ενισχυμένα» ημίχρονα στο «Ολίμπικο»",
           "link": "https://panathinaikos24.gr/2026/01/25/617552/roma-milan-me-enisxymena-imixrona-sto-olimpiko/",
           "pubDate": "Sun, 25 Jan 2026 10:25:42 +0000",
@@ -1222,14 +1230,6 @@
           "pubDate": "Sun, 25 Jan 2026 09:55:11 +0000",
           "description": "Οι τελευταίες αγωνιστικές έχουν σπιλώσει μερικώς την εικόνα της Άστον Βίλα.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/1100x650-Newcastle.png?fit=1100%2C650&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Για τη νίκη κόντρα στο Μαρούσι",
-          "link": "https://panathinaikos24.gr/2026/01/25/617561/gia-ti-niki-kontra-sto-marousi/",
-          "pubDate": "Sun, 25 Jan 2026 09:32:00 +0000",
-          "description": "Το Μαρούσι φιλοξενεί απόψε στο Telekom Center Athens ο Παναθηναϊκός, καθώς το «τριφύλλι» συνεχίζει τις αγωνιστικές του υποχρεώσεις για την 15η αγωνιστική της Greek Basketball League (15:45, EΡΤ2 Σπορ).",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/2af86fbb39fad3cd6fbab0669e62444e_XL.jpg?fit=750%2C422&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
