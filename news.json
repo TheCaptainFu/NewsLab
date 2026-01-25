@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T18:35:27.839Z",
+  "lastUpdated": "2026-01-25T18:40:32.541Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΔΕΔΔΗΕ για τις καταστροφές στη Γλυφάδα: Συνεχίζονται οι εργασίες για απομάκρυνση εκτεθειμένων καλωδίων υψηλής τάσης",
+          "link": "https://www.protothema.gr/greece/article/1763205/deddie-gia-tis-katastrofes-sti-glufada-sunehizodai-oi-ergasies-gia-apomakrunsi-ektetheimenon-kalodion-upsilis-tasis/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 20:36:00 +0200",
+          "description": "Όπως διευκρινίζεται, δεν πραγματοποιήθηκε καμία εκσκαφή, αλλά μόνο απομάκρυνση υλικών που είχαν μεταφερθεί στο σημείο",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/deddie-mkt.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Αεροπορία Στρατού: Διαπρέπει το «πιλοτικό» ελικόπτερο Apache A+ με πραγματικές βολές μέρα και νύχτα",
           "link": "https://www.newsit.gr/ellada/aeroporia-stratou-diaprepei-to-pilotiko-elikoptero-apache-a-me-pragmatikes-voles-mera-kai-nyxta/4583210/",
@@ -95,6 +103,14 @@
           "description": "Συναγερμός στην Κωνσταντινούπολη από το ακέφαλο πτώμα μίας 37χρονης γυναίκας, το οποίο ήταν επίσης ακρωτηριασμένο στα πόδια. Το μακάβριο εύρημα εντοπίστηκε μέσα σε κάδο απορριμμάτων, ...  \nTo άρθρο Θρίλερ στην Κωνσταντινούπολη με πτώμα γυναίκας χωρίς κεφάλι και πόδια σε κάδο σκουπιδιών δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/konstantinoupoli-woman-25012026.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "«Έξυπνες» κάμερες: Σε πλήρη λειτουργία έως το τέλος του μήνα",
+          "link": "https://www.in.gr/2026/01/25/greece/eksypnes-kameres-se-pliri-leitourgia-eos-telos-tou-mina/",
+          "pubDate": "Sun, 25 Jan 2026 20:36:45 +0300",
+          "description": "Σημειώνεται πως την περίοδο από 18/12/2025 έως 21/01/2026, οι «έξυπνες» κάμερες της Τροχαίας, που λειτουργούν πιλοτικά, έχουν καταγράψει 40.691 παραβάσεις",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kameres-768x458.jpg",
+          "source": "In.gr"
         },
         {
           "title": "ΚΚΕ: Επίθεση σε Μητσοτάκη για «τον ρόλο του ‘σημαιοφόρου’» στους αμερικανοΝΑΤΟϊκούς σχεδιασμούς και πολέμους",
@@ -231,22 +247,6 @@
           "description": "Ταυτοποήθηκε η σορός γυναίκας που ανασύρθηκε από το λιμάνι της Ερμούπολης στη Σύρο το μεσημέρι της Κυριακής (25.01.2026). Πρόκειται για μία υπερήλικη 104 ετών, κάτοικο ...  \nTo άρθρο Σύρος: Σε γυναίκα 104 ετών ανήκει το πτώμα που βρέθηκε να επιπλέει στο λιμάνι της Ερμούπολης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/syros-soros-25012026.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Βλάχος: «Το θέλαμε περισσότερο, το αξίζαμε και το απολαύσαμε» (vid)",
-          "link": "https://www.in.gr/2026/01/25/sports/othersports/vlaxos-thelame-perissotero-aksizame-kai-apolaysame/",
-          "pubDate": "Sun, 25 Jan 2026 20:00:43 +0300",
-          "description": "Για μια απολαυστική και δίκαιη δίκη επί της Ιταλίας στον μικρό τελικό του Ευρωπαϊκού Πρωταθλήματος πόλο, έκανε λόγο ο τεχνικός της Εθνικής ομάδας, Θοδωρής Βλάχος.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6825283-768x505.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Η Αγκάθα Κρίστι στην Αθήνα, ο Έλληνας γιατρός που την ενέπνευσε, η ερωτική απογοήτευση και το ταξίδι στη Βαγδάτη",
-          "link": "https://www.in.gr/2026/01/25/life/culture-live/agkatha-kristi-stin-athina-o-ellinas-giatros-pou-tin-enepneyse-erotiki-apogoiteysi-kai-taksidi-sti-vagdati/",
-          "pubDate": "Sun, 25 Jan 2026 20:00:13 +0300",
-          "description": "Η «βασίλισσα του εγκλήματος» έζησε μια ζωή που θα μπορούσε να γίνει μπεστ σέλερ μυθιστόρημα γραμμένο μάλιστα από την ίδια. Η Αγκάθα Κρίστι ήταν μια ατρόμητη ταξιδιώτισσα. Οι τοποθεσίες των περισσότερων αστυνομικών μυθιστορημάτων της ήταν εμπνευσμένες από μέρη που είχε επισκεφθεί.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet-9-3-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -541,6 +541,14 @@
           "source": "Euronews"
         },
         {
+          "title": "Winter storm grips US as millions face power outages and disruption",
+          "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 16:22:56 GMT",
+          "description": "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a968/live/f92aeb60-fa07-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Η εντυπωσιακή ανάβαση του Αμερικανού αναρριχητή στον ουρανοξύστη 101 ορόφων",
           "link": "http://gr.euronews.com/video/2026/01/25/american-climber-alex-honnold-scales-a-101-floor-skyscraper-without-safety-gear",
           "pubDate": "Sun, 25 Jan 2026 16:55:11 +0100",
@@ -731,14 +739,6 @@
           "description": "Τόσο τα μεμονωμένα ταξίδια όσο και τα πακέτα διακοπών εμφανίζουν φέτος πιο ανταγωνιστικές τιμές.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Αγέλη λύκων υποχρεώνει τις αρχές να κλείσουν αεροδρόμιο στην Ιταλία",
-          "link": "http://gr.euronews.com/green/2026/01/25/wolf-pack-forces-italian-airport-to-close-how-this-region-is-struggling-with-coexistence",
-          "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
-          "description": "Ο πληθυσμός των λύκων στην Ιταλία ανέρχεται πλέον σε 3.000-3.500 - Στις αρχές της δεκαετίας του 1970, έφταναν σχεδόν στο οριο της εξαφάνισης στη χώρα.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,30 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Τζόκερ, Λόττο, Λαχείο: Πώς τα μαθηματικά μπορούν να αποκαλύψουν πιθανή απάτη στα τυχερά παιχνίδια",
+          "link": "https://www.gazzetta.gr/plus/2510134/tzoker-lotto-laheio-pos-ta-mathimatika-mporoyn-na-apokalypsoyn-pithani-apati-sta",
+          "pubDate": "Sun, 25 Jan 2026 20:39:50 +0200",
+          "description": "Όταν 433 παίκτες κέρδισαν το ίδιο τζακπότ στις Φιλιππίνες, οι υποψίες φούντωσαν. Πόσο πιθανό ήταν; Τα μαθηματικά και η Μπεϋζιανή* στατιστική δίνουν απαντήσεις.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/balakia.jpg?itok=qr8sBpJi",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ατρόμητος - Παναθηναϊκός: Δύο σημαντικές ευκαιρίες έχασαν οι γηπεδούχοι",
+          "link": "https://www.gazzetta.gr/football/superleague/2510133/atromitos-panathinaikos-dyo-simantikes-eykairies-ehasan-oi-gipedoyhoi",
+          "pubDate": "Sun, 25 Jan 2026 20:36:39 +0200",
+          "description": "Ο Ατρόμητος έφτασε σε λίγα λεπτά δύο φορές κοντά στο γκολ κόντρα στον Παναθηναϊκό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/atromitos_-_panathinaikos.jpg?itok=9stT9S82",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Φοίνικας Σύρου - Παναθηναϊκός 3-2: Τεράστια νίκη για τους νησιώτες",
+          "link": "https://www.gazzetta.gr/volleyball/volley-league/2510132/foinikas-syroy-panathinaikos-3-2-terastia-niki-gia-toys-nisiotes",
+          "pubDate": "Sun, 25 Jan 2026 20:34:59 +0200",
+          "description": "Ο Φοίνικας Σύρου λύγισε τον Παναθηναϊκό με 3-2 σετ σε ένα συναρπαστικό παιχνίδι πέντε σετ, δείχνοντας χαρακτήρα στα κρίσιμα σημεία και φτάνοντας σε μεγάλη νίκη...",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/foinikas_0.jpg?itok=hLV1AFWE",
+          "source": "Gazzetta"
+        },
         {
           "title": "Άρσεναλ – Μάντσεστερ Γιουνάιτεντ 2-3: Φοβερό διπλό των «κόκκινων διαβόλων» στην Premier League",
           "link": "https://www.newsit.gr/athlitika/arsenal-mantsester-giounaitent-2-3-fovero-diplo-ton-kokkinon-diavolon-stin-premier-league/4583209/",
@@ -960,30 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 19:16:25 +0200",
           "description": "Η εθνική ομάδα «έπνιξε» στις δαγκάνες της την Ιταλία, επικράτησε με 12-5 κατακτώντας το χάλκινο μετάλλιο στο ευρωπαϊκό πρωτάθλημα του Βελιγραδίου, το πρώτο της στην ιστορία της διοργάνωσης.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/polo2026_halkino_0.jpg?itok=hg1Ajeqo",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ιταλία – Ελλάδα 5-12: Ιστορικό χάλκινο μετάλλιο για την Εθνική πόλο ανδρών στο ευρωπαϊκό με ανεπανάληπτο Ζερδεβά",
-          "link": "https://www.newsit.gr/athlitika/italia-ellada-5-12-istoriko-xalkino-metallio-gia-tin-ethniki-polo-andron-sto-eyropaiko-me-anepanalipto-zerdeva/4583062/",
-          "pubDate": "Sun, 25 Jan 2026 17:16:06 +0000",
-          "description": "Η Εθνική πόλο ανδρών έγραψε ιστορία στο ευρωπαϊκό πρωτάθλημα υδατοσφαίρισης του Βελιγραδίου! Η Ελλάδα “βούλιαξε” την Ιταλία στον “μικρό” τελικό της διοργάνωσης (5-12) και κατέκτησε ...  \nTo άρθρο Ιταλία – Ελλάδα 5-12: Ιστορικό χάλκινο μετάλλιο για την Εθνική πόλο ανδρών στο ευρωπαϊκό με ανεπανάληπτο Ζερδεβά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ethniki-polo-andron-eurokinissi-5.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ατρόμητος – Παναθηναϊκός live για την 18η αγωνιστική της Super League",
-          "link": "https://www.newsit.gr/athlitika/atromitos-panathinaikos-live-gia-tin-18i-agonistiki-tis-super-league/4583040/",
-          "pubDate": "Sun, 25 Jan 2026 17:15:21 +0000",
-          "description": "Ο Παναθηναϊκός αντιμετωπίζει εκτός έδρας τον Ατρόμητο για την 18η αγωνιστική της Super League, με τις δύο ομάδες να ψάχνουν το τρίποντο για να ανέβουν ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός live για την 18η αγωνιστική της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tsantilas-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΑΕΚ: Διήμερο ρεπό έδωσε ο Νίκολιτς και από Τετάρτη στροφή σε Ολυμπιακό",
-          "link": "https://www.gazzetta.gr/football/superleague/2510109/aek-diimero-repo-edose-o-nikolits-kai-apo-tetarti-strofi-se-olympiako",
-          "pubDate": "Sun, 25 Jan 2026 19:14:29 +0200",
-          "description": "Αποφόρτιση για τους παίκτες της ΑΕΚ μετά το διπλό στην Τρίπολη, με τους κιτρινόμαυρους μετά το διήμερο ρεπό να ξεκινούν από Τετάρτη την προετοιμασία για το ντέρμπι.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_training.jpg?itok=bEEu8Pb8",
           "source": "Gazzetta"
         }
       ]
