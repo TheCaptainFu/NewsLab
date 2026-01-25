@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T21:05:23.842Z",
+  "lastUpdated": "2026-01-25T21:10:27.665Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Επιστρέφει η κακοκαιρία στην χώρα αύριο: Red Code για έξι περιφέρειες, αναλυτικά η πρόγνωση",
+          "link": "https://www.protothema.gr/greece/article/1763237/epistrefei-i-kakokairia-stin-hora-aurio-red-code-gia-exi-perifereies-analutika-i-prognosi/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 23:08:00 +0200",
+          "description": "Βροχές και καταιγίδες στο μεγαλύτερο μέρος της χώρας, ενώ στο Αιγαίο αναμένονται θυελλώδεις νοτιάδες που εκτιμάται ότι θα φτάσουν ακόμη και τα 9 μποφόρ",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/broxi45-xrm.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Σερβία – Ουγγαρία 10-7: Κατέκτησαν το χρυσό μετάλλιο στο ευρωπαϊκό πρωτάθλημα πόλο ανδρών οι Σέρβοι",
           "link": "https://www.newsit.gr/athlitika/servia-ouggaria-10-7-katektisan-to-xryso-metallio-sto-eyropaiko-protathlima-polo-andron-oi-servoi/4583309/",
@@ -95,6 +103,14 @@
           "description": "Ανακοίνωση με τίτλο «τα ψέματα τελείωσαν» εξέδωσε η ΠΑΕ Παναιτωλικός, μετά την ήττα με 1-0 από τον ΟΦΗ, για την 18η αγωνιστική της Super League. ...  \nTo άρθρο Παναιτωλικός κατά Λανουά: «Αποδείχτηκε ότι δεν μπορούμε να εμπιστευόμαστε τις επιλογές και τις πράξεις του» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ofi-panaitolikos-eurokinissi.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Σπουδαίος Καραλής: Πέτυχε την καλύτερη επίδοση στον κόσμο για φέτος με 5,93 μ.",
+          "link": "https://www.in.gr/2026/01/25/sports/othersports/spaei-ola-ta-konter-o-karalis-petakse-sta-593-m/",
+          "pubDate": "Sun, 25 Jan 2026 23:08:50 +0300",
+          "description": "Ο Εμμανουήλ Καραλής «πέταξε» στα 5,93 μ. στο μίτινγκ του Λοτζ και πέτυχε την κορυφαία επίδοση στον κόσμο για φέτος.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6657062-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Καιρός: Έρχονται ισχυρές βροχές και καταιγίδες – Σε «πορτοκαλί» συναγερμό η χώρα – Πού θα χτυπήσουν τα φαινόμενα",
@@ -231,22 +247,6 @@
           "description": "Όπως επισημαίνεται για την υπόθεση «έχουν ζητηθεί ρητές και τεκμηριωμένες εξηγήσεις αναφορικά με την έλλειψη έγκαιρης και θεσμικά προβλεπόμενης ενημέρωσης των αρμοδίων υπηρεσιών του Υπουργείου»",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kathigitria-serres-1200x675-1200x675-1-768x432.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Μπενίτεθ: «Αξίζαμε να νικήσουμε»",
-          "link": "https://www.in.gr/2026/01/25/sports/football/mpeniteth-aksizame-na-nikisoume/",
-          "pubDate": "Sun, 25 Jan 2026 22:19:59 +0300",
-          "description": "Μια ακόμη γκέλα για τον Παναθηναϊκό, με τον Ράφα Μπενίτεθ να θεωρεί ότι η ομάδα του ήταν άτυχη στο 0-0 με τον Ατρόμητο.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6825852-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "To τρολάρισμα Μητσοτάκη σε σκιέρ που τον είπε «γκαντέμη»: «Γύρνα το σε snowboard»",
-          "link": "https://www.newsit.gr/politikh/to-trolarisma-mitsotaki-se-skier-pou-ton-eipe-gkantemi-gyrna-to-se-snowboard/4583253/",
-          "pubDate": "Sun, 25 Jan 2026 19:17:29 +0000",
-          "description": "Στο χιονοδρομικό κέντρο Καλαβρύτων βρέθηκε το Σαββατοκύριακο (24 – 25.01.2026) ο Κυριάκος Μητσοτάκης. Με φόντο το κατάλευκο τοπίο καταγράφηκε στα social media ένας διάλογος ανάμεσα ...  \nTo άρθρο To τρολάρισμα Μητσοτάκη σε σκιέρ που τον είπε «γκαντέμη»: «Γύρνα το σε snowboard» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kyriakos-mitsotakis2-240102026-1200x745.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ισπανία: Οπαδός τραυματίστηκε από... ιπτάμενο τραπέζι",
+          "link": "https://www.gazzetta.gr/football/2510180/ispania-opados-traymatistike-apo-iptameno-trapezi",
+          "pubDate": "Sun, 25 Jan 2026 23:09:44 +0200",
+          "description": "Η αναμέτρηση ανάμεσα σε Σαραγόσα και Καστεγιόν διεκόπη για περίπου πέντε λεπτά, λόγω τραυματισμού οπαδού από... τραπέζι που πήρε ο αέρας!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/zaragoza.jpg?itok=b8wBRIWF",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σερβία – Ουγγαρία 10-7: Κατέκτησαν το χρυσό μετάλλιο στο ευρωπαϊκό πρωτάθλημα πόλο ανδρών οι Σέρβοι",
+          "link": "https://www.newsit.gr/athlitika/servia-ouggaria-10-7-katektisan-to-xryso-metallio-sto-eyropaiko-protathlima-polo-andron-oi-servoi/4583309/",
+          "pubDate": "Sun, 25 Jan 2026 21:04:38 +0000",
+          "description": "Μετά από ένα μεγάλο ντέρμπι στον τελικό, η Σερβία κατάφερε να “λυγίσει” με 10-7 την Ουγγαρία και να κατακτήσει την πρώτη θέση και το χρυσό ...  \nTo άρθρο Σερβία – Ουγγαρία 10-7: Κατέκτησαν το χρυσό μετάλλιο στο ευρωπαϊκό πρωτάθλημα πόλο ανδρών οι Σέρβοι δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/serbia-1200x838.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Η χώρα που αναζητά σεφ για το καλοκαίρι του 2026: Μισθοί έως 2.800 ευρώ και διαμονή",
           "link": "https://www.gazzetta.gr/plus/2510139/i-hora-poy-anazita-sef-gia-kalokairi-toy-2026-misthoi-eos-2800-eyro-kai-diamoni",
           "pubDate": "Sun, 25 Jan 2026 22:59:59 +0200",
@@ -969,22 +985,6 @@
           "description": "Οι δηλώσεις του Ράφα Μπενίτεθ μετά την απώλεια βαθμών του Παναθηναϊκού στο ματς με τον Ατρόμητο.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mpeniteth_2.jpg?itok=iVv6Q49H",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Αποκάλυψη «βόμβα» για τη Γλυφάδα: Οι όροι αποφυλάκισης του γιου και το «παραθυράκι» της ποινής",
-          "link": "https://www.gazzetta.gr/plus/2510156/apokalypsi-bomba-gia-ti-glyfada-oi-oroi-apofylakisis-toy-gioy-kai-parathyraki-tis",
-          "pubDate": "Sun, 25 Jan 2026 21:36:15 +0200",
-          "description": "Μία συνταρακτική αποκάλυψη έρχεται στο φως για τον πατροκτόνο 46χρονο στη Γλυφάδα, καθώς κυκλοφόρησε στη δημοσιότητα το έγγραφο του αποφυλακιστηρίου.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-09/police_1.jpg?itok=-Mc4mgZ_",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ατρόμητος - Παναθηναϊκός 0-0: Ανήμπορος έστω να πλησιάσει το Λεβαδειακό! (Vids)",
-          "link": "https://www.gazzetta.gr/football/superleague/2510157/atromitos-panathinaikos-0-0-animporos-esto-na-plisiasei-lebadeiako",
-          "pubDate": "Sun, 25 Jan 2026 21:33:35 +0200",
-          "description": "Ο Παναθηναϊκός ήταν κάκιστος στο α' μέρος, έχασε τρεις ευκαιρίες στο β' μέρος και έμεινε στο 0-0 εναντίον του Ατρομήτου που έχασε πέναλτι στο 13' και ήταν απόλυτα ανταγωνιστικός.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/tetteh_peristeri.jpg?itok=PaY0l4ZX",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,14 +992,6 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
-        {
-          "title": "Μπενίτεθ: «Είναι πιο πολύπλοκο – Αυτό μας μπλόκαρε σήμερα» – Τι είπε για Πελίστρι",
-          "link": "https://trifilara.gr/beniteth-einai-pio-polyploko-afto-mas-blokare-simera-ti-eipe-gia-pelistri/?utm_source=rss&utm_medium=rss&utm_campaign=beniteth-einai-pio-polyploko-afto-mas-blokare-simera-ti-eipe-gia-pelistri",
-          "pubDate": "Sun, 25 Jan 2026 20:54:31 +0000",
-          "description": "Ο Ράφα Μπενίτεθ μίλησε στην συνέντευξη Τύπου μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» κόντρα στον Ατρόμητο.\nThe post Μπενίτεθ: «Είναι πιο πολύπλοκο – Αυτό μας μπλόκαρε σήμερα» – Τι είπε για Πελίστρι appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
         {
           "title": "Προανήγγειλε αλλαγές ο Μπενίτεθ: «Τα πράγματα είναι πιο πολύπλοκα»!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/proaningeile-allages-o-beniteth-ta-p/?utm_source=rss&utm_medium=rss&utm_campaign=proaningeile-allages-o-beniteth-ta-p",
@@ -1101,6 +1093,14 @@
           "link": "https://trifilara.gr/neo-strapatso-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=neo-strapatso-o-panathinaikos",
           "pubDate": "Sun, 25 Jan 2026 19:26:08 +0000",
           "description": "O Παναθηναϊκός έφυγε από το Περιστέρι με τον βαθμό (0-0), όμως το αποτέλεσμα δεν λέει όλη την αλήθεια. Γιατί το ματς της 18ης αγωνιστικής της Super League, την Κυριακή 25 Ιανουαρίου (19:30), ήταν από εκείνα που αφήνουν περισσότερο προβληματισμό παρά ικανοποίηση, ειδικά από τη στιγμή που ο Ράφα Μπενίτεθ είδε την ομάδα του να «παίζει με τη φωτιά» από πολύ νωρίς και να σώζεται ουσιαστικά από τον Αλμπάν Λαφόν.\nThe post Νέο «στραπάτσο» ο Παναθηναϊκός! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Μπενίτεθ: «Είναι πιο πολύπλοκο – Αυτό μας μπλόκαρε σήμερα» – Τι είπε για Πελίστρι",
+          "link": "https://trifilara.gr/beniteth-einai-pio-polyploko-afto-mas-blokare-simera-ti-eipe-gia-pelistri/?utm_source=rss&utm_medium=rss&utm_campaign=beniteth-einai-pio-polyploko-afto-mas-blokare-simera-ti-eipe-gia-pelistri",
+          "pubDate": "Sun, 25 Jan 2026 19:25:31 +0000",
+          "description": "Ο Ράφα Μπενίτεθ μίλησε στην συνέντευξη Τύπου μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» κόντρα στον Ατρόμητο.\nThe post Μπενίτεθ: «Είναι πιο πολύπλοκο – Αυτό μας μπλόκαρε σήμερα» – Τι είπε για Πελίστρι appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
         },
