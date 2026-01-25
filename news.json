@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T21:50:25.956Z",
+  "lastUpdated": "2026-01-25T21:55:26.957Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ρόμα – Μίλαν 1-1: Ισοπαλία με κερδισμένη την Ίντερ στην κορυφή της Serie A",
+          "link": "https://www.newsit.gr/athlitika/roma-milan-1-1-isopalia-me-kerdismeni-tin-inter-stin-koryfi-tis-serie-a/4583333/",
+          "pubDate": "Sun, 25 Jan 2026 21:53:39 +0000",
+          "description": "Η Μίλαν έμεινε στην ισοπαλία με 1-1 στην έδρα της Ρόμα για την 22η αγωνιστική της ιταλικής Serie A και ήταν η… Ίντερ αυτή που ...  \nTo άρθρο Ρόμα – Μίλαν 1-1: Ισοπαλία με κερδισμένη την Ίντερ στην κορυφή της Serie A δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romamilan-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα",
           "link": "https://www.newsit.gr/athlitika/ethniki-polo-andron-i-aponomi-tou-xalkinou-metalliou-sto-eyropaiko-protathlima/4583323/",
@@ -201,10 +209,10 @@
           "source": "In.gr"
         },
         {
-          "title": "Καιρός: Έρχονται ισχυρές βροχές και καταιγίδες – Σε «πορτοκαλί» συναγερμό η χώρα – Πού θα χτυπήσουν τα φαινόμενα",
-          "link": "https://www.newsit.gr/ellada/kairos-erxontai-isxyres-vroxes-kai-kataigides-se-portokali-synagermo-i-xora-pou-tha-xtypisoun-ta-fainomena/4583286/",
+          "title": "Καιρός: Έρχονται ισχυρές βροχές και καταιγίδες – «Red code» σε 6 περιοχές – Πού θα χτυπήσουν τα φαινόμενα",
+          "link": "https://www.newsit.gr/ellada/kairos-erxontai-isxyres-vroxes-kai-kataigides-red-code-se-6-perioxes-pou-tha-xtypisoun-ta-fainomena/4583286/",
           "pubDate": "Sun, 25 Jan 2026 20:08:07 +0000",
-          "description": "Τη Δευτέρα (26/1/26) στην Αττική προβλέπονται πάλι βροχές και καταιγίδες, οι οποίες βέβαια δε θα έχουν την ένταση της προηγούμενης κακοκαιρίας σύμφωνα με τις προβλέψεις ...  \nTo άρθρο Καιρός: Έρχονται ισχυρές βροχές και καταιγίδες – Σε «πορτοκαλί» συναγερμό η χώρα – Πού θα χτυπήσουν τα φαινόμενα δημοσιεύτηκε στο NewsIT .",
+          "description": "Σε κατάσταση κινητοποίησης «Red Code» θα είναι τη Δευτέρα (26/1/26) η Περιφερειακή Ενότητα Σερρών της Περιφέρειας Κεντρικής Μακεδονίας, καθώς και οι Περιφερειακές Ενότητες Δράμας, Καβάλας, ...  \nTo άρθρο Καιρός: Έρχονται ισχυρές βροχές και καταιγίδες – «Red code» σε 6 περιοχές – Πού θα χτυπήσουν τα φαινόμενα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vroxi-2.jpg",
           "source": "NewsIT"
         },
@@ -238,14 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 23:00:41 +0300",
           "description": "Ο Λεβαδειακός δεν είναι (μόνο) +9 από τον Παναθηναϊκό. Είναι και +20 γκολ σε ένα πρωτάθλημα που…",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6819439-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Συνεδριάζει το Υπουργικό Συμβούλιο – Τα θέματα που θα συζητηθούν",
-          "link": "https://www.in.gr/2026/01/25/politics/synedriazei-ypourgiko-symvoulio-ta-themata-pou-tha-syzitithoun-3/",
-          "pubDate": "Sun, 25 Jan 2026 22:58:23 +0300",
-          "description": "Συνεδριάζει το Υπουργικό Συμβούλιο υπό τον Κυριάκο Μητσοτάκη. Τα θέματα που θα επικεντρωθεί η συνεδρίαση.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ipourgiko-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ρόμα – Μίλαν 1-1: Ισοπαλία με κερδισμένη την Ίντερ στην κορυφή της Serie A",
+          "link": "https://www.newsit.gr/athlitika/roma-milan-1-1-isopalia-me-kerdismeni-tin-inter-stin-koryfi-tis-serie-a/4583333/",
+          "pubDate": "Sun, 25 Jan 2026 21:53:39 +0000",
+          "description": "Η Μίλαν έμεινε στην ισοπαλία με 1-1 στην έδρα της Ρόμα για την 22η αγωνιστική της ιταλικής Serie A και ήταν η… Ίντερ αυτή που ...  \nTo άρθρο Ρόμα – Μίλαν 1-1: Ισοπαλία με κερδισμένη την Ίντερ στην κορυφή της Serie A δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romamilan-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ρόμα - Μίλαν 1-1: Έχασαν έδαφος στο Ολίμπικο οι Ροσονέρι",
+          "link": "https://www.gazzetta.gr/football/serie/2510191/roma-milan-1-1-ehasan-edafos-sto-olimpiko-oi-rosoneri",
+          "pubDate": "Sun, 25 Jan 2026 23:52:12 +0200",
+          "description": "Ισόπαλο 1-1 το ντέρμπι στο «Ολίμπικο» ανάμεσα στη Ρόμα και τη Μίλαν, με τους Ροσονέρι να μένουν στο -5 από την κορυφή της Serie A.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2258167363_1.jpg?itok=Brh-K0gy",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ατρόμητος - Παναθηναϊκός: «Καθαρό πέναλτι στον Ούρονεν»",
           "link": "https://www.gazzetta.gr/football/superleague/2510190/atromitos-panathinaikos-katharo-penalti-ston-oyronen",
           "pubDate": "Sun, 25 Jan 2026 23:48:49 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 22:11:28 +0200",
           "description": "Λίβερπουλ και Ρόμα έχουν συμφωνήσει για την άμεση επιστροφή του Τσιμίκα στους Reds.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/tsimikas_liverpool.jpg?itok=bZrSUHTC",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κλήρωση Τζόκερ 25/1: Οι τυχεροί αριθμοί που κερδίζουν 15 εκατ. ευρώ",
-          "link": "https://www.gazzetta.gr/plus/2510168/klirosi-tzoker-251-oi-tyheroi-arithmoi-poy-kerdizoyn-15-ekat-eyro",
-          "pubDate": "Sun, 25 Jan 2026 22:07:30 +0200",
-          "description": "Πραγματοποιήθηκε το βράδυ της Κυριακής (25/01), η κλήρωση του Τζόκερ, η οποία μοίραζε πάνω από 15 εκατομμύρια ευρώ στην πρώτη κατηγορία (5+1).",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-08/tzak_pot_tzoker.png?itok=p1xeeBTT",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναιτωλικός: «Η διαιτητική ομάδα ετσιθελικά διαμόρφωσε αποτέλεσμα, δεν μπορούμε να εμπιστευόμαστε τον Λανουά»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510167/panaitolikos-i-diaititiki-omada-etsithelika-diamorfose-apotelesma-den",
-          "pubDate": "Sun, 25 Jan 2026 22:07:25 +0200",
-          "description": "Ο Παναιτωλικός με ανακοίνωση του εξέφρασε τα παράπονα του για τη διαιτησία του αγώνα με τον ΟΦΗ και τόνισε πως πλέον δεν μπορεί να εμπιστεύεται τον Στεφάν Λανουά.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/lanua_4.jpg?itok=vdBNlGE-",
           "source": "Gazzetta"
         }
       ]
