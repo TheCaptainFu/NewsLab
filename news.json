@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T17:50:27.248Z",
+  "lastUpdated": "2026-01-25T17:55:24.532Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Μπαρτσελόνα – Οβιέδο 3-0: Ξέσπασε στο δεύτερο ημίχρονο και επέστρεψε στην κορυφή της La Liga",
+          "link": "https://www.newsit.gr/athlitika/mpartselona-oviedo-3-0-ksespase-sto-deytero-imixrono-kai-epestrepse-stin-koryfi-tis-la-liga/4583191/",
+          "pubDate": "Sun, 25 Jan 2026 17:51:29 +0000",
+          "description": "Ξέσπασε στην επανάληψη η Μπαρτσελόνα και ανέβηκε ξανά στην κορυφή της La Liga, καθώς νίκησε με 3-0 στο “Καμπ Νου” την ουραγό της βαθμολογίας Οβιέδο, ...  \nTo άρθρο Μπαρτσελόνα – Οβιέδο 3-0: Ξέσπασε στο δεύτερο ημίχρονο και επέστρεψε στην κορυφή της La Liga δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/barcelona-reuters-1200x815.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Γιώργος Καρτελιάς για το έμφραγμα που πέρασε: Δίπλωσαν οι αρτηρίες, το παθαίνει το 3% του πληθυσμού",
           "link": "https://www.newsit.gr/lifestyle/giorgos-kartelias-gia-to-emfragma-pou-perase-diplosan-oi-artiries-to-pathainei-to-3-tou-plithysmou/4583071/",
@@ -77,7 +85,7 @@
           "link": "https://www.newsit.gr/athlitika/atromitos-panathinaikos-live-gia-tin-18i-agonistiki-tis-super-league/4583040/",
           "pubDate": "Sun, 25 Jan 2026 17:15:21 +0000",
           "description": "Ο Παναθηναϊκός αντιμετωπίζει εκτός έδρας τον Ατρόμητο για την 18η αγωνιστική της Super League, με τις δύο ομάδες να ψάχνουν το τρίποντο για να ανέβουν ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός live για την 18η αγωνιστική της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bakasetas-1200x801.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/penalti-1200x799.jpg",
           "source": "NewsIT"
         },
         {
@@ -143,6 +151,22 @@
           "description": "Ο Άρης έχασε τη νίκη στις καθυστερήσεις του αγώνα με το Λεβαδειακό και μετά την ισοπαλία των δύο ομάδων με 2-2 στη Super League, υπήρξαν ...  \nTo άρθρο Άρης – Λεβαδειακός: Συνθήματα εναντίον Καρυπίδη και Χιμένεθ στο Βικελίδης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gimenez-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Σκληρή δουλειά και μισθός 1.700€: Δείχνει το Κουφονήσι μία νέα εποχή για την καλοκαιρινή σεζόν;",
+          "link": "https://www.in.gr/2026/01/25/greece/skliri-douleia-kai-misthos-1-700e-deixnei-koufonisi-mia-nea-epoxi-gia-tin-kalokairini-sezon/",
+          "pubDate": "Sun, 25 Jan 2026 19:53:07 +0300",
+          "description": "Κάθε καλοκαίρι το Κουφονήσι γεμίζει ζωή, τουρίστες και ευκαιρίες εργασίας για όσους θέλουν να συνδυάσουν δουλειά και νησιώτικη εμπειρία.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/koufonisia-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Παπαδόπουλος: «Συγχαρητήρια στους παίκτες μου, δεν τα παρατάνε ποτέ»",
+          "link": "https://www.in.gr/2026/01/25/sports/football/papadopoulos-oi-paiktes-mou-den-ta-paratane-pote-kai-tous-aksizoun-sygxaritiria/",
+          "pubDate": "Sun, 25 Jan 2026 19:50:48 +0300",
+          "description": "Ο Νίκος Παπαδόπουλος έβγαλε το καπέλο στους παίκτες του Λεβαδειακού που δεν παρατάνε ποτέ τα ματς.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6824769-768x510.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Ζελένσκι: Η συμφωνία για τις εγγυήσεις ασφαλείας των ΗΠΑ είναι «100% έτοιμη» για υπογραφή",
@@ -223,30 +247,6 @@
           "description": "Αφαίρεσαν προϊόντα αξίας 150 ευρώ",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-07-17/xrwma-peripoliko.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Μπαρτσελόνα – Οβιέδο 3-0: Τριάρα και ξανά στην κορυφή οι Καταλανοί",
-          "link": "https://www.in.gr/2026/01/25/sports/football/mpartselona-oviedo-3-0-triara-kai-ksana-stin-koryfi-oi-katalanoi/",
-          "pubDate": "Sun, 25 Jan 2026 19:28:25 +0300",
-          "description": "Για ένα ημίχρονο η Οβιέδο έβαλε δύσκολα στην Μπαρτσελόνα που στο δεύτερο ανέβασε στροφές, επικράτησε εύκολα με 3-0 και έπιασε ξανά κορυφή.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_hieHBbEAASq4Q-e1769360926277-768x513.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "«Έχουμε προσφύγει στο ΣτΕ, σε υπουργεία, ζητήσαμε παρέμβαση της Αρχής Διαφάνειας, κανείς δεν κάνει τίποτα» λέει ο δήμαρχος Μήλου για το νέο οικολογικό έγκλημα",
-          "link": "https://www.protothema.gr/greece/article/1763164/ehoume-prosfugei-sto-ste-se-upourgeia-zitisame-paremvasi-tis-arhis-diafaneias-kaneis-den-kanei-tipota/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 18:27:00 +0200",
-          "description": "Οι εργασίες για την επέκταση της τουριστικής μονάδας, 2 χιλιόμετρα από το Σαρακήνικο, προχωρούν εντατικά - Ο Μανώλης Μικέλης προσέφυγε στο ΣτΕ με ασφαλιστικά μέτρα για άρση της άδειας του ξενοδοχείου, αλλά, επειδή μετακομίζει το Συμβούλιο, αργεί η γνωμοδότηση",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/mylos2-xrm.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ιαπωνία: Νέα προειδοποίηση στις αγορές εν μέσω αποδυνάμωσης του γιεν και αύξησης των αποδόσεων στα ομόλογα",
-          "link": "https://www.newsit.gr/oikonomia/diethni/iaponia-nea-proeidopoiisi-stis-agores-en-meso-apodynamosis-tou-gien-kai-ayksisis-ton-apodoseon-sta-omologa/4583098/",
-          "pubDate": "Sun, 25 Jan 2026 16:26:52 +0000",
-          "description": "Εν μέσω αποδυνάμωσης του γιεν και αύξησης των αποδόσεων των ομολόγων, η πρωθυπουργός της Ιαπωνίας, Σανάε Τακαΐτσι, προειδοποίησε τις χρηματοπιστωτικές αγορές ότι η κυβέρνηση είναι ...  \nTo άρθρο Ιαπωνία: Νέα προειδοποίηση στις αγορές εν μέσω αποδυνάμωσης του γιεν και αύξησης των αποδόσεων στα ομόλογα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sanae-takaichi-2.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ο πρωθυπουργός της Αρμενίας παίζει ντραμς και προσκαλεί τον κόσμο στη συναυλία του στο Ερεβάν",
+          "link": "http://gr.euronews.com/2026/01/25/prwthupourgos-armenia-paizei-ntrams-proskalei-kosmo-sunaulia-erevan",
+          "pubDate": "Sun, 25 Jan 2026 18:47:07 +0100",
+          "description": "«Εμείς παίζουμε, εσείς χορεύετε»: Ο Νικολ Πασινιάν θα εμφανιστεί με το μουσικό του συγκρότημα στις 30 Ιανουαρίου",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Ιστορικό μετάλλιο για την Εθνική Ελλάδος Πόλο Ανδρών στο Ευρωπαϊκό του Βελιγραδίου ",
           "link": "http://gr.euronews.com/2026/01/25/istoriko-metallio-gia-tin-ethniki-polo-tis-ellados-sto-evropaiko-tou-veligradioy",
           "pubDate": "Sun, 25 Jan 2026 18:17:04 +0100",
@@ -731,14 +739,6 @@
           "description": "Protesters chanted Alex Pretti's name after he became the second person this month to be shot dead by federal agents in Minneapolis.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ed/live/53afe460-f9ad-11f0-b5f7-49f0357294ff.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
-          "link": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 04:19:46 GMT",
-          "description": "Trump officials says federal agents shot in self-defence, as Pretti's parents accuse them of \"sickening lies\".",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ee/live/e6356d90-f9ea-11f0-b5f7-49f0357294ff.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Μπαρτσελόνα – Οβιέδο 3-0: Ξέσπασε στο δεύτερο ημίχρονο και επέστρεψε στην κορυφή της La Liga",
+          "link": "https://www.newsit.gr/athlitika/mpartselona-oviedo-3-0-ksespase-sto-deytero-imixrono-kai-epestrepse-stin-koryfi-tis-la-liga/4583191/",
+          "pubDate": "Sun, 25 Jan 2026 17:51:29 +0000",
+          "description": "Ξέσπασε στην επανάληψη η Μπαρτσελόνα και ανέβηκε ξανά στην κορυφή της La Liga, καθώς νίκησε με 3-0 στο “Καμπ Νου” την ουραγό της βαθμολογίας Οβιέδο, ...  \nTo άρθρο Μπαρτσελόνα – Οβιέδο 3-0: Ξέσπασε στο δεύτερο ημίχρονο και επέστρεψε στην κορυφή της La Liga δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/barcelona-reuters-1200x815.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Σοκαρισμένος Πετρόπουλος στο Gazzetta: «Έφυγα από το γήπεδο και δεν είχα φρένα!» - Τι είπε για το επεισόδιο με τον Βεζένκοφ",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510121/sokarismenos-petropoylos-sto-gazzetta-efyga-apo-gipedo-kai-den",
+          "pubDate": "Sun, 25 Jan 2026 19:50:55 +0200",
+          "description": "Ο γκαρντ του Κολοσσού Ανδρέας Πετρόπουλος δήλωσε σοκαρισμένος στο Gazzetta πως το αυτοκίνητο του δεν είχε φρένα αποχωρώντας από το γήπεδο. Το σχόλιο του για το επεισόδιο με τον Βεζένκοφ",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/petropoulos.jpg?itok=jDIja0d6",
+          "source": "Gazzetta"
+        },
         {
           "title": "Θοδωρής Βλάχος για το χάλκινο της Εθνικής πόλο ανδρών: «Επιτέλους ήρθε, θέλαμε να φύγουμε από εδώ με το μετάλλιο»",
           "link": "https://www.newsit.gr/athlitika/thodoris-vlaxos-gia-to-xalkino-tis-ethnikis-polo-andron-epitelous-irthe-thelame-na-fygoume-apo-edo-me-to-metallio/4583186/",
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 18:40:36 +0200",
           "description": "Τα γκολ και οι καλύτερες φάσεις του αγώνα Άρης - Λεβαδειακός 2-2.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aris_-_lebadeiakos_4.jpg?itok=5UUYsV98",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ατρόμητος - Παναθηναϊκός: Με Μπόκο βασικό και διάταξη με δύο επιθετικούς κόντρα στους Περιστεριώτες",
-          "link": "https://www.gazzetta.gr/football/superleague/2510098/atromitos-panathinaikos-me-mpoko-basiko-kai-diataxi-me-dyo",
-          "pubDate": "Sun, 25 Jan 2026 18:35:12 +0200",
-          "description": "Η ενδεκάδα που επέλεξε ο Ράφα Μπενίτεθ για τον σημαντικό αγώνα του Παναθηναϊκού με τον Ατρόμητο στο Δημοτικό Στάδιο Περιστερίου.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bokos_intime.jpg?itok=sZ5RGRty",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αποκαλύφθηκαν οι τελευταίες λέξεις του serial killer Τεντ Μπάντι πριν εκτελεστεί",
-          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
-          "pubDate": "Sun, 25 Jan 2026 18:34:00 +0200",
-          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/buddy-dead.jpg?itok=8qcj1omj",
           "source": "Gazzetta"
         }
       ]
