@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T13:40:30.389Z",
+  "lastUpdated": "2026-01-25T13:45:26.956Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,10 +501,10 @@
       "color": "blue",
       "articles": [
         {
-          "title": "Final round of voting closes in 'sham' Myanmar election",
+          "title": "Party backed by generals set for landslide in 'sham' Myanmar election",
           "link": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 13:05:23 GMT",
-          "description": "The party backed by the ruling generals is expected to win a landslide in a country gripped by fear and civil war.",
+          "description": "Many parties were banned and there was no voting in about half the country which is gripped by fear and civil war.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1203/live/ff7eff80-f9e7-11f0-bfcb-015a25c825bf.jpg",
           "source": "BBC News"
         },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Η ανάρτηση του μάνατζερ του Αντρέ Λουίζ «φωτογραφίζει» την εξέλιξη της μεταγραφής",
+          "link": "https://www.gazzetta.gr/football/superleague/2510023/olympiakos-i-anartisi-toy-manatzer-toy-antre-loyiz-fotografizei-tin",
+          "pubDate": "Sun, 25 Jan 2026 15:43:51 +0200",
+          "description": "Ο μάνατζερ του Αντρέ Λουίζ ανέβασε story από το αεροδρόμιο και αναφέρει ότι είναι έτοιμος να ταξιδέψει στην Ελλάδα με φόντο την ενδεχόμενη μεταγραφή του παίκτη στον Ολυμπιακό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/andre_luiz.jpg?itok=BSx0B_3U",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γουόρντ: Εμφάνιση - δήλωση στη νίκη του Ολυμπιακού στη Ρόδο με triple double σαν... playmaker!",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510019/goyornt-emfanisi-dilosi-sti-niki-toy-olympiakoy-sti-rodo-me-triple",
+          "pubDate": "Sun, 25 Jan 2026 15:40:40 +0200",
+          "description": "Ο Τάισον Γουόρντ ήταν ο παίκτης που έλαμψε στη νίκη του Ολυμπιακού στη Ρόδο επί του Κολοσσού πραγματοποιώντας triple double, ενώ λόγω των απουσιών αναγκάστηκε να παίξει σαν playmaker.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ward_intime.jpg?itok=0Jz0A395",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Νέο έκτακτο δελτίο επιδείνωσης καιρού: Πότε αναμένονται βροχές και καταιγίδες",
           "link": "https://www.gazzetta.gr/plus/2510018/neo-ektakto-deltio-epideinosis-kairoy-pote-anamenontai-brohes-kai-kataigides",
           "pubDate": "Sun, 25 Jan 2026 15:37:54 +0200",
@@ -969,22 +985,6 @@
           "description": "Στο επόμενο κεφάλαιο της εξάμηνης συμβίωσης, το Honda Jazz αφήνει την πόλη και αντιμετωπίζει την απόλυτη δοκιμασία: τις οικογενειακές διακοπές δύο εβδομάδων.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/img_0458.jpg?itok=kiuGMd2F",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Η Λίβερπουλ έχει κάνει κρούση στον Τσάμπι Αλόνσο",
-          "link": "https://www.newsit.gr/athlitika/i-liverpoul-exei-kanei-krousi-ston-tsampi-alonso/4582971/",
-          "pubDate": "Sun, 25 Jan 2026 12:04:16 +0000",
-          "description": "Μετά από ακόμα μία ήττα από την Μπόρνμουθ (3-2) η Λίβερπουλ φαίνεται πως σκέφτεται να κάνει αλλαγή στην τεχνική της ηγεσία με τον Τσάμπι Αλόνσο ...  \nTo άρθρο Η Λίβερπουλ έχει κάνει κρούση στον Τσάμπι Αλόνσο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xabi-alonso-1-1200x847.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Το μπάσκετ που μας κάνει να κλαίμε, είναι του Σικάγο! Το μπάσκετ με το οποίο γελάμε είναι αυτό της Πάτρας",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2509984/mpasket-poy-mas-kanei-na-klaime-einai-toy-sikago-mpasket-me-opoio",
-          "pubDate": "Sun, 25 Jan 2026 14:02:53 +0200",
-          "description": "Ένα κοντράστ αμείλικτο. Από τη μία πλευρά, μία πραγματική αθλητική βιομηχανία που σε κάνει να δακρύζεις και από την άλλη, ένα αστείο προϊόν, που πλέον δεν το νοιάζει να τηρεί ούτε τα προσχήματα, εκμεταλλευόμενο τη σιωπή του «έτσι είναι και τι να κάνεις».",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-rose.jpg?itok=284us-oN",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -993,8 +993,32 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Live streaming: Παναθηναϊκός-Μαρούσι",
+          "link": "https://panathinaikos24.gr/2026/01/25/617594/live-streaming-panathinaikos-marousi-3/",
+          "pubDate": "Sun, 25 Jan 2026 13:44:56 +0000",
+          "description": "Παρακολουθήστε live  την εξέλιξη του αγώνα, στο πλαίσιο της 16ης αγωνιστικής της Stoiximan GBL.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/31062.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Παναθηναϊκός – Μαρούσι  – Basket League | LIVESTREAM",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-marousi-basket-league-livestream/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-basket-league-livestream",
+          "pubDate": "Sun, 25 Jan 2026 13:42:55 +0000",
+          "description": "Δοκιμασία με απουσίες για τον Παναθηναϊκό στην Θεσσαλονίκη πριν την «διπλή εβδομάδα» της EuroLeague, χωρίς περιθώρια για λάθη και απώλειες. Ο Παναθηναϊκός υποδέχεται το Μαρούσι την Κυριακή 25 Ιανουαρίου στις 15.45 στο Telekom Center Athens, για τη 16η αγωνιστική της GBL. Οι «πράσινοι» επιστρέφουν στο παρκέ του ΟΑΚΑ σε μια περίοδο με έντονη αγωνιστική και […]\nThe post Παναθηναϊκός – Μαρούσι  – Basket League | LIVESTREAM appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/basket-2-3.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Παναθηναϊκός – Μαρούσι | Livestreaming – GBL",
+          "link": "https://trifilara.gr/panathinaikos-marousi-livestreaming-gbl/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-livestreaming-gbl",
+          "pubDate": "Sun, 25 Jan 2026 13:41:15 +0000",
+          "description": "Η 16η αγωνιστική της GBL φέρνει τους πράσινους απέναντι στο Μαρούσι, σε ένα παιχνίδι με αγωνιστικό ενδιαφέρον αλλά και ιδιαίτερο πλαίσιο για το σύνολο του Αταμάν.\nThe post Παναθηναϊκός – Μαρούσι | Livestreaming – GBL appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Το πλάνο του Μπενίτεθ με Ατρόμητο! – Η πιθανή ενδεκάδα του Παναθηναϊκού",
-          "link": "https://trifilara.gr/to-plano-tou-beniteth-me-atromito-i-pithani-endekada-tou-panathinaikou-2/?utm_source=rss&utm_medium=rss&utm_campaign=to-plano-tou-beniteth-me-atromito-i-pithani-endekada-tou-panathinaikou-2",
+          "link": "https://trifilara.gr/to-plano-tou-beniteth-me-atromito-i-pithani-endekada-tou-panathinaikou/?utm_source=rss&utm_medium=rss&utm_campaign=to-plano-tou-beniteth-me-atromito-i-pithani-endekada-tou-panathinaikou",
           "pubDate": "Sun, 25 Jan 2026 13:38:19 +0000",
           "description": "Η πιθανή ενδεκάδα του Παναθηναϊκού κόντρα στον Ατρόμητο και οι σκέψεις του Ράφα Μπενίτεθ.\nThe post Το πλάνο του Μπενίτεθ με Ατρόμητο! – Η πιθανή ενδεκάδα του Παναθηναϊκού appeared first on Trifilara.gr.",
           "thumbnail": null,
@@ -1095,22 +1119,6 @@
           "description": "Ο Παναθηναϊκός είναι μια ανάσα από το να ολοκληρώσει την μεταγραφή του Άλεξ Κραλ.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/sv-werder-bremen-v-1-fc-union-berlin-bundesliga-4-scaled-1.jpg?fit=2560%2C1708&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Παναθηναϊκός – Μαρούσι | Livestreaming – GBL",
-          "link": "https://trifilara.gr/panathinaikos-marousi-livestreaming-gbl/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-livestreaming-gbl",
-          "pubDate": "Sun, 25 Jan 2026 11:56:15 +0000",
-          "description": "Η 16η αγωνιστική της GBL φέρνει τους πράσινους απέναντι στο Μαρούσι, σε ένα παιχνίδι με αγωνιστικό ενδιαφέρον αλλά και ιδιαίτερο πλαίσιο για το σύνολο του Αταμάν.\nThe post Παναθηναϊκός – Μαρούσι | Livestreaming – GBL appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Παναθηναϊκός – Μαρούσι  – Basket League | LIVESTREAM",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-marousi-basket-league-livestream/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-basket-league-livestream",
-          "pubDate": "Sun, 25 Jan 2026 11:44:55 +0000",
-          "description": "Δοκιμασία με απουσίες για τον Παναθηναϊκό στην Θεσσαλονίκη πριν την «διπλή εβδομάδα» της EuroLeague, χωρίς περιθώρια για λάθη και απώλειες. Ο Παναθηναϊκός υποδέχεται το Μαρούσι την Κυριακή 25 Ιανουαρίου στις 15.45 στο Telekom Center Athens, για τη 16η αγωνιστική της GBL. Οι «πράσινοι» επιστρέφουν στο παρκέ του ΟΑΚΑ σε μια περίοδο με έντονη αγωνιστική και […]\nThe post Παναθηναϊκός – Μαρούσι  – Basket League | LIVESTREAM appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/basket-2-3.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Παναθηναϊκός: Χωρίς δύο στο σημερινό παιχνίδι",
@@ -1222,14 +1230,6 @@
           "pubDate": "Sun, 25 Jan 2026 08:25:02 +0000",
           "description": "Στο Περιστέρι συνεχίζονται οι αγωνιστικές υποχρεώσεις του Παναθηναϊκού για τη Super League, με το «τριφύλλι» να κοντράρεται με τον Ατρόμητο στο πλαίσιο της 18ης αγωνιστικής (19:30, Novasports).",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/0667986fe7005936090900a6f94c9ab9_XL.jpg?fit=750%2C422&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Παναθηναϊκός: Με φόρα για άλλη μία νίκη",
-          "link": "https://panathinaikos24.gr/2026/01/25/617538/panathinaikos-me-fora-gia-alli-mia-niki/",
-          "pubDate": "Sun, 25 Jan 2026 06:55:38 +0000",
-          "description": "Στη Σύρο δοκιμάζεται απόψε ο Παναθηναϊκός, ο οποίος φιλοξενείται από τον Φοίνικα, στο πλαίσιο της 12ης αγωνιστικής της Volley League (17:00, Live Streaming).",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/%CF%80%CE%B1%CE%BF123.jpg?fit=750%2C422&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
