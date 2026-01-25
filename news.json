@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T14:20:25.297Z",
+  "lastUpdated": "2026-01-25T14:25:23.649Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τίνα Μεσσαροπούλου: Η Κατερίνα Καραβάτου καλείται να κάνει θαύμα, το «φάντασμα» της Ελένης Τσολάκη θα «πλανάται»",
+          "link": "https://www.newsit.gr/media/tina-messaropoulou-i-katerina-karavatou-kaleitai-na-kanei-thayma-to-fantasma-tis-elenis-tsolaki-tha-planatai/4583031/",
+          "pubDate": "Sun, 25 Jan 2026 14:21:03 +0000",
+          "description": "Μία αποκαλυπτική συνέντευξη έδωσε η Τίνα Μεσσαροπούλου και σχολίασε την τηλεοπτική πραγματικότητα, αναφέροντας ότι η Κατερίνα Καραβάτου θα αναλάβει τη νέα της εκπομπή στον ΑΝΤ1, ενώ ...  \nTo άρθρο Τίνα Μεσσαροπούλου: Η Κατερίνα Καραβάτου καλείται να κάνει θαύμα, το «φάντασμα» της Ελένης Τσολάκη θα «πλανάται» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tina-mesaropoyloy-ndp-1200x667.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Παναθηναϊκός – Μαρούσι: Έξαλλος ο Εργκίν Αταμάν άλλαξε όλη την πεντάδα του μετά από 3 λεπτά αγώνα",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-marousi-eksallos-o-ergkin-ataman-allakse-oli-tin-pentada-tou-meta-apo-3-lepta-agona/4583038/",
+          "pubDate": "Sun, 25 Jan 2026 14:20:54 +0000",
+          "description": "Ο Παναθηναϊκός αντιμετωπίζει το Μαρούσι στο «Telekom Center» και ο Εργκίν Αταμάν είδε την ομάδα του να ξεκινάει με άσχημο τρόπο το παιχνίδι και αποφάσισε ...  \nTo άρθρο Παναθηναϊκός – Μαρούσι: Έξαλλος ο Εργκίν Αταμάν άλλαξε όλη την πεντάδα του μετά από 3 λεπτά αγώνα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ataman-15-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Συνοδική Θεία Λειτουργία στα Τίρανα για τον έναν χρόνο από την εκδημία του Αρχιεπισκόπου Αλβανίας Αναστάσιου",
           "link": "https://www.protothema.gr/greece/article/1763112/sunodiki-theia-leitourgia-gia-ton-enan-hrono-apo-tin-ekdimia-tou-arhiepiskopou-alvanias-anastasiou/?utm_source=rss",
@@ -95,6 +111,14 @@
           "description": "Τραγικό θάνατο βρήκε ένας 75χρονος άνδρας στην Πάτρα, όπου ξέσπασε φωτιά μέσα στο σπίτι του στον Καστελλόκαμπο την Κυριακή (25.01.2026). Συναγερμός σήμανε στην Πάτρα, έπειτα ...  \nTo άρθρο Φωτιά στην Πάτρα: Νεκρός ο 75χρονος Σάββας Ιορδανίδης, πρώην προπονητής βόλεϊ  – Εντοπίστηκε χωρίς τις αισθήσεις του στο σπίτι του δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/savvas-iordanisi-patra.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Τεχνητή Νοημοσύνη: Το χάσμα μεταξύ ουραγών και πρωτοπόρων στην Ευρώπη και που ανήκει η Ελλάδα",
+          "link": "https://www.in.gr/2026/01/25/in-science/ai/texniti-noimosyni-xasma-metaksy-ouragon-kai-protoporon-stin-eyropi-kai-pou-anikei-ellada/",
+          "pubDate": "Sun, 25 Jan 2026 16:20:21 +0300",
+          "description": "Η Ευρωπαϊκή Ένωση συνεχίζει να επενδύει ταυτόχρονα σε νέα μέτρα για την υποστήριξη της υιοθέτησης της Τεχνητής Νοημοσύνης τόσο σε άτομα όσο και σε επιχειρήσεις",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/immo-wegmann-vi1HXPw6hyw-unsplash-2-768x510.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Καλλιρόη Μυριαγκού: «Νιώθω περήφανη για τον Αντώνη Μυριαγκό, του ταιριάζει γάντι ο ρόλος του Καποδίστρια",
@@ -223,30 +247,6 @@
           "description": "Συνελήφθησαν τρία άτομα ηλικίας 19, 24, 47 ετών",
           "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2025-01-15/xeiropedes-750x375.jpeg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "LIVE: Μπρέντφορντ – Νότιγχαμ Φόρεστ",
-          "link": "https://www.in.gr/matchcenter/4813597/",
-          "pubDate": "Sun, 25 Jan 2026 15:55:45 +0300",
-          "description": "LIVE: Μπρέντφορντ – Νότιγχαμ Φόρεστ. Παρακολουθήστε live στις 16:00 την αναμέτρηση Μπρέντφορντ – Νότιγχαμ Φόρεστ για την 23η αγωνιστική της Premier League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/38ee8c7ddc11aec3110ee3e883a0ddfb-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "LIVE: Άρης – Λεβαδειακός",
-          "link": "https://www.in.gr/matchcenter/4859119/",
-          "pubDate": "Sun, 25 Jan 2026 15:53:54 +0300",
-          "description": "LIVE: Άρης – Λεβαδειακός. Παρακολουθήστε live στις 16:00 την αναμέτρηση Άρης – Λεβαδειακός για τη 18η αγωνιστική της Superleague. Τηλεοπτικά από το Novasports Prime.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6705951-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Έπρεπε και μπόρεσε – Το νέο τηλεοπτικό Dragon Ball Super: Beerus έρχεται το φθινόπωρο του 2026",
-          "link": "https://www.in.gr/2026/01/25/life/culture-live/eprepe-kai-mporese-neo-tileoptiko-dragon-ball-super-beerus-erxetai-fthinoporo-tou-2026/",
-          "pubDate": "Sun, 25 Jan 2026 15:50:44 +0300",
-          "description": "Το Dragon Ball Super: Beerus ανακοινώθηκε επίσημα ως νέο τηλεοπτικό anime και θα κάνει πρεμιέρα το φθινόπωρο του 2026, ως αναβαθμισμένη εκδοχή της σειράς, με πλήρη αναδόμηση εικόνας και αφήγησης.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Screenshot-2026-01-25-152204-768x414.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παναθηναϊκός – Μαρούσι: Έξαλλος ο Εργκίν Αταμάν άλλαξε όλη την πεντάδα του μετά από 3 λεπτά αγώνα",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-marousi-eksallos-o-ergkin-ataman-allakse-oli-tin-pentada-tou-meta-apo-3-lepta-agona/4583038/",
+          "pubDate": "Sun, 25 Jan 2026 14:20:54 +0000",
+          "description": "Ο Παναθηναϊκός αντιμετωπίζει το Μαρούσι στο «Telekom Center» και ο Εργκίν Αταμάν είδε την ομάδα του να ξεκινάει με άσχημο τρόπο το παιχνίδι και αποφάσισε ...  \nTo άρθρο Παναθηναϊκός – Μαρούσι: Έξαλλος ο Εργκίν Αταμάν άλλαξε όλη την πεντάδα του μετά από 3 λεπτά αγώνα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ataman-15-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Smart glasses: Άνδρες βιντεοσκοπούν κρυφά γυναίκες στον δρόμο και τις ποστάρουν στο διαδίκτυο για μερικά κλικς",
           "link": "https://www.gazzetta.gr/plus/2509973/smart-glasses-andres-binteoskopoyn-kryfa-gynaikes-ston-dromo-kai-tis-postaroyn-sto",
           "pubDate": "Sun, 25 Jan 2026 16:10:00 +0200",
@@ -803,7 +811,7 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Μπαρτζώκας: « Για τον Τζόσεφ θα μιλήσω πριν από την Μπαρτσελόνα»",
+          "title": "Μπαρτζώκας: «Για τον Τζόσεφ θα μιλήσω πριν από την Μπαρτσελόνα»",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510024/mpartzokas-gia-ton-tzosef-tha-miliso-prin-apo-tin-mpartselona",
           "pubDate": "Sun, 25 Jan 2026 15:44:46 +0200",
           "description": "O Γιώργος Μπαρτζώκας μιλώντας στη flash interview δεν θέλησε να πει κάτι παραπάνω για τα επεισόδια στο ματς.",
@@ -977,14 +985,6 @@
           "description": "Απρόοπτο για τον Ολυμπιακό με τον Ταϊρίκ Τζόουνς να αποχωρεί με ενοχλήσεις στον μηρό",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jones_eurokinisi_0.jpg?itok=rfPrcFMO",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Κατώτατος μισθός: Η «έκπληξη» στο ποσοστό αύξησής του",
-          "link": "https://www.gazzetta.gr/2436947/boyliazoyn-10-ipeirotikoi-proorismoi-gia-pasha",
-          "pubDate": "Sun, 25 Jan 2026 14:45:00 +0200",
-          "description": "Εντός της εβδομάδας τα υπομνήματα των κοινωνικών εταίρων",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/shutterstock_-_eurw_-_money_-_lefta-xrimata_1.jpg?itok=1bqyhVx-",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός – Μαρούσι: «Πρόβλημα» από την ΕΡΤ – Έπεσε… μαύρο στις οθόνες!",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-marousi-provlima-ap/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-provlima-ap",
+          "pubDate": "Sun, 25 Jan 2026 14:20:50 +0000",
+          "description": "Η εικόνα χάθηκε στο ξεκίνημα του δεύτερου δεκαλέπτου, με την ΕΡΤ να επαναφέρει το σήμα λίγα λεπτά αργότερα. Λίγο μετά την έναρξη του δεύτερου δεκαλέπτου στην αναμέτρηση του Παναθηναϊκός με το Μαρούσι, προέκυψε τεχνικό ζήτημα στη ζωντανή τηλεοπτική μετάδοση του αγώνα. Συγκεκριμένα, η ΕΡΤ έχασε το σήμα της μετάδοσης, με αποτέλεσμα οι τηλεθεατές να βλέπουν […]\nThe post Παναθηναϊκός – Μαρούσι: «Πρόβλημα» από την ΕΡΤ – Έπεσε… μαύρο στις οθόνες! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/10/oaka-1.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Live streaming: Παναθηναϊκός-Μαρούσι",
           "link": "https://panathinaikos24.gr/2026/01/25/617594/live-streaming-panathinaikos-marousi-3/",
@@ -1222,14 +1230,6 @@
           "pubDate": "Sun, 25 Jan 2026 09:02:34 +0000",
           "description": "Η Κυριακή φέρνει ματσάρες σε Αγγλία και Ιταλία, σούπερ ραντεβού σε όλη την Ευρώπη και κρίσιμα παιχνίδια και στη Super League.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/GettyImages-2248093818.jpg.webp?fit=1080%2C608&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Για το τρίποντο στο Περιστέρι",
-          "link": "https://panathinaikos24.gr/2026/01/25/617541/gia-to-triponto-sto-peristeri/",
-          "pubDate": "Sun, 25 Jan 2026 08:25:02 +0000",
-          "description": "Στο Περιστέρι συνεχίζονται οι αγωνιστικές υποχρεώσεις του Παναθηναϊκού για τη Super League, με το «τριφύλλι» να κοντράρεται με τον Ατρόμητο στο πλαίσιο της 18ης αγωνιστικής (19:30, Novasports).",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/0667986fe7005936090900a6f94c9ab9_XL.jpg?fit=750%2C422&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
