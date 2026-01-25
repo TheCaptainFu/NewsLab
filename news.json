@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T17:20:29.932Z",
+  "lastUpdated": "2026-01-25T17:25:24.528Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -169,6 +169,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "LIVE: Ατρόμητος – Παναθηναϊκός",
+          "link": "https://www.in.gr/matchcenter/4859121/",
+          "pubDate": "Sun, 25 Jan 2026 19:22:33 +0300",
+          "description": "LIVE: Ατρόμητος – Παναθηναϊκός. Παρακολουθήστε live στις 19:30 την αναμέτρηση Ατρόμητος – Παναθηναϊκός για τη 18η αγωνιστική της Superleague. Τηλεοπτικά από το Novasports Prime.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6682011-768x511.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Κτηνωδία στη Μεσσηνία: Σκότωσαν σκύλο και τον κρέμασαν σε δέντρο – «Σάπια κοινωνία»",
           "link": "https://www.newsit.gr/ellada/ktinodia-sti-messinia-skotosan-skylo-kai-ton-kremasan-se-dentro-sapia-koinonia/4583091/",
           "pubDate": "Sun, 25 Jan 2026 16:21:58 +0000",
@@ -238,14 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 16:03:56 +0000",
           "description": "Ο Άρης κρατούσε στα χέρια του μια σημαντική νίκη, αλλά ο Λεβαδειακός πήρε την ισοπαλία στο “Βικελίδης” (2-2) ισοφαρίζοντας με τον Ιωάννη Κωστή στο 3ο ...  \nTo άρθρο Άρης – Λεβαδειακός 2-2: «Σοκ» για τους Θεσσαλονικείς στις καθυστερήσεις, οι Βοιωτοί απέφυγαν την ήττα με γκολ του Κωστή δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lebadeiakos-aris-eurokinissi.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Εργκίν Αταμάν τρόλαρε τους διαιτητές και ζήτησε αντιαθλητικό κατά του Κώστα Σλούκα στο Παναθηναϊκός – Μαρούσι",
-          "link": "https://www.newsit.gr/athlitika/o-ergkin-ataman-trolare-tous-diaitites-kai-zitise-antiathlitiko-kata-tou-kosta-slouka-sto-panathinaikos-marousi/4583081/",
-          "pubDate": "Sun, 25 Jan 2026 16:02:21 +0000",
-          "description": "O Παναθηναϊκός πήρε τη νίκη με 92-81 κόντρα στο Μαρούσι για την 16η αγωνιστική της GBL, με τον Εργκίν Αταμάν να είναι έξαλλος από τη ...  \nTo άρθρο Ο Εργκίν Αταμάν τρόλαρε τους διαιτητές και ζήτησε αντιαθλητικό κατά του Κώστα Σλούκα στο Παναθηναϊκός – Μαρούσι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ataman-16-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ιστορικό μετάλλιο για την Εθνική Ελλάδος Πόλο Ανδρών στο Ευρωπαϊκό του Βελιγραδίου ",
+          "link": "http://gr.euronews.com/2026/01/25/istoriko-metallio-gia-tin-ethniki-polo-tis-ellados-sto-evropaiko-tou-veligradioy",
+          "pubDate": "Sun, 25 Jan 2026 18:17:04 +0100",
+          "description": "Διέλυσε με 12-5 την Ιταλία στον μικρό τελικό και ανέβηκε σε βάθρο Ευρωπαϊκού Πρωταθλήματος για πρώτη φορά στην ιστορία της",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Ειδήσεις | 25 Ιανουαρίου 2026 - Βραδινό δελτίο",
           "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-bradino-deltio",
           "pubDate": "Sun, 25 Jan 2026 18:00:15 +0100",
@@ -731,14 +739,6 @@
           "description": "Trump officials says federal agents shot in self-defence, as Pretti's parents accuse them of \"sickening lies\".",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ee/live/e6356d90-f9ea-11f0-b5f7-49f0357294ff.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "What India's Republic Day red carpet means for its foreign policy",
-          "link": "https://www.bbc.com/news/articles/c9wxx29yknpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 02:03:04 GMT",
-          "description": "Who sits beside India’s president on Republic Day signals Delhi’s diplomatic priorities to the world.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a399/live/055d9470-f826-11f0-9001-7f071bc02a11.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Φαρίντ: «Θέλουμε να βρεθούμε στο Final Four και να το κερδίσουμε»",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510112/farint-theloyme-na-brethoyme-sto-final-four-kai-na-kerdisoyme",
+          "pubDate": "Sun, 25 Jan 2026 19:19:44 +0200",
+          "description": "Ο Κένεθ Φαρίντ ξεκαθάρισε ότι ο μεγάλος στόχος είναι το Final Four της Euroleague και είναι κάτι για το οποίο έχουν ρίξει όλοι το βάρος.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/faried_intime_4.jpg?itok=QAhd0QEZ",
+          "source": "Gazzetta"
+        },
         {
           "title": "Εθνική ομάδα πόλο ανδρών: Τα μετάλλια της σε μεγάλες διοργανώσεις",
           "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510111/ethniki-omada-polo-andron-ta-metallia-tis-se-megales",
@@ -976,14 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 18:21:39 +0200",
           "description": "Ο προπονητής του Λεβαδειακού, Νίκος Παπαδόπουλος, στάθηκε στις δηλώσεις του στα χαρακτηριστικά των Βοιωτών για το 2-2.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/nikos_papadopoulos_leva.jpg?itok=1Rcv_MLf",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Super League 2: Ο ΠΑΣ Γιάννινα ζήτησε VAR στα Play Outs",
-          "link": "https://www.gazzetta.gr/football/superleague-2/2510089/super-league-2-o-pas-giannina-zitise-var-sta-play-outs",
-          "pubDate": "Sun, 25 Jan 2026 18:16:01 +0200",
-          "description": "Ο ΠΑΣ Γιάννινα με ανακοίνωση του κατέθεσε πρόταση να εξεταστεί το ενδεχόμενο της εφαρμογής τεχνολογίας VAR στα ματς των Play Outs της Super League 2.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/siontis.jpg?itok=bX_YyCgK",
           "source": "Gazzetta"
         }
       ]
