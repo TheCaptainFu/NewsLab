@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T09:50:25.767Z",
+  "lastUpdated": "2026-01-25T09:55:23.142Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Σε διαθεσιμότητα η καθηγήτρια που φίμωσε και έδεσε με ταινία 13χρονο μαθητή στις Σέρρες",
+          "link": "https://www.protothema.gr/greece/article/1763005/se-diathesimotita-i-kathigitria-pou-fimose-kai-edese-me-tainia-13hrono-mathiti-stis-serres/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 11:51:02 +0200",
+          "description": "Καταδικάστηκε σε ποινή φυλάκισης δύο ετών, ενώ αποφασίστηκε η ποινή της να είναι εξαγοράσιμη προς δέκα ευρώ ημερησίως",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-24/maketa-dieuthintria.jpg"
+        },
         {
           "title": "Ατρόμητος – Παναθηναϊκός: Επικίνδυνη αποστολή για το «τριφύλλι» στο Περιστέρι",
           "link": "https://www.newsit.gr/athlitika/atromitos-panathinaikos-epikindyni-apostoli-gia-to-trifylli-sto-peristeri/4582906/",
@@ -114,17 +121,24 @@
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/epitrapazio_exof.jpg"
         },
         {
-          "title": "Έκτακτο δελτίο επιδείνωσης καιρού: Έρχονται ισχυρές βροχές και καταιγίδες – Οι περιοχές που θα επηρεαστούν",
+          "title": "Λεκτικές πιρουέτες Μητσοτάκη: Η Ευρώπη να παραμείνει ενωμένη διατηρώντας ανοιχτούς διαύλους συνεννόησης με τις ΗΠΑ",
+          "link": "https://www.in.gr/2026/01/25/politics/politiki-grammateia/lektikes-pirouetes-mitsotaki-eyropi-na-parameinei-enomeni-diatirontas-anoixtous-diaylous-synennoisis-tis-ipa/",
+          "pubDate": "Sun, 25 Jan 2026 11:50:24 +0300",
+          "description": "Ο  πρωθυπουργός στην κυριακάτικη ανάρτησή του ασχολείται με τις σχέσεις Ευρώπης και ΗΠΑ που δοκιμάζονται το τελευταίο διάστημα με αφορμή τη Γροιλανδία - Σύμφωνα με τον κ. Μητσοτάκη «οφείλουμε να διατηρούμε ένα πλαίσιο συνεννόησης και λειτουργικούς διαύλους συνεργασίας με τις Ηνωμένες Πολιτείες, ακόμη και σε περιόδους έντασης»",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/TSD_5_EEMHTS-4-768x512.jpg"
+        },
+        {
+          "title": "Έκτακτο δελτίο επιδείνωσης καιρού: Έρχονται ισχυρές βροχές και καταιγίδες – Πορτοκαλί προειδοποίηση και για την Αττική",
           "link": "https://www.in.gr/2026/01/25/greece/ektakto-deltio-epideinosis-kairou-erxontai-isxyres-vroxes-kai-kataigides-oi-perioxes-pou-tha-epireastoun/",
           "pubDate": "Sun, 25 Jan 2026 11:48:25 +0300",
           "description": "Ισχυρές βροχές και καταιγίδες προβλέπονται αύριο Δευτέρα σε πολλές περιοχές της χώρας μας",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ΕΚΤΑΚΤΟ-ΙΝ-1-768x432.jpg"
         },
         {
-          "title": "Γλυφάδα: «Σκότωσα τη μητέρα μου» – Η ομολογία του πατροκτόνου το 2014 και οι απειλές για περισσότερη βία",
+          "title": "Γλυφάδα: «Αν με αφήσετε ξανά ελεύθερο θα σκοτώσω και τα αδέλφια μου» απείλησε ο 46χρονος πατροκτόνος",
           "link": "https://www.in.gr/2026/01/25/greece/glyfada-skotosa-ti-mitera-mou-omologia-tou-patroktonou-2014-kai-oi-apeiles-gia-perissoteri-via/",
           "pubDate": "Sun, 25 Jan 2026 11:46:49 +0300",
-          "description": "Τα σοβαρά ψυχολογικά προβλήματα του 46χρονου στη Γλυφάδα, η μητροκτονία και οι απειλές ότι θα σκοτώσει τα αδέλφια του αν τον αφήσουν ελεύθερο - Πώς ο πατροκτόνος κατέληξε να ζει με τον πατέρα του",
+          "description": "Τα σοβαρά ψυχολογικά προβλήματα του 46χρονου στη Γλυφάδα, η μητροκτονία το 2014 και οι απειλές ότι θα ξανασκοτώσει αν αφεθεί ελεύθερος - Πώς ο πατροκτόνος κατέληξε να ζει με τον πατέρα του",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EV11_250126_EGKLHMA-3-768x512.jpg"
         },
         {
@@ -203,20 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 08:19:30 +0000",
           "description": "Σε εξέλιξη βρίσκεται μια από τις σημαντικότερες μεταρρυθμίσεις των τελευταίων δεκαετιών στον τρόπο ελέγχου και καταβολής των αγροτικών ενισχύσεων προς τους αγρότες, με τη βοήθεια ...  \nTo άρθρο Επιστρατεύονται δορυφόροι και κτηματολόγιο για τον έλεγχο των αγροτικών ενισχύσεων δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xorafi-agrotes-eurokinissi.jpg"
-        },
-        {
-          "title": "Συνελήφθησαν 24χρονος και 22χρονος που έτρεχαν με 179 χλμ/ώρα στον Εύοσμο",
-          "link": "https://www.protothema.gr/greece/article/1762962/sunelifthisan-24hronos-kai-22hronos-pou-etrehan-me-179-hlmora-stin-esoteriki-perifereiaki-odo-ston-komvo-euosmou/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 10:18:00 +0200",
-          "description": "Το επιτρεπόμενο όριο στην περιοχή είναι 80 χλμ/ώρα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-troxaia.jpg"
-        },
-        {
-          "title": "Γλυφάδα: Αυτό είναι το αυτοκίνητο που βρέθηκε νεκρός ο άντρας στη Γλυφάδα – Τι εξετάζουν οι Αρχές",
-          "link": "https://www.in.gr/2026/01/25/greece/glyfada-ayto-einai-aytokinito-pou-vrethike-nekros-o-antras-sti-glyfada-ti-eksetazoun-oi-arxes/",
-          "pubDate": "Sun, 25 Jan 2026 11:15:58 +0300",
-          "description": "Τον άνδρα φέρεται να δολοφόνησε ο 46χρονος γιος του",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6028079496243645339-768x578.jpg"
         }
       ]
     },
@@ -281,10 +281,10 @@
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/mitsotakis-8-1.jpg"
         },
         {
-          "title": "Κυρανάκης στο “Face 2 Face” για τρένα: «Βασικό μέλημα η εγκατάσταση πολλαπλών δικλείδων ασφαλείας»",
+          "title": "Κυρανάκης στο “Face 2 Face” για τα επτά ταυτόχρονα ανθρώπινα λάθη τη νύχτα των Τεμπών",
           "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-trena-vasiko-melima-i-egkatastasi-pollaplon-dikleidon-asfaleias/",
           "pubDate": "Sun, 25 Jan 2026 08:02:00 +0000",
-          "description": "Ο Αναπληρωτής Υπουργός Μεταφορών, Κωνσταντίνος Κυρανάκης, μίλησε στο “Face 2 Face” και στην Κατερίνα Παναγοπούλου για την ασφάλεια των τρένων στην Ελλάδα, μετά την τραγωδία στα Τέμπη, επισημαίνοντας ότι το βασικό μέλημα είναι η εγκατάσταση πολλαπλών δικλείδων ασφαλείας για να μειωθούν τα ανθρώπινα λάθη. Σύμφωνα με τον ίδιο, η νύχτα του δυστυχήματος χαρακτηρίστηκε από τουλάχιστον […]",
+          "description": "Ο Αναπληρωτής Υπουργός Μεταφορών, Κωνσταντίνος Κυρανάκης, μίλησε στο “Face 2 Face” και στην Κατερίνα Παναγοπούλου για την ασφάλεια των τρένων στην Ελλάδα, μετά την τραγωδία στα Τέμπη, επισημαίνοντας ότι το βασικό μέλημα είναι η εγκατάσταση πολλαπλών δικλείδων ασφαλείας για να μειωθούν τα ανθρώπινα λάθη. Αναφέρθηκε ακόμη στον τρόπο αντιμετώπισης της κυκλοφοριακής συμφόρησης, στο επεισόδιο με […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Konstadinos-Kyranakis-sto-face-to-face.jpg-1024x576.jpeg"
         },
         {
@@ -873,6 +873,13 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Νιούκαστλ – Άστον Βίλα με σούπερ «Ενισχυμένα» ημίχρονα",
+          "link": "https://panathinaikos24.gr/2026/01/25/617549/nioukastl-aston-vila-me-souper-enisxymena-imixrona/",
+          "pubDate": "Sun, 25 Jan 2026 09:55:11 +0000",
+          "description": "Οι τελευταίες αγωνιστικές έχουν σπιλώσει μερικώς την εικόνα της Άστον Βίλα.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/1100x650-Newcastle.png?fit=1100%2C650&amp;ssl=1"
+        },
+        {
           "title": "Για τη νίκη κόντρα στο Μαρούσι",
           "link": "https://panathinaikos24.gr/2026/01/25/617561/gia-ti-niki-kontra-sto-marousi/",
           "pubDate": "Sun, 25 Jan 2026 09:32:00 +0000",
@@ -1074,13 +1081,6 @@
           "pubDate": "Sat, 24 Jan 2026 15:02:04 +0000",
           "description": "H Νατάσα Αθήνη – Τσούνη έγινε γνωστή στο πανελλήνιο από το περιστατικό του 1997, όταν είχε χαστουκίσει τη Δήμητρα Λιάνη στη Στοά του Βιβλίου.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/ATHINI.jpg?fit=894%2C600&amp;ssl=1"
-        },
-        {
-          "title": "«Καυτός» Χουάντσο: «Mπουμπούνισε» 150 στα 164 τρίποντα!",
-          "link": "https://panathinaikos24.gr/2026/01/24/617486/kaytos-xouantso-mpoumpounise-150-sta-164-triponta/",
-          "pubDate": "Sat, 24 Jan 2026 14:35:49 +0000",
-          "description": "Ο Χουάντσο Ερνανγκόμεθ έβλεπε το καλάθι... σαν βαρέλι στην προπόνηση του Παναθηναϊκού, σουτάροντας με ποσοστό ευστοχίας 91.5% στα 164 τρίποντα που πήρε!",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6314214.jpg?fit=900%2C598&amp;ssl=1"
         }
       ]
     },
