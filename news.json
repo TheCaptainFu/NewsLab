@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T12:40:27.047Z",
+  "lastUpdated": "2026-01-25T12:45:29.940Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -641,7 +641,7 @@
           "link": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 04:19:46 GMT",
           "description": "Trump officials says federal agents shot in self-defence, as Pretti's parents accuse them of \"sickening lies\".",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf1/live/82c53a10-f9d1-11f0-b5f7-49f0357294ff.jpg",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ee/live/e6356d90-f9ea-11f0-b5f7-49f0357294ff.jpg",
           "source": "BBC News"
         },
         {
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Κολοσσός - Ολυμπιακός: Λογομαχία Μπαρτζώκα - Λυκογιάννη, από μία τεχνική ποινή οι δύο προπονητές",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2509992/kolossos-olympiakos-logomahia-mpartzoka-lykogianni-apo-mia-tehniki",
+          "pubDate": "Sun, 25 Jan 2026 14:40:47 +0200",
+          "description": "Ο Άρης Λυκογιάννης και ο Γιώργος Μπαρτζώκας λογομάχησαν έντονα κατά τη διάρκεια του Κολοσσός Ρόδου - Ολυμπιακός με αποτέλεσμα να δεχθούν από μία τεχνική ποινή.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lyko.jpg?itok=3Ic7f9md",
+          "source": "Gazzetta"
+        },
         {
           "title": "Παναθηναϊκός: Η ανάρτηση για τα εισιτήρια του αγώνα με την Ρόμα με άρωμα... 2010",
           "link": "https://www.gazzetta.gr/football/europa-league/2509991/panathinaikos-i-anartisi-gia-ta-eisitiria-toy-agona-me-tin-roma-me",
@@ -977,14 +985,6 @@
           "description": "Θύμα ξυλοδαρμού έπεσε ανήλικος 13 ετών στον Άλιμο με αποτέλεσμα να διακομιστεί στο νοσοκομείο. Οι δράστες, επίσης ανήλικοι, αναζητούνται από τις αρχές.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-10/ekav.jpg?itok=aA1nudJH",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Τζόκοβιτς: «Θα είμαι στην Αθήνα για το Ολυμπιακός – Ερυθρός Αστέρας, ανυπομονώ για την αδελφική αναμέτρηση»",
-          "link": "https://www.newsit.gr/athlitika/tzokovits-tha-eimai-stin-athina-gia-to-olympiakos-erythros-asteras-anypomono-gia-tin-adelfiki-anametrisi/4582941/",
-          "pubDate": "Sun, 25 Jan 2026 10:41:27 +0000",
-          "description": "Ο Νόβακ Τζόκοβιτς είναι γνωστό ότι είναι υποστηρικτής του Ερυθρού Αστέρα και όπως δήλωσε κατά πάσα πιθανότητα θα είναι στην Αθήνα για να παρακολουθήσει το ...  \nTo άρθρο Τζόκοβιτς: «Θα είμαι στην Αθήνα για το Ολυμπιακός – Ερυθρός Αστέρας, ανυπομονώ για την αδελφική αναμέτρηση» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/djokovic-2-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Στο Περιστέρι για… αντίδραση ο Παναθηναϊκός! – Η τηλεοπτική μετάδοση του αγώνα",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/sto-peristeri-gia-antidrasi-o-panathin/?utm_source=rss&utm_medium=rss&utm_campaign=sto-peristeri-gia-antidrasi-o-panathin",
+          "pubDate": "Sun, 25 Jan 2026 12:41:27 +0000",
+          "description": "Οι «πράσινοι» επιστρέφουν στο πρωτάθλημα με στόχο την αντίδραση και τους βαθμούς, απέναντι σε έναν Ατρόμητο που ψάχνει την είσοδο στην οκτάδα\nThe post Στο Περιστέρι για… αντίδραση ο Παναθηναϊκός! – Η τηλεοπτική μετάδοση του αγώνα appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/podosfairo.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Έξω και ο Γιούρτσεβεν με Μαρούσι! – Ο λόγος της απουσίας του",
           "link": "https://trifilara.gr/exo-kai-o-giourtseven-me-marousi-o-logos-tis-apousias-tou/?utm_source=rss&utm_medium=rss&utm_campaign=exo-kai-o-giourtseven-me-marousi-o-logos-tis-apousias-tou",
@@ -1223,14 +1231,6 @@
           "description": "Μια απουσία που δεν περνά απαρατήρητη και ενισχύει την αίσθηση ότι η υπόθεση μπαίνει στην τελική της ευθεία.\nThe post Παναθηναϊκός: Ενδείξεις από την Ουνιόν πως ο Κραλ… πλησιάζει! (pic) appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Δώνης: «Πολύ ευγενής ο Αλαφούζος – Είχα συναντηθεί με επενδυτή του Παναθηναϊκού»!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/donis-poly-evgenis-o-alafouzos-eicha/?utm_source=rss&utm_medium=rss&utm_campaign=donis-poly-evgenis-o-alafouzos-eicha",
-          "pubDate": "Sat, 24 Jan 2026 19:21:20 +0000",
-          "description": "Στο τρίτο κομμάτι του στην συνέντευξη του Γιώργου Δώνη στους Betarades, ο Έλληνας τεχνικός μίλησε για τον Γιάννη Αλαφούζο και πολλά θέματα σχετικά με τον Παναθηναϊκό. Αναλυτικά όσα είπε στους Betarades: Για τον πάγκο της Εθνικής: «Έχει σημασία τι εθνικότητα θα είναι ο προπονητής της Εθνικής. Εγώ θέλω Έλληνα προπονητή στην εθνική ομάδα. Αυτό δεν […]\nThe post Δώνης: «Πολύ ευγενής ο Αλαφούζος – Είχα συναντηθεί με επενδυτή του Παναθηναϊκού»! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Donis.jpg",
-          "source": "Όλα Πράσινα"
         }
       ]
     },
@@ -1238,6 +1238,14 @@
       "title": "ΤΕΧΝΟΛΟΓΙΑ & SCIENCE",
       "color": "pink",
       "articles": [
+        {
+          "title": "Τέλος τα AI Chatbots για εφήβους στο Instagram – Τι φοβάται η Meta;",
+          "link": "https://www.techgear.gr/telos-ta-ai-chatbots-gia-efivoys-sto-instagram-ti-fovatai-i-meta-47308",
+          "pubDate": "Sun, 25 Jan 2026 14:43:00 +0200",
+          "description": "Η Meta αποφάσισε να παγώσει προσωρινά την πρόσβαση των εφήβων στους χαρακτήρες τεχνητής νοημοσύνης (AI characters) στις πλατφόρμες της. Η ανακοίνωση, ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/meta-ai-characters-teens.jpg",
+          "source": "Techgear"
+        },
         {
           "title": "Τέλος στο μύθο της ιδιωτικότητας: Η Microsoft παραδίδει τα κλειδιά κρυπτογράφησης στο FBI",
           "link": "https://www.techgear.gr/telos-sto-mytho-tis-idiotikotitas-i-microsoft-paradidei-ta-kleidia-kryptografisis-sto-fbi-47307",
@@ -1468,14 +1476,6 @@
           "pubDate": "Fri, 23 Jan 2026 12:22:00 +0200",
           "description": "Μια καθοριστική εξέλιξη στον τομέα της ναυτικής επιτήρησης και του ανθυποβρυχιακού πολέμου (ASW) έλαβε χώρα πρόσφατα στους ουρανούς της Νότιας ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/general-atomics-drone.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Το Android στο στόχαστρο: Malware με νοημοσύνη «βλέπει» και κλικάρει μόνο του",
-          "link": "https://www.techgear.gr/to-android-sto-stochastro-malware-me-noimosyni-vlepei-kai-klikarei-mono-toy-47291",
-          "pubDate": "Fri, 23 Jan 2026 12:17:00 +0200",
-          "description": "Μια ανησυχητική εξέλιξη στον κυβερνοχώρο έρχεται να επιβεβαιώσει τους φόβους των ειδικών ασφαλείας: οι εγκληματίες του διαδικτύου δεν αρκούνται πλέον ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/android-malware.jpg",
           "source": "Techgear"
         }
       ]
