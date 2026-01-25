@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T08:55:23.452Z",
+  "lastUpdated": "2026-01-25T09:00:42.331Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πάνω από 100 δολάρια το ασήμι με επιταχυντές το αδύναμο δολάριο και τις γεωπολιτικές εντάσεις",
+          "link": "https://www.newsit.gr/oikonomia/pano-apo-100-dolaria-to-asimi-me-epitaxyntes-to-adynamo-dolario-kai-tis-geopolitikes-entaseis/4582887/",
+          "pubDate": "Sun, 25 Jan 2026 08:55:05 +0000",
+          "description": "Τα 100 δολάρια ανά ουγγιά έφτασε για πρώτη φορά το ασήμι, ενισχυμένο από το πιο αδύναμο δολάριο ΗΠΑ, τις επίμονες γεωπολιτικές εντάσεις και τη γενικότερη ...  \nTo άρθρο Πάνω από 100 δολάρια το ασήμι με επιταχυντές το αδύναμο δολάριο και τις γεωπολιτικές εντάσεις δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1456168733-1200x675-1.jpg"
+        },
         {
           "title": "«Το περιμέναμε να γίνει, είχε ψυχολογικά προβλήματα» λέει γειτόνισσα για τη δολοφονία του 80χρονου στη Γλυφάδα",
           "link": "https://www.protothema.gr/greece/article/1762973/to-perimename-na-ginei-eihe-psuhologika-provlimata-leei-geitonissa-gia-ti-dolofonia-tou-80hronou-sti-glufada/?utm_source=rss",
@@ -160,7 +167,7 @@
           "link": "https://www.in.gr/2026/01/25/greece/glyfada-oi-protes-eikones-meta-tin-agria-patroktonia-perimename-lene-oi-geitones/",
           "pubDate": "Sun, 25 Jan 2026 10:32:39 +0300",
           "description": "Το οικογενειακό δράμα πίσω από το έγκλημα στη Γλυφάδα - «Του λέγαμε καλημέρα, μας έλεγε και εκείνος, αλλά πάντα είχαμε μία σκέψη... επειδή είχαμε ακούσει ότι είχε πολλά ψυχολογικά» λέει γειτόνισσα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/glyfada-egklima25-1-768x437.jpg"
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/photo_2026-01-25_10-38-17-1-768x363.jpg"
         },
         {
           "title": "Έρχεται τη Δευτέρα ο Τζόσεφ στην Ελλάδα για τον Ολυμπιακό",
@@ -210,13 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 10:11:35 +0300",
           "description": "Ο Βασίλιε Μίτσιτς δεν πείθει με τις εμφανίσεις του στη Χάποελ Τελ Αβίβ και έχουν αρχίσει τα… παρατράγουδα για τον Σέρβο γκαρντ στο Ισραήλ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6713380-1024x682-768x512.jpg"
-        },
-        {
-          "title": "ΥΠΕΝ: Ολιστική προσέγγιση για εξοικονόμηση ενέργειας στα κτίρια και στήριξη ευάλωτων νοικοκυριών",
-          "link": "https://www.newsit.gr/oikonomia/xristika/ypen-olistiki-proseggisi-gia-eksoikonomisi-energeias-sta-ktiria-kai-stiriksi-eyaloton-noikokyrion/4582807/",
-          "pubDate": "Sun, 25 Jan 2026 07:06:07 +0000",
-          "description": "Μια σειρά δράσεων για την εξοικονόμηση ενέργειας στα κτίρια προωθεί το Υπουργείο Περιβάλλοντος και Ενέργειας (ΥΠΕΝ), με βασικό εργαλείο τα προγράμματα τύπου «Εξοικονομώ». Παράλληλα, υλοποιούνται ...  \nTo άρθρο ΥΠΕΝ: Ολιστική προσέγγιση για εξοικονόμηση ενέργειας στα κτίρια και στήριξη ευάλωτων νοικοκυριών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/akinita-diamerismata-eurokinissi-1.jpg"
         }
       ]
     },
@@ -657,6 +657,13 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ποιο ελληνικό νησί είναι στους 10 κορυφαίους προορισμούς παγκοσμίως για το 2026",
+          "link": "https://www.gazzetta.gr/plus/2509935/poio-elliniko-nisi-einai-stoys-10-koryfaioys-proorismoys-pagkosmios-gia-2026",
+          "pubDate": "Sun, 25 Jan 2026 11:00:00 +0200",
+          "description": "Οι χρήστες του Tripadvisor ανέδειξαν και φέτος τους κορυφαίους προορισμούς της χρονιάς. Στη «χρυσή δεκάδα» βρίσκεται κι ένα ελληνικό νησί.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/travel-25-1-26.jpg?itok=crpaN76h"
+        },
+        {
           "title": "Ο Αλμέιδα αφιέρωσε τη νίκη της Σεβίλλης σε οπαδό που έχασε τη ζωή του σε σιδηροδρομικό δυστύχημα!",
           "link": "https://www.gazzetta.gr/football/la-liga/2509945/o-almeida-afierose-ti-niki-tis-sebillis-se-opado-poy-ehase-ti-zoi-toy-sto",
           "pubDate": "Sun, 25 Jan 2026 10:48:46 +0200",
@@ -858,13 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:04:24 +0000",
           "description": "Δύο γκολ του Κιλιάν Εμπαπέ έγραψαν την ιστορία του αγώνα στο Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2 και επέτρεψαν στη “Βασίλισσα” να βρεθεί ξανά στην κορυφή ...  \nTo άρθρο Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2: Ο Εμπαπέ έστειλε τη «Βασίλισσα» στην κορυφή της «La Liga» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mbappe-3-1200x854.jpg"
-        },
-        {
-          "title": "Λε Πορτέλ - Παρί 57-120: Σάρωσε με 63 πόντους διαφορά",
-          "link": "https://www.gazzetta.gr/basketball/mpasket-gallia/2509895/le-portel-pari-57-120-kantapontismos-horis-proigoymeno-me-63",
-          "pubDate": "Sun, 25 Jan 2026 00:03:43 +0200",
-          "description": "Η Παρί επέβαλε πανηγυρικά την κυριαρχία της, διαλύοντας τη Λε Πορτέλ με 120-57 με διαφορά 63 πόντων και πρωταγωνιστή τον Ναντίρ Ιφί.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-06/hifi_pari.jpg?itok=6x7P8Mc8"
         }
       ]
     },
