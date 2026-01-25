@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T14:55:25.364Z",
+  "lastUpdated": "2026-01-25T15:00:41.176Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -113,7 +113,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "ΗΠΑ: Σε κατάσταση έκτακτη ανάγκης 17 Πολιτείες λόγω κακοκαιρίας – 670.000 νοικοκυριά χωρίς ρεύμα",
+          "title": "ΗΠΑ: Σε κατάσταση έκτακτη ανάγκης 17 Πολιτείες λόγω κακοκαιρίας – 800.000 νοικοκυριά χωρίς ρεύμα",
           "link": "https://www.in.gr/2026/01/25/world/ipa-se-katastasi-ektakti-anagkis-17-politeies-logo-kakokairias-670-000-noikokyria-xoris-reyma/",
           "pubDate": "Sun, 25 Jan 2026 16:52:23 +0300",
           "description": "Τεράστια είναι τα προβλήματα από την κακοκαιρία Fern που πλήττει τις ΗΠΑ. Εκατοντάδες χιλιάδες Αμερικανοί είναι χωρίς ρεύμα, ενώ χιόνι, χιονόνερο και παγωνιά σαρώνουν τη χώρα. Χιλιάδες πτήσεις ακυρώθηκαν.",
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Συνεδριάζει το υπουργικό συμβούλιο υπό τον Κυριάκο Μητσοτάκη: Οι νομοθετικές πρωτοβουλίες που θα παρουσιαστούν",
+          "link": "https://www.tanea.gr/2026/01/25/politics/synedriazei-to-ypoyrgiko-symvoylio-ypo-ton-kyriako-mitsotaki-oi-nomothetikes-protovoylies/",
+          "pubDate": "Sun, 25 Jan 2026 14:54:13 +0000",
+          "description": "Αύριο, Δευτέρα 26 Ιανουαρίου, συνεδριάζει το Υπουργικό Συμβούλιο υπό την προεδρία του Κυριάκου Μητσοτάκη στο Μέγαρο Μαξίμου. Στις 18:00 ο πρωθυπουργός θα συμμετάσχει σε εκδήλωση για το πρόγραμμα «The Greek AI Accelerator».",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/mhtsotakhs-6-scaled-e1756203321790-1024x672.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "ΣΥΡΙΖΑ για ανάρτηση Κ. Μητσοτάκη: Η θέση της Ελλάδας πρέπει να είναι ξεκάθαρη, όχι να ισορροπεί σε δύο βάρκες",
           "link": "https://www.naftemporiki.gr/politics/2063562/syriza-gia-anartisi-k-mitsotaki-i-thesi-tis-elladas-prepei-na-einai-xekathari-ochi-na-isorropei-se-dyo-varkes/?utm_source=rss&utm_medium=rss&utm_campaign=syriza-gia-anartisi-k-mitsotaki-i-thesi-tis-elladas-prepei-na-einai-xekathari-ochi-na-isorropei-se-dyo-varkes",
@@ -485,14 +493,6 @@
           "description": "Την ανάγκη το ΠΑΣΟΚ να δώσει «διέξοδο για μια άλλη διακυβέρνηση» υπογραμμίζει η Άννα Διαμαντοπούλου, απορρίπτοντας ρητά κάθε ενδεχόμενο συνεργασίας με τη Νέα Δημοκρατία και θέτοντας ως κεντρικό διακύβευμα την…\nΆννα Διαμαντοπούλου στην ΕΦΣΥΝ: Πολιτικά και ηθικά δεν μπορούμε να συνεργαστούμε με τη Νέα Δημοκρατία - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Πηγές του ΥΕΘΑ διαψεύδουν τα περί πώλησης κτιρίου του Πολεμικού Ναυτικού στην πλατεία Κλαυθμώνος",
-          "link": "https://www.naftemporiki.gr/politics/2063247/piges-toy-yetha-diapseydoyn-ta-peri-polisis-ktirioy-toy-polemikoy-naytikoy-stin-plateia-klaythmonos/?utm_source=rss&utm_medium=rss&utm_campaign=piges-toy-yetha-diapseydoyn-ta-peri-polisis-ktirioy-toy-polemikoy-naytikoy-stin-plateia-klaythmonos",
-          "pubDate": "Sat, 24 Jan 2026 10:28:48 +0000",
-          "description": "Δημοσιεύματα περί δήθεν «πώλησης του κτιρίου του Πολεμικού Ναυτικού στην Πλατεία Κλαυθμώνος» διαψεύδουν κατηγορηματικά πηγές του υπουργείου Εθνικής Άμυνας .\nΠηγές του ΥΕΘΑ διαψεύδουν τα περί πώλησης κτιρίου του Πολεμικού Ναυτικού στην πλατεία Κλαυθμώνος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
+          "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 14:56:24 GMT",
+          "description": "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e80/live/be958110-f9d3-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
         {
           "title": "ΗΠΑ: Υπερ-καταιγίδα ντύνει στα λευκά ακόμα και τις νότιες πολιτείες - Χωρίς ρεύμα 600.000 σπίτια",
           "link": "http://gr.euronews.com/2026/01/25/hpa-uper-kataigida-ntunei-sta-leuka-noties-politeies-xwris-reuma-600000-spitia",
@@ -595,14 +603,6 @@
           "description": "Χιλιάδες κόσμου έδωσαν το παρών στην κινητοποίηση, φωνάζοντας οργισμένα συνθήματα και καταγγέλλοντας φαινόμενα διαφθοράς",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
-          "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 09:46:03 GMT",
-          "description": "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e80/live/be958110-f9d3-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
         },
         {
           "title": "Ωμή βία και «express» απελάσεις - Η αμφιλεγόμενη δράση της ICE υπό τις εντολές Τραμπ",
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Μπαρτσελόνα: Οριστική συμφωνία με Παρί Σεν Ζερμέν για τον Ντρο Φερνάντεθ",
+          "link": "https://www.gazzetta.gr/football/ligue-1/2510059/mpartselona-oristiki-symfonia-me-pari-sen-zermen-gia-ton-ntro-fernanteth",
+          "pubDate": "Sun, 25 Jan 2026 16:56:29 +0200",
+          "description": "Μπαρτσελόνα και Παρί Σεν Ζερμέν ήρθαν σε συμφωνία για τον Ντρο Φερνάντεθ, ο οποίος γίνεται και επίσημα κάτοικος Παρισιού.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dro.jpg?itok=wq1M2IKz",
+          "source": "Gazzetta"
+        },
         {
           "title": "Σενεγάλη: Ο πρόεδρος είπε πως το Μαρόκο ελέγχει την CAF",
           "link": "https://www.gazzetta.gr/football/copa-africa/2510058/senegali-o-proedros-eipe-pos-maroko-eleghei-tin-caf",
@@ -977,14 +985,6 @@
           "description": "Το 2004 ο Ρίο Φέρντιναντ τιμωρήθηκε με 8 μήνες αποκλεισμό από τα γήπεδα με αποτέλεσμα εκτός των άλλων να χάσει και το Euro της Πορτογαλίας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/survivor-giorgos-lianos-skai_1.jpg.jpg?itok=BHHwv9gt",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Australian Open: Προκρίθηκαν στους \"8\" Αλκαράθ και Ζβέρεφ (vids)",
-          "link": "https://www.gazzetta.gr/tennis/australian-open/2510003/australian-open-prokrithikan-stoys-8-alkarath-kai-zberef-vids",
-          "pubDate": "Sun, 25 Jan 2026 15:05:12 +0200",
-          "description": "Στα προημιτελικά του Australian Open προκρίθηκαν οι Κάρλος Αλκαράθ και Αλεξάντερ Ζβέρερ, επικρατώντας με σχετική ευκολία στον τέταρτο γύρο της διοργάνωσης...",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/alexander_zverev_ausopen26.jpg?itok=Wt8n3DYK",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός – Μαρούσι: «Τρελάθηκε» και μπήκε στο παρκέ ο Αταμάν – Δέχθηκε τεχνική ποινή (vid)",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-marousi-trelathike-ka/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-trelathike-ka",
+          "pubDate": "Sun, 25 Jan 2026 14:58:46 +0000",
+          "description": "Εκτός εαυτού βγήκε ο Εργκίν Αταμάν, με απόφαση των διαιτητών, μπαίνοντας στον αγωνιστικό χώρο, με αυτούς να τον χρεώνουν με τεχνική ποινή.\nThe post Παναθηναϊκός – Μαρούσι: «Τρελάθηκε» και μπήκε στο παρκέ ο Αταμάν – Δέχθηκε τεχνική ποινή (vid) appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Ataman-2-8.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Έξαλλος ο Αταμάν – Μπήκε στον αγωνιστικό χώρο και διαμαρτυρήθηκε έντονα (video)",
           "link": "https://panathinaikos24.gr/2026/01/25/617603/eksallos-o-ataman-mpike-ston-agonistiko-xoro-kai-diamartyrithike-entona-video/",
@@ -1222,14 +1230,6 @@
           "pubDate": "Sun, 25 Jan 2026 09:22:52 +0000",
           "description": "Τα σχέδια του Παναθηναϊκού για τη μεταγραφική έκπληξη.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/%CE%B5%CF%84%CE%B2%CE%B5%CF%84%CE%B3%CF%84%CE%B5%CE%B3%CF%82%CF%84%CE%B5%CE%B3%CF%82%CE%B5.jpg?fit=897%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Στο τέλος μπαίνει το game changer στοιχείο: Το top σουβλάκι που αξίζει την αναμονή στην ουρά",
-          "link": "https://panathinaikos24.gr/2026/01/25/617465/sto-telos-mpainei-to-game-changer-stoixeio-to-top-souvlaki-pou-aksizei-tin-anamoni-stin-oura/",
-          "pubDate": "Sun, 25 Jan 2026 09:18:45 +0000",
-          "description": "Είναι αυτό το τοπ σουβλάκι; Θα βρεις πολλούς που το υποστηρίζουν…",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Screenshot-2026-01-24-141658.png?fit=1128%2C764&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
