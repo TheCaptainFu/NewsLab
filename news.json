@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T18:25:38.337Z",
+  "lastUpdated": "2026-01-25T18:30:34.786Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Άρσεναλ - Μάντσεστερ Γιουνάιτεντ 2-3: Τρομεροί  Reds, φωτιά ξανά στην κορυφή",
+          "link": "https://www.gazzetta.gr/football/premier-league/2510131/arsenal-mantsester-gioynaitent-2-3-tromeroi-reds-fotia-xana-stin",
+          "pubDate": "Sun, 25 Jan 2026 20:28:53 +0200",
+          "description": "Μετά τη Σίτι ήταν η σειρά της Άρσεναλ να πέσει θύμα της Γιουνάιτεντ του Κάρικ! Οι «Κόκκινοι» επικράτησαν 3-2 στο Λονδίνο, βρέθηκαν στην τετράδα και έβαλαν την ομάδα του Πεπ στο... κόλπο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2258144501_1.jpg?itok=_aS44DJG",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αργυρόπουλος: «Σημασία έχει το μετάλλιο, πάντα θα παίζουμε για το χρυσό»",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510130/argyropoylos-simasia-ehei-metallio-panta-tha-paizoyme-gia",
+          "pubDate": "Sun, 25 Jan 2026 20:28:21 +0200",
+          "description": "Tι δήλωσε ο Στέλιος Αργυρόπουλος μετά τη νίκη επί της Ιταλίας και την κατάκτηση του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα του Βελιγραδίου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/argyropoulos.jpg?itok=7JW7yOvk",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ: Ο… Σκωτσέζος «ΠΑΟΚτσής» Μπίλι στην Τούμπα (pics)",
           "link": "https://www.gazzetta.gr/football/europa-league/2510129/paok-o-skotsezos-paoktsis-mpili-stin-toympa-pics",
           "pubDate": "Sun, 25 Jan 2026 20:22:43 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 19:10:27 +0200",
           "description": "Η Μπάγερν Μονάχου επιβλήθηκε (98-79) της Βούρζμπουργκ για την 17η αγωνιστική του Γερμανικού πρωταθλήματος.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/mike.jpg?itok=j1hk42ac",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σκωτία: Η Χαρτς πήρε βαθμό από τη Σέλτικ όμως η Ρέιντζερς παραμονεύει",
-          "link": "https://www.gazzetta.gr/football/2510106/skotia-i-harts-pire-bathmo-apo-ti-seltik-omos-i-reintzers-paramoneyei",
-          "pubDate": "Sun, 25 Jan 2026 19:06:45 +0200",
-          "description": "Παρότι βρέθηκε να χάνει δις, η Χαρτς κράτησε τη Σέλτικ στο 2-2 και παρέμεινε πρώτη και σε απόσταση ασφαλείας στην κορυφή της Premiership, με τη Ρέιντζερς να καραδοκεί.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hearts.jpg?itok=UOPxBC9F",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Χιμένεθ: «Αισθανόμαστε υποχρεωμένοι να ζητήσουμε μία συγγνώμη»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510105/himeneth-aisthanomaste-ypohreomenoi-na-zitisoyme-mia-syggnomi",
-          "pubDate": "Sun, 25 Jan 2026 19:06:41 +0200",
-          "description": "Ο προπονητής του Άρη, Μανόλο Χιμένεθ, απολογήθηκε προς τον κόσμο του Άρη μετά το 2-2 με αντίπαλο τον Λεβαδειακό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ximenez_aris_1.jpg?itok=KgWAYoaG",
           "source": "Gazzetta"
         }
       ]
