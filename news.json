@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T14:45:30.958Z",
+  "lastUpdated": "2026-01-25T14:50:31.257Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -103,6 +103,14 @@
           "description": "Ο Τάισον Γουόρντ ήταν μαγικός στη νίκη του Ολυμπιακού κόντρα στον Κολοσσό Ρόδου με 98-85 κάνοντας triple double σε ένα παιχνίδι που στιγματίστηκε από τον ...  \nTo άρθρο Το απίθανο triple double του Τάισον Γουόρντ στη νίκη του Ολυμπιακού στη Ρόδο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ward-2-2-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Αυτό το σκαθάρι είναι η πρώτη περίπτωση ζώου που μυρίζει σαν λουλούδι",
+          "link": "https://www.in.gr/2026/01/25/in-science/episthmes/ayto-skathari-einai-proti-periptosi-zoou-pou-myrizei-san-louloudi/",
+          "pubDate": "Sun, 25 Jan 2026 16:45:44 +0300",
+          "description": "Οι προνύμφες του σκαθαριού χρησιμοποιούν το λουλουδένιο άρωμα ως δόλωμα για να προσελκύσουν μέλισσες και να επιτεθούν στις φωλιές τους.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1280px-Meloe_proscarabaeus_-_Leithagebirge-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Μπαρτζώκας: «Ο τρόπος που σφυρίχτηκε το παιχνίδι ήταν αλλοπρόσαλλος»",
@@ -238,14 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 13:04:00 +0000",
           "description": "Η μεγάλη παραγωγή του MEGA, με τίτλο «Οι Αθώοι», μια σειρά εποχής βασισμένη στο εξαιρετικό πεζογράφημα του Κωνσταντίνου Θεοτόκη, «Κατάδικος», έρχεται στις οθόνες μας την ...  \nTo άρθρο Οι Αθώοι: Αυτοί είναι οι τρεις βασικοί χαρακτήρες της νέας υπερπαραγωγής του Mega δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/athooi-1-1200x688.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Βεζένκοφ και Πετρόπουλος έπαιξαν μπουνιές, αποβλήθηκε ο παίκτης του Ολυμπιακού",
-          "link": "https://www.newsit.gr/athlitika/vezenkof-kai-petropoulos-epaiksan-mpounies-apovlithike-o-paiktis-tou-olympiakou/4582994/",
-          "pubDate": "Sun, 25 Jan 2026 13:02:31 +0000",
-          "description": "Στην τέταρτη περίοδο του αγώνα Κολοσσός Ρόδου – Ολυμπιακός ο Βεζένκοφ είχε μία έντονη αψιμαχία με τον Πετρόπουλο, που κλιμακώθηκε με αποτέλεσμα να υπάρχει έντονος ...  \nTo άρθρο Βεζένκοφ και Πετρόπουλος έπαιξαν μπουνιές, αποβλήθηκε ο παίκτης του Ολυμπιακού δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/screenshot-2026-01-25-150005-1200x685.png",
           "source": "NewsIT"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "LastPass: Μεγάλη απάτη phishing έχει βάλει στο στόχαστρο τους κωδικούς σας",
+          "link": "https://gr.pcmag.com/password-managers/51079/lastpass-megale-apate-phishing-ekhei-balei-sto-stokhastro-tous-kodikous-sas",
+          "pubDate": "Sun, 25 Jan 2026 14:38:34 +0000",
+          "description": "Οι επιτήδειοι εκμεταλλεύονται την αργία του Μάρτιν Λούθερ Κινγκ για να υποκλέψουν κωδικούς, στέλνοντας πλαστά μηνύματα για δήθεν επείγουσα συντήρηση. Η LastPass επιβεβαιώνει στο PCMag ένα δεύτερο κύμα εκστρατείας phishing.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/u/use-lastpa/use-lastpass-watch-out-for-this-email-phishing-scam_17jv.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "Under Armour: Στο «σφυρί» δεδομένα 72 εκατομμυρίων χρηστών μετά από επίθεση ransomware",
           "link": "https://gr.pcmag.com/security/51109/under-armour-sto-sphuri-dedomena-72-ekatommurion-khreston-meta-apo-epithese-ransomware",
           "pubDate": "Sun, 25 Jan 2026 14:25:03 +0000",
@@ -1468,14 +1476,6 @@
           "pubDate": "Fri, 23 Jan 2026 14:30:00 +0200",
           "description": "Επεκτείνοντας διαρκώς το AIOT χαρτοφυλάκιο της, η Xiaomi κυκλοφόρησε τα REDMI Buds 8 Lite. Διαθέσιμα σε μαύρο,¹ λευκό¹ ή μπλε,¹ τα REDMI Buds 8 Lite ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/redmi-buds-8-lite.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Η Xiaomi παρουσιάζει τη σειρά REDMI Note 15: Η REDMI Titan Durability συναντά την προηγμένη απεικόνιση",
-          "link": "https://www.techgear.gr/i-xiaomi-paroysiazei-ti-seira-redmi-note-15-i-redmi-titan-durability-synanta-tin-proigmeni-apeikonisi-47298",
-          "pubDate": "Fri, 23 Jan 2026 14:25:00 +0200",
-          "description": "Την Πέμπτη, 22 Ιανουαρίου σε ειδική εκδήλωση στο Ωδείο Αθηνών, η Xiaomi ανακοίνωσε την κυκλοφορία της νέας σειράς REDMI Note 15, η οποία περιλαμβάνει ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/redmi-note-15-series-greece.jpg",
           "source": "Techgear"
         }
       ]
