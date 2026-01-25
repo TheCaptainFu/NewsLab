@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T23:10:25.601Z",
+  "lastUpdated": "2026-01-25T23:15:26.393Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο Μακρόν με βίντεο βάζει τέλος στα social media για παιδιά κάτω των 15 ετών στη Γαλλία – Stop και στα κινητά στα σχολεία",
+          "link": "https://www.newsit.gr/kosmos/o-makron-me-vinteo-vazei-telos-sta-social-media-gia-paidia-kato-ton-15-eton-sti-gallia-stop-kai-sta-kinita-sta-sxoleia/4583348/",
+          "pubDate": "Sun, 25 Jan 2026 23:13:08 +0000",
+          "description": "Ψηφιακό φρένο στη Γαλλία βάζει ο Εμανουέλ Μακρόν. Με βίντεο που έφτιαξε ο ίδιος, ο Γάλλος Πρόεδρος προαναγγέλλει την απαγόρευση των social media για παιδιά ...  \nTo άρθρο Ο Μακρόν με βίντεο βάζει τέλος στα social media για παιδιά κάτω των 15 ετών στη Γαλλία – Stop και στα κινητά στα σχολεία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/emanuel-macron-26012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Προφυλακιστέος ο φερόμενος αρχηγός του κυκλώματος με τις πειραγμένες αντλίες καυσίμων ",
           "link": "https://www.protothema.gr/greece/article/1763256/profulakisteos-o-feromenos-arhigos-tou-kuklomatos-me-tis-peiragmenes-adlies-kausimon/?utm_source=rss",
@@ -239,14 +247,6 @@
           "description": "Σε αναστολή άσκησης καθηκόντων τίθεται από Δευτέρα (26/1/26) η εκπαιδευτικός που εμπλέκεται στο περιστατικό σε σχολική μονάδα στις Σέρρες, όπως ακριβώς προβλέπεται από την κείμενη ...  \nTo άρθρο Σέρρες: Σε αναστολή άσκησης καθηκόντων από τη Δευτέρα η εκπαιδευτικός που φίμωσε μαθητή – Εξηγήσεις ζητάει η υπουργός Παιδείας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kathigitria-serres.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Σε πλήρη πολεμική ετοιμότητα οι ΗΠΑ με την αρμάδα του αεροπλανοφόρου Λίνκολν να φτάνει στη Μέση Ανατολή [βίντεο]",
-          "link": "https://www.in.gr/2026/01/25/world/se-pliri-polemiki-etoimotita-oi-ipa-tin-armada-tou-aeroplanoforou-linkoln-na-ftanei-sti-mesi-anatoli/",
-          "pubDate": "Sun, 25 Jan 2026 23:22:39 +0300",
-          "description": "Εντός 24 ωρών η αμερικανική αρμάδα του αεροπλανοφόρου Λίνκολν θα βρίσκεται στο επιχειρησιακό πεδίο της CENTCOM, περιοχή που περιλαμβάνει και το Ιράν. Τι περιμένουν ΗΠΑ και Ισραήλ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/abraham-Lincoln-Strike-Group-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
