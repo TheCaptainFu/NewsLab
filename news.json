@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-25T19:15:32.920Z",
+  "lastUpdated": "2026-01-25T19:20:32.953Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "To τρολάρισμα Μητσοτάκη σε σκιέρ που τον είπε «γκαντέμη»: ««Γύρνα το σε snowboard»",
+          "link": "https://www.newsit.gr/politikh/to-trolarisma-mitsotaki-se-skier-pou-ton-eipe-gkantemi-gyrna-to-se-snowboard/4583253/",
+          "pubDate": "Sun, 25 Jan 2026 19:17:29 +0000",
+          "description": "Στο χιονοδρομικό κέντρο Καλαβρύτων βρέθηκε το Σαββατοκύριακο (24 – 25.01.2026) ο Κυριάκος Μητσοτάκης. Με φόντο το κατάλευκο τοπίο καταγράφηκε στα social media ένας διάλογος ανάμεσα ...  \nTo άρθρο To τρολάρισμα Μητσοτάκη σε σκιέρ που τον είπε «γκαντέμη»: ««Γύρνα το σε snowboard» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kyriakos-mitsotakis2-240102026-1200x745.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΗΠΑ: Παρέμβαση του Μπάρακ Ομπάμα μετά τη νέα δολοφονία από ομοσπονδιακούς πράκτορες",
           "link": "https://www.newsit.gr/kosmos/ipa-paremvasi-tou-mparak-ompama-meta-ti-nea-dolofonia-apo-omospondiakous-praktores/4583256/",
@@ -23,14 +31,6 @@
           "description": "Τόσο «ταμπέλα» των πανηγυριών όσο και στη μεγάλη αλλαγή που αποφάσισε να κάνει στην εξωτερική του εμφάνιση αναφέρθηκε σε πρόσφατη συνέντευξή του ο Ματθαίος Γιαννούλης. ...  \nTo άρθρο Ματθαίος Γιαννούλης για απώλεια βάρους: Δεν μπορούσα άλλο να είναι 60 χρονών και να παίρνω τόσα χάπια δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/matthaios-giannoulis-ndp-1200x692.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Κρίσεις Διευθυντών Ελληνικής Αστυνομίας: Ποιοι προήχθησαν και ποιοι αποστρατεύονται\n",
-          "link": "https://www.protothema.gr/greece/article/1763208/kriseis-dieuthudon-ellinikis-astunomias-poioi-proihthisan-poioi-diatiroudai-kai-poioi-apostrateuodai/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 20:58:00 +0200",
-          "description": "Μετά τις κρίσεις των Ταξιάρχων, το Ανώτατο Συμβούλιο έκρινε προακτέους 32 Αστυνομικούς Διευθυντές για κάλυψη οργανικών θέσεων",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-05-12/gada23-mkt.jpg",
-          "source": "Πρώτο Θέμα"
         },
         {
           "title": "Γιουβέντους – Νάπολι 3-0: Την διέλυσε μέσα στο Τορίνο και την πλησίασε στο βαθμό",
@@ -57,14 +57,6 @@
           "source": "NewsIT"
         },
         {
-          "title": "ΔΕΔΔΗΕ για τις καταστροφές στη Γλυφάδα: Συνεχίζονται οι εργασίες για απομάκρυνση εκτεθειμένων καλωδίων υψηλής τάσης",
-          "link": "https://www.protothema.gr/greece/article/1763205/deddie-gia-tis-katastrofes-sti-glufada-sunehizodai-oi-ergasies-gia-apomakrunsi-ektetheimenon-kalodion-upsilis-tasis/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 20:36:00 +0200",
-          "description": "Όπως διευκρινίζεται, δεν πραγματοποιήθηκε καμία εκσκαφή, αλλά μόνο απομάκρυνση υλικών που είχαν μεταφερθεί στο σημείο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/deddie-mkt.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
           "title": "Αεροπορία Στρατού: Διαπρέπει το «πιλοτικό» ελικόπτερο Apache A+ με πραγματικές βολές μέρα και νύχτα",
           "link": "https://www.newsit.gr/ellada/aeroporia-stratou-diaprepei-to-pilotiko-elikoptero-apache-a-me-pragmatikes-voles-mera-kai-nyxta/4583210/",
           "pubDate": "Sun, 25 Jan 2026 18:33:54 +0000",
@@ -89,6 +81,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Πέντε τραυματίες από πυροβολισμούς στο Βερολίνο οι δύο σε κρίσιμη κατάσταση",
+          "link": "https://www.in.gr/2026/01/25/world/pente-traymaties-apo-pyrovolismous-sto-verolino-oi-dyo-se-krisimi-katastasi/",
+          "pubDate": "Sun, 25 Jan 2026 21:17:18 +0300",
+          "description": "Πυροβολισμοί σε πολυκατοικία στο Βερολίνο σε διαμέρισμα του πέμπτου ορόφου σύμφωνα με την αστυνομία της πόλης που έσπευσε με υποπολυβόλα και αυτόματα στο σημείο με πέντε τραυματίες,",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/augustin-foto-jonas-augustin-T_kItMp3IxY-unsplash-768x431.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Πετρόπουλος μετά το Κολοσσός Ρόδου – Ολυμπιακός: «Ελπίζω τα φρένα του αυτοκινήτου μου να κόπηκαν μόνα τους»",
           "link": "https://www.newsit.gr/athlitika/petropoulos-meta-to-kolossos-rodou-olympiakos-elpizo-ta-frena-tou-aytokinitou-mou-na-kopikan-mona-tous/4583190/",
           "pubDate": "Sun, 25 Jan 2026 18:03:02 +0000",
@@ -111,14 +111,6 @@
           "description": "Συνολικά, οι γυναίκες χάνουν περίπου 75 εκατομμύρια χρόνια υγιούς ζωής κάθε χρόνο – το οποίο ισοδυναμεί με μία εβδομάδα υγείας που χάνεται ανά γυναίκα ετησίως, σύμφωνα με μια νέα έκθεση",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alexander-grey-Gj65EQ7GiwQ-unsplash-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Βίντεο από φωτιά σε εγκαταλελειμμένο κτίριο στη Λιοσίων: Η ΕΛΑΣ διέκοψε την κυκλοφορία των οχημάτων",
-          "link": "https://www.protothema.gr/greece/article/1763196/video-apo-fotia-se-egataleleimmeno-ktirio-sti-liosion-i-elas-diekopse-tin-kukloforia-ton-ohimaton/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 20:00:36 +0200",
-          "description": "Οι πυροσβέστες διαπίστωσαν ότι καίγονταν υλικά, κυρίως σκουπίδια, εντός του κτιρίου",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/fotia-liosion.jpg",
-          "source": "Πρώτο Θέμα"
         },
         {
           "title": "Κυριάκος Μητσοτάκης για τη χάλκινη εθνική ομάδα πόλο: Είμαστε συγκινημένοι και υπερήφανοι, θερμά συγχαρητήρια",
@@ -185,14 +177,6 @@
           "source": "NewsIT"
         },
         {
-          "title": "Τέσσερις προφυλακίσεις για το κύκλωμα που «πείραζε» τις αντλίες καυσίμων και έκλεβε τους καταναλωτές",
-          "link": "https://www.protothema.gr/greece/article/1763190/tesseris-profulakiseis-gia-to-kukloma-pou-peiraze-tis-adlies-kausimon-kai-ekleve-tous-katanalotes/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 19:41:53 +0200",
-          "description": "Τέσσερις κατηγορούμενοι έχουν αφεθεί ελεύθεροι - Τις πρώτες πρωινές ώρες θα ολοκληρωθούν οι απολογίες",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-24/maketa-venzinadiko.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
           "title": "Θρίλερ στην Κωνσταντινούπολη με πτώμα γυναίκας χωρίς κεφάλι και πόδια σε κάδο σκουπιδιών",
           "link": "https://www.newsit.gr/kosmos/thriler-stin-konstantinoupoli-me-ptoma-gynaikas-xoris-kefali-kai-podia-se-kado-skoupidion/4583172/",
           "pubDate": "Sun, 25 Jan 2026 17:39:59 +0000",
@@ -233,19 +217,35 @@
           "source": "NewsIT"
         },
         {
-          "title": "Θρήνος στην Πάτρα: Λουλούδια και κεριά άφησαν συγγενείς και φίλοι στο σημείο όπου σκοτώθηκαν ο 19χρονος και η 17χρονη, βίντεο και φωτογραφίες",
-          "link": "https://www.protothema.gr/greece/article/1763175/thrinos-gia-ton-hamo-tou-nikou-kai-tis-aggelikis-apo-trohaio-stin-patra-deite-fotografies/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 19:32:00 +0200",
-          "description": "Οι δύο νέοι σκοτώθηκαν το βράδυ του Σαββάτου σε τροχαίο στην περιοχή της Παραλίας, όταν το αυτοκίνητο που οδηγούσε ο πρώτος εξετράπη της πορείας του και καρφώθηκε σε κολώνα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/patra-thrinos-xrm.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
           "title": "Άρσεναλ – Μάντσεστερ Γιουνάιτεντ 2-3: Πήρε τη ματσάρα και έβαλε… φωτιά στην κορυφή",
           "link": "https://www.in.gr/2026/01/25/sports/football/arsenal-mantsester-giounaitent-2-3-pire-ti-matsara-kai-evale-fotia-stin-koryfi/",
           "pubDate": "Sun, 25 Jan 2026 20:31:09 +0300",
           "description": "Με γκολάρες και εξαιρετικό ποδόσφαιρο η Μάντσεστερ Γιουνάιτεντ είχε τις απαντήσεις στα… κόρνερ της Άρσεναλ, τη νίκησε με 3-2 στο Λονδίνο και έδωσε νέο ενδιαφέρον στη μάχη του τίτλου.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_h1IUYaYAAYAJh-e1769365313356-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ο άνθρωπος (του Έμερι) για όλες τις δουλειές",
+          "link": "https://www.in.gr/2026/01/25/sports/on-field/o-anthropos-tou-emeri-gia-oles-tis-douleies/",
+          "pubDate": "Sun, 25 Jan 2026 20:30:16 +0300",
+          "description": "Η Άστον Βίλα πέρασε με νίκη από το Σεντ Τζέιμς Παρκ και ο Μόργκαν Ρότζερς έκανε ξανά την διαφορά για τους «χωριάτες»",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T155039Z_50675358_UP1EM1P180EWW_RTRMADP_5_SOCCER-ENGLAND-NEW-AVL-768x554.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "ΟΦΗ – Παναιτωλικός 1-0: Τρίποντο από την άσπρη βούλα",
+          "link": "https://www.in.gr/2026/01/25/sports/football/ofi-panaitolikos-1-0-triponto-apo-tin-aspri-voula/",
+          "pubDate": "Sun, 25 Jan 2026 20:22:15 +0300",
+          "description": "Με «χρυσό» σκόρερ τον Σαλσέδο ο ΟΦΗ νίκησε 1-0 τον Παναιτωλικό και συνέχισε το σερί του στο Παγκρήτιο.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6825330-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Η αυθόρμητη αντίδραση του Γιώργου Μαζωνάκη όταν κόπηκε ο ήχος κι έσβησαν τα φώτα στην πίστα",
+          "link": "https://www.in.gr/2026/01/25/go-fun/fizz/aythormiti-antidrasi-tou-giorgou-mazonaki-otan-kopike-o-ixos-ki-esvisan-ta-fota-sto-magazi-pou-emfanizetai/",
+          "pubDate": "Sun, 25 Jan 2026 20:20:02 +0300",
+          "description": "Με ένα απρόσμενο τεχνικό ζήτημα ήρθε αντιμέτωπος ο Γιώργος Μαζωνάκης το βράδυ του Σαββάτου, στις 25 Ιανουαρίου, στο νυχτερινό κέντρο, όπου εμφανίζεται στην Αθήνα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet-1-4-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΟΦΗ - Παναιτωλικός: Τα highlights του ματς (vid)",
+          "link": "https://www.gazzetta.gr/football/superleague/2510149/ofi-panaitolikos-ta-highlights-toy-mats-vid",
+          "pubDate": "Sun, 25 Jan 2026 21:18:55 +0200",
+          "description": "Δείτε το γκολ του Σαλσέδο, τις φάσεις που διαμαρτύρεραι ο Παναιτωλικός και τις καλύτερες φάσεις από τη νίκη του ΟΦΗ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/satsias_1.jpg?itok=Vy_txn3q",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αθηναϊκός: Παρέσυρε τον Αμύντα και έφτασε τις 13 νίκες σε 14 αγώνες",
+          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2510148/athinaikos-paresyre-ton-amynta-kai-eftase-tis-13-nikes-se-14",
+          "pubDate": "Sun, 25 Jan 2026 21:17:38 +0200",
+          "description": "Ο Αθηναϊκός Qualco επιβεβαίωσε την ανωτερότητά του απέναντι στον Αμύντα, επικρατώντας με 92-69 στην 15η αγωνιστική της Α1 Γυναικών. Νίκες για ΠΑΣ Γιάννινα και Παναθλητικό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/athinaikos_0.jpg?itok=OIBhqrCE",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ατρόμητος - Παναθηναϊκός: Ρενάτο Σάντσες, Τεττέη άγγιξαν το γκολ",
           "link": "https://www.gazzetta.gr/football/superleague/2510147/atromitos-panathinaikos-renato-santses-tettei-aggixan-gkol",
           "pubDate": "Sun, 25 Jan 2026 21:13:25 +0200",
@@ -969,22 +985,6 @@
           "description": "Ο Ανδρέας Πετρόπουλος βρέθηκε στο προσκήνιο του Κολοσσός Ρόδου – Ολυμπιακός, μετά τον καυγά του με τον Σάσα Βεζένκοφ μέσα στο παρκέ, αλλά φαίνεται ότι ...  \nTo άρθρο Πετρόπουλος μετά το Κολοσσός Ρόδου – Ολυμπιακός: «Ελπίζω τα φρένα του αυτοκινήτου μου να κόπηκαν μόνα τους» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/petropoulos-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Μπαρτσελόνα – Οβιέδο 3-0: Ξέσπασε στο δεύτερο ημίχρονο και επέστρεψε στην κορυφή της La Liga",
-          "link": "https://www.newsit.gr/athlitika/mpartselona-oviedo-3-0-ksespase-sto-deytero-imixrono-kai-epestrepse-stin-koryfi-tis-la-liga/4583191/",
-          "pubDate": "Sun, 25 Jan 2026 17:51:29 +0000",
-          "description": "Ξέσπασε στην επανάληψη η Μπαρτσελόνα και ανέβηκε ξανά στην κορυφή της La Liga, καθώς νίκησε με 3-0 στο “Καμπ Νου” την ουραγό της βαθμολογίας Οβιέδο, ...  \nTo άρθρο Μπαρτσελόνα – Οβιέδο 3-0: Ξέσπασε στο δεύτερο ημίχρονο και επέστρεψε στην κορυφή της La Liga δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/barcelona-reuters-1200x815.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σοκαρισμένος Πετρόπουλος στο Gazzetta: «Έφυγα από το γήπεδο και δεν είχα φρένα!» - Τι είπε για το επεισόδιο με τον Βεζένκοβ",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510121/sokarismenos-petropoylos-sto-gazzetta-efyga-apo-gipedo-kai-den",
-          "pubDate": "Sun, 25 Jan 2026 19:50:55 +0200",
-          "description": "Ο γκαρντ του Κολοσσού Ανδρέας Πετρόπουλος δήλωσε σοκαρισμένος στο Gazzetta πως το αυτοκίνητο του δεν είχε φρένα αποχωρώντας από το γήπεδο. Το σχόλιο του για το επεισόδιο με τον Βεζένκοβ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/petropoulos.jpg?itok=jDIja0d6",
-          "source": "Gazzetta"
         }
       ]
     },
