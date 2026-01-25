@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T08:40:27.815Z",
+  "lastUpdated": "2026-01-25T08:45:26.676Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κυριάκος Μητσοτάκης: Όχι αντιπαράθεση αλλά συνεννόηση με τους συμμάχους μας – Να διατηρήσουμε διαύλους επικοινωνίας με τις ΗΠΑ",
+          "link": "https://www.newsit.gr/politikh/kyriakos-mitsotakis-oxi-antiparathesi-alla-synennoisi-me-tous-symmaxous-mas-na-diatirisoume-diaylous-epikoinonias-me-tis-ipa/4582876/",
+          "pubDate": "Sun, 25 Jan 2026 08:40:34 +0000",
+          "description": "Οι εξελίξεις στις σχέσεις Ευρώπης και ΗΠΑ, που το τελευταίο διάστημα δοκιμάζονται, αλλά και οι γεωπολιτικές ισορροπίες στη Μέση Ανατολή βρίσκονται στο επίκεντρο της εβδομαδιαίας ...  \nTo άρθρο Κυριάκος Μητσοτάκης: Όχι αντιπαράθεση αλλά συνεννόηση με τους συμμάχους μας – Να διατηρήσουμε διαύλους επικοινωνίας με τις ΗΠΑ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mitsotakis-dk-1200x706.jpg"
+        },
         {
           "title": "Ολυμπιακός: Τη Δευτέρα στην Αθήνα για τους Πειραιώτες ο Κόρι Τζόζεφ",
           "link": "https://www.newsit.gr/athlitika/olympiakos-ti-deytera-stin-athina-gia-tous-peiraiotes-o-kori-tzozef/4582871/",
@@ -210,13 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 10:00:26 +0300",
           "description": "Ο διακινητής προσαιγιάλωσε το σκάφος στην παραλία Γλάροι της Χίου, όπου οι επιβαίνοντες αποβιβάστηκαν και τράπηκαν σε φυγή",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/limeniko-skafos-ploio-19-5-2024-1068x713-768x513-768x513.jpg"
-        },
-        {
-          "title": "Δάκρυσε όλο το Σικάγο: Στον ουρανό του «United Center» η φανέλα του Ντέρικ Ρόουζ (pics, vids)",
-          "link": "https://www.in.gr/2026/01/25/sports/basketball/ypoklithike-olo-to-nva-ston-ourano-tou-united-center-i-fanela-tou-nterik-roouz-pics-vids/",
-          "pubDate": "Sun, 25 Jan 2026 09:52:30 +0300",
-          "description": "Σε μια πολύ όμορφη και συγκινητική βραδιά, οι Σικάγο Μπουλς απέσυραν τη φανέλα με το νούμερο 1 για λογαριασμό του Ντέρικ Ρόουζ.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_ev5RCX0AA0QGF-768x476.jpg"
         }
       ]
     },
@@ -657,6 +657,13 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΑΕΚ: Ο παικταράς Γιόβιτς, ο σπουδαίος Στρακόσα και ένα δύσκολο, μα πολύτιμο τρίποντο",
+          "link": "https://www.gazzetta.gr/football/superleague/2509942/aek-o-paiktaras-giobits-o-spoydaios-strakosa-kai-ena-dyskolo-ma",
+          "pubDate": "Sun, 25 Jan 2026 10:40:00 +0200",
+          "description": "Ο Δημήτρης Βέργος γράφει για την ΑΕΚ που δεν ήταν καθόλου καλή στην Τρίπολη, την ανάλυση που πρέπει να κάνει και την επιβεβαίωση του πόσο σημαντικό είναι να διαθέτει φορ και γκολκίπερ όπως οι Γιόβιτς και Στρακόσα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jovic_varga_0.jpg?itok=kale610v"
+        },
+        {
           "title": "Ολυμπιακός: Τη Δευτέρα στην Αθήνα για τους Πειραιώτες ο Κόρι Τζόζεφ",
           "link": "https://www.newsit.gr/athlitika/olympiakos-ti-deytera-stin-athina-gia-tous-peiraiotes-o-kori-tzozef/4582871/",
           "pubDate": "Sun, 25 Jan 2026 08:33:32 +0000",
@@ -858,13 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 23:57:02 +0200",
           "description": "Σε ένα ισορροπημένο ματς στο «Θεράμικα», τα γκολ του Κιλιάν Μπαπέ έδωσαν τη λύση στη Ρεάλ που επικράτησε 2-0 επί της Βιγιαρεάλ και βρέθηκε προσωρινά στην κορυφή.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mbappe_madrid_1.jpg?itok=6kGGKdPF"
-        },
-        {
-          "title": "ΑΕΛ Novibet: Αποθεώθηκε ο Παντελίδης μετά τη νίκη επί του Πανσερραϊκού",
-          "link": "https://www.gazzetta.gr/football/superleague/2509892/ael-novibet-apotheothike-o-pantelidis-meta-ti-niki-epi-toy",
-          "pubDate": "Sat, 24 Jan 2026 23:51:43 +0200",
-          "description": "Οι φίλοι της ΑΕΛ Novibet αποθέωσαν τον Σάββα Παντελίδη μετά τη νίκη επί του Πανσερραϊκού, η οποία ήταν η δεύτερη μέσα σε έξι ημέρες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pantelidis_.jpg?itok=H2Tplf2L"
         }
       ]
     },
