@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T07:50:26.090Z",
+  "lastUpdated": "2026-01-25T07:55:24.754Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,27 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τροχαίο-σοκ στην Πάτρα: Νεκροί 19χρονος και 17χρονη στην παλαιά εθνική οδό Πατρών-Πύργου",
+          "link": "https://www.protothema.gr/greece/article/1762954/trohaio-sok-stin-patra-nekroi-19hronos-kai-17hroni-stin-palaia-ethniki-odo-patron-purgou/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 09:54:00 +0200",
+          "description": "Το αυτοκίνητο εξετράπη της πορείας του και προσέκρουσε σε φωτεινό σηματοδότη - Θρήνος για τα δύο παιδιά",
+          "thumbnail": "https://i1.prth.gr/images/w640/1/jpg/files/2026-01-25/troxaio_patra3.jpg"
+        },
+        {
+          "title": "Extreme makeovers: Από την «Πρώτη Κυρία» Κέιτι Πέρι στο Νταβός, στη Τζέρι Χάλιγουελ και την «Μέγκαν Μαρκλ της Σουηδίας»",
+          "link": "https://www.newsit.gr/lifestyle/extreme-makeovers-apo-tin-proti-kyria-keiti-peri-sto-ntavos-sti-tzeri-xaligouel-kai-tin-megkan-markl-tis-souidias/4582018/",
+          "pubDate": "Sun, 25 Jan 2026 07:52:42 +0000",
+          "description": "Αγκαζέ στο Νταβός εμφανίστηκαν η αμερικανίδα ποπ τραγουδίστρια Κέιτι Πέρι και ο πρώην πρωθυπουργός του Καναδά Τζάστιν Τριντό. Μάλιστα φλέρταραν κατά τη διάρκεια συνέντευξης. Η ...  \nTo άρθρο Extreme makeovers: Από την «Πρώτη Κυρία» Κέιτι Πέρι στο Νταβός, στη Τζέρι Χάλιγουελ και την «Μέγκαν Μαρκλ της Σουηδίας» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/justin-trudeau-katy-perry.jpg"
+        },
+        {
+          "title": "Στην τελική ευθεία ο Ε65 – Παραδίδεται στο πρώτο εξάμηνο του έτους",
+          "link": "https://www.newsit.gr/oikonomia/finance/stin-teliki-eytheia-o-e65-paradidetai-sto-proto-eksamino-tou-etous/4582834/",
+          "pubDate": "Sun, 25 Jan 2026 07:50:37 +0000",
+          "description": "Με γρήγορους ρυθμούς προχωρά η κατασκευή του βόρειου τμήματος του Ε65, που θα συνδέει την κεντρική Ελλάδα με την Εγνατία, φέρνοντας τη Δυτική Μακεδονία πιο ...  \nTo άρθρο Στην τελική ευθεία ο Ε65 – Παραδίδεται στο πρώτο εξάμηνο του έτους δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/autokinitodromos-e65-eurokinissi-scaled-1.jpg"
+        },
         {
           "title": "Τα γεωπολιτικά σοκ αναδύουν δομικό κίνδυνο για τις τράπεζες – Πόσο ευαίσθητες είναι οι ελληνικές",
           "link": "https://www.newsit.gr/oikonomia/finance/ta-geopolitika-sok-anadyoun-domiko-kindyno-gia-tis-trapezes-poso-eyaisthites-einai-oi-ellinikes/4582822/",
@@ -65,6 +86,13 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/to-paidi-1.jpg"
         },
         {
+          "title": "Δάκρυσε όλο το Σικάγο: Στον ουρανό του «United Center» η φανέλα του Ντέρικ Ρόουζ (pics, vids)",
+          "link": "https://www.in.gr/2026/01/25/sports/basketball/ypoklithike-olo-to-nva-ston-ourano-tou-united-center-i-fanela-tou-nterik-roouz-pics-vids/",
+          "pubDate": "Sun, 25 Jan 2026 09:52:30 +0300",
+          "description": "Σε μια πολύ όμορφη και συγκινητική βραδιά, οι Σικάγο Μπουλς απέσυραν τη φανέλα με το νούμερο 1 για λογαριασμό του Ντέρικ Ρόουζ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_ev5RCX0AA0QGF-768x476.jpg"
+        },
+        {
           "title": "Γλυφάδα: Γιος δολοφόνησε τον πατέρα του και τον έβαλε σε πορτμπαγκάζ – Είχε σκοτώσει τη μητέρα του το 2014",
           "link": "https://www.newsit.gr/ellada/glyfada-gios-dolofonise-ton-patera-tou-kai-ton-evale-se-portmpagkaz-eixe-skotosei-ti-mitera-tou-to-2014/4582806/",
           "pubDate": "Sun, 25 Jan 2026 06:50:19 +0000",
@@ -76,7 +104,7 @@
           "link": "https://www.protothema.gr/greece/article/1762927/nekros-andras-se-port-pagaz-autokinitou-sti-glufada-sunelifthi-o-gios-tou/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 08:49:00 +0200",
           "description": "Δείτε βίντεο από το σημείο - Σκότωσε με μαχαίρι τον πατέρα του - Ο 46χρονος γιος φέρεται να αντιμετωπίζει ψυχολογικά προβλήματα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-peripoliko.jpg"
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-glufada.jpg"
         },
         {
           "title": "Χειμερινές εκπτώσεις: Κυριακή με ανοιχτά τα καταστήματα – Υποτονική η κίνηση παρά τις ελκυστικές τιμές",
@@ -189,34 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 08:59:54 +0300",
           "description": "Η στυγερή δολοφονία αποκαλύφθηκε λίγο πριν από τις 8:00 το πρωί της Κυριακής, στη Γλυφάδα, όταν αστυνομικοί που κλήθηκαν στο σημείο εντόπισαν τη σορό μέσα στον χώρο αποσκευών του οχήματος",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/65532763-1200x800-1-1200x800-peripoliko-2-768x512.jpg"
-        },
-        {
-          "title": "Η αποθεραπεία του Κίναν Έβανς: Τι απάντησε ο Αμερικανός γκαρντ στο «X»",
-          "link": "https://www.in.gr/2026/01/25/sports/basketball/euroleague/ti-ginetai-me-ton-kinan-evans-i-apantisi-sto-x-kai-i-poreia-tis-apotherapeias-tou/",
-          "pubDate": "Sun, 25 Jan 2026 08:59:22 +0300",
-          "description": "Ο Κίναν Έβανς απάντησε σε φίλαθλο του Ολυμπιακού και αναφέρθηκε στην αποθεραπεία του, στην ομάδα των Πειραιωτών, αλλά και στο πότε θα επιστρέψει στην Αθήνα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6732244-2-1024x682-768x512.jpg"
-        },
-        {
-          "title": "ΗΠΑ: Στο έλεος της κακοκαιρίας Fern – Τρεις νεκροί από τις ακραίες θερμοκρασίες, χιλιάδες ακυρώσεις πτήσεων",
-          "link": "https://www.in.gr/2026/01/25/world/ipa-sto-eleos-tis-kakokairias-fern-treis-nekroi-apo-tis-akraies-thermokrasies-xiliades-akyroseis-ptiseon/",
-          "pubDate": "Sun, 25 Jan 2026 08:55:59 +0300",
-          "description": "Εκτιμάται ότι πάνω από 220 εκατομμύρια άνθρωποι θα επηρεαστούν από το πέρασμα της «Fern» - Ήδη πάνω από 130.000 νοικοκυριά και επιχειρήσεις έχουν μείνει χωρίς ρεύμα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-24T201217Z_1690186256_RC2U7JA26QKM_RTRMADP_5_USA-WEATHER-2-768x512.jpg"
-        },
-        {
-          "title": "Ανάπτυξη: Γιατί ενώ το ΑΕΠ αυξάνεται τα εισοδήματα μένουν πίσω",
-          "link": "https://www.in.gr/2026/01/25/economy/anaptyksi-giati-eno-aep-ayksanetai-ta-eisodimata-menoun-piso/",
-          "pubDate": "Sun, 25 Jan 2026 08:49:20 +0300",
-          "description": "Όταν η ανάπτυξη στηρίζεται σε περισσότερες ώρες εργασίας και όχι σε μεγαλύτερη αξία ανά ώρα, τα περιθώρια για αυξήσεις των μισθών παραμένουν μικρά",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/euro-6771170_1920-1200x801-768x513.jpg"
-        },
-        {
-          "title": "Αρκάς: Η καλημέρα της Κυριακής με ματιά στο καλοκαίρι",
-          "link": "https://www.in.gr/2026/01/25/go-fun/social/arkas-kalimera-tis-kyriakis-matia-sto-kalokairi/",
-          "pubDate": "Sun, 25 Jan 2026 08:43:48 +0300",
-          "description": "Ο Αρκάς βλέποντας το καλοκαίρι.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Arkas1-2.jpg"
         }
       ]
     },
@@ -441,7 +441,7 @@
       "color": "blue",
       "articles": [
         {
-          "title": "Πλήγματα σε ιρανικές στρατιωτικές υποδομές και κυβερηντικά κτίρια προτείνουν οι IDF στον Τραμπ - «Κρίσιμη αυτή η εβδομάδα» λένε αξιωματούχοι",
+          "title": "Πλήγματα σε ιρανικές στρατιωτικές υποδομές και κυβερνητικά κτίρια προτείνουν οι IDF στον Τραμπ - «Κρίσιμη αυτή η εβδομάδα» λένε αξιωματούχοι",
           "link": "http://gr.euronews.com/2026/01/25/plhgmata-se-iranikes-stratiwtikes-ypodomes-kai-kyberhntika-ktiria-proteinoyn-oi-idf-ston-t",
           "pubDate": "Sun, 25 Jan 2026 08:42:43 +0100",
           "description": "Σύμφωνα με ισραηλινά ΜΜΕ",
@@ -657,6 +657,13 @@
       "color": "green",
       "articles": [
         {
+          "title": "Σαν Σήμερα: Η θρυλική μονομαχία των Χαντ και Λάουντα (vid)",
+          "link": "https://www.gazzetta.gr/gmotion/2509802/251-san-simera-i-thryliki-monomahia-ton-hant-kai-laoynta-vid",
+          "pubDate": "Sun, 25 Jan 2026 09:53:15 +0200",
+          "description": "Ο κόσμος της Formula 1 και του μηχανοκίνητου αθλητισμού είναι γεμάτος ιστορίες και γεγονότα που γράφτηκαν με χρυσά γράμματα στα βιβλία: κάθε ημέρα αποτελεί αφορμή να θυμηθούμε και να μάθουμε τι έγινε σαν σήμερα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dhx1rl_xyaakksy2.jpeg?itok=QwTFDVmW"
+        },
+        {
           "title": "Σάρι: «Το μόνο που θέλω για φέτος είναι να γλυτώσουμε τον υποβιβασμό»",
           "link": "https://www.gazzetta.gr/football/serie/2509939/sari-mono-poy-thelo-gia-fetos-einai-na-glytosoyme-ton-ypobibasmo",
           "pubDate": "Sun, 25 Jan 2026 09:47:25 +0200",
@@ -858,13 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 23:13:26 +0200",
           "description": "Παίκτες του ΠΑΟΚ ταξίδεψαν στην Ιταλία και συνάντησαν τον Λούκα Μόντριτς!",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_montrits.jpg?itok=kpJQSlA9"
-        },
-        {
-          "title": "Ο Ολυμπιακός το ντέρμπι από τον Παναθηναϊκό στην Α1 ανδρών",
-          "link": "https://www.gazzetta.gr/pingk-pongk/2509886/o-olympiakos-ntermpi-apo-ton-panathinaiko-stin-a1-andron",
-          "pubDate": "Sat, 24 Jan 2026 23:11:52 +0200",
-          "description": "Ο Ολυμπιακός νίκησε τον Παναθηναϊκό με 4-1 στην κατάμεστη αίθουσα του ΣΕΦ και στο ντέρμπι κορυφής στην Α1 ανδρών στο πινγκ πονγκ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiacos_meta_niki_derby.jpg?itok=GfDpPd7V"
         }
       ]
     },
