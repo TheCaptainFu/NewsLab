@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T20:25:27.188Z",
+  "lastUpdated": "2026-01-25T20:30:34.563Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο Κώστας Τσιμίκας επιστρέφει άμεσα στη Λίβερπουλ",
+          "link": "https://www.newsit.gr/athlitika/o-kostas-tsimikas-epistrefei-amesa-sti-liverpoul/4583300/",
+          "pubDate": "Sun, 25 Jan 2026 20:27:43 +0000",
+          "description": "Ο Κώστας Τσιμίκας δεν κατάφερε να κερδίσει θέση βασικού στη Ρόμα και η Λίβερπουλ χρειάζεται αριστερό μπακ, με αποτέλεσμα την επικείμενη διακοπή του δανεισμού του ...  \nTo άρθρο Ο Κώστας Τσιμίκας επιστρέφει άμεσα στη Λίβερπουλ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tsimikas-2-1200x768.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Σέρρες: Σε αναστολή άσκησης καθηκόντων από τη Δευτέρα η εκπαιδευτικός που φίμωσε μαθητή – Εξηγήσεις ζητάει η υπουργός Παιδείας",
           "link": "https://www.newsit.gr/ellada/serres-se-anastoli-askisis-kathikonton-apo-ti-deytera-i-ekpaideytikos-pou-fimose-mathiti-eksigiseis-zitaei-i-ypourgos-paideias/4583295/",
@@ -169,8 +177,8 @@
           "source": "NewsIT"
         },
         {
-          "title": "Η απλή μέθοδος των τριών (στα ντέρμπι)",
-          "link": "https://www.in.gr/2026/01/25/sports/on-field/apli-methodos-ton-trion-sta-ntermpi/",
+          "title": "Η απλή μέθοδος των τριών (σε δύο ντέρμπι)",
+          "link": "https://www.in.gr/2026/01/25/sports/on-field/apli-methodos-ton-trion-se-dyo-ntermpi/",
           "pubDate": "Sun, 25 Jan 2026 22:00:17 +0300",
           "description": "Τρεις παίκτες της Γιουνάιτεντ έκαναν την διαφορά στις νίκες με Σίτι και Άρσεναλ, δίνοντας πολλούς «πόντους» στον Μίκαελ Κάρικ",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T184907Z_1395425060_UP1EM1P1FJK7L_RTRMADP_5_SOCCER-ENGLAND-ARS-MUN-768x503.jpg",
@@ -239,14 +247,6 @@
           "description": "Ο Οίκος Celia Kritharioti ανακοινώνει την ένταξη της σχεδιάστριας στο επίσημο πρόγραμμα της Fédération de la Haute Couture et de la Mode με την τιμητική ιδιότητα του Προσκεκλημένου Μέλους (Membre Invité)",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet-25-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "ΔΕΔΔΗΕ για τις καταστροφές στη Γλυφάδα: Συνεχίζονται οι εργασίες για απομάκρυνση εκτεθειμένων καλωδίων υψηλής τάσης",
-          "link": "https://www.protothema.gr/greece/article/1763205/deddie-gia-tis-katastrofes-sti-glufada-sunehizodai-oi-ergasies-gia-apomakrunsi-ektetheimenon-kalodion-upsilis-tasis/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 20:36:00 +0200",
-          "description": "Όπως διευκρινίζεται, δεν πραγματοποιήθηκε καμία εκσκαφή, αλλά μόνο απομάκρυνση υλικών που είχαν μεταφερθεί στο σημείο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/deddie-mkt.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Η κακοκαιρία Joseph θέτει τη Γαλικία σε κόκκινο συναγερμό λόγω του κινδύνου καταρρακτωδών βροχών",
+          "link": "http://gr.euronews.com/green/2026/01/25/i-kakokairia-joseph-thetei-ti-galikia-se-kokkino-synagermo",
+          "pubDate": "Sun, 25 Jan 2026 21:21:47 +0100",
+          "description": "Προειδοποίηση για συσσώρευση από τις βροχοπτώσεις υδάτων άνω των 120 λίτρων σε 12 ώρες. Το μέτωπο θα επηρεάσει σχεδόν ολόκληρη τη χερσόνησο με ισχυρές ριπές ανέμου, χιόνι στα ορεινά συστήματα και έντονη θαλάσσια καταιγίδα",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Πλάνα drone δείχνουν χιονοσκεπείς πόλεις στις ΗΠΑ, εκχιονιστικά σε δράση",
           "link": "http://gr.euronews.com/video/2026/01/25/drone-footage-shows-snow-covered-us-cities-and-snow-ploughs-at-work",
           "pubDate": "Sun, 25 Jan 2026 21:12:53 +0100",
@@ -731,14 +739,6 @@
           "description": "Σύμφωνα με ισραηλινά ΜΜΕ",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "«Αμαρτία αλλά απαραίτητα τα πυρηνικά όπλα» λέει σύμβουλος του Πούτιν",
-          "link": "http://gr.euronews.com/2026/01/25/amartia-alla-aparaithta-ta-pyrhnika-opla-leei-symboylos-toy-poytin",
-          "pubDate": "Sun, 25 Jan 2026 08:31:38 +0100",
-          "description": "Ο Πούτιν είναι «πολύ θρησκευόμενος και προσεκτικός», κάτι που –κατά τον ίδιο– αποτρέπει μια πρόωρη κλιμάκωση",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ο Κώστας Τσιμίκας επιστρέφει άμεσα στη Λίβερπουλ",
+          "link": "https://www.newsit.gr/athlitika/o-kostas-tsimikas-epistrefei-amesa-sti-liverpoul/4583300/",
+          "pubDate": "Sun, 25 Jan 2026 20:27:43 +0000",
+          "description": "Ο Κώστας Τσιμίκας δεν κατάφερε να κερδίσει θέση βασικού στη Ρόμα και η Λίβερπουλ χρειάζεται αριστερό μπακ, με αποτέλεσμα την επικείμενη διακοπή του δανεισμού του ...  \nTo άρθρο Ο Κώστας Τσιμίκας επιστρέφει άμεσα στη Λίβερπουλ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tsimikas-2-1200x768.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ουντάβ: Επικό σκηνικό με φωτογραφία και κινητό τηλέφωνο",
+          "link": "https://www.gazzetta.gr/football/bundesliga/2510173/oyntab-epiko-skiniko-me-fotografia-kai-kinito-tilefono",
+          "pubDate": "Sun, 25 Jan 2026 22:26:56 +0200",
+          "description": "Ο Ντενίζ Ουντάβ πήγε να βγάλει φωτογραφία με νεαρούς οπαδούς της Στουτγκάρδης, όταν το κινητό τηλέφωνο χτύπησε και ο φορ των Σουηβών αποφάσισε να το σηκώσει.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/undav.jpg?itok=V0HttSnL",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μπενίτεθ: «Θέλαμε να προφυλάξουμε παίκτες, αδύνατον να στηρίζεσαι σε λίγους με τρεις διοργανώσεις»",
           "link": "https://www.gazzetta.gr/football/superleague/2510171/mpeniteth-thelame-na-profylaxoyme-paiktes-adynaton-na-stirizesai-se",
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 21:18:55 +0200",
           "description": "Δείτε το γκολ του Σαλσέδο, τις φάσεις που διαμαρτύρεραι ο Παναιτωλικός και τις καλύτερες φάσεις από τη νίκη του ΟΦΗ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/satsias_1.jpg?itok=Vy_txn3q",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αθηναϊκός: Παρέσυρε τον Αμύντα και έφτασε τις 13 νίκες σε 14 αγώνες",
-          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2510148/athinaikos-paresyre-ton-amynta-kai-eftase-tis-13-nikes-se-14",
-          "pubDate": "Sun, 25 Jan 2026 21:17:38 +0200",
-          "description": "Ο Αθηναϊκός Qualco επιβεβαίωσε την ανωτερότητά του απέναντι στον Αμύντα, επικρατώντας με 92-69 στην 15η αγωνιστική της Α1 Γυναικών. Νίκες για ΠΑΣ Γιάννινα και Παναθλητικό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/athinaikos_0.jpg?itok=OIBhqrCE",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ατρόμητος - Παναθηναϊκός: Ρενάτο Σάντσες, Τεττέη άγγιξαν το γκολ",
-          "link": "https://www.gazzetta.gr/football/superleague/2510147/atromitos-panathinaikos-renato-santses-tettei-aggixan-gkol",
-          "pubDate": "Sun, 25 Jan 2026 21:13:25 +0200",
-          "description": "Ο Παναθηναϊκός πλησίασε στο γκολ στο 57' με τον Ρενάτο Σάντσες και στο 62' με τον Τεττέη.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/atromitos_-_panathinaikos_1.jpg?itok=fx6dHEuk",
           "source": "Gazzetta"
         }
       ]
