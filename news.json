@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T11:35:27.344Z",
+  "lastUpdated": "2026-01-25T11:40:29.471Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -129,6 +129,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Όταν ο πολεοδομικός σχεδιασμός αγνοεί ρέματα και μορφολογική ιστορία – Τι λέει ο Λέκκας",
+          "link": "https://www.in.gr/2026/01/25/greece/lekkas-gia-plimmyres-stin-attiki-otan-o-poleodomikos-sxediasmos-agnoei-remata-kai-morfologiki-istoria/",
+          "pubDate": "Sun, 25 Jan 2026 13:36:06 +0300",
+          "description": "«Πολλές φορές ακόμα και μεταγενέστερη πρόβλεψη, όπως τα αντιπλημμυρικά, δεν είναι αρκετή για την ένταση των φαινομένων - Μειώνει τις επιπτώσεις, αλλά δεν τις εκμηδενίζει» σημειώνει ο Ευθύμιος Λέκκας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EEVMK_KATASTROFES_VARH-9-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Βίκυ Καρατζόγλου: «Όταν δημιουργήθηκε το Μetoo μπορέσαμε και κάναμε την κουβέντα αυτή με την κόρη μου»",
           "link": "https://www.newsit.gr/lifestyle/viky-karatzoglou-otan-dimiourgithike-to-metoo-mporesame-kai-kaname-tin-kouventa-ayti-me-tin-kori-mou/4582669/",
           "pubDate": "Sun, 25 Jan 2026 10:32:16 +0000",
@@ -150,14 +158,6 @@
           "pubDate": "Sun, 25 Jan 2026 13:30:42 +0300",
           "description": "«Στις ΗΠΑ του Τραμπ η καταστολή και η αυθαιρεσία βαφτίζονται \"ασφάλεια\" και μεταναστευτικός έλεγχος\"», σημειώνει ο εκπρόσωπος Τύπου του ΣΥΡΙΖΑ, Κώστας Ζαχαριάδης",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5998664-1200x800-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Λέκκας για πλημμύρες στην Αττική: Όταν ο πολεοδομικός σχεδιασμός αγνοεί ρέματα και μορφολογική ιστορία",
-          "link": "https://www.in.gr/2026/01/25/greece/lekkas-gia-plimmyres-stin-attiki-otan-o-poleodomikos-sxediasmos-agnoei-remata-kai-morfologiki-istoria/",
-          "pubDate": "Sun, 25 Jan 2026 13:30:06 +0300",
-          "description": "«Πολλές φορές ακόμα και μεταγενέστερη πρόβλεψη, όπως τα αντιπλημμυρικά, δεν είναι αρκετή για την ένταση των φαινομένων - Μειώνει τις επιπτώσεις, αλλά δεν τις εκμηδενίζει» σημειώνει ο Ευθύμιος Λέκκας",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EEVMK_KATASTROFES_VARH-9-768x512.jpg",
           "source": "In.gr"
         },
         {
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Τι γνωρίζουμε για το «μυστικό όπλο» που φέρονται να χρησιμοποίησαν οι ΗΠΑ εναντίον της Βενεζουέλας",
+          "link": "http://gr.euronews.com/2026/01/25/ti-gnwrizoume-mustiko-oplo-ferontai-na-xrisimopoiisan-hpa-enantion-venezouela",
+          "pubDate": "Sun, 25 Jan 2026 12:33:18 +0100",
+          "description": "Πρόκειται για το αποκαλούμενο \"Discombobulator\" ή \"Disorientator\", δηλαδή \"αποσυντονιστής», «αποδιοργανωτής»",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Μινεσότα: Οργή για τον θάνατο του 37χρονου από την ICE - «Πυρά» των Δημοκρατικών κατά του Τραμπ",
           "link": "http://gr.euronews.com/2026/01/25/minesota-orgh-gia-ton-8anato-toy-37xronoy-apo-thn-ice-pyra-twn-dhmokratikwn-kata-toy",
           "pubDate": "Sun, 25 Jan 2026 12:24:56 +0100",
@@ -515,6 +523,14 @@
           "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "Mark Tully, the BBC's 'voice of India', dies aged 90",
+          "link": "https://www.bbc.com/news/articles/c4nnp4d064do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 10:59:16 GMT",
+          "description": "Tully covered some of the defining moments in India's history in a career that spanned decades.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4121/live/0ed9ada0-1c21-11ef-80aa-699d54c46324.jpg",
+          "source": "BBC News"
         },
         {
           "title": "Αλβανία: Σοβαρά επεισόδια σε αντικυβερνητική διαδήλωση στα Τίρανα (φωτο)",
@@ -589,18 +605,18 @@
           "source": "Euronews"
         },
         {
-          "title": "Ειδήσεις | 25 Ιανουαρίου 2026 - Πρωινό δελτίο",
-          "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-prwino-deltio",
-          "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
-          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
           "title": "Αγέλη λύκων υποχρεώνει τις αρχές να κλείσουν αεροδρόμιο στην Ιταλία",
           "link": "http://gr.euronews.com/green/2026/01/25/wolf-pack-forces-italian-airport-to-close-how-this-region-is-struggling-with-coexistence",
           "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
           "description": "Ο πληθυσμός των λύκων στην Ιταλία ανέρχεται πλέον σε 3.000-3.500 - Στις αρχές της δεκαετίας του 1970, έφταναν σχεδόν στο οριο της εξαφάνισης στη χώρα.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Ειδήσεις | 25 Ιανουαρίου 2026 - Πρωινό δελτίο",
+          "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-prwino-deltio",
+          "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
+          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
           "thumbnail": null,
           "source": "Euronews"
         },
@@ -723,22 +739,6 @@
           "description": "A severe winter storm that could affect more than 200 million Americans has brought heavy snow, and freezing temperatures.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a052/live/7d7f3bd0-f947-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Ειδήσεις | 24 Ιανουαρίου 2026 - Βραδινό δελτίο",
-          "link": "http://gr.euronews.com/video/2026/01/24/eidhseis-24-ianoyarioy-2026-bradino-deltio",
-          "pubDate": "Sat, 24 Jan 2026 18:00:18 +0100",
-          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 24 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Δεύτερος νεκρός από πυρά ομοσπονδιακών αξιωματικών στη Μινεάπολη - Eπεισόδια και αντίδραση Τραμπ",
-          "link": "http://gr.euronews.com/2026/01/24/omospondiakoi-aksiwmatikoi-purovolhsan-allo-ena-atomo-sth-minesota-leei-kuvernhths",
-          "pubDate": "Sat, 24 Jan 2026 17:40:39 +0100",
-          "description": "Ο κυβερνήτης της Μινεσότα Τιμ Γουόλτς επικοινώνησε με τον Λευκό Οίκο και απαίτησε να αποχωρήσουν οι «ανεκπαίδευτοι πράκτορες» που ενεργούν στο πλαίσιο καταστολής στη μετανάστευση της κυβέρνησης Τραμπ",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,38 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Τα δεδομένα για τις οικονομικές υποχρεώσεις ΑΣ ΠΑΟΚ και Γιέντρικ",
+          "link": "https://www.gazzetta.gr/2509980/ta-dedomena-gia-tis-oikonomikes-ypohreoseis-paok-kai-gientrik",
+          "pubDate": "Sun, 25 Jan 2026 13:38:29 +0200",
+          "description": "Δύο διακριτά οικονομικά ζητήματα που αφορούν τον ΑΣ ΠΑΟΚ ξεχωρίζουν μετά τη συμφωνία για τη μεταβίβαση της ΚΑΕ, με φόντο τόσο τις οφειλές όσο και τη στήριξη στο ΤΑΑ βόλεϊ",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_toumba.jpg?itok=Z0zFDGXQ",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πρίντεζης: Επίσημα το κλειστό του Αγίου Δημητρίου πήρε το όνομά του",
+          "link": "https://www.gazzetta.gr/basketball/2509979/printezis-episima-kleisto-toy-agioy-dimitrioy-pire-onoma-toy",
+          "pubDate": "Sun, 25 Jan 2026 13:37:38 +0200",
+          "description": "Το κλειστό του Αγίου Δημητρίου φέρει, πλέον με κάθε επισημότητα το όνομα του Γιώργου Πρίντεζη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/printezis_0.jpg?itok=UnoJB7FS",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Και πάλι καλά",
+          "link": "https://www.gazzetta.gr/football/superleague/2509978/kai-pali-kala",
+          "pubDate": "Sun, 25 Jan 2026 13:37:24 +0200",
+          "description": "Ο Αντώνης Καρπετόπουλος γράφει για τις διαφορετικές νίκες του Ολυμπιακού και της ΑΕΚ που προκάλεσαν την ίδια ανακούφιση γιατί ήρθαν με διαφορετικό τρόπο αλλά με το ίδιο αποτέλεσμα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/menti_1.jpg?itok=wDRCWyKb",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Ο Βεζένκοβ δεν άφησε ένα μικρό κορίτσι να σκουπίσει το παρκέ και το καθάρισε ο ίδιος!",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2509977/olympiakos-o-bezenkob-den-afise-ena-mikro-koritsi-na-skoypisei",
+          "pubDate": "Sun, 25 Jan 2026 13:37:17 +0200",
+          "description": "Ο Σάσα Βεζένκοβ έπιασε τη σκούπα και καθάρισε το παρκέ, καθώς δεν ήθελε να επιτρέψει σε ένα μικρό κορίτσι να το σκουπίσει.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vezenkov_5.jpg?itok=swd-EJ9m",
+          "source": "Gazzetta"
+        },
         {
           "title": "Χωρίς Ναν και Όσμαν ο Παναθηναϊκός κόντρα στο Μαρούσι",
           "link": "https://www.newsit.gr/athlitika/xoris-nan-kai-osman-o-panathinaikos-kontra-sto-marousi/4582958/",
@@ -952,38 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 11:39:31 +0200",
           "description": "Η Αθήνα γίνεται ο νέος κόμβος ανάπτυξης του Sports Licensing.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/press.jpg?itok=KhYtggYH",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Και τώρα τι κάνει ο ΠΑΟΚ;",
-          "link": "https://www.gazzetta.gr/football/superleague/2509948/kai-tora-ti-kanei-o-paok",
-          "pubDate": "Sun, 25 Jan 2026 11:30:00 +0200",
-          "description": "Ο Δημήτρης Τσορμπατζόγλου γράφει για το πώς ο ΠΑΟΚ θα συνεχίσει την προσπάθειά του και κυρίως για τα μεταγραφικά που είναι τώρα στην επικαιρότητα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_9_0.jpg?itok=3M63V3x1",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "F1 - Η Red Bull αμφισβητεί πιθανό προβάδισμα της Mercedes στο 2026",
-          "link": "https://www.gazzetta.gr/gmotion/2508177/f1-i-red-bull-amfisbitei-pithano-probadisma-tis-mercedes-sto-2026",
-          "pubDate": "Sun, 25 Jan 2026 11:30:00 +0200",
-          "description": "Στον κόσμο της Formula 1 οι ομάδες αρέσκονται στην υποβάθμιση των αντιπάλων τους, ειδικά όταν πρόκειται για επικοινωνιακούς λόγους.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/m5336481.jpg?itok=-ZH74iR8",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ελλάδα: Κόντρα στην Ιταλία για το χάλκινο μετάλλιο στο ευρωπαϊκό του Βελιγραδίου",
-          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2509951/ellada-kontra-stin-italia-gia-halkino-metallio-sto",
-          "pubDate": "Sun, 25 Jan 2026 11:28:22 +0200",
-          "description": "Η εθνική ομάδα αντιμετωπίζει την Ιταλία το απόγευμα της Κυριακής (25/1) για το χάλκινο μετάλλιο στο ευρωπαϊκό πρωτάθλημα του Βελιγραδίου, που θα είναι και το πρώτο της στη διοργάνωση.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vlachos_campagna_belgrade.jpg?itok=OhyLRgRu",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Καταγγελία-σοκ από γυναίκα κατά του Ρούμπεν Σεμέδο για άσκηση βίας: Τι απάντηση έδωσε με story ο ίδιος",
-          "link": "https://www.gazzetta.gr/football/2509950/kataggelia-sok-apo-gynaika-kata-toy-roympen-semedo-gia-askisi-bias-ti-apantisi",
-          "pubDate": "Sun, 25 Jan 2026 11:25:10 +0200",
-          "description": "Για ακόμη μία φορά ο Ρούμπεν Σεμέδο έρχεται αντιμέτωπος με τη δικαιοσύνη έπειτα από καταγγελία-σοκ από γυναίκα για άσκηση βίας, με τον ίδιο να απαντά με story.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-12/ruben_semedo.jpg?itok=MNBF-iIA",
           "source": "Gazzetta"
         }
       ]
