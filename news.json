@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T16:35:25.628Z",
+  "lastUpdated": "2026-01-25T16:40:33.946Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Παλαίμαχος διαιτητής βόλεϊ ο νεκρός από τη φωτιά σε σπίτι στην Πάτρα, δείτε φωτογραφίες ",
+          "link": "https://www.protothema.gr/greece/article/1763081/nekros-apo-fotia-se-spiti-stin-patra-edopistike-enas-adras/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 18:38:00 +0200",
+          "description": "Η φωτιά εκδηλώθηκε σε διπλοκατοικία, μέσα στην οποία εντοπίστηκε ο άτυχος 75χρονος και στην επιχείρηση κατάσβεσης συμμετείχαν 12 πυροσβέστες με 5 οχήματα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/fotia-patra1.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Νέα πυρά κατά του Φειδία Παναγιώτου: Αποκάλεσε τρελούς τους αθλητές παραολυμπιακών αθλημάτων με εγκεφαλικά προβλήματα",
           "link": "https://www.protothema.gr/greece/article/1763166/nea-pura-kata-tou-feidia-panagiotou-apokalese-trelous-tous-athlites-paraolubiakon-athlimaton-me-egefalika-provlimata/?utm_source=rss",
@@ -28,7 +36,7 @@
           "title": "«Έχουμε προσφύγει στο ΣτΕ, σε υπουργεία, ζητήσαμε παρέμβαση της Αρχής Διαφάνειας, κανείς δεν κάνει τίποτα» λέει ο δήμαρχος Μήλου για το νέο οικολογικό έγκλημα",
           "link": "https://www.protothema.gr/greece/article/1763164/ehoume-prosfugei-sto-ste-se-upourgeia-zitisame-paremvasi-tis-arhis-diafaneias-kaneis-den-kanei-tipota/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 18:27:00 +0200",
-          "description": "Οι εργασίες για την επέκταση της τουριστικής μονάδας μόλις δύο χιλιόμετρα μακριά από το Σαρακήνικο προχωρούν με εντατικούς ρυθμούς - Ο Μανώλης Μικέλης αποκαλύπτει ότι προσέφυγε στο ΣτΕ για άρση της άδειας του ξενοδοχείου, αλλά, επειδή μετακομίζει το Συμβούλιο, αργεί η γνωμοδότηση",
+          "description": "Οι εργασίες για την επέκταση της τουριστικής μονάδας, 2 χιλιόμετρα από το Σαρακήνικο, προχωρούν εντατικά - Ο Μανώλης Μικέλης προσέφυγε στο ΣτΕ με ασφαλιστικά μέτρα για άρση της άδειας του ξενοδοχείου, αλλά, επειδή μετακομίζει το Συμβούλιο, αργεί η γνωμοδότηση",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/mylos2-xrm.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -239,14 +247,6 @@
           "description": "Ο Αμερικανός που σκοτώθηκε χθες, Σάββατο (24.01.2026) από τα πυρά ομοσπονδιακών πρακτόρων της αστυνομίας μετανάστευσης (ICE) στη Μινεάπολη των ΗΠΑ, ήταν νοσηλευτής σε μονάδα εντατικής ...  \nTo άρθρο Μινεάπολη: Πάνω από 10 φορές πυροβόλησαν τον Άλεξ Πρέτι οι πράκτορες της ICE – «Ήθελε να αλλάξει τον κόσμο» λέει η οικογένειά του δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/minneapolis-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ποιοι εργαζόμενοι περιμένουν μπόνους σχεδόν έναν μισθό",
-          "link": "https://www.in.gr/2026/01/25/economy/poioi-ergazomenoi-perimenoun-mponous-sxedon-enan-mistho/",
-          "pubDate": "Sun, 25 Jan 2026 18:10:07 +0300",
-          "description": "Για το 2026 διπλασιάζεται το διαθέσιμο κονδύλι για το δημόσιο – Αυξάνεται από 20 εκατ. σε 40 εκατ. ευρώ – Ποιους αφορά",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alex-kotliarskyi-QBpZGqEMsKg-unsplash-2-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -285,6 +285,14 @@
           "description": "Αύριο, Δευτέρα 26 Ιανουαρίου, συνεδριάζει το Υπουργικό Συμβούλιο υπό την προεδρία του Κυριάκου Μητσοτάκη στο Μέγαρο Μαξίμου. Στις 18:00 ο πρωθυπουργός θα συμμετάσχει σε εκδήλωση για το πρόγραμμα «The Greek AI Accelerator».",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/mhtsotakhs-6-scaled-e1756203321790-1024x672.jpg",
           "source": "Τα Νέα"
+        },
+        {
+          "title": "Συγκλίσεις υπό όρους στην Κεντροαριστερά",
+          "link": "https://www.tovima.gr/print/politics/sygkliseis-ypo-orous-stin-kentroaristera/",
+          "pubDate": "Sun, 25 Jan 2026 17:45:00 +0300",
+          "description": "Το ΠαΣοΚ, ο ΣΥΡΙΖΑ, η Νέα Αριστερά και το περιβάλλον του Αλέξη Τσίπρα κρατούν ανοικτούς διαύλους - Οι επαφές υπάρχουν, οι προθέσεις δηλώνονται, οι επιφυλάξεις όμως παραμένουν ισχυρές - Τι μέλλον μπορεί να έχει όπως είναι τώρα η Κεντροαριστερά;",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/10/08/tsipras-1024x683.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "ΣΥΡΙΖΑ για ανάρτηση Κ. Μητσοτάκη: Η θέση της Ελλάδας πρέπει να είναι ξεκάθαρη, όχι να ισορροπεί σε δύο βάρκες",
@@ -485,14 +493,6 @@
           "description": "Σε διαρκή συνεργασία με τους Ευρωπαίους εταίρους της βρίσκεται η Ελλάδα, για το θέμα του Συμβουλίου Ειρήνης, δήλωσε ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης. «Η Ελλάδα τάσσεται σταθερά υπέρ των πρωτοβουλιών…\nΓ. Γεραπετρίτης για Συμβούλιο Ειρήνης: «Η θέση μας καθορίζεται από την ιδιότητά μας ως εκλεγμένο μέλος του Συμβουλίου Ασφαλείας του ΟΗΕ» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Γεραπετρίτης: Η ελληνική θέση καθορίζεται και από την ιδιότητά της ως εκλεγμένο μέλος του Συμβουλίου Ασφαλείας του ΟΗΕ",
-          "link": "https://www.tanea.gr/2026/01/24/politics/gerapetritis-i-elliniki-thesi-kathorizetai-kai-apo-tin-idiotita-tis-os-eklegmeno-melos-toy/",
-          "pubDate": "Sat, 24 Jan 2026 15:25:09 +0000",
-          "description": "Ο Γ. Γεραπετρίτης δήλωσε πως η Ελλάδα στηρίζει τις πρωτοβουλίες για ειρήνη και πιστεύει στην πολυμερή διπλωματία, ενώ διατηρεί διαρκή συνεργασία με τους Ευρωπαίους εταίρους και συμμάχους της για το Συμβούλιο Ειρήνης.",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/gerapetritis-e1758222954124-1024x768.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ατρόμητος - Παναθηναϊκός: Με Μπόκο βασικό και διάταξη με δύο επιθετικούς κόντρα στους Περιστεριώτες",
+          "link": "https://www.gazzetta.gr/football/superleague/2510098/atromitos-panathinaikos-me-mpoko-basiko-kai-diataxi-me-dyo",
+          "pubDate": "Sun, 25 Jan 2026 18:35:12 +0200",
+          "description": "Η ενδεκάδα που επέλεξε ο Ράφα Μπενίτεθ για τον σημαντικό αγώνα του Παναθηναϊκού με τον Ατρόμητο στο Δημοτικό Στάδιο Περιστερίου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bokos_intime.jpg?itok=sZ5RGRty",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αποκαλύφθηκαν οι τελευταίες λέξεις του serial killer Τεντ Μπάντι πριν εκτελεστεί",
+          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
+          "pubDate": "Sun, 25 Jan 2026 18:34:00 +0200",
+          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/buddy-dead.jpg?itok=8qcj1omj",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Παπαθεοδώρου: «Ευχαριστημένοι από την προσπάθεια, στρέφουμε όλη τη προσοχή στον Πανιώνιο»",
           "link": "https://www.gazzetta.gr/2510097/papatheodoroy-eyharistimenoi-apo-tin-prospatheia-strefoyme-oli-ti-prosohi-ston-panionio",
           "pubDate": "Sun, 25 Jan 2026 18:32:32 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 17:37:21 +0200",
           "description": "Δείτε πώς διαμορφώθηκε η βαθμολογία της Stoiximan GBL μετά την ολοκλήρωση της 16ης αγωνιστικής της regular season.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sloukas_eurokinissi_3.jpg?itok=o-3WEmq3",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός – Μαρούσι 92-81: Δεν τον «λύγισαν» οι απουσίες και πήρε τη νίκη στο Telekom Center Athens",
-          "link": "https://www.newsit.gr/athlitika/panathinaikos-marousi-92-81-den-ton-lygisan-oi-apousies-kai-pire-ti-niki-sto-telekom-center-athens/4583064/",
-          "pubDate": "Sun, 25 Jan 2026 15:35:12 +0000",
-          "description": "Παρά τις πολλές απουσίες που είχε, ο Παναθηναϊκός νίκησε το Μαρούσι στο Telekom Center Athens με 92-81 και παρέμεινε στο… κυνήγι του Ολυμπιακού, για την ...  \nTo άρθρο Παναθηναϊκός – Μαρούσι 92-81: Δεν τον «λύγισαν» οι απουσίες και πήρε τη νίκη στο Telekom Center Athens δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-sorts-eurokinissi-1200x801.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Παναθηναϊκός - Μαρούσι 92-81: Αν και μισός ήταν πληθωρικός ",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510071/panathinaikos-maroysi-92-81-kai-misos-itan-plithorikos",
-          "pubDate": "Sun, 25 Jan 2026 17:31:02 +0200",
-          "description": "Όταν χρειάστηκε ο Παναθηναϊκός απλά... χάιδεψε το πόδι στο γκάζι και επικράτησε χωρίς να προβληματιστεί ιδιαίτερα του Αμαρουσίου με 92-81. Έξι παίκτες με διψήφιο αριθμό πόντων.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/juancho_hernangomez_toliopoulos_intime.jpg?itok=k_YbL1Gp",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Google Chrome: Τέλος η υποστήριξη για το macOS 12 Monterey – Ποια Mac μένουν «εκτός»",
+          "link": "https://gr.pcmag.com/browsers-1/51116/google-chrome-telos-e-uposterixe-gia-to-macos-12-monterey-poia-mac-menoun-ektos",
+          "pubDate": "Sun, 25 Jan 2026 16:36:53 +0000",
+          "description": "Από τον Ιούλιο του 2026, οι χρήστες παλαιότερων Mac θα πρέπει να αναβαθμίσουν στο macOS 13 Ventura για να λαμβάνουν ενημερώσεις ασφαλείας.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/u/using-a-ma/using-a-mac-from-before-2018-google-will-soon-axe-chrome-sup_2jz6.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "Σοκ στον κυβερνοχώρο: Βρέθηκαν 149 εκατομμύρια κλεμμένοι κωδικοί πρόσβασης σε απροστάτευτη βάση δεδομένων",
           "link": "https://gr.pcmag.com/security/51115/sok-ston-kubernokhoro-brethekan-149-ekatommuria-klemmenoi-kodikoi-prosbases-se-aprostateute-base-ded",
           "pubDate": "Sun, 25 Jan 2026 16:16:05 +0000",
@@ -1469,14 +1477,6 @@
           "description": "Στο πλαίσιο του πρόσφατου Airshow στο Zhuhai, τα βλέμματα της παγκόσμιας αμυντικής κοινότητας δεν στράφηκαν μόνο στα νέα stealth μαχητικά που πετούσαν...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/china-space-jets.jpg",
           "source": "Techgear"
-        },
-        {
-          "title": "Windows Phone: Η \"επιστροφή\" μέσω του NexPhone με Windows 11 και Android 16",
-          "link": "https://gr.pcmag.com/mobile-phones/51089/windows-phone-e-epistrophe-meso-tou-nexphone-me-windows-11-kai-android-16",
-          "pubDate": "Fri, 23 Jan 2026 13:07:04 +0000",
-          "description": "Η NexDock αναβιώνει την εμπειρία των Windows Phone σε μια συσκευή που συνδυάζει τρία λειτουργικά συστήματα και μετατρέπεται σε πλήρη υπολογιστή.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/t/the-return/the-return-of-windows-phone-this-new-device-runs-android-lin_uh6b.jpg",
-          "source": "PC Magazine"
         }
       ]
     }
