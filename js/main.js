@@ -223,7 +223,7 @@ function renderNews(categories) {
                         <a href="${art.link}" target="_blank" class="block group">
                             <div class="grid md:grid-cols-2 gap-0">
                                 ${thumbnail ? `
-                                    <div class="relative h-64 md:h-96 overflow-hidden bg-zinc-900 order-1">
+                                    <div class="relative overflow-hidden bg-zinc-900 order-1 self-stretch h-full">
                                         <img 
                                             src="${thumbnail}" 
                                             alt="${art.title}"
@@ -236,7 +236,7 @@ function renderNews(categories) {
                                         </div>
                                     </div>
                                 ` : `
-                                    <div class="relative h-64 md:h-96 overflow-hidden bg-gradient-to-br from-zinc-800 to-zinc-900 flex items-center justify-center order-1">
+                                    <div class="relative overflow-hidden bg-gradient-to-br from-zinc-800 to-zinc-900 flex items-center justify-center order-1">
                                         <span class="text-8xl opacity-30 group-hover:scale-110 transition-transform">${placeholderIcon}</span>
                                         <div class="absolute top-4 left-4 ${badgeColor} text-white px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wide shadow-lg">
                                             Πρόσφατο
@@ -248,7 +248,7 @@ function renderNews(categories) {
                                         ${art.title}
                                     </h3>
                                     ${longDescription ? `<p class="text-zinc-400 text-base leading-relaxed mb-4 line-clamp-4">${longDescription}</p>` : ''}
-                                    ${art.source ? `<p class="text-zinc-500 text-sm mb-4">Πηγή: ${art.source}</p>` : ''}
+                                    ${art.source ? `<p class="text-white text-sm mb-4">Πηγή: ${art.source}</p>` : ''}
                                     <div class="flex items-center justify-between pt-4 border-t border-zinc-800 mt-auto">
                                         <span class="text-white text-sm font-medium flex items-center gap-2">
                                             <i class="fa-solid fa-clock"></i> ${relativeTime}
@@ -287,7 +287,7 @@ function renderNews(categories) {
                                     ${art.title}
                                 </h3>
                                 ${description ? `<p class="text-zinc-400 text-sm leading-relaxed mb-2 line-clamp-3">${description}</p>` : ''}
-                                ${art.source ? `<p class="text-zinc-500 text-xs mb-3">Πηγή: ${art.source}</p>` : ''}
+                                ${art.source ? `<p class="text-white text-xs mb-3">Πηγή: ${art.source}</p>` : ''}
                                 <div class="flex items-center justify-between pt-2 border-t border-zinc-800 mt-auto">
                                     <span class="text-white text-xs">🕒 ${relativeTime}</span>
                                     <span class="${styles.readMore} text-xs opacity-100">Διαβάστε →</span>
