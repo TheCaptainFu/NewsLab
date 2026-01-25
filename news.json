@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T11:25:25.020Z",
+  "lastUpdated": "2026-01-25T11:30:33.522Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Μινεσότα: «Δεν είχε όπλο, δεν λένε την αλήθεια για ό,τι συνέβη, φοβάμαι να πάω σπίτι» λέει αυτόπτης μάρτυρας της δολοφονίας του Άλεξ Πρέτι",
+          "link": "https://www.newsit.gr/kosmos/minesota-den-eixe-oplo-den-lene-tin-alitheia-gia-o-ti-synevi-fovamai-na-pao-spiti-leei-aytoptis-martyras-tis-dolofonias-tou-aleks-preti/4582922/",
+          "pubDate": "Sun, 25 Jan 2026 11:28:15 +0000",
+          "description": "Στιγμές που παραπέμπουν σε άλλες σκοτεινές εποχές ζουν οι ΗΠΑ, καθώς πολίτες πέφτουν νεκροί στους δρόμους από πράκτορες της ICE, μικρά παιδιά διώκονται και όλα ...  \nTo άρθρο Μινεσότα: «Δεν είχε όπλο, δεν λένε την αλήθεια για ό,τι συνέβη, φοβάμαι να πάω σπίτι» λέει αυτόπτης μάρτυρας της δολοφονίας του Άλεξ Πρέτι δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/preti-r3exo-new-1200x673.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ο Παναθηναϊκός έφτασε σε συμφωνία με την Ουνιόν Βερολίνου για τον Άλεξ Κραλ",
           "link": "https://www.newsit.gr/athlitika/o-panathinaikos-eftase-se-symfonia-me-tin-ounion-verolinou-gia-ton-aleks-kral/4582956/",
@@ -113,12 +121,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Λέκκας για πλημμύρες στην Αττική: Όταν ο πολεοδομικός σχεδιασμός αγνοεί ρέματα και μορφολογική ιστορία",
+          "link": "https://www.in.gr/2026/01/25/greece/lekkas-gia-plimmyres-stin-attiki-otan-o-poleodomikos-sxediasmos-agnoei-remata-kai-morfologiki-istoria/",
+          "pubDate": "Sun, 25 Jan 2026 13:30:06 +0300",
+          "description": "«Πολλές φορές ακόμα και μεταγενέστερη πρόβλεψη, όπως τα αντιπλημμυρικά, δεν είναι αρκετή για την ένταση των φαινομένων - Μειώνει τις επιπτώσεις, αλλά δεν τις εκμηδενίζει» σημειώνει ο Ευθύμιος Λέκκας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EEVMK_KATASTROFES_VARH-9-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Φωτιά σε φούρνο στο κέντρο της Αθήνας: Κυκλοφοριακές ρυθμίσεις \n",
           "link": "https://www.protothema.gr/greece/article/1763021/fotia-se-fourno-sto-kedro-tis-athinas-kukloforiakes-ruthmiseis/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 12:30:00 +0200",
           "description": "Συναγερμός στην Πυροσβεστική για πυρκαγιά σε αρτοποιείο στο κέντρο της Αθήνας",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-15/pyrosvestiki-2.jpg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Greek PM Sets Out 2026 Agenda, From Reforms at Home to Geopolitics Abroad",
+          "link": "https://www.in.gr/2026/01/25/english-edition/greek-pm-sets-2026-agenda-reforms-home-geopolitics-abroad/",
+          "pubDate": "Sun, 25 Jan 2026 13:29:41 +0300",
+          "description": "The Greek PM is advocating for a more active European role in Gaza and the wider Middle East.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/mitsotakis-maximou-1-1024x575-1-768x431.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Δουβίκας: «Ο Μπενίτεθ μου δίδαξε πολλά, σπουδαίος προπονητής ο Φάμπρεγκας»",
@@ -142,6 +166,14 @@
           "pubDate": "Sun, 25 Jan 2026 13:20:41 +0300",
           "description": "Τα Do's και τα Don'ts της εβδομάδας από την Αγγελική Μανουσάκη - Άκρως Ζωδιακό και όποιος αντέξει.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/d72248d6-c7a4-4577-872d-a6a58f3e2f61-768x506.jpeg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ο Τζόκοβιτς προανήγγειλε την παρουσία του στο ΣΕΦ για το Ολυμπιακός – Ερυθρός Αστέρας",
+          "link": "https://www.in.gr/2026/01/25/sports/basketball/euroleague/proaniggeile-tin-parousia-tou-sto-sef-gia-to-paixnidi-tou-olympiakou-me-ton-erythro-astera-o-tzokovits/",
+          "pubDate": "Sun, 25 Jan 2026 13:16:58 +0300",
+          "description": "Ο Νόβακ Τζόκοβιτς μίλησε για τη σεζόν του Ερυθρού Αστέρα, ενώ τόνισε ότι αναμένεται να βρεθεί στο ΣΕΦ για τον αγώνα με τον Ολυμπιακό.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6713265-768x512.jpg",
           "source": "In.gr"
         },
         {
@@ -215,38 +247,6 @@
           "description": "LIVE: Κολοσσός Ρόδου – Ολυμπιακός. Παρακολουθήστε live στις 13:00 την εξέλιξη της αναμέτρησης Κολοσσός Ρόδου – Ολυμπιακός για τη 16η αγωνιστική της Stoiximan GBL. Τηλεοπτικά από την ΕΡΤ2 ΣΠΟΡ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6821572-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Σε διαθεσιμότητα η καθηγήτρια που φίμωσε και έδεσε με ταινία 13χρονο μαθητή στις Σέρρες",
-          "link": "https://www.protothema.gr/greece/article/1763005/se-diathesimotita-i-kathigitria-pou-fimose-kai-edese-me-tainia-13hrono-mathiti-stis-serres/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 11:51:00 +0200",
-          "description": "Καταδικάστηκε σε ποινή φυλάκισης δύο ετών, ενώ αποφασίστηκε η ποινή της να είναι εξαγοράσιμη προς δέκα ευρώ ημερησίως",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-24/maketa-dieuthintria.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ατρόμητος – Παναθηναϊκός: Επικίνδυνη αποστολή για το «τριφύλλι» στο Περιστέρι",
-          "link": "https://www.newsit.gr/athlitika/atromitos-panathinaikos-epikindyni-apostoli-gia-to-trifylli-sto-peristeri/4582906/",
-          "pubDate": "Sun, 25 Jan 2026 09:43:29 +0000",
-          "description": "Ο Παναθηναϊκός αντιμετωπίζει τον Ατρόμητο εκτός έδρας για την 18η αγωνιστική της Super League (25/01/26, 19:30, Newsit.gr, Novasports Prime) και αναμένεται μεγάλη μάχη στο Περιστέρι ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός: Επικίνδυνη αποστολή για το «τριφύλλι» στο Περιστέρι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/chirivella-1200x798.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γλυφάδα: «Παιδί μου, μην με σκοτώνεις άλλο, πέθανα» – Τα τελευταία λόγια του 80χρονου που τον μαχαίρωσε μέχρι θανάτου ο γιος του",
-          "link": "https://www.newsit.gr/ellada/glyfada-paidi-mou-min-me-skotoneis-allo-pethana-ta-teleytaia-logia-tou-80xronou-pou-ton-maxairose-mexri-thanatou-o-gios-tou/4582905/",
-          "pubDate": "Sun, 25 Jan 2026 09:43:11 +0000",
-          "description": "Σοκάρουν τα τελευταία λόγια του 80χρονου στη Γλυφάδα που έπεσε νεκρός από τα χέρια του γιου του. Ο ηλικιωμένος άνδρας όπως κάθε Κυριακή έτσι και ...  \nTo άρθρο Γλυφάδα: «Παιδί μου, μην με σκοτώνεις άλλο, πέθανα» – Τα τελευταία λόγια του 80χρονου που τον μαχαίρωσε μέχρι θανάτου ο γιος του δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/egklima-glifada-1200x640.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο δήμος Κύθνου δίνει επίδομα 1.000 ευρώ τον μήνα για να καλύψει την έλλειψη γιατρών στο νησί",
-          "link": "https://www.protothema.gr/greece/article/1763002/o-dimos-kuthnou-dinei-epidoma-1000-euro-ton-mina-gia-na-kalupsei-tin-elleipsi-giatron-sto-nisi/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 11:42:57 +0200",
-          "description": "Οικονομικό κίνητρο σε παιδίατρο και παθολόγο προκειμένου να εγκατασταθούν μόνιμα στην Κύθνο – «Υπάρχει ενδιαφέρον», δηλώνει ο δήμαρχος Σταμάτης Γαρδέρης",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/kythn_front.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Μινεσότα: Οργή για τον θάνατο του 37χρονου από την ICE - «Πυρά» των Δημοκρατικών κατά του Τραμπ",
+          "link": "http://gr.euronews.com/2026/01/25/minesota-orgh-gia-ton-8anato-toy-37xronoy-apo-thn-ice-pyra-twn-dhmokratikwn-kata-toy",
+          "pubDate": "Sun, 25 Jan 2026 12:24:56 +0100",
+          "description": "Ο κυβερνήτης της Μινεσότα ζητάει την απομάκρυνση των πρακτόρων της ICE - Την παραίτηση της υπουργού Εσωτερικής Ασφάλειας ζήτησε ο Γκάβιν Νιούσομ",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Ειδήσεις | 25 Ιανουαρίου 2026 - Μεσημβρινό δελτίο",
           "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-meshmbrino-deltio",
           "pubDate": "Sun, 25 Jan 2026 12:00:19 +0100",
@@ -731,14 +739,6 @@
           "description": "Ο κυβερνήτης της Μινεσότα Τιμ Γουόλτς επικοινώνησε με τον Λευκό Οίκο και απαίτησε να αποχωρήσουν οι «ανεκπαίδευτοι πράκτορες» που ενεργούν στο πλαίσιο καταστολής στη μετανάστευση της κυβέρνησης Τραμπ",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Επιχορηγήσεις από Κομισιόν σε Ελλάδα και Κύπρο για διαγενεακά έργα εκμάθησης γραμματισμού στα ΜΜΕ",
-          "link": "http://gr.euronews.com/2026/01/24/epixorigiseis-apo-commission-se-ellada-kai-kypro-gia-diageneaka-erga-emathisis-grammatismo",
-          "pubDate": "Sat, 24 Jan 2026 17:13:14 +0100",
-          "description": "Ως τις 6 Φεβρουαρίου «τρέχει» η πρόσκληση υποβολής προτάσεων με θέμα «Οικοδόμηση κοινότητας μεταξύ των γενεών μέσω του γραμματισμού στα μέσα επικοινωνίας»",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ο Παναθηναϊκός έφτασε σε συμφωνία με την Ουνιόν Βερολίνου για τον Άλεξ Κραλ",
+          "link": "https://www.newsit.gr/athlitika/o-panathinaikos-eftase-se-symfonia-me-tin-ounion-verolinou-gia-ton-aleks-kral/4582956/",
+          "pubDate": "Sun, 25 Jan 2026 11:22:04 +0000",
+          "description": "Ο Παναθηναϊκός λίγο πριν αντιμετωπίσει τον Ατρόμητο για την 18η αγωνιστική της Super League (25/01/26, 19:30, Newsit.gr, Novasports Prime) έφτασε σε συμφωνία με την Ουνιόν ...  \nTo άρθρο Ο Παναθηναϊκός έφτασε σε συμφωνία με την Ουνιόν Βερολίνου για τον Άλεξ Κραλ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alexkral-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Παναθηναϊκός: Και πάλι εκτός Όσμαν και Ναν για το ματς με το Μαρούσι",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2509972/panathinaikos-kai-pali-ektos-osman-kai-nan-gia-mats-me-maroysi",
@@ -977,14 +985,6 @@
           "description": "Το νέο άλμπουμ, «Απαλό» (Inner Ear Records), της Nalyssa Green σε κάνει να χαμογελάς και να νιώθεις ασφαλής μέσα σε έναν βάρβαρο κόσμο.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/apalophoto.jpg?itok=zRCuGwME",
           "source": "Gazzetta"
-        },
-        {
-          "title": "GBL: Χωρίς πλέι μέικερ στη Ρόδο ο Ολυμπιακός, υποδέχεται το Μαρούσι ο Παναθηναϊκός",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2509947/gbl-horis-plei-meiker-sti-rodo-o-olympiakos-ypodehetai-maroysi-o",
-          "pubDate": "Sun, 25 Jan 2026 11:03:29 +0200",
-          "description": "Η 16η αγωνιστική της Stoiximan Greek Basketball League ολοκληρώνεται με τις αναμετρήσεις Ολυμπιακού και Παναθηναϊκού.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/dorsey10.jpg?itok=RaXfi7jt",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Τελική επιλογή στην εξάδα ξένων – Οι επιλογές του Αταμάν!",
+          "link": "https://trifilara.gr/teliki-epilogi-stin-exada-xenon-oi-epiloges-tou-ataman/?utm_source=rss&utm_medium=rss&utm_campaign=teliki-epilogi-stin-exada-xenon-oi-epiloges-tou-ataman",
+          "pubDate": "Sun, 25 Jan 2026 11:29:04 +0000",
+          "description": "Διαχείριση ρόστερ και προτεραιότητες μέσα από τις αποφάσεις για τη 16η αγωνιστική της GBL.\nThe post Τελική επιλογή στην εξάδα ξένων – Οι επιλογές του Αταμάν! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
         {
           "title": "Μανωλίνα Κωνσταντίνου στο P24.gr: «Πιστεύουμε πολύ στην ομάδα – Ο κόσμος είναι ο 7ος παίκτης μας»",
           "link": "https://panathinaikos24.gr/2026/01/25/617564/manolina-konstantinou-sto-p24-gr-pisteyoume-poly-stin-omada-o-kosmos-einai-o-7os-paiktis-mas/",
@@ -1222,14 +1230,6 @@
           "pubDate": "Sat, 24 Jan 2026 17:15:10 +0000",
           "description": "Τελευταίες δοκιμές, απουσίες και αποφάσεις λίγο πριν την… έξοδο στο Περιστέρι που απαιτεί συγκέντρωση και καθαρό μυαλό. Με απογευματινή προπόνηση στο «Γ. Καλαφάτης» ολοκληρώθηκε το Σάββατο (24/1) η προετοιμασία του Παναθηναϊκού για τον εκτός έδρας αγώνα πρωταθλήματος απέναντι στον Ατρόμητο, με το τεχνικό επιτελείο να ρίχνει το βάρος στις λεπτομέρειες και στη σωστή αγωνιστική συμπεριφορά. […]\nThe post Παναθηναϊκός: Με μια απρόοπτη απουσία στο Περιστέρι! – Προπόνηση και η αποστολή για Ατρόμητο appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/11/proponisi-5.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Κίνηση που δείχνει… Κραλ στον Παναθηναϊκό από Ουνιόν Βερολίνου! (pic)",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/kinisi-pou-deichnei-kral-ston-panathin/?utm_source=rss&utm_medium=rss&utm_campaign=kinisi-pou-deichnei-kral-ston-panathin",
-          "pubDate": "Sat, 24 Jan 2026 17:14:27 +0000",
-          "description": "Οι εξελίξεις στην Ουνιόν Βερολίνου ενισχύουν το σενάριο μεταγραφής του Τσέχου χαφ στο «Τριφύλλι». Σε πολύ καλό δρόμο φαίνεται πως βρίσκεται η υπόθεση του Άλεξ Κραλ για τον Παναθηναϊκός, με τις τελευταίες εξελίξεις στην Ουνιόν Βερολίνου να ενισχύουν το σενάριο επικείμενου deal. Ο 27χρονος Τσέχος χαφ έμεινε εκτός αποστολής για το σημερινό εντός έδρας παιχνίδι […]\nThe post Κίνηση που δείχνει… Κραλ στον Παναθηναϊκό από Ουνιόν Βερολίνου! (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/kral.jpg",
           "source": "Όλα Πράσινα"
         }
       ]
