@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T11:45:29.247Z",
+  "lastUpdated": "2026-01-25T11:50:28.920Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Εντοπίστηκε μεγάλη φάλαινα δίπλα σε ψαράδες στον Παγασητικό Κόλπο στον Βόλο, δείτε βίντεο",
+          "link": "https://www.protothema.gr/greece/article/1763060/edopistike-megali-falaina-dipla-se-psarades-ston-pagasitiko-kolpo-ston-volo-deite-video/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 13:49:38 +0200",
+          "description": "Εντυπωσιακό είναι το πλάνο στο 5:05, όταν η φάλαινα βγαίνει σχεδόν ολόκληρη έξω από το νερό και φανερώνεται το τεράστιο μέγεθός της",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-falaina.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Νικήτας Τσακίρογλου: Η Χρυσούλα Διαβάτη είναι καλύτερα, θα κερδίσει το στοίχημα της ζωής",
+          "link": "https://www.newsit.gr/lifestyle/nikitas-tsakiroglou-i-xrysoula-diavati-einai-kalytera-tha-kerdisei-to-stoixima-tis-zois/4582960/",
+          "pubDate": "Sun, 25 Jan 2026 11:45:34 +0000",
+          "description": "Ο Νικήτας Τσακίρουγλου μίλησε για την αγαπημένη του σύζυγο, Χρυσούλα Διαβάτη, αποκαλύπτοντας ότι η υγεία της έχει βελτιωθεί. Η γνωστή ηθοποιός εδώ και καιρό δίνει ...  \nTo άρθρο Νικήτας Τσακίρογλου: Η Χρυσούλα Διαβάτη είναι καλύτερα, θα κερδίσει το στοίχημα της ζωής δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nikitas-tsakirogloy-1ndp-1200x713.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Μετά από 12 χρόνια σιωπής, πατέρας και κόρη στο εδώλιο με εισαγγελική πρόταση για υπόθεση αιμομιξίας στη Ρόδο ",
           "link": "https://www.protothema.gr/greece/article/1763043/meta-apo-12-hronia-siopis-pateras-kai-kori-sto-edolio-me-eisaggeliki-protasi-gia-upothesi-aimomixias-sti-rodo/?utm_source=rss",
@@ -231,22 +247,6 @@
           "description": "Έμφαση στην Ανεξάρτητη Αρχή Προστασίας του Καταναλωτή δίνει ο υπουργός Ανάπτυξης, Τάκης Θεοδωρικάκος, ο οποίος σε συνέντευξή του στην εφημερίδα «Μακεδονία της Κυριακής» τόνισε τη ...  \nTo άρθρο Θεοδωρικάκος: Η Βόρεια Ελλάδα στο επίκεντρο του νέου παραγωγικού προτύπου, με παραγωγικές επενδύσεις δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/theodorikakos01.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Survivor: Στο αποψινό επεισόδιο έρχεται ένα συμβούλιο γεμάτο εκπλήξεις και ανατροπές",
-          "link": "https://www.newsit.gr/media/survivor-sto-apopsino-epeisodio-erxetai-ena-symvoulio-gemato-ekplikseis-kai-anatropes/4582923/",
-          "pubDate": "Sun, 25 Jan 2026 10:11:05 +0000",
-          "description": "Μετά την αποχώρηση της Ελένης Ζαράγγα από το «Survivor», οι Επαρχιώτες πιστεύουν πως πλέον η ομάδα τους θα είναι πιο δυνατή. Στο νέο επεισόδιο  απόψε, ...  \nTo άρθρο Survivor: Στο αποψινό επεισόδιο έρχεται ένα συμβούλιο γεμάτο εκπλήξεις και ανατροπές δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-lianos-2-1200x697.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τι θα συμβεί αν ο Τραμπ ρίξει το cloud; H Ευρώπη ανησυχεί μετά το θρίλερ της Γροιλανδίας",
-          "link": "https://www.in.gr/2026/01/25/in-science/technology/ti-tha-symvei-o-tramp-riksei-cloud-h-eyropi-anisyxei-meta-thriler-tis-groilandias/",
-          "pubDate": "Sun, 25 Jan 2026 13:08:22 +0300",
-          "description": "Οι γεωπολιτικές εντάσεις αναγκάζουν την Ευρώπη να εξετάσει σοβαρά ένα σενάριο που μέχρι πρόσφατα φάνταζε αδιανόητο: να λειτουργήσει χωρίς την αμερικανική τεχνολογία και τις υπηρεσίες του cloud.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/13558135-1-768x491.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Πρίντεζης: «Οι αναμνήσεις είναι αυτές που μένουν και σε κάνουν να αγαπάς κάτι»",
+          "link": "https://www.gazzetta.gr/basketball/2509981/printezis-oi-anamniseis-einai-aytes-poy-menoyn-kai-se-kanoyn-na-agapas-kati",
+          "pubDate": "Sun, 25 Jan 2026 13:47:27 +0200",
+          "description": "Ο Γιώργος Πρίντεζης ευχαρίστησε τους προέδρους του Ολυμπιακού εξηγώντας ότι χωρίς εκείνους ενδεχομένως να μην είχε συμβεί αυτή η τιμητική διάκριση με την καριέρα που είχε προηγηθεί",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/printezis_intime.jpg?itok=HvMQ3gl1",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Τα δεδομένα για τις οικονομικές υποχρεώσεις ΑΣ ΠΑΟΚ και Γιέντρικ",
           "link": "https://www.gazzetta.gr/2509980/ta-dedomena-gia-tis-oikonomikes-ypohreoseis-paok-kai-gientrik",
           "pubDate": "Sun, 25 Jan 2026 13:38:29 +0200",
@@ -977,14 +985,6 @@
           "description": "Ο Παναθηναϊκός αντιμετωπίζει τον Ατρόμητο εκτός έδρας για την 18η αγωνιστική της Super League (25/01/26, 19:30, Newsit.gr, Novasports Prime) και αναμένεται μεγάλη μάχη στο Περιστέρι ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός: Επικίνδυνη αποστολή για το «τριφύλλι» στο Περιστέρι δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/chirivella-1200x798.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Athens Licensing Expo – 1η διετής SEE/MENA Sports Merchandise, Accessories & Collectibles Edition",
-          "link": "https://www.gazzetta.gr/2509952/athens-licensing-expo-1i-dietis-seemena-sports-merchandise-accessories-collectibles-edition",
-          "pubDate": "Sun, 25 Jan 2026 11:39:31 +0200",
-          "description": "Η Αθήνα γίνεται ο νέος κόμβος ανάπτυξης του Sports Licensing.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/press.jpg?itok=KhYtggYH",
-          "source": "Gazzetta"
         }
       ]
     },
