@@ -1,19 +1,40 @@
 {
-  "lastUpdated": "2026-01-25T00:30:31.319Z",
+  "lastUpdated": "2026-01-25T00:35:30.002Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
         {
+          "title": "Ελβετία: Ο Παγκόσμιος Οργανισμός Υγείας εκφράζει θλίψη για την αποχώρηση των ΗΠΑ",
+          "link": "https://www.in.gr/2026/01/25/world/elvetia-o-pagkosmios-organismos-ygeias-ekfrazei-thlipsi-gia-tin-apoxorisi-ton-ipa/",
+          "pubDate": "Sun, 25 Jan 2026 02:30:23 +0300",
+          "description": "Ο Παγκόσμιος Οργανισμός Υγείας εξέφρασε την λύπη της για την αποχώρηση των ΗΠΑ και ευελπιστεί ότι η Ουάσινγκτον θα αποφασίσει να επιστρέψει στο άμεσο μέλλον",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/who-768x525.jpg"
+        },
+        {
+          "title": "Ακραία χιονοθύελλα στις ΗΠΑ – Τουλάχιστον 16 πολιτείες σε κατάσταση έκτακτης ανάγκης",
+          "link": "https://www.in.gr/2026/01/25/world/akraia-xionothyella-stis-ipa-toulaxiston-16-politeies-se-katastasi-ektaktis-anagkis/",
+          "pubDate": "Sun, 25 Jan 2026 02:09:56 +0300",
+          "description": "Τα δύο τρίτα του πληθυσμού των ΗΠΑ βρίσκονται αντιμέτωπα με χιονοθύελλα και ακραίο κρύο. Οι Αρχές προειδοποιούν πως τις επόμενες ώρες το χιόνι και ο πάγος θα εκτείνονται από το Τέξας έως τη Νέα Αγγλία",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/0987-2-768x512.jpg"
+        },
+        {
           "title": "Η Ουκρανία βομβάρδισε με πυραύλους και drones τη ρωσική περιφέρεια του Μπέλγκοροντ",
           "link": "https://www.newsit.gr/kosmos/i-oukrania-vomvardise-me-pyraylous-kai-drones-ti-rosiki-perifereia-tou-mpelgkoront/4582753/",
           "pubDate": "Sat, 24 Jan 2026 22:54:31 +0000",
           "description": "«Μαζική» επίθεση με πυραύλους και drones εναντίον της ρωσικής περιφέρειας Μπέλγκοροντ εξαπέλυσε η Ουκρανία χθες (24.01.2026). Από τις ουκρανικές επιδρομές προκλήθηκαν καταστροφές σε ενεργειακές υποδομές, ...  \nTo άρθρο Η Ουκρανία βομβάρδισε με πυραύλους και drones τη ρωσική περιφέρεια του Μπέλγκοροντ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/belgorod-25012026.jpg"
+        },
+        {
+          "title": "Μινεάπολη: Διαδηλωτές κατηγορούνται πως επιτέθηκαν σε πράκτορα – Ένας φέρεται να του δάγκωσε και του έκοψε το δάχτυλο",
+          "link": "https://www.in.gr/2026/01/25/world/mineapoli-diadilotes-katigorountai-pos-epitethikan-se-praktora-tou-dagkosan-kai-tou-ekopsan-daxtylo/",
+          "pubDate": "Sun, 25 Jan 2026 01:25:28 +0300",
+          "description": "«Είδηση δεν είναι αν ένας σκύλος δαγκώσει άνθρωπο, αλλά αν ένας άνθρωπος δαγκώσει σκύλο» κατά το δημοσιογραφικό ρητό, όμως ίσως έπρεπε να υπάρχει κάποια αναφορά στις περιπτώσεις που άνθρωπος δαγκώνει άνθρωπο",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Homeland-Security-1-768x576.jpg"
         },
         {
           "title": "Γιώργος Γεραπετρίτης: Αναφαίρετο δικαίωμα τα 12 ναυτικά μίλια – Η Ελλάδα θα επιλέξει πότε θα το ασκήσει",
@@ -37,6 +58,13 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-thanailakis-ndp-1-1200x797.jpg"
         },
         {
+          "title": "Πάνος Ρούτσι: Βρισκόμαστε εδώ για να μη συνηθίσουμε τον θάνατο",
+          "link": "https://www.in.gr/2026/01/25/greece/panos-routsi-vriskomaste-edo-gia-na-mi-synithisoume-ton-thanato/",
+          "pubDate": "Sun, 25 Jan 2026 00:50:37 +0300",
+          "description": "O πατέρας του θύματος των Τεμπών Ντένι Ρούτσι, Πάνος, πήρε τον λόγο σε εκδήλωση στο Γκάζι και ζήτησε μαζική συμμετοχή στην απεργία που έχει ανακοινωθεί για τις 27 και 28 Φεβρουαρίου",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Routsi21-768x443.jpg"
+        },
+        {
           "title": "Γιάννης Αντετοκούνμπο: Συγκεντρώνουν draft picks για το καλοκαίρι οι ομάδες του NBA",
           "link": "https://www.newsit.gr/athlitika/giannis-antetokounmpo-sygkentronoun-draft-picks-gia-to-kalokairi-oi-omades-tou-nba/4582743/",
           "pubDate": "Sat, 24 Jan 2026 21:49:56 +0000",
@@ -56,6 +84,13 @@
           "pubDate": "Sat, 24 Jan 2026 21:44:16 +0000",
           "description": "Ουρές σχηματίζονταν το βράδυ του Σαββάτου, έξω από τους κινηματογράφους που παίζεται η ταινία «Άμνετ» (Hamnet), βασισμένη στο ομώνυμο μυθιστόρημα από την Μάγκι Ο’ Φάρελ. ...  \nTo άρθρο Ουρές για την ταινία «Άμνετ» που δραματοποιεί το γάμο του Ουίλιαμ Σαίξπηρ και τον χαμό του 11χρονου γιου του δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/hamnet-1200x900.jpeg"
+        },
+        {
+          "title": "Τι είναι τελικά «φίλος» για το Instagram",
+          "link": "https://www.in.gr/2026/01/25/world/ti-einai-telika-filos-gia-instagram/",
+          "pubDate": "Sun, 25 Jan 2026 00:30:06 +0300",
+          "description": "Η δοκιμή του Instagram περιλαμβάνει την αλλαγή του αριθμού των «ακολούθων» και την αλλαγή κάποιων εξ αυτών σε «φίλων»",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alexander-shatov-_tF3vug2FhQ-unsplash-768x576.jpg"
         },
         {
           "title": "Πάτρα: Δύο νέοι άνθρωποι νεκροί μετά από το τροχαίο",
@@ -100,6 +135,27 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/malandrino.jpg"
         },
         {
+          "title": "Ασήμι: Πώς μπορεί να αγοράσει κανείς σήμερα",
+          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/asimi-pos-mporei-na-agorasei-kaneis-simera/",
+          "pubDate": "Sun, 25 Jan 2026 00:15:00 +0300",
+          "description": "Οι επενδυτές έσπευσαν στο ασήμι εν μέσω γεωπολιτικής αναταραχής και προσδοκιών για μειώσεις των επιτοκίων στις ΗΠΑ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/silver-702537_1920-768x560.jpg"
+        },
+        {
+          "title": "Βιγιαρεάλ – Ρεάλ Μαδρίτης 0-2: Στην κορυφή η «βασίλισσα» με ηγετικό Εμπαπέ!",
+          "link": "https://www.in.gr/2026/01/25/sports/football/vigiareal-real-madritis-0-2-stin-koryfi-vasilissa-igetiko-empape/",
+          "pubDate": "Sun, 25 Jan 2026 00:10:21 +0300",
+          "description": "Με τον Κιλιάν Εμπαπέ να σκοράρει δύο φορές στο δεύτερο μέρος, η Ρεάλ Μαδρίτης, πέρασε από την έδρα της Βιγιαρεάλ (2-0)και προσπέρασε  την Μπαρτσελόνα (έχει ματς λιγότερο) στην κορυφή της βαθμολογίας.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/empa-768x554.jpg"
+        },
+        {
+          "title": "Άκρως Ζωδιακό: Τα Do’s και Don’ts στα ζώδια σήμερα [Κυριακή 25.01.2026]",
+          "link": "https://www.in.gr/2026/01/25/go-fun/stars/imerisia/akros-zodiako-ta-dos-kai-donts-sta-zodia-simera-kyriaki-25-01-2026/",
+          "pubDate": "Sun, 25 Jan 2026 00:01:29 +0300",
+          "description": "Τα Do's και τα Don'ts στα ζώδια σήμερα από την Αγγελική Μανουσάκη - Άκρως Ζωδιακό και όποιος αντέξει.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/mohammad-alizade-91PVsccQXbc-unsplash-1-768x480.jpg"
+        },
+        {
           "title": "Αλβανία: Φλέγονται τα Τίρανα – Σοβαρά επεισόδια και 5 αστυνομικοί τραυματίες σε αντικυβερνητική διαδήλωση",
           "link": "https://www.newsit.gr/kosmos/alvania-flegontai-ta-tirana-sovara-epeisodia-kai-5-astynomikoi-traymaties-se-antikyvernitiki-diadilosi/4582713/",
           "pubDate": "Sat, 24 Jan 2026 21:00:23 +0000",
@@ -112,6 +168,13 @@
           "pubDate": "Sat, 24 Jan 2026 20:59:00 +0000",
           "description": "Η ΑΕΛ Novibet νίκησε δύσκολα με 1-0 τον Πανσερραϊκό στη “μάχη” των ουραγών της Super League, στη 18η αγωνιστική, με τους Σερραίους να είναι έξαλλοι ...  \nTo άρθρο Πανσερραϊκός: «Αίσχος και μαύρη ημέρα για το ελληνικό ποδόσφαιρο» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/serres-1-1200x800.jpg"
+        },
+        {
+          "title": "Τραγωδία στην Πάτρα – Nεκροί δύο νέοι σε τροχαίο στην Παραλία",
+          "link": "https://www.in.gr/2026/01/24/greece/tragodia-stin-patra-nekroi-dyo-neoi-se-troxaio-stin-paralia/",
+          "pubDate": "Sat, 24 Jan 2026 23:58:51 +0300",
+          "description": "Το ΙΧ καρφώθηκε σε κολώνα με υπερβολική ταχύτητα - Δυστυχώς, οι δύο επιβαίνοντες του οχήματος, περίπου 19 ετών, ένα αγόρι και ένα κορίτσι, ανασύρθηκαν νεκροί από τα συντρίμμια.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trox_pat4-768x511.jpg"
         },
         {
           "title": "Μαρίλια Μητρούση: Σχεδόν τους παρακάλεσα για να με πάρουν στο καστ του «Να μ’ αγαπάς»",
@@ -135,88 +198,25 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/astinomia-1200x675-1.webp"
         },
         {
-          "title": "ΑΕΚ: Γιόβιτς, Ρότα, Ρέλβας και Κοϊτά συμπλήρωσαν κάρτες και θα χάσουν ένα από τα επόμενα παιχνίδια της Super League",
-          "link": "https://www.newsit.gr/athlitika/aek-giovits-rota-relvas-kai-koita-symplirosan-kartes-kai-tha-xasoun-ena-apo-ta-epomena-paixnidia-tis-super-league/4582706/",
-          "pubDate": "Sat, 24 Jan 2026 20:26:43 +0000",
-          "description": "Η ΑΕΚ «απέδρασε» από την Τρίπολη με το διπλό με 1-0 επί του Αστέρα, αλλά είδε τέσσερις παίκτες της να δέχονται την κίτρινη κάρτα του ...  \nTo άρθρο ΑΕΚ: Γιόβιτς, Ρότα, Ρέλβας και Κοϊτά συμπλήρωσαν κάρτες και θα χάσουν ένα από τα επόμενα παιχνίδια της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-2-1-1200x799.jpg"
+          "title": "Ο κυβερνήτης της Μινεσότα Τιμ Γουάλτς αποφάσισε να αναπτύξει την Εθνοφρουρά [βίντεο]",
+          "link": "https://www.in.gr/2026/01/24/world/o-kyvernitis-tis-minesota-tim-goualts-apofasise-na-anaptyksei-tin-ethnofroura-vinteo/",
+          "pubDate": "Sat, 24 Jan 2026 23:54:09 +0300",
+          "description": "Ο κυβερνήτης της Μινεσότα αποφάσισε να αναπτύξει την Εθνοφρουρά στην πολιτεία του, σε μια προσπάθεια να «προστατέψει τους πολίτες» από τις ομοσπονδιακές υπηρεσίες.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-17T011312Z_868012131_RC25VIAKNC5V_RTRMADP_5_USA-TRUMP-MINNESOTA-INVESTIGATION-768x512.jpg"
         },
         {
-          "title": "Γαλάτσι: Βίντεο – ντοκουμέντο από την καταδρομική επίθεση κουκουλοφόρων σε σχολείο με ρόπαλα και βεγγαλικά",
-          "link": "https://www.newsit.gr/ellada/galatsi-vinteo-ntokoumento-apo-tin-katadromiki-epithesi-koukouloforon-se-sxoleio-me-ropala-kai-veggalika/4582702/",
-          "pubDate": "Sat, 24 Jan 2026 20:26:28 +0000",
-          "description": "Σε εξέλιξη βρίσκονται οι έρευνες της αστυνομίας στο Γαλάτσι για να ταυτοποιηθούν και να εντοπιστούν οι πέντε κουκουλοφόροι που πέταξαν βεγγαλικά στο προαύλιο του 3ου ...  \nTo άρθρο Γαλάτσι: Βίντεο – ντοκουμέντο από την καταδρομική επίθεση κουκουλοφόρων σε σχολείο με ρόπαλα και βεγγαλικά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/galatsi-sxoleio-24012026-1200x654.jpg"
+          "title": "Μοσχάτο: Φωτιά στο Πνευματικό Κέντρο του Δήμου – Εξετάζεται το ενδεχόμενο του εμπρησμού",
+          "link": "https://www.in.gr/2026/01/24/greece/mosxato-fotia-sto-pneymatiko-kentro-tou-dimou-eksetazetai-endexomeno-tou-emprismou/",
+          "pubDate": "Sat, 24 Jan 2026 23:47:03 +0300",
+          "description": "Κατά τον έλεγχο του χώρου διαπιστώθηκε σπασμένο τζάμι, από το οποίο άγνωστοι φέρεται να εισήλθαν στο κτήριο, προκαλώντας φθορές και βάζοντας φωτιά σε συγκεκριμένο γραφείο στο Πνευματικό Κέντρο στο Μοσχάτο",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/fotia-pneymatikou-mosxato-4-768x511.jpg"
         },
         {
-          "title": "Μηχανή παρέσυρε πεζό στη Χαλκίδα: Δύο τραυματίες",
-          "link": "https://www.protothema.gr/greece/article/1762860/mihani-paresute-pezo-sti-halkida-duo-tramaties/?utm_source=rss",
-          "pubDate": "Sat, 24 Jan 2026 22:25:00 +0200",
-          "description": "Από το ατύχημα τραυματίστηκε κι ο οδηγός της μηχανής με την κατάστασή του να κρίνεται πιο σοβαρή",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2025-10-12/ekab-mkt.jpg"
-        },
-        {
-          "title": "Νίκολιτς: «Ικανοποιημένος από το αποτέλεσμα, όχι τόσο από την εμφάνιση»",
-          "link": "https://www.newsit.gr/athlitika/nikolits-ikanopoiimenos-apo-to-apotelesma-oxi-toso-apo-tin-emfanisi/4582704/",
-          "pubDate": "Sat, 24 Jan 2026 20:20:34 +0000",
-          "description": "Η ΑΕΚ επικράτησε εκτός έδρας του Αστέρα Τρίπολης με 1-0, με τον Μάρκο Νίκολιτς να είναι ικανοποιημένος από το αποτέλεσμα όχι όμως και από την ...  \nTo άρθρο Νίκολιτς: «Ικανοποιημένος από το αποτέλεσμα, όχι τόσο από την εμφάνιση» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nicolic-1200x800.jpg"
-        },
-        {
-          "title": "WRC: Δύσκολα θα χάσει στο Μόντε Κάρλο ο Solberg",
-          "link": "https://www.newsit.gr/auto/wrc-dyskola-tha-xasei-sto-monte-karlo-o-solberg/4582703/",
-          "pubDate": "Sat, 24 Jan 2026 20:15:58 +0000",
-          "description": "Με 4 ειδικές διαδρομές σήμερα, μία εκ των οποίων η υπερ-ειδική διαδρομή στο Μονακό, το πρώτο ράλι της χρονιάς του WRC φαίνεται ότι θα έχει ...  \nTo άρθρο WRC: Δύσκολα θα χάσει στο Μόντε Κάρλο ο Solberg δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/wrc-toyota-featured-wrc.jpg"
-        },
-        {
-          "title": "Στην κάμερα «χτύπημα» απατεώνων στα Πατήσια – Είχαν πείσει ηλικιωμένη να τους παραδώσει κοσμήματά και χρήματα",
-          "link": "https://www.newsit.gr/ellada/stin-kamera-xtypima-apateonon-sta-patisia-eixan-peisei-ilikiomeni-na-tous-paradosei-kosmimata-kai-xrimata/4582690/",
-          "pubDate": "Sat, 24 Jan 2026 20:15:13 +0000",
-          "description": "Οι απατεώνες κατάφεραν μεν να πείσουν μια ηλικιωμένη να τους παραδώσει χρήματα και κοσμήματα γιατί… «είχε διαρροή το σπίτι της» ωστόσο… λογάριαζαν χωρίς την γειτόνισσα, ...  \nTo άρθρο Στην κάμερα «χτύπημα» απατεώνων στα Πατήσια – Είχαν πείσει ηλικιωμένη να τους παραδώσει κοσμήματά και χρήματα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-3.jpg"
-        },
-        {
-          "title": "Κλήρωση ΛΟΤΤΟ 2695: Αυτοί είναι οι τυχεροί αριθμοί",
-          "link": "https://www.newsit.gr/ellada/klirosi-lotto-2695-aytoi-einai-oi-tyxeroi-arithmoi/4582627/",
-          "pubDate": "Sat, 24 Jan 2026 20:06:01 +0000",
-          "description": "Κλήρωση ΛΟΤΤΟ αριθμός 2695, σήμερα Σάββατο 24 Ιανουαρίου 2026. Όσα πρέπει να γνωρίζετε. Οι τυχεροί αριθμοί είναι 8, 10, 25, 44, 19, 35. Οι παίκτες ...  \nTo άρθρο Κλήρωση ΛΟΤΤΟ 2695: Αυτοί είναι οι τυχεροί αριθμοί δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lotto-4.jpg"
-        },
-        {
-          "title": "ΑΕΛ Novibet – Πανσερραϊκός 1-0: «Άλμα» παραμονής έκαναν οι Θεσσαλοί στη Super League",
-          "link": "https://www.newsit.gr/athlitika/ael-novibet-panserraikos-1-0-alma-paramonis-ekanan-oi-thessaloi-sti-super-league/4582693/",
-          "pubDate": "Sat, 24 Jan 2026 20:03:26 +0000",
-          "description": "Μετά από ένα μεγάλο ντέρμπι στην AEL FC Arena, η ΑΕΛ Novibet κατάφερε να “λυγίσει” με 1-0 τον Πανσερραϊκό στη “μάχη” των ουραγών της φετινής ...  \nTo άρθρο ΑΕΛ Novibet – Πανσερραϊκός 1-0: «Άλμα» παραμονής έκαναν οι Θεσσαλοί στη Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ael-1-1200x800.jpg"
-        },
-        {
-          "title": "Δώρα Χρυσικού: Υπήρξαν άνθρωποι που προσπάθησαν να καταπατήσουν την αξιοπρέπεια μου",
-          "link": "https://www.newsit.gr/lifestyle/dora-xrysikou-ypirksan-anthropoi-pou-prospathisan-na-katapatisoun-tin-aksioprepeia-mou/4582507/",
-          "pubDate": "Sat, 24 Jan 2026 19:59:00 +0000",
-          "description": "Η Δώρα Χρυσικού έδωσε μία αποκαλυπτική συνέντευξη, με αφορμή τον πρωταγωνιστικό της ρόλο στην παράσταση «Vagina Hood» και αναφέρθηκε στην παραβίαση δικαιωμάτων, αναφέροντας ότι κάποιοι ...  \nTo άρθρο Δώρα Χρυσικού: Υπήρξαν άνθρωποι που προσπάθησαν να καταπατήσουν την αξιοπρέπεια μου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/dora-xrisikoy-ndp-1200x719.jpg"
-        },
-        {
-          "title": "Νίκος Παπανδρέου: «Ο κόσμος θέλει λύσεις όχι συζήτηση για συνεργασίες» – Τι λέει για Ανδρουλάκη, Mercosur",
-          "link": "https://www.newsit.gr/politikh/nikos-papandreou-o-kosmos-thelei-lyseis-oxi-syzitisi-gia-synergasies-ti-leei-gia-androulaki-mercosur/4582692/",
-          "pubDate": "Sat, 24 Jan 2026 19:58:56 +0000",
-          "description": "Στο θέμα της Συμφωνίας Mercosur, αλλά και στο ζήτημα του επερχόμενου συνεδρίου του ΠΑΣΟΚ και στα σενάρια περί αλλαγής ηγεσίας, αναφέρθηκε ο ευρωβουλευτής του Κινήματος, ...  \nTo άρθρο Νίκος Παπανδρέου: «Ο κόσμος θέλει λύσεις όχι συζήτηση για συνεργασίες» – Τι λέει για Ανδρουλάκη, Mercosur δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nikos-papandreou-24012026.jpg"
-        },
-        {
-          "title": "Η βαθμολογία της Super League μετά τις νίκες της ΑΕΚ και του Ολυμπιακού – Δείτε φάσεις και γκολ",
-          "link": "https://www.newsit.gr/athlitika/i-vathmologia-tis-super-league-meta-tis-nikes-tis-aek-kai-tou-olympiakou-deite-faseis-kai-gkol/4582688/",
-          "pubDate": "Sat, 24 Jan 2026 19:50:43 +0000",
-          "description": "Η πρώτη ημέρα της 18ης αγωνιστικής της Super League ολοκληρώθηκε, με την ΑΕΚ και τον Ολυμπιακό να πανηγυρίζουν νίκες σε βάρος του Αστέρα Τρίπολης και ...  \nTo άρθρο Η βαθμολογία της Super League μετά τις νίκες της ΑΕΚ και του Ολυμπιακού – Δείτε φάσεις και γκολ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-aek-4-1200x800.jpg"
-        },
-        {
-          "title": "Νέο σοκαριστικό βίντεο από την δολοφονία του 37χρονου στη Μινεάπολη: «Γιατί δεν προστάτευε η τοπική αστυνομία την ICE» αναρωτιέται ο Τραμπ",
-          "link": "https://www.newsit.gr/kosmos/neo-sokaristiko-vinteo-apo-tin-dolofonia-tou-37xronou-sti-mineapoli-giati-den-prostateye-i-topiki-astynomia-tin-ice-anarotietai-o-tramp/4582668/",
-          "pubDate": "Sat, 24 Jan 2026 19:42:23 +0000",
-          "description": "«Ας αφήσουμε τους πατριώτες της ICE να κάνουν τη δουλειά τους! 12.000 παράνομοι αλλοδαποί εγκληματίες, έχουν συλληφθεί και απομακρυνθεί από τη Μινεσότα», ήταν η πρώτη ...  \nTo άρθρο Νέο σοκαριστικό βίντεο από την δολοφονία του 37χρονου στη Μινεάπολη: «Γιατί δεν προστάτευε η τοπική αστυνομία την ICE» αναρωτιέται ο Τραμπ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/minnesota-minneapolis-dead-usa2.jpg"
+          "title": "Τουρκία: Το φιλοκουρδικό κόμμα DEM ζητά να σταματήσει η πολιορκία του Κομπάνι από τις συριακές δυνάμεις",
+          "link": "https://www.in.gr/2026/01/24/world/tourkia-filokourdiko-komma-dem-zita-na-stamatisei-poliorkia-tou-kompani-apo-tis-syriakes-dynameis/",
+          "pubDate": "Sat, 24 Jan 2026 23:40:57 +0300",
+          "description": "Η Τουρκία θεωρεί τις SDF απειλή για τη χώρα του, καθώς πιστεύει ότι συνδέονται με το Εργατικό Κόμμα του Κουρδιστάν (PKK)",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-20T161455Z_221434201_RC2Y4JAOIV07_RTRMADP_5_SYRIA-SECURITY-TURKEY-KURDS-768x492.jpg"
         }
       ]
     },
@@ -441,6 +441,13 @@
       "color": "blue",
       "articles": [
         {
+          "title": "As the world inches back to a pre-WW2 order, the 'middle powers' face a grave new challenge",
+          "link": "https://www.bbc.com/news/articles/c99kkerr93ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 00:25:51 GMT",
+          "description": "With economic stagnation and extremes of inequality comes corrosion of trust in democratic institutions. So Trump may be a symptom, not a cause, of what Carney called a \"rupture\" with the post-WW2 order",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d952/live/ae60d9d0-f86a-11f0-b385-5f48925de19a.jpg"
+        },
+        {
           "title": "Peace talks on Russia-Ukraine war end as fighting rages ",
           "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Jan 2026 23:37:38 GMT",
@@ -641,13 +648,6 @@
           "link": "http://gr.euronews.com/2026/01/24/iran-giati-h-ee-dyskoleyetai-na-xarakthrisei-toys-froyroys-ths-epanastashs-tromokratikh-o",
           "pubDate": "Sat, 24 Jan 2026 08:37:30 +0100",
           "description": "Στο Συμβούλιο της ΕΕ απαιτείται απόλυτη ομοφωνία. Αρκεί ένα κράτος να πει «όχι» για να μπλοκάρει την απόφαση. Αυτή τη στιγμή δεν υπάρχει ενιαία γραμμή",
-          "thumbnail": null
-        },
-        {
-          "title": "Η πρωθυπουργός της Δανίας Μέτε Φρέντερικσεν επισκέπτεται τη Γροιλανδία ως «επίδειξη στήριξης»",
-          "link": "http://gr.euronews.com/video/2026/01/24/denmarks-prime-minister-mette-frederiksen-visits-greenland-for-a-show-of-support",
-          "pubDate": "Sat, 24 Jan 2026 08:15:34 +0100",
-          "description": "Η πρωθυπουργός της Δανίας, Μέτε Φρέντερικσεν, επισκέπτεται την πρωτεύουσα Νουκ για επαφές με τον ηγέτη της Γροιλανδίας Γενς-Φρεντέρικ Νίλσεν μετά από ταραχώδη εβδομάδα.",
           "thumbnail": null
         }
       ]
