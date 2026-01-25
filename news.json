@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T16:05:24.238Z",
+  "lastUpdated": "2026-01-25T16:10:29.494Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πιερρακάκης μαζί με Πετραλιά στο 29ο Παζάρι Βιβλίου στην Κλαυθμώνος",
+          "link": "https://www.newsit.gr/oikonomia/finance/pierrakakis-mazi-me-petralia-sto-29o-pazari-vivliou-stin-klaythmonos/4583082/",
+          "pubDate": "Sun, 25 Jan 2026 16:06:18 +0000",
+          "description": "Το 29ο Παζάρι Βιβλίου, το οποίο διεξάγεται από 23 Ιανουαρίου στην Πλατεία Κλαυθμώνος στην Αθήνα, επισκέφθηκε ο Κυριάκος Πιερρακάκης, μαζί με τον υφυπουργό Εθνικής Οικονομίας ...  \nTo άρθρο Πιερρακάκης μαζί με Πετραλιά στο 29ο Παζάρι Βιβλίου στην Κλαυθμώνος δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pierrakakis-petralias.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Άρης – Λεβαδειακός 2-2: «Σοκ» για τους Θεσσαλονικείς στις καθυστερήσεις, οι Βοιωτοί απέφυγαν την ήττα με γκολ του Κωστή",
           "link": "https://www.newsit.gr/athlitika/aris-levadeiakos-2-2-sok-gia-tous-thessalonikeis-stis-kathysteriseis-oi-voiotoi-apefygan-tin-itta-me-gkol-tou-kosti/4583063/",
@@ -239,14 +247,6 @@
           "description": "Το περιστατικό σημειώθηκε το μεσημέρι της Κυριακής, στην περιοχή της Τούμπας, όταν ο 75χρονος, υπό αδιευκρίνιστες μέχρι στιγμής συνθήκες, έπεσε από μεγάλο ύψος",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-07/ekab12.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Σία Κοσιώνη: Παραμένει στην εντατική με βαριά πνευμονία, θα νοσηλευτεί για 15 μέρες ακόμη",
-          "link": "https://www.protothema.gr/greece/article/1763120/sia-kosioni-paramenei-stin-edatiki-me-varia-pneumonia-tha-nosileutei-gia-15-meres-akomi/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 16:25:00 +0200",
-          "description": "Η δημοσιογράφος μεταφέρθηκε στο νοσοκομείο την Πέμπτη μετά από αδιαθεσία και δυσκολία στην αναπνοή",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-05-21/sia-kosioni.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Συνέδριο Νέας Αριστεράς: Η ρήξη αναβάλλεται – Αλλά για πόσο;  ",
+          "link": "https://www.naftemporiki.gr/politics/2063632/synedrio-neas-aristeras-i-rixi-anavalletai-alla-gia-poso/?utm_source=rss&utm_medium=rss&utm_campaign=synedrio-neas-aristeras-i-rixi-anavalletai-alla-gia-poso",
+          "pubDate": "Sun, 25 Jan 2026 16:09:36 +0000",
+          "description": "Με μία συμβιβαστική πολιτική πρόταση το Συνέδριο της Νέας Αριστεράς απέφυγε τον κίνδυνο της ρήξης που ήταν ορατός από την έναρξη των εργασιών και ανέβαλε το οριστικό ξεκαθάρισμα.\nΣυνέδριο Νέας Αριστεράς: Η ρήξη αναβάλλεται – Αλλά για πόσο;   - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Συμβιβασμός στο Συνέδριο της Νέας Αριστεράς",
           "link": "https://www.naftemporiki.gr/politics/2063618/symvivasmos-sto-synedrio-tis-neas-aristeras/?utm_source=rss&utm_medium=rss&utm_campaign=symvivasmos-sto-synedrio-tis-neas-aristeras",
@@ -484,14 +492,6 @@
           "pubDate": "Sat, 24 Jan 2026 15:25:09 +0000",
           "description": "Ο Γ. Γεραπετρίτης δήλωσε πως η Ελλάδα στηρίζει τις πρωτοβουλίες για ειρήνη και πιστεύει στην πολυμερή διπλωματία, ενώ διατηρεί διαρκή συνεργασία με τους Ευρωπαίους εταίρους και συμμάχους της για το Συμβούλιο Ειρήνης.",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/gerapetritis-e1758222954124-1024x768.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Αποστολή στην Τουρκία με χαμηλές προσδοκίες",
-          "link": "https://www.tanea.gr/print/2026/01/24/politics/apostoli-stin-tourkia-crme-xamiles-prosdokies/",
-          "pubDate": "Sat, 24 Jan 2026 15:06:00 +0000",
-          "description": "Στην τελική φάση οι συνεννοήσεις για τη συνάντηση Μητσοτάκη - Ερντογάν",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2024/07/6270970.jpg",
           "source": "Τα Νέα"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Αρης - Λεβαδειακός 2-2: Ορθιος και στο «Βικελίδης» με γκολάρα Κωστή στο 93' (Vids)",
+          "link": "https://www.gazzetta.gr/football/superleague/2510083/aris-lebadeiakos-2-2-orthios-kai-sto-bikelidis-me-gkolara-kosti-sto-93",
+          "pubDate": "Sun, 25 Jan 2026 18:07:18 +0200",
+          "description": "Με πανέμορφο γκολ του Κωστή στις καθυστερήσεις ο Λεβαδειακός πήρε ισοπαλία 2-2 από τον ανώτερο Αρη, διατήρησε τη διαφορά τους στο +13 και συνεχίζει αλύγιστος την πορεία του προς την... Ευρώπη!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kosti_-_levadiakos.jpg?itok=63MZ6dBv",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άρης – Λεβαδειακός 2-2: «Σοκ» για τους Θεσσαλονικείς στις καθυστερήσεις, οι Βοιωτοί απέφυγαν την ήττα με γκολ του Κωστή",
+          "link": "https://www.newsit.gr/athlitika/aris-levadeiakos-2-2-sok-gia-tous-thessalonikeis-stis-kathysteriseis-oi-voiotoi-apefygan-tin-itta-me-gkol-tou-kosti/4583063/",
+          "pubDate": "Sun, 25 Jan 2026 16:03:56 +0000",
+          "description": "Ο Άρης κρατούσε στα χέρια του μια σημαντική νίκη, αλλά ο Λεβαδειακός πήρε την ισοπαλία στο “Βικελίδης” (2-2) ισοφαρίζοντας με τον Ιωάννη Κωστή στο 3ο ...  \nTo άρθρο Άρης – Λεβαδειακός 2-2: «Σοκ» για τους Θεσσαλονικείς στις καθυστερήσεις, οι Βοιωτοί απέφυγαν την ήττα με γκολ του Κωστή δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lebadeiakos-aris-eurokinissi.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Premier League: Τριάρα για Τσέλσι,  διπλά για Νότιγχαμ και Άστον Βίλα",
           "link": "https://www.gazzetta.gr/football/premier-league/2510082/premier-league-triara-gia-tselsi-dipla-gia-notigham-kai-aston-bila",
           "pubDate": "Sun, 25 Jan 2026 18:03:31 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 16:41:07 +0200",
           "description": "Ο προπονητής του Ολυμπιακού Γιώργος Μπαρτζώκας στη συνέντευξη Τύπου αναφέρθηκε στην κατάσταση του Ταϊρίκ Τζόουνς, ενώ υποκλίθηκε στον Γουόρντ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/5003384.jpg?itok=15a_uyu4",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Έσπασε» η Ευαγγελία Μουμούρη που υποδύθηκε στο «Ριφιφί» τη μητέρα του Παναγιώτη: «Γιατί μου το κάνατε αυτό;» (vid)",
-          "link": "https://www.gazzetta.gr/plus/2510029/espase-i-eyaggelia-moymoyri-poy-ypodythike-sto-rififi-ti-mitera-toy-panagioti-giati",
-          "pubDate": "Sun, 25 Jan 2026 16:29:00 +0200",
-          "description": "Η συγκίνηση της Ευαγγελίας Μουμούρη στην εκπομπή της Ναταλίας Γερμανού.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/moumouri-alpha.jpg?itok=y0VdqvI0",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "WRC: Θρίαμβος του Σόλμπεργκ και κυριαρχία της Toyota στο Μόντε Κάρλο",
-          "link": "https://www.gazzetta.gr/gmotion/2510047/wrc-thriambos-toy-solmpergk-kai-kyriarhia-tis-toyota-sto-monte-karlo",
-          "pubDate": "Sun, 25 Jan 2026 16:27:53 +0200",
-          "description": "Σε έναν αγώνα που θύμισε άλλες εποχές λόγω των ακραίων συνθηκών, ο Όλιβερ Σόλμπεργκ παρέδωσε σεμινάριο οδήγησης στον πάγο, οδηγώντας την Toyota σε ένα ιστορικό 1-2-3.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/solberg2_monte.jpg?itok=CFlCsHux",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Intel Nova Lake: Επίσημη κυκλοφορία στα τέλη του 2026 με 52 πυρήνες και απάντηση στην 3D V-Cache της AMD",
+          "link": "https://gr.pcmag.com/processors/51114/intel-nova-lake-episeme-kuklophoria-sta-tele-tou-2026-me-52-purenes-kai-apantese-sten-3d-v-cache-tes",
+          "pubDate": "Sun, 25 Jan 2026 16:05:54 +0000",
+          "description": "Ο CEO της Intel επιβεβαίωσε την άφιξη των επεξεργαστών Core Ultra Series 4, η οποία φέρνει τη νέα αρχιτεκτονική Coyote Cove, το socket LGA-1954 και το πολυαναμενόμενο Big Last Level Cache για κορυφαίες επιδόσεις στο gaming.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/i/intel-conf/intel-confirms-nova-lake-core-ultra-400-cpus-launching-this_2qdg.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "Συναγερμός στην Asus για «νεκρούς» Ryzen 7 9800X3D: Ξεκινά εσωτερική έρευνα",
           "link": "https://gr.pcmag.com/processors/51113/sunagermos-sten-asus-gia-nekrous-ryzen-7-9800x3d-ksekina-esoterike-ereuna",
           "pubDate": "Sun, 25 Jan 2026 15:38:09 +0000",
@@ -1468,14 +1476,6 @@
           "pubDate": "Fri, 23 Jan 2026 15:02:00 +0200",
           "description": "Είναι ίσως η πιο συνηθισμένη εικόνα σε μια πτήση: Το πλήρωμα καμπίνας περνάει στον διάδρομο και οι επιβάτες, κουρασμένοι από την αναμονή στο ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/airplane-coffee.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "«Αδύνατα» μόρια: Η ανακάλυψη στο UCLA που καταρρίπτει κανόνα 100 ετών της Χημείας",
-          "link": "https://www.techgear.gr/adynata-moria-i-anakalypsi-sto-ucla-poy-katarriptei-kanona-100-eton-tis-chimeias-47302",
-          "pubDate": "Fri, 23 Jan 2026 14:53:00 +0200",
-          "description": "Στα αμφιθέατρα της Χημείας σε όλο τον κόσμο, οι φοιτητές μαθαίνουν νωρίς ότι ορισμένοι κανόνες είναι απαράβατοι. Ένας από αυτούς, ο «Κανόνας του ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/chemistry-bond.jpg",
           "source": "Techgear"
         }
       ]
