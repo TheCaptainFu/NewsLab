@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T22:15:29.392Z",
+  "lastUpdated": "2026-01-25T22:20:27.171Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -55,6 +55,14 @@
           "description": "Ο θάνατος του Άλεξ Πρέτι, του 37χρονου Αμερικανού νοσηλευτή που σκοτώθηκε από ομοσπονδιακούς πράκτορες στη Μινεάπολη το Σάββατο (24.01.2026), πυροδοτεί έντονη πολιτική αντιπαράθεση στις ΗΠΑ. ...  \nTo άρθρο ΗΠΑ: Πολέμιοι της οπλοκατοχής μετά τον θάνατο του Άλεξ Πρέτι οι Ρεπουμπλικανοί, υπέρμαχοι τώρα οι Δημοκρατικοί δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alex-pretti-minneapolis-1200x764.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Πιστή στο ζλότι παραμένει η Πολωνία – Γιατί ο Τουσκ αρνείται το ευρώ",
+          "link": "https://www.in.gr/2026/01/26/economy/diethnis-oikonomia/pisti-sto-zloti-paramenei-polonia-giati-o-tousk-arneitai-eyro/",
+          "pubDate": "Mon, 26 Jan 2026 00:15:23 +0300",
+          "description": "Σύμφωνα με τις προβλέψεις της Ευρωπαϊκής Επιτροπής, η οικονομία στην Πολωνία αναμένεται να αναπτυχθεί κατά 3,5% φέτος, σε σύγκριση με την πρόβλεψη για ανάπτυξη 1,2% στην ευρωζώνη.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2025-12-30T120539Z_921424438_RC2VIIAWNXL1_RTRMADP_5_UKRAINE-CRISIS-POLAND-768x513.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Νέο κύμα κακοκαιρίας με βροχές και καταιγίδες από το πρωί της Δευτέρας, θα πληγεί και η Αττική, «Red Code» για έξι περιφέρειες",
@@ -238,14 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 23:19:39 +0300",
           "description": "Μετά από έκτακτη συνεδρίαση της Επιτροπής Εκτίμησης Κινδύνου στην Πολιτική Προστασία σήμανε συναγερμός για επικίνδυνα καιρικά φαινόμενα σε Σέρρες, Δράμα, Καβάλα, Θάσο, Ξάνθη και Ροδόπη",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/094781de-sa.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "ΗΠΑ: Επτά νεκροί λόγω ψύχους – Η κακοκαιρία Fern παρέλυσε το μεγαλύτερο μέρος της χώρας",
-          "link": "https://www.in.gr/2026/01/25/world/ipa-epta-nekroi-logo-psyxous-kakokairia-fern-parelyse-megalytero-meros-tis-xoras/",
-          "pubDate": "Sun, 25 Jan 2026 23:10:10 +0300",
-          "description": "Η αρκτική κακοκαιρία Fern στις ΗΠΑ έχει φέρει χιονοπτώσεις, χιονόνερο και θερμοκρασίες υπό το μηδέν, ενώ έχει ήδη προκαλέσει επτά θανάτους. Τεράστια προβλήματα στις μετακινήσεις και την ηλεκτροδότηση.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T144529Z_1330611985_RC2E8JAMPKHX_RTRMADP_5_USA-WEATHER-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -549,6 +549,14 @@
           "source": "Euronews"
         },
         {
+          "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
+          "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 18:48:27 GMT",
+          "description": "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2e/live/179de690-fa05-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Venezuela frees dozens of political prisoners, human rights group says",
           "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 18:29:57 GMT",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-meshmbrino-deltio",
           "pubDate": "Sun, 25 Jan 2026 12:00:19 +0100",
           "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Αλβανία: Σοβαρά επεισόδια σε αντικυβερνητική διαδήλωση στα Τίρανα (φωτο)",
-          "link": "http://gr.euronews.com/2026/01/25/alvania-sovara-epeisodia-antikuvernhtikh-diadhlwsh-tirana-foto",
-          "pubDate": "Sun, 25 Jan 2026 11:40:23 +0100",
-          "description": "Χιλιάδες κόσμου έδωσαν το παρών στην κινητοποίηση, φωνάζοντας οργισμένα συνθήματα και καταγγέλλοντας φαινόμενα διαφθοράς",
           "thumbnail": null,
           "source": "Euronews"
         }
