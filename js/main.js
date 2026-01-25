@@ -441,7 +441,7 @@ function updateCacheTimeDisplay(lastUpdated) {
     
     cacheInfo = document.createElement('div');
     cacheInfo.id = 'cacheInfo';
-    cacheInfo.className = 'text-center text-zinc-500 text-xs py-2';
+    cacheInfo.className = 'text-center text-zinc-500 text-xs pb-8';
     
     // Calculate time since last update
     const now = Date.now();
@@ -450,7 +450,7 @@ function updateCacheTimeDisplay(lastUpdated) {
     const timeAgoText = minutesAgo < 1 ? 'μόλις τώρα' : `πριν ${minutesAgo} λεπτό${minutesAgo !== 1 ? 'ά' : ''}`;
     
     cacheInfo.innerHTML = `
-        🤖 Τελευταία ενημέρωση: ${cachedDate.toLocaleString('el-GR')} (${timeAgoText}) | 
+         Τελευταία ενημέρωση: ${cachedDate.toLocaleString('el-GR')} (${timeAgoText}) | 
         <span id="nextRefreshCountdown">Επόμενη ανανέωση σε 5:00</span>
     `;
     container.insertAdjacentElement('beforebegin', cacheInfo);
