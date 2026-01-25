@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T03:30:34.240Z",
+  "lastUpdated": "2026-01-25T03:35:25.311Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -441,6 +441,13 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Video shows moments around fatal shooting in Minneapolis",
+          "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 03:34:28 GMT",
+          "description": "Officials identified the man who was shot as 37-year-old Alex Pretti, a nurse and US citizen.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/945f/live/39d5bef0-f973-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
           "title": "What India's Republic Day red carpet means for its foreign policy",
           "link": "https://www.bbc.com/news/articles/c9wxx29yknpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 02:03:04 GMT",
@@ -481,13 +488,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:10:33 GMT",
           "description": "It comes as tensions appear to have escalated between Trump and Canadian Prime Minister Mark Carney.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef43/live/2a5f94f0-f937-11f0-814e-71ff186d4f46.jpg"
-        },
-        {
-          "title": "Video shows moments around fatal shooting in Minneapolis",
-          "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Jan 2026 21:51:00 GMT",
-          "description": "Officials identified the man who was shot as 37-year-old Alex Pretti, a nurse and US citizen.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/945f/live/39d5bef0-f973-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
           "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
