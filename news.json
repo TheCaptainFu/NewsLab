@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T17:30:34.908Z",
+  "lastUpdated": "2026-01-25T17:35:27.759Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,30 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Εθνική πόλο ανδρών: Αυτά είναι τα μετάλλια της Ελλάδας μετά την κατάκτηση του χάλκινου στο ευρωπαϊκό",
+          "link": "https://www.newsit.gr/athlitika/ethniki-polo-andron-ayta-einai-ta-metallia-tis-elladas-meta-tin-kataktisi-tou-xalkinou-sto-eyropaiko/4583180/",
+          "pubDate": "Sun, 25 Jan 2026 17:33:34 +0000",
+          "description": "Η Εθνική πόλο ανδρών κατέκτησε το πρώτο της μετάλλιο σε Ευρωπαϊκό πρωτάθλημα και… έσπασε την κατάρα που την κυνηγούσε στη διοργάνωση! Η γαλανόλευκη διέλυσε με ...  \nTo άρθρο Εθνική πόλο ανδρών: Αυτά είναι τα μετάλλια της Ελλάδας μετά την κατάκτηση του χάλκινου στο ευρωπαϊκό δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ethniki-polo-2-eurokinissi-1200x760.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Γιώργος Μαζωνάκης: Κόπηκε ο ήχος στο μαγαζί που εμφανίζεται – Η αντίδραση του τραγουδιστή",
+          "link": "https://www.newsit.gr/lifestyle/giorgos-mazonakis-kopike-o-ixos-sto-magazi-pou-emfanizetai-i-antidrasi-tou-tragoudisti/4583107/",
+          "pubDate": "Sun, 25 Jan 2026 17:33:04 +0000",
+          "description": "Με ένα απρόσμενο τεχνικό ζήτημα ήρθε αντιμέτωπος ο Γιώργος Μαζωνάκης το βράδυ του Σαββάτου (25.01.2026) στο νυχτερινό κέντρο, όπου εμφανίζεται με επιτυχία στην Αθήνα. Ενώ ...  \nTo άρθρο Γιώργος Μαζωνάκης: Κόπηκε ο ήχος στο μαγαζί που εμφανίζεται – Η αντίδραση του τραγουδιστή δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-mazonakis-ndp-3-1200x743.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Θρήνος στην Πάτρα: Λουλούδια και κεριά άφησαν συγγενείς και φίλοι στο σημείο όπου σκοτώθηκαν ο 19χρονος και η 17χρονη, βίντεο και φωτογραφίες",
+          "link": "https://www.protothema.gr/greece/article/1763175/thrinos-gia-ton-hamo-tou-nikou-kai-tis-aggelikis-apo-trohaio-stin-patra-deite-fotografies/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 19:32:00 +0200",
+          "description": "Οι δύο νέοι άνθρωποι σκοτώθηκαν το βράδυ του Σαββάτου σε τροχαίο στην περιοχή της Παραλίας, όταν το αυτοκίνητο που οδηγούσε ο πρώτος εξετράπη της πορείας του και καρφώθηκε σε κολώνα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/patra-thrinos-xrm.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ιταλία – Ελλάδα 5-12: Ιστορικό χάλκινο μετάλλιο για την Εθνική πόλο ανδρών στο ευρωπαϊκό με ανεπανάληπτο Ζερδεβά",
           "link": "https://www.newsit.gr/athlitika/italia-ellada-5-12-istoriko-xalkino-metallio-gia-tin-ethniki-polo-andron-sto-eyropaiko-me-anepanalipto-zerdeva/4583062/",
@@ -223,30 +247,6 @@
           "description": "Ο ηλικιωμένος νοσηλευόταν σε κρίσιμη κατάσταση στο Ιπποκράτειο, μετά την πτώση του σήμερα το μεσημέρι στην Τούμπα",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-07/ekab12.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Τραγωδία στα Κρέστενα: Νεκρή 74χρονη που πήγε να μαζέψει μανταρίνια – Έπεσε και σκοτώθηκε",
-          "link": "https://www.newsit.gr/ellada/tragodia-sta-krestena-nekri-74xroni-pou-pige-na-mazepsei-mantarinia-epese-kai-skotothike/4583080/",
-          "pubDate": "Sun, 25 Jan 2026 16:14:48 +0000",
-          "description": "Τραγικό θάνατο βρήκε μια 74χρονη στο χωριό Καλυβάκια του Δήμου Ανδρίτσαινας Κρεστένων το Σάββατο (25.01.2026), όταν πήγε να μαζέψει μανταρίνια. Η γυναίκα από τα Κρέστενα, ...  \nTo άρθρο Τραγωδία στα Κρέστενα: Νεκρή 74χρονη που πήγε να μαζέψει μανταρίνια – Έπεσε και σκοτώθηκε δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/asthenoforo-5-1200x675.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Χρήστος Σαντικάι: Δούλευα βοηθός σερβιτόρου στα μαγαζιά που τραγουδούσε ο Νίκος Οικονομόπουλος",
-          "link": "https://www.newsit.gr/lifestyle/xristos-santikai-douleya-voithos-servitorou-sta-magazia-pou-tragoudouse-o-nikos-oikonomopoulos/4583086/",
-          "pubDate": "Sun, 25 Jan 2026 16:13:25 +0000",
-          "description": "Ο Χρήστος Σαντικάι μίλησε για τα φτωχικά παιδικά του χρόνια, τονίζοντας ότι ως μετανάστες από την Αλβανία τα πράγματα ήταν δύσκολα για εκείνον και την ...  \nTo άρθρο Χρήστος Σαντικάι: Δούλευα βοηθός σερβιτόρου στα μαγαζιά που τραγουδούσε ο Νίκος Οικονομόπουλος δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xristos-santikai-ndp-1200x748.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Όλα πανηγύρια είναι: Ο Ματθαίος Γιαννούλης για την απώλεια βάρους, τις συναυλίες και το «Κελί 33»",
-          "link": "https://www.in.gr/2026/01/25/go-fun/tv/ola-panigyria-einai-o-matthaios-giannoulis-gia-tin-apoleia-varous-tis-synaylies-kai-keli-33/",
-          "pubDate": "Sun, 25 Jan 2026 19:10:30 +0300",
-          "description": "«Είχα κουραστεί να πηγαίνω στα μαγαζιά και να μην μπορώ να κινηθώ και να κουράζομαι στην πίστα», δήλωσε μεταξύ άλλων ο Ματθαίος Γιαννούλης σε πρόσφατη συνέντευξή του",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/AS2A6076-1-768x607.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Το τρολάρισμα του Μητσοτάκη σε σκιέρ με «ανήσυχο» πατέρα στα Καλάβρυτα – «Γύρνα το σε snowboard»",
+          "link": "https://www.naftemporiki.gr/politics/2063653/to-trolarisma-toy-mitsotaki-se-skier-me-anisycho-patera-sta-kalavryta-gyrna-to-se-snowboard/?utm_source=rss&utm_medium=rss&utm_campaign=to-trolarisma-toy-mitsotaki-se-skier-me-anisycho-patera-sta-kalavryta-gyrna-to-se-snowboard",
+          "pubDate": "Sun, 25 Jan 2026 17:33:37 +0000",
+          "description": "Μια χιουμοριστική στιχομυθία εκτυλίχθηκε στα social media με φόντο το χιονοδρομικό κέντρο των Καλαβρύτων και πρωταγωνιστές έναν TikToker, τον πατέρα του και τον Κυριάκο Μητσοτάκη.\nΤο τρολάρισμα του Μητσοτάκη σε σκιέρ με «ανήσυχο» πατέρα στα Καλάβρυτα – «Γύρνα το σε snowboard» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Συνέδριο Νέας Αριστεράς: Η ρήξη αναβάλλεται – Αλλά για πόσο;  ",
           "link": "https://www.naftemporiki.gr/politics/2063632/synedrio-neas-aristeras-i-rixi-anavalletai-alla-gia-poso/?utm_source=rss&utm_medium=rss&utm_campaign=synedrio-neas-aristeras-i-rixi-anavalletai-alla-gia-poso",
@@ -484,14 +492,6 @@
           "pubDate": "Sat, 24 Jan 2026 15:56:00 +0000",
           "description": "Τα κρίσιμα συνέδρια, η επιστροφή Τσίπρα, το νέο τοπίο που δημιουργείται",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/m_m048491736499312.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Συνέδριο ΚΚΕ σε ρευστό πολιτικό τοπίο",
-          "link": "https://www.tanea.gr/print/2026/01/24/greece/synedrio-kke-se-reysto-politiko-topio/",
-          "pubDate": "Sat, 24 Jan 2026 15:52:00 +0000",
-          "description": "Ο Περισσός αναζητά τους όρους καλύτερης θωράκισής του, επικοινωνίας και σύμπραξης με τα λαϊκά στρώματα, ανανέωσης του στελεχικού του δυναμικού",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2023/02/5803870.jpg",
           "source": "Τα Νέα"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ατρόμητος - Παναθηναϊκός: Ο Αντίνο βρίσκεται στο Περιστέρι",
+          "link": "https://www.gazzetta.gr/football/superleague/2510115/atromitos-panathinaikos-o-antino-brisketai-sto-peristeri",
+          "pubDate": "Sun, 25 Jan 2026 19:33:55 +0200",
+          "description": "Ο Σαντίνο Αντίνο είναι στο Περιστέρι για να παρακολουθήσει το ματς του Παναθηναϊκού με τον Ατρόμητο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/santino_antino_1_0.jpg?itok=K2VS_Dau",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Εθνική πόλο ανδρών: Αυτά είναι τα μετάλλια της Ελλάδας μετά την κατάκτηση του χάλκινου στο ευρωπαϊκό",
+          "link": "https://www.newsit.gr/athlitika/ethniki-polo-andron-ayta-einai-ta-metallia-tis-elladas-meta-tin-kataktisi-tou-xalkinou-sto-eyropaiko/4583180/",
+          "pubDate": "Sun, 25 Jan 2026 17:33:34 +0000",
+          "description": "Η Εθνική πόλο ανδρών κατέκτησε το πρώτο της μετάλλιο σε Ευρωπαϊκό πρωτάθλημα και… έσπασε την κατάρα που την κυνηγούσε στη διοργάνωση! Η γαλανόλευκη διέλυσε με ...  \nTo άρθρο Εθνική πόλο ανδρών: Αυτά είναι τα μετάλλια της Ελλάδας μετά την κατάκτηση του χάλκινου στο ευρωπαϊκό δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ethniki-polo-2-eurokinissi-1200x760.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "ΟΦΗ - Παναιτωλικός: Ο Σαλσέδο με πέναλτι άνοιξε το σκορ",
           "link": "https://www.gazzetta.gr/football/superleague/2510114/ofi-panaitolikos-o-salsedo-me-penalti-anoixe-skor",
           "pubDate": "Sun, 25 Jan 2026 19:24:23 +0200",
@@ -894,7 +910,7 @@
           "title": "Απίστευτο! Φίλαθλος μπούκαρε στο γήπεδο της Αταλάντα σε χρόνο ρεκόρ (vid)",
           "link": "https://www.gazzetta.gr/football/champions-league/2510101/apisteyto-filathlos-mpoykare-sto-gipedo-tis-atalanta-se-hrono",
           "pubDate": "Sun, 25 Jan 2026 18:45:14 +0200",
-          "description": "Βρετανός οπαδός της Αταλάντα μπήκε στο γήπεδο για αγώνα Champions League σπάζοντας τον κωδικό της πύλης του σταδίου μέσα σε δευτερόλεπτα.",
+          "description": "Βρετανός οπαδός της Αταλάντα μπήκε στο γήπεδο σπάζοντας τον κωδικό της πύλης του σταδίου μέσα σε δευτερόλεπτα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/atalanta.jpg?itok=mRt_84-7",
           "source": "Gazzetta"
         },
@@ -969,22 +985,6 @@
           "description": "Ο Κροάτης Μάρκο Σέντλατσεκ είναι που έφτασε στην Ελλάδα για λογαριασμό της ομάδας του Ολυμπιακού.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_meta1_1.jpg?itok=UqTUPZ7n",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Premier League: Νίκες για Τσέλσι και Νότιγχαμ Φόρεστ, μεγάλο διπλό από την Άστον Βίλα",
-          "link": "https://www.newsit.gr/athlitika/premier-league-nikes-gia-tselsi-kai-notigxam-forest-megalo-diplo-apo-tin-aston-vila/4583094/",
-          "pubDate": "Sun, 25 Jan 2026 16:23:13 +0000",
-          "description": "Η Τσέλσι πήρε την τρίτη σερί νίκη της, με το 3-1 στην έδρα της Κρίσταλ Πάλας και πλησίασε την πρώτη 4άδα της βαθμολογίας στην Premier ...  \nTo άρθρο Premier League: Νίκες για Τσέλσι και Νότιγχαμ Φόρεστ, μεγάλο διπλό από την Άστον Βίλα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/enzo-1200x833.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Λυκογιάννης: «Βρισκόμαστε στη σωστή κατεύθυνση»",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510091/lykogiannis-briskomaste-sti-sosti-kateythynsi",
-          "pubDate": "Sun, 25 Jan 2026 18:21:51 +0200",
-          "description": "Ο προπονητής του Κολοσσού Άρης Λυκογιάννης αναφέρθηκε στην εικόνα της ομάδας του κόντρα στον Ολυμπιακό και στην προοπτική περαιτέρω βελτίωσης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/5003385.jpg?itok=AqXmCPU3",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -1047,6 +1047,14 @@
           "description": "Ένα σχήμα με ισορροπία, ένταση και συγκεκριμένους ρόλους σε όλες τις γραμμές για μια απαιτητική εκτός έδρας δοκιμασία Με ξεκάθαρη στόχευση και συγκεκριμένη αγωνιστική λογική παρατάχθηκε ο Παναθηναϊκός στο παιχνίδι της 18ης αγωνιστικής της Super League απέναντι στον Ατρόμητο, με τον Ράφα Μπενίτεθ να προχωρά σε επιλογές που δείχνουν έμφαση στη συνοχή και στη λειτουργία […]\nThe post Παναθηναϊκός: Με έκπληξη στην ενδεκάδα κόντρα στον Ατρόμητο! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/endekada.jpg",
           "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "«Καθάρισε» το Μαρούσι, με… σοβαρό δεύτερο ημίχρονο ο Παναθηναϊκός",
+          "link": "https://trifilara.gr/katharise-to-marousi-me-sovaro-deftero-imichrono-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=katharise-to-marousi-me-sovaro-deftero-imichrono-o-panathinaikos",
+          "pubDate": "Sun, 25 Jan 2026 16:40:06 +0000",
+          "description": "Το παιχνίδι στο ΟΑΚΑ ξεκίνησε με τρόπο που κανείς στο στρατόπεδο του Παναθηναϊκού δεν θα ήθελε, καθώς το Μαρούσι μπήκε με ένταση, καθαρό πλάνο και ένα γρήγορο σερί 6-0 που έβαλε από νωρίς πίεση στους «πράσινους». Το «Τριφύλλι» εμφανίστηκε νευρικό, με κακές αποστάσεις στην επίθεση και σημαντική αστοχία, στοιχεία που έδωσαν την ευκαιρία στους φιλοξενούμενους […]\nThe post «Καθάρισε» το Μαρούσι, με… σοβαρό δεύτερο ημίχρονο ο Παναθηναϊκός appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Η ενδεκάδα του Παναθηναϊκού κόντρα στον Ατρόμητο",
@@ -1135,14 +1143,6 @@
           "description": "Ο Εργκίν Αταμάν σχολίασε τα όσα έγιναν στην αναμέτρηση του Παναθηναϊκού με το Μαρούσι, στα πλαίσια της 16ης αγωνιστικής της GBL! Όσα είπε ο Τούρκος: «Μετά το κακό ξεκίνημα και τον χαμηλό ρυθμό, αντιδράσαμε στο δεύτερο ημίχρονο, ελέγξαμε το παιχνίδι, παίξαμε επιθετικά. Μετά από μια δύσκολη «διπλή εβδομάδα» πήραμε μια καθαρή νίκη και συνεχίζουμε. Ελπίζω […]\nThe post Το πρώτο σχόλιο του Αταμάν μετά το Παναθηναϊκός – Μαρούσι appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Ataman-1-3.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "«Καθάρισε» το Μαρούσι, με… σοβαρό δεύτερο ημίχρονο ο Παναθηναϊκός",
-          "link": "https://trifilara.gr/katharise-to-marousi-me-sovaro-deftero-imichrono-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=katharise-to-marousi-me-sovaro-deftero-imichrono-o-panathinaikos",
-          "pubDate": "Sun, 25 Jan 2026 15:38:06 +0000",
-          "description": "Το παιχνίδι στο ΟΑΚΑ ξεκίνησε με τρόπο που κανείς στο στρατόπεδο του Παναθηναϊκού δεν θα ήθελε, καθώς το Μαρούσι μπήκε με ένταση, καθαρό πλάνο και ένα γρήγορο σερί 6-0 που έβαλε από νωρίς πίεση στους «πράσινους». Το «Τριφύλλι» εμφανίστηκε νευρικό, με κακές αποστάσεις στην επίθεση και σημαντική αστοχία, στοιχεία που έδωσαν την ευκαιρία στους φιλοξενούμενους […]\nThe post «Καθάρισε» το Μαρούσι, με… σοβαρό δεύτερο ημίχρονο ο Παναθηναϊκός appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         },
         {
           "title": "Με Σλούκα «μαέστρο» και Σορτς – Τολιόπουλο διψήφιους ο Παναθηναϊκός κέρδισε άνετα το Μαρούσι",
