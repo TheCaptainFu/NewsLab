@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T15:20:26.175Z",
+  "lastUpdated": "2026-01-25T15:25:23.795Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Φρίκη στην Μεσσηνία: Σκότωσαν σκύλο και τον κρέμασαν σε δέντρο",
+          "link": "https://www.protothema.gr/greece/article/1763146/friki-stin-messinia-skotosan-skulo-kai-ton-kremasan-se-dedro/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 17:21:00 +0200",
+          "description": "Σε ανάρτησή του ο Φιλοζωικός Όμιλος Καλαμάτας έκανε γνωστό ότι δίνεται αμοιβή για πληροφορίες σχετικά με την αποτρόπαια αυτή πράξη",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/png/files/2021-09-28/skulos.png",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Η Ευαγγελία Μουμούρη συγκινήθηκε on air με ένα τραγούδι – Η αποκάλυψη που έκανε για το «Ριφιφί»",
           "link": "https://www.newsit.gr/lifestyle/i-eyaggelia-moumouri-sygkinithike-on-air-me-ena-tragoudi-i-apokalypsi-pou-ekane-gia-to-rififi/4583048/",
@@ -18,7 +26,7 @@
         },
         {
           "title": "Η διαδρομή του πατροκτόνου από τη φυλακή για τη δολοφονία της μητέρας του μέχρι την εισαγωγή του στο Δρομοκαΐτειο και το εξιτήριο",
-          "link": "https://www.protothema.gr/greece/article/1763133/eglima/?utm_source=rss",
+          "link": "https://www.protothema.gr/greece/article/1763133/i-diadromi-tou-patroktonou-apo-ti-fulaki-gia-ti-dolofonia-tis-miteras-tou-mehri-tin-eisagogi-tou-sto-dromokaiteio/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 17:17:00 +0200",
           "description": "Ο δράστης της δολοφονίας στη Γλυφάδα κρατούνταν από τις 2 Απριλίου 2014, για την ανθρωποκτονία της μητέρας του, τότε, και είχε καταδικαστεί σε συνολική ποινή κάθειρξης 16 ετών - Με βάση το αποφυλακιστήριό του, βγήκε με ευεργετική διάταξη του νόμου Παρασκευόπουλου",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/glyfada45-xrm.jpg",
@@ -97,6 +105,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Λαμία: Μεθυσμένοι Ρομά κλέβουν τα ψώνια σε σούπερ μάρκετ και παραλίγο να τρακάρουν φεύγοντας με το αυτοκίνητό τους",
+          "link": "https://www.in.gr/2026/01/25/greece/lamia-methysmenoi-roma-klevoun-ta-psonia-se-souper-market-kai-paraligo-na-trakaroun-feygontas-aytokinito-tous/",
+          "pubDate": "Sun, 25 Jan 2026 17:19:57 +0300",
+          "description": "Οι δύο άνδρας Ρομά στη Λαμία άρπαξαν τις σακούλες με τα ψώνια και έφυγαν χωρίς να πληρώσουν - Μπήκαν στο αυτοκίνητο και παραλίγο να συγκρουστούν με διερχόμενο ΙΧ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/klopesm003-600x400.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Συνοδική Θεία Λειτουργία στα Τίρανα για τον έναν χρόνο από την εκδημία του Αρχιεπισκόπου Αλβανίας Αναστάσιου",
           "link": "https://www.protothema.gr/greece/article/1763112/sunodiki-theia-leitourgia-gia-ton-enan-hrono-apo-tin-ekdimia-tou-arhiepiskopou-alvanias-anastasiou/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 16:12:00 +0200",
@@ -117,7 +133,7 @@
           "link": "https://www.in.gr/2026/01/25/greece/glyfada-sygklonizoun-oi-martyries-gia-ton-46xrono-patroktono-eixe-sxediasei-opos-eixe-kanei-kai-ti-mitera-tou/",
           "pubDate": "Sun, 25 Jan 2026 17:07:54 +0300",
           "description": "« Είχε σκοπό να κάνει αυτό που είχε κάνει και στο παρελθόν» λένε συγγενείς του 46χρονου που σκότωσε τον 80χρονο πατέρα του στη Γλυφάδα - Τον Μάρτιο του 2014 είχε κατακρεουργήσει τη  μητέρα του",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/gli_fff-768x424.jpg",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6824355-768x512.jpg",
           "source": "In.gr"
         },
         {
@@ -161,7 +177,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "ΗΠΑ: Σε κατάσταση έκτακτη ανάγκης 17 Πολιτείες λόγω κακοκαιρίας – 800.000 νοικοκυριά χωρίς ρεύμα",
+          "title": "ΗΠΑ: Σε κατάσταση έκτακτης ανάγκης 17 Πολιτείες λόγω κακοκαιρίας – 800.000 νοικοκυριά χωρίς ρεύμα",
           "link": "https://www.in.gr/2026/01/25/world/ipa-se-katastasi-ektakti-anagkis-17-politeies-logo-kakokairias-670-000-noikokyria-xoris-reyma/",
           "pubDate": "Sun, 25 Jan 2026 16:52:23 +0300",
           "description": "Τεράστια είναι τα προβλήματα από την κακοκαιρία Fern που πλήττει τις ΗΠΑ. Εκατοντάδες χιλιάδες Αμερικανοί είναι χωρίς ρεύμα, ενώ χιόνι, χιονόνερο και παγωνιά σαρώνουν τη χώρα. Χιλιάδες πτήσεις ακυρώθηκαν.",
@@ -231,22 +247,6 @@
           "description": "Η αμερικανική κυβέρνηση συγκεντρώνει όλο και μεγαλύτερη δημόσια προσοχή με τα αμφιλεγόμενα memes και moto που υιοθετεί.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/himmler-in.gr_-768x511.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Συντάξεις Φεβρουαρίου 2026: Αυτή τη βδομάδα η καταβολή τους – Πως διαμορφώνονται τα ποσά",
-          "link": "https://www.newsit.gr/oikonomia/xristika/syntakseis-fevrouariou-2026-ayti-ti-vdomada-i-katavoli-tous-pos-diamorfonontai-ta-posa/4581775/",
-          "pubDate": "Sun, 25 Jan 2026 13:30:00 +0000",
-          "description": "Αυξημένες κατά 2,4% θα είναι οι συντάξεις του Φεβρουαρίου που θα καταβληθούν αυτή τη βδομάδα, σύμφωνα με τον προγραμματισμό του e-ΕΦΚΑ και με διαχωρισμό σε ...  \nTo άρθρο Συντάξεις Φεβρουαρίου 2026: Αυτή τη βδομάδα η καταβολή τους – Πως διαμορφώνονται τα ποσά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1452873495-1-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": " Συνεδρίασε η Επιτροπή Εκτίμησης Κινδύνου για το νέο κύμα κακοκαιρίας, συστάσεις από της Πολιτικής Προστασίας\n",
-          "link": "https://www.protothema.gr/greece/article/1763097/sunedriase-i-epitropi-ektimisis-kindunou-gia-to-neo-kuma-kakokairias-pou-tha-htupisoun-edona-fainomena/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 15:29:04 +0200",
-          "description": "Η ΕΜΥ εξέδωσε έκτακτο δελτίο καιρού για ισχυρές βροχές και καταιγίδες αύριο Δευτέρα 26 Ιανουαρίου",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-24/maketa-vroxi1.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Δούλεψε 200 ημέρες για ένα ηλιακό γιοτ, αλλά το πρώτο του ταξίδι δεν πήγε όπως περίμενε",
+          "link": "https://www.gazzetta.gr/plus/2510067/doylepse-200-imeres-gia-ena-iliako-giot-alla-proto-toy-taxidi-den-pige-opos-perimene",
+          "pubDate": "Sun, 25 Jan 2026 17:20:53 +0200",
+          "description": "Ένας κατασκευαστής παρουσίασε το Helios 11, ένα γιοτ που κινείται αποκλειστικά με ηλιακή ενέργεια. Στο πρώτο του ταξίδι, το σκάφος δοκιμάστηκε σε παγωμένα κανάλια της Γαλλίας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/yacht.jpg?itok=ldJGxcfg",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Α' εθνική Γυναικών: Έκανε το καθήκον της η ΑΕΚ, η Κηφισιά πήρε ανάσα στο φινάλε",
           "link": "https://www.gazzetta.gr/football/ethniki-gynaikon/2510066/ethniki-gynaikon-ekane-kathikon-tis-i-aek-i-kifisia-pire-anasa",
           "pubDate": "Sun, 25 Jan 2026 17:12:44 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 15:23:13 +0200",
           "description": "Πολύ καλή ήταν η παρουσία του Ράιαν Σούλη, την ώρα που ο Βαγγέλης Ζούγρης κέρδιζε τον Νεοκλή Αβδάλα στον ελληνικό «εμφύλιο» του NCAA",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/soulis_0.jpg?itok=T6ss5FLX",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άρης: Εκτός και ο Διούδης λόγω ίωσης",
-          "link": "https://www.gazzetta.gr/football/superleague/2510011/aris-ektos-kai-o-dioydis-logo-iosis",
-          "pubDate": "Sun, 25 Jan 2026 15:19:35 +0200",
-          "description": "Ο Σωκράτης Διούδης έμεινε εκτός αποστολής του Άρη για τον αγώνα (16:00) με τον Λεβαδειακό καθώς ταλαιπωρείται από ίωση.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4910487_1.jpg?itok=QzEthBRJ",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Τίτλοι τέλους για το Gmailify: Η Google καταργεί το εργαλείο που έφερνε την εμπειρία Gmail σε Outlook και Yahoo",
+          "link": "https://gr.pcmag.com/old-hosted-email-providers/51111/titloi-telous-gia-to-gmailify-e-google-katargei-to-ergaleio-pou-epherne-ten-empeiria-gmail-se-outloo",
+          "pubDate": "Sun, 25 Jan 2026 15:13:25 +0000",
+          "description": "Μετά από 10 χρόνια λειτουργίας, η υπηρεσία που επέτρεπε τη χρήση προηγμένων λειτουργιών του Gmail σε τρίτους παρόχους κλείνει, αναγκάζοντας τους χρήστες σε αναζήτηση εναλλακτικών.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/g/gmailify-t/gmailify-tool-that-shared-gmail-perks-with-non-google-emails_v4bv.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "Amazon: Νέο κύμα απολύσεων το 2026 – Στόχος η κατάργηση 30.000 θέσεων εργασίας",
           "link": "https://gr.pcmag.com/old-shopping/51110/amazon-neo-kuma-apoluseon-to-2026-stokhos-e-katargese-30000-theseon-ergasias",
           "pubDate": "Sun, 25 Jan 2026 15:01:17 +0000",
@@ -1468,14 +1476,6 @@
           "pubDate": "Fri, 23 Jan 2026 14:42:00 +0200",
           "description": "Η στρατηγική της Microsoft να ενσωματώσει την τεχνητή νοημοσύνη σε κάθε πτυχή του λειτουργικού της συστήματος συνεχίζεται με αμείωτους ρυθμούς, ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/microsoft-paint-coloring-book.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Mijia Smart Audio Glasses: Αυτά είναι τα έξυπνα γυαλιά της Xiaomi",
-          "link": "https://www.techgear.gr/mijia-smart-audio-glasses-ayta-einai-ta-exypna-gyalia-tis-xiaomi-47300",
-          "pubDate": "Fri, 23 Jan 2026 14:35:00 +0200",
-          "description": "Παράλληλα με την κυκλοφορία της σειράς REDMI Note 15, η Xiaomi πρόσθεσε στη σειρά προϊόντων της τα νέα ακουστικά γυαλιά, Mijia Smart Audio Glasses. ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/mijia-smart-audio-glasses.jpg",
           "source": "Techgear"
         }
       ]
