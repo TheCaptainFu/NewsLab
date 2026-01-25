@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T10:25:27.769Z",
+  "lastUpdated": "2026-01-25T10:30:36.127Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,20 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Φωτιά σε φούρνο στο κέντρο της Αθήνας: Κυκλοφοριακές ρυθμίσεις \n",
+          "link": "https://www.protothema.gr/greece/article/1763021/fotia-se-fourno-sto-kedro-tis-athinas-kukloforiakes-ruthmiseis/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 12:30:25 +0200",
+          "description": "Συναγερμός στην Πυροσβεστική για πυρκαγιά σε αρτοποιείο στο κέντρο της Αθήνας",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-15/pyrosvestiki-2.jpg"
+        },
+        {
+          "title": "Δουβίκας: «Ο Μπενίτεθ μου δίδαξε πολλά, σπουδαίος προπονητής ο Φάμπρεγκας»",
+          "link": "https://www.newsit.gr/athlitika/douvikas-o-mpeniteth-mou-didakse-polla-spoudaios-proponitis-o-fampregkas/4582930/",
+          "pubDate": "Sun, 25 Jan 2026 10:28:26 +0000",
+          "description": "Ο Τάσος Δουβίκας κάνει τρομερή χρονιά με τη φανέλα της Κόμο στη Serie A και σε δηλώσεις του στην Gazzeta dello Sport αναφέρθηκε στον Ράφα ...  \nTo άρθρο Δουβίκας: «Ο Μπενίτεθ μου δίδαξε πολλά, σπουδαίος προπονητής ο Φάμπρεγκας» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/douvikas-1-1200x800.jpg"
+        },
         {
           "title": "Θεοδωρικάκος: Η Βόρεια Ελλάδα στο επίκεντρο του νέου παραγωγικού προτύπου, με παραγωγικές επενδύσεις",
           "link": "https://www.newsit.gr/oikonomia/finance/theodorikakos-i-voreia-ellada-sto-epikentro-tou-neou-paragogikou-protypou-me-paragogikes-ependyseis/4582918/",
@@ -62,7 +76,7 @@
           "link": "https://www.newsit.gr/ellada/glyfada-paidi-mou-min-me-skotoneis-allo-pethana-ta-teleytaia-logia-tou-80xronou-pou-ton-maxairose-mexri-thanatou-o-gios-tou/4582905/",
           "pubDate": "Sun, 25 Jan 2026 09:43:11 +0000",
           "description": "Σοκάρουν τα τελευταία λόγια του 80χρονου στη Γλυφάδα που έπεσε νεκρός από τα χέρια του γιου του. Ο ηλικιωμένος άνδρας όπως κάθε Κυριακή έτσι και ...  \nTo άρθρο Γλυφάδα: «Παιδί μου μην με σκοτώνεις άλλο πέθανα»: Τα τελευταία λόγια του 80χρονου που τον μαχαίρωσε μέχρι θανάτου ο γιος του δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/glyfada-auto-dolofonia-1200x728.jpg"
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/egklima-glifada-1200x640.jpg"
         },
         {
           "title": "Ο δήμος Κύθνου δίνει επίδομα 1.000 ευρώ τον μήνα για να καλύψει την έλλειψη γιατρών στο νησί",
@@ -93,11 +107,32 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ilektraa-1200x667.jpg"
         },
         {
+          "title": "Νικήτας Τσακίρογλου: «Η αρρώστια της Χρυσούλας ήταν ένα χτύπημα της μοίρας»",
+          "link": "https://www.in.gr/2026/01/25/go-fun/fizz/nikitas-tsakiroglou-arrostia-tis-xrysoulas-itan-ena-xtypima-tis-moiras/",
+          "pubDate": "Sun, 25 Jan 2026 12:29:27 +0300",
+          "description": "Ο Νικήτας Τσακίρογλου βρίσκεται στο πλευρό της αγαπημένης του συζύγου.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/202108250219340.1381_DIAVATI_TSAKIROGLOY_24082021-1-768x538.jpg"
+        },
+        {
+          "title": "Ουκρανία: Περίπου 1.700 πολυκατοικίες στο Κίεβο χωρίς θέρμανση μετά από ρωσικό πλήγμα",
+          "link": "https://www.in.gr/2026/01/25/world/oukrania-peripou-1-700-polykatoikies-sto-kievo-xoris-thermansi-meta-apo-rosiko-pligma/",
+          "pubDate": "Sun, 25 Jan 2026 12:28:48 +0300",
+          "description": "Η Ρωσία εξαπέλυσε μεγάλη επίθεση στο ενεργειακό σύστημα της Ουκρανίας χθες, με εκρήξεις να συνταράσσουν το Κίεβο στη διάρκεια της νύχτας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-24T212106Z_1135420032_RC2V7JA47OU2_RTRMADP_5_UKRAINE-CRISIS-ATTACK-KYIV-BLACKOUT-768x512.jpg"
+        },
+        {
           "title": "Στην κυριότητα του Υπουργείου Εθνικής Άμυνας επιστρέφουν δύο ακίνητα στην Αττική συνολικής έκτασης 114.363 τ.μ.",
           "link": "https://www.protothema.gr/greece/article/1762990/stin-kuriotita-tou-upourgeiou-ethnikis-amunas-epistrefoun-duo-akinita-stin-attiki-sunolikis-ektasis-114363-tm/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 11:28:00 +0200",
           "description": "Η επιστροφή αυτή εντάσσεται στο πλαίσιο της αξιοποίησης της ακίνητης περιουσίας του για το μεγάλο Οικιστικό Πρόγραμμα των Ενόπλων Δυνάμεων",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-10-29/xrwma-ypoyrgeio-amynas.jpg"
+        },
+        {
+          "title": "Έξαλλος ο Σάρι: «Οι παίκτες μας θέλουν να φύγουν επειδή δεν βλέπουν καμία φιλοδοξία στη Λάτσιο»",
+          "link": "https://www.in.gr/2026/01/25/sports/football/eksallos-o-sari-oi-paiktes-mas-theloun-na-fygoun-epeidi-den-vlepoun-kamia-filodoksia-sti-latsio/",
+          "pubDate": "Sun, 25 Jan 2026 12:19:39 +0300",
+          "description": "Ο Μαουρίτσιο Σάρι μίλησε για τη δύσκολη κατάσταση στην οποία έχει βρεθεί η Λάτσιο, η οποία δείχνει να μην μπορεί να προσφέρει όσα θα περίμεναν οι παίκτες της.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/sarri-768x451.jpg"
         },
         {
           "title": "Εξαφάνιση Λόρα: Νέο βίντεο ντοκουμέντο από του Ζωγράφου εξετάζουν οι Αρχές",
@@ -182,41 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 11:50:24 +0300",
           "description": "Ο  πρωθυπουργός στην κυριακάτικη ανάρτησή του ασχολείται με τις σχέσεις Ευρώπης και ΗΠΑ που δοκιμάζονται το τελευταίο διάστημα με αφορμή τη Γροιλανδία - Σύμφωνα με τον κ. Μητσοτάκη «οφείλουμε να διατηρούμε ένα πλαίσιο συνεννόησης και λειτουργικούς διαύλους συνεργασίας με τις Ηνωμένες Πολιτείες, ακόμη και σε περιόδους έντασης»",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/TSD_5_EEMHTS-4-768x512.jpg"
-        },
-        {
-          "title": "Έκτακτο δελτίο επιδείνωσης καιρού: Έρχονται ισχυρές βροχές και καταιγίδες – Πορτοκαλί προειδοποίηση και για την Αττική",
-          "link": "https://www.in.gr/2026/01/25/greece/ektakto-deltio-epideinosis-kairou-erxontai-isxyres-vroxes-kai-kataigides-portokali-proeidopoiisi-kai-gia-tin-attiki/",
-          "pubDate": "Sun, 25 Jan 2026 11:48:25 +0300",
-          "description": "Η πορτοκαλί προειδοποίηση αφορά ισχυρές βροχές και καταιγίδες, οι οποίες σε ορισμένες περιοχές θα συνοδεύονται από θυελλώδεις ανέμους - Οι περιοχές που θα επηρεαστούν",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1-28-1-1-768x505.jpg"
-        },
-        {
-          "title": "Γλυφάδα: «Αν με αφήσετε ξανά ελεύθερο θα σκοτώσω και τα αδέλφια μου» απείλησε ο 46χρονος πατροκτόνος",
-          "link": "https://www.in.gr/2026/01/25/greece/glyfada-skotosa-ti-mitera-mou-omologia-tou-patroktonou-2014-kai-oi-apeiles-gia-perissoteri-via/",
-          "pubDate": "Sun, 25 Jan 2026 11:46:49 +0300",
-          "description": "Τα σοβαρά ψυχολογικά προβλήματα του 46χρονου στη Γλυφάδα, η μητροκτονία το 2014 και οι απειλές ότι θα ξανασκοτώσει αν αφεθεί ελεύθερος - Πώς ο πατροκτόνος κατέληξε να ζει με τον πατέρα του",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EV1_250126_EGKLHMA-1-768x512.jpg"
-        },
-        {
-          "title": "Πάτρα: 19χρονος και 17χρονη τα θύματα του τροχαίου – «Καρφώθηκαν» σε φανάρι και σκοτώθηκαν ακαριαία",
-          "link": "https://www.in.gr/2026/01/25/greece/patra-19xronos-kai-17xroni-ta-thymata-tou-troxaiou-karfothikan-se-fanari-kai-skotothikan-akariaia/",
-          "pubDate": "Sun, 25 Jan 2026 11:40:56 +0300",
-          "description": "Αυτόπτης μάρτυρας περιέγραψε το σοκαριστικό τροχαίο στην Πάτρα - Το αυτοκίνητο ήταν μια άμορφη μάζα και τα σωστικά συνεργεία δυσκολεύτηκαν να ανασύρουν τις σορούς των δύο παιδιών",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/patra-4.jpg"
-        },
-        {
-          "title": "Κυριάκος Μητσοτάκης: Όχι αντιπαράθεση αλλά συνεννόηση με τους συμμάχους μας – Να διατηρήσουμε διαύλους επικοινωνίας με τις ΗΠΑ",
-          "link": "https://www.newsit.gr/politikh/kyriakos-mitsotakis-oxi-antiparathesi-alla-synennoisi-me-tous-symmaxous-mas-na-diatirisoume-diaylous-epikoinonias-me-tis-ipa/4582876/",
-          "pubDate": "Sun, 25 Jan 2026 08:40:34 +0000",
-          "description": "Οι εξελίξεις στις σχέσεις Ευρώπης και ΗΠΑ, που το τελευταίο διάστημα δοκιμάζονται, αλλά και οι γεωπολιτικές ισορροπίες στη Μέση Ανατολή βρίσκονται στο επίκεντρο της εβδομαδιαίας ...  \nTo άρθρο Κυριάκος Μητσοτάκης: Όχι αντιπαράθεση αλλά συνεννόηση με τους συμμάχους μας – Να διατηρήσουμε διαύλους επικοινωνίας με τις ΗΠΑ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mitsotakis-dk-1200x706.jpg"
-        },
-        {
-          "title": "Χρήστος Παντελής: Πέθανε ο «Μανάρας», μία εμβληματική μορφή του ρεμπέτικου τραγουδιού",
-          "link": "https://www.in.gr/2026/01/25/life/culture-live/xristos-pantelis-pethane-o-manaras-mia-emvlimatiki-morfi-tou-rempetikou-tragoudiou/",
-          "pubDate": "Sun, 25 Jan 2026 11:40:03 +0300",
-          "description": "O Χρήστος Παντελής θεωρούνταν μέρος της παραδοσιακής, «παλιάς σχολής» ρεμπέτικου, λαϊκού παίξιμου.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/art-2-768x562.jpg"
         }
       ]
     },
@@ -657,6 +657,13 @@
       "color": "green",
       "articles": [
         {
+          "title": "O Τζος Χόι «έσπασε» παγκόσμιο ρεκόρ 29 ετών στα 800μ. στον κλειστό στίβο",
+          "link": "https://www.gazzetta.gr/stibos/2509959/o-tzos-hoi-espase-pagkosmio-rekor-29-eton-sta-800m-ston-kleisto-stibo",
+          "pubDate": "Sun, 25 Jan 2026 12:28:50 +0200",
+          "description": "Ο Τζος Χόι με 1:42.50 κατέρριψε παγκόσμιο ρεκόρ 29 ετών στα 800μ. στον κλειστό στίβο σε μίτινγκ στη Βοστώνη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/josh_hoey_gettyimages-2206321116.jpg?itok=ogtn7-M1"
+        },
+        {
           "title": "Βανδή για Σφακιανάκη: «Όταν αποχώρησα από το σχήμα, ήμουν στριμωγμένη οικονομικά, αλλά σήμερα θα το ξαναέκανα»",
           "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
           "pubDate": "Sun, 25 Jan 2026 12:02:00 +0200",
@@ -858,13 +865,6 @@
           "pubDate": "Sun, 25 Jan 2026 09:53:15 +0200",
           "description": "Ο κόσμος της Formula 1 και του μηχανοκίνητου αθλητισμού είναι γεμάτος ιστορίες και γεγονότα που γράφτηκαν με χρυσά γράμματα στα βιβλία: κάθε ημέρα αποτελεί αφορμή να θυμηθούμε και να μάθουμε τι έγινε σαν σήμερα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dhx1rl_xyaakksy2.jpeg?itok=QwTFDVmW"
-        },
-        {
-          "title": "Σάρι: «Το μόνο που θέλω για φέτος είναι να γλυτώσουμε τον υποβιβασμό»",
-          "link": "https://www.gazzetta.gr/football/serie/2509939/sari-mono-poy-thelo-gia-fetos-einai-na-glytosoyme-ton-ypobibasmo",
-          "pubDate": "Sun, 25 Jan 2026 09:47:25 +0200",
-          "description": "O Μαουρίτσιο Σάρι σε πρόσφατες δηλώσεις του καταφέρθηκε κατά της διοίκησης της Λάτσιο, και τον πρόεδρό της ομάδας, Κλαούντιο Λολίτο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-06/maurizio_sarri_lazio.jpg?itok=KVDpPzjF"
         }
       ]
     },
@@ -872,6 +872,13 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Ρόμα – Μίλαν με «Ενισχυμένα» ημίχρονα στο «Ολίμπικο»",
+          "link": "https://panathinaikos24.gr/2026/01/25/617552/roma-milan-me-enisxymena-imixrona-sto-olimpiko/",
+          "pubDate": "Sun, 25 Jan 2026 10:25:42 +0000",
+          "description": "Μόλις τέσσερις βαθμοί τις χωρίζουν στη βαθμολογία, αλλά οι στόχοι προς το παρόν μοιάζουν να είναι διαφορετικοί.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/1100x650-Roma-Gasperini.png?fit=1100%2C650&amp;ssl=1"
+        },
         {
           "title": "Φάκελος Πελίστρι",
           "link": "https://panathinaikos24.gr/2026/01/25/617381/fakelos-pelistri/",
@@ -1074,13 +1081,6 @@
           "pubDate": "Sat, 24 Jan 2026 16:14:08 +0000",
           "description": "Η εκπομπή «The Green Reporter» του «Όλα Πράσινα», με τον Άρη Αντωνόπουλο να παρουσιάζει όλο το μεταγραφικό ρεπορτάζ των τελευταίων ημερών στον Παναθηναϊκό.\nThe post STAND BY δύο ΜΕΤΑΓΡΑΦΕΣ! – Ο πρώην «πράσινος», τα ΚΡΥΦΑ ΧΑΡΤΙΑ για ΕΞΤΡΑ μέσο και ΕΠΙΘΕΤΙΚΟ (vid) appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/ekpompi-metagrafes.jpg"
-        },
-        {
-          "title": "Ολυμπιακός – Βόλος με… ερυθρόλευκο Bet Builder από ημίχρονο",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/olybiakos-volos-me-erythrolefko-bet-build/?utm_source=rss&utm_medium=rss&utm_campaign=olybiakos-volos-me-erythrolefko-bet-build",
-          "pubDate": "Sat, 24 Jan 2026 15:51:00 +0000",
-          "description": "ΠΑΙΞΕ ΝΟΜΙΜΑ | 21+ Και κάπου ανάμεσα στα μεγαλεία του Champions League ο Ολυμπιακός καλείται να βρει τρόπο να συγκεντρωθεί στη γειτονιά μας. Ο Μεντιλίμπαρ δεν θα έχει εύκολο έργο να πείσει τους παίκτες του ότι αυτό που πρέπει να κάνουν, είναι το να εστιάσουν στο ματς με τον Βόλο. Και το ζήτημα είναι ότι […]\nThe post Ολυμπιακός – Βόλος με… ερυθρόλευκο Bet Builder από ημίχρονο appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/oly.jpg"
         }
       ]
     },
