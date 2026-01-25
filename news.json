@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T12:50:30.899Z",
+  "lastUpdated": "2026-01-25T12:55:24.604Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -121,6 +121,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Καιρός: Συνεδρίασε η Επιτροπή εκτίμησης κινδύνου μετά το έκτακτο δελτίο της ΕΜΥ για επιδείνωση",
+          "link": "https://www.in.gr/2026/01/25/greece/kairos-synedriase-epitropi-ektimisis-kindynou-meta-ektakto-deltio-tis-emy-gia-epideinosi/",
+          "pubDate": "Sun, 25 Jan 2026 14:54:15 +0300",
+          "description": "Το Συντονιστικό Κέντρο έχει επικοινωνήσει με ΟΤΑ και λοιπούς εμπλεκόμενους φορείς, προκειμένου να έχουν πλήρη ενημέρωση για το πώς θα εξελιχθεί ο καιρός και να τεθούν σε επιχειρησιακή ετοιμότητα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/21_020_20230328_tk_4554_sooc1680004370-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ιστορική χιονοθύελλα στις ΗΠΑ: Άδεια ράφια σούπερ μάρκετ, πολικές θερμοκρασίες και 230.000 νοικοκυριά χωρίς ρεύμα",
           "link": "https://www.newsit.gr/kosmos/istoriki-xionothyella-stis-ipa-adeia-rafia-souper-market-polikes-thermokrasies-kai-230-000-noikokyria-xoris-reyma/4582957/",
           "pubDate": "Sun, 25 Jan 2026 11:52:51 +0000",
@@ -238,14 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 14:16:00 +0300",
           "description": "Το rotation του Μεντιλίμπαρ που έκανε την δουλειά του, η δεύτερη φορά ξεκούραστα και ο Άγιαξ που δεν έχει την αίγλη του παρελθόντος αλλά σφύζει από ταλέντο",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823319-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Γιατί κάποιοι άνθρωποι νοσούν βαριά με κρυολόγημα και άλλοι όχι",
-          "link": "https://www.in.gr/2026/01/25/health/giati-kapoioi-anthropoi-nosoun-varia-kryologima-kai-alloi-oxi/",
-          "pubDate": "Sun, 25 Jan 2026 14:15:23 +0300",
-          "description": "«Κλειδί» αποτελεί η πρώιμη απόκριση των κυττάρων της μύτης, από όπου εισέρχονται στον οργανισμό οι ρινοϊοί, κύριοι ένοχοι για το κοινό κρυολόγημα - ελπίδα για νέες στοχευμένες θεραπείες.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/woman_blow_blowing_nose_hand_chief_grey_blond_female-1079551-1024x710-768x533.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Κολοσσός - Ολυμπιακός: Μπουνιές ανάμεσα σε Βεζένκοφ και Πετρόπουλο - Ο παίκτης του Κολοσσού τον έσπρωξε στη βάση της μπασκέτας!",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2509994/kolossos-olympiakos-mpoynies-anamesa-se-bezenkof-kai-petropoylo-o",
+          "pubDate": "Sun, 25 Jan 2026 14:53:00 +0200",
+          "description": "Ο Σάσα Βεζένκοβ και ο Αντώνης Πετρόπουλος πιάστηκαν στα χέρια με αποτέλεσμα ο σταρ του Ολυμπιακού να αποβάλλεται από την αναμέτρηση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/677c9dd6-b2f5-4dd8-89af-8f8a65479bb8.jpg?itok=04jPnG7S",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Πρόβλημα με Τζόουνς - Αισθάνθηκε ενοχλήσεις στον μηρό",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2509993/olympiakos-problima-me-tzooyns-aisthanthike-enohliseis-ston-moiro",
+          "pubDate": "Sun, 25 Jan 2026 14:51:28 +0200",
+          "description": "Απρόοπτο για τον Ολυμπιακό με τον Ταϊρίκ Τζόουνς να αποχωρεί με ενοχλήσεις στον μηρό",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jones_eurokinisi_0.jpg?itok=rfPrcFMO",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Κατώτατος μισθός: Η «έκπληξη» στο ποσοστό αύξησής του",
           "link": "https://www.gazzetta.gr/2436947/boyliazoyn-10-ipeirotikoi-proorismoi-gia-pasha",
           "pubDate": "Sun, 25 Jan 2026 14:45:00 +0200",
@@ -969,22 +985,6 @@
           "description": "Το δημοφιλές μοντέλο διατίθεται πλέον από 22.550€, με υβριδική τεχνολογία EcoBoost Hybrid, ευέλικτα χρηματοδοτικά προγράμματα και κορυφαίους χώρους στην κατηγορία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/2024_ford_puma_91.jpg?itok=yLhBFGwp",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Μόνο τα τυπικά για την απόκτηση του Κραλ",
-          "link": "https://www.gazzetta.gr/football/superleague/2509967/panathinaikos-mono-ta-typika-gia-tin-apoktisi-toy-kral",
-          "pubDate": "Sun, 25 Jan 2026 12:57:19 +0200",
-          "description": "Ο Παναθηναϊκός έφτασε σε συμφωνία με την Ουνιόν Βερολίνου για την απόκτηση του Άλεξ Κραλ και απομένουν μονάχα τα τυπικά για να τελειώσει η μεταγραφή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kralis.jpg?itok=1VER66HN",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κόρι Τζόσεφ: Ο «απινιδωτής» που θαύμασε ο Πόποβιτς και ζει κι αναπνέει για μπάσκετ",
-          "link": "https://www.gazzetta.gr/basketball/nba/2509924/kori-tzosef-o-apinidotis-poy-thaymase-o-popobits-kai-zei-ki-anapneei-gia",
-          "pubDate": "Sun, 25 Jan 2026 12:55:51 +0200",
-          "description": "Ο Κόρι Τζόσεφ είναι φτιαγμένος για να μπαίνει στο παρκέ, όταν η ομάδα χρειάζεται ένα ηλεκτρικό σοκ για να επιστρέψει στη ζωή. Γεννήθηκε με μία μπάλα στα χέρια, δούλεψε σκληρά, στέφθηκε πρωταθλητής και φέρνει την εμπειρία του στον Ολυμπιακό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-joseph.jpg?itok=ey5KApzQ",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Η… 10άδα του Παναθηναϊκού με Μαρούσι!",
+          "link": "https://trifilara.gr/i-10ada-tou-panathinaikou-me-marousi/?utm_source=rss&utm_medium=rss&utm_campaign=i-10ada-tou-panathinaikou-me-marousi",
+          "pubDate": "Sun, 25 Jan 2026 12:52:32 +0000",
+          "description": "Ο Παναθηναϊκός ανακοίνωσε την 12άδα που θα παρατάξει στο παιχνίδι της 16ης αγωνιστικής κόντρα στο Μαρούσι.\nThe post Η… 10άδα του Παναθηναϊκού με Μαρούσι! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
         {
           "title": "Παναθηναϊκός: Με… δέκα ο Αταμάν κόντρα στο Μαρούσι!",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-me-deka-o-ataman-kontra/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-me-deka-o-ataman-kontra",
@@ -1223,14 +1231,6 @@
           "description": "Αναλυτικά όσα είπε στους Betarades: Για τον πάγκο της Εθνικής: «Έχει σημασία τι εθνικότητα θα είναι ο προπονητής της Εθνικής. Εγώ θέλω Έλληνα προπονητή στην εθνική ομάδα. Αυτό δεν σημαίνει ότι δεν φταίμε και εμείς οι Έλληνες προπονητές. Μου αρέσει η εικόνα να βλέπω Σέρβο στην Εθνική Σερβίας, Άγγλο στην Εθνική Αγγλίας…» Για τη θητεία […]\nThe post Δώνης: «Πολλά πάνω-κάτω με Αλαφούζο, δεν ερχόταν καν – Είμαι ένας περίεργος τύπος» appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Παναθηναϊκός: Το προσπαθεί για Σεχ Νιάς για τον άξονα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/to-prospathei-gia-niasse-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=to-prospathei-gia-niasse-o-panathinaikos",
-          "pubDate": "Sat, 24 Jan 2026 19:56:26 +0000",
-          "description": "Η αποκάλυψη του «Όλα Πράσινα», το stand by του Κραλ και το δύσκολο αλλά υπαρκτό σενάριο αγοράς από τη Βερόνα. Σύμφωνα με πληροφορίες που μεταδόθηκαν στην εκπομπή «The Green Reporter» του «Όλα Πράσινα», ο Παναθηναϊκός συνεχίζει να δουλεύει παράλληλα περισσότερα από ένα μεταγραφικά σενάρια για τον άξονα, επιβεβαιώνοντας πως ο σχεδιασμός δεν εξαντλείται σε μία […]\nThe post Παναθηναϊκός: Το προσπαθεί για Σεχ Νιάς για τον άξονα! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/niasse.jpg",
-          "source": "Όλα Πράσινα"
         }
       ]
     },
