@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T10:15:30.492Z",
+  "lastUpdated": "2026-01-25T10:20:27.820Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -58,10 +58,10 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/chirivella-1200x798.jpg"
         },
         {
-          "title": "Γλυφάδα: «Θα σκοτώσω τα αδέρφια μου αν με αφήσετε ελεύθερο» είπε στους αστυνομικούς ο 46χρονος που δολοφόνησε τον πατέρα του",
-          "link": "https://www.newsit.gr/ellada/glyfada-tha-skotoso-ta-aderfia-mou-an-me-afisete-eleythero-eipe-stous-astynomikous-o-46xronos-pou-dolofonise-ton-patera-tou/4582905/",
+          "title": "Γλυφάδα: «Παιδί μου μην με σκοτώνεις άλλο πέθανα»: Τα τελευταία λόγια του 80χρονου που τον μαχαίρωσε μέχρι θανάτου ο γιος του",
+          "link": "https://www.newsit.gr/ellada/glyfada-paidi-mou-min-me-skotoneis-allo-pethana-ta-teleytaia-logia-tou-80xronou-pou-ton-maxairose-mexri-thanatou-o-gios-tou/4582905/",
           "pubDate": "Sun, 25 Jan 2026 09:43:11 +0000",
-          "description": "Σοκ έχει προκαλέσει η δολοφονία ενός 80χρονου από τα χέρια του γιου του στην Γλυφάδα, με τον δράστη το 2014 να έχει σκοτώσει και τη ...  \nTo άρθρο Γλυφάδα: «Θα σκοτώσω τα αδέρφια μου αν με αφήσετε ελεύθερο» είπε στους αστυνομικούς ο 46χρονος που δολοφόνησε τον πατέρα του δημοσιεύτηκε στο NewsIT .",
+          "description": "Σοκάρουν τα τελευταία λόγια του 80χρονου στη Γλυφάδα που έπεσε νεκρός από τα χέρια του γιου του. Ο ηλικιωμένος άνδρας όπως κάθε Κυριακή έτσι και ...  \nTo άρθρο Γλυφάδα: «Παιδί μου μην με σκοτώνεις άλλο πέθανα»: Τα τελευταία λόγια του 80χρονου που τον μαχαίρωσε μέχρι θανάτου ο γιος του δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/glyfada-auto-dolofonia-1200x728.jpg"
         },
         {
@@ -1089,6 +1089,13 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Είδατε περίεργες ειδοποιήσεις στο Gmail; Δεν ήσασταν οι μόνοι",
+          "link": "https://www.techgear.gr/eidate-perierges-eidopoiiseis-sto-gmail-den-isastan-oi-monoi-47306",
+          "pubDate": "Sun, 25 Jan 2026 12:17:00 +0200",
+          "description": "Έναm περίεργο bug χτύπησε το Gmail πριν από μερικές ώρες, καθώς η δημοφιλέστερη υπηρεσία ηλεκτρονικού ταχυδρομείου υπέστη ένα σπάνιο αλλά εξαιρετικά ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/gmail-gone-crazy.jpg"
+        },
+        {
           "title": "Οι ΗΠΑ αποχώρησαν και επίσημα από τον Παγκόσμιο Οργανισμό Υγείας",
           "link": "https://www.techgear.gr/oi-ipa-apochorisan-kai-episima-apo-ton-pagkosmio-organismo-ygeias-47305",
           "pubDate": "Sun, 25 Jan 2026 12:07:00 +0200",
@@ -1290,13 +1297,6 @@
           "pubDate": "Fri, 23 Jan 2026 07:37:00 +0200",
           "description": "Στον διαρκή πόλεμο της κυβερνοασφάλειας, ο πιο αδύναμος κρίκος παραμένει συχνά ο ανθρώπινος παράγοντας. Ενώ οι αλγόριθμοι κρυπτογράφησης γίνονται όλο ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/1password-ai-anti-phishing.jpg"
-        },
-        {
-          "title": "Γιατί η Epic Games δίνει 800 εκατομμύρια στον «εχθρό» της; Η αποκάλυψη που «σόκαρε» τον δικαστή",
-          "link": "https://www.techgear.gr/giati-i-epic-games-dinei-800-ekatommyria-ston-echthro-tis-i-apokalypsi-poy-sokare-ton-dikasti-47289",
-          "pubDate": "Fri, 23 Jan 2026 07:31:00 +0200",
-          "description": "Η Κρυφή Συμφωνία των 800 Εκατομμυρίων: Η Αναπάντεχη Συμμαχία Google και Epic Games που Αλλάζει τα Δεδομένα\nΣε μια εντυπωσιακή τροπή των γεγονότων που ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/google-epic-games.jpg"
         }
       ]
     }
