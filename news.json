@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T13:20:27.818Z",
+  "lastUpdated": "2026-01-25T13:25:28.935Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -137,6 +137,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Γιατί ο καρκίνος και η Αλτσχάιμερ εμφανίζονται σπάνια στον ίδιο άνθρωπο;",
+          "link": "https://www.in.gr/2026/01/25/in-science/episthmes/giati-o-karkinos-kai-altsxaimer-emfanizontai-spania-ston-idio-anthropo/",
+          "pubDate": "Sun, 25 Jan 2026 15:20:22 +0300",
+          "description": "Μια πρωτεΐνη που απελευθερώνεται από τα καρκινικά κύτταρα δείχνει να προστατεύει από την Αλτσχάιμερ, τουλάχιστον σε ποντίκια.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pexels-shvetsa-4226264-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Εκατό μεταρρυθμίσεις και έργα σε 24 τομείς «έδειξε» ο απολογισμός του 2025 και ο προγραμματισμός του 2026",
           "link": "https://www.newsit.gr/politikh/ekato-metarrythmiseis-kai-erga-se-24-tomeis-edeikse-o-apologismos-tou-2025-kai-o-programmatismos-tou-2026/4582974/",
           "pubDate": "Sun, 25 Jan 2026 12:19:45 +0000",
@@ -153,7 +161,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Κολοσσός Ρόδου – Ολυμπιακός 85-98: Με «τριπλό» Γουόρντ, «καθάρισε» στη Ρόδο και φουλάρει για Μπαρτσελόνα",
+          "title": "Κολοσσός Ρόδου – Ολυμπιακός 85-98: Με «τριπλό» Γουόρντ, «καθάρισε» στη Ρόδο και φουλάρει για Μπαρτσελόνα (vids)",
           "link": "https://www.in.gr/2026/01/25/sports/basketball/kolossos-rodou-olympiakos-85-98-triplo-gouornt-katharise-sti-rodo-kai-foularei-gia-mpartselona/",
           "pubDate": "Sun, 25 Jan 2026 15:12:55 +0300",
           "description": "Ο Ολυμπιακός πέρασε δύσκολα από τη Ρόδο επικρατώντας με 98-85, έχοντας σε μεγάλη μέρα τον Τάισον Γουόρντ που έκανε τριπλ-νταμπλ.",
@@ -239,14 +247,6 @@
           "description": "Η φάλαινα κινείται σε σχετικά μικρή απόσταση από το σκάφος, αναδυόμενη στα ήρεμα νερά του Παγασητικού Κόλπου, προσφέροντας ένα θέαμα που δύσκολα μπορεί να περιγραφεί με λόγια",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/falaina-768x392.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Μία νύχτα μόνο – επόμενα επεισόδια: Η Αρετή φεύγει από την Αθήνα καθώς δεν αντέχει την πίεση του Οδυσσέα",
-          "link": "https://www.newsit.gr/media/mia-nyxta-mono-epomena-epeisodia-i-areti-feygei-apo-tin-athina-kathos-den-antexei-tin-piesi-tou-odyssea/4581862/",
-          "pubDate": "Sun, 25 Jan 2026 12:01:00 +0000",
-          "description": "Ανατροπές και δυσάρεστες εκπλήξεις περιμένουν τους ήρωες της δραματικής σειράς του MEGA, «Μια νύχτα μόνο», ενώ ο χρόνος κυλά σε βάρος των σχέσεών τους. Τα ...  \nTo άρθρο Μία νύχτα μόνο – επόμενα επεισόδια: Η Αρετή φεύγει από την Αθήνα καθώς δεν αντέχει την πίεση του Οδυσσέα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mia-nuxta-mono2-1200x675.png",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Άρης: Εκτός και ο Διούδης λόγω ίωσης",
+          "link": "https://www.gazzetta.gr/football/superleague/2510011/aris-ektos-kai-o-dioydis-logo-iosis",
+          "pubDate": "Sun, 25 Jan 2026 15:19:35 +0200",
+          "description": "Ο Σωκράτης Διούδης έμεινε εκτός αποστολής του Άρη για τον αγώνα (16:00) με τον Λεβαδειακό καθώς ταλαιπωρείται από ίωση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4910487_1.jpg?itok=QzEthBRJ",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Κολοσσός - Ολυμπιακός: Η χειραψία Μπαρτζώκα - Λυκογιάννη και ο νέος διάλογος",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510012/kolossos-olympiakos-i-heirapsia-mpartzoka-lykogianni-kai-o-neos",
           "pubDate": "Sun, 25 Jan 2026 15:17:58 +0200",
@@ -977,14 +985,6 @@
           "description": "Δύο διακριτά οικονομικά ζητήματα που αφορούν τον ΑΣ ΠΑΟΚ ξεχωρίζουν μετά τη συμφωνία για τη μεταβίβαση της ΚΑΕ, με φόντο τόσο τις οφειλές όσο και τη στήριξη στο ΤΑΑ βόλεϊ",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_toumba.jpg?itok=Z0zFDGXQ",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Πρίντεζης: Επίσημα το κλειστό του Αγίου Δημητρίου πήρε το όνομά του",
-          "link": "https://www.gazzetta.gr/basketball/2509979/printezis-episima-kleisto-toy-agioy-dimitrioy-pire-onoma-toy",
-          "pubDate": "Sun, 25 Jan 2026 13:37:38 +0200",
-          "description": "Το κλειστό του Αγίου Δημητρίου φέρει, πλέον με κάθε επισημότητα το όνομα του Γιώργου Πρίντεζη.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/printezis_0.jpg?itok=UnoJB7FS",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Η πιθανή ενδεκάδα του Παναθηναϊκού με Ατρόμητο!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/i-pithani-endekada-tou-panathinaikou-me-44/?utm_source=rss&utm_medium=rss&utm_campaign=i-pithani-endekada-tou-panathinaikou-me-44",
+          "pubDate": "Sun, 25 Jan 2026 13:23:26 +0000",
+          "description": "Ο Παναθηναϊκός ψάχνει συνέχεια και έλεγχο ρυθμού απέναντι στον Ατρόμητο, με επιλογές που δείχνουν σταθερότητα και δημιουργία. Ο Παναθηναϊκός μπαίνει στην 18η αγωνιστική της Super League με ξεκάθαρη ανάγκη για αποτέλεσμα και μια ενδεκάδα που αποτυπώνει την πρόθεση του Ράφα Μπενίτεθ να συνδυάσει ασφάλεια και ποιότητα. Μετά τη γεμάτη συναισθήματα εβδομάδα και την ευρωπαϊκή ισοπαλία […]\nThe post Η πιθανή ενδεκάδα του Παναθηναϊκού με Ατρόμητο! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/endekada-2.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Γλυφάδα: «Παιδί μου, μην με σκοτώνεις άλλο, πέθανα» – Τα τελευταία λόγια του 80χρονου που τον μαχαίρωσε μέχρι θανάτου ο γιος του",
           "link": "https://panathinaikos24.gr/2026/01/25/617589/glyfada-paidi-mou-min-me-skotoneis-allo-pethana-ta-teleytaia-logia-tou-80xronou-pou-ton-maxairose-mexri-thanatou-o-gios-tou/",
@@ -1223,14 +1231,6 @@
           "description": "Με μπλοκ, ένταση και διάρκεια, οι «πράσινες» έκαναν το 15 στα 15 στη Volley League γυναικών.\nThe post ΠΑΤΗΣΕ την ΑΕΚ και διατήρησε το… απόλυτο ο Παναθηναϊκός! – Πρώτος και καλύτερος appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "ΙΣΟΠΕΔΩΣΕ την ΑΕΚ με… ΣΚΟΥΠΑ ο Παναθηναϊκός! – Συνεχίζουν αήττητες τα… φίνα κορίτσια",
-          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/isopedose-tin-aek-me-skoupa-o-panathin/?utm_source=rss&utm_medium=rss&utm_campaign=isopedose-tin-aek-me-skoupa-o-panathin",
-          "pubDate": "Sat, 24 Jan 2026 20:45:47 +0000",
-          "description": "Μια εμφάνιση που ξεκίνησε με ένταση, εξελίχθηκε σε επιβολή ρυθμού και κατέληξε σε ξεκάθαρη επιβεβαίωση ανωτερότητας. Ισορροπημένο ήταν το ξεκίνημα του αγώνα, με τις δύο ομάδες να συμβαδίζουν στο σκορ και να πηγαίνουν πόντο πόντο, μέχρι τη στιγμή που ο Παναθηναϊκός κατάφερε να «ξεφύγει» με +2 στο 15-13. Το προβάδισμα δεν κράτησε για πολύ, καθώς […]\nThe post ΙΣΟΠΕΔΩΣΕ την ΑΕΚ με… ΣΚΟΥΠΑ ο Παναθηναϊκός! – Συνεχίζουν αήττητες τα… φίνα κορίτσια appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/erasitexnis-1.jpg",
-          "source": "Όλα Πράσινα"
         }
       ]
     },
