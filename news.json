@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T17:05:25.622Z",
+  "lastUpdated": "2026-01-25T17:10:33.459Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ειδήσεις | 25 Ιανουαρίου 2026 - Βραδινό δελτίο",
+          "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-bradino-deltio",
+          "pubDate": "Sun, 25 Jan 2026 18:00:15 +0100",
+          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Η εντυπωσιακή ανάβαση του Αμερικανού αναρριχητή στον ουρανοξύστη 101 ορόφων",
           "link": "http://gr.euronews.com/video/2026/01/25/american-climber-alex-honnold-scales-a-101-floor-skyscraper-without-safety-gear",
           "pubDate": "Sun, 25 Jan 2026 16:55:11 +0100",
@@ -731,14 +739,6 @@
           "description": "Who sits beside India’s president on Republic Day signals Delhi’s diplomatic priorities to the world.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a399/live/055d9470-f826-11f0-9001-7f071bc02a11.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Ros Atkins on... How popular is President Trump?",
-          "link": "https://www.bbc.com/news/videos/cn8jje0pypro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 01:33:57 GMT",
-          "description": "BBC Analysis Editor Ros Atkins explores how Americans feel about their president during a nonstop start to 2026 shaped by pivotal events at home and abroad.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f25b/live/ab2f90f0-f7c3-11f0-b5f7-49f0357294ff.png",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Σκωτία: Η Χαρτς πήρε βαθμό από τη Σέλτικ όμως η Ρέιντζερς παραμονεύει",
+          "link": "https://www.gazzetta.gr/football/2510106/skotia-i-harts-pire-bathmo-apo-ti-seltik-omos-i-reintzers-paramoneyei",
+          "pubDate": "Sun, 25 Jan 2026 19:06:45 +0200",
+          "description": "Παρότι βρέθηκε να χάνει δις, η Χαρτς κράτησε τη Σέλτικ στο 2-2 και παρέμεινε πρώτη και σε απόσταση ασφαλείας στην κορυφή της Premiership, με τη Ρέιντζερς να καραδοκεί.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hearts.jpg?itok=UOPxBC9F",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Χιμένεθ: «Αισθανόμαστε υποχρεωμένοι να ζητήσουμε μία συγγνώμη»",
+          "link": "https://www.gazzetta.gr/football/superleague/2510105/himeneth-aisthanomaste-ypohreomenoi-na-zitisoyme-mia-syggnomi",
+          "pubDate": "Sun, 25 Jan 2026 19:06:41 +0200",
+          "description": "Ο προπονητής του Άρη, Μανόλο Χιμένεθ, απολογήθηκε προς τον κόσμο του Άρη μετά το 2-2 με αντίπαλο τον Λεβαδειακό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ximenez_aris_1.jpg?itok=KgWAYoaG",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ζάλγκιρις: Λύγισε τη Νεβέζις και έκανε το 3/3 σε έξι μέρες",
           "link": "https://www.gazzetta.gr/basketball/mpasket-lithoyania/2510104/zalgkiris-lygise-ti-nebezis-kai-ekane-33-se-exi-meres",
@@ -969,22 +985,6 @@
           "description": "Η Τσέλσι καθάρισε με 3-1 την Κρίσταλ Πάλας εκτός έδρας, την ώρα που Νότιγχαμ Φόρεστ και Άστον Βίλα νικούσαν 2-0 τις Μπρέντφορντ και Νιούκαστλ αντίστοιχα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/chelsea_0.jpg?itok=azluqeLo",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Εργκίν Αταμάν τρόλαρε τους διαιτητές και ζήτησε αντιαθλητικό κατά του Κώστα Σλούκα στο Παναθηναϊκός – Μαρούσι",
-          "link": "https://www.newsit.gr/athlitika/o-ergkin-ataman-trolare-tous-diaitites-kai-zitise-antiathlitiko-kata-tou-kosta-slouka-sto-panathinaikos-marousi/4583081/",
-          "pubDate": "Sun, 25 Jan 2026 16:02:21 +0000",
-          "description": "O Παναθηναϊκός πήρε τη νίκη με 92-81 κόντρα στο Μαρούσι για την 15η αγωνιστική της GBL, με τον Εργκίν Αταμάν να είναι έξαλλος από τη ...  \nTo άρθρο Ο Εργκίν Αταμάν τρόλαρε τους διαιτητές και ζήτησε αντιαθλητικό κατά του Κώστα Σλούκα στο Παναθηναϊκός – Μαρούσι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ataman-16-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "BMW Motorrad: Και τα ρεκόρ συνεχίζονται",
-          "link": "https://www.gazzetta.gr/gmotion/2509460/bmw-motorrad-kai-ta-rekor-synehizontai",
-          "pubDate": "Sun, 25 Jan 2026 18:00:00 +0200",
-          "description": "Η Βαυαρική φίρμα κατέγραψε ένα ακόμη εντυπωσιακό αποτέλεσμα το 2025, διαθέτοντας για τέταρτη συνεχόμενη χρονιά περισσότερες από 200.000 μοτοσικλέτες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/anoigma_1.jpg?itok=O6YsIxah",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Live η δύσκολη έξοδος του τριφυλλιού στο Περιστέρι: Aτρόμητος-Παναθηναϊκός",
+          "link": "https://panathinaikos24.gr/2026/01/25/617643/live-i-dyskoli-eksodos-tou-trifylliou-sto-peristeri-atromitos-panathinaikos/",
+          "pubDate": "Sun, 25 Jan 2026 17:10:16 +0000",
+          "description": "Παρακολουθήστε live από το Panathinaikos24.gr την εξέλιξη της αναμέτρησης του Παναθηναϊκού στην έδρα του Ατρομήτου στο Περιστέρι για την 18η αγωνιστική της Stoiximan Super League.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4987466.jpg?fit=900%2C597&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Φαρίντ: «Αυτό μας είπε ο Αταμαν! – Είμαστε επαγγελματίες και πρέπει να το βρούμε»",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/farint-afto-mas-eipe-o-ataman-eimast/?utm_source=rss&utm_medium=rss&utm_campaign=farint-afto-mas-eipe-o-ataman-eimast",
+          "pubDate": "Sun, 25 Jan 2026 17:06:18 +0000",
+          "description": "Ο Κένεθ Φαρίντ σχολίασε τα όσα έγιναν στην αναμέτρηση ανάμεσα στον Παναθηναϊκό και το Μαρούσι, στο παιχνίδι της 16ης αγωνιστικής της GBL. Αναλυτικά όσα είπε ο Φαρίντ: «Όλοι όσοι παίζουν εδώ, βγαίνουν με ενθουσιασμό και θέλουν να μας κερδίσουν. Είχαμε δύσκολη εβδομάδα, δεν είχαμε φρέσκα πόδια. Εμείς βγήκαμε έξω, παίξαμε άμυνα και πήραμε τη νίκη». […]\nThe post Φαρίντ: «Αυτό μας είπε ο Αταμαν! – Είμαστε επαγγελματίες και πρέπει να το βρούμε» appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/faried-2.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Φαρίντ: «Δεν είμαστε παιδιά, πληρωνόμαστε και πρέπει να κερδίζουμε»",
           "link": "https://panathinaikos24.gr/2026/01/25/617650/farint-den-eimaste-paidia-plironomaste-kai-prepei-na-kerdizoume/",
@@ -1169,14 +1185,6 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Παναθηναϊκός – Μαρούσι: «Πρόβλημα» από την ΕΡΤ – Έπεσε… μαύρο στις οθόνες!",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-marousi-provlima-ap/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-provlima-ap",
-          "pubDate": "Sun, 25 Jan 2026 14:20:50 +0000",
-          "description": "Η εικόνα χάθηκε στο ξεκίνημα του δεύτερου δεκαλέπτου, με την ΕΡΤ να επαναφέρει το σήμα λίγα λεπτά αργότερα. Λίγο μετά την έναρξη του δεύτερου δεκαλέπτου στην αναμέτρηση του Παναθηναϊκός με το Μαρούσι, προέκυψε τεχνικό ζήτημα στη ζωντανή τηλεοπτική μετάδοση του αγώνα. Συγκεκριμένα, η ΕΡΤ έχασε το σήμα της μετάδοσης, με αποτέλεσμα οι τηλεθεατές να βλέπουν […]\nThe post Παναθηναϊκός – Μαρούσι: «Πρόβλημα» από την ΕΡΤ – Έπεσε… μαύρο στις οθόνες! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/10/oaka-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Live streaming: Παναθηναϊκός-Μαρούσι",
           "link": "https://panathinaikos24.gr/2026/01/25/617594/live-streaming-panathinaikos-marousi-3/",
           "pubDate": "Sun, 25 Jan 2026 13:44:56 +0000",
@@ -1221,14 +1229,6 @@
           "link": "https://trifilara.gr/i-10ada-tou-panathinaikou-me-marousi/?utm_source=rss&utm_medium=rss&utm_campaign=i-10ada-tou-panathinaikou-me-marousi",
           "pubDate": "Sun, 25 Jan 2026 12:52:32 +0000",
           "description": "Ο Παναθηναϊκός ανακοίνωσε την 12άδα που θα παρατάξει στο παιχνίδι της 16ης αγωνιστικής κόντρα στο Μαρούσι.\nThe post Η… 10άδα του Παναθηναϊκού με Μαρούσι! appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Έξω και ο Γιούρτσεβεν με Μαρούσι! – Ο λόγος της απουσίας του",
-          "link": "https://trifilara.gr/exo-kai-o-giourtseven-me-marousi-o-logos-tis-apousias-tou/?utm_source=rss&utm_medium=rss&utm_campaign=exo-kai-o-giourtseven-me-marousi-o-logos-tis-apousias-tou",
-          "pubDate": "Sun, 25 Jan 2026 12:34:23 +0000",
-          "description": "Πέραν των απουσιών του Κέντριν Ναν και του Τσέντι Όσμαν, ο Αταμάν πρέπει να διαχειριστεί και την απουσία του Ομέρ Γιούρτσεβεν, στην αναμέτρηση με το Μαρούσι.\nThe post Έξω και ο Γιούρτσεβεν με Μαρούσι! – Ο λόγος της απουσίας του appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
         }
