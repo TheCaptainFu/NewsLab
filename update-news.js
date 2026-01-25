@@ -119,21 +119,77 @@ function extractImage(item) {
     return null;
 }
 
+// Extract source name from URL or feed title
+function getSourceName(url, feedTitle) {
+    // Try to get from feed title first
+    if (feedTitle) {
+        // Clean up common RSS feed title patterns
+        const cleaned = feedTitle
+            .replace(/^\s*RSS\s*[-–—]\s*/i, '')
+            .replace(/\s*RSS\s*Feed\s*$/i, '')
+            .replace(/\s*-\s*.*$/, '')
+            .trim();
+        if (cleaned) return cleaned;
+    }
+    
+    // Extract domain from URL
+    try {
+        const urlObj = new URL(url);
+        let domain = urlObj.hostname.replace(/^www\./, '');
+        
+        // Map common domains to readable names
+        const domainMap = {
+            'newsit.gr': 'NewsIT',
+            'protothema.gr': 'Πρώτο Θέμα',
+            'in.gr': 'In.gr',
+            'ethnos.gr': 'Εθνος',
+            'tanea.gr': 'Τα Νέα',
+            'naftemporiki.gr': 'Ναυτεμπορική',
+            'tovima.gr': 'Το Βήμα',
+            'euronews.com': 'Euronews',
+            'dw.com': 'DW',
+            'bbci.co.uk': 'BBC',
+            'reuters.com': 'Reuters',
+            'gazzetta.gr': 'Gazzetta',
+            'sdna.gr': 'SDNA',
+            'sport24.gr': 'Sport24',
+            'olaprasina1908.gr': 'Όλα Πράσινα',
+            'trifilara.gr': 'Trifilara',
+            'panathinaikos24.gr': 'Panathinaikos24',
+            'insomnia.gr': 'Insomnia',
+            'techgear.gr': 'Techgear',
+            'digitallife.gr': 'Digital Life',
+            'pcmag.com': 'PC Magazine'
+        };
+        
+        if (domainMap[domain]) {
+            return domainMap[domain];
+        }
+        
+        // Fallback: capitalize first letter
+        return domain.split('.')[0].charAt(0).toUpperCase() + domain.split('.')[0].slice(1);
+    } catch (e) {
+        return 'Άγνωστη πηγή';
+    }
+}
+
 // Fetch single RSS feed with timeout
 async function fetchFeed(url) {
     try {
         console.log(`  Fetching: ${url}`);
         const feed = await parser.parseURL(url);
+        const sourceName = getSourceName(url, feed.title);
         
         const articles = feed.items.map(item => ({
             title: item.title || '',
             link: item.link || item.guid || '',
             pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
             description: item.contentSnippet || item.description || '',
-            thumbnail: extractImage(item)
+            thumbnail: extractImage(item),
+            source: sourceName
         })).filter(article => article.title && article.link);
         
-        console.log(`    ✅ ${articles.length} articles`);
+        console.log(`    ✅ ${articles.length} articles from ${sourceName}`);
         return articles;
     } catch (error) {
         console.error(`    ❌ Failed: ${error.message}`);

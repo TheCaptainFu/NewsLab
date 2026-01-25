@@ -44,11 +44,11 @@ async function getNews() {
         // Fetch the pre-aggregated news.json (with cache busting)
         const timestamp = Date.now();
         const response = await fetch(`news.json?t=${timestamp}`);
-        
-        if (!response.ok) {
-            throw new Error(`HTTP ${response.status}`);
-        }
-        
+            
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status}`);
+            }
+            
         const newsData = await response.json();
         
         console.log(`📰 Loaded ${newsData.totalArticles} articles from ${newsData.successfulFeeds}/${newsData.totalFeeds} feeds`);
@@ -85,22 +85,22 @@ async function getNews() {
             // Restart countdown with updated time
             startCountdownTimer();
         }
-        
+
     } catch (error) {
         console.error('❌ Error loading news:', error);
         
         // Show error message
-        container.innerHTML = `
-            <div class="text-center p-8 bg-[#1a1a1a] border border-red-500/30 rounded-lg">
-                <p class="text-red-400 font-bold mb-2 text-xl">⚠️ Κάτι πήγε στραβά</p>
-                <p class="text-red-300 text-sm mb-1">${error.message}</p>
+                container.innerHTML = `
+                    <div class="text-center p-8 bg-[#1a1a1a] border border-red-500/30 rounded-lg">
+                        <p class="text-red-400 font-bold mb-2 text-xl">⚠️ Κάτι πήγε στραβά</p>
+                        <p class="text-red-300 text-sm mb-1">${error.message}</p>
                 <p class="text-zinc-500 text-xs mb-4">Δεν μπόρεσε να φορτωθεί το news.json</p>
-                <button onclick="getNews()" class="mt-4 bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white px-6 py-2 rounded-lg transition-all">
-                    Προσπαθήστε Ξανά
-                </button>
-            </div>`;
+                        <button onclick="getNews()" class="mt-4 bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white px-6 py-2 rounded-lg transition-all">
+                            Προσπαθήστε Ξανά
+                        </button>
+                    </div>`;
     } finally {
-        loading.classList.add('hidden');
+            loading.classList.add('hidden');
     }
 }
 
@@ -164,9 +164,9 @@ function showSkeletonLoaders() {
 // ============================================================================
 function renderNews(categories) {
     const colorStyles = getColorStyles();
-    
+
     let html = '';
-    
+
     for (const [key, category] of Object.entries(categories)) {
         // Skip if a specific category is selected and this isn't it
         if (selectedCategory !== 'all' && selectedCategory !== key) continue;
@@ -175,17 +175,17 @@ function renderNews(categories) {
         const totalArticles = category.articles.length;
         const articlesToShow = Math.min(visibleCount[key], totalArticles);
         const articles = category.articles.slice(0, articlesToShow);
-        
+
         if (totalArticles === 0) {
-            html += `
-                <section class="mb-12" id="category-${key}">
+        html += `
+            <section class="mb-12" id="category-${key}">
                     <h2 class="text-2xl font-bold ${styles.titleClass} border-b border-zinc-800 pb-3 mb-6">
-                        ${category.title}
-                    </h2>
-                    <div class="text-center p-8 bg-[#1a1a1a] border border-zinc-800 rounded-lg">
-                        <p class="text-zinc-500 mb-2">⚠️ Δεν βρέθηκαν άρθρα για αυτή την κατηγορία</p>
-                    </div>
-                </section>`;
+                    ${category.title}
+                </h2>
+                <div class="text-center p-8 bg-[#1a1a1a] border border-zinc-800 rounded-lg">
+                    <p class="text-zinc-500 mb-2">⚠️ Δεν βρέθηκαν άρθρα για αυτή την κατηγορία</p>
+                </div>
+            </section>`;
             continue;
         }
         
@@ -196,7 +196,7 @@ function renderNews(categories) {
                     <span class="text-sm text-zinc-600 font-normal ml-auto">(${articlesToShow}/${totalArticles})</span>
                 </h2>
         `;
-        
+
         articles.forEach((art, index) => {
             const description = art.description ? stripHtml(art.description).substring(0, 120) + '...' : '';
             const longDescription = art.description ? stripHtml(art.description).substring(0, 250) + '...' : '';
@@ -215,7 +215,7 @@ function renderNews(categories) {
                 'green': 'bg-green-600', 'lime': 'bg-lime-600', 'pink': 'bg-pink-600'
             };
             const badgeColor = badgeColors[category.color] || 'bg-blue-600';
-            
+
             // First article = HERO
             if (index === 0) {
                 html += `
@@ -249,10 +249,15 @@ function renderNews(categories) {
                                     </h3>
                                     ${longDescription ? `<p class="text-zinc-400 text-base leading-relaxed mb-6 line-clamp-4">${longDescription}</p>` : ''}
                                     <div class="flex items-center justify-between pt-4 border-t border-zinc-800 mt-auto">
-                                        <span class="text-white text-sm font-medium flex items-center gap-2">
-                                            <i class="fa-solid fa-clock"></i> ${relativeTime}
-                                        </span>
-                                        <span class="${styles.readMore} text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity flex items-center gap-2">
+                                        <div class="flex items-center gap-4">
+                                            <span class="text-white text-sm font-medium flex items-center gap-2">
+                                                <i class="fa-solid fa-clock"></i> ${relativeTime}
+                                            </span>
+                                            ${art.source ? `<span class="text-zinc-500 text-xs flex items-center gap-1">
+                                                <i class="fa-solid fa-newspaper"></i> ${art.source}
+                                            </span>` : ''}
+                                        </div>
+                                        <span class="${styles.readMore} text-sm font-semibold opacity-100 flex items-center gap-2">
                                             Διαβάστε περισσότερα <i class="fa-solid fa-arrow-right"></i>
                                         </span>
                                     </div>
@@ -287,15 +292,20 @@ function renderNews(categories) {
                                 </h3>
                                 ${description ? `<p class="text-zinc-400 text-sm leading-relaxed mb-3 line-clamp-3">${description}</p>` : ''}
                                 <div class="flex items-center justify-between pt-2 border-t border-zinc-800 mt-auto">
-                                    <span class="text-white text-xs">🕒 ${relativeTime}</span>
-                                    <span class="${styles.readMore} text-xs opacity-0 group-hover:opacity-100 transition-opacity">Διαβάστε →</span>
+                                    <div class="flex items-center gap-3">
+                                        <span class="text-white text-xs">🕒 ${relativeTime}</span>
+                                        ${art.source ? `<span class="text-zinc-500 text-xs flex items-center gap-1">
+                                            <i class="fa-solid fa-newspaper text-[10px]"></i> ${art.source}
+                                        </span>` : ''}
+                                    </div>
+                                    <span class="${styles.readMore} text-xs opacity-100">Διαβάστε →</span>
                                 </div>
                             </div>
                         </a>
                     </div>`;
             }
         });
-        
+
         html += `</div>`;
         
         // Add "Load More" button
@@ -315,7 +325,7 @@ function renderNews(categories) {
         
         html += `</section>`;
     }
-    
+
     container.innerHTML = html;
 }
 
@@ -551,7 +561,7 @@ function startAutoRefresh() {
     const msUntilNext = getTimeUntilNextRoundInterval();
     nextRefreshTime = Date.now() + msUntilNext;
     
-    const now = new Date();
+        const now = new Date();
     console.log('✅ Auto-refresh configured to sync with clock (every :00, :15, :30, :45)');
     console.log(`⏰ Current time: ${now.toLocaleTimeString('el-GR')}`);
     console.log(`⏰ Next refresh at: ${new Date(nextRefreshTime).toLocaleTimeString('el-GR')} (in ${Math.floor(msUntilNext/1000)}s)`);
