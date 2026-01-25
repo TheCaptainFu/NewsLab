@@ -119,25 +119,14 @@ function extractImage(item) {
     return null;
 }
 
-// Extract source name from URL or feed title
+// Extract source name from URL (prioritize domain mapping over feed title)
 function getSourceName(url, feedTitle) {
-    // Try to get from feed title first
-    if (feedTitle) {
-        // Clean up common RSS feed title patterns
-        const cleaned = feedTitle
-            .replace(/^\s*RSS\s*[-–—]\s*/i, '')
-            .replace(/\s*RSS\s*Feed\s*$/i, '')
-            .replace(/\s*-\s*.*$/, '')
-            .trim();
-        if (cleaned) return cleaned;
-    }
-    
-    // Extract domain from URL
+    // Extract domain from URL first (more reliable)
     try {
         const urlObj = new URL(url);
         let domain = urlObj.hostname.replace(/^www\./, '');
         
-        // Map common domains to readable names
+        // Map common domains to clean, readable names
         const domainMap = {
             'newsit.gr': 'NewsIT',
             'protothema.gr': 'Πρώτο Θέμα',
@@ -146,9 +135,10 @@ function getSourceName(url, feedTitle) {
             'tanea.gr': 'Τα Νέα',
             'naftemporiki.gr': 'Ναυτεμπορική',
             'tovima.gr': 'Το Βήμα',
+            'gr.euronews.com': 'Euronews',
             'euronews.com': 'Euronews',
             'dw.com': 'DW',
-            'bbci.co.uk': 'BBC',
+            'bbci.co.uk': 'BBC News',
             'reuters.com': 'Reuters',
             'gazzetta.gr': 'Gazzetta',
             'sdna.gr': 'SDNA',
@@ -162,13 +152,40 @@ function getSourceName(url, feedTitle) {
             'pcmag.com': 'PC Magazine'
         };
         
+        // Check exact domain match first
         if (domainMap[domain]) {
             return domainMap[domain];
         }
         
-        // Fallback: capitalize first letter
+        // Check partial match (for subdomains like gr.euronews.com)
+        for (const [key, value] of Object.entries(domainMap)) {
+            if (domain.includes(key) || key.includes(domain)) {
+                return value;
+            }
+        }
+        
+        // If no mapping found, use domain name (cleaned)
+        const domainParts = domain.split('.');
+        if (domainParts.length >= 2) {
+            // Use second-to-last part (e.g., "newsit" from "newsit.gr")
+            const siteName = domainParts[domainParts.length - 2];
+            return siteName.charAt(0).toUpperCase() + siteName.slice(1);
+        }
+        
         return domain.split('.')[0].charAt(0).toUpperCase() + domain.split('.')[0].slice(1);
     } catch (e) {
+        // Fallback to feed title if URL parsing fails
+        if (feedTitle) {
+            const cleaned = feedTitle
+                .replace(/^\s*RSS\s*[-–—]\s*/i, '')
+                .replace(/\s*RSS\s*Feed\s*$/i, '')
+                .replace(/\s*-\s*.*$/, '')
+                .replace(/\s*:\s*.*$/, '') // Remove everything after colon
+                .trim();
+            if (cleaned && cleaned.length < 50) { // Only use if reasonable length
+                return cleaned;
+            }
+        }
         return 'Άγνωστη πηγή';
     }
 }

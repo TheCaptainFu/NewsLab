@@ -247,15 +247,17 @@ function renderNews(categories) {
                                     <h3 class="text-2xl md:text-3xl font-bold text-zinc-100 ${styles.titleHover} transition-colors mb-4 leading-tight">
                                         ${art.title}
                                     </h3>
-                                    ${longDescription ? `<p class="text-zinc-400 text-base leading-relaxed mb-4 line-clamp-4">${longDescription}</p>` : ''}
-                                    ${art.source ? `<p class="text-white text-sm mb-4">Πηγή: ${art.source}</p>` : ''}
-                                    <div class="flex items-center justify-between pt-4 border-t border-zinc-800 mt-auto">
-                                        <span class="text-white text-sm font-medium flex items-center gap-2">
-                                            <i class="fa-solid fa-clock"></i> ${relativeTime}
-                                        </span>
-                                        <span class="${styles.readMore} text-sm font-semibold opacity-100 flex items-center gap-2">
-                                            Διαβάστε περισσότερα <i class="fa-solid fa-arrow-right"></i>
-                                        </span>
+                                    ${longDescription ? `<p class="text-zinc-400 text-base leading-relaxed mb-6 line-clamp-4">${longDescription}</p>` : ''}
+                                    <div class="mt-auto">
+                                        ${art.source ? `<p class="text-zinc-500 text-sm mb-4">Πηγή: ${art.source}</p>` : ''}
+                                        <div class="flex items-center justify-between pt-4 border-t border-zinc-800">
+                                            <span class="text-white text-sm font-medium flex items-center gap-2">
+                                                <i class="fa-solid fa-clock"></i> ${relativeTime}
+                                            </span>
+                                            <span class="${styles.readMore} text-sm font-semibold opacity-100 flex items-center gap-2">
+                                                Διαβάστε περισσότερα <i class="fa-solid fa-arrow-right"></i>
+                                            </span>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -286,11 +288,13 @@ function renderNews(categories) {
                                 <h3 class="text-base font-bold text-zinc-100 ${styles.titleHover} transition-colors line-clamp-2 mb-3 leading-snug">
                                     ${art.title}
                                 </h3>
-                                ${description ? `<p class="text-zinc-400 text-sm leading-relaxed mb-2 line-clamp-3">${description}</p>` : ''}
-                                ${art.source ? `<p class="text-white text-xs mb-3">Πηγή: ${art.source}</p>` : ''}
-                                <div class="flex items-center justify-between pt-2 border-t border-zinc-800 mt-auto">
-                                    <span class="text-white text-xs">🕒 ${relativeTime}</span>
-                                    <span class="${styles.readMore} text-xs opacity-100">Διαβάστε →</span>
+                                ${description ? `<p class="text-zinc-400 text-sm leading-relaxed mb-3 line-clamp-3">${description}</p>` : ''}
+                                <div class="mt-auto">
+                                    ${art.source ? `<p class="text-zinc-500 text-xs mb-3">Πηγή: ${art.source}</p>` : ''}
+                                    <div class="flex items-center justify-between pt-2 border-t border-zinc-800">
+                                        <span class="text-white text-xs">🕒 ${relativeTime}</span>
+                                        <span class="${styles.readMore} text-xs opacity-100">Διαβάστε →</span>
+                                    </div>
                                 </div>
                             </div>
                         </a>
