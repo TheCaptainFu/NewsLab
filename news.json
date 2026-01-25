@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T01:10:27.256Z",
+  "lastUpdated": "2026-01-25T01:15:29.713Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Έρχεται shrinkflation και στο πασχαλινό καλάθι",
+          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/erxetai-shrinkflation-kai-sto-pasxalino-kalathi/",
+          "pubDate": "Sun, 25 Jan 2026 03:10:08 +0300",
+          "description": "Οι καταναλωτές στη Βρετανία διαπιστώνουν ότι φέτος το πασχαλινό αυγό κοστίζει ακριβότερα, αλλά ζυγίζει λιγότερο",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_618795371-768x458.jpg"
+        },
         {
           "title": "Ελβετία: Ο Παγκόσμιος Οργανισμός Υγείας εκφράζει θλίψη για την αποχώρηση των ΗΠΑ",
           "link": "https://www.in.gr/2026/01/25/world/elvetia-o-pagkosmios-organismos-ygeias-ekfrazei-thlipsi-gia-tin-apoxorisi-ton-ipa/",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 23:47:03 +0300",
           "description": "Κατά τον έλεγχο του χώρου διαπιστώθηκε σπασμένο τζάμι, από το οποίο άγνωστοι φέρεται να εισήλθαν στο κτήριο, προκαλώντας φθορές και βάζοντας φωτιά σε συγκεκριμένο γραφείο στο Πνευματικό Κέντρο στο Μοσχάτο",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/fotia-pneymatikou-mosxato-4-768x511.jpg"
-        },
-        {
-          "title": "Τουρκία: Το φιλοκουρδικό κόμμα DEM ζητά να σταματήσει η πολιορκία του Κομπάνι από τις συριακές δυνάμεις",
-          "link": "https://www.in.gr/2026/01/24/world/tourkia-filokourdiko-komma-dem-zita-na-stamatisei-poliorkia-tou-kompani-apo-tis-syriakes-dynameis/",
-          "pubDate": "Sat, 24 Jan 2026 23:40:57 +0300",
-          "description": "Η Τουρκία θεωρεί τις SDF απειλή για τη χώρα του, καθώς πιστεύει ότι συνδέονται με το Εργατικό Κόμμα του Κουρδιστάν (PKK)",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-20T161455Z_221434201_RC2Y4JAOIV07_RTRMADP_5_SYRIA-SECURITY-TURKEY-KURDS-768x492.jpg"
         }
       ]
     },
