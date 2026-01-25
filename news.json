@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T16:15:24.633Z",
+  "lastUpdated": "2026-01-25T16:20:29.787Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πέθανε ο 75χρονος που έπεσε από μπαλκόνι τετάρτου ορόφου στη Θεσσαλονίκη",
+          "link": "https://www.protothema.gr/greece/article/1763122/se-krisimi-katastasi-nosileuetai-75hronos-pou-epese-apo-balkoni-tritou-orofou-sti-thessaloniki/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 18:15:00 +0200",
+          "description": "Ο ηλικιωμένος νοσηλευόταν σε κρίσιμη κατάσταση στο Ιπποκράτειο, μετά την πτώση του σήμερα το μεσημέρι στην Τούμπα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-07/ekab12.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Τραγωδία στα Κρέστενα: Νεκρή 74χρονη που πήγε να μαζέψει μανταρίνια – Έπεσε και σκοτώθηκε",
+          "link": "https://www.newsit.gr/ellada/tragodia-sta-krestena-nekri-74xroni-pou-pige-na-mazepsei-mantarinia-epese-kai-skotothike/4583080/",
+          "pubDate": "Sun, 25 Jan 2026 16:14:48 +0000",
+          "description": "Τραγικό θάνατο βρήκε μια 74χρονη στο χωριό Καλυβάκια του Δήμου Ανδρίτσαινας Κρεστένων το Σάββατο (25.01.2026), όταν πήγε να μαζέψει μανταρίνια. Η γυναίκα από τα Κρέστενα, ...  \nTo άρθρο Τραγωδία στα Κρέστενα: Νεκρή 74χρονη που πήγε να μαζέψει μανταρίνια – Έπεσε και σκοτώθηκε δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/asthenoforo-5-1200x675.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Χρήστος Σαντικάι: Δούλευα βοηθός σερβιτόρου στα μαγαζιά που τραγουδούσε ο Νίκος Οικονομόπουλος",
           "link": "https://www.newsit.gr/lifestyle/xristos-santikai-douleya-voithos-servitorou-sta-magazia-pou-tragoudouse-o-nikos-oikonomopoulos/4583086/",
@@ -231,22 +247,6 @@
           "description": "Το avatar της Amelia, που δημιουργήθηκε για να αποτρέψει τους νέους από τον εξτρεμισμό, έχει διαστρεβλωθεί και εξαπλώνεται πέρα από τα στενά όρια του διαδικτύου",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_DcAwgXEAAsVf1-768x579.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Με δύο σακούλες βιβλία έφυγε ο Κυριάκος Πιερρακάκης από το 29ο παζάρι βιβλίου στην πλατεία Κλαυθμώνος, δείτε βίντεο",
-          "link": "https://www.protothema.gr/greece/article/1763117/me-duo-sakoules-vivlia-efuge-o-kuriakos-pierrakakis-apo-29o-pazari-vivliou-stin-plateia-klauthmonos-deite-video/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 16:31:00 +0200",
-          "description": "«Χιλιάδες βιβλία, καθένα μια πρόκληση να ανακαλύψεις ιδέες, σκέψεις και εμπειρίες», σημειώνει στην ανάρτησή  του για το παζάρι που  πραγματοποιείται από τις 23 Ιανουαρίου έως τις 15 Φεβρουαρίου",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/pierakakisbiblia-xrm.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Φώκιες εμφανίστηκαν σε λιμάνι της Εύβοιας, δείτε βίντεο\n",
-          "link": "https://www.protothema.gr/greece/article/1763119/fokies-emfanistikan-se-limani-tis-euvoias-deite-video/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 16:30:54 +0200",
-          "description": "Η παρουσία των θαλάσσιων θηλαστικών προκάλεσε ενθουσιασμό σε κατοίκους και επισκέπτες",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/fokia-xrm.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -274,7 +274,7 @@
           "title": "Συμβιβασμός στη ΝΕΑΡ: Πώς αποφεύχθηκε η ρήξη ανάμεσα σε Χαρίτση – Σακελλαρίδη",
           "link": "https://www.tanea.gr/2026/01/25/politics/symvivasmos-sti-near-pos-apofeyxthike-i-riksi-anamesa-se-xaritsi-sakellaridi/",
           "pubDate": "Sun, 25 Jan 2026 15:16:28 +0000",
-          "description": "Η επιτροπή πολιτικής απόφασης του συνεδρίου της ΝΕΑΡ κατέληξε σε μια συμβιβαστική λύση στη διαφαινόμενη κρίση που υπήρχε τις τελευταίες ημέρες. Η πολιτική απόφαση προβλέπει τη συμφωνία σε προσανατολισμό λαϊκού μετώπου, το οποίο ήταν και το ζητούμενο για την πλευρά Χαριτση. Παράλληλα, ξεκαθαρίζεται ότι η κριτική σε άλλα σχήματα δεν αποκλείει τον διάλογο με αυτά. […]",
+          "description": "Με μία συμβιβαστική πολιτική πρόταση το Συνέδριο της Νέας Αριστεράς απέφυγε τον κίνδυνο της ρήξης που ήταν ορατός από την έναρξη των εργασιών. Το σχέδιο πολιτικής απόφασης στο οποίο κατέληξε η αντίστοιχη Επιτροπή και το οποίο διάβασε στο σώμα του Συνεδρίου ο γραμματέας του κόμματος, Γαβριήλ Σακελλαρίδης αναφέρει μεταξύ άλλων: «Η ΝΔ παραμένει κυρίαρχη αλλά […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/aristera-1024x683.jpg",
           "source": "Τα Νέα"
         },
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Super League 2: Ο ΠΑΣ Γιάννινα ζήτησε VAR στα Play Outs",
+          "link": "https://www.gazzetta.gr/football/superleague-2/2510089/super-league-2-o-pas-giannina-zitise-var-sta-play-outs",
+          "pubDate": "Sun, 25 Jan 2026 18:16:01 +0200",
+          "description": "Ο ΠΑΣ Γιάννινα με ανακοίνωση του κατέθεσε πρόταση να εξεταστεί το ενδεχόμενο της εφαρμογής τεχνολογίας VAR στα ματς των Play Outs της Super League 2.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/siontis.jpg?itok=bX_YyCgK",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άρης - Λεβαδειακός: Ο Κωστή στο 93' έγραψε το 2-2",
+          "link": "https://www.gazzetta.gr/football/superleague/2510088/aris-lebadeiakos-o-kosti-sto-93-egrapse-2-2",
+          "pubDate": "Sun, 25 Jan 2026 18:15:14 +0200",
+          "description": "Το γκολ του Κωστή στο 93' για το 2-2 του Λεβαδειακού κόντρα στον Άρη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kosti.jpg?itok=hKGzlaS8",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Δουβίκας: «Μου έμαθε πολλά ο Μπενίτεθ»",
+          "link": "https://www.gazzetta.gr/football/serie/2510078/doybikas-moy-emathe-polla-o-mpeniteth",
+          "pubDate": "Sun, 25 Jan 2026 18:14:00 +0200",
+          "description": "Ο Τάσος Δουβίκας έδωσε συνέντευξη στην Gazzetta dello Sport και, μεταξύ άλλων, αναφέρθηκε στη συνεργασία του με τον Ράφα Μπενίτεθ στη Θέλτα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/douvikas_2.jpg?itok=crgFvF0E",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Το απίστευτο ποσό που χάνουμε κάθε χρόνο από το πορτοφόλι μας λόγω ρευματοκλοπών",
           "link": "https://www.gazzetta.gr/plus/2510087/apisteyto-poso-poy-hanoyme-kathe-hrono-apo-portofoli-mas-logo-reymatoklopon",
           "pubDate": "Sun, 25 Jan 2026 18:13:59 +0200",
@@ -961,30 +985,6 @@
           "description": "Ο Γιάννης Βρούτσης βρίσκεται στο Βελιγράδι για τον μικρό τελικό του Ευρωπαϊκού Πρωταθλήματος πόλο και θεσμικές επαφές με τη σερβική αθλητική ηγεσία...",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vroutsis_0.jpg?itok=xB2tTI-j",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ατλέτικο Μαδρίτης - Μαγιόρκα 3-0: «Αστεράτη» τριάρα ",
-          "link": "https://www.gazzetta.gr/football/la-liga/2510062/atletiko-madritis-magiorka-3-0-asterati-triara",
-          "pubDate": "Sun, 25 Jan 2026 17:02:05 +0200",
-          "description": "Η Ατλέτικο Μαδρίτης έκανε το χρέος της απέναντι στη Μαγιόρκα, επικράτησε 3-0 και παρέμεινε σταθερά σε πορεία προς τον επόμενο Champions League.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/atletico_madrid_mallorca.jpg?itok=a_dzXtzC",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Super League 2: Πότε αρχίζουν Play Offs - Play Outs και πώς διαμορφώνεται η βαθμολογία στο Νότο",
-          "link": "https://www.gazzetta.gr/football/superleague-2/2510061/super-league-2-pote-arhizoyn-play-offs-play-outs-kai-pos",
-          "pubDate": "Sun, 25 Jan 2026 16:59:57 +0200",
-          "description": "Η βαθμολογία των Play Offs και των Play Outs του Νοτίου της Super League 2 μετά την ολοκλήρωση της κανονικής διάρκειας. Στις 15/2 η σέντρα στα «μίνι» πρωταθλήματα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kalamata-panionios_1.jpg?itok=4agwLhqx",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Super League 2: «Buzzer beater» της Καλαμάτας κόντρα στην Ελλάς Σύρου, στην 4αδα ο Ολυμπιακός Β'",
-          "link": "https://www.gazzetta.gr/football/superleague-2/2510060/super-league-2-buzzer-beater-tis-kalamatas-kontra-stin-ellas-syroy",
-          "pubDate": "Sun, 25 Jan 2026 16:59:35 +0200",
-          "description": "Τα αποτελέσματα της τελευταίας αγωνιστικής της κανονικής διάρκειας του Νοτίου Ομίλου της Super League 2.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kalamata-ellas.jpg?itok=Y7bNsDm8",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Αταμάν: «Είχαμε αργό τέμπο! – Υπάρχει πνευματική και σωματική κούραση»",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/ataman-eichame-argo-tebo-yparchei-pn/?utm_source=rss&utm_medium=rss&utm_campaign=ataman-eichame-argo-tebo-yparchei-pn",
+          "pubDate": "Sun, 25 Jan 2026 16:16:56 +0000",
+          "description": "Ο Εργκίν Αταμάν μίλησε στην συνέντευξη Τύπου, μετά την αναμέτρηση του Παναθηναϊκού μρ το Μαρούσι και σχολίασε τα όσα έκανε η ομάδα! Όσα είπε ο προπονητής του Παναθηναϊκού: «Ξεκίνησαμε το παιχνίδι με ένα τέμπο αργό, όμως είναι λογικό γιατί προερχόμασταν από διπλή εβδομάδα και είχαμε ελλείψεις. Οπότε, ήταν λογικό που κάποιοι έπαιξαν παραπάνω και φυσικό […]\nThe post Αταμάν: «Είχαμε αργό τέμπο! – Υπάρχει πνευματική και σωματική κούραση» appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Ataman-16.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Παναθηναϊκός – Μαρούσι 92-81 | HIGHLIGHTS",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-marousi-92-81-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-92-81-highlights",
@@ -1175,14 +1183,6 @@
           "description": "Ο Παναθηναϊκός ανακοίνωσε την 12άδα που θα παρατάξει στο παιχνίδι της 16ης αγωνιστικής κόντρα στο Μαρούσι.\nThe post Η… 10άδα του Παναθηναϊκού με Μαρούσι! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Παναθηναϊκός: Με… δέκα ο Αταμάν κόντρα στο Μαρούσι!",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-me-deka-o-ataman-kontra/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-me-deka-o-ataman-kontra",
-          "pubDate": "Sun, 25 Jan 2026 12:48:26 +0000",
-          "description": "Γνωστή έγινε η… δεκάδα του Παναθηναϊκού, για το παιχνίδι της 16ης αγωνιστικής της GBL κόντρα στο Μαρούσι. Στο πλαίσιο της 16ης αγωνιστικής της GBL, ο Παναθηναϊκός υποδέχεται το Μαρούσι, γνωστοποιώντας τη δωδεκάδα με την οποία θα παραταχθεί σε ακόμη μία υποχρέωση πρωταθλήματος. Το «Τριφύλλι» βρίσκεται στη 2η θέση της βαθμολογίας με ρεκόρ 13-1 και παραμένει […]\nThe post Παναθηναϊκός: Με… δέκα ο Αταμάν κόντρα στο Μαρούσι! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/toliopoulos-basket.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Έξω και ο Γιούρτσεβεν με Μαρούσι! – Ο λόγος της απουσίας του",
