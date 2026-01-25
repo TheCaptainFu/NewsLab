@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T12:55:24.604Z",
+  "lastUpdated": "2026-01-25T13:00:35.400Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τρεις συλλήψεις για ναρκωτικά στα Χανιά",
+          "link": "https://www.protothema.gr/greece/article/1763086/treis-sullipseis-gia-narkotika-sta-hania/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 14:56:23 +0200",
+          "description": "Συνελήφθησαν τρία άτομα ηλικίας 19, 24, 47 ετών",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2025-01-15/xeiropedes-750x375.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Σύλληψη έξι ατόμων για διάφορα αδικήματα στη Θεσσαλονίκη",
           "link": "https://www.protothema.gr/greece/article/1763082/sullipsi-exi-atomon-gia-diafora-adikimata-stin-thessaloniki/?utm_source=rss",
@@ -18,14 +26,14 @@
         },
         {
           "title": "Αντρέας Γεωργίου: Το beef με τον Κωνσταντίνο Βασάλο, το spoiler για τη «Γη της ελιάς» και η εξομολόγηση για την κόρη του",
-          "link": "https://www.newsit.gr/lifestyle/antreas-georgiou-to-beef-me-ton-konstantino-vasalo-to-spoiler-gia-ti-gi-tis-elias-kai-i-eksomologisi-gia-tin-kori-tou/4582966/",
+          "link": "https://www.newsit.gr/media/antreas-georgiou-to-beef-me-ton-konstantino-vasalo-to-spoiler-gia-ti-gi-tis-elias-kai-i-eksomologisi-gia-tin-kori-tou/4582966/",
           "pubDate": "Sun, 25 Jan 2026 12:46:56 +0000",
           "description": "Μία νέα τηλεοπτική συνέντευξη έδωσε ο Αντρέας Γεωργίου και αναφέρθηκε στη «Γη της ελιάς», τον ερχομό της κόρης του, ενώ ταυτόχρονα έλυσε on και την ...  \nTo άρθρο Αντρέας Γεωργίου: Το beef με τον Κωνσταντίνο Βασάλο, το spoiler για τη «Γη της ελιάς» και η εξομολόγηση για την κόρη του δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/antreas-georgiou-1200x726.jpg",
+          "thumbnail": null,
           "source": "NewsIT"
         },
         {
-          "title": "Νεκρός από φωτιά σε σπίτι στην Πάτρα εντοπίστηκε ένας άντρας",
+          "title": "Νεκρός από φωτιά σε σπίτι στην Πάτρα εντοπίστηκε ένας 75χρονος",
           "link": "https://www.protothema.gr/greece/article/1763081/nekros-apo-fotia-se-spiti-stin-patra-edopistike-enas-adras/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 14:34:00 +0200",
           "description": "Η φωτιά εκδηλώθηκε σε διπλοκατοικία και στην επιχείρηση κατάσβεσης συμμετείχαν 12 πυροσβέστες με 5 οχήματα",
@@ -119,6 +127,14 @@
           "description": "Ανατροπές και δυσάρεστες εκπλήξεις περιμένουν τους ήρωες της δραματικής σειράς του MEGA, «Μια νύχτα μόνο», ενώ ο χρόνος κυλά σε βάρος των σχέσεών τους. Τα ...  \nTo άρθρο Μία νύχτα μόνο – επόμενα επεισόδια: Η Αρετή φεύγει από την Αθήνα καθώς δεν αντέχει την πίεση του Οδυσσέα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mia-nuxta-mono2-1200x675.png",
           "source": "NewsIT"
+        },
+        {
+          "title": "Live Streaming: Ολυμπιακός Β’ – Αιγάλεω",
+          "link": "https://www.in.gr/2026/01/25/sports/football/live-streaming-olympiakos-v-aigaleo-2/",
+          "pubDate": "Sun, 25 Jan 2026 14:55:57 +0300",
+          "description": "Live Streaming: Ολυμπιακός Β’ – Αιγάλεω. Παρακολουθήστε μέσω Live Streaming στις 15:00 από το MEGA News την αναμέτρηση Ολυμπιακός Β’ – Αιγάλεω για τη 18η αγωνιστική της Superleague 2.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6807723-1-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Καιρός: Συνεδρίασε η Επιτροπή εκτίμησης κινδύνου μετά το έκτακτο δελτίο της ΕΜΥ για επιδείνωση",
@@ -231,22 +247,6 @@
           "description": "Ο Παναθηναϊκός λίγο πριν αντιμετωπίσει τον Ατρόμητο για την 18η αγωνιστική της Super League (25/01/26, 19:30, Newsit.gr, Novasports Prime) έφτασε σε συμφωνία με την Ουνιόν ...  \nTo άρθρο Ο Παναθηναϊκός έφτασε σε συμφωνία με την Ουνιόν Βερολίνου για τον Άλεξ Κραλ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alexkral-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "«Η Σία Κοσιώνη περνάει μία μικρή περιπέτεια, “ταχεία ανάρρωση”», είπε η Στέλλα Γκαντώνα",
-          "link": "https://www.newsit.gr/media/i-sia-kosioni-pernaei-mia-mikri-peripeteia-taxeia-anarrosi-eipe-i-stella-gkantona/4582953/",
-          "pubDate": "Sun, 25 Jan 2026 11:19:30 +0000",
-          "description": "Το πρωί της Κυριακής (25.01.2026) η Στέλλα Γκαντώνα και ο Ντίνος Σιωμόπουλος έκαναν αναφορά στο πρόβλημα υγείας που ταλαιπωρεί τις τελευταίες ημέρες τη Σία Κοσιώνη, ...  \nTo άρθρο «Η Σία Κοσιώνη περνάει μία μικρή περιπέτεια, “ταχεία ανάρρωση”», είπε η Στέλλα Γκαντώνα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sia-kosioni-ndp-1200x658.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Το κέρδος από το «γεμάτο» ρόστερ και το ποσοστό του Άγιαξ",
-          "link": "https://www.in.gr/2026/01/25/sports/on-field/olympiakos-kerdos-apo-gemato-roster-kai-pososto-tou-agiaks/",
-          "pubDate": "Sun, 25 Jan 2026 14:16:00 +0300",
-          "description": "Το rotation του Μεντιλίμπαρ που έκανε την δουλειά του, η δεύτερη φορά ξεκούραστα και ο Άγιαξ που δεν έχει την αίγλη του παρελθόντος αλλά σφύζει από ταλέντο",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823319-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "ΣΥΡΙΖΑ για ανάρτηση Κ. Μητσοτάκη: Η θέση της Ελλάδας πρέπει να είναι ξεκάθαρη, όχι να ισορροπεί σε δύο βάρκες",
+          "link": "https://www.naftemporiki.gr/politics/2063562/syriza-gia-anartisi-k-mitsotaki-i-thesi-tis-elladas-prepei-na-einai-xekathari-ochi-na-isorropei-se-dyo-varkes/?utm_source=rss&utm_medium=rss&utm_campaign=syriza-gia-anartisi-k-mitsotaki-i-thesi-tis-elladas-prepei-na-einai-xekathari-ochi-na-isorropei-se-dyo-varkes",
+          "pubDate": "Sun, 25 Jan 2026 12:56:15 +0000",
+          "description": "Κριτική στον πρωθυπουργό με αιχμή τα όσα αναφέρει στην κυριακάτικη ανάρτησή του ασκεί ο ΣΥΡΙΖΑ.\nΣΥΡΙΖΑ για ανάρτηση Κ. Μητσοτάκη: Η θέση της Ελλάδας πρέπει να είναι ξεκάθαρη, όχι να ισορροπεί σε δύο βάρκες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Στα όρια της ρήξης η Νέα Αριστερά – Σκληρή επίθεση Νίκου Βούτση στον Αλέξη Τσίπρα ",
           "link": "https://www.naftemporiki.gr/politics/2063557/sta-oria-tis-rixis-i-nea-aristera-skliri-epithesi-nikoy-voytsi-ston-alexi-tsipra/?utm_source=rss&utm_medium=rss&utm_campaign=sta-oria-tis-rixis-i-nea-aristera-skliri-epithesi-nikoy-voytsi-ston-alexi-tsipra",
@@ -483,14 +491,6 @@
           "link": "https://www.naftemporiki.gr/politics/2063259/anna-diamantopoyloy-stin-efsyn-politika-kai-ithika-den-mporoyme-na-synergastoyme-me-ti-nea-dimokratia/?utm_source=rss&utm_medium=rss&utm_campaign=anna-diamantopoyloy-stin-efsyn-politika-kai-ithika-den-mporoyme-na-synergastoyme-me-ti-nea-dimokratia",
           "pubDate": "Sat, 24 Jan 2026 11:26:15 +0000",
           "description": "Την ανάγκη το ΠΑΣΟΚ να δώσει «διέξοδο για μια άλλη διακυβέρνηση» υπογραμμίζει η Άννα Διαμαντοπούλου, απορρίπτοντας ρητά κάθε ενδεχόμενο συνεργασίας με τη Νέα Δημοκρατία και θέτοντας ως κεντρικό διακύβευμα την…\nΆννα Διαμαντοπούλου στην ΕΦΣΥΝ: Πολιτικά και ηθικά δεν μπορούμε να συνεργαστούμε με τη Νέα Δημοκρατία - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Πηγές του ΥΕΘΑ διαψεύδουν τα περί πώλησης κτιρίου του Πολεμικού Ναυτικού στην πλατεία Κλαυθμώνος",
-          "link": "https://www.naftemporiki.gr/politics/2063247/piges-toy-yetha-diapseydoyn-ta-peri-polisis-ktirioy-toy-polemikoy-naytikoy-stin-plateia-klaythmonos/?utm_source=rss&utm_medium=rss&utm_campaign=piges-toy-yetha-diapseydoyn-ta-peri-polisis-ktirioy-toy-polemikoy-naytikoy-stin-plateia-klaythmonos",
-          "pubDate": "Sat, 24 Jan 2026 10:28:48 +0000",
-          "description": "Δημοσιεύματα περί δήθεν «πώλησης του κτιρίου του Πολεμικού Ναυτικού στην Πλατεία Κλαυθμώνος» διαψεύδουν κατηγορηματικά πηγές του υπουργείου Εθνικής Άμυνας .\nΠηγές του ΥΕΘΑ διαψεύδουν τα περί πώλησης κτιρίου του Πολεμικού Ναυτικού στην πλατεία Κλαυθμώνος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
@@ -747,7 +747,15 @@
       "color": "green",
       "articles": [
         {
-          "title": "Κολοσσός - Ολυμπιακός: Μπουνιές ανάμεσα σε Βεζένκοφ και Πετρόπουλο - Ο παίκτης του Κολοσσού τον έσπρωξε στη βάση της μπασκέτας!",
+          "title": "Το «αστρονομικό» ποσό που εξοικονόμησε το Μαρόκο από την διεξαγωγή του Κύπελλο Εθνών Αφρικής!",
+          "link": "https://www.gazzetta.gr/football/copa-africa/2509998/astronomiko-poso-poy-exoikonomise-maroko-apo-tin-diexagogi-toy-kypello",
+          "pubDate": "Sun, 25 Jan 2026 14:58:29 +0200",
+          "description": "Το Μαρόκο φιλοξένησε την 35η έκδοση του Κυπέλλου Εθνών Αφρικής, με την διοργανώτρια χώρα να εξοικονομεί πάνω από 1,5 δισεκατομμύριο ευρώ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/brahim_diaz_morocco.jpg?itok=fB_2uHGB",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κολοσσός - Ολυμπιακός: Μπουνιές ανάμεσα σε Βεζένκοβ και Πετρόπουλο - Ο παίκτης του Κολοσσού τον έσπρωξε στη βάση της μπασκέτας!",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2509994/kolossos-olympiakos-mpoynies-anamesa-se-bezenkof-kai-petropoylo-o",
           "pubDate": "Sun, 25 Jan 2026 14:53:00 +0200",
           "description": "Ο Σάσα Βεζένκοβ και ο Αντώνης Πετρόπουλος πιάστηκαν στα χέρια με αποτέλεσμα ο σταρ του Ολυμπιακού να αποβάλλεται από την αναμέτρηση.",
@@ -976,14 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 13:02:15 +0200",
           "description": "Συνελήφθη νεαρός στη Ρουμανία επειδή έβαλε κρυφά την κάρτα του προπάππου του στο κινητό του και παρήγγειλε φαγητό αξίας 3.000 ευρώ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sumup-shb9pi4mprg-unsplash.jpg?itok=W9VIEpma",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ford: Το Puma πιο προσιτό από ποτέ και σε τιμή έκπληξη",
-          "link": "https://www.gazzetta.gr/gmotion/2509727/ford-puma-pio-prosito-apo-pote-kai-se-timi-ekplixi",
-          "pubDate": "Sun, 25 Jan 2026 13:00:00 +0200",
-          "description": "Το δημοφιλές μοντέλο διατίθεται πλέον από 22.550€, με υβριδική τεχνολογία EcoBoost Hybrid, ευέλικτα χρηματοδοτικά προγράμματα και κορυφαίους χώρους στην κατηγορία.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/2024_ford_puma_91.jpg?itok=yLhBFGwp",
           "source": "Gazzetta"
         }
       ]
