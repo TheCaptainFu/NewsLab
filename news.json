@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T17:35:27.759Z",
+  "lastUpdated": "2026-01-25T17:40:28.785Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Θρίλερ στην Κωνσταντινούπολη με πτώμα γυναίκας χωρίς κεφάλι και πόδια σε κάδο σκουπιδιών",
+          "link": "https://www.newsit.gr/kosmos/thriler-stin-konstantinoupoli-me-ptoma-gynaikas-xoris-kefali-kai-podia-se-kado-skoupidion/4583172/",
+          "pubDate": "Sun, 25 Jan 2026 17:39:59 +0000",
+          "description": "Συναγερμός στην Κωνσταντινούπολη από το ακέφαλο πτώμα μίας γυναίκας, το οποίο ήταν επίσης ακρωτηριασμένο στα πόδια. Το μακάβριο εύρημα εντοπίστηκε μέσα σε κάδο απορριμμάτων, μεταδίδουν ...  \nTo άρθρο Θρίλερ στην Κωνσταντινούπολη με πτώμα γυναίκας χωρίς κεφάλι και πόδια σε κάδο σκουπιδιών δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/konstantinoupoli-woman-25012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Εθνική πόλο ανδρών: Αυτά είναι τα μετάλλια της Ελλάδας μετά την κατάκτηση του χάλκινου στο ευρωπαϊκό",
           "link": "https://www.newsit.gr/athlitika/ethniki-polo-andron-ayta-einai-ta-metallia-tis-elladas-meta-tin-kataktisi-tou-xalkinou-sto-eyropaiko/4583180/",
@@ -45,7 +53,7 @@
           "link": "https://www.newsit.gr/athlitika/atromitos-panathinaikos-live-gia-tin-18i-agonistiki-tis-super-league/4583040/",
           "pubDate": "Sun, 25 Jan 2026 17:15:21 +0000",
           "description": "Ο Παναθηναϊκός αντιμετωπίζει εκτός έδρας τον Ατρόμητο για την 18η αγωνιστική της Super League, με τις δύο ομάδες να ψάχνουν το τρίποντο για να ανέβουν ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός live για την 18η αγωνιστική της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-atromitos-1200x799.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bakasetas-1200x801.jpg",
           "source": "NewsIT"
         },
         {
@@ -145,6 +153,22 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Οι μεγάλες επιτυχίες της «γαλανόλευκης»: Όλα τα μετάλλια της Εθνικής πόλο ανδρών",
+          "link": "https://www.in.gr/2026/01/25/sports/othersports/oi-megales-epityxies-tis-galanoleykis-ola-ta-metallia-tis-ethnikis-polo-andron/",
+          "pubDate": "Sun, 25 Jan 2026 19:37:35 +0300",
+          "description": "Το πλούσιο παλμαρέ της Εθνικής πόλο ανδρών μετά το χάλκινο μετάλλιο στο Ευρωπαϊκό Πρωτάθλημα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6825286-768x496.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Στη φυλακή 4 μέλη του κυκλώματος με τις πειραγμένες αντλίες βενζινάδικων – Συνεχίζονται οι απολογίες",
+          "link": "https://www.in.gr/2026/01/25/greece/sti-fylaki-4-meli-tou-kyklomatos-tis-peiragmenes-antlies-venzinadikon-synexizontai-oi-apologies/",
+          "pubDate": "Sun, 25 Jan 2026 19:36:58 +0300",
+          "description": "Τα μέλη της φερόμενης εγκληματικής οργάνωσης, μέσα από ειδικό λογισμικό που είχαν εγκαταστήσει σε βενζινάδικα εξαπατούσαν τους πολίτες παραδίδοντας μειωμένη ποσότητα βενζίνης από την αναγραφόμενη",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/photo_6032689151498456019_y-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Νέα πυρά κατά του Φειδία Παναγιώτου: Αποκάλεσε τρελούς τους αθλητές παραολυμπιακών αθλημάτων με εγκεφαλικά προβλήματα",
           "link": "https://www.protothema.gr/greece/article/1763166/nea-pura-kata-tou-feidia-panagiotou-apokalese-trelous-tous-athlites-paraolubiakon-athlimaton-me-egefalika-provlimata/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 18:30:43 +0200",
@@ -223,30 +247,6 @@
           "description": "Απίστευτη φρίκη στη Μεσσηνία. «Άνθρωποι» σκότωσαν σκύλο και κρέμασαν το ζώο από δέντρο. Την άγρια δολοφονία του άτυχου τετράποδου καταγγέλλει ο Φιλοζωικός Όμιλος Καλαμάτας με ...  \nTo άρθρο Κτηνωδία στη Μεσσηνία: Σκότωσαν σκύλο και τον κρέμασαν σε δέντρο – «Σάπια κοινωνία» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/skylos-25012026.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ιταλία – Ελλάδα 5-12: Χάλκινο το πρώτο μετάλλιο σε Ευρωπαϊκό για τα χρυσά παιδιά του πόλο!",
-          "link": "https://www.in.gr/2026/01/25/sports/othersports/italia-ellada-5-12-xalkino-proto-metallio-se-eyropaiko-gia-ta-xrysa-paidia-tou-polo/",
-          "pubDate": "Sun, 25 Jan 2026 19:16:41 +0300",
-          "description": "Η Εθνική ομάδα πόλο των ανδρών διέλυσε την παγκόσμια υπερδύναμη Ιταλία στον μικρό τελικό του Βελιγραδίου και πήρε το χάλκινο μετάλλιο, το πρώτο στην ιστορία της σε Ευρωπαϊκό Πρωτάθλημα!",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6825253-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Γλυφάδα: «Επικίνδυνος για τον εαυτό του και το περιβάλλον του» – Τι έλεγε το αποφυλακιστήριο του 46χρονου το 2018",
-          "link": "https://www.in.gr/2026/01/25/greece/glyfada-epikindynos-gia-ton-eayto-tou-kai-perivallon-tou-ti-leei-apofylakistirio-tou-46xronou/",
-          "pubDate": "Sun, 25 Jan 2026 19:15:47 +0300",
-          "description": "O 46χρονος, είχε βγει από το Ψυχιατρείο Κρατουμένων Κορυδαλλού στις 3 Μαΐου του 2018, κάνοντας χρήση των διατάξεων του λεγόμενου νόμου Παρασκευόπουλου",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/photo_2026-01-25_19-12-06-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Πέθανε ο 75χρονος που έπεσε από μπαλκόνι τετάρτου ορόφου στη Θεσσαλονίκη",
-          "link": "https://www.protothema.gr/greece/article/1763122/se-krisimi-katastasi-nosileuetai-75hronos-pou-epese-apo-balkoni-tritou-orofou-sti-thessaloniki/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 18:15:00 +0200",
-          "description": "Ο ηλικιωμένος νοσηλευόταν σε κρίσιμη κατάσταση στο Ιπποκράτειο, μετά την πτώση του σήμερα το μεσημέρι στην Τούμπα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-07/ekab12.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Πετρόπουλος: «Ελπίζω τα φρένα του αυτοκινήτου να κόπηκαν μόνα τους!»",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510117/petropoylos-elpizo-ta-frena-toy-aytokinitoy-na-kopikan-mona-toys",
+          "pubDate": "Sun, 25 Jan 2026 19:38:37 +0200",
+          "description": "Ο Ανδρέας Πετρόπουλος, με story στο Instagram μετά τον αγώνα με τον Ολυμπιακό, ανέφερε ότι άγνωστος έκοψε τα φρένα του αυτοκινήτου του!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/677c9dd6-b2f5-4dd8-89af-8f8a65479bb8.jpg?itok=04jPnG7S",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Η νέα «ιταλική απάτη» μέσω WhatsApp: Χρησιμοποίησαν τον αριθμό του για να ζητήσουν 800 ευρώ",
+          "link": "https://www.gazzetta.gr/plus/2510116/i-nea-italiki-apati-meso-whatsapp-hrisimopoiisan-ton-arithmo-toy-gia-na-zitisoyn-800",
+          "pubDate": "Sun, 25 Jan 2026 19:35:26 +0200",
+          "description": "Απάτη μέσω WhatsApp έπληξε εστιάτορα στην Ιταλία: Επιτήδειοι απέκτησαν πρόσβαση στον λογαριασμό του και ζήτησαν μεταφορά χρημάτων από τις επαφές του, παριστάνοντας τον ίδιο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/apati.jpg?itok=rpUoUB6j",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ατρόμητος - Παναθηναϊκός: Ο Αντίνο βρίσκεται στο Περιστέρι",
           "link": "https://www.gazzetta.gr/football/superleague/2510115/atromitos-panathinaikos-o-antino-brisketai-sto-peristeri",
           "pubDate": "Sun, 25 Jan 2026 19:33:55 +0200",
@@ -823,7 +839,7 @@
           "link": "https://www.newsit.gr/athlitika/atromitos-panathinaikos-live-gia-tin-18i-agonistiki-tis-super-league/4583040/",
           "pubDate": "Sun, 25 Jan 2026 17:15:21 +0000",
           "description": "Ο Παναθηναϊκός αντιμετωπίζει εκτός έδρας τον Ατρόμητο για την 18η αγωνιστική της Super League, με τις δύο ομάδες να ψάχνουν το τρίποντο για να ανέβουν ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός live για την 18η αγωνιστική της Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-atromitos-1200x799.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bakasetas-1200x801.jpg",
           "source": "NewsIT"
         },
         {
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 18:30:00 +0200",
           "description": "Οι εντολές του Ραζβάν Λουτσέσκου για πίεση και η γκολάρα του Χατσίδη στο δίτερμα του ΠΑΟΚ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hatsidis_1_0.jpg?itok=zlzr1Srp",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ράτσιτς: «Κάποιες στιγμές μας λείπει η τακτική ευφυία»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510094/ratsits-kapoies-stigmes-mas-leipei-i-taktiki-eyfyia",
-          "pubDate": "Sun, 25 Jan 2026 18:29:54 +0200",
-          "description": "Ο Ούρος Ράτσιτς αναφέρθηκε στις επιπολαιότητες που πληρώνει ο Άρης από το ξεκίνημα της χρονιάς σαν αυτή που «πλήγωσε» και στην ισοπαλία με τον Λεβαδειακό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/5004111_1.jpg?itok=Vw5lDvf_",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Έφερε στην Ελλάδα τον Κροάτη Σέντλατσεκ",
-          "link": "https://www.gazzetta.gr/volleyball/volley-league/2510093/olympiakos-efere-stin-ellada-ton-kroati-sentlatsek",
-          "pubDate": "Sun, 25 Jan 2026 18:28:05 +0200",
-          "description": "Ο Κροάτης Μάρκο Σέντλατσεκ είναι που έφτασε στην Ελλάδα για λογαριασμό της ομάδας του Ολυμπιακού.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_meta1_1.jpg?itok=UqTUPZ7n",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Microsoft: Παρέδωσε στο FBI κλειδιά κρυπτογράφησης BitLocker – Η πρώτη δημόσια επιβεβαιωμένη περίπτωση",
+          "link": "https://gr.pcmag.com/it-security/51120/microsoft-paredose-sto-fbi-kleidia-kruptographeses-bitlocker-e-prote-demosia-epibebaiomene-periptose",
+          "pubDate": "Sun, 25 Jan 2026 17:21:41 +0000",
+          "description": "Σε αντίθεση με την Apple, η Microsoft παραχώρησε πρόσβαση σε κρυπτογραφημένα δεδομένα Windows κατόπιν εντάλματος, προκαλώντας αντιδράσεις από ειδικούς σε θέματα κυβερνοασφάλειας και ιδιωτικότητας.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/r/report-mic/report-microsoft-hands-over-keys-for-bitlocker-encrypted-dat_j38y.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "Gmail Outage: Κατέρρευσαν τα φίλτρα spam και η κατηγοριοποίηση των email",
           "link": "https://gr.pcmag.com/old-hosted-email-providers/51118/gmail-outage-katerreusan-ta-philtra-spam-kai-e-kategoriopoiese-ton-email",
           "pubDate": "Sun, 25 Jan 2026 17:09:53 +0000",
@@ -1468,14 +1476,6 @@
           "pubDate": "Fri, 23 Jan 2026 14:06:56 +0000",
           "description": "Ένα κενό στο σύστημα ανταλλαγών επέτρεπε στους παίκτες να βγάζουν κέρδος αγοράζοντας και επιστρέφοντας αμέσως την κονσόλα, αναγκάζοντας την εταιρεία σε άμεση διόρθωση.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/g/gamestop-s/gamestop-shuts-down-infinite-money-trade-in-glitch_zy2r.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Ryanair vs Elon Musk: Πώς ο \"πόλεμος\" για το Starlink αύξησε τις πωλήσεις εισιτηρίων",
-          "link": "https://gr.pcmag.com/old-travel/51090/ryanair-vs-elon-musk-pos-o-polemos-gia-to-starlink-auxese-tis-poleseis-eisiterion",
-          "pubDate": "Fri, 23 Jan 2026 13:51:06 +0000",
-          "description": "Ο Michael O’Leary τρολάρει τον Musk με προσφορές για \"ηλίθιους\" και απορρίπτει το δορυφορικό internet λόγω κόστους καυσίμων, παρά τις απειλές για εξαγορά.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/r/ryanair-ce/ryanair-ceo-to-elon-musk-thanks-this-starlink-feud-gave-us-a_p7b8.jpg",
           "source": "PC Magazine"
         }
       ]
