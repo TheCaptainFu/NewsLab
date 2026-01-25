@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T14:25:23.649Z",
+  "lastUpdated": "2026-01-25T14:30:35.215Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Σε κρίσιμη κατάσταση νοσηλεύεται 75χρονος που έπεσε από μπαλκόνι τρίτου ορόφου στη Θεσσαλονίκη",
+          "link": "https://www.protothema.gr/greece/article/1763122/se-krisimi-katastasi-nosileuetai-75hronos-pou-epese-apo-balkoni-tritou-orofou-sti-thessaloniki/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 16:26:00 +0200",
+          "description": "Το περιστατικό σημειώθηκε το μεσημέρι της Κυριακής, στην περιοχή της Τούμπας, όταν ο 75χρονος, υπό αδιευκρίνιστες μέχρι στιγμής συνθήκες, έπεσε από μεγάλο ύψος",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-07/ekab12.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Τίνα Μεσσαροπούλου: Η Κατερίνα Καραβάτου καλείται να κάνει θαύμα, το «φάντασμα» της Ελένης Τσολάκη θα «πλανάται»",
           "link": "https://www.newsit.gr/media/tina-messaropoulou-i-katerina-karavatou-kaleitai-na-kanei-thayma-to-fantasma-tis-elenis-tsolaki-tha-planatai/4583031/",
@@ -239,14 +247,6 @@
           "description": "LIVE: Κρίσταλ Πάλας – Τσέλσι. Παρακολουθήστε live στις 16:00 την αναμέτρηση Κρίσταλ Πάλας – Τσέλσι για την 23η αγωνιστική της Premier League.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/chelsea-celebrate-768x432.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Τρεις συλλήψεις για ναρκωτικά στα Χανιά",
-          "link": "https://www.protothema.gr/greece/article/1763086/treis-sullipseis-gia-narkotika-sta-hania/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 14:56:23 +0200",
-          "description": "Συνελήφθησαν τρία άτομα ηλικίας 19, 24, 47 ετών",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2025-01-15/xeiropedes-750x375.jpeg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Αναρριχητής ανέβηκε χωρίς σχοινί ή δίχτυ ασφαλείας στον ύψους 508μ. ουρανοξύστη «Taipei 101»",
+          "link": "http://gr.euronews.com/2026/01/25/anarrixitis-anevike-xoris-skoini-ston-ypsous-508-m-ouranoxisti-taipei-101",
+          "pubDate": "Sun, 25 Jan 2026 15:21:27 +0100",
+          "description": "Ο Αμερικανός Αλεξ Χόλοντ έφτασε στην κορυφή του κτιρίου σε περίπου μιάμιση ώρα με εκατομμύρια κόσμου να παρακολουθούν live την προσπάθειά του",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
           "link": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 13:05:23 GMT",
@@ -523,6 +531,14 @@
           "description": "Επικαλούμενο δύο κορυφαίους αξιωματούχους του υπουργείου Υγείας του Ιράν, το αμερικανικό περιοδικό μεταδίδει ότι η κλίμακα της καταστολής των διαδηλωτών στις 8 και 9 Ιανουαρίου ήταν τόσο μεγάλη που τα ασθενοφόρα αντικαταστάθηκαν από νταλίκες",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
+          "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 12:24:31 GMT",
+          "description": "He has been described as an avid outdoorsman who loved mountain biking.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1751/live/9fd14180-f9ea-11f0-811c-ad0579c12ce2.jpg",
+          "source": "BBC News"
         },
         {
           "title": "Sir Mark Tully, the BBC's 'voice of India', dies aged 90",
@@ -637,18 +653,18 @@
           "source": "Euronews"
         },
         {
-          "title": "Αγέλη λύκων υποχρεώνει τις αρχές να κλείσουν αεροδρόμιο στην Ιταλία",
-          "link": "http://gr.euronews.com/green/2026/01/25/wolf-pack-forces-italian-airport-to-close-how-this-region-is-struggling-with-coexistence",
-          "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
-          "description": "Ο πληθυσμός των λύκων στην Ιταλία ανέρχεται πλέον σε 3.000-3.500 - Στις αρχές της δεκαετίας του 1970, έφταναν σχεδόν στο οριο της εξαφάνισης στη χώρα.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
           "title": "Ειδήσεις | 25 Ιανουαρίου 2026 - Πρωινό δελτίο",
           "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-prwino-deltio",
           "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
           "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Αγέλη λύκων υποχρεώνει τις αρχές να κλείσουν αεροδρόμιο στην Ιταλία",
+          "link": "http://gr.euronews.com/green/2026/01/25/wolf-pack-forces-italian-airport-to-close-how-this-region-is-struggling-with-coexistence",
+          "pubDate": "Sun, 25 Jan 2026 07:00:22 +0100",
+          "description": "Ο πληθυσμός των λύκων στην Ιταλία ανέρχεται πλέον σε 3.000-3.500 - Στις αρχές της δεκαετίας του 1970, έφταναν σχεδόν στο οριο της εξαφάνισης στη χώρα.",
           "thumbnail": null,
           "source": "Euronews"
         },
@@ -723,22 +739,6 @@
           "description": "It comes as tensions appear to have escalated between Trump and Canadian Prime Minister Mark Carney.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef43/live/2a5f94f0-f937-11f0-814e-71ff186d4f46.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
-          "link": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Jan 2026 20:48:34 GMT",
-          "description": "The US president's praise follows his claim that allied forces avoided the front lines during the Afghanistan conflict.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb24/live/d7457710-f94c-11f0-83df-25b52b98173b.png",
-          "source": "BBC News"
-        },
-        {
-          "title": "Απειλή Τραμπ στον Καναδά για «τελωνειακούς δασμούς 100%» αν συνάψει εμπορική συμφωνία με την Κίνα",
-          "link": "http://gr.euronews.com/business/2026/01/24/apeili-trump-ston-kanada-gia-teloneiakous-dasmous-100-an-sinapsei-emporiki-simfonia-me-tin",
-          "pubDate": "Sat, 24 Jan 2026 20:37:11 +0100",
-          "description": "Αυξάνεται οι ένταση ανάμεσα στις δυο γειτονικές χώρες της Βόρειας Αμερικής μετά και την πρόσφατη ομιλία του Καναδού Πρωθυπουργού στο Νταβός",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "«Έσπασε» η Ευαγγελία Μουμούρη που υποδύθηκε στο «Ριφιφί» τη μητέρα του Παναγιώτη: «Γιατί μου το κάνατε αυτό;» (vid)",
+          "link": "https://www.gazzetta.gr/plus/2510029/espase-i-eyaggelia-moymoyri-poy-ypodythike-sto-rififi-ti-mitera-toy-panagioti-giati",
+          "pubDate": "Sun, 25 Jan 2026 16:29:00 +0200",
+          "description": "Η συγκίνηση της Ευαγγελίας Μουμούρη στην εκπομπή της Ναταλίας Γερμανού.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/moumouri-alpha.jpg?itok=y0VdqvI0",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "WRC: Θρίαμβος του Σόλμπεργκ και κυριαρχία της Toyota στο Μόντε Κάρλο",
+          "link": "https://www.gazzetta.gr/gmotion/2510047/wrc-thriambos-toy-solmpergk-kai-kyriarhia-tis-toyota-sto-monte-karlo",
+          "pubDate": "Sun, 25 Jan 2026 16:27:53 +0200",
+          "description": "Σε έναν αγώνα που θύμισε άλλες εποχές λόγω των ακραίων συνθηκών, ο Όλιβερ Σόλμπεργκ παρέδωσε σεμινάριο οδήγησης στον πάγο, οδηγώντας την Toyota σε ένα ιστορικό 1-2-3.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/solberg2_monte.jpg?itok=CFlCsHux",
+          "source": "Gazzetta"
+        },
         {
           "title": "Παναθηναϊκός – Μαρούσι: Έξαλλος ο Εργκίν Αταμάν άλλαξε όλη την πεντάδα του μετά από 3 λεπτά αγώνα",
           "link": "https://www.newsit.gr/athlitika/panathinaikos-marousi-eksallos-o-ergkin-ataman-allakse-oli-tin-pentada-tou-meta-apo-3-lepta-agona/4583038/",
@@ -969,22 +985,6 @@
           "description": "Σάλος προκλήθηκε στην Βρετανία όταν από τη Ζάκυνθο έγινε γνωστός ο θάνατος ενός παλαίμαχου άσου της Μάντσεστερ Γιουνάιτεντ, ο οποίος ζούσε τα τελευταία χρόνια στο ελληνικό νησί.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/phgadakia_proponhsh_3.jpg?itok=jD2essdv",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Κολοσσός - Ολυμπιακός: Μπουνιές ανάμεσα σε Βεζένκοβ και Πετρόπουλο - Ο παίκτης του Κολοσσού τον έσπρωξε στη βάση της μπασκέτας!",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2509994/kolossos-olympiakos-mpoynies-anamesa-se-bezenkof-kai-petropoylo-o",
-          "pubDate": "Sun, 25 Jan 2026 14:53:00 +0200",
-          "description": "Ο Σάσα Βεζένκοβ και ο Αντώνης Πετρόπουλος πιάστηκαν στα χέρια με αποτέλεσμα ο σταρ του Ολυμπιακού να αποβάλλεται από την αναμέτρηση.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/677c9dd6-b2f5-4dd8-89af-8f8a65479bb8.jpg?itok=04jPnG7S",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Πρόβλημα με Τζόουνς - Αισθάνθηκε ενοχλήσεις στον μηρό",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2509993/olympiakos-problima-me-tzooyns-aisthanthike-enohliseis-ston-moiro",
-          "pubDate": "Sun, 25 Jan 2026 14:51:28 +0200",
-          "description": "Απρόοπτο για τον Ολυμπιακό με τον Ταϊρίκ Τζόουνς να αποχωρεί με ενοχλήσεις στον μηρό",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jones_eurokinisi_0.jpg?itok=rfPrcFMO",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Απίστευτα πράγματα από την ΕΡΤ: «Έπεσε» η μετάδοση του αγώνα του Παναθηναϊκού",
+          "link": "https://panathinaikos24.gr/2026/01/25/617600/apisteyta-pragmata-apo-tin-ert-epese-i-metadosi-tou-agona-tou-panathinaikou/",
+          "pubDate": "Sun, 25 Jan 2026 14:25:45 +0000",
+          "description": "Για αδιευκρίνιστους μέχρι στιγμής λόγους.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5003780.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Παναθηναϊκός – Μαρούσι: «Πρόβλημα» από την ΕΡΤ – Έπεσε… μαύρο στις οθόνες!",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-marousi-provlima-ap/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-provlima-ap",
@@ -1222,14 +1230,6 @@
           "pubDate": "Sun, 25 Jan 2026 09:16:50 +0000",
           "description": "Σύμφωνα με τα όσα αναφέρει Τούρκος δημοσιογράφος.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/slager353.jpg?fit=680%2C460&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Άρσεναλ – Γιουνάιτεντ, τα ιταλικά ντέρμπι και όλη η ευρωπαϊκή δράση με τις μεγαλύτερες «Ενισχύσεις» στην Elabet",
-          "link": "https://panathinaikos24.gr/2026/01/25/617546/arsenal-giounaitent-ta-italika-ntermpi-kai-oli-i-eyropaiki-drasi-me-tis-megalyteres-enisxyseis-stin-elabet/",
-          "pubDate": "Sun, 25 Jan 2026 09:02:34 +0000",
-          "description": "Η Κυριακή φέρνει ματσάρες σε Αγγλία και Ιταλία, σούπερ ραντεβού σε όλη την Ευρώπη και κρίσιμα παιχνίδια και στη Super League.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/GettyImages-2248093818.jpg.webp?fit=1080%2C608&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
