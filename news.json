@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T07:45:26.639Z",
+  "lastUpdated": "2026-01-25T07:50:26.090Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -75,7 +75,7 @@
           "title": "Νεκρός άνδρας σε πορτ παγκάζ αυτοκινήτου στη Γλυφάδα - Συνελήφθη ο γιος του, είχε σκοτώσει και τη μητέρα του το 2014",
           "link": "https://www.protothema.gr/greece/article/1762927/nekros-andras-se-port-pagaz-autokinitou-sti-glufada-sunelifthi-o-gios-tou/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 08:49:00 +0200",
-          "description": "Σκότωσε με μαχαίρι τον πατέρα του - Ο 46χρονος γιος φέρεται να αντιμετωπίζει ψυχολογικά προβλήματα",
+          "description": "Δείτε βίντεο από το σημείο - Σκότωσε με μαχαίρι τον πατέρα του - Ο 46χρονος γιος φέρεται να αντιμετωπίζει ψυχολογικά προβλήματα",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-peripoliko.jpg"
         },
         {
@@ -441,6 +441,13 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Πλήγματα σε ιρανικές στρατιωτικές υποδομές και κυβερηντικά κτίρια προτείνουν οι IDF στον Τραμπ - «Κρίσιμη αυτή η εβδομάδα» λένε αξιωματούχοι",
+          "link": "http://gr.euronews.com/2026/01/25/plhgmata-se-iranikes-stratiwtikes-ypodomes-kai-kyberhntika-ktiria-proteinoyn-oi-idf-ston-t",
+          "pubDate": "Sun, 25 Jan 2026 08:42:43 +0100",
+          "description": "Σύμφωνα με ισραηλινά ΜΜΕ",
+          "thumbnail": null
+        },
+        {
           "title": "«Αμαρτία αλλά απαραίτητα τα πυρηνικά όπλα» λέει σύμβουλος του Πούτιν",
           "link": "http://gr.euronews.com/2026/01/25/amartia-alla-aparaithta-ta-pyrhnika-opla-leei-symboylos-toy-poytin",
           "pubDate": "Sun, 25 Jan 2026 08:31:38 +0100",
@@ -642,13 +649,6 @@
           "pubDate": "Sat, 24 Jan 2026 14:19:00 +0100",
           "description": "Η οργή ξεχειλίζει μετά τη σύλληψη ενός πεντάχρονου και ενός νηπίου από πράκτορες της «υπηρεσίας μετανάστευσης και τελωνειακής επιβολής»",
           "thumbnail": null
-        },
-        {
-          "title": "Στο έλεος της κακοκαιρίας «Ίγκριντ» η Ισπανία",
-          "link": "http://gr.euronews.com/2026/01/24/sto-eleos-ths-kakokairia-igkrint-h-ispania",
-          "pubDate": "Sat, 24 Jan 2026 13:59:13 +0100",
-          "description": "Οι αρχές καλούν τους πολίτες να παρακολουθούν τις επίσημες ανακοινώσεις, να προετοιμάζονται για παρατεταμένες δύσκολες συνθήκες και να ακολουθούν πιστά τις οδηγίες έως ότου υποχωρήσει η κακοκαιρία",
-          "thumbnail": null
         }
       ]
     },
@@ -656,6 +656,13 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Σάρι: «Το μόνο που θέλω για φέτος είναι να γλυτώσουμε τον υποβιβασμό»",
+          "link": "https://www.gazzetta.gr/football/serie/2509939/sari-mono-poy-thelo-gia-fetos-einai-na-glytosoyme-ton-ypobibasmo",
+          "pubDate": "Sun, 25 Jan 2026 09:47:25 +0200",
+          "description": "O Μαουρίτσιο Σάρι σε πρόσφατες δηλώσεις του καταφέρθηκε κατά της διοίκησης της Λάτσιο, και τον πρόεδρό της ομάδας, Κλαούντιο Λολίτο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-06/maurizio_sarri_lazio.jpg?itok=KVDpPzjF"
+        },
         {
           "title": "Δολοφονία στη Γλυφάδα: Νεκρός άνδρας σε πορτ παγκάζ αυτοκινήτου – Συνελήφθη ο γιος του",
           "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
@@ -669,6 +676,13 @@
           "pubDate": "Sun, 25 Jan 2026 07:38:53 +0000",
           "description": "Οι Σικάγο Μπουλς τίμησαν τον άλλοτε MVP του NBA, Ντέρικ Ρόουζ, αποσύροντας τη φανέλα του, με τον ίδιο να μην μπορεί να συγκρατήσει τα δάκρυά ...  \nTo άρθρο Οι Σικάγο Μπουλς απέσυραν τη φανέλα του Ντέρικ Ρόουζ, με δάκρυα στα μάτια ο άλλοτε MVP του NBA δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/rose-1200x800.jpg"
+        },
+        {
+          "title": "Βανδή για Σφακιανάκη: «Όταν αποχώρησα από το σχήμα, ήμουν στριμωγμένη οικονομικά, αλλά δεν μπορούσα να συνυπάρξω στην σκηνή» (vid)",
+          "link": "https://www.gazzetta.gr/plus/2509938/bandi-gia-sfakianaki-otan-apohorisa-apo-shima-imoyn-strimogmeni-oikonomika-alla-den",
+          "pubDate": "Sun, 25 Jan 2026 09:37:19 +0200",
+          "description": "Η Δέσποινα Βανδή τοποθετήθηκε για την αποχώρησή της από το σχήμα με τον Νότη Σφακιανάκη το 2013 μετά τις δηλώσεις του τραγουδιστή για την Χρυσή Αυγή.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bandi-synentefksi.jpg?itok=jM8GPQ2R"
         },
         {
           "title": "Μάβερικς - Λέικερς 110-116: Ντόντσιτς και ΛεΜπρόν έκαναν την ανατροπή",
@@ -851,20 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 23:11:52 +0200",
           "description": "Ο Ολυμπιακός νίκησε τον Παναθηναϊκό με 4-1 στην κατάμεστη αίθουσα του ΣΕΦ και στο ντέρμπι κορυφής στην Α1 ανδρών στο πινγκ πονγκ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiacos_meta_niki_derby.jpg?itok=GfDpPd7V"
-        },
-        {
-          "title": "Κρατάει το διπλό κορυφής, την κλάση Γιόβιτς - Στρακόσα και τίποτα άλλο!",
-          "link": "https://www.gazzetta.gr/football/superleague/2509881/krataei-diplo-koryfis-tin-klasi-giobits-strakosa-kai-tipota-allo",
-          "pubDate": "Sat, 24 Jan 2026 23:10:00 +0200",
-          "description": "Ο Γιώργος Τσακίρης γράφει για τη σπουδαία σε σημασία νίκη της ΑΕΚ στην Τρίπολη και υπογραμμίζει ότι πρέπει να αποτελέσει καμπανάκι ενόψει Ολυμπιακού η εικόνα...",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jovic-asteras.jpg?itok=kGhnNzIJ"
-        },
-        {
-          "title": "Πανσερραϊκός: «Αίσχος και μαύρη ημέρα για το ελληνικό ποδόσφαιρο»",
-          "link": "https://www.newsit.gr/athlitika/panserraikos-aisxos-kai-mayri-imera-gia-to-elliniko-podosfairo/4582715/",
-          "pubDate": "Sat, 24 Jan 2026 20:59:00 +0000",
-          "description": "Η ΑΕΛ Novibet νίκησε δύσκολα με 1-0 τον Πανσερραϊκό στη “μάχη” των ουραγών της Super League, στη 18η αγωνιστική, με τους Σερραίους να είναι έξαλλοι ...  \nTo άρθρο Πανσερραϊκός: «Αίσχος και μαύρη ημέρα για το ελληνικό ποδόσφαιρο» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/serres-1-1200x800.jpg"
         }
       ]
     },
