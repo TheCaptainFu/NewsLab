@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T02:05:30.504Z",
+  "lastUpdated": "2026-01-25T02:10:29.769Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -441,6 +441,20 @@
       "color": "blue",
       "articles": [
         {
+          "title": "What India's Republic Day red carpet means for its foreign policy",
+          "link": "https://www.bbc.com/news/articles/c9wxx29yknpo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 02:03:04 GMT",
+          "description": "Who sits beside India’s president on Republic Day signals Delhi’s diplomatic priorities to the world.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a399/live/055d9470-f826-11f0-9001-7f071bc02a11.jpg"
+        },
+        {
+          "title": "Ros Atkins on... How popular is President Trump?",
+          "link": "https://www.bbc.com/news/videos/cn8jje0pypro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Jan 2026 01:33:57 GMT",
+          "description": "BBC Analysis Editor Ros Atkins explores how Americans feel about their president during a nonstop start to 2026 shaped by pivotal events at home and abroad.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f25b/live/ab2f90f0-f7c3-11f0-b5f7-49f0357294ff.png"
+        },
+        {
           "title": "As the world inches back to a pre-WW2 order, the 'middle powers' face a grave new challenge",
           "link": "https://www.bbc.com/news/articles/c99kkerr93ko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 00:25:51 GMT",
@@ -634,20 +648,6 @@
           "link": "http://gr.euronews.com/my-europe/2026/01/24/tragwdia-sto-kran-montana-eley8eros-o-idiokthths-toy-klamp",
           "pubDate": "Sat, 24 Jan 2026 09:12:22 +0100",
           "description": "Θυέλλα αντιδράσεων προκάλεσε η απόφαση δικαστηρίου της Σιόν",
-          "thumbnail": null
-        },
-        {
-          "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
-          "link": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Jan 2026 07:57:00 GMT",
-          "description": "The US will also offer “more limited” support to US allies, according to a new national defence strategy document.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebca/live/3fb6e610-f8dc-11f0-8902-65b5cd997fa5.jpg"
-        },
-        {
-          "title": "Ιράν: Γιατί η ΕΕ δυσκολεύεται να χαρακτηρίσει τους Φρουρούς της Επανάστασης τρομοκρατική οργάνωση",
-          "link": "http://gr.euronews.com/2026/01/24/iran-giati-h-ee-dyskoleyetai-na-xarakthrisei-toys-froyroys-ths-epanastashs-tromokratikh-o",
-          "pubDate": "Sat, 24 Jan 2026 08:37:30 +0100",
-          "description": "Στο Συμβούλιο της ΕΕ απαιτείται απόλυτη ομοφωνία. Αρκεί ένα κράτος να πει «όχι» για να μπλοκάρει την απόφαση. Αυτή τη στιγμή δεν υπάρχει ενιαία γραμμή",
           "thumbnail": null
         }
       ]
