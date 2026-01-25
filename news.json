@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T06:45:26.663Z",
+  "lastUpdated": "2026-01-25T06:50:29.785Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,20 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Νεκρός άνδρας σε πορτ παγκάζ αυτοκινήτου στη Γλυφάδα, συνελήφθη ο γιος του",
+          "link": "https://www.protothema.gr/greece/article/1762927/nekros-andras-se-port-pagaz-autokinitou-sti-glufada-sunelifthi-o-gios-tou/?utm_source=rss",
+          "pubDate": "Sun, 25 Jan 2026 08:49:20 +0200",
+          "description": "",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpeg/files/2024-12-11/xrvma_ektakth_epikairothta_1012242.jpeg"
+        },
+        {
+          "title": "Ανοιχτά τα καταστήματα σήμερα – Εκπτώσεις έως 70%",
+          "link": "https://www.newsit.gr/oikonomia/xristika/anoixta-ta-katastimata-simera-ekptoseis-eos-70/4582802/",
+          "pubDate": "Sun, 25 Jan 2026 06:46:14 +0000",
+          "description": "Ανοικτά θα παραμείνουν και σήμερα (25.1.2026), τα καταστήματα, καθώς είναι η δεύτερη Κυριακή των χειμερινών εκπτώσεων. Συγκεκριμένα, το προτεινόμενο ωράριο λειτουργίας για τα καταστήματα στο ...  \nTo άρθρο Ανοιχτά τα καταστήματα σήμερα – Εκπτώσεις έως 70% δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1590519676-3-1200x800.jpg"
+        },
         {
           "title": "Καιρός: Τρία διαδοχικά κύματα κακοκαιρίας θα χτυπήσουν τη χώρα – Έρχονται βροχές και ισχυροί άνεμοι",
           "link": "https://www.newsit.gr/ellada/kairos-tria-diadoxika-kymata-kakokairias-tha-xtypisoun-ti-xora-erxontai-vroxes-kai-isxyroi-anemoi/4582799/",
@@ -51,8 +65,15 @@
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-855973432-1200x802.jpg"
         },
         {
+          "title": "Ανάπτυξη: Γιατί ενώ το ΑΕΠ αυξάνεται τα εισοδήματα μένουν πίσω",
+          "link": "https://www.in.gr/2026/01/25/economy/anaptyksi-giati-eno-aep-ayksanetai-ta-eisodimata-menoun-piso/",
+          "pubDate": "Sun, 25 Jan 2026 08:49:20 +0300",
+          "description": "Όταν η ανάπτυξη στηρίζεται σε περισσότερες ώρες εργασίας και όχι σε μεγαλύτερη αξία ανά ώρα, τα περιθώρια για αυξήσεις των μισθών παραμένουν μικρά",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/euro-6771170_1920-1200x801-768x513.jpg"
+        },
+        {
           "title": "Αρκάς: Η καλημέρα της Κυριακής με ματιά στο καλοκαίρι",
-          "link": "https://www.in.gr/2026/01/25/go-fun/arkas-kalimera-tis-kyriakis-matia-sto-kalokairi/",
+          "link": "https://www.in.gr/2026/01/25/go-fun/social/arkas-kalimera-tis-kyriakis-matia-sto-kalokairi/",
           "pubDate": "Sun, 25 Jan 2026 08:43:48 +0300",
           "description": "Ο Αρκάς βλέποντας το καλοκαίρι.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Arkas1-2.jpg"
@@ -196,27 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 08:00:36 +0300",
           "description": "Ιδανικά, χώρες που έχει βάλει στο μάτι η Δύση, όπως το Ιράν και η Βενεζουέλα θα ήθελαν να απολάμβαναν στήριξης του Βλαντιμίρ Πούτιν, παρόμοια αυτή που που παρέχουν οι ΗΠΑ σε Ισραήλ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/putin-maduro-rossia-iran-in.gr_-768x533.jpg"
-        },
-        {
-          "title": "Υπομονή για το στεγαστικό συστήνει η κυβέρνηση – «Δεν πάει άλλο» απαντούν τα σωματεία ενοικιαστών",
-          "link": "https://www.in.gr/2026/01/25/economy/ypomoni-gia-stegastiko-systinei-kyvernisi-den-paei-allo-apantoun-ta-somateia-enoikiaston/",
-          "pubDate": "Sun, 25 Jan 2026 08:00:15 +0300",
-          "description": "Η κυβέρνηση συστήνει στους πολίτες να κάνουν υπομονή για το στεγαστικό, απορρίπτοντας το πλαφόν στα ενοίκια. «Η υπομονή μας τελείωσε. Αλλαγή πορείας στο στεγαστικό τώρα!», απαντά η Ένωση Ενοικιαστών.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pexels-picasjoe-11348119-768x512.jpg"
-        },
-        {
-          "title": "Όσο φθηναίνουν το αλκοόλ και τα ζαχαρούχα ποτά, ακριβαίνει η δημόσια υγεία",
-          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/oso-fthinainoun-alkool-kai-ta-zaxarouxa-pota-akrivainei-dimosia-ygeia/",
-          "pubDate": "Sun, 25 Jan 2026 08:00:13 +0300",
-          "description": "Ο Παγκόσμιος Οργανισμός Υγείας προειδοποιεί ότι οι χαμηλοί φόροι τροφοδοτούν παχυσαρκία, χρόνιες ασθένειες και τραυματισμούς, ενώ στερούν από τα κράτη πολύτιμα έσοδα πρόληψης",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/zaxari.jpg"
-        },
-        {
-          "title": "Έρχονται ανατροπές σε επιδόματα και ενισχύσεις – Όλα από μηδενική βάση",
-          "link": "https://www.in.gr/2026/01/25/economy/oikonomikes-eidiseis/erxontai-anatropes-se-epidomata-kai-enisxyseis-ola-apo-mideniki-vasi/",
-          "pubDate": "Sun, 25 Jan 2026 08:00:05 +0300",
-          "description": "Ψηφιακό φάκελο αποκτά κάθε δικαιούχος - Οι αλλαγές που σχεδιάζονται για ενισχύσεις και επιδόματα - Πώς θα λειτουργήσει το Εθνικό Μητρώο Παροχών και Ενισχύσεων",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/epido14-6-768x505.jpg"
         }
       ]
     },
@@ -657,6 +657,13 @@
       "color": "green",
       "articles": [
         {
+          "title": "Αθλητικές μεταδόσεις σήμερα: Το Ατρόμητος Παναθηναϊκός, το Άρσεναλ - Μάντσεστερ Γιουνάιτεντ και οι μάχες στη Stoiximan GBL",
+          "link": "https://www.gazzetta.gr/football/superleague/2509932/athlitikes-metadoseis-simera-atromitos-panathinaikos-arsenal",
+          "pubDate": "Sun, 25 Jan 2026 08:46:57 +0200",
+          "description": "Δείτε το πρόγραμμα των αθλητικών μεταδόσεων της ημέρας, με τις αναμετρήσεις της Super League, την Stoiximan GBL και τους αγώνες στα υπόλοιπα ευρωπαϊκά πρωταθλήματα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/panathinaikos_intime_8.jpg?itok=zmHBIV3k"
+        },
+        {
           "title": "Η «υπόγεια πόλη» της Ελβετίας κάτω από τις Άλπεις: 2.000 χλμ σηράγγων σώζουν το περιβάλλον (vid)",
           "link": "https://www.gazzetta.gr/plus/2508934/i-ypogeia-poli-tis-elbetias-kato-apo-tis-alpeis-2000-hlm-siraggon-sozoyn-periballon",
           "pubDate": "Sun, 25 Jan 2026 08:44:00 +0200",
@@ -858,13 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:31:10 +0200",
           "description": "Ο Ολυμπιακός νίκησε εντός έδρας τον Φλοίσβο με 3-1 σετ για τη 12η αγωνιστική της Volley League και πλέον έχει μπροστά του τη ρεβάνς με την Καρλοβάρσκο για το CEV Cup.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiacos_volley_men.jpg?itok=iYnt-7Dn"
-        },
-        {
-          "title": "Τότεναμ: Οργισμένοι οπαδοί ζητούν την απόλυση του Φρανκ (vid)",
-          "link": "https://www.gazzetta.gr/football/premier-league/2509870/totenam-oi-opadoi-zitoyn-tin-apolysi-toy-frank-vid",
-          "pubDate": "Sat, 24 Jan 2026 22:29:25 +0200",
-          "description": "Oι οπαδοί της Τότεναμ τάχθηκαν κατά του Τόμας Φρανκ στο εκτός έδρας ματς με την Μπέρνλι ζητώντας την απόλυσή του.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/thomas_frank1.jpg?itok=FRZNR5OO"
         }
       ]
     },
