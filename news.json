@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T03:05:27.559Z",
+  "lastUpdated": "2026-01-25T03:10:27.288Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Καιρός σήμερα: Βροχές και καταιγίδες με ανέμους 8 μποφόρ και ομίχλες – Αναλυτική πρόγνωση",
+          "link": "https://www.newsit.gr/ellada/kairos-simera-vroxes-kai-kataigides-me-anemous-8-mpofor-kai-omixles-analytiki-prognosi/4582620/",
+          "pubDate": "Sun, 25 Jan 2026 03:00:00 +0000",
+          "description": "Χαλάει πάλι ο καιρός σήμερα Κυριακή 25 Ιανουαρίου με βροχές και καταιγίδες σε πολλές περιοχές της χώρας. Η θερμοκρασία θα σημειώσει μικρή άνοδο. Οι άνεμοι ...  \nTo άρθρο Καιρός σήμερα: Βροχές και καταιγίδες με ανέμους 8 μποφόρ και ομίχλες – Αναλυτική πρόγνωση δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos2-24012026.jpg"
+        },
         {
           "title": "Βρετανοί καταναλωτές: Ποιότητα χωρίς συμβιβασμούς στις αγορές τροφίμων",
           "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/vretanoi-katanalotes-poiotita-xoris-symvivasmous-stis-agores-trofimon/",
@@ -210,13 +217,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:58:00 +0200",
           "description": "Παράλληλα, η ΕΛΑΣ ανακοίνωσε και τις τοποθετήσεις των νέων Υποστράτηγων μετά τις σχετικές κρίσεις",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-01-18/elas-kriseis.jpg"
-        },
-        {
-          "title": "Ελληνική Αστυνομία: Αυτοί είναι οι νέοι υποστράτηγοι",
-          "link": "https://www.newsit.gr/ellada/elliniki-astynomia-aytoi-einai-oi-neoi-ypostratigoi/4582712/",
-          "pubDate": "Sat, 24 Jan 2026 20:54:51 +0000",
-          "description": "Κρίσεις υποστρατήγων της Ελληνικής Αστυνομίας πραγματοποιήθηκαν το Σάββατο (24.01.2026), σύμφωνα με ανακοίνωση του αρχηγείου της ΕΛΑΣ. Το Ανώτατο Συμβούλιο Κρίσεων συνεδρίασε υπό την προεδρία του ...  \nTo άρθρο Ελληνική Αστυνομία: Αυτοί είναι οι νέοι υποστράτηγοι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/astinomia-1200x675-1.webp"
         }
       ]
     },
