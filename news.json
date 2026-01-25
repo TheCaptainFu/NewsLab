@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T07:20:30.465Z",
+  "lastUpdated": "2026-01-25T07:25:24.733Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,13 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ρεκόρ στο Χρηματιστήριο Αθηνών το 2025: Μερίσματα ύψους 6 δισ. ευρώ από τις εισηγμένες εταιρείες",
+          "link": "https://www.newsit.gr/oikonomia/rekor-sto-xrimatistirio-athinon-to-2025-merismata-ypsous-6-dis-eyro-apo-tis-eisigmenes-etaireies/4582820/",
+          "pubDate": "Sun, 25 Jan 2026 07:23:58 +0000",
+          "description": "Ρεκόρ σημείωσε το 2025 η πολιτική μερισμάτων των εισηγμένων εταιρειών, με τις εταιρείες του Χρηματιστηρίου Αθηνών να μοιράζουν συνολικά «δώρα» ύψους 6 δισ. ευρώ. Το ...  \nTo άρθρο Ρεκόρ στο Χρηματιστήριο Αθηνών το 2025: Μερίσματα ύψους 6 δισ. ευρώ από τις εισηγμένες εταιρείες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xrimatistirio-athinon-eurokiniss-2-1200x800.jpg"
+        },
         {
           "title": "Αθλητικές μεταδόσεις με Ιταλία – Ελλάδα για το ευρωπαϊκό πρωτάθλημα πόλο και Ατρόμητος – Παναθηναϊκός για τη Super League",
           "link": "https://www.newsit.gr/athlitika/athlitikes-metadoseis-me-italia-ellada-gia-to-eyropaiko-protathlima-polo-kai-atromitos-panathinaikos-gia-ti-super-league/4582818/",
@@ -210,13 +217,6 @@
           "pubDate": "Sun, 25 Jan 2026 08:23:09 +0300",
           "description": "Ποιες περιοχές έχουν μπει στον χάρτη των επιλογών κατασκευαστών, αγοραστών, ενοικιαστών και επενδυτών που έως σήμερα δεν τις «έβλεπαν» ούτε για κατοικία ούτε για επαγγελματική αξιοποίηση.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/athina-athens-akinita-realestate-eurokinissi-1-1-768x512.jpg"
-        },
-        {
-          "title": "Ισορροπία στο ένα πόδι; Μια άσκηση που κάνει τη διαφορά",
-          "link": "https://www.in.gr/2026/01/25/plus/vita/isorropia-sto-ena-podi-mia-askisi-pou-kanei-ti-diafora/",
-          "pubDate": "Sun, 25 Jan 2026 08:20:16 +0300",
-          "description": "Η ισορροπία στο ένα πόδι έχει πολλά οφέλη της για την υγεία και τη μακροζωία.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alexandra-tran-GwB-oLPdrWU-unsplash-768x512.jpg"
         }
       ]
     },
@@ -441,6 +441,13 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ο «άθεος» Χαβιέρ Θέρκας, ο Πάπας Φραγκίσκος και το μυστήριο της αιώνιας ζωής",
+          "link": "http://gr.euronews.com/culture/2026/01/25/o-a8eos-xabier-8erkas-o-papas-fragkiskos-kai-to-mysthrio-ths-aiwnias-zwhs",
+          "pubDate": "Sun, 25 Jan 2026 08:18:24 +0100",
+          "description": "Ο Ισπανός συγγραφέας τιμήθηκε με το Ευρωπαϊκό Βραβείο Βιβλίου για το μυθιστόρημά του «Ο τρελός του Θεού στο τέλος του κόσμου», αφηγείται ένα από τα τελευταία ταξίδια του Πάπα Φραγκίσκου",
+          "thumbnail": null
+        },
+        {
           "title": "Ποιοι χρησιμοποιούν την τεχνητή νοημοσύνη στην Ευρώπη και πού παραμένει ταμπού;",
           "link": "http://gr.euronews.com/next/2026/01/25/who-uses-ai-in-europe-and-where-its-still-considered-taboo",
           "pubDate": "Sun, 25 Jan 2026 08:00:35 +0100",
@@ -642,13 +649,6 @@
           "pubDate": "Sat, 24 Jan 2026 12:43:20 +0100",
           "description": "Σύμφωνα με δεδομένα παρακολούθησης και φωτογραφίες παρατηρητών, αρκετά πολεμικά πλοία των ΗΠΑ έχουν φύγει από τη Θάλασσα της Κίνας με προορισμό τη Μέση Ανατολή",
           "thumbnail": null
-        },
-        {
-          "title": "Γερμανία: Με το ICE ως πρότυπο, το ακροδεξιό AfD της Βαυαρίας θέλει αστυνομία απέλασης",
-          "link": "http://gr.euronews.com/2026/01/24/germania-ice-protupo-akrodeksio-afd-vavaria-thelei-astunomia-apelashs",
-          "pubDate": "Sat, 24 Jan 2026 12:11:26 +0100",
-          "description": "Παρουσίασε έγγραφο θέσεων που προβλέπει συνολική αυστηροποίηση των διαδικασιών ασύλου και των κανόνων ένταξης - συμπεριλαμβανομένης της υποχρεωτικής εργασίας και της απαγόρευσης κυκλοφορίας για τους αιτούντες άσυλο",
-          "thumbnail": null
         }
       ]
     },
@@ -656,6 +656,13 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Μάβερικς - Λέικερς 110-116: Ντόντσιτς και ΛεΜπρόν έκαναν την ανατροπή",
+          "link": "https://www.gazzetta.gr/basketball/nba/2509936/maberiks-leikers-110-116-ntontsits-kai-lempron-ekanan-tin-anatropi",
+          "pubDate": "Sun, 25 Jan 2026 09:21:08 +0200",
+          "description": "Ο Λούκα Ντόντσιτς επέστρεψε για δεύτερη φορά ως αντίπαλος στο Ντάλας, με τον Σλοβένο να οδηγεί εκ του ασφαλούς τους Λέικερς στη νίκη απέναντι στους Μάβερικς με 110-116.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/doncic_lebron_getty.jpg?itok=Kxf_on6V"
+        },
         {
           "title": "Αθλητικές μεταδόσεις με Ιταλία – Ελλάδα για το ευρωπαϊκό πρωτάθλημα πόλο και Ατρόμητος – Παναθηναϊκός για τη Super League",
           "link": "https://www.newsit.gr/athlitika/athlitikes-metadoseis-me-italia-ellada-gia-to-eyropaiko-protathlima-polo-kai-atromitos-panathinaikos-gia-ti-super-league/4582818/",
@@ -858,13 +865,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:49:00 +0200",
           "description": "55χρονη από την Άγκυρα ισχυρίζεται ότι είναι βιολογική κόρη του Ντόναλντ Τραμπ και δίνει νομική μάχη για να υποβληθεί ο πρόεδρος των ΗΠΑ σε τεστ DNA, προκειμένου να αποκαλυφθεί η αλήθεια.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/necla-ozmen.jpg?itok=J5_L2U9s"
-        },
-        {
-          "title": "Μπρεογκάν - Ρεάλ Μαδρίτης 85-103: Άνετη επικράτηση με μπροστάρη Χεζόνια",
-          "link": "https://www.gazzetta.gr/basketball/mpasket-ispania/2509877/mpreogkan-real-madritis-85-103-aneti-epikratisi-me-mprostari",
-          "pubDate": "Sat, 24 Jan 2026 22:48:17 +0200",
-          "description": "Η Ρεάλ Μαδρίτης επικράτησε άνετα της Μπρεογκάν εκτός έδρας με 85-103 έχοντας για πρωταγωνιστή τον Μάριο Χεζόνια.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-04/hezonja_euroleague.jpg?itok=moifvAt-"
         }
       ]
     },
