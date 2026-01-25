@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T15:00:41.176Z",
+  "lastUpdated": "2026-01-25T15:05:28.346Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -95,6 +95,14 @@
           "description": "Σοκάρουν τα στοιχεία που βλέπουν το φως της δημοσιότητας σχετικά με τη δολοφονία του 80χρονου στη Γλυφάδα από τα χέρια του γιου του, ο οποίος ...  \nTo άρθρο Γλυφάδα: Ο γιος που σκότωσε και τους δύο γονείς του μέσα σε 12 χρόνια – Η πρόωρη αποφυλάκιση, οι εκκλησιαστικοί ύμνοι και το ανατριχιαστικό χρονικό δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/glifada-dolofonia13-1200x675.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "LIVE: Μπαρτσελόνα – Οβιέδο",
+          "link": "https://www.in.gr/matchcenter/4837312/",
+          "pubDate": "Sun, 25 Jan 2026 17:00:06 +0300",
+          "description": "LIVE: Μπαρτσελόνα – Οβιέδο. Παρακολουθήστε live στις 17:15 την αναμέτρηση Μπαρτσελόνα – Οβιέδο για την 21η αγωνιστική της La Liga.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/fc-barcelona-v-real-madrid-spani-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Athens Gastronomic Forum 2026: H Αθήνα στο επίκεντρο του διεθνούς γαστρονομικού διαλόγου",
@@ -239,14 +247,6 @@
           "description": "Ο Ολυμπιακός πήρε τη νίκη με 98-85 κόντρα στον Κολοσσό Ρόδου εκτός έδρας και συνέχισε το αήττητο σερί του στην GBL, σε ένα παιχνίδι που ...  \nTo άρθρο Κολοσσός – Ολυμπιακός 85-98: Οι Πειραιώτες κέρδισαν στη «μάχη» της Ρόδου με «τριπλό» Γουόρντ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ward-3-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ιταλία: Το παραδεισένιο νησί χωρίς δρόμους, χωρίς σήμα τηλεφώνου και σχεδόν χωρίς τουρίστες",
-          "link": "https://www.in.gr/2026/01/25/world/italia-paradeisenio-nisi-xoris-dromous-xoris-sima-tilefonou-kai-sxedon-xoris-touristes/",
-          "pubDate": "Sun, 25 Jan 2026 16:13:46 +0300",
-          "description": "Η Παλμαρόλα βρίσκεται δυτικά της Ρώμης, αρκετά κοντά ώστε να μπορεί κανείς να το επισκεφτεί σε μια ημερήσια εκδρομή",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/20170710_145523-768x525.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "O Γιάννης Βρούτσης στο Βελιγράδι για τον μικρό τελικό της Εθνικής πόλο",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510063/o-giannis-broytsis-sto-beligradi-gia-ton-mikro-teliko-tis",
+          "pubDate": "Sun, 25 Jan 2026 17:02:28 +0200",
+          "description": "Ο Γιάννης Βρούτσης βρίσκεται στο Βελιγράδι για τον μικρό τελικό του Ευρωπαϊκού Πρωταθλήματος πόλο και θεσμικές επαφές με τη σερβική αθλητική ηγεσία...",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vroutsis_0.jpg?itok=xB2tTI-j",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ατλέτικο Μαδρίτης - Μαγιόρκα 3-0: «Αστεράτη» τριάρα ",
+          "link": "https://www.gazzetta.gr/football/la-liga/2510062/atletiko-madritis-magiorka-3-0-asterati-triara",
+          "pubDate": "Sun, 25 Jan 2026 17:02:05 +0200",
+          "description": "Η Ατλέτικο Μαδρίτης έκανε το χρέος της απέναντι στη Μαγιόρκα, επικράτησε 3-0 και παρέμεινε σταθερά σε πορεία προς τον επόμενο Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/atletico_madrid_mallorca.jpg?itok=a_dzXtzC",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Super League 2: Πότε αρχίζουν Play Offs - Play Outs και πώς διαμορφώνεται η βαθμολογία στο Νότο",
+          "link": "https://www.gazzetta.gr/football/superleague-2/2510061/super-league-2-pote-arhizoyn-play-offs-play-outs-kai-pos",
+          "pubDate": "Sun, 25 Jan 2026 16:59:57 +0200",
+          "description": "Η βαθμολογία των Play Offs και των Play Outs του Νοτίου της Super League 2 μετά την ολοκλήρωση της κανονικής διάρκειας. Στις 15/2 η σέντρα στα «μίνι» πρωταθλήματα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kalamata-panionios_1.jpg?itok=4agwLhqx",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Super League 2: «Buzzer beater» της Καλαμάτας κόντρα στην Ελλάς Σύρου, στην 4αδα ο Ολυμπιακός Β'",
+          "link": "https://www.gazzetta.gr/football/superleague-2/2510060/super-league-2-buzzer-beater-tis-kalamatas-kontra-stin-ellas-syroy",
+          "pubDate": "Sun, 25 Jan 2026 16:59:35 +0200",
+          "description": "Τα αποτελέσματα της τελευταίας αγωνιστικής της κανονικής διάρκειας του Νοτίου Ομίλου της Super League 2.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kalamata-ellas.jpg?itok=Y7bNsDm8",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μπαρτσελόνα: Οριστική συμφωνία με Παρί Σεν Ζερμέν για τον Ντρο Φερνάντεθ",
           "link": "https://www.gazzetta.gr/football/ligue-1/2510059/mpartselona-oristiki-symfonia-me-pari-sen-zermen-gia-ton-ntro-fernanteth",
           "pubDate": "Sun, 25 Jan 2026 16:56:29 +0200",
@@ -953,38 +985,6 @@
           "description": "Ο Ολυμπιακός πήρε τη νίκη με 98-85 κόντρα στον Κολοσσό Ρόδου εκτός έδρας και συνέχισε το αήττητο σερί του στην GBL, σε ένα παιχνίδι που ...  \nTo άρθρο Κολοσσός – Ολυμπιακός 85-98: Οι Πειραιώτες κέρδισαν στη «μάχη» της Ρόδου με «τριπλό» Γουόρντ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ward-3-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Άρης: Με Μισεουί και Χόνγκλα η 11αδα",
-          "link": "https://www.gazzetta.gr/football/superleague/2510010/aris-me-miseoyi-kai-hongkla-i-11ada",
-          "pubDate": "Sun, 25 Jan 2026 15:16:47 +0200",
-          "description": "Ο Μανόλο Χιμένεθ έδωσε φανέλα βασικού στον Μάρτιν Χόνγκλα ενώ θέση στην 11αδα απέναντι στον Λεβαδειακό έχει και ο Γκαμπριέλ Μισεουί.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4992802_1_0.jpg?itok=nw2C6ug7",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Εφές - Μπούρσασπορ 95-80: Ξέσπασε μετά την ήττα από τον Ολυμπιακό",
-          "link": "https://www.gazzetta.gr/basketball/mpasket-toyrkia/2510007/efes-mpoyrsaspor-95-80-xespase-meta-tin-itta-apo-ton-olympiako",
-          "pubDate": "Sun, 25 Jan 2026 15:11:11 +0200",
-          "description": "Η Εφές ξεπέρασε την ήττα από τον Ολυμπιακό στην Euroleague και ξέσπασε πάνω στην Μπούρσασπορ για την 17η αγωνιστική του τουρκικού πρωταθλήματος.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/saben_lee_efes_x.jpg?itok=CX18XTx0",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κολοσσός - Ολυμπιακός 85-98: Με «τριπλό» Γουόρντ, πέρασε από τη Ρόδο ",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510006/kolossos-olympiakos-85-98-me-triplo-goyornt-perase-apo-ti-rodo",
-          "pubDate": "Sun, 25 Jan 2026 15:08:16 +0200",
-          "description": "Ο Ολυμπιακός, σε ένα παιχνίδι στο οποίο είχε προβλήματα και απέκτησε ακόμη περισσότερα, πήρε τη νίκη μέσα στη Ρόδο επί του Κολοσσού (85-98) με τον Τάισον Γουόρντ να λάμπει.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ward_eurokinissi.jpg?itok=_8ie3NIm",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Survivor: «Έχεις καμία σχέση με τον Λιάγκα;» - H ερώτηση του Λιανού που έφερε την πιο επική ατάκα για φέτος",
-          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
-          "pubDate": "Sun, 25 Jan 2026 15:06:00 +0200",
-          "description": "Το 2004 ο Ρίο Φέρντιναντ τιμωρήθηκε με 8 μήνες αποκλεισμό από τα γήπεδα με αποτέλεσμα εκτός των άλλων να χάσει και το Euro της Πορτογαλίας.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/survivor-giorgos-lianos-skai_1.jpg.jpg?itok=BHHwv9gt",
-          "source": "Gazzetta"
         }
       ]
     },
