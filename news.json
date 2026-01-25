@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T12:05:27.867Z",
+  "lastUpdated": "2026-01-25T12:10:24.960Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Η Λίβερπουλ έχει κάνει κρούση στον Τσάμπι Αλόνσο",
+          "link": "https://www.newsit.gr/athlitika/i-liverpoul-exei-kanei-krousi-ston-tsampi-alonso/4582971/",
+          "pubDate": "Sun, 25 Jan 2026 12:04:16 +0000",
+          "description": "Μετά από ακόμα μία ήττα από την Μπόρνμουθ (3-2) η Λίβερπουλ φαίνεται πως σκέφτεται να κάνει αλλαγή στην τεχνική της ηγεσία με τον Τσάμπι Αλόνσο ...  \nTo άρθρο Η Λίβερπουλ έχει κάνει κρούση στον Τσάμπι Αλόνσο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xabi-alonso-1-1200x847.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Μία νύχτα μόνο – επόμενα επεισόδια: Η Αρετή φεύγει από την Αθήνα καθώς δεν αντέχει την πίεση του Οδυσσέα",
           "link": "https://www.newsit.gr/media/mia-nyxta-mono-epomena-epeisodia-i-areti-feygei-apo-tin-athina-kathos-den-antexei-tin-piesi-tou-odyssea/4581862/",
@@ -137,11 +145,19 @@
           "source": "In.gr"
         },
         {
+          "title": "Τι είπε ο Δουβίκας μετά την «ντοπιέτα» επί της Τορίνο",
+          "link": "https://www.in.gr/2026/01/25/sports/football/ti-eipe-o-douvikas-meta-tin-ntopieta-epi-tis-torino/",
+          "pubDate": "Sun, 25 Jan 2026 13:58:34 +0300",
+          "description": "O Τάσος Δουβίκας μετά την εξαιρετική του εμφάνιση και την ντοπιέτα που πέτυχε στο ματς της Κόμο με την Τορίνο, παραχώρησε δηλώσεις και στάθηκε στην πορεία του συνόλου του Φάμπρεγας, αλλά και στη δική του εξέλιξη.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/WEB-1920x1280-9-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "«Παιδί μου πέθανα τώρα, μη με σκοτώνεις άλλο»: Οι τελευταίες λέξεις του 80χρονου πριν πέσει νεκρός από το χέρι του γιου του",
           "link": "https://www.protothema.gr/greece/article/1763031/paidi-mou-pethana-tora-mi-me-skotoneis-allo-oi-teleutaies-lexeis-tou-80hronou-prin-pesei-nekros-apo-to-heri-tou-giou-tou/?utm_source=rss",
           "pubDate": "Sun, 25 Jan 2026 12:51:00 +0200",
           "description": "Η μαρτυρία του ανθρώπου, που ειδοποίησε την αστυνομία για το φονικό, προκαλεί σοκ - Ο 46χρονος είχε στήσει καρτέρι στον πατέρα του και τον σκότωσε όταν βγήκε για να πάει στην εκκλησία",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-glufada1.jpg",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-thuma_2.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -193,6 +209,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Όταν ο Ερίκ Καντονά έριξε την κλωτσιά-σύμβολο (vids)",
+          "link": "https://www.in.gr/2026/01/25/sports/football/erik-kantona-i-klotsia-symvolo-prin-apo-31-xronia/",
+          "pubDate": "Sun, 25 Jan 2026 13:38:00 +0300",
+          "description": "Σαν σήμερα πριν από 31 χρόνια (25/1/1995), ο Ερίκ Καντονά κλωτσάει έναν οπαδό της Κρίσταλ Πάλας στις κερκίδες του «Σέλχαρστ Παρκ» στο Λονδίνο. Και τα υπόλοιπα είναι ιστορία…",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/cantona-768x530.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Γρίπη: Περισσότερες από 130 νοσηλείες παιδιών τον Ιανουάριο – Παραμένει στη ΜΕΘ η 6χρονη",
           "link": "https://www.in.gr/2026/01/25/health/gripi-perissoteres-apo-130-nosileies-paidion-ton-ianouario-paramenei-sti-meth-6xroni/",
           "pubDate": "Sun, 25 Jan 2026 13:36:09 +0300",
@@ -223,30 +247,6 @@
           "description": "Ο Οδυσσέας Παπασπηλιόπουλος και ο Γιώργος Χρυσοστόμου «συναντιούνται» στα γυρίσματα της νέας παραγωγής του MEGA, με τίτλο «Κάμπινγκ», που υπόσχεται να χαρίσει στους τηλεθεατές χιούμορ, ...  \nTo άρθρο Κάμπινγκ: H πρώτη backstage φωτογραφία των πρωταγωνιστών της νέας σειράς του Mega δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/papaspiliopoulos-xrisostomou-1200x665.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ζαχαριάδης για Μινεσότα: Αυτό δεν είναι Δύση, είναι ακροδεξιά – Ώρα να μιλήσουμε καθαρά με ποιον κόσμο είμαστε",
-          "link": "https://www.in.gr/2026/01/25/politics/epikairotita/zaxariadis-gia-minesota-ayto-den-einai-dysi-einai-akrodeksia-ora-na-milisoume-kathara-poion-kosmo-eimaste/",
-          "pubDate": "Sun, 25 Jan 2026 13:30:42 +0300",
-          "description": "«Στις ΗΠΑ του Τραμπ η καταστολή και η αυθαιρεσία βαφτίζονται \"ασφάλεια\" και μεταναστευτικός έλεγχος\"», σημειώνει ο εκπρόσωπος Τύπου του ΣΥΡΙΖΑ, Κώστας Ζαχαριάδης",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5998664-1200x800-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Φωτιά σε φούρνο στο κέντρο της Αθήνας: Κυκλοφοριακές ρυθμίσεις \n",
-          "link": "https://www.protothema.gr/greece/article/1763021/fotia-se-fourno-sto-kedro-tis-athinas-kukloforiakes-ruthmiseis/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 12:30:00 +0200",
-          "description": "Συναγερμός στην Πυροσβεστική για πυρκαγιά σε αρτοποιείο στο κέντρο της Αθήνας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-15/pyrosvestiki-2.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Greek PM Sets Out 2026 Agenda, From Reforms at Home to Geopolitics Abroad",
-          "link": "https://www.in.gr/2026/01/25/english-edition/greek-pm-sets-2026-agenda-reforms-home-geopolitics-abroad/",
-          "pubDate": "Sun, 25 Jan 2026 13:29:41 +0300",
-          "description": "The Greek PM is advocating for a more active European role in Gaza and the wider Middle East.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/mitsotakis-maximou-1-1024x575-1-768x431.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ζώντας με το Honda Jazz: Το supermini που πίστεψε ότι είναι MPV",
+          "link": "https://www.gazzetta.gr/gmotion/2509986/zontas-me-honda-jazz-supermini-poy-pistepse-oti-einai-mpv",
+          "pubDate": "Sun, 25 Jan 2026 14:07:24 +0200",
+          "description": "Στο επόμενο κεφάλαιο της εξάμηνης συμβίωσης, το Honda Jazz αφήνει την πόλη και αντιμετωπίζει την απόλυτη δοκιμασία: τις οικογενειακές διακοπές δύο εβδομάδων.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/img_0458.jpg?itok=kiuGMd2F",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Η Λίβερπουλ έχει κάνει κρούση στον Τσάμπι Αλόνσο",
           "link": "https://www.newsit.gr/athlitika/i-liverpoul-exei-kanei-krousi-ston-tsampi-alonso/4582971/",
           "pubDate": "Sun, 25 Jan 2026 12:04:16 +0000",
@@ -776,14 +784,6 @@
           "pubDate": "Sun, 25 Jan 2026 14:00:00 +0200",
           "description": "Ανακαλύψτε τις συνέπειες της κατανάλωσης μεγάλης ποσότητας πρωτεΐνης σε ένα μόνο γεύμα και μάθετε αν η υπερφόρτωση μπορεί να ωφελήσει ή να επιβαρύνει τον οργανισμό σας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jjj-2-25-1-26.jpg?itok=oUWje56c",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "BMW Motorrad: Και τα ρεκόρ συνεχίζονται",
-          "link": "https://www.gazzetta.gr/gmotion/2509460/bmw-motorrad-kai-ta-rekor-synehizontai",
-          "pubDate": "Sun, 25 Jan 2026 14:00:00 +0200",
-          "description": "Η Βαυαρική φίρμα κατέγραψε ένα ακόμη εντυπωσιακό αποτέλεσμα το 2025, διαθέτοντας για τέταρτη συνεχόμενη χρονιά περισσότερες από 200.000 μοτοσικλέτες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/anoigma_1.jpg?itok=O6YsIxah",
           "source": "Gazzetta"
         },
         {
