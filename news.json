@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T13:05:28.044Z",
+  "lastUpdated": "2026-01-26T13:10:26.972Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Διακόπηκε η κυκλοφορία στο ρέμα Βάρδα από τα Σπάτα προς το Πικέρμι",
+          "link": "https://www.protothema.gr/greece/article/1763585/diakopike-i-kukloforia-sto-rema-varda-apo-ta-spata-pros-to-pikermi/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 15:05:53 +0200",
+          "description": "Λόγω των έντονων καιρικών φαινομένων",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-23/maketa-peripoliko.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Βρετανία: Το αεροδρόμιο Χίθροου καταργεί τον περιορισμό των 100 ml για τα υγρά στις χειραποσκευές",
           "link": "https://www.newsit.gr/kosmos/vretania-to-aerodromio-xithroou-katargei-ton-periorismo-ton-100-ml-gia-ta-ygra-stis-xeiraposkeyes/4583837/",
@@ -185,12 +193,44 @@
           "source": "NewsIT"
         },
         {
+          "title": "Αντιπεριφερειάρχης Ρεθύμνης: Βιώνουμε από πρώτο χέρι τις συνέπειες της πληθυσμιακής συρρίκνωσης",
+          "link": "https://www.in.gr/2026/01/26/politics/aftodioikisi/antiperifereiarxis-rethymnis-vionoume-apo-proto-xeri-tis-synepeies-tis-plithysmiakis-syrriknosis/",
+          "pubDate": "Mon, 26 Jan 2026 15:09:15 +0300",
+          "description": "H Αντιπεριφερειάρχης Ρεθύμνης Μαρία Λιονή μίλησε στην ημερίδα της Ομοσπονδίας Πολυμελών Οικογενειών με Τρία Τέκνα Ελλάδος «Δημογραφικό SOS: Να δώσουμε δύναμη στο όνειρο και την οικογένεια».",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ΤΡΙΤΕΚΝΟΙ-26-1-26-768x1024.jpeg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Μια νύχτα μόνο: Ανατροπές και εκπλήξεις",
+          "link": "https://www.in.gr/2026/01/26/plus/medianews/mia-nyxta-mono-anatropes-kai-ekplikseis/",
+          "pubDate": "Mon, 26 Jan 2026 15:08:58 +0300",
+          "description": "Όλα όσα θα δούμε στο νέο επεισόδιο της δραματικής σειράς Μια νύχτα μόνο. Απόψε, στις 21.00, στο MEGA.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Mia-nyxta-mono_ep.-29-31-2-1-768x430.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "ΠΑΟΚ: Μοναδική απουσία ο Λούκα Ιβάνουσετς ενόψει Λιόν",
           "link": "https://www.newsit.gr/athlitika/paok-monadiki-apousia-o-louka-ivanousets-enopsei-lion/4583815/",
           "pubDate": "Mon, 26 Jan 2026 12:07:20 +0000",
           "description": "Ο ΠΑΟΚ έχει ξεκινήσει την προετοιμασία του για το παιχνίδι με τη Λιόν στην τελευταία αγωνιστική της League Phase του Europa League, έχοντας ως μοναδική ...  \nTo άρθρο ΠΑΟΚ: Μοναδική απουσία ο Λούκα Ιβάνουσετς ενόψει Λιόν δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ivanusec-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Γλυφάδα: Με τον φόβο της βροχής ζουν οι κάτοικοι – «Δεν έχω δει ξανά κάτι τέτοιο»",
+          "link": "https://www.in.gr/2026/01/26/greece/glyfada-ton-fovo-tis-vroxis-zoun-oi-katoikoi-den-exo-dei-ksana-kati-tetoio/",
+          "pubDate": "Mon, 26 Jan 2026 15:06:22 +0300",
+          "description": "Στην περιοχή, όπου προ ημερών θρηνήσαμε και μία νεκρή γυναίκα, έχουν στηθεί αναχώματα και περιφράξεις σε καίρια σημεία",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kakokg-1200x800-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "«Είναι το… πεπρωμένο μας»: H Εθνική ομάδα αλλάζει εταιρία ένδυσης και επιστρέφει στην Adidas",
+          "link": "https://www.in.gr/2026/01/26/sports/football/h-ellada-anakoinose-ti-symfonia-tis-me-tin-adidas-einai-to-pepromeno-mas/",
+          "pubDate": "Mon, 26 Jan 2026 15:04:00 +0300",
+          "description": "Η ΕΠΟ ανακοίνωσε το deal με την Adidas το οποίο θα έχει ισχύ ως το 2030.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/adidas-x-EPO_KV_new_GR.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Τραγωδία στο εργοστάσιο «Βιολάντα»: Τα συλλυπητήρια μηνύματα κυβέρνησης και αντιπολίτευσης – «Είμαστε όλοι συγκλονισμένοι»",
@@ -207,46 +247,6 @@
           "description": "Σχολιάζοντας τις υβριστικές κατηγορίες εναντίον του Πατριάρχη, σημειώνει αρχικά πως «Δεν είναι η πρώτη φορά που η Μόσχα, με βραχίονα το βαθύ κράτος και τη μυστική SVR, επιτίθεται, ανάδελφα, ασεβώς και απρεπώς κατά του Οικουμενικού Πατριάρχη»",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-05-09/vartholomaios.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "«Στεκόταν εμπόδιο σε ορισμένα άτομα» – Η μυστηριώδης δολοφονία της ερευνήτριας γοριλών Νταϊάν Φόσεϊ",
-          "link": "https://www.in.gr/2026/01/26/life/woman/stekotan-empodio-se-orismena-atoma-mystiriodis-dolofonia-tis-ereynitrias-gorilon-ntaian-fosei/",
-          "pubDate": "Mon, 26 Jan 2026 15:00:28 +0300",
-          "description": "Η πρωτοπόρος πρωτευοντολόγος Νταϊάν Φόσεϊ κατέστρεψε τον μύθο των γορίλων ως άγριων θηρίων πριν σκοτωθεί από ανθρώπινα χέρια, πριν από 40 χρόνια.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet-27-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Κάθετος ο Δουδωνής: Εάν η ΝΔ θέλει συγκυβέρνηση με το ΠΑΣΟΚ, συγγνώμη, αλλά εμείς δεν τρώμε αυτό το γλυκό",
-          "link": "https://www.in.gr/2026/01/26/politics/politiki-grammateia/kathetos-o-doudonis-ean-nd-thelei-sygkyvernisi-pasok-syggnomi-alla-emeis-den-trome-ayto-glyko/",
-          "pubDate": "Mon, 26 Jan 2026 14:59:49 +0300",
-          "description": "Ούτε χαραμάδα δεν αφήνει ο βουλευτής Επικρατείας του ΠΑΣΟΚ - ΚΙΝΑΛ, Παναγιώτης Δουδωνής, για συγκυβέρνηση του ΠΑΣΟΚ με τη ΝΔ. Εάν η ΝΔ επιδιώκει να νομιμοποιήσει τις πολιτικές μέσω ενός κεντρώου παράγοντα όπως το ΠΑΣΟΚ – ΚΙΝΑΛ, ας το ξεχάσουν, εμείς δεν τρώμε αυτό το γλυκό, τονίζει χαρακτηριστικά.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6521746-768x511.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Grand Hotel – επόμενο επεισόδιο: Η Κυβέλη εκβιάζει τον Ρήγα",
-          "link": "https://www.newsit.gr/media/grand-hotel-epomeno-epeisodio-i-kyveli-ekviazei-ton-riga/4583803/",
-          "pubDate": "Mon, 26 Jan 2026 11:59:12 +0000",
-          "description": "Εξελίξεις και ανατροπές έρχονται στο νέο διπλό επεισόδιο του «Grand Hotel» που θα προβληθεί απόψε Δευτέρα (26.01.2026) στις 21:00, μέσα από την συχνότητα του ΑΝΤ1. ...  \nTo άρθρο Grand Hotel – επόμενο επεισόδιο: Η Κυβέλη εκβιάζει τον Ρήγα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grand-hotel1-2-1200x745.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Αστρονομικό ποσό σε Μπρούκλιν Μπέκαμ και Νίκολα Πελτζ για να αποκαλύψουν σε βιβλίο τα μυστικά των Μπέκαμ",
-          "link": "https://www.newsit.gr/lifestyle/astronomiko-poso-se-mprouklin-mpekam-kai-nikola-peltz-gia-na-apokalypsoun-se-vivlio-ta-mystika-ton-mpekam/4583802/",
-          "pubDate": "Mon, 26 Jan 2026 11:58:27 +0000",
-          "description": "Αδρά πληρώνουν τον γιο του Ντέιβιντ Μπέκαμ και της Βικτόρια Μπέκαμ, Μπρούκλιν καθώς και τη γυναίκα του Νίκολα Πελτζ, για να γράψουν ένα αποκαλυπτικό βιβλίο, ...  \nTo άρθρο Αστρονομικό ποσό σε Μπρούκλιν Μπέκαμ και Νίκολα Πελτζ για να αποκαλύψουν σε βιβλίο τα μυστικά των Μπέκαμ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/05/Brooklyn-Beckham-Nicola-Peltz.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μπόρνμουθ: Στην Αγγλία ο Χρήστος Μανδάς για να ολοκληρώσει τη μετεγγραφή",
-          "link": "https://www.newsit.gr/athlitika/mpornmouth-stin-agglia-o-xristos-mandas-gia-na-oloklirosei-ti-meteggrafi/4583791/",
-          "pubDate": "Mon, 26 Jan 2026 11:56:11 +0000",
-          "description": "Ο Χρήστος Μανδάς ετοιμάζεται να “κλείσει” τη μετεγγραφή του στην Μπόρνμουθ, καθώς αναμένεται να περάσει άμεσα από ιατρικές εξετάσεις στην Αγγλία, ώστε να ανακοινωθεί ο ...  \nTo άρθρο Μπόρνμουθ: Στην Αγγλία ο Χρήστος Μανδάς για να ολοκληρώσει τη μετεγγραφή δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/mandas-1-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
