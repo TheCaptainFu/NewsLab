@@ -1,18 +1,34 @@
 {
-  "lastUpdated": "2026-01-26T12:40:34.902Z",
+  "lastUpdated": "2026-01-26T12:45:31.666Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
         {
-          "title": "Επίκαιρη Ανδρουλάκη προς Μητσοτάκη: Η κυβερνητική πολιτική στην ενέργεια τροφοδοτεί την ακρίβεια και υπονομεύει την ενεργειακή ασφάλεια",
-          "link": "https://www.newsit.gr/politikh/epikairi-androulaki-pros-mitsotaki-i-kyvernitiki-politiki-stin-energeia-trofodotei-tin-akriveia-kai-yponomeyei-tin-energeiaki-asfaleia/4583846/",
+          "title": "Διάσωση ετοιμοθάνατης φώκιας 30 ημερών στη Λέρο, δείτε βίντεο ",
+          "link": "https://www.protothema.gr/greece/article/1763564/krisimi-diasosi-neogennitis-fokias-stous-leipsous/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 14:42:19 +0200",
+          "description": "Σε εξειδικευμένο κέντρο στην Αθήνα μεταφέρθηκε το εξαντλημένο θηλαστικό",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/fokia-leros-diasosi.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Βίντεο φέρεται να καταγράφει την εκκωφαντική έκρηξη στη βιομηχανία της Βιολάντα σε απόσταση 8 χλμ",
+          "link": "https://www.protothema.gr/greece/article/1763563/trikala-video-feretai-na-apotuponei-tin-ekkofadiki-ekrixi-sti-viomihania-tis-violada/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 14:42:00 +0200",
+          "description": "Το ωστικό κύμα ήταν τόσο έντονο που έκανε τα παράθυρα να τρίζουν και αναστάτωσε τους κατοίκους της περιοχής",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-26/ergostasio-violanta-foria-drone__3_.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Επίκαιρη ερώτηση Ανδρουλάκη σε Μητσοτάκη για την ενέργεια ",
+          "link": "https://www.newsit.gr/politikh/epikairi-erotisi-androulaki-se-mitsotaki-gia-tin-energeia/4583846/",
           "pubDate": "Mon, 26 Jan 2026 12:38:51 +0000",
-          "description": "«Η κυβερνητική πολιτική στην ενέργεια τροφοδοτεί την ακρίβεια και θέτει σε κίνδυνο την ενεργειακή ασφάλεια της χώρας», υποστηρίζει, σε επίκαιρη ερώτησή του προς τον πρωθυπουργό, ...  \nTo άρθρο Επίκαιρη Ανδρουλάκη προς Μητσοτάκη: Η κυβερνητική πολιτική στην ενέργεια τροφοδοτεί την ακρίβεια και υπονομεύει την ενεργειακή ασφάλεια δημοσιεύτηκε στο NewsIT .",
+          "description": "«Η κυβερνητική πολιτική στην ενέργεια τροφοδοτεί την ακρίβεια και θέτει σε κίνδυνο την ενεργειακή ασφάλεια της χώρας», υποστηρίζει, σε επίκαιρη ερώτησή του προς τον πρωθυπουργό, ...  \nTo άρθρο Επίκαιρη ερώτηση Ανδρουλάκη σε Μητσοτάκη για την ενέργεια  δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pasok-androulakis-1200x799.jpg",
           "source": "NewsIT"
         },
@@ -65,10 +81,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Αναφορές για έκρηξη σε διαμέρισμα στους Αγίους Αναργύρους",
+          "title": "Έκρηξη σε διαμέρισμα στους Αγίους Αναργύρους",
           "link": "https://www.protothema.gr/greece/article/1763551/anafores-gia-ekrixi-se-diamerisma-stous-agious-anargurous/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 14:25:00 +0200",
-          "description": "Η αστυνομία διεξάγει έρευνες για το συμβάν",
+          "description": "Η αστυνομία διεξάγει έρευνες για το συμβάν - Δεν υπάρχουν τραυματίες",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-14/peripoliko_arthrou.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -231,22 +247,6 @@
           "description": "Το περιστατικό έγινε στην περιοχή της Πετρέζας – Η επιχείρηση απεγκλωβισμού ήταν δύσκολη, λόγω των ορμητικών νερών",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/pyrosvestiki1__2_.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Τι «βλέπουν» για τα αίτια της έκρηξης με τις νεκρές εργαζόμενες στη Βιολάντα: Είχαμε κάνει έλεγχο το καλοκαίρι, λέει ο πρόεδρος του εργατικού κέντρου Τρικάλων",
-          "link": "https://www.protothema.gr/greece/article/1763517/tragodia-violada-trikala-polu-koda-vrethikan-oi-soroi-ton-tessaron-gunaikon-exetazetai-diarroi-ugraeriou-gia-tin-ekrixi/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 13:45:00 +0200",
-          "description": "Κάναμε συγκεκριμένες παρατηρήσεις σε ό,τι αφορά τις εξόδους διαφυγής και το σύστημα ανίχνευσης πιθανόν διαρροών υγραερίου που χρησιμοποιείται στους φούρνους, ανέφερε στο protothema.gr - Οι τέσσερις σοροί έχουν εντοπιστεί κοντά η μία στην άλλη",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/ergostasio-giolanta-mkt.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Τροχαίο στη Λάρισα: Αυτοκίνητο παρέσυρε 12χρονο – Μεταφέρθηκε τραυματισμένος στο νοσοκομείο",
-          "link": "https://www.newsit.gr/ellada/troxaio-sti-larisa-aytokinito-paresyre-12xrono-metaferthike-traymatismenos-sto-nosokomeio/4583782/",
-          "pubDate": "Mon, 26 Jan 2026 11:43:52 +0000",
-          "description": "Σοβαρό τροχαίο εκτυλίχθηκε στη Λάρισα όταν αυτοκίνητο παρέσυρε 12χρονο αγόρι λίγο μετά τις 8 το πρωί της Δευτέρας (26/1/026), με αποτέλεσμα να μεταφερθεί στο νοσοκομείο. ...  \nTo άρθρο Τροχαίο στη Λάρισα: Αυτοκίνητο παρέσυρε 12χρονο – Μεταφέρθηκε τραυματισμένος στο νοσοκομείο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/asthenoforo-2.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -285,6 +285,14 @@
           "description": "«Η σκέψη μας σήμερα βρίσκεται στα Τρίκαλα, δίπλα στις οικογένειες που είδαν τη ζωή τους να γκρεμίζεται μέσα στις φλόγες», υπογραμμίζει, σε ανάρτησή του, ο πρώην πρωθυπουργός, Αλέξης Τσίπρας. «Οι εργαζόμενοι στη Βιολάντα δεν είναι απλά ονόματα σε μια είδηση, είναι οι δικοί μας άνθρωποι που ξεκίνησαν το πρωί για το μεροκάματο και δεν επέστρεψαν […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/11/Tsipras-4.jpg",
           "source": "Τα Νέα"
+        },
+        {
+          "title": "Βιολάντα: Οδύνη στα Τρίκαλα – Μητσοτάκης και κόμματα ζητούν απαντήσεις για τη φονική έκρηξη",
+          "link": "https://www.tovima.gr/2026/01/26/politics/violanta-odyni-sta-trikala-mitsotakis-kai-kommata-zitoun-apantiseis-gia-ti-foniki-ekriksi/",
+          "pubDate": "Mon, 26 Jan 2026 14:43:23 +0300",
+          "description": "Συλλυπητήρια και αιχμές από την αντιπολίτευση μετά την τραγωδία με την έκρηξη στο εργαστάσιο της Βιολάντα στα Τρίκαλα που κόστισε τη ζωή σε τέσσερις εργαζόμενες",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/fire-violanda3-1024x683.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Στη σκιά της τραγωδίας στα Τρίκαλα η πολιτική ατζέντα της ΝΔ",
@@ -485,14 +493,6 @@
           "description": "Το Μαξίμου αγωνιά να κλείσει τις ανοιχτές πληγές στην καθημερινότητα και ταυτόχρονα να επιταχύνει τις θεσμικές παρεμβάσεις.",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/12/6792642.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Θερμά συγχαρητήρια από τον Πρόεδρο της Δημοκρατίας στους αθλητές της Εθνικής Πόλο",
-          "link": "https://www.naftemporiki.gr/politics/2063674/therma-sygcharitiria-apo-ton-proedro-tis-dimokratias-stoys-athlites-tis-ethnikis-polo/?utm_source=rss&utm_medium=rss&utm_campaign=therma-sygcharitiria-apo-ton-proedro-tis-dimokratias-stoys-athlites-tis-ethnikis-polo",
-          "pubDate": "Sun, 25 Jan 2026 19:00:08 +0000",
-          "description": "«Έδωσαν τον καλύτερό τους εαυτό και πέτυχαν μια σημαντική διάκριση για τον ελληνικό αθλητισμό». Τα θερμα του συγχαρητήρια έδωσε ο Πρόεδρος της Δημοκρατίας Κωνσταντίνος Τασούλας στους αθλητές της Εθνικής Ομάδας…\nΘερμά συγχαρητήρια από τον Πρόεδρο της Δημοκρατίας στους αθλητές της Εθνικής Πόλο - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -747,12 +747,68 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΑΕΚ: Σε ποια ματς εκτίουν οι Ρότα, Ρέλβας, Κοϊτά και Γιόβιτς",
+          "link": "https://www.gazzetta.gr/football/superleague/2510310/aek-se-poia-mats-ektioyn-oi-rota-relbas-koita-kai-giobits",
+          "pubDate": "Mon, 26 Jan 2026 14:34:32 +0200",
+          "description": "Η ΑΕΚ δήλωσε σε ποια από τα τέσσερα επόμενα παιχνίδια θα εκτίσουν τις κάρτες τους οι τέσσερις παίκτες που συμπλήρωσαν στο παιχνίδι με τον Αστέρα Τρίπολης.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jovic_4.jpg?itok=XdgSpPM7",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Εθνική πόλο γυναικών: Κόντρα στη Γαλλία το δεύτερο παιχνίδι για το ευρωπαϊκό πρωτάθλημα",
           "link": "https://www.newsit.gr/athlitika/ethniki-polo-gynaikon-kontra-sti-gallia-to-deytero-paixnidi-gia-to-eyropaiko-protathlima/4583825/",
           "pubDate": "Mon, 26 Jan 2026 12:28:09 +0000",
           "description": "Η Εθνική πόλο γυναικών της Ελλάδας “διέλυσε” με 24-7 τη Σλοβακία, στην πρεμιέρα του ευρωπαϊκού πρωταθλήματος της Μαδέιρα στην Πορτογαλία και πλέον στρέφεται στο ματς ...  \nTo άρθρο Εθνική πόλο γυναικών: Κόντρα στη Γαλλία το δεύτερο παιχνίδι για το ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tricha-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Λονγκόρια: Ρώτησα τη μητέρα μου για το αν ήταν σωστό να υπογράψω τον Γκρίνγουντ»",
+          "link": "https://www.gazzetta.gr/football/ligue-1/2510309/longkoria-rotisa-ti-mitera-moy-gia-itan-sosto-na-ypograpso-ton-gkringoynt",
+          "pubDate": "Mon, 26 Jan 2026 14:23:34 +0200",
+          "description": "Ο πρόεδρος της Μαρσέιγ, Πάμπλο Λονγκόρια, αποκάλυψε ότι ζήτησε τη συμβουλή της μητέρας του για την αμφιλεγόμενη μεταγραφή του Μέισον Γκρίνγουντ στη γαλλική ομάδα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/greenwood_marseille.jpg?itok=oL8W_j0E",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Φωτιά στο εργοστάσιο «Βιολάντα» στα Τρίκαλα: Εντοπίστηκε και τέταρτη νεκρή (vid)",
+          "link": "https://www.gazzetta.gr/plus/2510308/fotia-sto-ergostasio-biolanta-sta-trikala-entopistike-kai-tetarti-nekri-vid",
+          "pubDate": "Mon, 26 Jan 2026 14:20:19 +0200",
+          "description": "Εντοπίστηκε και τέταρτη νεκρή στη φωτιά στο εργοστάσιο «Βιολάντα» στα Τρίκαλα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/violanta-trikala.jpg?itok=AqTpu3cr",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άγιαξ – Ολυμπιακός: Τιμές και παγίδες στα sites μεταπώλησης εισιτηρίων",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510307/agiax-olympiakos-times-kai-pagides-sta-sites-metapolisis",
+          "pubDate": "Mon, 26 Jan 2026 14:17:31 +0200",
+          "description": "Τα διαθέσιμα εισιτήρια που υπάρχουν σε sites μεταπώλησης αλλά κι οι τεράστιοι κίνδυνοι να πάρετε... μαγικό χαρτάκι και να δείτε το Άγιαξ-Ολυμπιακός από κάποια πλατεία του Άμστερνταμ!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gate7.jpg?itok=B-KOaGyf",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "«Εξοικονομώ» με εξόφληση μέσω λογαριασμών",
+          "link": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
+          "pubDate": "Mon, 26 Jan 2026 14:17:03 +0200",
+          "description": "Μπαίνουν στα «Εξοικονομώ» οι προμηθευτές - Έρχεται η εξόφληση παρεμβάσεων μέσω των λογαριασμών.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2025-08/shutterstock_exoikonomo.jpg?itok=WglWNhDY",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Stoiximan GBL: MVP της αγωνιστικής ο «τριπλός» Γουόρντ",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510306/stoiximan-gbl-mvp-tis-agonistikis-o-triplos-goyornt",
+          "pubDate": "Mon, 26 Jan 2026 14:15:09 +0200",
+          "description": "Ο Τάισον Γουόρντ αναδείχθηκε MVP της 16ης αγωνιστικής της Stoiximan GBL μετά το triple double που έκανε κόντρα στον Κολοσσό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ward_1.jpg?itok=5rOt8V2m",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο Κιν δεν θέλει να βλέπει τον Κάρικ και ο λόγος είναι η γυναίκα του και ο... Ολυμπιακός: Όλο το story",
+          "link": "https://www.gazzetta.gr/football/superleague/2510305/o-kin-den-thelei-na-blepei-ton-karik-kai-o-logos-einai-i-gynaika-toy",
+          "pubDate": "Mon, 26 Jan 2026 14:13:09 +0200",
+          "description": "Ο Ρόι Κιν... προσγείωσε τους πάντες για την πορεία του Μάικλ Κάρικ στη Μάντσεστερ Γιουνάιτεντ, κρατώντας ζωντανή τη διαμάχη τους λόγω Ολυμπιακού.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-01/keane.jpg?itok=FgJe-JP3",
+          "source": "Gazzetta"
         },
         {
           "title": "ΠΑΟΚ: Μοναδική απουσία ο Λούκα Ιβάνουσετς ενόψει Λιόν",
@@ -763,12 +819,60 @@
           "source": "NewsIT"
         },
         {
+          "title": "Όταν η Βιολάντα ήταν φούρνος της γειτονιάς στα Τρίκαλα: Η ιστορία της εμβληματικής βιομηχανίας",
+          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
+          "pubDate": "Mon, 26 Jan 2026 14:05:00 +0200",
+          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/biolanta.jpg.png?itok=9yBSxE7o",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μπέος: «Καλοδεχούμενοι οι οπαδοί της ΑΕΛ, να απομονωθούν τα ακραία στοιχεία»",
+          "link": "https://www.gazzetta.gr/football/superleague/2510303/mpeos-kalodehoymenoi-oi-opadoi-tis-ael-na-apomonothoyn-ta-akraia",
+          "pubDate": "Mon, 26 Jan 2026 13:58:46 +0200",
+          "description": "Ο Δήμαρχος του Βόλου, Αχιλλέας Μπέος καλωσόρισε τους οπαδούς της ΑΕΛ και ζήτησε την βοήθεια της αστυνομίας για να απομονώσει τα ακραία στοιχεία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mpeos_intime.jpg?itok=vxc4cHqn",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μπόρνμουθ: Στην Αγγλία ο Χρήστος Μανδάς για να ολοκληρώσει τη μετεγγραφή",
           "link": "https://www.newsit.gr/athlitika/mpornmouth-stin-agglia-o-xristos-mandas-gia-na-oloklirosei-ti-meteggrafi/4583791/",
           "pubDate": "Mon, 26 Jan 2026 11:56:11 +0000",
           "description": "Ο Χρήστος Μανδάς ετοιμάζεται να “κλείσει” τη μετεγγραφή του στην Μπόρνμουθ, καθώς αναμένεται να περάσει άμεσα από ιατρικές εξετάσεις στην Αγγλία, ώστε να ανακοινωθεί ο ...  \nTo άρθρο Μπόρνμουθ: Στην Αγγλία ο Χρήστος Μανδάς για να ολοκληρώσει τη μετεγγραφή δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/mandas-1-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Οπαδός του ΠΑΟΚ ζήτησε τον Μόντριτς και ο Λόβρεν απάντησε: «Θα πρέπει να πουλήσω το νεφρό μου!»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510301/opados-toy-paok-zitise-ton-montrits-kai-o-lobren-apantise-tha-prepei",
+          "pubDate": "Mon, 26 Jan 2026 13:49:49 +0200",
+          "description": "Μία αρκετά αστεία στιχομυθία εκτυλιχθηκε μεταξύ του Ντέγιαν Λόβρεν και ενός φιλάθλου του ΠΑΟΚ, ο οποίος ζήτησε από τον Κροατή να φέρει στην ομάδα τον Λούκα Μόντριτς.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/modric_paok.jpg?itok=EEGxNZx3",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο «άνθρωπος-spiderman» που σκαρφάλωσε live στο Netflix σε πύργο 500 μέτρων αποκάλυψε το «ντροπιαστικό» ποσό που πήρε",
+          "link": "https://www.gazzetta.gr/plus/2510299/o-anthropos-spiderman-poy-skarfalose-live-sto-netflix-se-pyrgo-500-metron-apokalypse",
+          "pubDate": "Mon, 26 Jan 2026 13:49:04 +0200",
+          "description": "Ο Alex Honnold, ο άνθρωπος που σκαρφάλωσε σε ζωντανή μετάδοση του Netflix σε ουρανοξύστη ύψους 500 μέτρων αποκάλυψε λεπτομέρειες για την αμοιβή του.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/newsss.jpg?itok=rsrn-lVK",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τζήμας: «Στη Μύκονο γράψαμε ιστορία και θέλουμε την καθιέρωση»",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510297/tzimas-sti-mykono-grapsame-istoria-kai-theloyme-tin-kathierosi",
+          "pubDate": "Mon, 26 Jan 2026 13:40:24 +0200",
+          "description": "Ο GM της Μυκόνου Γιάννης Τζήμας μίλησε στο podcast της Stoiximan GBL, Man to Man μεταξύ άλλων για την πορεία της ομάδας του στο πρωτάθλημα, αλλά και τον Νίκο Γκάλη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/tzimas_1.jpg?itok=iK6jnIbw",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Ενδιαφέρον από το εξωτερικό για Γιάρεμτσουκ και Γιαζίτσι και οι παίκτες προς αποχώρηση",
+          "link": "https://www.gazzetta.gr/football/superleague/2510296/olympiakos-endiaferon-apo-exoteriko-gia-giaremtsoyk-kai-giazitsi-kai",
+          "pubDate": "Mon, 26 Jan 2026 13:39:37 +0200",
+          "description": "Εκτός από τις μεταγραφές, ο Ολυμπιακός κινείται και στο κομμάτι των αποχωρήσεων με τους Γιάρεμτσουκ, Γιαζίτσι και Βέζο να έχουν προσελκύσει το ενδιαφέρον από το εξωτερικό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/yaremchuk_3.jpg?itok=A5RVTHu4",
+          "source": "Gazzetta"
         },
         {
           "title": "Ελλάδα – Σλοβακία 24-7: Επίδειξη δύναμης από την Εθνική πόλο γυναικών στην πρεμιέρα του ευρωπαϊκού πρωταθλήματος",
@@ -779,6 +883,78 @@
           "source": "NewsIT"
         },
         {
+          "title": "Ελλάδα - Σλοβακία 24-7: Πρεμιέρα στο ρελαντί για τη «γαλανόλευκη»",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510295/ellada-slobakia-24-7-premiera-sto-relanti-gia-ti",
+          "pubDate": "Mon, 26 Jan 2026 13:34:34 +0200",
+          "description": "Η Εθνική ομάδα πόλο γυναικών έκανε την πρεμιέρα που αναμενόταν στο Ευρωπαϊκό πρωτάθλημα, νικώντας πολύ εύκολα την Σλοβακία με 24-7 για την 1η αγωνιστική.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vpleuritou.jpg?itok=MnUpCGMU",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μίκαελ Σουμάχερ: Συγκλονιστικές φήμες για την υγεία του",
+          "link": "https://www.gazzetta.gr/gmotion/2510294/mikael-soymaher-sygklonistikes-fimes-gia-tin-ygeia-toy",
+          "pubDate": "Mon, 26 Jan 2026 13:33:45 +0200",
+          "description": "Τι υποστηρίζει η Daily Mail για την κατάσταση του Γερμανού πρωταθλητή και γιατί η οικογένεια συνεχίζει να τηρεί στάση αναμονής.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/schumi-korina_1080.jpg?itok=Dzbr9rah",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τα HUAWEI FreeClip 2 είναι διαθέσιμα από σήμερα στην Ελλάδα",
+          "link": "https://www.gazzetta.gr/plus/2510292/ta-huawei-freeclip-2-einai-diathesima-apo-simera-stin-ellada",
+          "pubDate": "Mon, 26 Jan 2026 13:26:43 +0200",
+          "description": "Με βάρος μόλις 5,1 γραμμάρια και C-bridge design δημιουργήθηκαν για να φοριούνται όλη την ημέρα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/1_-_2026-01-26t132547.326.jpg?itok=6k3Wcv9j",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Όμορφοι «Dead People»! (vid)",
+          "link": "https://www.gazzetta.gr/plus/2510276/omorfoi-dead-people-vid",
+          "pubDate": "Mon, 26 Jan 2026 13:13:55 +0200",
+          "description": "Το Gazzetta άκουσε το νέο single, «Dead People» (από τη «Fine! Records»), της Ειρήνης Σκυλακάκη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/deadpeoplephoto.jpg?itok=_ExAxAd3",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σέρχιο Ράμος: Πλήρης συμφωνία για την εξαγορά της Σεβίλλης, σύμφωνα με τους Ισπανούς",
+          "link": "https://www.gazzetta.gr/football/la-liga/2510291/serhio-ramos-pliris-symfonia-gia-tin-exagora-tis-sebillis-symfona-me-toys",
+          "pubDate": "Mon, 26 Jan 2026 13:11:43 +0200",
+          "description": "Ο Ισπανός κεντρικός αμυντικός φέρεται να έχει έρθει σε συμφωνία για την αγορά της Σεβίλλης.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-11/sergio-ramos.jpg?itok=M_DpymHB",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Εθνική Ελλάδος: Η Adidas θα ντύνει τη χώρα μας μέχρι το 2030",
+          "link": "https://www.gazzetta.gr/football/2510290/ethniki-ellados-i-adidas-tha-ntynei-ti-hora-mas-mehri-2030",
+          "pubDate": "Mon, 26 Jan 2026 13:11:16 +0200",
+          "description": "Η ΕΠΟ ανακοίνωση την επιστροφή της Adidas και τη συμφωνία των δύο πλευρών έως το 2030, δίνοντας και ένα teaser για τη νέα φανέλα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/epo.png?itok=ArxhfQxn",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Galacticos LIVE by Interwetten: Κατηφόρα χωρίς τέλος για ΠΑΟ, Γιόβιτς & Ελ Καμπί οδηγούν ΑΕΚ & ΟΣΦΠ",
+          "link": "https://www.gazzetta.gr/football/superleague/2510283/galacticos-live-interwetten-katifora-horis-telos-gia-pao-giobits-el",
+          "pubDate": "Mon, 26 Jan 2026 13:00:00 +0200",
+          "description": "Οι «Galacticos» του Gazzetta συζητούν για την κατηφόρα χωρίς τέλος του Παναθηναϊκού, αλλά και τους Γιόβιτς και Ελ Καμπί που οδηγούν ΑΕΚ και Ολυμπιακό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/youtube-thumb-interwetten-kostas_4.jpg?itok=OH-jLzv2",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Χωρίς σταθερό μοντέλο παιχνιδιού, η ζωή του Παναθηναϊκού δύσκολα θα γίνει καλύτερη",
+          "link": "https://www.gazzetta.gr/football/superleague/2510281/panathinaikos-horis-stathero-montelo-paihnidioy-i-zoi-toy",
+          "pubDate": "Mon, 26 Jan 2026 13:00:00 +0200",
+          "description": "Ο Νίκος Αθανασίου γράφει για μία ομάδα που από παιχνίδι σε παιχνίδι παρουσιάζεται διαφορετική, χειρότερη και με αριθμούς που προβληματίζουν για την επιθετική και ανασταλτική της λειτουργία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kyriakopoulos_intime_2.jpg?itok=xRs0YUeX",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Ο Παναγιώτης Σαντής πέτυχε δύο γκολ κόντρα στους Πειραιώτες και έμεινε στο... Ρέντη",
+          "link": "https://www.gazzetta.gr/football/superleague/2510289/olympiakos-o-panagiotis-santis-petyhe-dyo-gkol-kontra-stoys-peiraiotes",
+          "pubDate": "Mon, 26 Jan 2026 12:58:44 +0200",
+          "description": "Σε μία κίνηση με βλέμμα στο μέλλον προχώρησε ο Ολυμπιακός καθώς ανακοίνωσε την απόκτηση του 18χρονου φορ Παναγιώτη Σαντή από τον Βόλο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/santis_0.jpg?itok=64YAuqKI",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Παναγιώτη Σαντή από το Βόλο",
           "link": "https://www.newsit.gr/athlitika/o-olympiakos-anakoinose-tin-apoktisi-tou-panagioti-santi-apo-to-volo/4583728/",
           "pubDate": "Mon, 26 Jan 2026 10:56:26 +0000",
@@ -787,204 +963,28 @@
           "source": "NewsIT"
         },
         {
-          "title": "Ελλάδα – Σλοβακία 24-7 τελικό: Επιβλητική νίκη για την Εθνική πόλο γυναικών",
-          "link": "https://www.newsit.gr/athlitika/ellada-slovakia-24-7-teliko-epivlitiki-niki-gia-tin-ethniki-polo-gynaikon/4583656/",
-          "pubDate": "Mon, 26 Jan 2026 10:20:49 +0000",
-          "description": "Η Εθνική πόλο γυναικών της Ελλάδας έστησε “πάρτι” κόντρα στη Σλοβακία για το πρώτο της παιχνίδι στο ευρωπαϊκό πρωτάθλημα της Μαδέιρα στην Πορτογαλία, επικρατώντας με ...  \nTo άρθρο Ελλάδα – Σλοβακία 24-7 τελικό: Επιβλητική νίκη για την Εθνική πόλο γυναικών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/polowomen1-1200x800.jpg",
-          "source": "NewsIT"
+          "title": "Euroleague: Συνάντηση του Μοτιεγιούνας με τον Ευρωπαίο Επίτροπο στις Βρυξέλλες",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510287/euroleague-synantisi-toy-motiegioynas-me-ton-eyropaio-epitropo-stis",
+          "pubDate": "Mon, 26 Jan 2026 12:51:38 +0200",
+          "description": "O Διευθύνων Σύμβουλος της Euroleague είχε συνάντηση με τον Ευρωπαίο Επίτροπο και μεταξύ άλλων συζητήθηκε το στρατηγικό όραμα του οργανισμού για τα επόμενα χρόνια.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/motiejunas.jpg?itok=Ki8rgvJL",
+          "source": "Gazzetta"
         },
         {
-          "title": "Άγιαξ – Ολυμπιακός: Ο διαιτητής Φρανσουά Λετεσιέ ορίστηκε στον «τελικό» πρόκρισης του Champions League",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-o-diaititis-fransoua-letesie-oristike-ston-teliko-prokrisis-tou-champions-league/4583634/",
-          "pubDate": "Mon, 26 Jan 2026 09:47:45 +0000",
-          "description": "Ο Ολυμπιακός θα αντιμετωπίσει την Τετάρτη (28/01/26, 22:00, Live από το Newsit.gr) τον Άγιαξ για την 8η και τελευταία αγωνιστική της League Phase του Champions ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Ο διαιτητής Φρανσουά Λετεσιέ ορίστηκε στον «τελικό» πρόκρισης του Champions League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/letexie-1200x800.jpg",
-          "source": "NewsIT"
+          "title": "Πρόβλημα στη Ρόμα ενόψει Παναθηναϊκού: Εκτός ο Κονέ- Αμφίβολος ο Ντιμπάλα",
+          "link": "https://www.gazzetta.gr/football/serie/2510285/problima-sti-roma-enopsei-panathinaikoy-ektos-o-kone-amfibolos-o-ntimpala",
+          "pubDate": "Mon, 26 Jan 2026 12:48:30 +0200",
+          "description": "Νέο πλήγμα για τη Ρόμα που αναμένεται να ταξιδέψει στη Αθήνα για τον αγώνα με το Παναθηναϊκό χωρίς τον Μανού Κονέ, ενώ αμφίβολος παραμένει και ο Πάουλο Ντιμπάλα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-10/dybala.jpg?itok=Fw3YoySK",
+          "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Στην τελική ευθεία η μετεγγραφή του Αντρέ Λουίζ",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-stin-teliki-eytheia-i-meteggrafi-tou-antre-louiz/4583593/",
-          "pubDate": "Mon, 26 Jan 2026 09:28:18 +0000",
-          "description": "Ο Αντρέ Λουίζ έχει ξεχωρίσει με τη φανέλα της Ρίο Άβε στην Πορτογαλία και ο Ολυμπιακός αναμένεται να τον κάνει άμεσα δικό του, ενισχύοντας την ...  \nTo άρθρο Ολυμπιακός: Στην τελική ευθεία η μετεγγραφή του Αντρέ Λουίζ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/andreluiz-1200x842.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κόρι Τζόσεφ: «Είμαι πεινασμένος να παίξω μπάσκετ, έχω μιλήσει με τον Γιώργο Μπαρτζώκα»",
-          "link": "https://www.newsit.gr/athlitika/kori-tzosef-eimai-peinasmenos-na-paikso-mpasket-exo-milisei-me-ton-giorgo-mpartzoka/4583585/",
-          "pubDate": "Mon, 26 Jan 2026 09:09:50 +0000",
-          "description": "Ο Κόρι Τζόσεφ έφθασε στην Ελλάδα για να ολοκληρώσει τη μετεγγραφή του στον Ολυμπιακό και στις πρώτες του δηλώσεις στο αεροδρόμιο “Ελευθέριος Βενιζέλος” έδειξε ενημερωμένος ...  \nTo άρθρο Κόρι Τζόσεφ: «Είμαι πεινασμένος να παίξω μπάσκετ, έχω μιλήσει με τον Γιώργο Μπαρτζώκα» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/joseph-2-1200x798.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Ολυμπιακός «έκλεισε» τον 19χρονο Παναγιώτη Σαντή του Βόλου",
-          "link": "https://www.newsit.gr/athlitika/o-olympiakos-ekleise-ton-19xrono-panagioti-santi-tou-volou/4583535/",
-          "pubDate": "Mon, 26 Jan 2026 08:38:37 +0000",
-          "description": "Στον Ολυμπιακό φαίνεται ότι θα συνεχίσει την καριέρα του ο αρχηγός της ομάδας κάτω των 19 ετών του Βόλου, αφού θεωρείται θέμα χρόνου η ολοκλήρωση ...  \nTo άρθρο Ο Ολυμπιακός «έκλεισε» τον 19χρονο Παναγιώτη Σαντή του Βόλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/santis-1200x950.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Ζλάταν Ιμπραΐμοβιτς συναντήθηκε με τον Άρνολντ Σβαρτσενέγκερ στο Παγκόσμιο Κύπελλο σκι του Κίτσμπουελ",
-          "link": "https://www.newsit.gr/athlitika/o-zlatan-impraimovits-synantithike-me-ton-arnolnt-svartsenegker-sto-pagkosmio-kypello-ski-tou-kitsmpouel/4583524/",
-          "pubDate": "Mon, 26 Jan 2026 08:14:44 +0000",
-          "description": "Δύο εμβληματικές προσωπικότητες συναντήθηκαν στο Παγκόσμιο Κύπελλο σκι στο αυστριακό θέρετρο Κίτσμπουελ, με τον θρύλοι του ποδοσφαίρου, Ζλάταν Ιμπραΐμοβιτς να βρίσκεται με τον διάσημο ηθοποιό ...  \nTo άρθρο Ο Ζλάταν Ιμπραΐμοβιτς συναντήθηκε με τον Άρνολντ Σβαρτσενέγκερ στο Παγκόσμιο Κύπελλο σκι του Κίτσμπουελ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zlatan-1200x833.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Έφθασε στην Ελλάδα ο Κόρι Τζόζεφ",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-efthase-stin-ellada-o-kori-tzozef/4583520/",
-          "pubDate": "Mon, 26 Jan 2026 07:57:25 +0000",
-          "description": "Ο Κόρι Τζόσεφ αποτελεί το νέο μετεγγραφικό απόκτημα της ΚΑΕ Ολυμπιακός και το πρωί της Δευτέρας (26/01/26) έφθασε στην Ελλάδα για να παρουσιαστεί κι επίσημα ...  \nTo άρθρο Ολυμπιακός: Έφθασε στην Ελλάδα ο Κόρι Τζόζεφ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/joseph1-1200x798.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Βαγγέλης Παυλίδης βρίσκεται στο «στόχαστρο» της Αλ Χιλάλ",
-          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-vrisketai-sto-stoxastro-tis-al-xilal/4583472/",
-          "pubDate": "Mon, 26 Jan 2026 07:18:59 +0000",
-          "description": "Ο Βαγγέλης Παυλίδης είναι ασταμάτητος και τη φετινή σεζόν με τη φανέλα της Μπενφίκα και η Αλ Χιλάλ εμφανίζεται έτοιμη να… στρώσει χρυσό χαλί στους ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης βρίσκεται στο «στόχαστρο» της Αλ Χιλάλ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-4-1200x776.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Παναιτωλικός: «Τελειώνει» ο Γιάννης Αναστασίου, με τον Λεωνίδα Βόκολο φαβορί για τη θέση",
-          "link": "https://www.newsit.gr/athlitika/panaitolikos-teleionei-o-giannis-anastasiou-me-ton-leonida-vokolo-favori-gia-ti-thesi/4583452/",
-          "pubDate": "Mon, 26 Jan 2026 07:00:48 +0000",
-          "description": "Η ήττα του Παναιτωλικού με 1-0 από τον ΟΦΗ για τη 18η αγωνιστική της Super League, φαίνεται ότι θα είναι και το τελευταίο παιχνίδι για ...  \nTo άρθρο Παναιτωλικός: «Τελειώνει» ο Γιάννης Αναστασίου, με τον Λεωνίδα Βόκολο φαβορί για τη θέση δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vokolos-anastasiou-1200x801.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Οι Μιλγουόκι Μπακς δώρισαν σε αστέγους το φαγητό του αγώνα με τους Ντάλας Μάβερικς",
-          "link": "https://www.newsit.gr/athlitika/oi-milgouoki-mpaks-dorisan-se-astegous-to-fagito-tou-agona-me-tous-ntalas-maveriks/4583440/",
-          "pubDate": "Mon, 26 Jan 2026 06:45:50 +0000",
-          "description": "Οι Μιλγουόκι Μπακς δεν αγωνίστηκαν στο NBA, καθώς αναβλήθηκε η αναμέτρηση με τους Ντάλας Μάβερικς και η διοίκηση της ομάδας προχώρησε σε μία εξαιρετική κίνηση. ...  \nTo άρθρο Οι Μιλγουόκι Μπακς δώρισαν σε αστέγους το φαγητό του αγώνα με τους Ντάλας Μάβερικς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/antetokounmpo-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Άλλαξε ρότα» ο Ανδρέας Πετρόπουλος: «Δεν υπονόησα πρόσωπα του αθλητικού χώρου για τα κομμένα φρένα»",
-          "link": "https://www.newsit.gr/athlitika/allakse-rota-o-andreas-petropoulos-den-yponoisa-prosopa-tou-athlitikou-xorou-gia-ta-kommena-frena/4583422/",
-          "pubDate": "Mon, 26 Jan 2026 06:32:22 +0000",
-          "description": "Σάλο προκάλεσε μία ανάρτηση του Ανδρέα Πετρόπουλου μετά το Κολοσσός Ρόδου – Ολυμπιακός, για το GBL, αφού ο παίκτης των γηπεδούχων άφησε να εννοηθεί ότι κάποιος του ...  \nTo άρθρο «Άλλαξε ρότα» ο Ανδρέας Πετρόπουλος: «Δεν υπονόησα πρόσωπα του αθλητικού χώρου για τα κομμένα φρένα» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/petropoulos-1-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Αποτελέσματα NBA: «Άλωσαν» την Οκλαχόμα οι Τορόντο Ράπτορς, σπουδαία διπλά και για Γουόριορς και Χιτ",
-          "link": "https://www.newsit.gr/athlitika/apotelesmata-nba-alosan-tin-oklaxoma-oi-toronto-raptors-spoudaia-dipla-kai-gia-gouoriors-kai-xit/4583413/",
-          "pubDate": "Mon, 26 Jan 2026 06:20:15 +0000",
-          "description": "Συνεχίζεται το ντεφορμάρισμα των Οκλαχόμα Σίτι Θάντερ στο NBA, μετά το εντυπωσιακό τους ξεκίνημα στη σεζόν, αφού ηττήθηκαν και από τους Τορόντο Ράπτορς, με 103-101. ...  \nTo άρθρο Αποτελέσματα NBA: «Άλωσαν» την Οκλαχόμα οι Τορόντο Ράπτορς, σπουδαία διπλά και για Γουόριορς και Χιτ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ingram-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Με Εθνική πόλο γυναικών οι αθλητικές μεταδόσεις της ημέρας",
-          "link": "https://www.newsit.gr/athlitika/me-ethniki-polo-gynaikon-oi-athlitikes-metadoseis-tis-imeras/4583337/",
-          "pubDate": "Mon, 26 Jan 2026 06:00:00 +0000",
-          "description": "Μετά το χάλκινο μετάλλιο της Εθνική πόλο ανδρών, ήρθε η ώρα για την Εθνική πόλο γυναικών της Ελλάδας, η οποία και ρίχνεται στη “μάχη” για ...  \nTo άρθρο Με Εθνική πόλο γυναικών οι αθλητικές μεταδόσεις της ημέρας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/polowomen-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Super League: Ο πρωτοπόρος Ολυμπιακός, ο «λίγος» Παναθηναϊκός και η «αλύγιστη» ΑΕΚ",
-          "link": "https://www.newsit.gr/athlitika/super-league-o-protoporos-olympiakos-o-ligos-panathinaikos-kai-i-alygisti-aek/4583278/",
-          "pubDate": "Mon, 26 Jan 2026 05:00:00 +0000",
-          "description": "Ο Παναθηναϊκός ήταν ο μεγάλος χαμένος και της 18ης αγωνιστικής της Super League, αφού το 0-0 στην έδρα του Ατρομήτου, τον άφησε 9 βαθμούς πίσω ...  \nTo άρθρο Super League: Ο πρωτοπόρος Ολυμπιακός, ο «λίγος» Παναθηναϊκός και η «αλύγιστη» ΑΕΚ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zarury-1-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ρόμα – Μίλαν 1-1: Ισοπαλία με κερδισμένη την Ίντερ στην κορυφή της Serie A",
-          "link": "https://www.newsit.gr/athlitika/roma-milan-1-1-isopalia-me-kerdismeni-tin-inter-stin-koryfi-tis-serie-a/4583333/",
-          "pubDate": "Sun, 25 Jan 2026 21:53:39 +0000",
-          "description": "Η Μίλαν έμεινε στην ισοπαλία με 1-1 στην έδρα της Ρόμα για την 22η αγωνιστική της ιταλικής Serie A και ήταν η… Ίντερ αυτή που ...  \nTo άρθρο Ρόμα – Μίλαν 1-1: Ισοπαλία με κερδισμένη την Ίντερ στην κορυφή της Serie A δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romamilan-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα",
-          "link": "https://www.newsit.gr/athlitika/ethniki-polo-andron-i-aponomi-tou-xalkinou-metalliou-sto-eyropaiko-protathlima/4583323/",
-          "pubDate": "Sun, 25 Jan 2026 21:30:52 +0000",
-          "description": "Η Εθνική πόλο ανδρών της Ελλάδας κατέκτησε το χάλκινο μετάλλιο στο ευρωπαϊκό πρωτάθλημα του Βελιγραδίου και ανέβηκε για πρώτη φορά στην ιστορία της στο βάθρο ...  \nTo άρθρο Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grpolo-1200x784.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Αναβλήθηκε το Μιλγουόκι Μπακς – Ντάλας Μάβερικς λόγω κακοκαιρίας στο Τέξας",
-          "link": "https://www.newsit.gr/athlitika/anavlithike-to-milgouoki-mpaks-ntalas-maveriks-logo-kakokairias-sto-teksas/4583327/",
-          "pubDate": "Sun, 25 Jan 2026 21:27:41 +0000",
-          "description": "Η αναμέτρηση των Μιλγουόκι Μπακς με τους Ντάλας Μάβερικς στο NBA, αναβλήθηκε οριστικά, εξαιτίας των δυσμενών καιρικών συνθηκών που επικρατούν τις τελευταίες ώρες στο Τέξας. ...  \nTo άρθρο Αναβλήθηκε το Μιλγουόκι Μπακς – Ντάλας Μάβερικς λόγω κακοκαιρίας στο Τέξας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/portis-bucks-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σερβία – Ουγγαρία 10-7: Κατέκτησαν το χρυσό μετάλλιο στο ευρωπαϊκό πρωτάθλημα πόλο ανδρών οι Σέρβοι",
-          "link": "https://www.newsit.gr/athlitika/servia-ouggaria-10-7-katektisan-to-xryso-metallio-sto-eyropaiko-protathlima-polo-andron-oi-servoi/4583309/",
-          "pubDate": "Sun, 25 Jan 2026 21:04:38 +0000",
-          "description": "Μετά από ένα μεγάλο ντέρμπι στον τελικό, η Σερβία κατάφερε να “λυγίσει” με 10-7 την Ουγγαρία και να κατακτήσει την πρώτη θέση και το χρυσό ...  \nTo άρθρο Σερβία – Ουγγαρία 10-7: Κατέκτησαν το χρυσό μετάλλιο στο ευρωπαϊκό πρωτάθλημα πόλο ανδρών οι Σέρβοι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/serbia-1200x838.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Εμμανουήλ Καραλής ξεκίνησε εντυπωσιακά και το 2026 με άλμα στα 5,93 μέτρα στην Πολωνία",
-          "link": "https://www.newsit.gr/athlitika/o-emmanouil-karalis-ksekinise-entyposiaka-kai-to-2026-me-alma-sta-5-93-metra-stin-polonia/4583303/",
-          "pubDate": "Sun, 25 Jan 2026 20:47:48 +0000",
-          "description": "Ο Εμμανουήλ Καραλής μπήκε με το… δεξί και στο 2026, αφού πέτυχε με το… καλημέρα την καλύτερη επίδοση στον κόσμο στο άλμα επί κοντώ, παίρνοντας τη ...  \nTo άρθρο Ο Εμμανουήλ Καραλής ξεκίνησε εντυπωσιακά και το 2026 με άλμα στα 5,93 μέτρα στην Πολωνία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/karalis-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ράφα Μπενίτεθ: «Θέλαμε να προφυλάξουμε παίκτες, αδύνατον να στηρίζεσαι σε λίγους με τρεις διοργανώσεις»",
-          "link": "https://www.newsit.gr/athlitika/rafa-mpeniteth-thelame-na-profylaksoume-paiktes-adynaton-na-stirizesai-se-ligous-me-treis-diorganoseis/4583304/",
-          "pubDate": "Sun, 25 Jan 2026 20:39:47 +0000",
-          "description": "Ο Παναθηναϊκός απέτυχε να επιστρέψει στις νίκες στη Super League, για δεύτερη σερί αγωνιστική και ο Ράφα Μπενίτεθ εμφανίστηκε απογοητευμένος στην συνέντευξη Τύπου που ακολούθησε ...  \nTo άρθρο Ράφα Μπενίτεθ: «Θέλαμε να προφυλάξουμε παίκτες, αδύνατον να στηρίζεσαι σε λίγους με τρεις διοργανώσεις» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/rafa-mpeniteth-eurokinissi-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Κώστας Τσιμίκας επιστρέφει άμεσα στη Λίβερπουλ",
-          "link": "https://www.newsit.gr/athlitika/o-kostas-tsimikas-epistrefei-amesa-sti-liverpoul/4583300/",
-          "pubDate": "Sun, 25 Jan 2026 20:27:43 +0000",
-          "description": "Ο Κώστας Τσιμίκας δεν κατάφερε να κερδίσει θέση βασικού στη Ρόμα και η Λίβερπουλ χρειάζεται αριστερό μπακ, με αποτέλεσμα την επικείμενη διακοπή του δανεισμού του ...  \nTo άρθρο Ο Κώστας Τσιμίκας επιστρέφει άμεσα στη Λίβερπουλ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tsimikas-2-1200x768.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Παναιτωλικός κατά Λανουά: «Αποδείχτηκε ότι δεν μπορούμε να εμπιστευόμαστε τις επιλογές και τις πράξεις του»",
-          "link": "https://www.newsit.gr/athlitika/panaitolikos-kata-lanoua-apodeixtike-oti-den-mporoume-na-empisteyomaste-tis-epiloges-kai-tis-prakseis-tou/4583298/",
-          "pubDate": "Sun, 25 Jan 2026 20:20:12 +0000",
-          "description": "Ανακοίνωση με τίτλο «τα ψέματα τελείωσαν» εξέδωσε η ΠΑΕ Παναιτωλικός, μετά την ήττα με 1-0 από τον ΟΦΗ, για την 18η αγωνιστική της Super League. ...  \nTo άρθρο Παναιτωλικός κατά Λανουά: «Αποδείχτηκε ότι δεν μπορούμε να εμπιστευόμαστε τις επιλογές και τις πράξεις του» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ofi-panaitolikos-eurokinissi.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Εστρέλα με 4-0",
-          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-petyxe-dyo-gkol-sti-niki-tis-mpenfika-epi-tis-estrela-me-4-0/4583283/",
-          "pubDate": "Sun, 25 Jan 2026 19:55:47 +0000",
-          "description": "Ένα άνετο βράδυ πρωταθλήματος για την Μπενφίκα. Με τον Βαγγέλη Παυλίδη να πετυχαίνει δυο γκολ, η ομάδα του Ζοσέ Μουρίνιο επικράτησε εντός έδρας της Εστρέλα ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης πέτυχε δυο γκολ στη νίκη της Μπενφίκα επί της Εστρέλα με 4-0 δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-reuters-1200x792.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η βαθμολογία της Super League μετά τη νέα «γκέλα» του Παναθηναϊκού, οι φάσεις και τα γκολ της αγωνιστικής",
-          "link": "https://www.newsit.gr/athlitika/i-vathmologia-tis-super-league-meta-ti-nea-gkela-tou-panathinaikou-oi-faseis-kai-ta-gkol-tis-agonistikis/4583237/",
-          "pubDate": "Sun, 25 Jan 2026 19:32:00 +0000",
-          "description": "Νέα βαθμολογική απώλεια για τον Παναθηναϊκό, στην προσπάθεια που κάνει η ομάδα για να μπει στην πρώτη τετράδα του βαθμολογικού πίνακα της Super League. Ο ...  \nTo άρθρο Η βαθμολογία της Super League μετά τη νέα «γκέλα» του Παναθηναϊκού, οι φάσεις και τα γκολ της αγωνιστικής δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/atromitos-panathinaikos-eurokinissi.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ατρόμητος – Παναθηναϊκός 0-0: Νέα απώλεια βαθμών για τους «πράσινους» στη Super League",
-          "link": "https://www.newsit.gr/athlitika/atromitos-panathinaikos-0-0-nea-apoleia-vathmon-gia-tous-prasinous-sti-super-league/4583231/",
-          "pubDate": "Sun, 25 Jan 2026 19:27:20 +0000",
-          "description": "Ο Παναθηναϊκός έκανε μία ακόμη “άνευρη” εμφάνιση τη φετινή σεζόν και έμεινε στο 0-0 στην έδρα του Ατρομήτου για την 18η αγωνιστική της Super League, με ...  \nTo άρθρο Ατρόμητος – Παναθηναϊκός 0-0: Νέα απώλεια βαθμών για τους «πράσινους» στη Super League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tetteh-1200x799.jpg",
-          "source": "NewsIT"
+          "title": "Τα 5 ρούχα που δεν πρέπει να φοράμε όταν οδηγούμε",
+          "link": "https://www.gazzetta.gr/gmotion/2510169/ta-5-royha-poy-den-prepei-na-forame-otan-odigoyme",
+          "pubDate": "Mon, 26 Jan 2026 12:45:00 +0200",
+          "description": "Η επιλογή της κατάλληλης ενδυμασίας στο τιμόνι δεν είναι ζήτημα στιλ, αλλά παράγοντας ασφάλειας. Μάθετε ποια ρούχα περιορίζουν τις κινήσεις σας και πώς να ντύνεστε σωστά.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/leoon-liang-g7ifb9fxtre-unsplash.jpg?itok=zB1xYyCA",
+          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Τα εισιτήρια της «μάχης» με τον Ερυθρό Αστέρα",
+          "link": "https://panathinaikos24.gr/2026/01/26/617792/ta-eisitiria-tis-maxis-me-ton-erythro-astera/",
+          "pubDate": "Mon, 26 Jan 2026 12:41:39 +0000",
+          "description": "Τα εισιτήρια για τον προημιτελικό του Challenge Cup Γυναικών.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/ntye-1.jpg?fit=805%2C531&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Γρίφος με Γιαμπουσέλε…",
           "link": "https://panathinaikos24.gr/2026/01/26/617578/grifos-me-giampousele/",
@@ -1223,14 +1231,6 @@
           "description": "Η βαθμολογία της Stoiximan Super League μετά το 0-0 του Παναθηναϊκού στο Περιστέρι.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/BATHMOLOGIA.jpg?fit=900%2C599&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Νέο «στραπάτσο» ο Παναθηναϊκός!",
-          "link": "https://trifilara.gr/neo-strapatso-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=neo-strapatso-o-panathinaikos",
-          "pubDate": "Sun, 25 Jan 2026 19:26:08 +0000",
-          "description": "O Παναθηναϊκός έφυγε από το Περιστέρι με τον βαθμό (0-0), όμως το αποτέλεσμα δεν λέει όλη την αλήθεια. Γιατί το ματς της 18ης αγωνιστικής της Super League, την Κυριακή 25 Ιανουαρίου (19:30), ήταν από εκείνα που αφήνουν περισσότερο προβληματισμό παρά ικανοποίηση, ειδικά από τη στιγμή που ο Ράφα Μπενίτεθ είδε την ομάδα του να «παίζει με τη φωτιά» από πολύ νωρίς και να σώζεται ουσιαστικά από τον Αλμπάν Λαφόν.\nThe post Νέο «στραπάτσο» ο Παναθηναϊκός! appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         }
       ]
     },
@@ -1245,6 +1245,14 @@
           "description": "Σε μια κομβική στιγμή για την εξέλιξη της ιατρικής επιστήμης, τα δεδομένα αλλάζουν ραγδαία. Η συζήτηση για τον ρόλο της Τεχνητής Νοημοσύνης (AI) στα ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/ai-doctor.jpg",
           "source": "Techgear"
+        },
+        {
+          "title": "Tormented Souls 2 Review",
+          "link": "https://gr.pcmag.com/games-reviews/51122/tormented-souls-2-review",
+          "pubDate": "Mon, 26 Jan 2026 12:27:06 +0000",
+          "description": "Ένα νοσταλγικό ταξίδι στον τρόμο που αναβιώνει τη χρυσή εποχή των Resident Evil.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/photo/default/tormented-souls-2-review-pcmag-greece_e6n9.jpg",
+          "source": "PC Magazine"
         },
         {
           "title": "Κατηγορίες-σοκ για το WhatsApp: «Η κρυπτογράφηση είναι μύθος»",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sun, 25 Jan 2026 15:13:25 +0000",
           "description": "Μετά από 10 χρόνια λειτουργίας, η υπηρεσία που επέτρεπε τη χρήση προηγμένων λειτουργιών του Gmail σε τρίτους παρόχους κλείνει, αναγκάζοντας τους χρήστες σε αναζήτηση εναλλακτικών.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/g/gmailify-t/gmailify-tool-that-shared-gmail-perks-with-non-google-emails_v4bv.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Amazon: Νέο κύμα απολύσεων το 2026 – Στόχος η κατάργηση 30.000 θέσεων εργασίας",
-          "link": "https://gr.pcmag.com/old-shopping/51110/amazon-neo-kuma-apoluseon-to-2026-stokhos-e-katargese-30000-theseon-ergasias",
-          "pubDate": "Sun, 25 Jan 2026 15:01:17 +0000",
-          "description": "Με φόντο τη μετάβαση στην τεχνητή νοημοσύνη, ο κολοσσός του λιανεμπορίου προχωρά σε περικοπές στο 10% του εταιρικού του προσωπικού, επηρεάζοντας τμήματα όπως η AWS και το Prime Video.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/r/report-ama/report-amazon-set-for-another-round-of-layoffs-thousands-exp_t7aq.jpg",
           "source": "PC Magazine"
         }
       ]
