@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T19:15:32.540Z",
+  "lastUpdated": "2026-01-26T19:24:11.407Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πάνω από 20 οι νεκροί λόγω του πολικού ψύχους στις ΗΠΑ: Θερμοκρασίες ρεκόρ στους -45 βαθμούς, 1 εκατομμύριο νοικοκυριά χωρίς ρεύμα",
+          "link": "https://www.newsit.gr/kosmos/pano-apo-20-oi-nekroi-logo-tou-polikou-psyxous-stis-ipa-thermokrasies-rekor-stous-45-vathmous-1-ekatommyrio-noikokyria-xoris-reyma/4584181/",
+          "pubDate": "Mon, 26 Jan 2026 19:15:32 +0000",
+          "description": "Εκατομμύρια Αμερικανοί βρίσκονται και σήμερα (26.01.2026) αντιμέτωποι με ένα κύμα πολικού ψύχους, που επιδεινώνει τις επιπτώσεις της χιονοθύελλας, με τα ακραία καιρικά φαινόμενα να έχουν ...  \nTo άρθρο Πάνω από 20 οι νεκροί λόγω του πολικού ψύχους στις ΗΠΑ: Θερμοκρασίες ρεκόρ στους -45 βαθμούς, 1 εκατομμύριο νοικοκυριά χωρίς ρεύμα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/storm-usa.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Όλγα Κεφαλογιάννη: Να αποσυρθεί η επίμαχη ρύθμιση ζητούν οι δικηγορικοί σύλλογοι",
+          "link": "https://www.newsit.gr/politikh/olga-kefalogianni-na-aposyrthei-i-epimaxi-rythmisi-zitoun-oi-dikigorikoi-syllogoi/4584184/",
+          "pubDate": "Mon, 26 Jan 2026 19:14:57 +0000",
+          "description": "Τη διαφωνία της με τη ρύθμιση για το οικογενειακό δίκαιο, η οποία θεωρείται «φωτογραφική» για την Όλγα Κεφαλογιάννη, εκφράζει η Ολομέλεια των Δικηγορικών Συλλόγων της ...  \nTo άρθρο Όλγα Κεφαλογιάννη: Να αποσυρθεί η επίμαχη ρύθμιση ζητούν οι δικηγορικοί σύλλογοι δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olga-kefalogiannh-eurok-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Να μ’ αγαπάς – επόμενα επεισόδια: H Φωτεινή ανακοινώνει στον Λευτέρη πως είναι έγκυος",
           "link": "https://www.newsit.gr/media/na-m-agapas-epomena-epeisodia-h-foteini-anakoinonei-ston-leyteri-pos-einai-egkyos/4576753/",
@@ -121,6 +137,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Κάθετος διάδρομος: Ισχνό το ενδιαφέρον στη δημοπρασία για μεταφορά αερίου",
+          "link": "https://www.in.gr/2026/01/26/economy/oikonomikes-eidiseis/kathetos-diadromos-isxno-endiaferon-sti-dimoprasia-gia-metafora-aeriou/",
+          "pubDate": "Mon, 26 Jan 2026 21:19:36 +0300",
+          "description": "Ο Κάθετος Διάδρομος δεν συγκέντρωσε και στη σημερινή δημοπρασία ενδιαφέρον για μεταφορά αερίου – Τα εμπόδια – Η γεωπολιτική",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/d1c1e3ac4e519ae2f510452ad4889aed_XL-768x527.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Γιώργος Καπουτζίδης: Η μοναχικότητα και η μοναξιά που βίωσα στην εφηβεία μου με διαμόρφωσαν",
           "link": "https://www.newsit.gr/lifestyle/giorgos-kapoutzidis-i-monaxikotita-kai-i-monaksia-pou-viosa-stin-efiveia-mou-me-diamorfosan/4584163/",
           "pubDate": "Mon, 26 Jan 2026 18:17:00 +0000",
@@ -223,30 +247,6 @@
           "description": "Η καμπάνια εστιάζει σε τρία βασικά θέματα που απασχολούν σήμερα εφήβους και οικογένειες: το άγχος, τον θυμό και την κρίση στην οικογένεια",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/mazi-gia-to-paidi.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Νάταλι Πόρτμαν στο Sundance: Καταγγέλλει τη βία της ICE και τους αποκλεισμούς σε βάρος των γυναικών",
-          "link": "https://www.in.gr/2026/01/26/go-fun/fizz/natali-portman-sto-sundance-kataggellei-ti-via-tis-ice-kai-tous-apokleismous-se-varos-ton-gynaikon/",
-          "pubDate": "Mon, 26 Jan 2026 20:40:08 +0300",
-          "description": "Με κονκάρδες «ICE Out» και «Be Good», η Νάταλι Πόρτμαν μετέτρεψε την προώθηση του The Gallerist σε πολιτική παρέμβαση, μιλώντας ανοιχτά για τη βία της ICE αλλά και για τον συστηματικό αποκλεισμό γυναικών δημιουργών από τη αναγνώριση στα βραβεία",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Film-Toronto-Jackie-Kennedy.JPEG-cf626-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Νίκαια: Νεκρός 40χρονος που παρασύρθηκε από αυτοκίνητο – Δώρισε τα όργανα η οικογένεια",
-          "link": "https://www.newsit.gr/ellada/nikaia-nekros-40xronos-pou-parasyrthike-apo-aytokinito-dorise-ta-organa-i-oikogeneia/4584135/",
-          "pubDate": "Mon, 26 Jan 2026 17:39:01 +0000",
-          "description": "Την τελευταία του πνοή άφησε ένας 40χρονος που είχε χτυπήσει σε τροχαίο στη Νίκαια στις 21 Ιανουαρίου. Μεγαλείο ψυχής από την οικογένεια, η οποία χθες (25.01.2026) ...  \nTo άρθρο Νίκαια: Νεκρός 40χρονος που παρασύρθηκε από αυτοκίνητο – Δώρισε τα όργανα η οικογένεια δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xristoforos-tsironis-troxaio-nikaia-26012026.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συμβούλιο της Ευρώπης: Θετικές κριτικές για το πρόγραμμα πρόληψης και αντιμετώπισης της ανήλικης παραβατικότητας",
-          "link": "https://www.protothema.gr/greece/article/1763750/sumvoulio-tis-europis-thetikes-kritikes-gia-to-programma-prolipsis-kai-adimetopisis-tis-anilikis-paravatikotitas/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 19:34:00 +0200",
-          "description": "Το πρόγραμμα παρουσιάστηκε στην Κοινοβουλευτική Συνέλευση του Συμβουλίου της Ευρώπης",
-          "thumbnail": "https://i1.prth.gr/images/w640/1/jpg/files/2025-12-22/floridis_arthrou.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Η συζήτηση για την ενότητα διχάζει την ευρύτερη κεντροαριστερά",
+          "link": "https://www.naftemporiki.gr/politics/2064215/i-syzitisi-gia-tin-enotita-dichazei-tin-eyryteri-kentroaristera/?utm_source=rss&utm_medium=rss&utm_campaign=i-syzitisi-gia-tin-enotita-dichazei-tin-eyryteri-kentroaristera",
+          "pubDate": "Mon, 26 Jan 2026 19:17:40 +0000",
+          "description": "Είναι από τα παράδοξα της Αριστεράς ότι η συζήτηση για την απαιτούμενη ενότητα της Αριστεράς προκειμένου να προκύψει αξιόπιστη εναλλακτική στην κυβέρνηση Μητσοτάκη προκαλεί νέους διχασμούς.\nΗ συζήτηση για την ενότητα διχάζει την ευρύτερη κεντροαριστερά - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Τι κρύβει η συζήτηση για επέκταση χωρικών υδάτων",
           "link": "https://www.tanea.gr/print/2026/01/26/politics/ti-kryvei-i-syzitisi-gia-epektasi-xorikon-ydaton/",
@@ -485,14 +493,6 @@
           "description": "«Η σκέψη όλων είναι αυτή τη στιγμή στην τραγωδία στα Τρίκαλα και στις οικογένειες των θυμάτων»",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2024/12/neadimokratia-2-1200x800-1024x683.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Στη Λιβύη ο Φαραντούρης – Τα ραντεβού με τον Πρωθυπουργό και τον Υπουργό Πετρελαίου",
-          "link": "https://www.tovima.gr/2026/01/26/politics/sti-livyi-o-farantouris-ta-rantevou-me-ton-prothypourgo-kai-ton-ypourgo-petrelaiou/",
-          "pubDate": "Mon, 26 Jan 2026 14:33:34 +0300",
-          "description": "Σύμφωνα με τον Έλληνα ευρωβουλευτή, η πρόοδος στις ευρωλιβυκές σχέσεις προϋποθέτει την απόσυρση απ' το τραπέζι του παράνομου τουρκολιβυκού μνημόνιο για τις θαλάσσιες ζώνες.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/farantouris_libya-1024x708.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
