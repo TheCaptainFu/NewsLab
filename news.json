@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T01:00:38.709Z",
+  "lastUpdated": "2026-01-26T01:05:28.413Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο χρυσός σπάει το φράγμα των 5.000 δολαρίων για πρώτη φορά στην ιστορία",
+          "link": "https://www.in.gr/2026/01/26/economy/diethnis-oikonomia/o-xrysos-spaei-fragma-ton-5-000-dolarion-gia-proti-fora-stin-istoria/",
+          "pubDate": "Mon, 26 Jan 2026 03:00:44 +0300",
+          "description": "Για πρώτη φορά στην ιστορία, η τιμή του χρυσού σπάει το φράγμα των 5.000 δολαρίων, και ενισχύεται καθώς το δολάριο αποδυναμώνεται, συνεχίζοντας την αδιάλειπτη άνοδό της εδώ και χρόνια.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/gold-record.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Γαλλία: Υπό κράτηση ο ινδός πλοίαρχος του Grinch που φέρεται να ανήκει στον «σκιώδη στόλο» της Ρωσίας",
           "link": "https://www.in.gr/2026/01/26/world/gallia-ypo-kratisi-o-indos-ploiarxos-tou-grinch-pou-feretai-na-anikei-ston-skiodi-stolo-tis-rosias/",
@@ -239,14 +247,6 @@
           "description": "Πρωταθλήτρια Ευρώπης για ένατη φορά στην ιστορία της -και μάλιστα μέσα στο σπίτι της- αναδείχθηκε η Σερβία, μετά τη νίκη της με 10-7 επί της Ουγγαρίας στον τελικό του Ευρωπαϊκού Πρωταθλήματος πόλο ανδρών.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/serbia-25126-768x432.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Κακοκαιρία: Τι ώρα θα ξεκινήσουν οι ισχυρές καταιγίδες στην Αττική",
-          "link": "https://www.protothema.gr/greece/article/1763216/kakokairia-ti-ora-tha-xekinisoun-oi-ishures-kataigides-stin-attiki/?utm_source=rss",
-          "pubDate": "Sun, 25 Jan 2026 22:38:55 +0200",
-          "description": "Αναμένεται σαφής επιδείνωση του καιρού με έντονες βροχές και καταιγίδες σε μεγάλη έκταση της Ελλάδας, και με φαινόμενα που θα επηρεάσουν και την Αττική.",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-25/260121173039_vroxi-rain.jpeg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
