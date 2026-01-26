@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T16:50:30.320Z",
+  "lastUpdated": "2026-01-26T16:55:29.745Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,30 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πικέρμι: Οι δραματικές στιγμές με το αυτοκίνητο που παρασύρθηκε από το νερό και η διάσωση των ανθρώπων",
+          "link": "https://www.newsit.gr/ellada/pikermi-oi-dramatikes-stigmes-me-to-aytokinito-pou-parasyrthike-apo-to-nero-kai-i-diasosi-ton-anthropon/4584082/",
+          "pubDate": "Mon, 26 Jan 2026 16:50:33 +0000",
+          "description": "Το περιστατικό συνέβη το μεσημέρι της Δευτέρας (26/1/26) στην περιοχή της Πετρέζας, στα όρια Πικερμίου και Σπάτων. Ένα αυτοκίνητο παρασύρθηκε από το ρέμα που περνάει από ...  \nTo άρθρο Πικέρμι: Οι δραματικές στιγμές με το αυτοκίνητο που παρασύρθηκε από το νερό και η διάσωση των ανθρώπων δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pikermi-1200x747.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Καρυοφυλλιά Καραμπέτη: Ήμουν κατά του γάμου από μικρό παιδί, δεν ήθελα να παντρευτώ",
+          "link": "https://www.newsit.gr/lifestyle/karyofyllia-karampeti-imoun-kata-tou-gamou-apo-mikro-paidi-den-ithela-na-pantreyto/4584075/",
+          "pubDate": "Mon, 26 Jan 2026 16:50:20 +0000",
+          "description": "Μία σπάνια τηλεοπτική συνέντευξη έδωσε η Καρυοφυλλιά Καραμπέτη και αναφέρθηκε στα πράγματα που έχουν αληθινή αξία στη ζωή. Όπως δήλωσε η σπουδαία καλλιτέχνιδα το απόγευμα ...  \nTo άρθρο Καρυοφυλλιά Καραμπέτη: Ήμουν κατά του γάμου από μικρό παιδί, δεν ήθελα να παντρευτώ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kariofilia-karampeti-ndp-1200x733.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "«Ο ΠΑΟΚ ετοιμάζει νέα πρόταση για τον Χόρχε Σάντσες» γράφουν στο Μεξικό",
+          "link": "https://www.newsit.gr/athlitika/o-paok-etoimazei-nea-protasi-gia-ton-xorxe-santses-grafoun-sto-meksiko/4584102/",
+          "pubDate": "Mon, 26 Jan 2026 16:49:30 +0000",
+          "description": "Η περίπτωση του 28χρονου δεξιού μπακ, Χόρχε Σάντσες, επανέρχεται στα μετεγγραφικά δημοσιεύματα που αφορούν τον ΠΑΟΚ, με τα ΜΜΕ από το Μεξικό να σημειώνουν πως ...  \nTo άρθρο «Ο ΠΑΟΚ ετοιμάζει νέα πρόταση για τον Χόρχε Σάντσες» γράφουν στο Μεξικό δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jorge-sanchez-ap.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Σέρρες: Νέες αποκαλύψεις για την καθηγήτρια που φίμωσε μαθητή – «Έλεγε ότι ένας γάτος είναι η μετεμψύχωση του πατέρα της»",
           "link": "https://www.newsit.gr/ellada/serres-nees-apokalypseis-gia-tin-kathigitria-pou-fimose-mathiti-elege-oti-enas-gatos-einai-i-metempsyxosi-tou-patera-tis/4584046/",
@@ -209,43 +233,19 @@
           "source": "NewsIT"
         },
         {
+          "title": "Μουσείο Λαϊκής Τέχνης & Παράδοσης «Αγγελική Χατζημιχάλη»: Εγκαίνια του ανακαινισμένου χώρου με μια έκθεση",
+          "link": "https://www.in.gr/2026/01/26/life/texni/mouseio-laikis-texnis-paradosis-aggeliki-xatzimixali-egkainia-tou-anakainismenou-xorou-mia-ekthesi/",
+          "pubDate": "Mon, 26 Jan 2026 18:51:51 +0300",
+          "description": "Η διάρκεια της έκθεσης: θα είναι από την 1η Φεβρουαρίου έως τις19 Απριλίου 2026, ενώ η είσοδος για το κοινό είναι ελεύθερη.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2829_ERSH_CHATZHMICHALH.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Μακρόν: Αυξάνονται τα επίπεδα δημοφιλίας του από την «κόντρα» με τον Ντόναλντ Τραμπ",
           "link": "https://www.newsit.gr/kosmos/makron-ayksanontai-ta-epipeda-dimofilias-tou-apo-tin-kontra-me-ton-ntonalnt-tramp/4584023/",
           "pubDate": "Mon, 26 Jan 2026 15:50:51 +0000",
           "description": "Χαμηλό παραμένει το επίπεδο δημοτικότητας του Γάλλου προέδρου, Εμανουέλ Μακρόν, ο οποίος, ωστόσο λόγω της στάσης του στις διεθνείς εξελίξεις και κυρίως λόγω της αντιπαράθεσής ...  \nTo άρθρο Μακρόν: Αυξάνονται τα επίπεδα δημοφιλίας του από την «κόντρα» με τον Ντόναλντ Τραμπ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/macron-reuters-2-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Νέος κύκλος βροχών από την Πέμπτη στη νότια Ελλάδα - και στην Αττική",
-          "link": "https://www.protothema.gr/greece/article/1763697/sunehizodai-oi-kataigides-stin-attiki-nea-epideinosi-tou-kairou-apo-tin-pebti/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 17:50:00 +0200",
-          "description": "Πτώσεις δέντρων, διακοπές ηλεκτροδότησης και πλημμυρικά φαινόμενα σχετικά μικρής έκτασης προκάλεσαν οι καταιγίδες της Δευτέρας σε περιοχές που είχαν πληγεί από το πρόσφατο κύμα κακοκαιρίας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/vroxi_attiki_xr.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "«Ο Μίχαελ Σουμάχερ δεν είναι πια κατάκοιτος, μετακινείται με αναπηρικό αμαξίδιο» ισχυρίζεται η Daily Mail",
-          "link": "https://www.newsit.gr/athlitika/o-mixael-soumaxer-den-einai-pia-katakoitos-metakineitai-me-anapiriko-amaksidio-isxyrizetai-i-daily-mail/4584038/",
-          "pubDate": "Mon, 26 Jan 2026 15:48:11 +0000",
-          "description": "Η πληροφόρηση για την υγεία του Μίχαελ Σουμάχερ, μετά το ατύχημα που είχε τον Δεκέμβριο του 2013 -κάνοντας σκι στις γαλλικές Άλπεις- εξακολουθεί να βγαίνει ...  \nTo άρθρο «Ο Μίχαελ Σουμάχερ δεν είναι πια κατάκοιτος, μετακινείται με αναπηρικό αμαξίδιο» ισχυρίζεται η Daily Mail δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/michael-schumacher-ape-1200x755.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Volkswagen: Η ασίγαστη δύναμη του Golf R Black Edition",
-          "link": "https://www.newsit.gr/auto/volkswagen-i-asigasti-dynami-tou-golf-r-black-edition/4582460/",
-          "pubDate": "Mon, 26 Jan 2026 15:46:00 +0000",
-          "description": "Η κορωνίδα των εκδόσεων Golf, είναι το R που χαρακτηρίζεται από σπορτίφ στοιχεία που το καθιστούν μοναδικό στη γκάμα της Volkswagen, με τεχνολογία που λειτουργεί ...  \nTo άρθρο Volkswagen: Η ασίγαστη δύναμη του Golf R Black Edition δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vw-golf-r-black-edition-01.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Έκρηξη στη βιομηχανία «Βιολάντα»: Εικόνες από drone δείχνουν το μέγεθος της καταστροφής",
-          "link": "https://www.newsit.gr/ellada/ekriksi-sti-viomixania-violanta-eikones-apo-drone-deixnoun-to-megethos-tis-katastrofis/4584031/",
-          "pubDate": "Mon, 26 Jan 2026 15:45:48 +0000",
-          "description": "Θρήνος στα Τρίκαλα μετά την φονική έκρηξη στο εργοστάσιο της «Βιολάντα» τα ξημερώματα της Δευτέρας 26 Ιανουαρίου με τραγικό απολογισμό πέντε νεκρές εργάτριες. Η έκρηξη ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: Εικόνες από drone δείχνουν το μέγεθος της καταστροφής δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/trikala-ekrixi-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Private jet carrying eight people crashes in Maine",
+          "link": "https://www.bbc.com/news/articles/cddgqqd0peno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 16:51:52 GMT",
+          "description": "Poor visibility was reported at the airport during a winter storm that has affected a large swathe of the US.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86af/live/f61d1ca0-faab-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Γροιλανδός υπουργός: Ασαφή τα συμφέροντα των ΗΠΑ, χωρίς συμφωνία στο τραπέζι",
+          "link": "http://gr.euronews.com/my-europe/2026/01/26/greenlandic-minister-says-that-us-interests-are-unclear-with-no-deal-yet-on-the-table",
+          "pubDate": "Mon, 26 Jan 2026 17:46:16 +0100",
+          "description": "Η υπουργός Naaja Nathanielsen είπε στο Euronews ότι η Γροιλανδία ζητά σαφήνεια για τις απαιτήσεις του Τραμπ, προειδοποίησε ότι «πλήρης πρόσβαση» στους ορυκτούς πόρους της θα παραβίαζε τις κόκκινες γραμμές της.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Israel says it has retrieved remains of final Gaza hostage",
           "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 16:38:11 GMT",
@@ -685,14 +701,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Private jet carrying eight people crashes in Maine",
-          "link": "https://www.bbc.com/news/articles/cddgqqd0peno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 12:10:29 GMT",
-          "description": "Poor visibility was reported at the airport during a winter storm that has affected a large swathe of the US.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86af/live/f61d1ca0-faab-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
           "title": "Επίσημη έρευνα κατά του Grok του Ίλον Μασκ ανακοίνωσε η Κομισιόν",
           "link": "http://gr.euronews.com/next/2026/01/26/epishmh-ereyna-kata-grok-ilon-mask-anakoinose-komision",
           "pubDate": "Mon, 26 Jan 2026 13:06:05 +0100",
@@ -731,14 +739,6 @@
           "description": "«Είμαι εναντίον τους», δήλωσε ο Ντόναλντ Τραμπ για τους μουσικούς. «Νομίζω ότι είναι μια τρομερή επιλογή. Το μόνο που κάνει είναι να σπέρνει το μίσος. Τρομερό».",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Gold tops $5,000 for first time ever, adding to historic rally",
-          "link": "https://www.bbc.com/news/articles/cvgd8kj2y2po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 11:05:51 GMT",
-          "description": "Gold is seen as a so-called safe-haven asset that investors buy in times of uncertainty and low interest rates.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ea/live/315436b0-fa47-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "«Ο ΠΑΟΚ ετοιμάζει νέα πρόταση για τον Χόρχε Σάντσες» γράφουν στο Μεξικό",
+          "link": "https://www.newsit.gr/athlitika/o-paok-etoimazei-nea-protasi-gia-ton-xorxe-santses-grafoun-sto-meksiko/4584102/",
+          "pubDate": "Mon, 26 Jan 2026 16:49:30 +0000",
+          "description": "Η περίπτωση του 28χρονου δεξιού μπακ, Χόρχε Σάντσες, επανέρχεται στα μετεγγραφικά δημοσιεύματα που αφορούν τον ΠΑΟΚ, με τα ΜΜΕ από το Μεξικό να σημειώνουν πως ...  \nTo άρθρο «Ο ΠΑΟΚ ετοιμάζει νέα πρόταση για τον Χόρχε Σάντσες» γράφουν στο Μεξικό δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jorge-sanchez-ap.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Φλαμένγκο: Συμφώνησε με τη Γουέστ Χαμ για την απόκτηση του Πακετά",
           "link": "https://www.gazzetta.gr/football/2510380/flamengko-symfonise-me-ti-goyest-ham-gia-tin-apoktisi-toy-paketa",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 16:51:52 +0200",
           "description": "Σύσσωμο το ποδοσφαιρικό τμήμα της ΑΕΚ θα δώσει το παρών στη Sunel Arena για το κρίσιμο παιχνίδι με την Άλμπα, για το Champions League.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_gkooll.jpg?itok=tylI0hyT",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σοκ στο βρετανικό ποδόσφαιρο: Οι κεφαλιές πίσω από το θάνατο ποδοσφαιριστή",
-          "link": "https://www.gazzetta.gr/football/premier-league/2510352/sok-sto-bretaniko-podosfairo-oi-kefalies-piso-apo-ton-thanato",
-          "pubDate": "Mon, 26 Jan 2026 16:50:19 +0200",
-          "description": "Οι πολλές κεφαλιές θεωρείται ότι έπαιξαν καθοριστικό ρόλο στην εγκεφαλική νόσο του πρώην διεθνούς Σκωτσέζου αμυντικού Γκόρντον ΜακΚουίν, σύμφωνα με το πόρισμα ιατροδικαστή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-651912128_1.jpg?itok=I5RDMXoq",
           "source": "Gazzetta"
         }
       ]
