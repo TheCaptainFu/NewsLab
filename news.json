@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T11:00:37.241Z",
+  "lastUpdated": "2026-01-26T11:05:26.304Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,30 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΕΛΣΤΑΤ: Αύξηση 1,9% σημείωσε το διαθέσιμο εισόδημα των νοικοκυριών",
+          "link": "https://www.newsit.gr/uncategorized/elstat-ayksisi-1-9-simeiose-to-diathesimo-eisodima-ton-noikokyrion/4583723/",
+          "pubDate": "Mon, 26 Jan 2026 11:04:06 +0000",
+          "description": "Αύξηση 1,9% κατέγραψε το διαθέσιμο εισόδημα των νοικοκυριών και των μη κερδοσκοπικών ιδρυμάτων που τα εξυπηρετούν το γ’ τρίμηνο του 2025, σε σύγκριση με το ...  \nTo άρθρο ΕΛΣΤΑΤ: Αύξηση 1,9% σημείωσε το διαθέσιμο εισόδημα των νοικοκυριών δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": null,
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΓΕΣ: Ο Στρατός Ξηράς εκπόνησε εγχειρίδιο επιχειρήσεων για τη χρήση και την αντιμετώπιση drones και UAV – Ποιο είναι το περιεχόμενό του",
+          "link": "https://www.newsit.gr/ellada/ges-o-stratos-ksiras-ekponise-egxeiridio-epixeiriseon-gia-ti-xrisi-kai-tin-antimetopisi-drones-kai-uav-poio-einai-to-periexomeno-tou/4583717/",
+          "pubDate": "Mon, 26 Jan 2026 11:01:48 +0000",
+          "description": "Το Γενικό Επιτελείο Στρατού ανακοίνωσε ότι για πρώτη φορά εκπόνησε και εξέδωσε Εγχειρίδιο Εκστρατείας, το οποίο αφορά την επιχειρησιακή χρήση των drones (UAV) και τις ...  \nTo άρθρο ΓΕΣ: Ο Στρατός Ξηράς εκπόνησε εγχειρίδιο επιχειρήσεων για τη χρήση και την αντιμετώπιση drones και UAV – Ποιο είναι το περιεχόμενό του δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/drones-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Βίντεο: Άνοιξαν οι ουρανοί στο Ηράκλειο Κρήτης, ποτάμια οι δρόμοι στο χωριό Αγία Βαρβάρα",
+          "link": "https://www.protothema.gr/greece/article/1763494/video-anoixan-oi-ouranoi-sto-irakleio-kritis-potamia-oi-dromoi-sto-horio-agia-varvara/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 13:00:51 +0200",
+          "description": "Προειδοποίηση για έντονες καταιγίδες κατά τόπους σήμερα 26/1 στην Κρήτη",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/kriti_arthrou.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Οι μεγαλύτερες εργατικές τραγωδίες στην Ελλάδα από την Πετρόλα και την Πυρκάλ μέχρι τη Λάρκο και τη Βιολάντα",
           "link": "https://www.newsit.gr/ellada/oi-megalyteres-ergatikes-tragodies-stin-ellada-apo-tin-petrola-kai-tin-pyrkal-mexri-ti-larko-kai-ti-violanta/4583695/",
@@ -185,6 +209,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Πτώσεις δέντρων στον παραλιακό δρόμο Βαρέας Μεγάρων – Έκκληση για αποφυγή μετακινήσεων",
+          "link": "https://www.in.gr/2026/01/26/politics/aftodioikisi/ptoseis-dentron-ston-paraliako-dromo-vareas-megaron-ekklisi-gia-apofygi-metakiniseon/",
+          "pubDate": "Mon, 26 Jan 2026 13:03:37 +0300",
+          "description": "Μέσω ανάρτησής του, ο αντιδήμαρχος Πολιτικής Προστασίας Δήμου Μεγαρέων Δημήτρης Βόρδος ενημερώνει για τα επικίνδυνα σημεία, την επέμβαση της Πυροσβεστικής και τις εναλλακτικές διαδρομές για τους οδηγούς.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/619256070_4367458010159220_2233578515581804541_n-768x1024.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Τραγωδία στο εργοστάσιο της «Βιολάντα»: Το επικίνδυνο αέριο που μετέτρεψε σε παγίδα θανάτου το υπόγειο της επιχείρησης",
           "link": "https://www.newsit.gr/ellada/tragodia-sto-ergostasio-tis-violanta-to-epikindyno-aerio-pou-metetrepse-se-pagida-thanatou-to-ypogeio-tis-epixeirisis/4583639/",
           "pubDate": "Mon, 26 Jan 2026 10:03:04 +0000",
@@ -209,44 +241,12 @@
           "source": "NewsIT"
         },
         {
-          "title": "Συνταγή για φίνο πουρέ σελινόριζας σαν κρέμα",
-          "link": "https://www.newsit.gr/tasteit/syntagi-gia-fino-poure-selinorizas-san-krema/4578189/",
-          "pubDate": "Mon, 26 Jan 2026 10:00:00 +0000",
-          "description": "Αν σας αρέσει η γεύση και το άρωμα του σέλινου, τότε αυτός ο πουρές θα γίνει ο αγαπημένος σας. Είναι από τους πιο φινετσάτους στη ...  \nTo άρθρο Συνταγή για φίνο πουρέ σελινόριζας σαν κρέμα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-2179830672-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κίνα προς ΗΠΑ: Η εμπορική συμφωνία με τον Καναδά δεν στρέφεται κατά τρίτων",
-          "link": "https://www.in.gr/2026/01/26/world/kina-pros-ipa-emporiki-symfonia-ton-kanada-den-strefetai-kata-triton/",
-          "pubDate": "Mon, 26 Jan 2026 12:58:16 +0300",
-          "description": "Καναδάς και οι ΗΠΑ βρίσκονται σε εμπορικό πόλεμο από τότε που η κυβέρνηση Τραμπ επέβαλε εισαγωγικούς δασμούς στον βόρειο γείτονά της. Η συμφωνία με Κίνα έριξε λάδι στη φωτιά.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kanada-kina-in.gr_-768x504.jpg",
+          "title": "Ο πολιτικός Ντελέζ",
+          "link": "https://www.in.gr/2026/01/26/language-books/o-politikos-ntelez/",
+          "pubDate": "Mon, 26 Jan 2026 13:00:30 +0300",
+          "description": "Μια νέα μετάφραση κειμένων του Ζιλ Ντελέζ υπογραμμίζει τον πάντα πολιτικό χαρακτήρα τους",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/gilles-deleuze-philosoph-100-1920x1080-768x432.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Τζόκερ: Σε Ηράκλειο Κρήτης και Φλώρινα τα δύο τυχερά δελτία που κερδίζουν από 7,5 εκατομμύρια ευρώ",
-          "link": "https://www.newsit.gr/ellada/tzoker-se-irakleio-kritis-kai-florina-ta-dyo-tyxera-deltia-pou-kerdizoun-apo-7-5-ekatommyria-eyro/4583641/",
-          "pubDate": "Mon, 26 Jan 2026 09:56:04 +0000",
-          "description": "Τζόκερ και η ζωή τους άλλαξε για πάντα. Μετά από αλλεπάλληλα τζακ ποτ, το βράδυ της Κυριακής (25-01-2026) βρέθηκαν δύο τυχερά δελτία στην πρώτη κατηγορία, ...  \nTo άρθρο Τζόκερ: Σε Ηράκλειο Κρήτης και Φλώρινα τα δύο τυχερά δελτία που κερδίζουν από 7,5 εκατομμύρια ευρώ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tzoker-eu-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τραγωδία στο εργοστάσιο Βιολάντα: Τα πιθανά αίτια της καταστροφής – Για ποιο λόγο ήταν λιγότεροι εργαζόμενοι στη βάρδια",
-          "link": "https://www.in.gr/2026/01/26/greece/tragodia-sto-ergostasio-violanta-ta-pithana-aitia-tis-katastrofis-gia-poio-logo-itan-ligoteroi-ergazomenoi-sti-vardia/",
-          "pubDate": "Mon, 26 Jan 2026 12:53:58 +0300",
-          "description": "Εντοπίστηκαν τέσσερις σοροί γυναικών μετά την έκρηξη στο εργοστάσιο της Βιολάντα στα Τρίκαλα, αγνοείται άλλη μία εργαζόμενη - Παγίδα θανάτου το υπόγειο της επιχείρησης",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FOTIA_ERGOSTASIO_TRIKALA_KID075-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Το ΓΕΣ εκδίδει για πρώτη φορά εγχειρίδιο για τη χρήση και την αντιμετώπιση drones\n",
-          "link": "https://www.protothema.gr/greece/article/1763452/to-ges-ekdidei-gia-proti-fora-egheiridio-gia-ti-hrisi-kai-tin-adimetopisi-drones/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 11:52:00 +0200",
-          "description": "Νέο εγχειρίδιο του Στρατού για τα UAV - Πώς χρησιμοποιούνται και πώς αντιμετωπίζονται τα drones στο πεδίο μάχης",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/drones12__2_.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
