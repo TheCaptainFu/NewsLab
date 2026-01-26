@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T20:58:28.797Z",
+  "lastUpdated": "2026-01-26T21:00:41.616Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ: Συναγερμός στη γαλλική αστυνομία για το ματς με τη Λυών",
+          "link": "https://www.gazzetta.gr/football/superleague/2510431/paok-synagermos-sti-galliki-astynomia-gia-mats-me-ti-lyon",
+          "pubDate": "Mon, 26 Jan 2026 22:59:14 +0200",
+          "description": "Τα γαλλικά ΜΜΕ αναφέρουν ότι ο αγώνας Λυών - ΠΑΟΚ έχει χαρακτηριστεί υψηλού κινδύνου και περιμένουν ακόμα και Πολωνούς οπαδούς.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lyon_-_paok.jpg?itok=B1dOD8B_",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Παπαδάκης: «Συγχαρητήρια στην Εθνική πόλο που κατέκτησε το χάλκινο μετάλλιο»",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510429/papadakis-sygharitiria-stin-ethniki-polo-poy-katektise-halkino",
           "pubDate": "Mon, 26 Jan 2026 22:50:00 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 20:25:09 +0200",
           "description": "Οι Αστυνομικές Αρχές συνέλαβαν έναν ανήλικο, ο οποίος πέταξε μεταλλικό κιγκλίδωμα κατά τη διάρκεια αγώνα μπάσκετ και κινήθηκε απειλητικά προς τον πάγκο της φιλοξενούμενης ομάδας!",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/ball_eskana.jpg?itok=5KIZA1Xk",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: «Ο Ούλισες Γκαρσία στη λίστα του»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510395/panathinaikos-o-oylises-gkarsia-sti-lista-toy",
-          "pubDate": "Mon, 26 Jan 2026 20:16:36 +0200",
-          "description": "Ο Παναθηναϊκός φέρεται να έχει ασχοληθεί με την περίπτωση του αριστερού μπακ της Μαρσέιγ Ούλισες Γκαρσία.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ulisses_garcia.jpg?itok=tandkdme",
           "source": "Gazzetta"
         }
       ]
