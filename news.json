@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T03:55:28.651Z",
+  "lastUpdated": "2026-01-26T04:00:35.150Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Forza Horizon 6: Μας ταξιδεύει στην Ιαπωνία στις 19 Μαΐου",
+          "link": "https://www.techgear.gr/forza-horizon-6-mas-taxideyei-stin-iaponia-stis-19-maioy-47311",
+          "pubDate": "Mon, 26 Jan 2026 05:59:00 +0200",
+          "description": "Η Playground Games βάζει τέλος στην αναμονή και επιβεβαιώνει αυτό που η κοινότητα των racing games συζητούσε εδώ και χρόνια. Το Forza Horizon 6 είναι ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/forza-horizon-6.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Αναζήτηση με... προσωπικότητα: Η μεγάλη αλλαγή στο Google Search",
           "link": "https://www.techgear.gr/anazitisi-me-prosopikotita-i-megali-allagi-sto-google-search-47310",
           "pubDate": "Sun, 25 Jan 2026 22:00:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sat, 24 Jan 2026 20:40:36 +0000",
           "description": "Η έκδοση 1.2026.15.3 φέρνει αυτόματη εναλλαγή μεταξύ ChatGPT και Google Search, ενώ η εταιρεία επιβεβαιώνει ότι εργάζεται εντατικά για την έκδοση των Windows.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/c/chatgpt-at/chatgpt-atlas-gets-new-tab-upgrades-still-no-windows-or-mobi_sptm.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "YouTube: Φτιάξε τον AI κλώνο σου για τα Shorts και πες αντίο στο «AI Slop»",
-          "link": "https://gr.pcmag.com/old-video-streaming-services/51095/youtube-phtiaxe-ton-ai-klono-sou-gia-ta-shorts-kai-pes-antio-sto-ai-slop",
-          "pubDate": "Fri, 23 Jan 2026 15:19:52 +0000",
-          "description": "Ο CEO Neal Mohan αποκαλύπτει τα νέα εργαλεία δημιουργίας AI avatars, και τη στρατηγική κατά του χαμηλής ποιότητας περιεχομένου.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/y/youtube-ac/youtube-acknowledges-slop-problem-but-its-still-full-steam-a_tb1a.jpg",
           "source": "PC Magazine"
         }
       ]
