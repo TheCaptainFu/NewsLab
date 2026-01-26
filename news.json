@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T10:05:25.879Z",
+  "lastUpdated": "2026-01-26T10:10:31.443Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,11 +9,19 @@
       "color": "red",
       "articles": [
         {
-          "title": "Ισχυρές καταιγίδες στην Αττική, λίμνη και πάλι η Βουλιαγμένης: Live χάρτης με το πέρασμα της κακοκαιρίας που έχει σημάνει πορτοκαλί συναγερμό",
-          "link": "https://www.protothema.gr/greece/article/1763379/ishures-kataigides-stin-attiki-sto-epikedro-ta-notia-proastia-live-hartis-me-to-perasma-tis-kakokairias/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 12:03:16 +0200",
-          "description": "Επικαιροποιήθηκε το έκτακτο δελτίου καιρού από την ΕΜΥ - Διεκόπη η κυκλοφορία στην Παλαιά Εθνική Οδό Αθηνών - Κορίνθου στο ύψος του 48ου χλμ. στο ρεύμα κυκλοφορίας προς Αθήνα (Μέγαρα), λόγω κατολίσθησης",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/vouliagmenis_maketa.jpg",
+          "title": "Η ιστορία της Βιολάντα: Ο συνοικιακός φούρνος που τα μπισκότα της έφθασαν στην άκρη του κόσμου και η σημερινή τραγωδία στα Τρίκαλα",
+          "link": "https://www.protothema.gr/greece/article/1763450/violada-o-sunoikiakos-fournos-sta-trikala-pou-exelihthike-se-diethni-viomihania-pos-ta-biskota-efthasan-akri-kosmou/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:09:41 +0200",
+          "description": "Τρεις παραγωγικές μονάδες σε Τρίκαλα και Λάρισα, περίπου 250 εργαζόμενοι και κύκλος εργασιών 37,8 εκατ. ευρώ το 2024 – Από έναν συνοικιακό φούρνο στη βιομηχανία που δημιούργησε ο Κωνσταντίνος Τζιωρτζιώτης",
+          "thumbnail": "https://i1.prth.gr/images/w640/1/jpg/files/2026-01-26/company1.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Θεσσαλονίκη: Τραυματίστηκαν τέσσερις εργάτες σε έργο σύνδεσης νέου αγωγού της ΕΥΑΘ",
+          "link": "https://www.protothema.gr/greece/article/1763462/thessaloniki-traumatistikan-tesseris-ergates-se-ergo-sundesis-neou-agogou-tis-euath/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:09:30 +0200",
+          "description": "Τρεις από τους τέσσερις τραυματίες πήραν εξιτήριο, ενώ ο τέταρτος υπέστη κάταγμα στο πόδι και αναμένεται υποβληθεί σε χειρουργική επέμβαση",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/erga-eyath.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -25,11 +33,19 @@
           "source": "NewsIT"
         },
         {
-          "title": "Τραγωδία στο εργοστάσιο «Βιολάντα»: Από το χαρά στο πένθος – Θα ήταν 30 άτομα στη βάρδια αν δεν ήταν η κοπή της πίτας τη βραδιά της έκρηξης",
-          "link": "https://www.newsit.gr/ellada/tragodia-sto-ergostasio-violanta-apo-to-xara-sto-penthos-tha-itan-30-atoma-sti-vardia-an-den-itan-i-kopi-tis-pitas-ti-vradia-tis-ekriksis/4583643/",
+          "title": "Ισχυρές καταιγίδες στην Αττική, λίμνη και πάλι η Βουλιαγμένης: Live χάρτης με το πέρασμα της κακοκαιρίας που έχει σημάνει πορτοκαλί συναγερμό",
+          "link": "https://www.protothema.gr/greece/article/1763379/ishures-kataigides-stin-attiki-sto-epikedro-ta-notia-proastia-live-hartis-me-to-perasma-tis-kakokairias/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:03:00 +0200",
+          "description": "Επικαιροποιήθηκε το έκτακτο δελτίου καιρού από την ΕΜΥ - Αποκαταστάθηκε η κυκλοφορία στην Παλαιά Εθνική Οδό Αθηνών - Κορίνθου στο ύψος του 48ου χλμ. στο ρεύμα κυκλοφορίας προς Αθήνα (Μέγαρα), λόγω κατολίσθησης",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/vouliagmenis_maketa.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Τραγωδία στο εργοστάσιο «Βιολάντα»: Από τη χαρά στο πένθος – Θα ήταν 30 άτομα στη βάρδια αν δεν ήταν η κοπή της πίτας",
+          "link": "https://www.newsit.gr/ellada/tragodia-sto-ergostasio-violanta-apo-ti-xara-sto-penthos-tha-itan-30-atoma-sti-vardia-an-den-itan-i-kopi-tis-pitas/4583643/",
           "pubDate": "Mon, 26 Jan 2026 10:02:29 +0000",
-          "description": "Ήταν περίπου 4 η ώρα τα ξημερώματα της Δευτέρας 26.01.2026, όταν μία έκρηξη σκόρπισε τον θάνατο και την καταστροφή στο εργοστάσιο «Βιολάντα» στα Τρίκαλα. Λίγες ...  \nTo άρθρο Τραγωδία στο εργοστάσιο «Βιολάντα»: Από το χαρά στο πένθος – Θα ήταν 30 άτομα στη βάρδια αν δεν ήταν η κοπή της πίτας τη βραδιά της έκρηξης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta43-1200x664.jpg",
+          "description": "Ήταν περίπου 4 η ώρα τα ξημερώματα της Δευτέρας 26.01.2026, όταν μία έκρηξη σκόρπισε τον θάνατο και την καταστροφή στο εργοστάσιο «Βιολάντα» στα Τρίκαλα. Λίγες ...  \nTo άρθρο Τραγωδία στο εργοστάσιο «Βιολάντα»: Από τη χαρά στο πένθος – Θα ήταν 30 άτομα στη βάρδια αν δεν ήταν η κοπή της πίτας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta10.jpg",
           "source": "NewsIT"
         },
         {
@@ -161,6 +177,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Αυτός είναι ο διαιτητής που όρισε η UEFA στο Άγιαξ – Ολυμπιακός",
+          "link": "https://www.in.gr/2026/01/26/sports/football/champions-league/aytos-einai-o-diaititis-pou-orise-uefa-sto-agiaks-olympiakos/",
+          "pubDate": "Mon, 26 Jan 2026 12:06:48 +0300",
+          "description": "Η UEFA ανακοίνωσε τους διαιτητές για τα ματς 8ης αγωνιστικής της League Phase του Champions League, με τον Γάλλο Φρανσουά Λετεσιέ να ορίζεται στο Άγιαξ – Ολυμπιακός.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5856835838356-768x510.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "«Έχω παιδιά»: Πρεμιέρα με διπλό επεισόδιο στο MEGA",
           "link": "https://www.in.gr/2026/01/26/plus/medianews/exo-paidia-premiera-diplo-epeisodio-sto-mega/",
           "pubDate": "Mon, 26 Jan 2026 12:04:13 +0300",
@@ -223,30 +247,6 @@
           "description": "Από τις παραδοσιακές τράπεζες στις fintech εφαρμογές και τα crypto exchanges, ο παγκόσμιος αθλητισμός μετατρέπεται σε σκηνή σκληρού ανταγωνισμού για τον πελάτη του μέλλοντος",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kryptonomismata-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Έργα συνολικού προϋπολογισμού 7,3 εκατ. Ευρώ, στο δήμο Σπάτων-Αρτέμιδος",
-          "link": "https://www.in.gr/2026/01/26/politics/aftodioikisi/erga-synolikou-proypologismou-73-ekat-eyro-sto-dimos-spaton-artemidos/",
-          "pubDate": "Mon, 26 Jan 2026 11:50:19 +0300",
-          "description": "Επίσκεψη του Περιφερειάρχη Αττικής στον Δήμο Σπάτων - Αρτέμιδος και συνάντηση εργασίας με τον Δήμαρχο Δημήτρη Μάρκου.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/IMG_0565-768x512.jpeg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Παύλος Μαρινάκης για τη δολοφονία στη Γλυφάδα: Ολέθρια τα αποτελέσματα του νόμου Παρασκευόπουλου με τις μαζικές αποφυλακίσεις",
-          "link": "https://www.newsit.gr/politikh/paylos-marinakis-gia-ti-dolofonia-sti-glyfada-olethria-ta-apotelesmata-tou-nomou-paraskeyopoulou-me-tis-mazikes-apofylakiseis/4583538/",
-          "pubDate": "Mon, 26 Jan 2026 08:49:14 +0000",
-          "description": "Για «ακατανόητες αποφυλακίσεις» με τον νόμο Παρασκευόπουλου επί κυβέρνησης ΣΥΡΙΖΑ – ΑΝΕΛ έκανε λόγο ο κυβερνητικός εκπρόσωπος, Παύλος Μαρινάκης, για την άγρια δολοφονία του 80χρονου ...  \nTo άρθρο Παύλος Μαρινάκης για τη δολοφονία στη Γλυφάδα: Ολέθρια τα αποτελέσματα του νόμου Παρασκευόπουλου με τις μαζικές αποφυλακίσεις δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlosmarinakis-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Καιρός: Βροχές, καταιγίδες και χαλάζι – Στο επίκεντρο η Αττική, που αλλού θα «χτυπήσει» η κακοκαιρία",
-          "link": "https://www.newsit.gr/ellada/kairos-vroxes-kataigides-kai-xalazi-sto-epikentro-i-attiki-pou-allou-tha-xtypisei-i-kakokairia/4583542/",
-          "pubDate": "Mon, 26 Jan 2026 08:45:12 +0000",
-          "description": "Έντονα φαινόμενα θα σημειωθούν σε πολλές περιοχές της χώρας μας σήμερα (26/1/2026), σύμφωνα με την ΕΜΥ, εξαιτίας της νέας κακοκαιρίας που έχει ξεκινήσει ήδη να ...  \nTo άρθρο Καιρός: Βροχές, καταιγίδες και χαλάζι – Στο επίκεντρο η Αττική, που αλλού θα «χτυπήσει» η κακοκαιρία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kakokairia-vroxi-eurok-1-1200x798.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Πού βρίσκεται ο χρυσός της Λατινικής Αμερικής; Ξετυλίγοντας το κουβάτι του μύθου και της αλήθειας",
+          "link": "http://gr.euronews.com/business/2026/01/26/pou-vrisketai-o-xrisos-tis-latinikis-amerikis",
+          "pubDate": "Mon, 26 Jan 2026 11:02:48 +0100",
+          "description": "Από τον μύθο του Ελ Ντοράντο μέχρι τις σημερινές συζητήσεις για τη λεηλασία, ο χρυσός σημάδεψε την ιστορία του ισπανικού αποικισμού της Λατινικής Αμερικής. Ωστόσο, ένας ειδικός προειδοποιεί ότι τα κλειδιά της ιστορικής υπανάπτυξης της ηπείρου βρίσκονται πέρα από το πολύτιμο μέταλλο.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Trump says administration 'reviewing everything' after fatal shooting of Minneapolis nurse",
           "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 09:46:21 GMT",
@@ -731,14 +739,6 @@
           "description": "Almost half of US states have declared emergencies as officials warn of \"life threatening conditions\" that could affect 180 million people.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a3/live/0d2856f0-fa5f-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting",
-          "link": "https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 03:50:14 GMT",
-          "description": "Two people have been shot dead by federal agents in the city in recent weeks, leaving many angry and frustrated.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85b/live/b2a4ecc0-fa86-11f0-b385-5f48925de19a.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ο όρος «κλειδί» στο συμβόλαιο της Άννας Λιβαθυνού με τον ΑΝΤ1",
+          "link": "https://www.gazzetta.gr/plus/2510273/o-oros-kleidi-sto-symbolaio-tis-annas-libathynoy-me-ton-ant1",
+          "pubDate": "Mon, 26 Jan 2026 12:09:43 +0200",
+          "description": "Το κανάλι του Αμαρουσίου, ο ΑΝΤ1 έχει υπογράψει έναν όρο με την Άννα Λιβαθυνού, η οποία απομακρύνθηκε από το Καλημέρα Ελλάδα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/anna-livathinou_1.jpg?itok=MJ8lB9ty",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Το μήνυμα του Τζόσεφ στον κόσμο του Ολυμπιακού: «Ξέρω ότι η ατμόσφαιρα θα είναι τρελή στο γήπεδο»",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510272/minyma-toy-tzosef-ston-kosmo-toy-olympiakoy-xero-oti-i-atmosfaira-tha",
+          "pubDate": "Mon, 26 Jan 2026 12:04:50 +0200",
+          "description": "Ο Κόρι Τζόσεφ έστειλε το μήνυμα του στον κόσμο του Ολυμπιακού μόλις έφτασε στην Ελλάδα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/joseph_45.jpg?itok=HeLL6P8v",
+          "source": "Gazzetta"
+        },
         {
           "title": "Basketaki Salonica: Ανασκόπηση εβδομάδας",
           "link": "https://www.gazzetta.gr/basketball/basketaki-erasitehniko-protathlima-mpasket/2510271/basketaki-salonica-anaskopisi",
@@ -968,22 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 10:00:00 +0200",
           "description": "Δάκρυα, απογοήτευση, ευκαιρίες, το όνειρο της Serie A, η αδικία και η ποδοσφαιρική δικαίωση στον δρόμο για τον «μαγικό» κόσμο της Premier League. Κυρίες και κύριοι, ο Χρήστος Μανδάς.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mandas2_article.jpg?itok=40OalKIU",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Έφθασε στην Ελλάδα ο Κόρι Τζόζεφ",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-efthase-stin-ellada-o-kori-tzozef/4583520/",
-          "pubDate": "Mon, 26 Jan 2026 07:57:25 +0000",
-          "description": "Ο Κόρι Τζόσεφ αποτελεί το νέο μετεγγραφικό απόκτημα της ΚΑΕ Ολυμπιακός και το πρωί της Δευτέρας (26/01/26) έφθασε στην Ελλάδα για να παρουσιαστεί κι επίσημα ...  \nTo άρθρο Ολυμπιακός: Έφθασε στην Ελλάδα ο Κόρι Τζόζεφ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/joseph1-1200x798.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η «αντεπίθεση» της αμερικανικής καστανιάς: Η φύση δίνει μαθήματα επιβίωσης",
-          "link": "https://www.gazzetta.gr/plus/2510247/i-antepithesi-tis-amerikanikis-kastanias-i-fysi-dinei-mathimata-epibiosis",
-          "pubDate": "Mon, 26 Jan 2026 09:55:03 +0200",
-          "description": "Χιλιάδες άγρια δέντρα στο Μέιν διαψεύδουν τις προβλέψεις δεκαετιών και επαναφέρουν την ελπίδα για τη φυσική αποκατάσταση των δασών.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/2f8a55b5-kastania-u.jpg?itok=vitgLXrR",
           "source": "Gazzetta"
         }
       ]
