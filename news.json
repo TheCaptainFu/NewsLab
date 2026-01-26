@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T14:30:36.891Z",
+  "lastUpdated": "2026-01-26T14:35:30.385Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,38 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Παυλόπουλος : Μνήμες και διδάγματα από το Ολοκαύτωμα των Ελλήνων Εβραίων",
+          "link": "https://www.protothema.gr/greece/article/1763614/paulopoulos/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 16:34:56 +0200",
+          "description": "Η ομιλία πραγματοποιήθηκε στην Θεσσαλονίκη με πρωτοβουλία της Ισραηλιτικής Κοινότητας - Ομιλία και στην Αίγινα  για τον Ιωάννη Καποδίστρια",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/2025-01-24_%CE%B1%CE%B9%CE%B3%CE%B9%CE%BD%CE%B1_%CE%BA%CE%B1%CF%80%CE%BF%CE%B4%CE%B9%CF%83%CF%84%CF%81%CE%B9%CE%B1%CF%83.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Έκρηξη σε διαμέρισμα στους Αγίους Αναργύρους: Ξηλώθηκαν πόρτες και παράθυρα",
+          "link": "https://www.newsit.gr/ellada/ekriksi-se-diamerisma-stous-agious-anargyrous-ksilothikan-portes-kai-parathyra/4583973/",
+          "pubDate": "Mon, 26 Jan 2026 14:33:03 +0000",
+          "description": "Έκρηξη σημειώθηκε το μεσημέρι της Δευτέρας 26 Ιανουαρίου σε διαμέρισμα πολυκατοικίας που βρίσκεται επί της οδού Ηπείρου στους Αγίους Αναργύρους. Σύμφωνα με την ΕΛΑΣ η ...  \nTo άρθρο Έκρηξη σε διαμέρισμα στους Αγίους Αναργύρους: Ξηλώθηκαν πόρτες και παράθυρα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-eurok.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τρίκαλα: Η στιγμή της φονικής έκρηξης στο εργοστάσιο «Βιολάντα» που έκανε τη νύχτα μέρα",
+          "link": "https://www.newsit.gr/ellada/trikala-i-stigmi-tis-fonikis-ekriksis-sto-ergostasio-violanta-pou-ekane-ti-nyxta-mera/4583952/",
+          "pubDate": "Mon, 26 Jan 2026 14:31:35 +0000",
+          "description": "Την ώρα που τα Τρίκαλα και ολόκληρη η χώρα θρηνούν για την τραγωδία στο εργοστάσιο μπισκότων «Βιολάντα», έρχονται στο φως οι εικόνες που φανερώνουν τη ...  \nTo άρθρο Τρίκαλα: Η στιγμή της φονικής έκρηξης στο εργοστάσιο «Βιολάντα» που έκανε τη νύχτα μέρα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekrixi-2-1200x780.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Παναθηναϊκός: «Ο Καλάμπρια θα μπορούσε να επιστρέψει άμεσα στη Serie A» έγραψαν στην Ιταλία",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-o-kalampria-tha-mporouse-na-epistrepsei-amesa-sti-serie-a-egrapsan-stin-italia/4583971/",
+          "pubDate": "Mon, 26 Jan 2026 14:31:28 +0000",
+          "description": "Ο Νταβίντε Καλάμπρια βρίσκεται στον Παναθηναϊκό από το περασμένο καλοκαίρι, αλλά σύμφωνα με δημοσιεύματα από την Ιταλία, το μέλλον του παίκτη του Παναθηναϊκού δεν αποκλείεται ...  \nTo άρθρο Παναθηναϊκός: «Ο Καλάμπρια θα μπορούσε να επιστρέψει άμεσα στη Serie A» έγραψαν στην Ιταλία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kalampria-eurokinissi.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ιωάννα Τούνη για revenge porn: Δεν έχει σημασία αν έχεις πάει με έναν ή με 101, αρκεί να μην τύχει να πας με μ@λ@@κ@",
           "link": "https://www.newsit.gr/ellada/ioanna-touni-gia-revenge-porn-den-exei-simasia-an-exeis-paei-me-enan-i-me-101-arkei-na-min-tyxei-na-pas-me-m-l-k/4583940/",
@@ -214,38 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 13:27:37 +0000",
           "description": "Ένα από τα «διαμάντια» της ελληνικής αμυντικής βιομηχανίας, το σύστημα αντιμετώπισης εχθρικών drones τύπου «Κένταυρος» έχει αποδείξει την αξία του στο πεδίο και πλέον οι ...  \nTo άρθρο Ένοπλες Δυνάμεις: Το ελληνικό αντι-drone σύστημα «Κένταυρος» αναπτύσσεται σε πλοία, βάσεις και εξοπλισμούς δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kentayros-onalert-2-1200x804.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άφαντος ο τυχερός που κέρδισε 7,5 εκατ. ευρώ στο Τζόκερ – Τι λέει ο πράκτορας που παρέλαβε το χρυσό δελτίο",
-          "link": "https://www.in.gr/2026/01/26/greece/afantos-o-tyxeros-pou-kerdise-75-ekat-eyro-sto-tzoker-ti-leei-o-praktoras-pou-parelave-xryso-deltio/",
-          "pubDate": "Mon, 26 Jan 2026 16:24:04 +0300",
-          "description": "Ο άγνωστος παίκτης του Τζόκερ κέρδισε ένα από τα μεγαλύτερα ποσά που έχουν κληρωθεί ποτέ στην Κρήτη",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EV_TZOKER_SD_2611711-768x516.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Έγκριση Περιφερειακών Προγραμμάτων Ανάπτυξης Κεντρικής Μακεδονίας, Πελοποννήσου και Βορείου Αιγαίου",
-          "link": "https://www.in.gr/2026/01/26/politics/aftodioikisi/egkrisi-perifereiakon-programmaton-anaptyksis-kentrikis-makedonias-peloponnisou-kai-voreiou-aigaiou/",
-          "pubDate": "Mon, 26 Jan 2026 16:23:11 +0300",
-          "description": "Με αποφάσεις του Αν. Υπουργού Εθνικής Οικονομίας και Οικονομικών Νίκου Παπαθανάση, εγκρίθηκαν τα Περιφερειακά Προγράμματα Ανάπτυξης (Π.Π.Α) Κεντρικής Μακεδονίας, Πελοποννήσου και Βορείου Αιγαίου.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ImgSrc-2024-12-02T152703.797-1-1.jpeg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ο Ολυμπιακός έχει 19 δηλωμένους παίκτες στη Euroleague με τη μεταγραφή του Τζόσεφ – Ποιο είναι το όριο στη διοργάνωση",
-          "link": "https://www.in.gr/2026/01/26/sports/basketball/euroleague/sto-orio-dilomenon-paikton-sti-euroleague-o-olympiakos-posous-exei-me-tin-prosthiki-tou-tzosef/",
-          "pubDate": "Mon, 26 Jan 2026 16:21:10 +0300",
-          "description": "Ο Ολυμπιακός μετά την απόκτηση του Κόρι Τζόσεφ έχει 19 δηλωμένους παίκτες στη Euroleague. Πόσοι είναι το όριο στην κορυφαία ευρωπαϊκή διοργάνωση.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/3467483654863-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Εμπορικός Σύλλογος Αθηνών: Άμεσες παρεμβάσεις για το εμπόριο – Στο επίκεντρο η στήριξη των ΜμΕ",
-          "link": "https://www.newsit.gr/oikonomia/finance/emporikos-syllogos-athinon-ameses-paremvaseis-gia-to-emporio-sto-epikentro-i-stiriksi-ton-mme/4583859/",
-          "pubDate": "Mon, 26 Jan 2026 13:21:05 +0000",
-          "description": "Το ελληνικό εμπόριο χρειάζεται άμεσα μέτρα ώστε να μπορέσει να σταδιοδρομήσει στον επιχειρηματικό τομέα, και να ανταπεξέλθει στις πιέσεις της εποχής, ήταν το μήνυμα του ...  \nTo άρθρο Εμπορικός Σύλλογος Αθηνών: Άμεσες παρεμβάσεις για το εμπόριο – Στο επίκεντρο η στήριξη των ΜμΕ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-2189337416-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "Stoiximan GBL: Μπορεί ο Άρης να μπει «σφήνα» στους δύο «δικεφάλους»;",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510342/stoiximan-gbl-mporei-o-aris-na-mpei-sfina-stoys-dyo-dikefaloys",
+          "pubDate": "Mon, 26 Jan 2026 16:32:15 +0200",
+          "description": "Ο Αντώνης Καλκαβούρας επιχειρεί τον απολογισμό διημέρου στο πρωτάθλημα και βγάζει κερδισμένους το Περιστέρι, την Μύκονο και τον «αυτοκράτορα», την ίδια ώρα που η μάχη για την αποφυγή του υποβιβασμού έχει πάρει «άγρια ομορφιά».",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6824240_1.jpg?itok=JExGRr8J",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: «Ο Καλάμπρια θα μπορούσε να επιστρέψει άμεσα στη Serie A» έγραψαν στην Ιταλία",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-o-kalampria-tha-mporouse-na-epistrepsei-amesa-sti-serie-a-egrapsan-stin-italia/4583971/",
+          "pubDate": "Mon, 26 Jan 2026 14:31:28 +0000",
+          "description": "Ο Νταβίντε Καλάμπρια βρίσκεται στον Παναθηναϊκό από το περασμένο καλοκαίρι, αλλά σύμφωνα με δημοσιεύματα από την Ιταλία, το μέλλον του παίκτη του Παναθηναϊκού δεν αποκλείεται ...  \nTo άρθρο Παναθηναϊκός: «Ο Καλάμπρια θα μπορούσε να επιστρέψει άμεσα στη Serie A» έγραψαν στην Ιταλία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kalampria-eurokinissi.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "300 χρόνια ιστορίας: Ενα θρυλικό εστιατόριο παραμένει ανοιχτό – Τι σημαίνει για την τοπική οικονομία",
+          "link": "https://www.gazzetta.gr/plus/2510346/300-hronia-istorias-ena-thryliko-estiatorio-paramenei-anoihto-ti-simainei-gia-tin",
+          "pubDate": "Mon, 26 Jan 2026 16:31:12 +0200",
+          "description": "Το Sobrino de Botín στη Μαδρίτη συμπλήρωσε 300 χρόνια αδιάλειπτης λειτουργίας, αποδεικνύοντας πως η αυθεντική κουζίνα, η ιστορία και η συνέπεια μπορούν να αντέξουν στον χρόνο",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/estiatorio.jpg?itok=A5HI5YlZ",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λεβαδειακός: Το τρομερό στατιστικό που δείχνει την μαχητικότητά του",
+          "link": "https://www.gazzetta.gr/football/superleague/2510298/lebadeiakos-tromero-statistiko-poy-deihnei-tin-mahitikotita-toy",
+          "pubDate": "Mon, 26 Jan 2026 16:30:00 +0200",
+          "description": "Τα στατιστικά που αποδεικνύουν την μαχητικότητα του φετινού Λεβαδειακού που επικαλέστηκε ο Νίκος Παπαδόπουλος.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kostis_eurokinisi.jpg?itok=PvL55XQ-",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Γκάλης για Εθνική πόλο: «Περήφανοι για εσάς»",
           "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510347/gkalis-gia-ethniki-polo-perifanoi-gia-esas",
           "pubDate": "Mon, 26 Jan 2026 16:28:55 +0200",
@@ -953,38 +985,6 @@
           "description": "Ο Δημήτρης Μύτικας αναλύει το χάλκινο μετάλλιο της Εθνικής πόλο ανδρών, μιας ομάδας που δείχνει τι αξίζει όταν το βάρος της στιγμής δεν θολώνει το μυαλό της.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ethniki_omada_polo_europaiko.jpg?itok=267pOmar",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Volkswagen: Τα Taigo και T-Cross είναι η compact απάντηση της καθημερινότητας",
-          "link": "https://www.gazzetta.gr/gmotion/2509710/volkswagen-ta-taigo-kai-t-cross-einai-i-compact-apantisi-tis-kathimerinotitas",
-          "pubDate": "Mon, 26 Jan 2026 15:00:00 +0200",
-          "description": "Τα δύο δημοφιλή μοντέλα της γερμανικής μάρκας συνθέτουν τη σύγχρονη πρόταση της μάρκας στα compact SUV, με έμφαση στη χρηστικότητα, την τεχνολογία και την αποδοτικότητα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vw.jpg?itok=MO7Yln-C",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Η Κίνα έχτισε σιδηροδρομικό σταθμό σε 9 ώρες με 1.500 εργάτες και στρατιωτικό συντονισμό",
-          "link": "https://www.gazzetta.gr/plus/2510293/i-kina-ehtise-sidirodromiko-stathmo-se-9-ores-me-1500-ergates-kai-stratiotiko",
-          "pubDate": "Mon, 26 Jan 2026 14:59:10 +0200",
-          "description": "Η Κίνα ολοκλήρωσε την ανακαίνιση και σύνδεση σιδηροδρομικού σταθμού σε μόλις 9 ώρες, κινητοποιώντας 1.500 εργάτες, 23 εκσκαφείς και απόλυτο επιχειρησιακό συντονισμό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kina_0.jpg?itok=Lz5i5KwL",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: Χωρίς Γιόβιτς και Ρέλβα με Πανσερραϊκό, εκτίουν με Λεβαδειακό οι Ρότα και Κοϊτά",
-          "link": "https://www.newsit.gr/athlitika/aek-xoris-giovits-kai-relva-me-panserraiko-ektioun-me-levadeiako-oi-rota-kai-koita/4583854/",
-          "pubDate": "Mon, 26 Jan 2026 12:59:06 +0000",
-          "description": "Η ΑΕΚ πήρε τη νίκη με 1-0 στην έδρα του Αστέρα Τρίπολης για τη 18η αγωνιστική της Super League, αλλά έχασε με κάρτες τους Ρέλβας, ...  \nTo άρθρο ΑΕΚ: Χωρίς Γιόβιτς και Ρέλβα με Πανσερραϊκό, εκτίουν με Λεβαδειακό οι Ρότα και Κοϊτά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-rota-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μίκα Μούρινεν: Ο λόγος που δεν παίζει στην Αδριατική Λίγκα",
-          "link": "https://www.gazzetta.gr/basketball/aba-liga/2510314/mika-moyrinen-o-logos-poy-den-paizei-stin-adriatiki-ligka",
-          "pubDate": "Mon, 26 Jan 2026 14:54:53 +0200",
-          "description": "Ο Μίκα Μούρινεν δεν έχει αγωνιστεί στην ABA Liga από τις 3 Ιανουαρίου, και ο προπονητής της Παρτιζάν, Ζοάν Πενιάρογια, εξήγησε τον λόγο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/muurinen_abaliga.jpg?itok=om5rBa3W",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Νόριτς – Κόβεντρι με «boost» σε γκολ και πρωτοπόρο",
+          "link": "https://panathinaikos24.gr/2026/01/26/617820/norits-koventri-me-boost-se-gkol-kai-protoporo/",
+          "pubDate": "Mon, 26 Jan 2026 14:32:34 +0000",
+          "description": "Το ντέρμπι με στοιχηματικό «boost».",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/1100x650-Norwich.png?fit=2200%2C1300&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Βήματα προς τα πίσω…",
           "link": "https://panathinaikos24.gr/2026/01/26/617814/vimata-pros-ta-piso/",
@@ -1215,14 +1223,6 @@
           "description": "Η συγκομιδή μακριά από τη Λεωφόρο φέρνει ιστορικές συγκρίσεις και μετατρέπει τις επόμενες εξόδους σε κομβικό τεστ αξιοπιστίας. Η φετινή εκτός έδρας συγκομιδή φέρνει τον Παναθηναϊκό αντιμέτωπο με ένα ανεπιθύμητο ορόσημο, καθώς τα αριθμητικά δεδομένα παραπέμπουν σε σεζόν που έχουν χαραχθεί αρνητικά στη συλλογική μνήμη. Αν το «Τριφύλλι» δεν βρει άμεσα νίκη μακριά από την […]\nThe post Κινδυνεύει με «τρελό» αρνητικό ρεκόρ ο Παναθηναϊκός! – Εκτός έδρας νίκη με το… κυάλι appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/jedvaj-apogoitefsi.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Μπενίτεθ: «Θέλαμε να προφυλάξουμε παίκτες, αδύνατον να στηρίζεσαι σε λίγους με τρεις διοργανώσεις»",
-          "link": "https://panathinaikos24.gr/2026/01/25/617725/mpeniteth-thelame-na-profylaksoume-paiktes-adynaton-na-stirizesai-se-ligous-me-treis-diorganoseis/",
-          "pubDate": "Sun, 25 Jan 2026 20:33:41 +0000",
-          "description": "Αναλυτικά όσα δήλωσε ο Ισπανός κόουτς στην συνέντευξη Τύπου μετά το 0-0 του Παναθηναϊκού με τον Ατρόμητο.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5005113.jpg?fit=1760%2C1168&amp;ssl=1",
-          "source": "Panathinaikos24"
         },
         {
           "title": "Παναθηναϊκός: Η κριτική κι ο βαθμός του Μπενίτεθ με Ατρόμητο",
