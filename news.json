@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T19:45:28.162Z",
+  "lastUpdated": "2026-01-26T19:50:31.171Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πάνω από 800 παραβάσεις για μη χρήση κράνους την τελευταία εβδομάδα",
+          "link": "https://www.protothema.gr/greece/article/1763812/pano-apo-800-paravaseis-gia-mi-hrisi-kranous-tin-teleutaia-evdomada/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 21:49:31 +0200",
+          "description": "Το κράνος δεν είναι απλώς αξεσουάρ, είναι ευθύνη που σώζει ζωές, αναφέρει η ανακοίνωση της αστυνομίας",
+          "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-21/troxaia12.png",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Πτώση πεύκου στο Γηροκομείο Ιωαννίνων λόγω των συνεχόμενων βροχοπτώσεων, βίντεο",
+          "link": "https://www.protothema.gr/greece/article/1763814/ptosi-peukou-sto-girokomeio-ioanninon-logo-ton-sunehomenon-vrohoptoseon-video/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 21:46:00 +0200",
+          "description": "Το δέντρο ξεριζώθηκε σε πάρκο δίπλα από το Γηροκομείο, ενώ αντίστοιχη περίπτωση είχε σημειωθεί λίγες ημέρες νωρίτερα σε άλλο σημείο της πόλης",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-dentro.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "ΗΠΑ: Στη Μέση Ανατολή κατέπλευσε το αεροπλανοφόρο Λίνκολν στέλνοντας «μήνυμα» στο Ιράν",
           "link": "https://www.newsit.gr/kosmos/ipa-sti-mesi-anatoli-katepleyse-to-aeroplanoforo-linkoln-stelnontas-minyma-sto-iran/4584196/",
@@ -230,22 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 18:17:00 +0000",
           "description": "Ο Γιώργος Καπουτζίδης έκανε μία εξομολόγηση για τα δύσκολα εφηβικά χρόνια που πέρασε και παραδέχτηκε ότι τα όσα βίωσε τον βοήθησαν να γίνει ο άνθρωπος ...  \nTo άρθρο Γιώργος Καπουτζίδης: Η μοναχικότητα και η μοναξιά που βίωσα στην εφηβεία μου με διαμόρφωσαν δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-kapoytzidis-ndp-1200x695.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Έσκασε αγωγός νερού στη Θεσσαλονίκη, τέσσερις τραυματίες, δείτε βίντεο\n",
-          "link": "https://www.protothema.gr/greece/article/1763771/eskase-agogos-nerou-sti-thessaloniki-tesseris-traumaties-deite-video/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 20:14:00 +0200",
-          "description": "Η διοίκηση της ΕΥΑΘ έδωσε εντολή να ξεκινήσει άμεσα η διαδικασία ώστε να διαπιστωθούν οι ακριβείς συνθήκες κάτω από τις οποίες συνέβη το εργατικό ατύχημα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-skg-agogos.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ολυμπιακός: Πρόβλημα με Ρομάν Γιάρεμτσουκ ενόψει Άγιαξ",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-provlima-me-roman-giaremtsouk-enopsei-agiaks/4584164/",
-          "pubDate": "Mon, 26 Jan 2026 18:10:10 +0000",
-          "description": "Εκτός από την κρίσιμη αναμέτρηση του Ολυμπιακού με τον Άγιαξ φαίνεται πως θα είναι ο Ρόμαν Γιάρεμτσουκ. Ο Ουκρανός επιθετικός αντιμετωπίζει πρόβλημα τραυματισμού στη γάμπα ...  \nTo άρθρο Ολυμπιακός: Πρόβλημα με Ρομάν Γιάρεμτσουκ ενόψει Άγιαξ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roman-giaremtsoyk-eurokinissi-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Μπαρτσελόνα: Ανανεώνει μέχρι το 2031 ο Φερμίν Λόπεθ ",
+          "link": "https://www.gazzetta.gr/football/la-liga/2510424/mpartselona-ananeonei-mehri-2031-o-fermin-lopeth",
+          "pubDate": "Mon, 26 Jan 2026 21:46:12 +0200",
+          "description": "Σε προφορική συμφωνία για την ανανέωση της συνεργασίας έως το καλοκαίρι του 2031 τους φαίνεται πως κατέληξαν Φερμίν Λόπεθ και Μπαρτσελόνα!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fermin_lopez_barcelona.jpg?itok=Hhvv3tIs",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναιτωλικός: Το μυαλό σε Άρη και ενίσχυση ",
+          "link": "https://www.gazzetta.gr/football/superleague/2510423/panaitolikos-myalo-se-ari-kai-enishysi",
+          "pubDate": "Mon, 26 Jan 2026 21:45:52 +0200",
+          "description": "Ο Παναιτωλικός του Γιάννη Αναστασίου αφήνει πίσω την ήττα από τον ΟΦΗ και εστίαζει στο ματς με τον Άρη, ενώ παράλληλα γίνονται οι προσπάθειες για την ενίσχυση του ρόστερ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/anastasiou_3.jpg?itok=HX3OHoxI",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΛ Novibet: Ο Μπατουμπινσικά επίσημα στα βυσσινί",
+          "link": "https://www.gazzetta.gr/football/superleague/2510422/ael-novibet-o-mpatoympinsika-episima-sta-byssini",
+          "pubDate": "Mon, 26 Jan 2026 21:44:56 +0200",
+          "description": "Ο Ντιλάν Μπατουμπινσικά υπέγραψε στην ΑΕΛ Novibet έως το τέλος της σεζόν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mpatoympinsika.jpg?itok=Gom3HQyM",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ερυθρός Αστέρας: Στην έξοδο ο Ντεβόντε Γκράχαμ",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510421/erythros-asteras-stin-exodo-o-ntebonte-gkraham",
           "pubDate": "Mon, 26 Jan 2026 21:41:35 +0200",
@@ -960,30 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 19:45:30 +0200",
           "description": "Ο Βόλος είναι μία ανάσα από την απόκτηση του επιθετικού Ζαν Κάρλος Ουρτάδο.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oyrtado_1.jpg?itok=ottJ6S04",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Daily Mail: Ο Σουμάχερ δεν είναι πια κλινήρης: Η αλήθεια για την υγεία του",
-          "link": "https://www.gazzetta.gr/plus/2510405/daily-mail-o-soymaher-den-einai-pia-kliniris-i-alitheia-gia-tin-ygeia-toy",
-          "pubDate": "Mon, 26 Jan 2026 19:41:19 +0200",
-          "description": "Υπάρχει αργή αλλά υπαρκτή πρόοδος του Μίκαελ Σουμάχερ, όπως αποκαλύπτουν πηγές στη Daily Mail, και η οικογένεια του μάχεται για ιδιωτικότητα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mikael-soymaxer.jpg?itok=vnZug24l",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Αυτό είναι το ροτέισον του «τριφυλλιού» για το οποίο μίλησε ο Μπενίτεθ",
-          "link": "https://www.gazzetta.gr/football/superleague/2510288/panathinaikos-ayto-einai-roteison-toy-trifyllioy-gia-opoio-milise-o",
-          "pubDate": "Mon, 26 Jan 2026 19:30:00 +0200",
-          "description": "Ο Ράφα Μπενίτεθ μίλησε για την ανάγκη μίας ομάδας που παίζει σε τρεις διοργανώσεις για ροτέισον και το Gazzetta σας παρουσιάζει τους 35 παίκτες που έχει χρησιμοποιήσει με τις συμμετοχές και τον χρόνο που έχουν αγωνιστεί.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benitez_rotation.jpg?itok=CmWgBfdN",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Στίβεν Κινγκ συγκρίνει την ICE του Τραμπ με τη ναζιστική Γκεστάπο",
-          "link": "https://www.gazzetta.gr/plus/2510325/o-stiben-kingk-sygkrinei-tin-ice-toy-tramp-me-ti-nazistiki-gkestapo",
-          "pubDate": "Mon, 26 Jan 2026 19:25:00 +0200",
-          "description": "Ο Στίβεν Κινγκ επικρίνει σκληρά την ICE και συγκρίνει τους πράκτορες του Τραμπ με τη ναζιστική «Γκεστάπο» σε μια τολμηρή ανάρτηση στα social media.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/king-stephen.jpg?itok=orXF46K0",
           "source": "Gazzetta"
         }
       ]
