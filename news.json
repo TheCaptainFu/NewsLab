@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T05:10:26.170Z",
+  "lastUpdated": "2026-01-26T05:15:30.325Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -237,7 +237,7 @@
           "link": "https://www.in.gr/2026/01/26/greece/synagermos-sta-trikala-logo-megali-pyrkagias-se-gnosto-ergostasio-tin-ora-tis-nyxterinis-vardias/",
           "pubDate": "Mon, 26 Jan 2026 05:12:04 +0300",
           "description": "Πληροφορίες κάνουν λόγο για νεκρούς εξαιτίας έκρηξης και πυρκαγιάς στη διάρκεια της νυχτερινής βάρδιας στο εργοστάσιο Βιολάντα, στα Τρίκαλα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trikala-pirkagia-768x428.jpg",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/fotia-violanta-10-768x432.jpg",
           "source": "In.gr"
         },
         {
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Τεράστια έρευνα: Η AI νικά τον μέσο άνθρωπο σε δημιουργικότητα, αλλά υποκλίνεται στους κορυφαίους",
+          "link": "https://www.techgear.gr/terastia-ereyna-i-ai-nika-ton-meso-anthropo-se-dimioyrgikotita-alla-ypoklinetai-stoys-koryfaioys-47317",
+          "pubDate": "Mon, 26 Jan 2026 07:10:00 +0200",
+          "description": "Σε ένα κομβικό σημείο για την εξέλιξη της Τεχνητής Νοημοσύνης (AI), μια νέα μελέτη έρχεται να επαναπροσδιορίσει τη σχέση μηχανής και ανθρώπινης ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/ai-vs-human-brain-creativity.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "ChatGPT: Γιατί οι αναλυτές βλέπουν χρεοκοπία για την OpenAI το 2027",
           "link": "https://www.techgear.gr/chatgpt-giati-oi-analytes-vlepoyn-chreokopia-gia-tin-openai-to-2027-47316",
           "pubDate": "Mon, 26 Jan 2026 07:01:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sat, 24 Jan 2026 22:09:00 +0000",
           "description": "Με boost clock στα 5.6 GHz και την τεχνολογία 3D V-Cache, η AMD υπόσχεται έως και 8% καλύτερες επιδόσεις, διατηρώντας το AM5 socket για εύκολη αναβάθμιση.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/a/amd-ryzen-/amd-ryzen-7-9850x3d-launches-on-jan-29-for-499_g4we.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Elon Musk vs Jeff Bezos: Η μάχη για το Terabit internet από το διάστημα",
-          "link": "https://gr.pcmag.com/networking/51102/elon-musk-vs-jeff-bezos-e-makhe-gia-to-terabit-internet-apo-to-diastema",
-          "pubDate": "Sat, 24 Jan 2026 21:54:20 +0000",
-          "description": "Μετά την ανακοίνωση του TeraWave από την Blue Origin, ο Musk απαντά ότι το Starlink θα χρησιμοποιήσει λέιζερ για να προσφέρει ακόμα υψηλότερες ταχύτητες απευθείας στη Γη.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/a/after-tera/after-terawave-launch-elon-musk-teases-terabit-speeds-for-st_f7zr.jpg",
           "source": "PC Magazine"
         }
       ]
