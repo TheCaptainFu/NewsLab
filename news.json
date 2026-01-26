@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T00:30:31.843Z",
+  "lastUpdated": "2026-01-26T00:35:25.638Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γαλλία: Υπό κράτηση ο ινδός πλοίαρχος του Grinch που φέρεται να ανήκει στον «σκιώδη στόλο» της Ρωσίας",
+          "link": "https://www.in.gr/2026/01/26/world/gallia-ypo-kratisi-o-indos-ploiarxos-tou-grinch-pou-feretai-na-anikei-ston-skiodi-stolo-tis-rosias/",
+          "pubDate": "Mon, 26 Jan 2026 02:30:24 +0300",
+          "description": "Το τάνκερ Grinch κατελήφθη στη Μεσόγειο και οδηγήθηκε στο λιμάνι της Μασσαλίας, με την υποψία ότι ανήκει στον «σκιώδη στόλο» της Ρωσίας, και ο ινδός πλοίαρχός του τέθηκε υπό κράτηση.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/grinch-russia.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Ο Μακρόν με βίντεο βάζει τέλος στα social media για παιδιά κάτω των 15 ετών στη Γαλλία – Stop και στα κινητά στα σχολεία",
           "link": "https://www.newsit.gr/kosmos/o-makron-me-vinteo-vazei-telos-sta-social-media-gia-paidia-kato-ton-15-eton-sti-gallia-stop-kai-sta-kinita-sta-sxoleia/4583348/",
@@ -239,14 +247,6 @@
           "description": "Αναμένεται σαφής επιδείνωση του καιρού με έντονες βροχές και καταιγίδες σε μεγάλη έκταση της Ελλάδας, και με φαινόμενα που θα επηρεάσουν και την Αττική.",
           "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-25/260121173039_vroxi-rain.jpeg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Γαλλία: Διαδήλωση στο Παρίσι για τον θάνατο Μαυριτανού μετανάστη υπό αστυνομική κράτηση",
-          "link": "https://www.in.gr/2026/01/25/world/gallia-diadilosi-sto-parisi-gia-ton-thanato-mayritanou-metanasti-ypo-astynomiki-kratisi/",
-          "pubDate": "Sun, 25 Jan 2026 23:35:33 +0300",
-          "description": "Χιλιάδες Γάλλοι συμμετείχαν σε διαδήλωση στη γαλλική πρωτεύουσα, καταγγέλλοντας τον θάνατο μετανάστη. Ο Ελ Χασέν Ντιαρά πέθανε τη νύχτα της 14ης προς 15η Ιανουαρίου στο αστυνομικό τμήμα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/El-Hacen-Diarra-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
