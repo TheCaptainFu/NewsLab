@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T16:40:30.596Z",
+  "lastUpdated": "2026-01-26T16:45:32.608Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Σέρρες: Νέες αποκαλύψεις για την καθηγήτρια που φίμωσε μαθητή – «Έλεγε ότι ένας γάτος είναι η μετεμψύχωση του πατέρα της»",
+          "link": "https://www.newsit.gr/ellada/serres-nees-apokalypseis-gia-tin-kathigitria-pou-fimose-mathiti-elege-oti-enas-gatos-einai-i-metempsyxosi-tou-patera-tis/4584046/",
+          "pubDate": "Mon, 26 Jan 2026 16:40:12 +0000",
+          "description": "Την καταδίκη της για τα όσα έκανε σε 13χρονο μαθητή και την απόφαση του υπουργείου Παιδείας να τεθεί σε διαθεσιμότητα, διαδέχονται οι νέες καταγγελίες για ...  \nTo άρθρο Σέρρες: Νέες αποκαλύψεις για την καθηγήτρια που φίμωσε μαθητή – «Έλεγε ότι ένας γάτος είναι η μετεμψύχωση του πατέρα της» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kathigitria-serres.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Στη Νέα Υόρκη ο Γιώργος Γεραπετρίτης: Στο επίκεντρο η συνάντηση με τον γγ του ΟΗΕ, Αντόνιο Γκουτέρες",
           "link": "https://www.newsit.gr/politikh/sti-nea-yorki-o-giorgos-gerapetritis-sto-epikentro-i-synantisi-me-ton-gg-tou-oie-antonio-gkouteres/4584089/",
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 15:45:48 +0000",
           "description": "Θρήνος στα Τρίκαλα μετά την φονική έκρηξη στο εργοστάσιο της «Βιολάντα» τα ξημερώματα της Δευτέρας 26 Ιανουαρίου με τραγικό απολογισμό πέντε νεκρές εργάτριες. Η έκρηξη ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: Εικόνες από drone δείχνουν το μέγεθος της καταστροφής δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/trikala-ekrixi-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Χαϊδάρι: Συνελήφθη μετά από καταδίωξη 20χρονος με όπλο και γεμιστήρα",
-          "link": "https://www.newsit.gr/ellada/xaidari-synelifthi-meta-apo-katadioksi-20xronos-me-oplo-kai-gemistira/4584022/",
-          "pubDate": "Mon, 26 Jan 2026 15:43:34 +0000",
-          "description": "Πιστόλι με φυσίγγιο στη θαλάμη και γεμιστήρα είχε στην κατοχή του ένας 20χρονος στο Χαϊδάρι. Τον συνέλαβαν αστυνομικοί της ομάδας ΔΙΑΣ μετά από καταδίωξη. Όπως ...  \nTo άρθρο Χαϊδάρι: Συνελήφθη μετά από καταδίωξη 20χρονος με όπλο και γεμιστήρα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xaidari-oplo-26012026.jpg",
           "source": "NewsIT"
         }
       ]
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Έβερτον – Λιντς με «Ενίσχυση» στα Ζαχαρωτά",
+          "link": "https://panathinaikos24.gr/2026/01/26/617849/everton-lints-me-enisxysi-sta-zaxarota/",
+          "pubDate": "Mon, 26 Jan 2026 16:45:27 +0000",
+          "description": "Η Έβερτον υποδέχεται τη Λιντς στο ματς που ρίχνει την αυλαία της 23ης «στροφής» της Premier League, με τις δυο ομάδες να έρχονται... φουριόζες από την προηγούμενη αγωνιστική.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Everton1.jpg?fit=350%2C235&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Στον «αέρα» τα εισιτήρια για το Final 8 του Κυπέλλου Ελλάδας Ανδρών",
           "link": "https://panathinaikos24.gr/2026/01/26/617845/ston-aera-ta-eisitiria-gia-to-final-8-tou-kypellou-elladas-andron/",
           "pubDate": "Mon, 26 Jan 2026 16:26:46 +0000",
@@ -1191,14 +1199,6 @@
           "description": "Όπως ξεκαθάρισε και στη συνέντευξη Τύπου μετά το παιχνίδι με τον Ατρόμητο, ο Ράφα Μπενίτεθ έχει λάβει τις αποφάσεις του για την κατεύθυνση που θα ακολουθήσει ο Παναθηναϊκός. Ο Ισπανός τεχνικός δεν μίλησε απλώς για διορθωτικές κινήσεις, αλλά άφησε να φανεί ξεκάθαρα πως στο μυαλό του υπάρχει μια ουσιαστική και σε βάθος αναδόμηση του ρόστερ, […]\nThe post Παίρνει… σκούπα ο Μπενίτεθ το καλοκαίρι στον Παναθηναϊκό! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-5-1.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Καιρός: Βροχές, καταιγίδες και χαλάζι – Στο επίκεντρο η Αττική, που αλλού θα «χτυπήσει» η κακοκαιρία",
-          "link": "https://panathinaikos24.gr/2026/01/26/617768/kairos-vroxes-kataigides-kai-xalazi-sto-epikentro-i-attiki-pou-allou-tha-xtypisei-i-kakokairia/",
-          "pubDate": "Mon, 26 Jan 2026 10:26:41 +0000",
-          "description": "Θυελλώδεις νότιοι άνεμοι θα πνέουν στο Αιγαίο έως σήμερα αργά το απόγευμα, με αποτέλεσμα να ακυρώνονται δρομολόγια.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/4917629.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
         },
         {
           "title": "Παναθηναϊκός: Στον «αέρα» ο Τσιριβέγια ενόψει Ρόμα! – Η πρώτη εκτίμηση",
