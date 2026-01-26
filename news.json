@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T08:30:33.439Z",
+  "lastUpdated": "2026-01-26T08:35:27.819Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -17,7 +17,7 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "Η διοίκηση της «Βιολάντα» αποφάσισε χθες να δουλέψουν 12 αντί για 30 άτομα στη σημερινή βάρδια λόγω κοπή πίτας\n",
+          "title": "Η διοίκηση της «Βιολάντα» αποφάσισε χθες να δουλέψουν 12 αντί για 30 άτομα στη σημερινή βάρδια λόγω κοπής της πίτας\n",
           "link": "https://www.protothema.gr/greece/article/1763391/i-dioikisi-tis-violada-apofasise-hthes-na-doulepsoun-12-adi-gia-30-atoma-sti-simerini-vardia-logo-kopi-pitas/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 10:28:00 +0200",
           "description": "Από τη φωτιά ανασύρθηκαν νεκρές τρεις γυναίκες, ενώ άλλες δυο αγνοούνται",
@@ -33,10 +33,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Κακοκαιρία: Φτάνουν στην Αττική οι βροχές και καταιγίδες – Πώς θα κινηθούν τα φαινόμενα",
-          "link": "https://www.newsit.gr/ellada/kakokairia-ftanoun-stin-attiki-oi-vroxes-kai-kataigides-pos-tha-kinithoun-ta-fainomena/4583539/",
+          "title": "Κακοκαιρία: Φτάνουν στην Αττική βροχές και καταιγίδες – Πώς θα κινηθούν τα φαινόμενα",
+          "link": "https://www.newsit.gr/ellada/kakokairia-ftanoun-stin-attiki-vroxes-kai-kataigides-pos-tha-kinithoun-ta-fainomena/4583539/",
           "pubDate": "Mon, 26 Jan 2026 08:25:25 +0000",
-          "description": "Το πρωί της Δευτέρας 26.01.2026, το νέο κύμα κακοκαιρίας αναμένεται στην Αττική και μπορεί να μην είναι τόσο έντονα τα φαινόμενα όπως εκείνη πριν από ...  \nTo άρθρο Κακοκαιρία: Φτάνουν στην Αττική οι βροχές και καταιγίδες – Πώς θα κινηθούν τα φαινόμενα δημοσιεύτηκε στο NewsIT .",
+          "description": "Το πρωί της Δευτέρας 26.01.2026, το νέο κύμα κακοκαιρίας αναμένεται στην Αττική και μπορεί να μην είναι τόσο έντονα τα φαινόμενα όπως εκείνη πριν από ...  \nTo άρθρο Κακοκαιρία: Φτάνουν στην Αττική βροχές και καταιγίδες – Πώς θα κινηθούν τα φαινόμενα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kataigida-1-1.jpg",
           "source": "NewsIT"
         },
@@ -45,7 +45,7 @@
           "link": "https://www.protothema.gr/greece/article/1763379/portokali-proeidopoiisi-gia-kataigides-stin-attiki-ti-tha-ginei-tis-epomenes-ores-hartis-koluda/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 10:25:00 +0200",
           "description": "Σήμερα Δευτέρα 26/1/2026 υπάρχει πορτοκαλί συναγερμός για ισχυρές καταιγίδες στην Αττική από την ΕΜΥ, με κακοκαιρία που φέρνει ασταθή καιρό, βροχές και πιθανές πλημμυρικές καταστάσεις",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/kakokairia_maketa.jpg",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/vroxi-athina-mak_2.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -181,7 +181,7 @@
           "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/i-istoria-tis-violanta-mexri-tin-tragodia-sto-ergostasio-tis-mpiskotoviomixanias-sta-trikala/4583499/",
           "pubDate": "Mon, 26 Jan 2026 07:31:21 +0000",
           "description": "Η τραγωδία που εξελίσσεται στη βιομηχανία μπισκότων Βιολάντα στα Τρίκαλα «γράφει» μια μαύρη σελίδα σε μια, κατά τα άλλα, λαμπρή πορεία της επιχειρηματικής οικογένειας Τζιωρτζιώτη. ...  \nTo άρθρο Η ιστορία της Βιολάντα μέχρι την τραγωδία στο εργοστάσιο της μπισκοτοβιομηχανίας στα Τρίκαλα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio-2.jpg",
           "source": "NewsIT"
         },
         {
@@ -279,7 +279,7 @@
           "source": "Το Βήμα"
         },
         {
-          "title": "Μέγαρο Μαξίμου: Με «θετική ατζέντα» το 1ο υπουργικό του 2026",
+          "title": "Μέγαρο Μαξίμου: Με «θετική ατζέντα» το 1ο Υπουργικό του 2026",
           "link": "https://www.tovima.gr/2026/01/26/politics/megaro-maksimou-me-thetiki-atzenta-to-1o-ypourgiko-tou-2026/",
           "pubDate": "Mon, 26 Jan 2026 09:34:48 +0300",
           "description": "Το Υπουργικό συμβούλιο, το πρώτο για το 2026, αναμένεται να ξεκινήσει στο Μέγαρο Μαξίμου, στις 11.00. Οι νέες νομοθετικές ρυθμίσεις",
@@ -747,10 +747,18 @@
       "color": "green",
       "articles": [
         {
-          "title": "«Θλιβερή νύχτα στη Μινεσότα» : Αντιδράσεις παικτών και λίγκας  για τη δολοφονία άντρα από πράκτορες της ICE",
+          "title": "Αυτός είναι ο ψηλός στόχος Μητσοτάκη για τον κατώτατο μισθό μέχρι το 2027",
+          "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
+          "pubDate": "Mon, 26 Jan 2026 10:34:00 +0200",
+          "description": "Η συνέντευξη της Αφροδίτης Λατινοπούλου στον Τάσο Ξιαρχό",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2025-12/mitsotakis-eurokinissi_0.jpg?itok=7i66hsJ5",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "«Θλιβερή νύχτα στη Μινεσότα»: Αντιδράσεις και ανακοίνωση Ένωσης Παικτών για τη δολοφονία άντρα από πράκτορες της ICE",
           "link": "https://www.gazzetta.gr/basketball/nba/2510254/thliberi-nyhta-sti-minesota-antidraseis-paikton-kai-ligkas-gia-ti-dolofonia",
           "pubDate": "Mon, 26 Jan 2026 10:28:57 +0200",
-          "description": "To παιχνίδι στη Μινεσότα μεταξύ Τίμπεργουλβς και Γουόριορς έγινε σε πολύ περίεργη ατμόσφαιρα λόγω του θανάτου του Άλεξ Πρέτι από ένα πράκτορα της ICE.",
+          "description": "To παιχνίδι στη Μινεσότα μεταξύ Τίμπεργουλβς και Γουόριορς έγινε σε πολύ περίεργη ατμόσφαιρα λόγω του θανάτου του Άλεξ Πρέτι από πράκτορες της ICE.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-11/edwards_0.jpg?itok=xQ256Nly",
           "source": "Gazzetta"
         },
@@ -977,14 +985,6 @@
           "description": "Σάλο προκάλεσε μία ανάρτηση του Ανδρέα Πετρόπουλου μετά το Κολοσσός Ρόδου – Ολυμπιακός, για το GBL, αφού ο παίκτης των γηπεδούχων άφησε να εννοηθεί ότι κάποιος του ...  \nTo άρθρο «Άλλαξε ρότα» ο Ανδρέας Πετρόπουλος: «Δεν υπονόησα πρόσωπα του αθλητικού χώρου για τα κομμένα φρένα» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/petropoulos-1-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Τα αποτελέσματα του ΝΒΑ στο Gazzetta",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510057/live-nba-sto-gazzetta",
-          "pubDate": "Mon, 26 Jan 2026 08:26:09 +0200",
-          "description": "Δείτε τα αποτελέσματα του ΝΒΑ στο Gazzetta.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-02/fox_getty.jpg?itok=iTiJDQOn",
-          "source": "Gazzetta"
         }
       ]
     },
