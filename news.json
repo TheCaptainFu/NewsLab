@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T10:40:27.269Z",
+  "lastUpdated": "2026-01-26T10:45:26.591Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,9 +9,41 @@
       "color": "red",
       "articles": [
         {
-          "title": "Θεσσαλονίκη: Ποινή φυλάκισης 12 μηνών σε δύο νεαρούς που έτρεχαν με 179 χλμ/ώρα στον κόμβο Ευόσμου\n",
+          "title": "Χωρίς εμπορικό ενδιαφέρον η σημερινή δημοπρασία φυσικού αερίου για τον Κάθετο Διάδρομο",
+          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/xoris-emporiko-endiaferon-i-simerini-dimoprasia-fysikou-aeriou-gia-ton-katheto-diadromo/4583707/",
+          "pubDate": "Mon, 26 Jan 2026 10:41:57 +0000",
+          "description": "Επιβεβαιώθηκαν τελικά οι χαμηλές προσδοκίες για τη σημερινή δημοπρασία φυσικού αερίου, που αφορά τον Κάθετο Διάδρομο και συγκεκριμένα τις Διαδρομές 1,2 και 3 μέσω του ...  \nTo άρθρο Χωρίς εμπορικό ενδιαφέρον η σημερινή δημοπρασία φυσικού αερίου για τον Κάθετο Διάδρομο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lng-tanker-reuters-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Κακοκαιρία: «Λίμνη» η λεωφόρος Βουλιαγμένης, πλημμύρες στις γραμμές του τραμ και πτώσεις δέντρων στα νότια προάστια",
+          "link": "https://www.newsit.gr/ellada/kakokairia-limni-i-leoforos-vouliagmenis-plimmyres-stis-grammes-tou-tram-kai-ptoseis-dentron-sta-notia-proastia/4583668/",
+          "pubDate": "Mon, 26 Jan 2026 10:39:09 +0000",
+          "description": "Σειρά προβλημάτων έχει αρχίσει να προκαλεί το νέο κύμα κακοκαιρίας που πλήττει μεγάλο μέρος της χώρας, αλλά και την Αττική. Πλημμύρες και πτώσεις δέντρων δημιουργούν ...  \nTo άρθρο Κακοκαιρία: «Λίμνη» η λεωφόρος Βουλιαγμένης, πλημμύρες στις γραμμές του τραμ και πτώσεις δέντρων στα νότια προάστια δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kakokairia3.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Γνωστός σουβλατζής της Δραπετσώνας συνελήφθη για διακίνηση ναρκωτικών: Προμήθευε άτομα εντός του ψητοπωλείου",
+          "link": "https://www.protothema.gr/greece/article/1763487/gnostos-souvlatzis-tis-drapetsonas-sunelifthi-gia-diakinisi-narkotikon-promitheue-atoma-edos-tou-psitopoleiou/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:39:00 +0200",
+          "description": "Η σύλληψη του έγινε μετά από πώληση 2,1 γραμμαρίων ηρωίνης σε έναν 60χρονο έναντι 50 ευρώ - Στην κατοχή του βρέθηκε 212 αμφιβόλου γνησιότητας έγγραφα ταυτοπροσωπίας και 12.480 ευρώ",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-07/peripoliko-xrwma.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Εντοπίστηκαν τέσσερις σοροί γυναικών μετά την έκρηξη στο εργοστάσιο της Βιολάντα στα Τρίκαλα, αγνοείται άλλη μία εργαζόμενη",
+          "link": "https://www.protothema.gr/greece/article/1763319/treis-gunaikes-nekres-apo-ti-megali-fotia-sto-ergostasio-tis-violada-sta-trikala/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:39:00 +0200",
+          "description": "Πριν τη φωτιά σημειώθηκε έκρηξη - Τραυματίες ακόμη πέντε εργαζόμενοι και ένας πυροσβέστης",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/fotia_violanta_mak.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Θεσσαλονίκη: Ποινή φυλάκισης 12 μηνών στον 24χρονο και τον 22χρονο που έτρεχαν με 179 χλμ/ώρα στον Εύοσμο",
           "link": "https://www.protothema.gr/greece/article/1763483/thessaloniki-poini-fulakisis-12-minon-se-duo-nearous-pou-etrehan-me-179-hlmora-ston-komvo-euosmou/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 12:36:50 +0200",
+          "pubDate": "Mon, 26 Jan 2026 12:36:00 +0200",
           "description": "Το δικαστήριο τους έκρινε ενόχους για επικίνδυνη οδήγηση, με το δικαστήριο να αποφασίζει την αναστολή της ποινής τους επί τριετία",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-07-27/maketa-peripoliko.jpg",
           "source": "Πρώτο Θέμα"
@@ -21,14 +53,14 @@
           "link": "https://www.newsit.gr/oikonomia/diethni/ee-pote-kleinoun-oristika-oi-rosikes-kanoules-fysikou-aeriou/4583685/",
           "pubDate": "Mon, 26 Jan 2026 10:32:39 +0000",
           "description": "Την τελική έγκριση έδωσαν οι χώρες της Ευρωπαϊκής Ένωσης (ΕΕ) στο σχέδιο απαγόρευσης των εισαγωγών ρωσικού φυσικού αερίου μέχρι το τέλος του 2027, επιτρέποντας έτσι ...  \nTo άρθρο ΕΕ: Πότε κλείνουν οριστικά οι ρωσικές κάνουλες φυσικού αερίου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/natural-gas-r-1210-scaled-1-1-1200x675-1-1.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lng-exports-reuters-scaled-1.jpg",
           "source": "NewsIT"
         },
         {
-          "title": "Αποκάλυψη από την «Αρχή» για το ξέπλυμα: Ο λογιστής στην Κρήτη έβαλε €700.000 από τις παράνομες επιδοτήσεις του ΟΠΕΚΕΠΕ σε στοιχηματικό λογαριασμό\n",
+          "title": "Αποκάλυψη από την Αρχή για το ξέπλυμα: Ο λογιστής στην Κρήτη έβαλε €700.000 από τις παράνομες επιδοτήσεις του ΟΠΕΚΕΠΕ σε στοιχηματικό λογαριασμό\n",
           "link": "https://www.protothema.gr/greece/article/1763454/nea-eurimata-gia-tis-paranomes-epidotiseis-tou-opekepe-stin-kriti-pano-apo-700000-euro-se-stoihimatiko-logariasmo/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 12:25:00 +0200",
-          "description": "Μέρος των χρημάτων...  επενδύθηκε επίσης σε ακίνητα, ενώ κίνηση παρουσίαζε και η θυρίδα - Με διάταξη του κ. Βουρλίωτη δεσμεύθηκαν οι περιουσίες των φυσικών αυτουργών και στενών συγγενικών τους προσώπων που φέρονται ως συνεργοί - Στην Ευρωπαία εισαγγελέα το πόρισμα",
+          "description": "Μέρος των χρημάτων...  επενδύθηκε επίσης σε ακίνητα, ενώ κίνηση παρουσίαζε και η θυρίδα - Με διάταξη του κ. Βουρλιώτη δεσμεύθηκαν οι περιουσίες των φυσικών αυτουργών και στενών συγγενικών τους προσώπων που φέρονται ως συνεργοί - Στην Ευρωπαία εισαγγελέα το πόρισμα",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-26/opekelogisths-xrm.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -97,18 +129,18 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "Τραγωδία στο εργοστάσιο της «Βιολάντα»: Παγίδα θανάτου το υπόγειο της επιχείρησης – Διαρροή υγραερίου «βλέπουν» οι ειδικοί",
-          "link": "https://www.newsit.gr/ellada/tragodia-sto-ergostasio-tis-violanta-pagida-thanatou-to-ypogeio-tis-epixeirisis-diarroi-ygraeriou-vlepoun-oi-eidikoi/4583639/",
+          "title": "Τραγωδία στο εργοστάσιο της «Βιολάντα»: Το επικίνδυνο αέριο που μετέτρεψε σε παγίδα θανάτου το υπόγειο της επιχείρησης",
+          "link": "https://www.newsit.gr/ellada/tragodia-sto-ergostasio-tis-violanta-to-epikindyno-aerio-pou-metetrepse-se-pagida-thanatou-to-ypogeio-tis-epixeirisis/4583639/",
           "pubDate": "Mon, 26 Jan 2026 10:03:04 +0000",
-          "description": "Η ανείπωτη τραγωδία που εκτυλίχθηκε στο εργοστάσιο παραγωγής των μπισκότων «Βιολάντα» στα Τρίκαλα έχει βυθίσει στο πένθος την χώρα μας, αφού άφησε πίσω της 4 ...  \nTo άρθρο Τραγωδία στο εργοστάσιο της «Βιολάντα»: Παγίδα θανάτου το υπόγειο της επιχείρησης – Διαρροή υγραερίου «βλέπουν» οι ειδικοί δημοσιεύτηκε στο NewsIT .",
+          "description": "Η ανείπωτη τραγωδία που εκτυλίχθηκε στο εργοστάσιο παραγωγής των μπισκότων «Βιολάντα» στα Τρίκαλα έχει βυθίσει στο πένθος την χώρα μας, αφού άφησε πίσω της 4 ...  \nTo άρθρο Τραγωδία στο εργοστάσιο της «Βιολάντα»: Το επικίνδυνο αέριο που μετέτρεψε σε παγίδα θανάτου το υπόγειο της επιχείρησης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ergostasio-trikala-1200x800.jpg",
           "source": "NewsIT"
         },
         {
-          "title": "Ισχυρές καταιγίδες στην Αττική, λίμνη και πάλι η Βουλιαγμένης: Live χάρτης με το πέρασμα της κακοκαιρίας που έχει σημάνει πορτοκαλί συναγερμό",
-          "link": "https://www.protothema.gr/greece/article/1763379/ishures-kataigides-stin-attiki-sto-epikedro-ta-notia-proastia-live-hartis-me-to-perasma-tis-kakokairias/?utm_source=rss",
+          "title": "Καταιγίδες πλήττουν σήμερα την Αττική, λίμνη και πάλι η Βουλιαγμένης: Live χάρτης με το πέρασμα της κακοκαιρίας που έχει σημάνει πορτοκαλί συναγερμό",
+          "link": "https://www.protothema.gr/greece/article/1763379/kataigides-plittoun-simera-tin-attiki-limni-kai-pali-i-vouliagmenis-live-hartis-me-to-perasma-tis-kakokairias/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 12:03:00 +0200",
-          "description": "Επικαιροποιήθηκε το έκτακτο δελτίου καιρού από την ΕΜΥ - 26 κλήσεις στην Πυροσβεστική για απάντληση υδάτων και απομάκρυνση αντικειμένων",
+          "description": "Επικαιροποιήθηκε το έκτακτο δελτίου καιρού από την ΕΜΥ, τα φαινόμενα έχουν κοπάσει από τις 12:00 - 26 κλήσεις στην Πυροσβεστική για απάντληση υδάτων και απομάκρυνση αντικειμένων",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/vouliagmenis_maketa.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -161,6 +193,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "ΟΠΕΚΕΠΕ: Δέσμευση περιουσίας για δύο κατηγορουμένους στην Κρήτη – Χιλιάδες ευρώ σε ακίνητα και στοιχήματα",
+          "link": "https://www.in.gr/2026/01/26/greece/opekepe-desmeysi-periousias-gia-dyo-katigoroumenous-stin-kriti-xiliades-eyro-se-akinita-kai-stoiximata/",
+          "pubDate": "Mon, 26 Jan 2026 12:44:00 +0300",
+          "description": "Το \"πόρισμα Βουρλιώτη\" με τα ευρήματα διαβιβάστηκε στην Ευρωπαϊκή Εισαγγελία προκειμένου να συναξιολογηθεί με τα υπόλοιπα στοιχεί",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/m_m061321753893515-1200x800-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ταϊβάν: Αναρριχητής «κόβει την ανάσα» – Σκαρφάλωσε ουρανοξύστη χωρίς σχοινί ασφαλείας σε 90 λεπτά",
           "link": "https://www.newsit.gr/kosmos/taivan-anarrixitis-kovei-tin-anasa-skarfalose-ouranoksysti-xoris-sxoini-asfaleias-se-90-lepta/4583597/",
           "pubDate": "Mon, 26 Jan 2026 09:37:50 +0000",
@@ -207,46 +247,6 @@
           "description": "Ένα δισεκατομμύριο δολάρια, η σκιά της Σαουδικής Αραβίας και η ρήξη του Τζόκοβιτς με το σύστημα φέρνουν το παγκόσμιο τένις μπροστά στη μεγαλύτερη κρίση της ιστορίας του",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/w24-140702NovakDjokovic.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Βορίζια: Στο νοσοκομείο και οι δύο γονείς του 39χρονου Φανούρη – Αναβλήθηκε η δίκη στο Αυτόφωρο",
-          "link": "https://www.protothema.gr/greece/article/1763431/vorizia-sto-nosokomeio-kai-oi-duo-goneis-tou-39hronou-fanouri-anavlithike-i-diki-sto-autoforo/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 11:22:30 +0200",
-          "description": "Ο πατέρας νοσηλεύεται με κορωνοϊό στο ΠΑΓΝΗ και η μητέρα μεταφέρθηκε με πόνους στο στήθος στο Βενιζέλειο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-11/vorizia_martyria_xr.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Όμιλος ΤΙΤΑΝ: Συναντήσεις με επενδυτές για ενδεχόμενη προσφορά ομολογιών ύψους 350 εκατ. ευρώ",
-          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/omilos-titan-synantiseis-me-ependytes-gia-endexomeni-prosfora-omologion-ypsous-350-ekat-eyro/4583590/",
-          "pubDate": "Mon, 26 Jan 2026 09:21:59 +0000",
-          "description": "Μία σειρά συναντήσεων με επενδυτές της αγοράς σταθερού εισοδήματος στην Ευρώπη, για ενδεχόμενη προσφορά ομολογιών αναμενόμενου ύψους 350 εκατ. ευρώ, εγκαινιάζει σήμερα (26.1.2026) ο Όμιλος TITAN. Σύμφωνα ...  \nTo άρθρο Όμιλος ΤΙΤΑΝ: Συναντήσεις με επενδυτές για ενδεχόμενη προσφορά ομολογιών ύψους 350 εκατ. ευρώ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/titan.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Σα να έπεσε βόμβα, άνοιξε σαν τριαντάφυλλο» – Πώς περιγράφουν την πολύνεκρη έκρηξη στο εργοστάσιο «Βιολάντα»",
-          "link": "https://www.in.gr/2026/01/26/greece/sa-na-epese-vomva-pos-perigrafoun-tin-polynekri-ekriksi-sto-ergostasio-violanta/",
-          "pubDate": "Mon, 26 Jan 2026 12:21:26 +0300",
-          "description": "Τι καταγγέλλει ο πρόεδρος του Εργατικού Κέντρου την εικόνα του ισοπεδωμένου κτιρίου",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6826029-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Κυριάκος Μητσοτάκης για την τραγωδία στο εργοστάσιο «Βιολάντα»: Η σκέψη μας με τις οικογένειες των θυμάτων – Η Πυροσβεστική ερευνά για να αποδοθούν ευθύνες",
-          "link": "https://www.newsit.gr/politikh/kyriakos-mitsotakis-gia-tin-tragodia-sto-ergostasio-violanta-i-skepsi-mas-me-tis-oikogeneies-ton-thymaton-i-pyrosvestiki-ereyna-gia-na-apodothoun-eythynes/4583581/",
-          "pubDate": "Mon, 26 Jan 2026 09:20:16 +0000",
-          "description": "Στην τραγωδία στο εργοστάσιο «Βιολάντα» στα Τρίκαλα με τους νεκρούς, τους αγνοούμενους και τους τραυματίες, αναφέρθηκε ο πρωθυπουργός Κυριάκος Μητσοτάκης στην εισαγωγική του τοποθέτηση στο ...  \nTo άρθρο Κυριάκος Μητσοτάκης για την τραγωδία στο εργοστάσιο «Βιολάντα»: Η σκέψη μας με τις οικογένειες των θυμάτων – Η Πυροσβεστική ερευνά για να αποδοθούν ευθύνες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kyriakosmitsotakis.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Χρηματιστήριο Αθηνών: Άνοιγμα με οριακή άνοδο 0,06% – Ήπια ανοδική κίνηση και στις ευρωαγορές",
-          "link": "https://www.newsit.gr/oikonomia/agores/xrimatistirio-athinon-anoigma-me-oriaki-anodo-0-06-ipia-anodiki-kinisi-kai-stis-eyroagores/4583586/",
-          "pubDate": "Mon, 26 Jan 2026 09:19:36 +0000",
-          "description": "Περιορισμένες διακυμάνσεις καταγράφουν οι τιμές των μετοχών στο άνοιγμα της σημερινής (26.1.2026) συνεδρίασης του Χρηματιστηρίου Αθηνών. Η αξία των συναλλαγών του Χρηματιστηρίου Αθηνών ανέρχεται στα ...  \nTo άρθρο Χρηματιστήριο Αθηνών: Άνοιγμα με οριακή άνοδο 0,06% – Ήπια ανοδική κίνηση και στις ευρωαγορές δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xrimatistirio-metoxes-eurokiniss-4-1200x675-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Το τίμημα της αύξησης των δασικών εκτάσεων στην Ευρώπη",
+          "link": "http://gr.euronews.com/my-europe/2026/01/26/timhna-ayxhshs-dasikon-ektaseon-eyroph",
+          "pubDate": "Mon, 26 Jan 2026 11:40:05 +0100",
+          "description": "Τα δάση της Πορτογαλίας αυξάνονται ταχύτατα, αλλά με τεράστιο περιβαλλοντικό κόστος. Πώς προσπαθεί η χώρα να αντιστρέψει την πορεία;",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Κατολίσθηση στην Ινδονησία: τουλάχιστον 17 νεκροί, πάνω από 70 αγνοούνται",
+          "link": "http://gr.euronews.com/video/2026/01/26/indonesia-landslide-kills-at-least-17-with-more-than-70-still-missing",
+          "pubDate": "Mon, 26 Jan 2026 11:36:21 +0100",
+          "description": "Σωστικά συνεργεία αναζητούν δεκάδες αγνοουμένους μετά την κατολίσθηση στην Ιάβα της Ινδονησίας. Ο απολογισμός των νεκρών ανήλθε σε 17 τη Δευτέρα.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Εγκαινιάστηκε η πρεσβεία της Κύπρου στο Μπαχρέιν από τον Νίκο Χριστοδουλίδη ",
           "link": "http://gr.euronews.com/2026/01/26/egkainiastike-i-presveia-tis-cyprus-sto-bahrain",
           "pubDate": "Mon, 26 Jan 2026 11:28:32 +0100",
@@ -723,22 +739,6 @@
           "description": "Ευρωβαρόμετρο: ξένες παρεμβάσεις και παραπληροφόρηση στις εκλογές είναι η δεύτερη πρόκληση για τη δημοκρατία της ΕΕ. Οι ειδικοί εφιστούν την προσοχή.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "«Πράσινο» μυκητοκτόνο σώζει τους αμπελώνες της Γαλλίας",
-          "link": "http://gr.euronews.com/green/2026/01/26/can-a-sustainable-fungicide-save-frances-vineyards-from-climate-driven-disease",
-          "pubDate": "Mon, 26 Jan 2026 07:00:59 +0100",
-          "description": "Η παραγωγή του γαλλικού κρασιού κλονίζεται από έξαρση του ωιδίου και του περονόσπορου, αλλά ένα μυκητοκτόνο φυτικής προέλευσης μπορεί να σώσει την κατάσταση.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Ειδήσεις | 26 Ιανουαρίου 2026 - Πρωινό δελτίο",
-          "link": "http://gr.euronews.com/video/2026/01/26/eidhseis-26-ianoyarioy-2026-prwino-deltio",
-          "pubDate": "Mon, 26 Jan 2026 07:00:22 +0100",
-          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 26 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Κεντζιόρα: «Θρύλος ο Λουτσέσκου, θα ήταν υπέροχο να φτάσουμε στον τελικό του Europa League»",
+          "link": "https://www.gazzetta.gr/football/superleague/2510282/kentziora-thrylos-o-loytseskoy-tha-itan-yperoho-na-ftasoyme-ston",
+          "pubDate": "Mon, 26 Jan 2026 12:43:16 +0200",
+          "description": "Ο Τόμας Κεντζιόρα αναφέρθηκε στην παρουσία του στον ΠΑΟΚ και στάθηκε στους στόχους της φετινής σεζόν αλλά και την ατμόσφαιρα στην Τούμπα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-03/kendziora.jpg?itok=DdHyYnvX",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΝCAA: Τι έκανε ο Αμπόσι στην ήττα του San Francisco",
           "link": "https://www.gazzetta.gr/basketball/ncaa/2510279/ncaa-ti-ekane-o-amposi-stin-itta-toy-san-francisco",
@@ -977,14 +985,6 @@
           "description": "Γνωρίστε το Xiaomi Tag που εντοπίστηκε στον κώδικα του HyperOS",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gsmarena_000_0.jpg?itok=eZQuqRvw",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Επεισοδιακό το Χάποελ Τελ Αβίβ - Μπερ Σεβά: Παίκτες του Ιτούδη έχασαν δόντια, ο πρόεδρος διαμαρτυρήθηκε στους διαιτητές ",
-          "link": "https://www.gazzetta.gr/basketball/mpasket-israil/2510251/epeisodiako-hapoel-tel-abib-mper-seba-paiktes-toy-itoydi-ehasan",
-          "pubDate": "Mon, 26 Jan 2026 10:15:37 +0200",
-          "description": "Επεισοδιακό ματς μεταξύ Χάποελ Τελ Αβίβ και Χάποελ Μπερ Σεβά, αφού παίκτες της ομάδας της Euroleague έχασαν τα δόντια τους μεταξύ άλλων.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hgapoel.jpg?itok=gzNGDPRU",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Δεσύλλας: «Μπερδεμένος και χωρίς ταυτότητα ο Παναθηναϊκός, συνεχίζει να ψάχνεται ο Μπενίτεθ – Μοναδικό κέρδος ο Σάντσες»",
+          "link": "https://panathinaikos24.gr/2026/01/26/617775/desyllas-mperdemenos-kai-xoris-taytotita-o-panathinaikos-synexizei-na-psaxnetai-o-mpeniteth-monadiko-kerdos-o-santses/",
+          "pubDate": "Mon, 26 Jan 2026 10:42:04 +0000",
+          "description": "Όσα ανέφερε ο ρεπόρτερ του Παναθηναϊκού.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5004875.jpg?fit=900%2C601&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Παίρνει… σκούπα ο Μπενίτεθ το καλοκαίρι στον Παναθηναϊκό!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/pairnei-skoupa-o-beniteth-to-kalokair/?utm_source=rss&utm_medium=rss&utm_campaign=pairnei-skoupa-o-beniteth-to-kalokair",
@@ -1222,14 +1230,6 @@
           "pubDate": "Sun, 25 Jan 2026 17:10:16 +0000",
           "description": "Παρακολουθήστε live από το Panathinaikos24.gr την εξέλιξη της αναμέτρησης του Παναθηναϊκού στην έδρα του Ατρομήτου στο Περιστέρι για την 18η αγωνιστική της Stoiximan Super League.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6825404.jpg?fit=900%2C548&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Φαρίντ: «Δεν είμαστε παιδιά, πληρωνόμαστε και πρέπει να κερδίζουμε»",
-          "link": "https://panathinaikos24.gr/2026/01/25/617650/farint-den-eimaste-paidia-plironomaste-kai-prepei-na-kerdizoume/",
-          "pubDate": "Sun, 25 Jan 2026 16:55:31 +0000",
-          "description": "Oι δηλώσεις του Κένεθ Φαρίντ μετά τη νίκη του Παναθηναϊκού απέναντι στο Μαρούσι.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6824724.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
