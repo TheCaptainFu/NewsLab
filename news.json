@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T12:45:31.666Z",
+  "lastUpdated": "2026-01-26T12:50:26.982Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Μινεάπολη: Βίντεο δείχνει άνδρες της ICE να απειλούν δημοσιογράφο και εικονολήπτη της Rai που βιντεοσκοπούσαν τα επεισόδια",
+          "link": "https://www.newsit.gr/kosmos/mineapoli-vinteo-deixnei-andres-tis-ice-na-apeiloun-dimosiografo-kai-eikonolipti-tis-rai-pou-vinteoskopousan-ta-epeisodia/4583848/",
+          "pubDate": "Mon, 26 Jan 2026 12:45:11 +0000",
+          "description": "Εικονολήπτης και δημοσιογράφος της ιταλικής δημόσιας τηλεόρασης Rai απειλήθηκαν από την ICE στη Μινεάπολη επειδήβιντεοσκοπούσαν τα επεισόδια στη σκιά των θανάσιμων τραυματισμών δυο Αμερικανών, της ...  \nTo άρθρο Μινεάπολη: Βίντεο δείχνει άνδρες της ICE να απειλούν δημοσιογράφο και εικονολήπτη της Rai που βιντεοσκοπούσαν τα επεισόδια δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/rai-1200x553.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Διάσωση ετοιμοθάνατης φώκιας 30 ημερών στη Λέρο, δείτε βίντεο ",
           "link": "https://www.protothema.gr/greece/article/1763564/krisimi-diasosi-neogennitis-fokias-stous-leipsous/?utm_source=rss",
@@ -51,7 +59,7 @@
         {
           "title": "Πέθανε σε ηλικία 66 ετών ο ζωγράφος και γλύπτης Νικόλαος Ζήβας",
           "link": "https://www.protothema.gr/greece/article/1763567/pethane-se-ilikia-66-eton-o-zografos-kai-gluptis-nikolaos-zivas/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 14:37:09 +0200",
+          "pubDate": "Mon, 26 Jan 2026 14:37:00 +0200",
           "description": "Η εξόδιος ακολουθία θα πραγματοποιηθεί την Τρίτη 27/01, στις 16:00 στο Δημοτικό Κοιμητήριο Χαλανδρίου",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/nikos_zivas_arthrou.jpg",
           "source": "Πρώτο Θέμα"
@@ -233,20 +241,12 @@
           "source": "NewsIT"
         },
         {
-          "title": "Τραγωδία στο Ηράκλειο: Βρήκε νεκρό τον αδερφό της στο σπίτι του ",
-          "link": "https://www.protothema.gr/greece/article/1763528/tragodia-sto-irakleio-nekros-63hronos-edopistike-sto-spiti-tou/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 13:45:37 +0200",
-          "description": "Ο άνδρας δεν είχε επικοινωνήσει με τους συγγενείς του για αρκετό διάστημα, γεγονός που προκάλεσε ανησυχία",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-06-21/ekav-mak.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Σπάτα: Απεγκλωβίστηκαν δύο άτομα που επέβαιναν σε όχημα που παρασύρθηκε από νερά ρέματος\n",
-          "link": "https://www.protothema.gr/greece/article/1763523/sunagermos-sta-spata-ohima-me-duo-epivainodes-parasurthike-apo-rema-se-exelixi-epiheirisi-diasosis/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 13:45:00 +0200",
-          "description": "Το περιστατικό έγινε στην περιοχή της Πετρέζας – Η επιχείρηση απεγκλωβισμού ήταν δύσκολη, λόγω των ορμητικών νερών",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/pyrosvestiki1__2_.jpg",
-          "source": "Πρώτο Θέμα"
+          "title": "Δραπετσώνα: Γνωστός σουβλατζής συνελήφθη για διακίνηση ναρκωτικών – Πώς τον έπιασαν",
+          "link": "https://www.in.gr/2026/01/26/greece/drapetsona-gnostos-souvlatzis-synelifthi-gia-diakinisi-narkotikon-pos-ton-epiasan/",
+          "pubDate": "Mon, 26 Jan 2026 14:46:17 +0300",
+          "description": "Πουλούσαν κοκαΐνη έναντι 80€ το γραμμάριο και ηρωίνη έναντι 20€ το γραμμάριο",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1-1028-1024x683-768x512.jpg",
+          "source": "In.gr"
         }
       ]
     },
@@ -303,7 +303,7 @@
           "source": "Τα Νέα"
         },
         {
-          "title": "Στη Λιβύη ο Φαραντούρης – Τα ραντεβού με τον πρωθυπουργό και τον Υπουργό Πετρελαίου",
+          "title": "Στη Λιβύη ο Φαραντούρης – Τα ραντεβού με τον Πρωθυπουργό και τον Υπουργό Πετρελαίου",
           "link": "https://www.tovima.gr/2026/01/26/politics/sti-livyi-o-farantouris-ta-rantevou-me-ton-prothypourgo-kai-ton-ypourgo-petrelaiou/",
           "pubDate": "Mon, 26 Jan 2026 14:33:34 +0300",
           "description": "Σύμφωνα με τον Έλληνα ευρωβουλευτή, η πρόοδος στις ευρωλιβυκές σχέσεις προϋποθέτει την απόσυρση απ' το τραπέζι του παράνομου τουρκολιβυκού μνημόνιο για τις θαλάσσιες ζώνες.",
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Greece biscuit factory fire leaves at least four dead",
+          "link": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:48:17 GMT",
+          "description": "A search is continuing for one person still missing after a blaze broke out at a biscuit factory near the city of Trikala.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f0/live/86816ff0-fa9b-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
         {
           "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
           "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/green/2026/01/26/an-ancient-forest-in-ecuador-is-the-last-stronghold-for-a-tiny-hummingbird-that-is-facing",
           "pubDate": "Mon, 26 Jan 2026 09:45:20 +0100",
           "description": "Το είδος κινδυνεύει, καθώς τα δάση σε μεγάλα υψόμετρα αποψιλώνονται για βοσκή και γεωργία.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Νεοϋορκέζοι διασκεδάζουν με χιονοπόλεμο εν μέσω ισχυρής χιονοθύελλας",
-          "link": "http://gr.euronews.com/video/2026/01/26/new-yorkers-revel-in-a-snowball-fight-amid-a-major-winter-storm",
-          "pubDate": "Mon, 26 Jan 2026 09:41:49 +0100",
-          "description": "Νεοϋορκέζοι συμμετέχουν σε χιονοπόλεμο στο πάρκο McCarren στο Μπρούκλιν, καθώς μια ισχυρή χειμερινή καταιγίδα σαρώνει μεγάλες εκτάσεις των ΗΠΑ.",
           "thumbnail": null,
           "source": "Euronews"
         }
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Χαρτογραφώντας το αόρατο: Η πιο ευκρινής εικόνα της Σκοτεινής Ύλης είναι γεγονός",
+          "link": "https://www.techgear.gr/chartografontas-to-aorato-i-pio-eykrinis-eikona-tis-skoteinis-ylis-einai-gegonos-47330",
+          "pubDate": "Mon, 26 Jan 2026 14:47:00 +0200",
+          "description": "Έπειτα από έξι χρόνια εντατικών παρατηρήσεων και σάρωσης του ενός ογδόου του ουρανού, οι επιστήμονες του προγράμματος Dark Energy Survey (DES) ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/des-universe.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Ιατρική επανάσταση: Η Τεχνητή Νοημοσύνη πετυχαίνει τετραπλάσια ακρίβεια στη διάγνωση από τους γιατρούς",
           "link": "https://www.techgear.gr/iatriki-epanastasi-i-techniti-noimosyni-petychainei-tetraplasia-akriveia-sti-diagnosi-apo-toys-giatroys-47329",
           "pubDate": "Mon, 26 Jan 2026 14:35:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sun, 25 Jan 2026 15:38:09 +0000",
           "description": "Μετά από δεκάδες αναφορές για καμένους επεξεργαστές και μαύρες οθόνες, η Asus εξετάζει τη συμβατότητα των 800-series μητρικών της, ενώ η AMD βρίσκεται ξανά στο στόχαστρο για θέματα ποιοτικού ελέγχου.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/c/cpu-fail-a/cpu-fail-asus-investigates-issue-with-its-motherboards-and-r_6h1h.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Τίτλοι τέλους για το Gmailify: Η Google καταργεί το εργαλείο που έφερνε την εμπειρία Gmail σε Outlook και Yahoo",
-          "link": "https://gr.pcmag.com/old-hosted-email-providers/51111/titloi-telous-gia-to-gmailify-e-google-katargei-to-ergaleio-pou-epherne-ten-empeiria-gmail-se-outloo",
-          "pubDate": "Sun, 25 Jan 2026 15:13:25 +0000",
-          "description": "Μετά από 10 χρόνια λειτουργίας, η υπηρεσία που επέτρεπε τη χρήση προηγμένων λειτουργιών του Gmail σε τρίτους παρόχους κλείνει, αναγκάζοντας τους χρήστες σε αναζήτηση εναλλακτικών.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/g/gmailify-t/gmailify-tool-that-shared-gmail-perks-with-non-google-emails_v4bv.jpg",
           "source": "PC Magazine"
         }
       ]
