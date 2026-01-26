@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T20:38:14.127Z",
+  "lastUpdated": "2026-01-26T20:40:33.094Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Έκρηξη στη βιομηχανία «Βιολάντα»: Η τελευταία φωτογραφία των γυναικών που σκοτώθηκαν στην τραγωδία στα Τρίκαλα",
+          "link": "https://www.newsit.gr/ellada/ekriksi-sti-viomixania-violanta-i-teleytaia-fotografia-ton-gynaikon-pou-skotothikan-stin-tragodia-sta-trikala/4584217/",
+          "pubDate": "Mon, 26 Jan 2026 20:38:09 +0000",
+          "description": "Σε κοντινή απόσταση μεταξύ τους βρέθηκαν οι σοροί των πέντε γυναικών που έχασαν τραγικά τη ζωή τους στο εργοστάσιο «Βιολάντα» στα Τρίκαλα, μετά από έκρηξη ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: Η τελευταία φωτογραφία των γυναικών που σκοτώθηκαν στην τραγωδία στα Τρίκαλα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-thumata-gunaikes-1-1200x693.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Σικελία: Πάνω από 1000 κάτοικοι αναγκάστηκαν να εγκαταλείψουν τα σπίτια τους λόγω κατολίσθησης",
           "link": "https://www.newsit.gr/kosmos/sikelia-pano-apo-1000-katoikoi-anagkastikan-na-egkataleipsoun-ta-spitia-tous-logo-katolisthisis/4584230/",
@@ -169,7 +177,7 @@
           "source": "In.gr"
         },
         {
-          "title": "Απίστευτα δυνατός ο Πολονάρα: «Ήμουν στα πρόθυρα του θανάτου, αλλά θα επιστρέψω στα γήπεδα ως τις 20 Μαρτίου»",
+          "title": "Απίστευτη δύναμη ο Πολονάρα: «Ήμουν στα πρόθυρα του θανάτου, αλλά θα επιστρέψω στα γήπεδα ως τις 20 Μαρτίου»",
           "link": "https://www.in.gr/2026/01/26/sports/basketball/apisteyti-dynami-apo-ton-polonara-tha-epistrepso-sta-gipeda-mexri-tis-20-martiou-tipota-den-tromazei/",
           "pubDate": "Mon, 26 Jan 2026 22:24:02 +0300",
           "description": "Ο Ακίλε Πολονάρα συνεχίζει να δίνει μάχη με τη λευχαιμία, ωστόσο η υγεία του έχει βελτιωθεί τόσο πολύ που ο ίδιος έδωσε υπόσχεση ότι στις 20 Μαρτίου θα είναι σε θέση να επιστρέψει στις προπονήσεις!",
@@ -239,14 +247,6 @@
           "description": "Ο Αντρέ Λουίς προβάρει τα ερυθρόλευκα. Ο 23χρονος εξτρέμ της Ρίο Άβε πρόκειται να αποκτηθεί άμεσα από τον Ολυμπιακό, αποτελώντας την πρώτη χειμερινή μετεγγραφή του ...  \nTo άρθρο Με τον Βαγγέλη Μαρινάκη ο ατζέντης του Αντρέ Λουίς: Η φωτογραφία και το «ευχαριστούμε για όλα κύριε πρόεδρε» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marinakis-atzentis-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Στοπ στο οικολογικό έγκλημα στη Μήλο, αναστέλλονται οι εργασίες, πάει η Αρχή Διαφάνειας με εντολή Παπασταύρου",
-          "link": "https://www.protothema.gr/greece/article/1763769/stop-sto-oikologiko-eglima-sti-milo-anastellodai-oi-ergasies/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 21:03:00 +0200",
-          "description": "Τρεις κινήσεις από τον υπουργό Περιβάλλοντος με τις οποίες  θα μπει φρένο στις οικοδομικές εργασίες επέκτασης του White Coast στον Μύτακα της Μήλου",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-milos-papastaurou.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -509,14 +509,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Μαρκ Ρούτε: Η Ευρώπη δεν μπορεί να υπερασπιστεί τον εαυτό της χωρίς τις ΗΠΑ",
-          "link": "http://gr.euronews.com/my-europe/2026/01/26/mark-royte-h-eyrwph-den-mporei-na-yperaspistei-ton-eayto-ths-xwris-tis-hpa",
-          "pubDate": "Mon, 26 Jan 2026 21:12:15 +0100",
-          "description": "«Χωρίς τις ΗΠΑ, η Ευρώπη χάνει τον εγγυητή της ελευθερίας της»",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
           "title": "Σουέλα Μπρέιβερμαν: Αποχώρηση από τους Συντηρητικούς για το ακροδεξιό Reform UK",
           "link": "http://gr.euronews.com/2026/01/26/soyela-mpreiberman-apoxwrhsh-apo-toys-synthrhtikoys-gia-to-akrode3io-reform-uk",
           "pubDate": "Mon, 26 Jan 2026 20:47:01 +0100",
@@ -739,6 +731,14 @@
           "description": "Τα υπεράκτια αιολικά πάρκα θα συνδεθούν σύντομα με πολλές χώρες σε όλη την Ευρώπη, χάρη σε μια ιστορική διακήρυξη για διασυνοριακά δίκτυα.",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "Greece biscuit factory fire leaves at least four dead",
+          "link": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:48:17 GMT",
+          "description": "A search is continuing for one person still missing after a blaze broke out at a biscuit factory near the city of Trikala.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f0/live/86816ff0-fa9b-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
         }
       ]
     },
