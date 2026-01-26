@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T02:05:29.543Z",
+  "lastUpdated": "2026-01-26T02:10:33.216Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Καιρός σήμερα: Βροχές, καταιγίδες και άνεμοι έως 9 μποφόρ – Αναλυτική πρόγνωση",
+          "link": "https://www.newsit.gr/ellada/kairos-simera-vroxes-kataigides-kai-anemoi-eos-9-mpofor-analytiki-prognosi/4583136/",
+          "pubDate": "Mon, 26 Jan 2026 02:00:00 +0000",
+          "description": "Αγριεύει πάλι ο καιρός σήμερα Δευτέρα, 26 Ιανουαρίου, με βροχές και καταιγίδες. Οι άνεμοι ενισχύονται και θα φτάσουν τα 9 εννέα μποφόρ στο Αιγαίο. Μικρή ...  \nTo άρθρο Καιρός σήμερα: Βροχές, καταιγίδες και άνεμοι έως 9 μποφόρ – Αναλυτική πρόγνωση δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos-vroxi-3-1200x798.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Λίβανος: 2 νεκροί σε νέα ισραηλινά πλήγματα στον νότο",
           "link": "https://www.in.gr/2026/01/26/world/livanos-2-nekroi-se-nea-israilina-pligmata-ston-noto/",
@@ -239,14 +247,6 @@
           "description": "Η πολική κακοκαιρία εξακολουθεί να κρατά «αιχμάλωτες» τις ΗΠΑ. Μία μεγάλη χιονοθύελλα κατευθύνεται προς τις βορειοανατολικές πολιτείες, αφού έπληξε προηγουμένως πολλές στα κεντρικά και τα ...  \nTo άρθρο Κακοκαιρία στις ΗΠΑ: H μεγάλη χιονοθύελλα άφησε χωρίς ρεύμα 900.000 νοικοκυριά και επιχειρήσεις – Ακυρώθηκαν 15.000 πτήσεις δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-weather1-25012026.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Κρίσιμα ορυκτά: Κυρίαρχη η Λατινική Αμερική – Το «Τρίγωνο του Λιθίου»",
-          "link": "https://www.in.gr/2026/01/25/economy/diethnis-oikonomia/krisima-orykta-kyriarxi-latiniki-ameriki-trigono-tou-lithiou/",
-          "pubDate": "Sun, 25 Jan 2026 23:46:06 +0300",
-          "description": "Η παγκόσμια ζήτηση για κρίσιμα ορυκτά θα μπορούσε να αυξηθεί από 28 εκατ. τόνους το 2021 σε σχεδόν 41 εκατ. έως το 2040.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/minerals-768x542.jpg",
-          "source": "In.gr"
         }
       ]
     },
