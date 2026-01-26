@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T22:35:25.282Z",
+  "lastUpdated": "2026-01-26T22:40:34.036Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γιάννης Κεφαλογιάννης για «Βιολάντα»: Πιθανόν την Τρίτη να έχουμε μία πρώτη εικόνα για τα αίτια της έκρηξης",
+          "link": "https://www.newsit.gr/politikh/giannis-kefalogiannis-gia-violanta-pithanon-tin-triti-na-exoume-mia-proti-eikona-gia-ta-aitia-tis-ekriksis/4584265/",
+          "pubDate": "Mon, 26 Jan 2026 22:36:04 +0000",
+          "description": "Στην πυρκαγιά που ξέσπασε στη βιομηχανία μπισκότων «Βιολάντα» στα Τρίκαλα, και κόστισε τη ζωή σε πέντε εργάτριες, αναφέρθηκε μεταξύ άλλων ο υπουργός Πολιτικής Προστασίας, Γιάννης ...  \nTo άρθρο Γιάννης Κεφαλογιάννης για «Βιολάντα»: Πιθανόν την Τρίτη να έχουμε μία πρώτη εικόνα για τα αίτια της έκρηξης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-r-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Κεφαλογιάννης: Ενδεχομένως την Τρίτη να έχουμε μια πρώτη εικόνα για τα αίτια της έκρηξης στα Τρίκαλα ",
           "link": "https://www.protothema.gr/greece/article/1763867/kefalogiannis-endehomenos-tin-triti-na-ehoume-mia-proti-eikona-gia-ta-aitia-tis-ekrixis-sta-trikala/?utm_source=rss",
@@ -239,14 +247,6 @@
           "description": "Εξαιτίας κατολίσθησης που σημειώθηκε στην κωμόπολη Νισέμι, στην ανατολική Σικελία, πάνω από χίλιοι κάτοικοι αναγκάσθηκαν να εγκαταλείψουν τα σπίτια τους. Το πρωτοφανές κύμα κακοκαιρίας που ...  \nTo άρθρο Σικελία: Πάνω από 1000 κάτοικοι αναγκάστηκαν να εγκαταλείψουν τα σπίτια τους λόγω κατολίσθησης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/katolisthisi-1200x801.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Τραγωδία στα Τρίκαλα: Η τελευταία φωτογραφία των γυναικών που σκοτώθηκαν στο εργοστάσιο",
-          "link": "https://www.in.gr/2026/01/26/greece/tragodia-sta-trikala-teleytaia-fotografia-ton-gynaikon-pou-skotothikan-sto-ergostasio/",
-          "pubDate": "Mon, 26 Jan 2026 23:35:11 +0300",
-          "description": "Μια μέρα πριν από την έκρηξη οι τρεις από τις πέντε είναι αγκαλιασμένες και χαμογελαστές στην κοπή της πρωτοχρονιάτικης πίτας.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/aaaaa-1-768x459.jpg",
-          "source": "In.gr"
         }
       ]
     },
