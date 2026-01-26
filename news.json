@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-26T17:35:25.191Z",
+  "lastUpdated": "2026-01-26T17:40:33.704Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Νίκαια: Νεκρός 40χρονος που παρασύρθηκε από αυτοκίνητο – Δώρισε τα όργανα η οικογένεια",
+          "link": "https://www.newsit.gr/ellada/nikaia-nekros-40xronos-pou-parasyrthike-apo-aytokinito-dorise-ta-organa-i-oikogeneia/4584135/",
+          "pubDate": "Mon, 26 Jan 2026 17:39:01 +0000",
+          "description": "Την τελευταία του πνοή άφησε ένας 40χρονος που είχε πέσει θύμα τροχαίου στη Νίκαια στις 21 Ιανουαρίου. Μεγαλείο ψυχής από την οικογένεια, η οποία χθες ...  \nTo άρθρο Νίκαια: Νεκρός 40χρονος που παρασύρθηκε από αυτοκίνητο – Δώρισε τα όργανα η οικογένεια δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xristoforos-tsironis-troxaio-nikaia-26012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Πηγές ΝΔ για κατάθεση Χαλικιά στην Εξεταστική για ΟΠΕΚΕΠΕ: Έμεινε το ΠΑΣΟΚ χωρίς άλλοθι",
           "link": "https://www.newsit.gr/politikh/piges-nd-gia-katathesi-xalikia-stin-eksetastiki-gia-opekepe-emeine-to-pasok-xoris-allothi/4584137/",
@@ -47,22 +55,6 @@
           "description": "Ότι θα καταθέσει ένα νομοσχέδιο που θα προβλέπει τη μείωση της ηλικίας ποινικής ευθύνης ανηλίκων από τα 15 στα 13 έτη για σοβαρά παραπτώματα, ανακοίνωσε ...  \nTo άρθρο Η Σουηδία επιτρέπει την φυλάκιση ανηλίκων από την ηλικία των 13 ετών – «Ισχύει για φόνους, βιασμούς, οπλοκατοχή και βομβιστικές επιθέσεις» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sweden-police.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Προβλήματα σε πτήσεις στο αεροδρόμιο Ηρακλείου λόγω κακοκαιρίας",
-          "link": "https://www.protothema.gr/greece/article/1763743/provlimata-se-ptiseis-sto-aerodromio-irakleiou-logo-kakokairias/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 19:11:25 +0200",
-          "description": "Ισχυρές βροχές και περιορισμένη ορατότητα επηρέασαν τρεις πτήσεις στο «Νίκος Καζαντζάκης»",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2023-08-06/aerodromio-iraklio.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Νεκρός 40χρονος που παρασύρθηκε από ΙΧ στη Νίκαια, δώρισε τα όργανα η οικογένεια",
-          "link": "https://www.protothema.gr/greece/article/1763744/nekros-40hronos-pou-parasurthike-apo-ih-sti-nikaia-dorise-ta-organa-i-oikogeneia-kalo-taxidi-levedi-mou/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 19:10:08 +0200",
-          "description": "Ο Χριστόφορος ασχολούνταν επαγγελματικά με την μαγειρική",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2023-01-12/dorea-organon.jpg",
-          "source": "Πρώτο Θέμα"
         },
         {
           "title": "Καιρός αύριο: Βροχές και καταιγίδες μέχρι το απόγευμα – Χιονοπτώσεις στα ορεινά, ισχυροί άνεμοι στο Αιγαίο",
@@ -153,12 +145,12 @@
           "source": "NewsIT"
         },
         {
-          "title": "Πάνω από 40.000 κεραυνοί έπεσαν τη Δευτέρα, οι περιοχές με τα μεγαλύτερα ύψη βροχής, δείτε χάρτες",
-          "link": "https://www.protothema.gr/greece/article/1763721/pano-apo-40000-keraunoi-epesan-ti-deutera-oi-periohes-me-ta-megalutera-upsi-vrohis-deite-hartes/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 18:36:44 +0200",
-          "description": "Μεγάλος αριθμός καταιγίδων και κεραυνών καταγράφηκε κυρίως σε θαλάσσιες, νησιωτικές και παράκτιες περιοχές",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-09-10/keraunos.jpg",
-          "source": "Πρώτο Θέμα"
+          "title": "Ο Νίκος Γκάλης συνεχάρη την Εθνική πόλο για το χάλκινο μετάλλιο",
+          "link": "https://www.in.gr/2026/01/26/sports/othersports/o-nikos-gkalis-synexari-tin-ethniki-polo-gia-xalkino-metallio/",
+          "pubDate": "Mon, 26 Jan 2026 19:38:10 +0300",
+          "description": "Ο Νίκος Γκάλης με ποστάρισμά του στον προσωπικό του λογαριασμό στο Facebook συνεχάρη την Εθνική Ελλάδας στο πόλο που κατέκτησε το χάλκινο μετάλλιο στο ευρωπαϊκό πρωτάθλημα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6107114-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Σε κατάσταση έκτακτης ανάγκης το Σιδηρόκαστρο και τα χωριά γύρω από τον ποταμό Κρουσοβίτη στις Σέρρες",
@@ -169,28 +161,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "ΠΑΣΟΚ: Διαχρονικά υπέρ της διεύρυνσης της συμμετοχής των αποδήμων στα κοινά, αλλά…",
+          "link": "https://www.in.gr/2026/01/26/politics/politiki-grammateia/pasok-diaxronika-yper-tis-dieyrynsis-tis-symmetoxis-ton-apodimon-sta-koina-alla/",
+          "pubDate": "Mon, 26 Jan 2026 19:35:37 +0300",
+          "description": "Να τοποθετηθεί όταν η κυβέρνηση φέρει το σχέδιο της για τους αποδήμους επιφυλάσσεται το ΠΑΣΟΚ, με τον Κώστα Τσουκαλά να δηλώνει ότι είμαστε διαχρονικά υπέρ της διεύρυνσης της εκπροσώπησης και της συμμετοχής των Ελλήνων αποδήμων στα κοινά αλλά υπό προϋποθέσεις.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Κώστας-Τσουκαλάς-768x551.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Πανελλήνιο Κύπελλο Τάε Κβον Ντο ITF: Εντυπωσίασαν οι αθλητές του συλλόγου Ζέας",
+          "link": "https://www.in.gr/2026/01/26/sports/othersports/panellinio-kypello-tae-kvon-nto-itf-entyposiasan-oi-athlites-tou-syllogou-zeas/",
+          "pubDate": "Mon, 26 Jan 2026 19:35:17 +0300",
+          "description": "Με δύο χρυσά και δύο χάλκινα μετάλλια, οι αθλητές και αθλήτριες του συλλόγου Ζέας κυριάρχησαν στο  Πανελλήνιο Κύπελλο Τάε Κβον Ντο ITF.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/IMG_1821-768x512.jpeg",
+          "source": "In.gr"
+        },
+        {
           "title": "Αλκοτέστ: 246 παραβάσεις σε 23.010 ελέγχους της Τροχαίας Αττικής",
           "link": "https://www.newsit.gr/ellada/alkotest-246-paravaseis-se-23-010-elegxous-tis-troxaias-attikis/4584058/",
           "pubDate": "Mon, 26 Jan 2026 16:34:18 +0000",
           "description": "«Σαφάρι» από την Τροχαία Αττικής σε οδικούς άξονες του Λεκανοπεδίου με 23.010 ελέγχους σε οδηγούς για την κατανάλωση αλκοόλ. Βεβαιώθηκαν 246 παραβάσεις οδηγών, που βρέθηκαν ...  \nTo άρθρο Αλκοτέστ: 246 παραβάσεις σε 23.010 ελέγχους της Τροχαίας Αττικής δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaia-attikis4-26012026.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Σε κατάσταση έκτακτης ανάγκης κηρύχθηκαν περιοχές του δήμου Σιντικής - Συναγερμός για τον ποταμό Κρουσοβίτη",
-          "link": "https://www.protothema.gr/greece/article/1763723/se-katastasi-ektaktis-anagis-kiruhthikan-periohes-tou-dimou-sidikis-sunagermos-gia-ton-potamo-krousoviti/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 18:32:00 +0200",
-          "description": "Λόγω των πλημμυρών στην περιοχή ζευγάρι κτηνοτρόφων απεγκλωβίστηκε από την κτηνοτροφική τους μονάδα στην περιοχή Φαιά Πέτρα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/6767219.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Συνεχίζει με αμείωτο ρυθμό η Τροχαία τα αλκοτέστ: 10 συλλήψεις και 246 παραβάσεις σε τρεις μέρες, δείτε βίντεο  ",
-          "link": "https://www.protothema.gr/greece/article/1763710/sullipsi-10-odigon-gia-odigisi-upo-tin-epireia-alkool-stin-attiki/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 18:22:00 +0200",
-          "description": "Η ΕΛΑΣ πραγματοποίησε  23.010 ελέγχους σε ένα τριήμερο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/troxaia-alkotset-4.jpg",
-          "source": "Πρώτο Θέμα"
         },
         {
           "title": "Ένα αναπάντεχο ρεκόρ: Ο κόσμος μετράει 8 χρόνια από την τελευταια πυρηνική έκρηξη – Πόσο θα κρατήσει;",
@@ -225,14 +217,6 @@
           "source": "In.gr"
         },
         {
-          "title": "Διακοπή κυκλοφορίας σε Κιλκίς, Σέρρες και Χαλκιδική λόγω έντονης βροχόπτωσης",
-          "link": "https://www.protothema.gr/greece/article/1763715/diakopi-kukloforias-se-kilkis-serres-kai-halkidiki-logo-edonis-vrohoptosis/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 18:15:05 +0200",
-          "description": "Ποιους δρόμους έκλεισε η Τροχαία",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2024-12-26/troxaia-diakopi.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
           "title": "Έκρηξη στη βιομηχανία «Βιολάντα»: «Είχε τρία παιδιά, είναι σε άθλια ψυχολογική κατάσταση» λέει η αδερφή εργαζόμενης που σκοτώθηκε",
           "link": "https://www.newsit.gr/ellada/ekriksi-sti-viomixania-violanta-eixe-tria-paidia-einai-se-athlia-psyxologiki-katastasi-leei-i-aderfi-ergazomenis-pou-skotothike/4584059/",
           "pubDate": "Mon, 26 Jan 2026 16:11:54 +0000",
@@ -246,6 +230,22 @@
           "pubDate": "Mon, 26 Jan 2026 16:11:15 +0000",
           "description": "Με άνοδο έκλεισαν οι τιμές των μετοχών σήμερα (26.1.2026) στην πρώτη συνεδρίαση της εβδομάδος στο Χρηματιστήριο Αθηνών, με την αγορά να επανέρχεται σε ανοδική τροχιά ...  \nTo άρθρο Χρηματιστήριο Αθηνών: Ανοδικό κλείσιμο, σε νέα υψηλά 16 ετών η αγορά δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xrimatistirio-eurokinissi.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ολυμπιακός: Ο Αντρέ Λουίς βάζει τα ερυθρόλευκα, ολοκληρώνεται η μετεγγραφή του από την Ριό Άβε",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-o-antre-louis-vazei-ta-erythroleyka-oloklironetai-i-meteggrafi-tou-apo-tin-rio-ave/4584062/",
+          "pubDate": "Mon, 26 Jan 2026 16:09:47 +0000",
+          "description": "Παίκτης του Ολυμπιακού θα πρέπει να θεωρείται ο Αντρέ Λουίς, με τους ερυθρόλευκους να κάνουν δικό τους τον 23χρονο Βραζιλιάνο εξτρέμ από τη Ρίο Άβε. ...  \nTo άρθρο Ολυμπιακός: Ο Αντρέ Λουίς βάζει τα ερυθρόλευκα, ολοκληρώνεται η μετεγγραφή του από την Ριό Άβε δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/andreluiz-1200x842.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Στην εντατική του Παίδων «Αγλαΐα Κυριακού» βρέφος 3 μηνών με εποχική λοίμωξη του αναπνευστικού",
+          "link": "https://www.newsit.gr/ellada/stin-entatiki-tou-paidon-aglaia-kyriakou-vrefos-3-minon-me-epoxiki-loimoksi-tou-anapneystikou/4584061/",
+          "pubDate": "Mon, 26 Jan 2026 16:09:41 +0000",
+          "description": "Σοβαρή ανησυχία προκαλεί το νέο περιστατικό που καταγράφηκε στη χθεσινή (25.01.2026) εφημερία του Παίδων «Αγλαΐα Κυριακού». Στο νοσοκομείο εισήχθη βρέφος μόλις 3 μηνών με συμπτώματα ...  \nTo άρθρο Στην εντατική του Παίδων «Αγλαΐα Κυριακού» βρέφος 3 μηνών με εποχική λοίμωξη του αναπνευστικού δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-525734880-1200x856.jpg",
           "source": "NewsIT"
         }
       ]
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "«Ενδιαφέρεται για Ουλίσες Γκαρσία ο Παναθηναϊκός»",
+          "link": "https://panathinaikos24.gr/2026/01/26/617855/endiaferetai-gia-oulises-gkarsia-o-panathinaikos/",
+          "pubDate": "Mon, 26 Jan 2026 17:32:25 +0000",
+          "description": "Το δημοσίευμα που εμπλέκει Παναθηναϊκό και Ουλίσες Γκαρσία.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/garcia1.jpg?fit=680%2C460&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Έβερτον – Λιντς με «Ενίσχυση» στα Ζαχαρωτά",
           "link": "https://panathinaikos24.gr/2026/01/26/617849/everton-lints-me-enisxysi-sta-zaxarota/",
           "pubDate": "Mon, 26 Jan 2026 16:45:27 +0000",
@@ -1183,14 +1191,6 @@
           "description": "Ένα ακόμη πρόβλημα τραυματισμού ήρθε να προστεθεί για τον Παναθηναϊκό.\nThe post Ανησυχία με Τσιριβέγια στον Παναθηναϊκό! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Δεσύλλας: «Μπερδεμένος και χωρίς ταυτότητα ο Παναθηναϊκός, συνεχίζει να ψάχνεται ο Μπενίτεθ – Μοναδικό κέρδος ο Σάντσες»",
-          "link": "https://panathinaikos24.gr/2026/01/26/617775/desyllas-mperdemenos-kai-xoris-taytotita-o-panathinaikos-synexizei-na-psaxnetai-o-mpeniteth-monadiko-kerdos-o-santses/",
-          "pubDate": "Mon, 26 Jan 2026 10:42:04 +0000",
-          "description": "Όσα ανέφερε ο ρεπόρτερ του Παναθηναϊκού.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5004875.jpg?fit=900%2C601&amp;ssl=1",
-          "source": "Panathinaikos24"
         },
         {
           "title": "Παίρνει… σκούπα ο Μπενίτεθ το καλοκαίρι στον Παναθηναϊκό!",
