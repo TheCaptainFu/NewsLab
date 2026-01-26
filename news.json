@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T11:50:29.567Z",
+  "lastUpdated": "2026-01-26T11:55:28.854Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,38 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ασφαλισμένη η τρικαλινή μπισκοτοποιία Βιολάντα – Σε εξέλιξη οι εκτιμήσεις των ζημιών και η έρευνα για τα αίτια ",
+          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/asfalismeni-i-trikalini-mpiskotopoiia-violanta-se-ekseliksi-oi-ektimiseis-ton-zimion-kai-i-ereyna-gia-ta-aitia/4583775/",
+          "pubDate": "Mon, 26 Jan 2026 11:52:37 +0000",
+          "description": "Πλήρως ασφαλισμένο ήταν το εργοστάσιο μπισκότων της Βιολάντα στην Εθνική Οδό Τρικάλων – Καρδίτσας, το οποίο καταστράφηκε ολοσχερώς έπειτα από τη μεγάλη έκρηξη και την ...  \nTo άρθρο Ασφαλισμένη η τρικαλινή μπισκοτοποιία Βιολάντα – Σε εξέλιξη οι εκτιμήσεις των ζημιών και η έρευνα για τα αίτια  δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio-4.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ξεκινά την Τρίτη 27/1 η 110η Σύνοδος Πρυτάνεων,  θα δοθεί έμφαση στον ψηφιακό μετασχηματισμό των Πανεπιστημίων",
+          "link": "https://www.protothema.gr/greece/article/1763535/xekina-tin-triti-271-i-110i-sunodos-prutaneon/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 13:51:00 +0200",
+          "description": "Για την ενδυνάμωση της γυναικείας παρουσίας στην ακαδημαϊκή ηγεσία, θα πραγματοποιηθεί η 2η Συνάντηση Γυναικών Πρυτάνεων και Αντιπρυτάνεων",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-02/panepistimiadiagrafes-mkt.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Εικόνες από drone δείχνουν την καταστροφή μετά την έκρηξη στο εργοστάσιο της Βιολάντα\n\n",
+          "link": "https://www.protothema.gr/greece/article/1763522/eikones-apo-drone-deihnoun-tin-katastrofi-meta-tin-ekrixi-sto-ergostasio-tis-violada/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 13:50:55 +0200",
+          "description": "Τέσσερις εργαζόμενες έχασαν τη ζωή τους και ακόμη μία αγνοείται -  Κομμάτια από τοίχους, πάνελ και μεταλλικές κατασκευές έχουν εκτοξευθεί σε μεγάλη ακτίνα γύρω από το κτίριο",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-26/ergostasio-violanta-foria-drone__3_.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Παπαθανάσης: Εγκρίθηκαν τα Περιφερειακά Προγράμματα Ανάπτυξης μέσω του ΕΠΑ 2026 – 2030",
+          "link": "https://www.newsit.gr/oikonomia/finance/papathanasis-egkrithikan-ta-perifereiaka-programmata-anaptyksis-meso-tou-epa-2026-2030/4583784/",
+          "pubDate": "Mon, 26 Jan 2026 11:50:28 +0000",
+          "description": "Τα Περιφερειακά Προγράμματα Ανάπτυξης (ΠΠΑ) Κεντρικής Μακεδονίας, Πελοποννήσου και Βορείου Αιγαίου, εγκρίθηκαν με αποφάσεις του Αναπληρωτή Υπουργού Εθνικής Οικονομίας και Οικονομικών, Νίκου Παπαθανάση, στο πλαίσιο ...  \nTo άρθρο Παπαθανάσης: Εγκρίθηκαν τα Περιφερειακά Προγράμματα Ανάπτυξης μέσω του ΕΠΑ 2026 – 2030 δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/papathanasis.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Σπάτα: Απεγκλωβίστηκε όχημα με δύο επιβαίνοντες που παρασύρθηκε από νερά ρέματος\n",
           "link": "https://www.protothema.gr/greece/article/1763523/sunagermos-sta-spata-ohima-me-duo-epivainodes-parasurthike-apo-rema-se-exelixi-epiheirisi-diasosis/?utm_source=rss",
@@ -215,38 +247,6 @@
           "description": "Ο Παναγιώτης Σαντής είναι κι επίσημα παίκτης του Ολυμπιακού, αφού υπέγραψε το νέο του συμβόλαιο με τους Πειραιώτες και παρουσιάστηκε ως νέος παίκτης της ακαδημίας ...  \nTo άρθρο Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Παναγιώτη Σαντή από το Βόλο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/santis-1-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Κυριάκος Μητσοτάκης: Επιστολική ψήφο για τους Έλληνες του εξωτερικού και στις εθνικές εκλογές",
-          "link": "https://www.newsit.gr/politikh/kyriakos-mitsotakis-epistoliki-psifo-gia-tous-ellines-tou-eksoterikou-kai-stis-ethnikes-ekloges/4583721/",
-          "pubDate": "Mon, 26 Jan 2026 10:54:53 +0000",
-          "description": "Τη θεσμική τομή της επιστολικής ψήφου των Ελλήνων του εξωτερικού στις εθνικές εκλογές του 2027 έθεσε στο επίκεντρο της εισήγησής του, το πρωί της Δευτέρας ...  \nTo άρθρο Κυριάκος Μητσοτάκης: Επιστολική ψήφο για τους Έλληνες του εξωτερικού και στις εθνικές εκλογές δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekloges-kalpi-1-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Δήμαρχος Μήλου: Έχουμε καταθέσει αίτηση αναστολής, θεωρώ ότι μέσα στη εβδομάδα θα έχουμε αποτέλεσμα και παρέμβαση του ΣτΕ",
-          "link": "https://www.protothema.gr/greece/article/1763479/dimarhos-milou-ehoume-katathesei-aitisi-anastolis-theoro-oti-mesa-sti-evdomada-tha-ehoume-paremvasi-tou-ste/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 12:52:00 +0200",
-          "description": "Δείτε το ρεπορτάζ του Mega για το οικολογικό έγκλημα στη Μήλο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/mylos2-xrm.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Βιολάντα: Το εργοστάσιο πριν και μετά την ολοκληρωτική καταστροφή",
-          "link": "https://www.newsit.gr/ellada/violanta-to-ergostasio-prin-kai-meta-tin-oloklirotiki-katastrofi/4583679/",
-          "pubDate": "Mon, 26 Jan 2026 10:51:03 +0000",
-          "description": "Τεράστια είναι η καταστροφή στο εργοστάσιο της εταιρείας μπισκότων «Βιολάντα» στα Τρίκαλα μετά την ισχυρή έκρηξη από την οποία προκλήθηκε μεγάλη φωτιά τα ξημερώματα της ...  \nTo άρθρο Βιολάντα: Το εργοστάσιο πριν και μετά την ολοκληρωτική καταστροφή δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/trikala-ergostasio.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Θεσσαλονίκη: Φυλάκιση 12 μηνών, με αναστολή, στους δύο νεαρούς που έτρεχαν με 179 χλμ./ώρα",
-          "link": "https://www.in.gr/2026/01/26/greece/thessaloniki-fylakisi-12-minon-anastoli-stous-dyo-nearous-pou-etrexan-179-xlm-ora/",
-          "pubDate": "Mon, 26 Jan 2026 13:49:21 +0300",
-          "description": "Οι νεαροί που έτρεχαν με υπερβολική ταχύτητα είχαν συλληφθεί τα ξημερώματα της Κυριακής",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/radar-768x542-2-768x542.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "ΝΔ: Αναβάλλονται όλες οι εκδηλώσεις του κόμματος έως την Τετάρτη λόγω της τραγωδίας στη «Βιολάντα»",
+          "link": "https://www.naftemporiki.gr/politics/2063925/nd-anavallontai-oles-oi-ekdiloseis-toy-kommatos-eos-tin-tetarti-logo-tis-tragodias-sti-violanta/?utm_source=rss&utm_medium=rss&utm_campaign=nd-anavallontai-oles-oi-ekdiloseis-toy-kommatos-eos-tin-tetarti-logo-tis-tragodias-sti-violanta",
+          "pubDate": "Mon, 26 Jan 2026 11:53:00 +0000",
+          "description": "Στην αναβολή όλων των προγραμματισμένων εκδηλώσεων προχωρά η Νέα Δημοκρατία, μέχρι και την Τετάρτη 28 Ιανουαρίου.\nΝΔ: Αναβάλλονται όλες οι εκδηλώσεις του κόμματος έως την Τετάρτη λόγω της τραγωδίας στη «Βιολάντα» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Τσίπρας για τα Τρίκαλα: «Η ασφάλεια στους χώρους δουλειάς δεν είναι πολυτέλεια, είναι θεμελιώδες δικαίωμα»",
           "link": "https://www.tanea.gr/2026/01/26/politics/tsipras-gia-ta-trikala-i-asfaleia-stoys-xoroys-doyleias-den-einai-polyteleia-einai-themeli/",
@@ -485,14 +493,6 @@
           "description": "Μια χιουμοριστική στιχομυθία εκτυλίχθηκε στα social media με φόντο το χιονοδρομικό κέντρο των Καλαβρύτων και πρωταγωνιστές έναν TikToker, τον πατέρα του και τον Κυριάκο Μητσοτάκη.\nΤο τρολάρισμα του Μητσοτάκη σε σκιέρ με «ανήσυχο» πατέρα στα Καλάβρυτα – «Γύρνα το σε snowboard» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Συνέδριο Νέας Αριστεράς: Συμβιβασμός μέχρι νεωτέρας",
-          "link": "https://www.tovima.gr/2026/01/25/politics/synedrio-neas-aristeras-symvivasmos-mexri-neoteras/",
-          "pubDate": "Sun, 25 Jan 2026 20:20:57 +0300",
-          "description": "Το κείμενο της πολιτικής απόφασης δεν έχει άμεση αναφορά στον Αλ. Τσίπρα, παρά μόνο έμμεση, ενώ δεν υπήρξε τελικά, μετά από πολύωρες συζητήσεις, ρητή αναφορά για μη συνεργασία μόνο με ένα ενδεχόμενο κόμμα υπό τον πρώην Πρωθυπουργό",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/25/xaritsis-1024x683.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -755,6 +755,14 @@
           "source": "Gazzetta"
         },
         {
+          "title": "Ο «άνθρωπος-spiderman» που σκαρφάλωσε live στο Netflix σε πύργο 500 μέτρων αποκάλυψε το «ντροπιαστικό» ποσό που πήρε",
+          "link": "https://www.gazzetta.gr/plus/2510299/o-anthropos-spiderman-poy-skarfalose-live-sto-netflix-se-pyrgo-500-metron-apokalypse",
+          "pubDate": "Mon, 26 Jan 2026 13:49:04 +0200",
+          "description": "Ο Alex Honnold, ο άνθρωπος που σκαρφάλωσε σε ζωντανή μετάδοση του Netflix σε ουρανοξύστη ύψους 500 μέτρων αποκάλυψε λεπτομέρειες για την αμοιβή του.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/newsss.jpg?itok=rsrn-lVK",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Τζήμας: «Στη Μύκονο γράψαμε ιστορία και θέλουμε την καθιέρωση»",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510297/tzimas-sti-mykono-grapsame-istoria-kai-theloyme-tin-kathierosi",
           "pubDate": "Mon, 26 Jan 2026 13:40:24 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 11:50:58 +0200",
           "description": "H αυστριακή ομάδα δημοσίευσε τις πρώτες πραγματικές εικόνες του μονοθεσίου που θα φορά τον πρώτο δικό της κινητήρα στην ιστορία στη Formula 1.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/si2026012503041.jpg?itok=PVHpOk5K",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Γαλλική σφυρίχτρα στον... τελικό κόντρα στον Άγιαξ",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510269/olympiakos-galliki-sfyrihtra-ston-teliko-kontra-ston-agiax",
-          "pubDate": "Mon, 26 Jan 2026 11:47:51 +0200",
-          "description": "Η UEFA όρισε τους διαιτητές για την τελευταία αγωνιστική του League Phase του Champions League με τον Φρανσουά Λετεσιέ να είναι εκείνος που θα σφυρίξει το ματς του Ολυμπιακού.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/letesie.jpg?itok=DDHeKIMG",
           "source": "Gazzetta"
         }
       ]
