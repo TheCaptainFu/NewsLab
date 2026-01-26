@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T21:05:24.643Z",
+  "lastUpdated": "2026-01-26T21:10:30.164Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -129,7 +129,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Πρωτοβουλίες της Left στο Ευρωκοινοβούλιο για τη σύνταξη ψηφίσματος για την εξάλειψη των θανάτων στην εργασία",
+          "title": "Πρωτοβουλίες της Left στο Ευρωκοινοβούλιο για την εξάλειψη των θανάτων στην εργασία",
           "link": "https://www.in.gr/2026/01/26/politics/politiki-grammateia/protovoulies-tis-left-sto-eyrokoinovoulio-gia-ti-syntaksi-psifismatos-gia-tin-eksaleipsi-ton-thanaton-stin-ergasia/",
           "pubDate": "Mon, 26 Jan 2026 23:03:02 +0300",
           "description": "«Έχουν κάνει καθημερινότητα τον θάνατο στην εργασία», τονίζει ο Κώστας Αρβανίτης αντιπρόεδρος της Left, που έχει αναδείξει το ζήτημα των εργατικών δυστυχημάτων και των επαγγελματικών ασθενειών στην Ελλάδα και στην Ευρωπη. Ασκώντας σκληρή κριτική στην κυβέρνηση, η ευρωομάδα της Αριστεράς σηκώνει ψηλά το θέμα στο Ευρωκοινοβούλιο.",
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Γερμανία: Η εγγύτητα του Σρέντερ στη Ρωσία πυροδοτεί νέο κύμα αντιδράσεων",
+          "link": "http://gr.euronews.com/2026/01/26/germania-h-eggythta-toy-srenter-sth-rwsia-pyrodotei-neo-kyma-antidrasewn",
+          "pubDate": "Mon, 26 Jan 2026 22:00:51 +0100",
+          "description": "Η ανάρτηση της πρώην Καγκελαρίου για τον πόλεμο στην Ουκρανία προκαλεί έντονες επικρίσεις τόσο σε εθνικό όσο και σε ευρωπαϊκό επίπεδο",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "ΟΗΕ: «Εκατοντάδες μετανάστες έχασαν τη ζωή τους σε ναυάγια στη Μεσόγειο από την αρχή του 2026»",
           "link": "http://gr.euronews.com/2026/01/26/oie-ekatontades-metanastes-exasan-ti-zoi-toys-se-nayagia-mesogeio-apo-tin-arxi-toy-2026",
           "pubDate": "Mon, 26 Jan 2026 21:44:52 +0100",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/culture/2026/01/26/yorgos-papageorgiou-eimaste-poli-konta-pia-se-mia-esoteriki-kai-koinoniki-distopia",
           "pubDate": "Mon, 26 Jan 2026 14:54:15 +0100",
           "description": "Ο Γιώργος Παπαγεωργίου σκηνοθετεί και πρωταγωνιστεί στη θεατρική μεταφορά του «1984», του εμβληματικού μυθιστορήματος του Τζορτζ Όργουελ, που παρουσιάζεται στο θέατρο Δίπυλον",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Η Γερμανία καταγγέλλει την \"πεισματική επιμονή\" της Ρωσίας στις εδαφικές διεκδικήσεις της Ουκρανίας",
-          "link": "http://gr.euronews.com/2026/01/26/h-germania-kataggellei-thn-peismatikh-epimonh-ths-rwsias-stis-edafikes-diekdikhseis-ths",
-          "pubDate": "Mon, 26 Jan 2026 14:40:18 +0100",
-          "description": "Ο υπουργός Εξωτερικών της Γερμανίας Γιόχαν Βάντεφουλ επέκρινε την ακαμψία της Ρωσίας σε εδαφικά ζητήματα, προειδοποιώντας ότι οι ειρηνευτικές συνομιλίες στο Άμπου Ντάμπι ενδέχεται να παραταθούν.",
           "thumbnail": null,
           "source": "Euronews"
         }
