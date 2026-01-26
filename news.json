@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T06:15:28.876Z",
+  "lastUpdated": "2026-01-26T06:20:29.709Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -87,6 +87,14 @@
           "description": "Πολικό είναι το κύμα ψύχους πλήττει τις ΗΠΑ, με τουλάχιστον 11 ανθρώπους να έχουν χάσει τη ζωή τους στις χαμηλότερες θερμοκρασίες του φετινού χειμώνα, με ...  \nTo άρθρο Κακοκαιρία στις ΗΠΑ: Στο έλεος της χιονοκαταιγίδας Fern τουλάχιστον 37 πολιτείες – 11 νεκροί και 1.000.000 σπίτια χωρίς ρεύμα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/hpa-2-1.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Μαρόκο: Έχασε το τρόπαιο, άλλα κέρδισε πάρα πολλά λεφτά",
+          "link": "https://www.in.gr/2026/01/26/sports/football/maroko-exase-tropaio-alla-kerdise-para-polla-lefta/",
+          "pubDate": "Mon, 26 Jan 2026 08:15:56 +0300",
+          "description": "Περισσότερα από 1,5 δισ. ευρώ άμεσα έσοδα, 2,3 δισ. επενδύσεις και το 80% των υποδομών του Μουντιάλ 2030 έτοιμο – Πώς το CAN 2025 μετατράπηκε σε στρατηγικό όπλο ανάπτυξης και τουρισμού για το Μαρόκο.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/AYOUBAROS-1-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Ισοκράτης: Η παιδεία ως δύναμη του λόγου (Μέρος Θ’)",
@@ -239,14 +247,6 @@
           "description": "Η άνοδος της τιμής του φυσικού αερίου στην Ευρώπη τον τελευταίο μήνα εκτιμάται ότι θα ανεβάσει παράλληλα και τα τιμολόγια που θα κληθούν να πληρώσουν ...  \nTo άρθρο Κερδισμένοι όσοι διάλεξαν σταθερά συμβόλαια αερίου-ρεύματος δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/natural-gas-r-1210-scaled-1-1-1200x675-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Πλήθος νομοσχεδίων στο σημερινό Υπουργικό Συμβούλιο",
-          "link": "https://www.in.gr/2026/01/26/politics/mparaz-nomosxedion-sto-simerino-ypourgiko-symvoulio/",
-          "pubDate": "Mon, 26 Jan 2026 07:10:16 +0300",
-          "description": "Στο  Υπουργικό Συμβούλιο που συνεδριάζει υπό τον Κυριάκο Μητσοτάκη, θα συζητηθούν νομοσχέδια που καλύπτουν τομείς από τη στεγαστική πολιτική μέχρι τον ψηφιακό μετασχηματισμό της χώρας",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ipourgiko-1-1200x810-768x518.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Τρίκαλα: Μεγάλη πυρκαγιά σε μπισκοτοβιομηχανία - Πέντε γυναίκες αγνοούνται",
+          "link": "http://gr.euronews.com/2026/01/26/trikala-megalh-pyrkagia-ergostasio-mpiskoton-pente-gynaikes-agnooyntai",
+          "pubDate": "Mon, 26 Jan 2026 07:09:50 +0100",
+          "description": "Προηγήθηκε ισχυρότατη έκρηξη στο εργοστάσιο όπου υπήρχε νυχτερινή βάρδια - Οχτώ τραυματίες στο νοσοκομείο, ισχυρές δυνάμεις της πυροσβεστικής επιχειρούν",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Πρώην αεροσυνοδός κατηγορείται ότι απέσπασε δωρεάν πτήσεις από αεροπορικές. Πώς;",
           "link": "http://gr.euronews.com/travel/2026/01/26/a-former-flight-attendant-is-accused-of-deceiving-airlines-into-providing-him-with-free-fl",
           "pubDate": "Mon, 26 Jan 2026 07:03:20 +0100",
@@ -731,14 +739,6 @@
           "description": "«Τα συναισθήματά τους δεν είναι προς πώληση, ούτε από αμερικανικές πλατφόρμες ούτε από κινεζικούς αλγόριθμους» είπε ο Γάλλος Πρόεδρος - Σύμφωνα με κυβερνητική έκθεση, ένας στους δύο εφήβους ξοδεύει από 2 έως 5 ώρες τη μέρα στο smartphone του",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
-          "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 14:56:24 GMT",
-          "description": "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e80/live/be958110-f9d3-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -747,11 +747,27 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ευρωπαϊκό Πρωτάθλημα Πόλο: Πρεμιέρα με Σλοβακία για την εθνική γυναικών στο Φούντσαλ",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510068/eyropaiko-protathlima-polo-premiera-me-slobakia-gia-tin",
+          "pubDate": "Mon, 26 Jan 2026 08:15:12 +0200",
+          "description": "Η Ελλάδα κάνει πρεμιέρα στο ευρωπαϊκό πρωτάθλημα πόλο γυναικών με τη Σλοβακία στο Φούνταλ της Πορτογαλίας, όπου γεννήθηκε ο Κριστιάνο Ρονάλντο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/women_water_polo.jpg?itok=ZkKiQO8z",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Πρόγραμμα Τηλεόρασης: Όλοι οι αγώνες και οι αθλητικές μεταδόσεις σήμερα (26/1)",
           "link": "https://www.gazzetta.gr/2510233/programma-tileorasis-oloi-oi-agones-kai-oi-athlitikes-metadoseis-simera-261",
           "pubDate": "Mon, 26 Jan 2026 08:11:13 +0200",
           "description": "Δείτε στον τηλεοπτικό οδηγό του Gazzetta ώρες και κανάλια για την πλούσια αθλητική δράση της ημέρας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/sociedad_girona.jpg?itok=7L9eM6P0",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τέλος στη «συγγνώμη»: Η λέξη-κλειδί του Στιβ Τζομπς που δείχνει ανώτερο EQ",
+          "link": "https://www.gazzetta.gr/plus/2510234/telos-sti-syggnomi-i-lexi-kleidi-toy-stib-tzomps-poy-deihnei-anotero-eq",
+          "pubDate": "Mon, 26 Jan 2026 08:09:55 +0200",
+          "description": "Γιατί οι πετυχημένοι ηγέτες σταματούν να ζητούν συγγνώμη για ασήμαντα πράγματα;",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-01/stevejobs.jpg?itok=czwdgnmb",
           "source": "Gazzetta"
         },
         {
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 23:09:44 +0200",
           "description": "Η αναμέτρηση ανάμεσα σε Σαραγόσα και Καστεγιόν διεκόπη για περίπου πέντε λεπτά, λόγω τραυματισμού οπαδού από... τραπέζι που πήρε ο αέρας!",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/zaragoza.jpg?itok=b8wBRIWF",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σερβία – Ουγγαρία 10-7: Κατέκτησαν το χρυσό μετάλλιο στο ευρωπαϊκό πρωτάθλημα πόλο ανδρών οι Σέρβοι",
-          "link": "https://www.newsit.gr/athlitika/servia-ouggaria-10-7-katektisan-to-xryso-metallio-sto-eyropaiko-protathlima-polo-andron-oi-servoi/4583309/",
-          "pubDate": "Sun, 25 Jan 2026 21:04:38 +0000",
-          "description": "Μετά από ένα μεγάλο ντέρμπι στον τελικό, η Σερβία κατάφερε να “λυγίσει” με 10-7 την Ουγγαρία και να κατακτήσει την πρώτη θέση και το χρυσό ...  \nTo άρθρο Σερβία – Ουγγαρία 10-7: Κατέκτησαν το χρυσό μετάλλιο στο ευρωπαϊκό πρωτάθλημα πόλο ανδρών οι Σέρβοι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/serbia-1200x838.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η χώρα που αναζητά σεφ για το καλοκαίρι του 2026: Μισθοί έως 2.800 ευρώ και διαμονή",
-          "link": "https://www.gazzetta.gr/plus/2510139/i-hora-poy-anazita-sef-gia-kalokairi-toy-2026-misthoi-eos-2800-eyro-kai-diamoni",
-          "pubDate": "Sun, 25 Jan 2026 22:59:59 +0200",
-          "description": "Ξενοδοχειακό συγκρότημα στη Σουηδία προσφέρει εποχική εργασία σε έμπειρους σεφ à la carte για το καλοκαίρι του 2026, με μισθό περίπου 2.800 ευρώ και παροχή διαμονής.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2025-11/chef.jpg.jpg?itok=_wIQ7aqh",
           "source": "Gazzetta"
         }
       ]
