@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T23:00:41.659Z",
+  "lastUpdated": "2026-01-26T23:05:53.757Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο Τραμπ βάζει δασμούς 25% σε εισαγωγές από τη Νότια Κορέα",
+          "link": "https://www.newsit.gr/kosmos/o-tramp-vazei-dasmous-25-se-eisagoges-apo-ti-notia-korea/4584268/",
+          "pubDate": "Mon, 26 Jan 2026 23:03:10 +0000",
+          "description": "Στο 25% αυξάνει ο Ντόναλντ Τραμπ, τους δασμούς σε εισαγωγές στις ΗΠΑ από τη Νότια Κορέα. Πρόκειται για αυτοκίνητα, ξυλεία και φαρμακευτικά προϊόντα, όπως έγινε ...  \nTo άρθρο Ο Τραμπ βάζει δασμούς 25% σε εισαγωγές από τη Νότια Κορέα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/donald-trump-tarrifs-27012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Γιάννης Κεφαλογιάννης για «Βιολάντα»: Πιθανόν την Τρίτη να έχουμε μία πρώτη εικόνα για τα αίτια της έκρηξης",
           "link": "https://www.newsit.gr/politikh/giannis-kefalogiannis-gia-violanta-pithanon-tin-triti-na-exoume-mia-proti-eikona-gia-ta-aitia-tis-ekriksis/4584265/",
@@ -23,6 +31,14 @@
           "description": "Στην περιοχή κλιμάκιο της Διεύθυνσης Αντιμετώπισης Εγκλημάτων Εμπρησμού για τη διερεύνηση των αιτίων της έκρηξης και της πυρκαγιάς στο εργοστάσιο Βιολάντα",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/kefalogiannis_giannis.jpg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Αυτοκίνητο: Η Γερμανία επαναφέρει την επιδότηση 3 δισ. ευρώ για τα ηλεκτρικά οχήματα",
+          "link": "https://www.in.gr/2026/01/27/economy/diethnis-oikonomia/aytokinito-germania-epanaferei-tin-epidotisi-3-dis-eyro-gia-ta-ilektrika-oximata/",
+          "pubDate": "Tue, 27 Jan 2026 01:00:54 +0300",
+          "description": "Το μέτρο έχει αναδρομική ισχύ από την 1η Ιανουαρίου. Στοχεύει σε νοικοκυριά χαμηλότερου και μεσαίου εισοδήματος και αναμένεται να χρηματοδοτήσει την αγορά 800.000 ηλεκτρικών οχημάτων έως το 2029.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/markus-spiske-IS5ypTDKZSk-unsplash-768x515.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Το βλέμμα του Βενσάν Κασέλ στην Κάρλα Μπρούνι που έγινε viral",
@@ -230,22 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 20:40:09 +0000",
           "description": "Ο Ένζο Άλβες, γιος του θρυλικού αριστερού μπακ της Ρεάλ Μαδρίτης, Μαρσέλο, υπέγραψε επαγγελματικό συμβόλαιο με τη “βασίλισσα”. Οι άνθρωποι του συλλόγου θεωρούν τον 16χρονο ...  \nTo άρθρο Ο γιος του Μαρσέλο, Ένζο Άλβες, υπέγραψε επαγγελματικό συμβόλαιο με τη Ρεάλ Μαδρίτης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marcelo-reuters.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Έκρηξη στη βιομηχανία «Βιολάντα»: Η τελευταία φωτογραφία των γυναικών που σκοτώθηκαν στην τραγωδία στα Τρίκαλα",
-          "link": "https://www.newsit.gr/ellada/ekriksi-sti-viomixania-violanta-i-teleytaia-fotografia-ton-gynaikon-pou-skotothikan-stin-tragodia-sta-trikala/4584217/",
-          "pubDate": "Mon, 26 Jan 2026 20:38:09 +0000",
-          "description": "Σε κοντινή απόσταση μεταξύ τους βρέθηκαν οι σοροί των πέντε γυναικών που έχασαν τραγικά τη ζωή τους στο εργοστάσιο «Βιολάντα» στα Τρίκαλα, μετά από έκρηξη ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: Η τελευταία φωτογραφία των γυναικών που σκοτώθηκαν στην τραγωδία στα Τρίκαλα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-thumata-gunaikes-1-1200x693.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σικελία: Πάνω από 1000 κάτοικοι αναγκάστηκαν να εγκαταλείψουν τα σπίτια τους λόγω κατολίσθησης",
-          "link": "https://www.newsit.gr/kosmos/sikelia-pano-apo-1000-katoikoi-anagkastikan-na-egkataleipsoun-ta-spitia-tous-logo-katolisthisis/4584230/",
-          "pubDate": "Mon, 26 Jan 2026 20:36:37 +0000",
-          "description": "Εξαιτίας κατολίσθησης που σημειώθηκε στην κωμόπολη Νισέμι, στην ανατολική Σικελία, πάνω από χίλιοι κάτοικοι αναγκάσθηκαν να εγκαταλείψουν τα σπίτια τους. Το πρωτοφανές κύμα κακοκαιρίας που ...  \nTo άρθρο Σικελία: Πάνω από 1000 κάτοικοι αναγκάστηκαν να εγκαταλείψουν τα σπίτια τους λόγω κατολίσθησης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/katolisthisi-1200x801.jpg",
           "source": "NewsIT"
         }
       ]
