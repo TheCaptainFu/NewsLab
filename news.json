@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T03:45:31.451Z",
+  "lastUpdated": "2026-01-26T03:50:29.985Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,7 +9,15 @@
       "color": "red",
       "articles": [
         {
-          "title": "Συναγερμός στα Τρίκαλα λόγω μεγάλης πυρκαγιάς σε γνωστό εργοστάσιο την ώρα της νυχτερινής βάρδιας",
+          "title": "Στοιχήματα για πραξικοπήματα, ανατροπές και δολοφονίες – Μια επικίνδυνη μόδα για τη δημοκρατία",
+          "link": "https://www.in.gr/2026/01/26/world/stoiximata-gia-praksikopimata-anatropes-kai-dolofonies-mia-epikindyni-moda-gia-ti-dimokratia/",
+          "pubDate": "Mon, 26 Jan 2026 05:45:40 +0300",
+          "description": "Το πρόβλημα με τα στοιχήματα σε γεωπολιτικά γεγονότα είναι πως ο κόσμος, όχι μόνο θα ποντάρει στη δυστυχία, αλλά θα αποφασίζει γι΄αυτή, καθιστώντας τις δημόσιες υπηρεσίες διεφθαρμένες.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/stoiximata-praxikopimata-dolofonies-in.gr_-768x531.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Συναγερμός στα Τρίκαλα: Φόβοι για νεκρούς λόγω μεγάλης πυρκαγιάς σε γνωστό εργοστάσιο την ώρα της βάρδιας",
           "link": "https://www.in.gr/2026/01/26/greece/synagermos-sta-trikala-logo-megali-pyrkagias-se-gnosto-ergostasio-tin-ora-tis-nyxterinis-vardias/",
           "pubDate": "Mon, 26 Jan 2026 05:12:04 +0300",
           "description": "Πυρκαγιά ξέσπασε στη διάρκεια της νυχτερινής βάρδιας στο εργοστάσιο Βιολάντα, στα Τρίκαλα, και έχει σημάνει συναγερμός, ενώ οι πυροσβεστικές δυνάμεις δίνουν μεγάλη μάχη για να τη θέσουν υπό έλεγχο.",
@@ -239,14 +247,6 @@
           "description": "Συγκινητικές στιγμές στο Βελιγράδι για την Εθνική ομάδα πόλο κατά την απονομή των χάλκινων μεταλλίων για την 3η θέση στο Ευρωπαϊκό Πρωτάθλημα.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6825540-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Βραζιλία: Κεραυνός χτύπησε διαδήλωση υπέρ του Μπολσονάρο και τραυμάτισε 30 ανθρώπους",
-          "link": "https://www.newsit.gr/kosmos/vrazilia-keraynos-xtypise-diadilosi-yper-tou-mpolsonaro-kai-traymatise-30-anthropous/4583313/",
-          "pubDate": "Sun, 25 Jan 2026 20:57:36 +0000",
-          "description": "Τουλάχιστον 30 άνθρωποι τραυματίστηκαν όταν κεραυνός έπληξε τη διαδήλωση υποστηρικτών του ακροδεξιού πρώην προέδρου Ζαΐχ Μπολσονάρο στην Βραζιλία, ανακοίνωσε η πυροσβεστική υπηρεσία. Χιλιάδες διαδηλωτές είχαν ...  \nTo άρθρο Βραζιλία: Κεραυνός χτύπησε διαδήλωση υπέρ του Μπολσονάρο και τραυμάτισε 30 ανθρώπους δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/brazil-politics-protest.jpg",
-          "source": "NewsIT"
         }
       ]
     },
