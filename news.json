@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T14:35:30.385Z",
+  "lastUpdated": "2026-01-26T14:40:29.054Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,12 +9,36 @@
       "color": "red",
       "articles": [
         {
+          "title": "Έκρηξη στο εργοστάσιο «Βιολάντα»: «Η επιθεώρηση εργασίας είναι από την πρώτη στιγμή στον τόπο της τραγωδίας» δήλωσε ο Κώστας Καραγκούνης",
+          "link": "https://www.newsit.gr/ellada/ekriksi-sto-ergostasio-violanta-i-epitheorisi-ergasias-einai-apo-tin-proti-stigmi-ston-topo-tis-tragodias-dilose-o-kostas-karagkounis/4583966/",
+          "pubDate": "Mon, 26 Jan 2026 14:38:21 +0000",
+          "description": "Στον τόπο της τραγωδίας στο εργοστάσιο της «Βιολάντα» στα Τρίκαλα βρίσκεται από το πρωί της Δευτέρας (26.1.26) κλιμάκιο της επιθεώρησης εργασίας, όπως δήλωσε ο υφυπουργός ...  \nTo άρθρο Έκρηξη στο εργοστάσιο «Βιολάντα»: «Η επιθεώρηση εργασίας είναι από την πρώτη στιγμή στον τόπο της τραγωδίας» δήλωσε ο Κώστας Καραγκούνης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ergostasio-trikala-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Άνδρας στην Κω νόμιζε ότι έβγαινε ραντεβού με ανήλικη, αλλά του είχαν στήσει παγίδα και τον έδειραν",
+          "link": "https://www.protothema.gr/greece/article/1763636/andras-stin-ko-nomize-oti-evgaine-radevou-alla-tou-eihan-stisei-pagida-kai-ton-edeiran/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 16:38:00 +0200",
+          "description": "Το θύμα του ξυλοδαρμού είχε έρθει σε επαφή μέσω διαδικτύου με την ανήλικη",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2023-03-26/ksylodarmos.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
           "title": "Παυλόπουλος : Μνήμες και διδάγματα από το Ολοκαύτωμα των Ελλήνων Εβραίων",
           "link": "https://www.protothema.gr/greece/article/1763614/paulopoulos/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 16:34:56 +0200",
           "description": "Η ομιλία πραγματοποιήθηκε στην Θεσσαλονίκη με πρωτοβουλία της Ισραηλιτικής Κοινότητας - Ομιλία και στην Αίγινα  για τον Ιωάννη Καποδίστρια",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/2025-01-24_%CE%B1%CE%B9%CE%B3%CE%B9%CE%BD%CE%B1_%CE%BA%CE%B1%CF%80%CE%BF%CE%B4%CE%B9%CF%83%CF%84%CF%81%CE%B9%CE%B1%CF%83.jpg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Εξεταστική ΟΠΕΚΕΠΕ: Βαριές καταγγελίες από την πρώην αντιπρόεδρο, Δήμητρα Χαλικιά – Τι είπε για Βορίδη, Βάρρα, Σημανδράκο και Τυχεροπούλου",
+          "link": "https://www.newsit.gr/politikh/eksetastiki-opekepe-varies-kataggelies-apo-tin-proin-antiproedro-dimitra-xalikia-ti-eipe-gia-voridi-varra-simandrako-kai-tyxeropoulou/4583958/",
+          "pubDate": "Mon, 26 Jan 2026 14:34:15 +0000",
+          "description": "Για ένα «διαχρονικό και συστημικό φαινόμενο, με κοινό παρανομαστή την ανεμπόδιστη σύγκρουση συμφερόντων» έκανε λόγο η πρώην β’ αντιπρόεδρος του ΟΠΕΚΕΠΕ, Δήμητρα Χαλικιά, καταθέτοντας τη ...  \nTo άρθρο Εξεταστική ΟΠΕΚΕΠΕ: Βαριές καταγγελίες από την πρώην αντιπρόεδρο, Δήμητρα Χαλικιά – Τι είπε για Βορίδη, Βάρρα, Σημανδράκο και Τυχεροπούλου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eksetastiki-opekepe-1200x800.jpg",
+          "source": "NewsIT"
         },
         {
           "title": "Έκρηξη σε διαμέρισμα στους Αγίους Αναργύρους: Ξηλώθηκαν πόρτες και παράθυρα",
@@ -93,7 +117,7 @@
           "link": "https://www.newsit.gr/ellada/ekriksi-sti-viomixania-violanta-vrethike-i-soros-kai-tis-pemptis-ergatrias-pou-skotothike-sto-ergostasio-sta-trikala/4583948/",
           "pubDate": "Mon, 26 Jan 2026 14:09:14 +0000",
           "description": "Τραγικός είναι ο επίλογος και για την πέμπτη εργαζόμενη που αγνοούνταν μετά την έκρηξη και τη φωτιά στο εργοστάσιο της βιομηχανίας «Βιολάντας» στα Τρίκαλα. Πέντε ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: Βρέθηκε η σορός και της πέμπτης εργάτριας που σκοτώθηκε στο εργοστάσιο στα Τρίκαλα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fotia-trikala-violanta.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gunaikes-violanta-2-1200x746.jpg",
           "source": "NewsIT"
         },
         {
@@ -217,36 +241,12 @@
           "source": "NewsIT"
         },
         {
-          "title": "Παναθηναϊκός: Μαγνητική για τον Τσιριβέγια, εκτός με ίωση ο Καλάμπρια",
-          "link": "https://www.newsit.gr/athlitika/panathinaikos-magnitiki-gia-ton-tsirivegia-ektos-me-iosi-o-kalampria/4583888/",
-          "pubDate": "Mon, 26 Jan 2026 13:32:10 +0000",
-          "description": "Ο Παναθηναϊκός καλείται να αφήσει πίσω του τον αγώνα με τον Ατρόμητο στη Super League, καθώς ακολουθεί η αναμέτρηση με τη Ρόμα στο Europa League, ...  \nTo άρθρο Παναθηναϊκός: Μαγνητική για τον Τσιριβέγια, εκτός με ίωση ο Καλάμπρια δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kalabria-chirivella-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η Άμπερ Χερντ σπάει τη σιωπή της για τη διαμάχη με τον Τζόνι Ντεπ στο ντοκιμαντέρ Silenced: «Έχω χάσει την ικανότητά μου να μιλάω»",
-          "link": "https://www.newsit.gr/lifestyle/i-amper-xernt-spaei-ti-siopi-tis-gia-ti-diamaxi-me-ton-tzoni-ntep-sto-ntokimanter-silenced-exo-xasei-tin-ikanotita-mou-na-milao/4583885/",
-          "pubDate": "Mon, 26 Jan 2026 13:28:47 +0000",
-          "description": "Μία σπάνια δήλωση σχετικά με τις δικαστικές διαμάχες που είχε με τον πρώην σύζυγό της, Τζόνι Ντεπ, στο πλαίσιο νέου ντοκιμαντέρ έκανε η Άμπερ Χερντ. ...  \nTo άρθρο Η Άμπερ Χερντ σπάει τη σιωπή της για τη διαμάχη με τον Τζόνι Ντεπ στο ντοκιμαντέρ Silenced: «Έχω χάσει την ικανότητά μου να μιλάω» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/actor-amber-heard.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": " Θρασύτατη ληστεία σε σούπερ μάρκετ στον Βόλο, ο δράστης απείλησε με μαχαίρι τον ιδιοκτήτη\n",
-          "link": "https://www.protothema.gr/greece/article/1763593/thrasutati-listeia-se-souper-market-ston-volo-o-kleftis-apeilise-me-mahairi-ton-idioktiti/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 15:27:53 +0200",
-          "description": "Ο δράστης εισέβαλε στο κατάστημα για να κλέψει μπουκάλια με ουίσκι",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-10-22/astynomia_peripoliko.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ένοπλες Δυνάμεις: Το ελληνικό αντι-drone σύστημα «Κένταυρος» αναπτύσσεται σε πλοία, βάσεις και εξοπλισμούς",
-          "link": "https://www.newsit.gr/ellada/enoples-dynameis-to-elliniko-anti-drone-systima-kentayros-anaptyssetai-se-ploia-vaseis-kai-eksoplismous/4583868/",
-          "pubDate": "Mon, 26 Jan 2026 13:27:37 +0000",
-          "description": "Ένα από τα «διαμάντια» της ελληνικής αμυντικής βιομηχανίας, το σύστημα αντιμετώπισης εχθρικών drones τύπου «Κένταυρος» έχει αποδείξει την αξία του στο πεδίο και πλέον οι ...  \nTo άρθρο Ένοπλες Δυνάμεις: Το ελληνικό αντι-drone σύστημα «Κένταυρος» αναπτύσσεται σε πλοία, βάσεις και εξοπλισμούς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kentayros-onalert-2-1200x804.jpg",
-          "source": "NewsIT"
+          "title": "Γάζα: Το Ισραήλ ανακοίνωσε ότι ανέκτησε τα λείψανα του τελευταίου ομήρου της Χαμάς",
+          "link": "https://www.in.gr/2026/01/26/world/gaza-israil-anakoinose-oti-anektise-ta-leipsana-tou-teleytaiou-omirou-tis-xamas/",
+          "pubDate": "Mon, 26 Jan 2026 16:36:11 +0300",
+          "description": "Ο ισραηλινός στρατός ανακοίνωσε ότι έχει ανακτήσει και την τελευταία σορό ομήρου, από την επίθεση της Χαμάς στο Ισραήλ στις 7 Οκτωβρίου 2023. Πρόκειται για τον επιλοχία Ραν Γκβίλι.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T140103Z_439040894_RC2QBIACYXUW_RTRMADP_5_ISRAEL-PALESTINIANS-GAZA-HOSTAGES-768x512.jpg",
+          "source": "In.gr"
         }
       ]
     },
@@ -835,7 +835,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Σάκοτα: «Ζούμε για τη στιγμή, που θα έχουμε sold out ή σχεδόν sold out σε κάθε αγώνα»",
+          "title": "Σάκοτα: «Ελάτε στο γήπεδο, να προλάβουμε τις εξελίξεις»!",
           "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510339/sakota-zoyme-gia-ti-stigmi-poy-tha-ehoyme-sold-out-i",
           "pubDate": "Mon, 26 Jan 2026 16:06:21 +0200",
           "description": "Κάλεσμα στον κόσμο, με μια μακροσκελή τοποθέτηση στο επίσημο site της ΑΕΚ έκανε ο Ντράγκαν Σάκοτα, ενόψει του παιχνιδιού με την Άλμπα Βερολίνου (28/01, 19:00).",
