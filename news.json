@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T16:05:25.058Z",
+  "lastUpdated": "2026-01-26T16:10:27.303Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,46 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βρεφονηπιακοί σταθμοί: Η αναμονή που «παγώνει» τον οικογενειακό προγραμματισμό, ποιες μπορεί να είναι οι μόνιμες λύσεις",
+          "link": "https://www.protothema.gr/greece/article/1763669/vrefonipiakoi-stathmoi-i-anamoni-pou-pagonei-ton-oikogeneiako-programmatismo-poies-borei-na-einai-oi-monimes-luseis/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 18:10:00 +0200",
+          "description": "Τι συμβαίνει, όταν οι καθυστερήσεις στις πληρωμές από την ΕΕΤΑΑ είναι επαναλαμβανόμενες; Απαντά ο Παναγιώτης Μ. Ευαγγελίου, Μηχανολόγος Μηχανικός, εξειδικευμένος σύμβουλος σε θέματα αδειοδότησης βρεφονηπιακών σταθμών",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/panagiotis_evaggeliou_main_pic.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Ολυμπιακός: Ο Αντρέ Λουίς βάζει τα ερυθρόλευκα, ολοκληρώνεται η μετεγγραφή του από την Ριό Άβε",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-o-antre-louis-vazei-ta-erythroleyka-oloklironetai-i-meteggrafi-tou-apo-tin-rio-ave/4584062/",
+          "pubDate": "Mon, 26 Jan 2026 16:09:47 +0000",
+          "description": "Παίκτης του Ολυμπιακού θα πρέπει να θεωρείται ο Αντρέ Λουίς, με τους ερυθρόλευκους να κάνουν δικό τους τον 23χρονο Βραζιλιάνο εξτρέμ από τη Ρίο Άβε. ...  \nTo άρθρο Ολυμπιακός: Ο Αντρέ Λουίς βάζει τα ερυθρόλευκα, ολοκληρώνεται η μετεγγραφή του από την Ριό Άβε δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/andreluiz-1200x842.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Στην εντατική του «Αγλαΐα Κυριακού» βρέφος 3 μηνών με συμπτώματα RSV",
+          "link": "https://www.newsit.gr/ellada/stin-entatiki-tou-aglaia-kyriakou-vrefos-3-minon-me-symptomata-rsv/4584061/",
+          "pubDate": "Mon, 26 Jan 2026 16:09:41 +0000",
+          "description": "Σοβαρή ανησυχία προκαλεί το νέο περιστατικό που καταγράφηκε στη χθεσινή (25.01.2026) εφημερία του Παίδων «Αγλαΐα Κυριακού». Στο νοσοκομείο εισήχθη βρέφος μόλις 3 μηνών με συμπτώματα ...  \nTo άρθρο Στην εντατική του «Αγλαΐα Κυριακού» βρέφος 3 μηνών με συμπτώματα RSV δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-525734880-1200x856.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Διάσωση από αυτοκίνητο στο ρέμα Βάρδα που υπερχείλισε, δείτε βίντεο",
+          "link": "https://www.protothema.gr/greece/article/1763706/diasosi-apo-autokinito-apo-to-rema-varda-pou-uperheilise-deite-video/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 18:07:45 +0200",
+          "description": "Οι βροχοπτώσεις είχαν σαν αποτέλεσμα να υπερχειλίσει το ρέμα Βάρδα, μεταξύ Πικερμίου και Σπάτων",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-pikeri.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Η Εριέττα Κούρκουλου ανακοίνωσε το κλείσιμο του πρώτου ανεξάρτητου κέντρου τοκετού στην Ελλάδα: Είναι μία προσωπική μου αποτυχία",
+          "link": "https://www.newsit.gr/ellada/i-erietta-kourkoulou-anakoinose-to-kleisimo-tou-protou-aneksartitou-kentrou-toketou-stin-ellada-einai-mia-prosopiki-mou-apotyxia/4584036/",
+          "pubDate": "Mon, 26 Jan 2026 16:06:57 +0000",
+          "description": "Η Εριέττα Κούρκουλου και είναι ιδιαίτερα ευαισθητοποιημένη σχετικά με σοβαρά κοινωνικά ζητήματα. Μάλιστα, είχε ανοίξει και το πρώτο ανεξάρτητο κέντρο τοκετού στην Ελλάδα. Το απόγευμα ...  \nTo άρθρο Η Εριέττα Κούρκουλου ανακοίνωσε το κλείσιμο του πρώτου ανεξάρτητου κέντρου τοκετού στην Ελλάδα: Είναι μία προσωπική μου αποτυχία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/erietta-kourkoulou-ndp-1200x689.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Βιολάντα: Πάνω από 1.000 βαθμοί Κελσίου στο εργοστάσιο εξαιτίας της φωτιάς - Τι εξετάζεται για τα αίτια της τραγωδίας",
           "link": "https://www.protothema.gr/greece/article/1763649/violada-pano-apo-1000-vathmous-kelsiou-sto-ergostasio-exaitias-tis-fotias-ti-exetazetai-gia-ta-aitia-tis-tragodias/?utm_source=rss",
@@ -207,46 +247,6 @@
           "description": "Τον «τσάρο» των συνόρων, Τομ Χόμαν στέλνει στη Μινεσότα ο Αμερικανός πρόεδρος, Ντόναλντ Τραμπ, ο οποίος πιέζεται έντονα ακόμη και από Ρεπουμπλικάνους βουλευτές και γερουσιαστές ...  \nTo άρθρο Ο Τραμπ στέλνει τον «τσάρο των συνόρων» Τομ Χόμαν στη Μινεσότα – «Είναι σκληρός και δίκαιος» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tomhoman-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Νάξος: Οι εντυπωσιακές προσγειώσεις αεροπλάνων παρά τους θυελλώδεις ανέμους",
-          "link": "https://www.newsit.gr/ellada/naksos-oi-entyposiakes-prosgeioseis-aeroplanon-para-tous-thyellodeis-anemous/4583995/",
-          "pubDate": "Mon, 26 Jan 2026 15:09:31 +0000",
-          "description": "Δύσκολες ήταν οι συνθήκες το πρωί της Δευτέρας 26 Ιανουαρίου στο αεροδρόμιο στη Νάξο, με τους θυελλώδεις ανέμους να δυσκολεύουν σημαντικά τις πτήσεις από και προς ...  \nTo άρθρο Νάξος: Οι εντυπωσιακές προσγειώσεις αεροπλάνων παρά τους θυελλώδεις ανέμους δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/naxos-1200x736.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συνελήφθη στους Αγίους Αναργύρους 48χρονος Αλβανός που καταζητείτο στο Βέλγιο για εμπορία ανθρώπων και άλλα αδικήματα",
-          "link": "https://www.protothema.gr/greece/article/1763660/sunelifthi-48hronos-alvanos-stous-agious-anargurous-pou-kataziteitai-sto-velgio-tou-eihe-apagoreuthei-i-eisodos-ellada/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 17:09:02 +0200",
-          "description": "Του είχε απαγορευτεί η είσοδος στην Ελλάδα και δεν είχε στην κατοχή του νόμιμα έγγραφα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-18/astynomia-mak2.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Κατερίνα Καινούργιου: «Φοβάμαι να οδηγήσω μην πάθει τίποτα το μωρό»",
-          "link": "https://www.newsit.gr/lifestyle/katerina-kainourgiou-fovamai-na-odigiso-min-pathei-tipota-to-moro/4583985/",
-          "pubDate": "Mon, 26 Jan 2026 15:05:35 +0000",
-          "description": "Η Κατερίνα Καινούργιου, που σε λίγο καιρό θα κρατήσει στην αγκαλιά της το πρώτο της παιδάκι, μοιράστηκε με τους συνεργάτες και τους τηλεθεατές της την ...  \nTo άρθρο Κατερίνα Καινούργιου: «Φοβάμαι να οδηγήσω μην πάθει τίποτα το μωρό» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/katken1-2-1200x740.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τρεις έδρες για τον Απόδημο Ελληνισμό και επιστολική ψήφος – Τι παρουσίασε ο Λιβάνιος στο Υπουργικό",
-          "link": "https://www.newsit.gr/politikh/treis-edres-gia-ton-apodimo-ellinismo-kai-epistoliki-psifos-ti-parousiase-o-livanios-sto-ypourgiko/4583993/",
-          "pubDate": "Mon, 26 Jan 2026 15:05:25 +0000",
-          "description": "Ο υπουργός Εσωτερικών, Θεόδωρος Λιβάνιος, παρουσίασε στο Υπουργικό Συμβούλιο, που συνεδρίασε το πρωί της Δευτέρας (26.01.2026), το νομοσχέδιο του υπουργείου Εσωτερικών με τίτλο «Ορισμός εκλογικής ...  \nTo άρθρο Τρεις έδρες για τον Απόδημο Ελληνισμό και επιστολική ψήφος – Τι παρουσίασε ο Λιβάνιος στο Υπουργικό δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekloges-kalpes-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Βίντεο ντοκουμέντο: Η στιγμή της φονικής έκρηξης στο εργοστάσιο της Βιολάντα",
-          "link": "https://www.protothema.gr/greece/article/1763661/video-dokoumedo-i-stigmi-tis-fonikis-ekrixis-sto-ergostasio-tis-violada/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 17:05:00 +0200",
-          "description": "Μετά την έκρηξη ακολούθησε πυρκαγιά - Πέντε εργάτριες νεκρές - Η Υπηρεσία Διερεύνησης Εγκλημάτων Εμπρησμού της Πυροσβεστικής ερευνά τα αίτια της τραγωδίας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/trikalavideo-xrm.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -277,6 +277,14 @@
           "description": "Το Γενικό Προξενείο της Σερβίας στη Θεσσαλονίκη, θα φιλοξενεί από σήμερα και την προξενική αποστολή της Ουγγαρίας, βάσει συμφωνίας των δύο χωρών.\nΘεσσαλονίκη: Το Σερβικό προξενείο θα φιλοξενεί και το Ουγγρικό - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Μαζική συμμετοχή στην εκδήλωση του Democrat στο «Ολύμπιον» για τη Δημοκρατία",
+          "link": "https://www.tovima.gr/2026/01/26/politics/maziki-symmetoxi-stin-ekdilosi-tou-democrat-sto-olympion-gia-ti-dimokratia/",
+          "pubDate": "Mon, 26 Jan 2026 18:07:52 +0300",
+          "description": "Κατά τη διάρκειά της ο Στέφανος Παραστρατίδης επεσήμανε μεταξύ άλλων ότι «η απάντηση στον αυταρχισμό είναι οι ισχυροί θεσμοί, όχι οι σωτήρες».",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/parastratidis-1024x683.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Εθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού",
@@ -485,14 +493,6 @@
           "description": "Τα συλλυπητήριά του «στις οικογένειες των θυμάτων και στους συναδέλφους τους που σήμερα, για ακόμη μια φορά, θρηνούν την απώλεια δικών τους ανθρώπων» εκφράζει ο πρώην πρωθυπουργός Αλέξης Τσίπρας σε…\nΑλ. Τσίπρας για «Βιολάντα»: Συλλυπητήρια στις οικογένειες των θυμάτων – Ως πότε θα θρηνούμε ανθρώπους που χάνονται κυνηγώντας την επιβίωση; - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Εθνικές εκλογές: Δημιουργία Τριεδρικής Περιφέρειας Απόδημου Ελληνισμού προτείνει η κυβέρνηση – Επανέρχονται στις 12 οι έδρες Επικρατείας ",
-          "link": "https://www.naftemporiki.gr/politics/2063851/ethnikes-ekloges-dimioyrgia-triedrikis-perifereias-apodimoy-ellinismoy-proteinei-i-kyvernisi-epanerchontai-stis-12-oi-edres-epikrateias/?utm_source=rss&utm_medium=rss&utm_campaign=ethnikes-ekloges-dimioyrgia-triedrikis-perifereias-apodimoy-ellinismoy-proteinei-i-kyvernisi-epanerchontai-stis-12-oi-edres-epikrateias",
-          "pubDate": "Mon, 26 Jan 2026 10:29:12 +0000",
-          "description": "Τις διαδικασίες για την επέκταση του δικαιώματος της επιστολικής ψήφου στους Έλληνες του εξωτερικού και στις επόμενες εθνικές εκλογές του 2027 δρομολογεί η κυβέρνηση, προτείνοντας παράλληλα τη δημιουργία μιας ειδικής…\nΕθνικές εκλογές: Δημιουργία Τριεδρικής Περιφέρειας Απόδημου Ελληνισμού προτείνει η κυβέρνηση – Επανέρχονται στις 12 οι έδρες Επικρατείας  - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Γιατί ανακαλείται βρεφικό γάλα πανευρωπαϊκά: επιμόλυνση με τοξίνες θέτει τις εταιρείες σε συναγερμό",
+          "link": "http://gr.euronews.com/health/2026/01/26/why-baby-formula-is-being-recalled-across-europe-toxin-contamination-puts-companies-on-ale",
+          "pubDate": "Mon, 26 Jan 2026 17:02:11 +0100",
+          "description": "Οι παγκόσμιοι γαλακτοκομικοί κολοσσοί συνεχίζουν την ανάκληση βρεφικού γάλακτος εν μέσω σκανδάλου μόλυνσης με σερουλίδη, ενώ η Γαλλία ερευνά δύο θανάτους βρεφών.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
         {
           "title": "Πορτογαλία: Η μεγαλύτερη κατάσχεση ναρκωτικών",
           "link": "http://gr.euronews.com/2026/01/26/portogalia-h-megalyterh-katasxesh-narkwtikwn",
@@ -731,14 +739,6 @@
           "description": "Το Προεδρείο της Κοινοβουλευτικής Συνέλευσης του Συμβουλίου της Ευρώπης με επικεφαλής τον Θοδωρή Ρουσσόπουλο εγκρίνει σήμερα 12 εκπροσώπους της Πλατφόρμας των Ρωσικών Δημοκρατικών Δυνάμεων",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Ειδήσεις | 26 Ιανουαρίου 2026 - Μεσημβρινό δελτίο",
-          "link": "http://gr.euronews.com/video/2026/01/26/eidhseis-26-ianoyarioy-2026-meshmbrino-deltio",
-          "pubDate": "Mon, 26 Jan 2026 12:00:18 +0100",
-          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 26 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Σε δύο δόσεις οι συντάξεις Φεβρουαρίου - Οι ημέρες πληρωμών",
+          "link": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
+          "pubDate": "Mon, 26 Jan 2026 18:05:00 +0200",
+          "description": "Aντίστροφα μετρά ο χρόνος για την καταβολή των συντάξεων Φεβρουαρίου 2026, με τις πρώτες πληρωμές, για τις κύριες συντάξεις, να γίνονται την Τετάρτη 28/1 Ιανουαρίου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/eyro-evrw-eyrw-evro-eurw-hrimata-xrhmata-oikonomia-economy-hrimata-xrhmata-xrimata-getty.jpg?itok=Cb5vWqst",
+          "source": "Gazzetta"
+        },
         {
           "title": "Σκαριόλο: Η εξήγηση του για το bulling που έκανε στον Χεζόνια",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510375/skariolo-i-exigisi-toy-gia-bulling-poy-ekane-ston-hezonia",
@@ -799,7 +807,7 @@
           "link": "https://www.gazzetta.gr/football/superleague/2510370/olympiakos-o-antre-loyiz-sta-erythroleyka",
           "pubDate": "Mon, 26 Jan 2026 17:54:58 +0200",
           "description": "Ο Αντρέ Λουίζ θα έρθει στον Ολυμπιακό και μάλιστα με κανονική μεταγραφή από τη Ρίο Άβε.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/antre_loyiz.jpg?itok=hrDW1W3Q",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/andre_luiz_rio_ave.jpg?itok=PojPoA7_",
           "source": "Gazzetta"
         },
         {
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 16:39:00 +0200",
           "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ioanna-toyni1.png.png?itok=TPl233ul",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Stoiximan GBL: Μπορεί ο Άρης να μπει «σφήνα» στους δύο «δικεφάλους»;",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510342/stoiximan-gbl-mporei-o-aris-na-mpei-sfina-stoys-dyo-dikefaloys",
-          "pubDate": "Mon, 26 Jan 2026 16:32:15 +0200",
-          "description": "Ο Αντώνης Καλκαβούρας επιχειρεί τον απολογισμό διημέρου στο πρωτάθλημα και βγάζει κερδισμένους το Περιστέρι, την Μύκονο και τον «αυτοκράτορα», την ίδια ώρα που η μάχη για την αποφυγή του υποβιβασμού έχει πάρει «άγρια ομορφιά».",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6824240_1.jpg?itok=JExGRr8J",
           "source": "Gazzetta"
         }
       ]
