@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T10:25:24.870Z",
+  "lastUpdated": "2026-01-26T10:30:32.019Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κατερίνα Ζαρίφη, Λουκία Γκάτσου και DJ Kakos Tokpasidis καλεσμένοι του Γρηγόρη Αρναούτογλου στο «The 2night Show»",
+          "link": "https://www.newsit.gr/media/katerina-zarifi-loukia-gkatsou-kai-dj-kakos-tokpasidis-kalesmenoi-tou-grigori-arnaoutoglou-sto-the-2night-show/4583677/",
+          "pubDate": "Mon, 26 Jan 2026 10:24:26 +0000",
+          "description": "Απόψε, Δευτέρα 26 Ιανουαρίου στις 24:00 ο Γρηγόρης Αρναούτογλου καλωσορίζει στο «The 2Night Show» την εκρηκτική Κατερίνα Ζαρίφη, σε μία βραδιά που ξεκινά με μία απρόσμενη ...  \nTo άρθρο Κατερίνα Ζαρίφη, Λουκία Γκάτσου και DJ Kakos Tokpasidis καλεσμένοι του Γρηγόρη Αρναούτογλου στο «The 2night Show» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zarifi-arxiki-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ελλάδα – Σλοβακία live για το ευρωπαϊκό πρωτάθλημα πόλο γυναικών",
           "link": "https://www.newsit.gr/athlitika/ellada-slovakia-live-gia-to-eyropaiko-protathlima-polo-gynaikon/4583656/",
@@ -137,6 +145,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Τραμπ: «Κάποια στιγμή θα φύγουμε από την Μινεάπολη» – Τι είπε για τον 37χρονο διαδηλωτή που σκότωσε η ICE",
+          "link": "https://www.in.gr/2026/01/26/world/tramp-kapoia-stigmi-tha-fygoume-apo-tin-mineapoli-ti-eipe-gia-ton-37xrono-diadiloti-pou-skotose-ice/",
+          "pubDate": "Mon, 26 Jan 2026 12:29:29 +0300",
+          "description": "Σε σχόλιά του στην Wall Street Journal, ο Τραμπ ανέφερε επίσης ότι τελικά θα αποσύρει τους πράκτορές του από την πόλη. Δεν έδωσε όμως χρονοδιάγραμμα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet1-1200x702-1-768x449.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ζήνα Κουτσελίνη: Έχω αφαιρέσει στήθος γιατί ήταν πιο «μπαμπάτσικο», πρώτα με κοιτούσαν εκεί και μετά στα μάτια",
           "link": "https://www.newsit.gr/lifestyle/zina-koutselini-exo-afairesei-stithos-giati-itan-pio-mpampatsiko-prota-me-koitousan-ekei-kai-meta-sta-matia/4583602/",
           "pubDate": "Mon, 26 Jan 2026 09:28:34 +0000",
@@ -151,6 +167,14 @@
           "description": "Ο Αντρέ Λουίζ έχει ξεχωρίσει με τη φανέλα της Ρίο Άβε στην Πορτογαλία και ο Ολυμπιακός αναμένεται να τον κάνει άμεσα δικό του, ενισχύοντας την ...  \nTo άρθρο Ολυμπιακός: Στην τελική ευθεία η μετεγγραφή του Αντρέ Λουίζ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/andreluiz-1200x842.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Η «εμφύλια σύγκρουση» που απειλεί να τινάξει το τένις στον αέρα",
+          "link": "https://www.in.gr/2026/01/26/sports/othersports/emfylia-sygkrousi-pou-apeilei-na-tinaksei-tenis-ston-aera/",
+          "pubDate": "Mon, 26 Jan 2026 12:25:36 +0300",
+          "description": "Ένα δισεκατομμύριο δολάρια, η σκιά της Σαουδικής Αραβίας και η ρήξη του Τζόκοβιτς με το σύστημα φέρνουν το παγκόσμιο τένις μπροστά στη μεγαλύτερη κρίση της ιστορίας του",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/w24-140702NovakDjokovic.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Βορίζια: Στο νοσοκομείο και οι δύο γονείς του 39χρονου Φανούρη – Αναβλήθηκε η δίκη στο Αυτόφωρο",
@@ -223,30 +247,6 @@
           "description": "Σε κλίμα συγκίνησης τίμησε ο Δήμος Πειραιά τη μνήμη του ήρωα των Ιμίων Αντιναυάρχου Παναγιώτη Βλαχάκου ο οποίος έπεσε στο καθήκον, στις 31 Ιανουαρίου 1996, υπερασπιζόμενος την πατρίδα.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/3534-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "«Δεν συνέβη ποτέ» – Μελέτη διαψεύδει τις ιστορικές αναφορές για το φονικό τσουνάμι της Χάλκης το 1843",
-          "link": "https://www.in.gr/2026/01/26/in-science/episthmes/den-synevi-pote-meleti-diapseydei-tis-istorikes-anafores-gia-foniko-tsounami-tis-xalkis-1843/",
-          "pubDate": "Mon, 26 Jan 2026 12:12:35 +0300",
-          "description": "Η επανεξέταση μαρτυριών της εποχής οδηγεί στο συμπέρασμα ότι το πολύνεκρο τσουνάμι της Χάλκης είναι γεωλογικός μύθος.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/DJI_0494-HDR-768x438.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "The Real MVP: Τρέισι Λεσόρτ – Η ζωή δίπλα στον Ματίας Λεσόρτ",
-          "link": "https://www.in.gr/2026/01/26/plus/ta-nea-tis-agoras/real-mvp-treisi-lesort-zoi-dipla-ston-matias-lesort/",
-          "pubDate": "Mon, 26 Jan 2026 12:11:35 +0300",
-          "description": "«Ο Ματίας δεν ήθελε να πάρει τα φάρμακά του, για να νιώθει τον πόνο στο πόδι του»",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1200X800-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "«Μίλησα κι έγινε χειρότερο» – Η Άμπερ Χερντ σχολιάζει την τιμωρητική σκληρότητα της δίκης με τον Τζόνι Ντεπ",
-          "link": "https://www.in.gr/2026/01/26/go-fun/fizz/milisa-ki-egine-xeirotero-amper-xernt-sxoliazei-tin-timoritiki-sklirotita-tis-dikis-ton-tzoni-ntep/",
-          "pubDate": "Mon, 26 Jan 2026 12:10:44 +0300",
-          "description": "«Όταν οι γυναίκες εκφράζουν την άποψή τους, τα ισχυρά συστήματα κινούνται για να τις δυσφημίσουν και να τις τιμωρήσουν» αναφέρει η περιγραφή του ντοκιμαντέρ «Silenced», στο οποίο εμφανίζεται η Άμπερ Χερντ.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/16653782-768x485.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,30 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Εθνικές εκλογές: Δημιουργία Τριεδρικής Περιφέρειας Απόδημου Ελληνισμού προτείνει η κυβέρνηση – Επανέρχονται στις 12 οι έδρες Επικρατείας ",
+          "link": "https://www.naftemporiki.gr/politics/2063851/ethnikes-ekloges-dimioyrgia-triedrikis-perifereias-apodimoy-ellinismoy-proteinei-i-kyvernisi-epanerchontai-stis-12-oi-edres-epikrateias/?utm_source=rss&utm_medium=rss&utm_campaign=ethnikes-ekloges-dimioyrgia-triedrikis-perifereias-apodimoy-ellinismoy-proteinei-i-kyvernisi-epanerchontai-stis-12-oi-edres-epikrateias",
+          "pubDate": "Mon, 26 Jan 2026 10:29:12 +0000",
+          "description": "Τις διαδικασίες για την επέκταση του δικαιώματος της επιστολικής ψήφου στους Έλληνες του εξωτερικού και στις επόμενες εθνικές εκλογές του 2027 δρομολογεί η κυβέρνηση, προτείνοντας παράλληλα τη δημιουργία μιας ειδικής…\nΕθνικές εκλογές: Δημιουργία Τριεδρικής Περιφέρειας Απόδημου Ελληνισμού προτείνει η κυβέρνηση – Επανέρχονται στις 12 οι έδρες Επικρατείας  - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Σ. Φάμελλος για «Βιολάντα»: Άμεση και πλήρη διερεύνηση των συνθηκών της πολύνεκρης τραγωδίας",
+          "link": "https://www.naftemporiki.gr/politics/2063875/s-famellos-gia-violanta-amesi-kai-pliri-diereynisi-ton-synthikon-tis-polynekris-tragodias/?utm_source=rss&utm_medium=rss&utm_campaign=s-famellos-gia-violanta-amesi-kai-pliri-diereynisi-ton-synthikon-tis-polynekris-tragodias",
+          "pubDate": "Mon, 26 Jan 2026 10:27:54 +0000",
+          "description": "Άμεση και πλήρη διερεύνηση των συνθηκών της πολύνεκρης τραγωδίας σε εργοστάσιο της «Βιολάντα» στα Τρίκαλα και απόδοση ευθυνών ζητάει με ανάρτησή του στα μέσα κοινωνικής δικτύωσης ο πρόεδρος του ΣΥΡΙΖΑ-Προοδευτική…\nΣ. Φάμελλος για «Βιολάντα»: Άμεση και πλήρη διερεύνηση των συνθηκών της πολύνεκρης τραγωδίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "ΚΚΕ για Βιολάντα: Να απαντηθούν άμεσα και με σαφήνεια, όλα τα κρίσιμα ερωτήματα",
+          "link": "https://www.naftemporiki.gr/politics/2063876/kke-gia-violanta-na-apantithoyn-amesa-kai-me-safineia-ola-ta-krisima-erotimata/?utm_source=rss&utm_medium=rss&utm_campaign=kke-gia-violanta-na-apantithoyn-amesa-kai-me-safineia-ola-ta-krisima-erotimata",
+          "pubDate": "Mon, 26 Jan 2026 10:25:54 +0000",
+          "description": "Ανακοίνωση εξέδωσε το ΚΚΕ για την τραγωδία στο εργοστάσιο Βιολάντα: «Η έκρηξη έρχεται να επιβεβαιώσει ότι η εργατική τάξη της χώρας πληρώνει βαρύ φόρο αίματος στη μάχη για το μεροκάματο».…\nΚΚΕ για Βιολάντα: Να απαντηθούν άμεσα και με σαφήνεια, όλα τα κρίσιμα ερωτήματα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Βιολάντα: Συλλυπητήρια ανακοίνωση από τον Κωστή Χατζηδάκη",
           "link": "https://www.naftemporiki.gr/politics/2063868/violanta-syllypitiria-anakoinosi-kosti-chatzidaki/?utm_source=rss&utm_medium=rss&utm_campaign=violanta-syllypitiria-anakoinosi-kosti-chatzidaki",
@@ -469,30 +493,6 @@
           "description": "Αύριο, Δευτέρα 26 Ιανουαρίου, συνεδριάζει το Υπουργικό Συμβούλιο υπό την προεδρία του Κυριάκου Μητσοτάκη στο Μέγαρο Μαξίμου. Στις 18:00 ο πρωθυπουργός θα συμμετάσχει σε εκδήλωση για το πρόγραμμα «The Greek AI Accelerator».",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/mhtsotakhs-6-scaled-e1756203321790-1024x672.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Συγκλίσεις υπό όρους στην Κεντροαριστερά",
-          "link": "https://www.tovima.gr/print/politics/sygkliseis-ypo-orous-stin-kentroaristera/",
-          "pubDate": "Sun, 25 Jan 2026 17:45:00 +0300",
-          "description": "Το ΠαΣοΚ, ο ΣΥΡΙΖΑ, η Νέα Αριστερά και το περιβάλλον του Αλέξη Τσίπρα κρατούν ανοικτούς διαύλους - Οι επαφές υπάρχουν, οι προθέσεις δηλώνονται, οι επιφυλάξεις όμως παραμένουν ισχυρές - Τι μέλλον μπορεί να έχει όπως είναι τώρα η Κεντροαριστερά;",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/10/08/tsipras-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "ΣΥΡΙΖΑ για ανάρτηση Κ. Μητσοτάκη: Η θέση της Ελλάδας πρέπει να είναι ξεκάθαρη, όχι να ισορροπεί σε δύο βάρκες",
-          "link": "https://www.naftemporiki.gr/politics/2063562/syriza-gia-anartisi-k-mitsotaki-i-thesi-tis-elladas-prepei-na-einai-xekathari-ochi-na-isorropei-se-dyo-varkes/?utm_source=rss&utm_medium=rss&utm_campaign=syriza-gia-anartisi-k-mitsotaki-i-thesi-tis-elladas-prepei-na-einai-xekathari-ochi-na-isorropei-se-dyo-varkes",
-          "pubDate": "Sun, 25 Jan 2026 12:56:15 +0000",
-          "description": "Κριτική στον πρωθυπουργό με αιχμή τα όσα αναφέρει στην κυριακάτικη ανάρτησή του ασκεί ο ΣΥΡΙΖΑ.\nΣΥΡΙΖΑ για ανάρτηση Κ. Μητσοτάκη: Η θέση της Ελλάδας πρέπει να είναι ξεκάθαρη, όχι να ισορροπεί σε δύο βάρκες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Στα όρια της ρήξης η Νέα Αριστερά – Σκληρή επίθεση Νίκου Βούτση στον Αλέξη Τσίπρα ",
-          "link": "https://www.naftemporiki.gr/politics/2063557/sta-oria-tis-rixis-i-nea-aristera-skliri-epithesi-nikoy-voytsi-ston-alexi-tsipra/?utm_source=rss&utm_medium=rss&utm_campaign=sta-oria-tis-rixis-i-nea-aristera-skliri-epithesi-nikoy-voytsi-ston-alexi-tsipra",
-          "pubDate": "Sun, 25 Jan 2026 12:22:39 +0000",
-          "description": "Με ανοικτό τον κίνδυνο διάσπασης συνεχίζεται το προγραμματικό συνέδριο της Νέας Αριστεράς και ενώ στο παρασκήνιο είναι σε εξέλιξη προσπάθειες για έναν συμβιβασμό που θα περιλαμβάνεται στην πολιτική πρόταση του.…\nΣτα όρια της ρήξης η Νέα Αριστερά – Σκληρή επίθεση Νίκου Βούτση στον Αλέξη Τσίπρα  - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Καιρός: Βροχές, καταιγίδες και χαλάζι – Στο επίκεντρο η Αττική, που αλλού θα «χτυπήσει» η κακοκαιρία",
+          "link": "https://panathinaikos24.gr/2026/01/26/617768/kairos-vroxes-kataigides-kai-xalazi-sto-epikentro-i-attiki-pou-allou-tha-xtypisei-i-kakokairia/",
+          "pubDate": "Mon, 26 Jan 2026 10:26:41 +0000",
+          "description": "Θυελλώδεις νότιοι άνεμοι θα πνέουν στο Αιγαίο έως σήμερα αργά το απόγευμα, με αποτέλεσμα να ακυρώνονται δρομολόγια.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/4917629.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Παναθηναϊκός: Στον «αέρα» ο Τσιριβέγια ενόψει Ρόμα! – Η πρώτη εκτίμηση",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ston-aera-o-tsirivegi/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ston-aera-o-tsirivegi",
           "pubDate": "Mon, 26 Jan 2026 10:19:44 +0000",
@@ -1222,14 +1230,6 @@
           "pubDate": "Sun, 25 Jan 2026 16:55:31 +0000",
           "description": "Oι δηλώσεις του Κένεθ Φαρίντ μετά τη νίκη του Παναθηναϊκού απέναντι στο Μαρούσι.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6824724.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Τα highlights της νίκης του Παναθηναϊκού επί του Αμαρουσίου",
-          "link": "https://panathinaikos24.gr/2026/01/25/617648/ta-highlights-tis-nikis-tou-panathinaikou-epi-tou-amarousiou/",
-          "pubDate": "Sun, 25 Jan 2026 16:54:37 +0000",
-          "description": "Δείτε τις καλύτερες στιγμές της νίκης του Παναθηναϊκού.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5004176.jpg?fit=900%2C614&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
