@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T09:05:28.014Z",
+  "lastUpdated": "2026-01-26T09:10:29.925Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Εθνική Τράπεζα: Πρόταση εξαγοράς ομολόγων αξίας 500 εκατ. ευρώ με την προϋπόθεση νέας έκδοσης",
+          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/ethniki-trapeza-protasi-eksagoras-omologon-aksias-500-ekat-eyro-me-tin-proypothesi-neas-ekdosis/4583571/",
+          "pubDate": "Mon, 26 Jan 2026 09:07:20 +0000",
+          "description": "Πρόταση εξαγοράς για ομολογίες υψηλής εξοφλητικής προτεραιότητας ύψους 500 εκατ. ευρώ σταθερού επιτοκίου 7,250% με λήξη το 2027 ανακοίνωσε σήμερα (26.1.2026) η Εθνική Τράπεζα, με ...  \nTo άρθρο Εθνική Τράπεζα: Πρόταση εξαγοράς ομολόγων αξίας 500 εκατ. ευρώ με την προϋπόθεση νέας έκδοσης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/07/ethniki-trapeza-eurokinissi-2-sc-1200x790.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Τραγωδία στη «Βιολάντα»: «Είδαν το ταβάνι να πέφτει» από την έκρηξη και πετάχτηκαν έξω – Πώς σώθηκαν οι εργαζόμενοι τραυματίες",
           "link": "https://www.newsit.gr/ellada/tragodia-sti-violanta-eidan-to-tavani-na-peftei-apo-tin-ekriksi-kai-petaxtikan-ekso-pos-sothikan-oi-ergazomenoi-traymaties/4583541/",
@@ -49,10 +57,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Καιρός: Βροχές, καταιγίδες και χαλάζι – Σε ποιες περιοχές θα «χτυπήσει» η κακοκαιρία",
-          "link": "https://www.newsit.gr/ellada/kairos-vroxes-kataigides-kai-xalazi-se-poies-perioxes-tha-xtypisei-i-kakokairia/4583542/",
+          "title": "Καιρός: Βροχές, καταιγίδες και χαλάζι – Στο επίκεντρο η Αττική, που αλλού θα «χτυπήσει» η κακοκαιρία",
+          "link": "https://www.newsit.gr/ellada/kairos-vroxes-kataigides-kai-xalazi-sto-epikentro-i-attiki-pou-allou-tha-xtypisei-i-kakokairia/4583542/",
           "pubDate": "Mon, 26 Jan 2026 08:45:12 +0000",
-          "description": "Έντονα φαινόμενα θα σημειωθούν σε πολλές περιοχές της χώρας μας σήμερα (26/1/2026), σύμφωνα με την ΕΜΥ, εξαιτίας της νέας κακοκαιρίας που έχει ξεκινήσει ήδη να ...  \nTo άρθρο Καιρός: Βροχές, καταιγίδες και χαλάζι – Σε ποιες περιοχές θα «χτυπήσει» η κακοκαιρία δημοσιεύτηκε στο NewsIT .",
+          "description": "Έντονα φαινόμενα θα σημειωθούν σε πολλές περιοχές της χώρας μας σήμερα (26/1/2026), σύμφωνα με την ΕΜΥ, εξαιτίας της νέας κακοκαιρίας που έχει ξεκινήσει ήδη να ...  \nTo άρθρο Καιρός: Βροχές, καταιγίδες και χαλάζι – Στο επίκεντρο η Αττική, που αλλού θα «χτυπήσει» η κακοκαιρία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kakokairia-vroxi-eurok-1-1200x798.jpg",
           "source": "NewsIT"
         },
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 10:54:24 +0300",
           "description": "Ο Παναθηναϊκός βρίσκεται σε πολύ δύσκολη θέση πλέον, καθώς ο Λεβαδειακός έχει διπλάσιες πιθανότητες για την είσοδο στα play offs από τους Πράσινους.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6825793-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ισπανικός Εμφύλιος: Το πνεύμα της αντιλογίας, ο ολέθριος ρόλος του χρυσού",
-          "link": "https://www.in.gr/2026/01/26/istoriko-arxeio/ispanikos-emfylios-pneyma-tis-antilogias-o-olethrios-rolos-tou-xrysou/",
-          "pubDate": "Mon, 26 Jan 2026 10:50:46 +0300",
-          "description": "Εύκολα χάνει η Ισπανία την ισορροπίαν της, υπάρχει δε εις μέγαν βαθμόν εν αυτή η τάσις από την μίαν ιδέαν να περιπίπτη εις την άλλην",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/emfylios.photo_.5-600x452.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Γαλλία: Σχεδόν οι μισοί μεσίτες νοικιάζουν σπίτια κάνοντας φυλετικές διακρίσεις",
+          "link": "http://gr.euronews.com/2026/01/26/gallia-filetikes-diakriseis-stin-enoikiasi-katoikiwn",
+          "pubDate": "Mon, 26 Jan 2026 10:01:20 +0100",
+          "description": "Σύμφωνα με τα αποτελέσματα ενός τεστ που διεξήγαγε η SOS Racisme σε 198 κτηματομεσιτικά γραφεία, 96 από αυτά (48,48%) είναι διατεθειμένα να αποδεχθούν ή να διευκολύνουν την επιλογή των υποψηφίων για μίσθωση με βάση τις διακρίσεις.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "ΗΠΑ: Πάνω από 10 νεκροί λόγω των ακραίων καιρικών συνθηκών που σαρώνουν τη χώρα",
           "link": "http://gr.euronews.com/2026/01/26/ipa-pano-apo-10-nekroi-logo-akraion-kairikon-synthikon",
           "pubDate": "Mon, 26 Jan 2026 09:57:22 +0100",
@@ -731,14 +739,6 @@
           "description": "Ζώα από το καταφύγιο \"Happy Dog\" στο μεταφέρθηκαν από τις εγκαταστάσεις στα χέρια ανθρώπων με το υπ. Εσωτερικών να ανακοινώνει έκτακτες επιθεωρήσεις",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Τελετή στη μνήμη των 45 θυμάτων του προ εβδομάδας σιδηροδρομικού δυστυχήματος στην Ισπανία",
-          "link": "http://gr.euronews.com/2026/01/25/teleti-sti-mnimi-ton-45-thimaton-tou-sidirodromikou-distiximatos-stin-ispania",
-          "pubDate": "Sun, 25 Jan 2026 20:33:40 +0100",
-          "description": "Η Caseta Municipal, η οποία χρησίμευσε ως καταφύγιο για παροχή πρώτων βοηθειών εκείνο το βράδυ, φιλοξένησε μια λειτουργία με 700 παρευρισκόμενους ενώ στο νοσοκομείο νοσηλεύονται ακόμη 22 τραυματίες",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ραφίνια: «Κάνω ακριβώς το ίδιο με αυτό που έκανα πέρσι, σταματήστε τις συγκρίσεις»",
+          "link": "https://www.gazzetta.gr/football/la-liga/2510258/rafinia-kano-akribos-idio-me-ayto-poy-ekana-persi-stamatiste-tis",
+          "pubDate": "Mon, 26 Jan 2026 11:08:38 +0200",
+          "description": "Ο Ραφίνια δυσανασχέτησε σε ερώτηση δημοσιογράφου σχετικά με τον λόγο για τον οποίο ο Βραζιλιάνος δεν αποδίδει στο γήπεδο όπως τη περσινή σεζόν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/raphinha_0.jpg?itok=epBW48Jj",
+          "source": "Gazzetta"
+        },
         {
           "title": "F1 - Οι πρώτες φωτογραφίες της νέας McLaren MCL40",
           "link": "https://www.gazzetta.gr/gmotion/2510257/f1-oi-protes-fotografies-tis-neas-mclaren-mcl40",
@@ -977,14 +985,6 @@
           "description": "Ο Ισπανός τεχνικός, Χοσέ Λουίς Μεντιλίμπαρ, ήδη έχει αρχίσει να σκέφτεται το πώς θα παρατάξει τον Ολυμπιακό στον αγώνα της Τετάρτης με τον Άγιαξ στο Άμστερνταμ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mendi_oly_coach_1.jpg?itok=lB0hM_It",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Φωτιά στο εργοστάσιο «Βιολάντα» στα Τρίκαλα: Εντοπίστηκαν 3 απανθρακωμένες γυναίκες",
-          "link": "https://www.gazzetta.gr/plus/2510236/fotia-sto-ergostasio-biolanta-sta-trikala-entopistikan-3-apanthrakomenes-gynaikes",
-          "pubDate": "Mon, 26 Jan 2026 08:46:27 +0200",
-          "description": "Σε τραγωδία εξελίσσεται η μεγάλη φωτιά που ξέσπασε στο εργοστάσιο «Βιολάντα» στα Τρίκαλα, καθώς η πυροσβεστικές δυνάμεις εντόπισαν τις σορούς.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fotia-violanta-6.jpg?itok=9BVCSU7W",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Χάνει διαρκώς έδαφος: Σε ποια περιοχή η ΝΔ είναι πλέον δεύτερο κόμμα",
+          "link": "https://panathinaikos24.gr/2026/01/26/617751/xanei-diarkos-edafos-se-poia-perioxi-i-nd-einai-pleon-deytero-komma/",
+          "pubDate": "Mon, 26 Jan 2026 09:06:14 +0000",
+          "description": "«Καμπανάκι» για το κυβερνών κόμμα",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-26_09-41-57_606886-scaled-1.jpg?fit=1024%2C597&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Αυτό είναι το μεγαλύτερο πρόβλημα του φετινού Παναθηναϊκού",
           "link": "https://panathinaikos24.gr/2026/01/26/617746/ayto-einai-to-megalytero-provlima-tou-fetinou-panathinaikou/",
@@ -1223,14 +1231,6 @@
           "description": "Το παιχνίδι στο ΟΑΚΑ ξεκίνησε με τρόπο που κανείς στο στρατόπεδο του Παναθηναϊκού δεν θα ήθελε, καθώς το Μαρούσι μπήκε με ένταση, καθαρό πλάνο και ένα γρήγορο σερί 6-0 που έβαλε από νωρίς πίεση στους «πράσινους». Το «Τριφύλλι» εμφανίστηκε νευρικό, με κακές αποστάσεις στην επίθεση και σημαντική αστοχία, στοιχεία που έδωσαν την ευκαιρία στους φιλοξενούμενους […]\nThe post «Καθάρισε» το Μαρούσι, με… σοβαρό δεύτερο ημίχρονο ο Παναθηναϊκός appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Η ενδεκάδα του Παναθηναϊκού κόντρα στον Ατρόμητο",
-          "link": "https://panathinaikos24.gr/2026/01/25/617635/i-endekada-tou-panathinaikou-kontra-ston-atromito/",
-          "pubDate": "Sun, 25 Jan 2026 16:31:36 +0000",
-          "description": "Η ενδεκάδα που επέλεξε ο Ράφα Μπενίτεθ.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5000157.jpg?fit=1440%2C960&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
