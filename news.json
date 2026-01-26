@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T04:20:27.180Z",
+  "lastUpdated": "2026-01-26T04:25:29.066Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "COSA: Το κινεζικό λειτουργικό σύστημα που δίνει «πραγματική» αντίληψη στα ρομπότ [Video]",
+          "link": "https://www.techgear.gr/cosa-to-kineziko-leitoyrgiko-systima-poy-dinei-pragmatiki-antilipsi-sta-rompot-video-47313",
+          "pubDate": "Mon, 26 Jan 2026 06:24:00 +0200",
+          "description": "Η κινεζική εταιρεία LimX Dynamics ανακοίνωσε επίσημα την κυκλοφορία του COSA (Cognitive OS of Agents), ένα πρωτοποριακό λειτουργικό σύστημα ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/cosa-limx-dynamics.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Me Meme: Η AI του Google Photos σε μετατρέπει στο επόμενο viral meme",
           "link": "https://www.techgear.gr/me-meme-i-ai-toy-google-photos-se-metatrepei-sto-epomeno-viral-meme-47312",
           "pubDate": "Mon, 26 Jan 2026 06:06:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sat, 24 Jan 2026 21:05:54 +0000",
           "description": "Η πλατφόρμα του Elon Musk δανείζεται την ιδέα του Bluesky για να βοηθήσει τους χρήστες να βρίσκουν κορυφαίους λογαριασμούς ανά ενδιαφέρον με ένα μόνο κλικ.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/x/x-is-rippi/x-is-ripping-off-one-of-blueskys-best-features-with-one-big_jkc6.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Google Home: Παγκόσμιο blackout για χιλιάδες smart συσκευές",
-          "link": "https://gr.pcmag.com/smart-home/51098/google-home-pagkosmio-blackout-gia-khiliades-smart-suskeues",
-          "pubDate": "Sat, 24 Jan 2026 20:51:39 +0000",
-          "description": "Παρά το γεγονός ότι ο φωνητικός έλεγχος μέσω Gemini λειτουργεί, η εφαρμογή Google Home αδυνατεί να συνδεθεί με φώτα, πρίζες και κλιματιστικά, προκαλώντας αγανάκτηση στους χρήστες.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/l/lights-out/lights-out-for-google-smart-home-devices-as-bulbs-switches-m_d2sx.jpg",
           "source": "PC Magazine"
         }
       ]
