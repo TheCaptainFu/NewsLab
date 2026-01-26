@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T16:45:32.608Z",
+  "lastUpdated": "2026-01-26T16:50:30.320Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Φλαμένγκο: Συμφώνησε με τη Γουέστ Χαμ για την απόκτηση του Πακετά",
+          "link": "https://www.gazzetta.gr/football/2510380/flamengko-symfonise-me-ti-goyest-ham-gia-tin-apoktisi-toy-paketa",
+          "pubDate": "Mon, 26 Jan 2026 18:48:00 +0200",
+          "description": "Τη φανέλα της Φλαμένγκο προβάρει ο Λούκας Πακετά, καθώς οι Βραζιλιάνοι ήρθαν σε συμφωνία με τη Γουέστ Χαμ για τη μεταγραφή του στα 42 εκατομμύρια ευρώ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lucas_paqueta.jpg?itok=swvo52rY",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Final 8 Κυπέλλου: Ξεκίνησε η διάθεση των εισιτηρίων",
           "link": "https://www.gazzetta.gr/basketball/kypello-elladas-mpasket/2510376/final-8-kypelloy-xekinise-i-diathesi-ton-eisitirion",
           "pubDate": "Mon, 26 Jan 2026 18:30:00 +0200",
@@ -977,14 +985,6 @@
           "description": "Οι πολλές κεφαλιές θεωρείται ότι έπαιξαν καθοριστικό ρόλο στην εγκεφαλική νόσο του πρώην διεθνούς Σκωτσέζου αμυντικού Γκόρντον ΜακΚουίν, σύμφωνα με το πόρισμα ιατροδικαστή.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-651912128_1.jpg?itok=I5RDMXoq",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: Σύσσωμη η ομάδα ποδοσφαίρου θα βρεθεί στα Άνω Λιόσια για το ματς της Ένωσης με την Άλμπα στο BCL",
-          "link": "https://www.newsit.gr/athlitika/aek-syssomi-i-omada-podosfairou-tha-vrethei-sta-ano-liosia-gia-to-mats-tis-enosis-me-tin-almpa-sto-bcl/4583983/",
-          "pubDate": "Mon, 26 Jan 2026 14:47:37 +0000",
-          "description": "Η ΑΕΚ αντιμετωπίζει την Τετάρτη (28.01.2026, 19:00) την Άλμπα Βερολίνου στα Άνω Λιόσια, σε ματς για την 2η αγωνιστική του Group J της φάσης των ...  \nTo άρθρο ΑΕΚ: Σύσσωμη η ομάδα ποδοσφαίρου θα βρεθεί στα Άνω Λιόσια για το ματς της Ένωσης με την Άλμπα στο BCL δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aek-nikolits-eurokinissi.jpg",
-          "source": "NewsIT"
         }
       ]
     },
