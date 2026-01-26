@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T05:05:24.042Z",
+  "lastUpdated": "2026-01-26T05:10:26.170Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ισχυρές βροχές και καταιγίδες - Σε «Red Code» έξι περιοχές της χώρας",
+          "link": "http://gr.euronews.com/2026/01/26/isxires-vrohes-kai-kataigides-se-red-code-exi-periohes-tis-horas",
+          "pubDate": "Mon, 26 Jan 2026 06:03:12 +0100",
+          "description": "Σε κατάσταση κινητοποίησης «Red Code» θα είναι σήμερα η Περιφερειακή Ενότητα Σερρών της Περιφέρειας Κεντρικής Μακεδονίας, καθώς και οι Περιφερειακές Ενότητες Δράμας, Καβάλας, Θάσου, Ξάνθης και Ροδόπης της Περιφέρειας Ανατολικής Μακεδονίας και Θράκης, λόγω της επιδείνωσης του καιρού",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "H Tεχεράνη προειδοποιεί εκ νέου τις ΗΠΑ κατά της ανάληψης στρατιωτικής δράσης ",
           "link": "http://gr.euronews.com/2026/01/26/iranikes-arhes-proeidopoihsi-hpa",
           "pubDate": "Mon, 26 Jan 2026 05:47:42 +0100",
@@ -730,14 +738,6 @@
           "pubDate": "Sun, 25 Jan 2026 12:12:08 GMT",
           "description": "Sir Mark covered some of the defining moments in India's history in a career that spanned decades.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4121/live/0ed9ada0-1c21-11ef-80aa-699d54c46324.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok",
-          "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 11:48:19 GMT",
-          "description": "The singer hit out at Dr Zayn Khalid Majeed - who says he will try to have a positive impact with his content.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1af/live/2102fde0-f7b9-11f0-8a71-ff10b47f652a.jpg",
           "source": "BBC News"
         }
       ]
