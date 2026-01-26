@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T04:05:28.082Z",
+  "lastUpdated": "2026-01-26T04:10:27.528Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -15,6 +15,14 @@
           "description": "Με τις αποσκευές του γεμάτες διακρίσεις, μετάλλια και τίτλους σε ενόργανη γυμναστική και ταεκβοντό, ο Αλέξανδρος Κούρτοβικ προσγειώθηκε στην καρδιά της αθλητικής δράσης στον Άγιο ...  \nTo άρθρο Survivor 2026: Ο Αλέξανδρος Κούρτοβικ από τον Άγιο Δημήτριο στον Άγιο Δομίνικο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aleksandros-kourtovik-survivor-2026-1200x773.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Ο Ντόναλντ Τραμπ λέει «όχι» στο Super Bowl και στοχοποιεί Bad Bunny και Green Day",
+          "link": "https://www.in.gr/2026/01/26/life/music/o-ntonalnt-tramp-leei-oxi-sto-super-bowl-kai-stoxopoiei-bad-bunny-kai-green-day/",
+          "pubDate": "Mon, 26 Jan 2026 06:02:02 +0300",
+          "description": "Ο Ντόναλντ Τραμπ δήλωσε ότι δεν θα παρακολουθήσει το φετινό Super Bowl στο Σαν Φρανσίσκο, επικρίνοντας τους Bad Bunny και Green Day για το σόου του ημιχρόνου, το οποίο χαρακτήρισε επιλογή που «σπέρνει μίσος»",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Screenshot-2026-01-24-224803-768x502.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Πόσο πρέπει να κρατάει το πρώτο ραντεβού;",
@@ -239,14 +247,6 @@
           "description": "Η Εθνική πόλο ανδρών της Ελλάδας κατέκτησε το χάλκινο μετάλλιο στο ευρωπαϊκό πρωτάθλημα του Βελιγραδίου και ανέβηκε για πρώτη φορά στην ιστορία της στο βάθρο ...  \nTo άρθρο Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grpolo-1200x784.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Πόλο: Συγχαρητήρια του πολιτικού κόσμου στην εθνική ομάδα",
-          "link": "https://www.in.gr/2026/01/26/politics/polo-sygxaritiria-tou-politikou-kosmou-stin-ethniki-omada/",
-          "pubDate": "Mon, 26 Jan 2026 00:30:31 +0300",
-          "description": "Χαρά και υπερηφάνεια για το  πρώτο μετάλλιο της εθνικής ομάδας πόλο σε Ευρωπαϊκό Πρωτάθλημα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/polo-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Me Meme: Η AI του Google Photos σε μετατρέπει στο επόμενο viral meme",
+          "link": "https://www.techgear.gr/me-meme-i-ai-toy-google-photos-se-metatrepei-sto-epomeno-viral-meme-47312",
+          "pubDate": "Mon, 26 Jan 2026 06:06:00 +0200",
+          "description": "Η Google ανακοίνωσε τη λειτουργία Me Meme για το Google Photos και φιλοδοξεί να μετατρέψει τη βιβλιοθήκη φωτογραφιών μας σε μια αστείρευτη πηγή ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/google-photos-meme-me.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Forza Horizon 6: Μας ταξιδεύει στην Ιαπωνία στις 19 Μαΐου",
           "link": "https://www.techgear.gr/forza-horizon-6-mas-taxideyei-stin-iaponia-stis-19-maioy-47311",
           "pubDate": "Mon, 26 Jan 2026 05:59:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sat, 24 Jan 2026 20:51:39 +0000",
           "description": "Παρά το γεγονός ότι ο φωνητικός έλεγχος μέσω Gemini λειτουργεί, η εφαρμογή Google Home αδυνατεί να συνδεθεί με φώτα, πρίζες και κλιματιστικά, προκαλώντας αγανάκτηση στους χρήστες.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/l/lights-out/lights-out-for-google-smart-home-devices-as-bulbs-switches-m_d2sx.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "ChatGPT Atlas: Μεγάλη αναβάθμιση για τον browser της OpenAI με Tab Groups και έξυπνη αναζήτηση",
-          "link": "https://gr.pcmag.com/ai-2/51097/chatgpt-atlas-megale-anabathmise-gia-ton-browser-tes-openai-me-tab-groups-kai-exupne-anazetese",
-          "pubDate": "Sat, 24 Jan 2026 20:40:36 +0000",
-          "description": "Η έκδοση 1.2026.15.3 φέρνει αυτόματη εναλλαγή μεταξύ ChatGPT και Google Search, ενώ η εταιρεία επιβεβαιώνει ότι εργάζεται εντατικά για την έκδοση των Windows.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/c/chatgpt-at/chatgpt-atlas-gets-new-tab-upgrades-still-no-windows-or-mobi_sptm.jpg",
           "source": "PC Magazine"
         }
       ]
