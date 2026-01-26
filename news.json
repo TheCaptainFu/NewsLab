@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T20:35:24.366Z",
+  "lastUpdated": "2026-01-26T20:38:14.127Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Σικελία: Πάνω από 1000 κάτοικοι αναγκάστηκαν να εγκαταλείψουν τα σπίτια τους λόγω κατολίσθησης",
+          "link": "https://www.newsit.gr/kosmos/sikelia-pano-apo-1000-katoikoi-anagkastikan-na-egkataleipsoun-ta-spitia-tous-logo-katolisthisis/4584230/",
+          "pubDate": "Mon, 26 Jan 2026 20:36:37 +0000",
+          "description": "Εξαιτίας κατολίσθησης που σημειώθηκε στην κωμόπολη Νισέμι, στην ανατολική Σικελία, πάνω από χίλιοι κάτοικοι αναγκάσθηκαν να εγκαταλείψουν τα σπίτια τους. Το πρωτοφανές κύμα κακοκαιρίας που ...  \nTo άρθρο Σικελία: Πάνω από 1000 κάτοικοι αναγκάστηκαν να εγκαταλείψουν τα σπίτια τους λόγω κατολίσθησης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/katolisthisi-1200x801.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Διακοπές κυκλοφορίας σε Χαλκιδική, Σέρρες και Κιλκίς λόγω έντονης βροχόπτωσης",
           "link": "https://www.protothema.gr/greece/article/1763839/diakopes-kukloforias-se-halkidiki-serres-kai-kilkis-logo-edonis-vrohoptosis/?utm_source=rss",
@@ -161,7 +169,7 @@
           "source": "In.gr"
         },
         {
-          "title": "Απίστευτη δύναμη από τον Πολονάρα: «Θα επιστρέψω στα γήπεδα μέχρι τις 20 Μαρτίου – Τίποτα δεν με τρομάζει»",
+          "title": "Απίστευτα δυνατός ο Πολονάρα: «Ήμουν στα πρόθυρα του θανάτου, αλλά θα επιστρέψω στα γήπεδα ως τις 20 Μαρτίου»",
           "link": "https://www.in.gr/2026/01/26/sports/basketball/apisteyti-dynami-apo-ton-polonara-tha-epistrepso-sta-gipeda-mexri-tis-20-martiou-tipota-den-tromazei/",
           "pubDate": "Mon, 26 Jan 2026 22:24:02 +0300",
           "description": "Ο Ακίλε Πολονάρα συνεχίζει να δίνει μάχη με τη λευχαιμία, ωστόσο η υγεία του έχει βελτιωθεί τόσο πολύ που ο ίδιος έδωσε υπόσχεση ότι στις 20 Μαρτίου θα είναι σε θέση να επιστρέψει στις προπονήσεις!",
@@ -239,14 +247,6 @@
           "description": "Τρεις κινήσεις από τον υπουργό Περιβάλλοντος με τις οποίες  θα μπει φρένο στις οικοδομικές εργασίες επέκτασης του White Coast στον Μύτακα της Μήλου",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-milos-papastaurou.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Στο μικροσκόπιο οι ελληνικές τράπεζες από διεθνείς επενδυτικούς οίκους – Περιθώρια περαιτέρω ανόδου",
-          "link": "https://www.newsit.gr/oikonomia/agores/sto-mikroskopio-oi-ellinikes-trapezes-apo-diethneis-ependytikous-oikous-perithoria-peraitero-anodou/4584121/",
-          "pubDate": "Mon, 26 Jan 2026 19:00:47 +0000",
-          "description": "Οι 4 συστημικές ελληνικές τράπεζες έχουν περιθώρια ανόδου, παρότι έχουν ενισχυθεί κατά 17% από τις αρχές του έτους και 92% τον τελευταίο χρόνο, εκφράζει η ...  \nTo άρθρο Στο μικροσκόπιο οι ελληνικές τράπεζες από διεθνείς επενδυτικούς οίκους – Περιθώρια περαιτέρω ανόδου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-640267784-1-1200x861.jpg",
-          "source": "NewsIT"
         }
       ]
     },
