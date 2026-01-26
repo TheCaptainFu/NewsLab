@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T16:10:27.303Z",
+  "lastUpdated": "2026-01-26T16:15:29.361Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,11 +9,35 @@
       "color": "red",
       "articles": [
         {
+          "title": "Διακοπή κυκλοφορίας σε Κιλκίς, Σέρρες και Χαλκιδική λόγω έντονης βροχόπτωσης",
+          "link": "https://www.protothema.gr/greece/article/1763715/diakopi-kukloforias-se-kilkis-serres-kai-halkidiki-logo-edonis-vrohoptosis/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 18:15:05 +0200",
+          "description": "Ποιους δρόμους έκλεισε η Τροχαία",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2024-12-26/troxaia-diakopi.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Έκρηξη στη βιομηχανία «Βιολάντα»: «Είχε τρία παιδιά, είναι σε άθλια ψυχολογική κατάσταση» λέει η αδερφή εργαζόμενης που σκοτώθηκε",
+          "link": "https://www.newsit.gr/ellada/ekriksi-sti-viomixania-violanta-eixe-tria-paidia-einai-se-athlia-psyxologiki-katastasi-leei-i-aderfi-ergazomenis-pou-skotothike/4584059/",
+          "pubDate": "Mon, 26 Jan 2026 16:11:54 +0000",
+          "description": "Στο πένθος έχουν βυθιστεί οι οικογένειες, οι φίλοι και οι συνάδελφοι των 5 γυναικών που βρήκαν τραγικό θάνατο τα ξημερώματα της Δευτέρας (26.01.2026), μετά την ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: «Είχε τρία παιδιά, είναι σε άθλια ψυχολογική κατάσταση» λέει η αδερφή εργαζόμενης που σκοτώθηκε δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fotia-trikala-violanta.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Χρηματιστήριο Αθηνών: Ανοδικό κλείσιμο, σε νέα υψηλά 16 ετών η αγορά",
+          "link": "https://www.newsit.gr/oikonomia/agores/xrimatistirio-athinon-anodiko-kleisimo-se-nea-ypsila-16-eton-i-agora/4584056/",
+          "pubDate": "Mon, 26 Jan 2026 16:11:15 +0000",
+          "description": "Με άνοδο έκλεισαν οι τιμές των μετοχών σήμερα (26.1.2026) στην πρώτη συνεδρίαση της εβδομάδος στο Χρηματιστήριο Αθηνών, με την αγορά να επανέρχεται σε ανοδική τροχιά ...  \nTo άρθρο Χρηματιστήριο Αθηνών: Ανοδικό κλείσιμο, σε νέα υψηλά 16 ετών η αγορά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xrimatistirio-eurokinissi.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Βρεφονηπιακοί σταθμοί: Η αναμονή που «παγώνει» τον οικογενειακό προγραμματισμό, ποιες μπορεί να είναι οι μόνιμες λύσεις",
           "link": "https://www.protothema.gr/greece/article/1763669/vrefonipiakoi-stathmoi-i-anamoni-pou-pagonei-ton-oikogeneiako-programmatismo-poies-borei-na-einai-oi-monimes-luseis/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 18:10:00 +0200",
           "description": "Τι συμβαίνει, όταν οι καθυστερήσεις στις πληρωμές από την ΕΕΤΑΑ είναι επαναλαμβανόμενες; Απαντά ο Παναγιώτης Μ. Ευαγγελίου, Μηχανολόγος Μηχανικός, εξειδικευμένος σύμβουλος σε θέματα αδειοδότησης βρεφονηπιακών σταθμών",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/panagiotis_evaggeliou_main_pic.jpg",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-evageliou.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -25,10 +49,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Στην εντατική του «Αγλαΐα Κυριακού» βρέφος 3 μηνών με συμπτώματα RSV",
-          "link": "https://www.newsit.gr/ellada/stin-entatiki-tou-aglaia-kyriakou-vrefos-3-minon-me-symptomata-rsv/4584061/",
+          "title": "Στην εντατική του Παίδων «Αγλαΐα Κυριακού» βρέφος 3 μηνών με συμπτώματα RSV",
+          "link": "https://www.newsit.gr/ellada/stin-entatiki-tou-paidon-aglaia-kyriakou-vrefos-3-minon-me-symptomata-rsv/4584061/",
           "pubDate": "Mon, 26 Jan 2026 16:09:41 +0000",
-          "description": "Σοβαρή ανησυχία προκαλεί το νέο περιστατικό που καταγράφηκε στη χθεσινή (25.01.2026) εφημερία του Παίδων «Αγλαΐα Κυριακού». Στο νοσοκομείο εισήχθη βρέφος μόλις 3 μηνών με συμπτώματα ...  \nTo άρθρο Στην εντατική του «Αγλαΐα Κυριακού» βρέφος 3 μηνών με συμπτώματα RSV δημοσιεύτηκε στο NewsIT .",
+          "description": "Σοβαρή ανησυχία προκαλεί το νέο περιστατικό που καταγράφηκε στη χθεσινή (25.01.2026) εφημερία του Παίδων «Αγλαΐα Κυριακού». Στο νοσοκομείο εισήχθη βρέφος μόλις 3 μηνών με συμπτώματα ...  \nTo άρθρο Στην εντατική του Παίδων «Αγλαΐα Κυριακού» βρέφος 3 μηνών με συμπτώματα RSV δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-525734880-1200x856.jpg",
           "source": "NewsIT"
         },
@@ -49,10 +73,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Βιολάντα: Πάνω από 1.000 βαθμοί Κελσίου στο εργοστάσιο εξαιτίας της φωτιάς - Τι εξετάζεται για τα αίτια της τραγωδίας",
+          "title": "Βιολάντα: Πάνω από 1.000 βαθμοί Κελσίου στο εργοστάσιο εξαιτίας της φωτιάς, που εξακολουθεί να καίει- Το protothema στον τόπο της τραγωδίας",
           "link": "https://www.protothema.gr/greece/article/1763649/violada-pano-apo-1000-vathmous-kelsiou-sto-ergostasio-exaitias-tis-fotias-ti-exetazetai-gia-ta-aitia-tis-tragodias/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 18:02:37 +0200",
-          "description": "Ηχητικό ντοκουμέντο από την εκκωφαντική έκρηξη - Τι «βλέπουν» για τα αίτια - Η ανακοίνωση της εταιρείας",
+          "pubDate": "Mon, 26 Jan 2026 18:02:00 +0200",
+          "description": "Βίντεο  ντοκουμέντο από την εκκωφαντική έκρηξη που ακούστηκε σε απόσταση 8 χιλιομέτρων - Εντοπίστηκε, αλλά δεν έχει ανασυρθεί η σορός του πέμπτου θύματος - Τι εξετάζεται για τα αίτια της τραγωδίας",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-violanta-1.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -223,30 +247,6 @@
           "description": "Το Εθνικό Μετσόβιο Πανεπιστήμιο κατατάσσεται πρώτο για τρίτη συνεχή χρονιά – Βάσει της συγκεκριμένης κατάταξης κατανέμεται η κρατική χρηματοδότηση στα ΑΕΙ",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-06-24/metsovio_politexneio_arthrou.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Διακόπτεται η λειτουργία του The Birth Center, η ανάρτηση της Εριέττας Κούρκουλου - Λάτση",
-          "link": "https://www.protothema.gr/greece/article/1763665/diakopi-leitourgias-tou-the-birth-center-i-anartisi-tis-eriettas-kourkoulou-latsi/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 17:14:00 +0200",
-          "description": "Η κυρία Κούρκουλου Λάτση γνωστοποίησε πως «για το προσεχές διάστημα, το Κέντρο δεν θα πραγματοποιεί φυσικούς τοκετούς στις εγκαταστάσεις του»",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/maketa-kourkoulou.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Συνελήφθη μετά από καταδίωξη 20χρονος στο Χαϊδάρι με όπλο και γεμιστήρα ",
-          "link": "https://www.protothema.gr/greece/article/1763662/sunelifthi-meta-apo-katadioxi-20hronos-sto-haidari-me-oplo-kai-gemistira/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 17:10:00 +0200",
-          "description": "Στη δικογραφία περιλαμβάνεται και έτερος δράστης κατηγορούμενος για απείθεια και επικίνδυνη οδήγηση",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/oplo-20xronos-xaidari.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ο Τραμπ στέλνει τον «τσάρο των συνόρων» Τομ Χόμαν στη Μινεσότα – «Είναι σκληρός και δίκαιος»",
-          "link": "https://www.newsit.gr/kosmos/o-tramp-stelnei-ton-tsaro-ton-synoron-tom-xoman-sti-minesota-einai-skliros-kai-dikaios/4583997/",
-          "pubDate": "Mon, 26 Jan 2026 15:09:43 +0000",
-          "description": "Τον «τσάρο» των συνόρων, Τομ Χόμαν στέλνει στη Μινεσότα ο Αμερικανός πρόεδρος, Ντόναλντ Τραμπ, ο οποίος πιέζεται έντονα ακόμη και από Ρεπουμπλικάνους βουλευτές και γερουσιαστές ...  \nTo άρθρο Ο Τραμπ στέλνει τον «τσάρο των συνόρων» Τομ Χόμαν στη Μινεσότα – «Είναι σκληρός και δίκαιος» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tomhoman-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Ο Αντρέ Λουίς βάζει τα ερυθρόλευκα, ολοκληρώνεται η μετεγγραφή του από την Ριό Άβε",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-o-antre-louis-vazei-ta-erythroleyka-oloklironetai-i-meteggrafi-tou-apo-tin-rio-ave/4584062/",
+          "pubDate": "Mon, 26 Jan 2026 16:09:47 +0000",
+          "description": "Παίκτης του Ολυμπιακού θα πρέπει να θεωρείται ο Αντρέ Λουίς, με τους ερυθρόλευκους να κάνουν δικό τους τον 23χρονο Βραζιλιάνο εξτρέμ από τη Ρίο Άβε. ...  \nTo άρθρο Ολυμπιακός: Ο Αντρέ Λουίς βάζει τα ερυθρόλευκα, ολοκληρώνεται η μετεγγραφή του από την Ριό Άβε δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/andreluiz-1200x842.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Σε δύο δόσεις οι συντάξεις Φεβρουαρίου - Οι ημέρες πληρωμών",
           "link": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
           "pubDate": "Mon, 26 Jan 2026 18:05:00 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 16:44:17 +0200",
           "description": "Η UEFA έκανε ειδική αναφορά στον αρχισκόρερ της ΑΕΚ, Λούκα Γιόβιτς, ο οποίος έχει 9 γκολ στα τελευταία 12 παιχνίδια του με τα κιτρινόμαυρα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/luka_jovic.jpg?itok=8CCBmD9l",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τούνη για revenge porn: «Ντρέπεται και η ντροπή - Ο κατηγορούμενος δήλωσε ότι έχει στραβισμό» (vid)",
-          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
-          "pubDate": "Mon, 26 Jan 2026 16:39:00 +0200",
-          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ioanna-toyni1.png.png?itok=TPl233ul",
           "source": "Gazzetta"
         }
       ]
