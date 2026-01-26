@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-01-26T06:50:34.270Z",
+  "lastUpdated": "2026-01-26T06:55:32.541Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κίνηση στους δρόμους: Στο κόκκινο ο Κηφισός, μποτιλιάρισμα στο κέντρο της Αθήνας και καθυστερήσεις στην Αττική Οδό",
+          "link": "https://www.newsit.gr/ellada/kinisi-stous-dromous-sto-kokkino-o-kifisos-mpotiliarisma-sto-kentro-tis-athinas-kai-kathysteriseis-stin-attiki-odo/4583438/",
+          "pubDate": "Mon, 26 Jan 2026 06:53:24 +0000",
+          "description": "Σοβαρά προβλήματα στην κυκλοφορία καταγράφονται από νωρίς το πρωί της Δευτέρας (26.01.2026) στους περισσότερους κεντρικούς οδικούς άξονες της Αττικής με την κίνηση να είναι αυξημένη. ...  \nTo άρθρο Κίνηση στους δρόμους: Στο κόκκινο ο Κηφισός, μποτιλιάρισμα στο κέντρο της Αθήνας και καθυστερήσεις στην Αττική Οδό δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kinisi-4.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ιωάννα Τούνη: Οι πόζες της influencer στα χιόνια με λευκή γούνα και μαύρες μπότες",
+          "link": "https://www.newsit.gr/lifestyle/ioanna-touni-oi-pozes-tis-influencer-sta-xionia-me-leyki-gouna-kai-mayres-mpotes/4583448/",
+          "pubDate": "Mon, 26 Jan 2026 06:50:29 +0000",
+          "description": "Η Ιωάννα Τούνη παραμένει ιδιαίτερα ενεργή στα social media και αυτή τη φορά δημοσιοποίησε φωτογραφίες της στα χιόνια. Η influencer που βρίσκεται διαρκώς στο επίκεντρο ...  \nTo άρθρο Ιωάννα Τούνη: Οι πόζες της influencer στα χιόνια με λευκή γούνα και μαύρες μπότες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/touni-ndp2-1200x830.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Κακοκαιρία: Τι ώρα θα ξεκινήσουν οι ισχυρές καταιγίδες στην Αττική",
           "link": "https://www.protothema.gr/greece/article/1763216/kakokairia-ti-ora-tha-xekinisoun-oi-ishures-kataigides-stin-attiki/?utm_source=rss",
@@ -17,10 +33,10 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "Μέσα Μαζικής Μεταφοράς: Αυξήσεις στα πρόστιμα για μετακίνηση χωρίς εισιτήριο σε Αθήνα και Θεσσαλονίκη",
-          "link": "https://www.protothema.gr/greece/article/1763323/mesa-mazikis-metaforas-auxiseis-sta-prostima-gia-metakinisi-horis-eisitirio-se-athina-kai-thessaloniki/?utm_source=rss",
+          "title": "Μέσα Μαζικής Μεταφοράς: Αυξήσεις έως και στα €100 τα πρόστιμα για μετακίνηση χωρίς εισιτήριο σε Αθήνα και Θεσσαλονίκη",
+          "link": "https://www.protothema.gr/greece/article/1763323/mesa-mazikis-metaforas-auxiseis-eos-kai-sta-100-ta-prostima-gia-metakinisi-horis-eisitirio-se-athina-kai-thessaloniki/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 08:46:00 +0200",
-          "description": "Στα 100 ευρώ το πρόστιμο για κανονικό εισιτήριο – Διατηρείται η έκπτωση 50% για άμεση πληρωμή και εξετάζονται νέα κίνητρα συμμόρφωσης",
+          "description": "Διατηρείται η έκπτωση 50% για άμεση πληρωμή και εξετάζονται νέα κίνητρα συμμόρφωσης",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/eisitirio-metro.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -33,10 +49,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "«Βιολάντα»: Ανασύρθηκαν 3 σοροί από τη μεγάλη φωτιά στο εργοστάσιο – Αγωνία για τους αγνοούμενους",
-          "link": "https://www.newsit.gr/uncategorized/violanta-anasyrthikan-3-soroi-apo-ti-megali-fotia-sto-ergostasio-agonia-gia-tous-agnooumenous/4583453/",
+          "title": "«Βιολάντα»: 3 νεκρές γυναίκες από τη μεγάλη φωτιά στο εργοστάσιο – Αγωνία για τις άλλες δύο αγνοούμενες",
+          "link": "https://www.newsit.gr/ellada/violanta-3-nekres-gynaikes-apo-ti-megali-fotia-sto-ergostasio-agonia-gia-tis-alles-dyo-agnooumenes/4583453/",
           "pubDate": "Mon, 26 Jan 2026 06:43:53 +0000",
-          "description": "Τραγική κατάληξη είχε η φωτιά που ξέσπασε τα ξημερώματα της Δευτέρας 26.01.2026, στις εγκαταστάσεις τις μπισκοτοβιομηχανίας Βιολάντα σα Τρίκαλα.  Από την έκρηξη που σημειώθηκε στο ...  \nTo άρθρο «Βιολάντα»: Ανασύρθηκαν 3 σοροί από τη μεγάλη φωτιά στο εργοστάσιο – Αγωνία για τους αγνοούμενους δημοσιεύτηκε στο NewsIT .",
+          "description": "Τραγική κατάληξη είχε η φωτιά που ξέσπασε τα ξημερώματα της Δευτέρας 26.01.2026, στις εγκαταστάσεις τις μπισκοτοβιομηχανίας Βιολάντα στα Τρίκαλα με 3 γυναίκες να εντοπίζονται νεκρές.  ...  \nTo άρθρο «Βιολάντα»: 3 νεκρές γυναίκες από τη μεγάλη φωτιά στο εργοστάσιο – Αγωνία για τις άλλες δύο αγνοούμενες δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-1.jpg",
           "source": "NewsIT"
         },
@@ -180,7 +196,7 @@
           "title": "Τρίκαλα: Τρεις εργαζόμενες νεκρές από τη μεγάλη φωτιά στο εργοστάσιο",
           "link": "https://www.in.gr/2026/01/26/greece/trikala-treis-ergazomenes-nekres-apo-ti-megali-fotia-sto-ergostasio/",
           "pubDate": "Mon, 26 Jan 2026 08:46:13 +0300",
-          "description": "Τρεις γυναίκες έχασαν τη ζωή τους από τη μεγάλη φωτιά που ξέσπασε τα ξημερώματα της Δευτέρας στη γνωστή μπισκοτοβιομηχανία ΒΙΟΛΑΝΤΑ στα Τρίκαλα. Η φωτιά εκδηλώθηκε λίγο πριν τις 4:00 π.μ. και έκαψε πτέρυγα του εργοστασίου. Λίγη ώρα νωρίτερα σημειώθηκε έκρηξη.",
+          "description": "Αγνοούνται άλλες δύο γυναίκες - Πριν τη φωτιά σημειώθηκε έκρηξη",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trikala-768x402.jpg",
           "source": "In.gr"
         },
@@ -230,22 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 05:31:00 +0000",
           "description": "Τι λένε τα ζώδια για σήμερα Δευτέρα 26 Ιανουαρίου 2026; Τι προβλέπει το ζώδιο και ο ωροσκόπος για σήμερα; Ταύρος: Η Σελήνη στο ζώδιό σου ...  \nTo άρθρο Τι λένε τα ζώδια για σήμερα Δευτέρα 26 Ιανουαρίου 2026 δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2023/04/iStock-1411203580-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η Αμερική αντιμέτωπη με τον ίδιο τον εαυτό της",
-          "link": "https://www.in.gr/2026/01/26/editorial/ameriki-antimetopi-ton-idio-ton-eayto-tis/",
-          "pubDate": "Mon, 26 Jan 2026 08:30:07 +0300",
-          "description": "Η Αμερική έρχεται αντιμέτωπη με τον εσωτερικό διχασμό της",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/mineapolis-768x507.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "KGM: Τα τετρακίνητα Tivoli, Korando και Musso Grand",
-          "link": "https://www.newsit.gr/auto/kgm-ta-tetrakinita-tivoli-korando-kai-musso-grand/4578796/",
-          "pubDate": "Mon, 26 Jan 2026 05:28:00 +0000",
-          "description": "Η KGM, η οποία εισάγεται στην Ελλάδα από τη ΝΙΚ. Ι. Θεοχαράκης, κατέγραψε το 2025 συνολικά 209 πωλήσεις. Το Tivoli στην κατηγορία B-SUV με 148 ...  \nTo άρθρο KGM: Τα τετρακίνητα Tivoli, Korando και Musso Grand δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kgm-musso-grand-4x4-01.jpg",
           "source": "NewsIT"
         }
       ]
@@ -303,6 +303,14 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Συνέδριο Νέας Αριστεράς: Συμβιβασμός μέχρι νεωτέρας",
+          "link": "https://www.tovima.gr/2026/01/25/politics/synedrio-neas-aristeras-symvivasmos-mexri-neoteras/",
+          "pubDate": "Sun, 25 Jan 2026 20:20:57 +0300",
+          "description": "Το κείμενο της πολιτικής απόφασης δεν έχει άμεση αναφορά στον Αλ. Τσίπρα, παρά μόνο έμμεση, ενώ δεν υπήρξε τελικά, μετά από πολύωρες συζητήσεις, ρητή αναφορά για μη συνεργασία μόνο με ένα ενδεχόμενο κόμμα υπό τον πρώην Πρωθυπουργό",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/25/xaritsis-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Ανοικτό χάσμα το αγροτικό ζήτημα",
           "link": "https://www.tanea.gr/print/2026/01/25/politics/anoikto-xasma-to-agrotiko-zitima/",
           "pubDate": "Sun, 25 Jan 2026 16:10:00 +0000",
@@ -317,6 +325,14 @@
           "description": "Με μία συμβιβαστική πολιτική πρόταση το Συνέδριο της Νέας Αριστεράς απέφυγε τον κίνδυνο της ρήξης που ήταν ορατός από την έναρξη των εργασιών και ανέβαλε το οριστικό ξεκαθάρισμα.\nΣυνέδριο Νέας Αριστεράς: Η ρήξη αναβάλλεται – Αλλά για πόσο;   - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Νικήτας Κακλαμάνης: «Να αποκαταστήσουμε τον συναισθηματικό δεσμό μας με τη λαϊκή βάση»",
+          "link": "https://www.tovima.gr/print/politics/na-apokatastisoume-ton-synaisthimatiko-desmo-mas-me-ti-laiki-vasi/",
+          "pubDate": "Sun, 25 Jan 2026 18:40:00 +0300",
+          "description": "Ο Πρόεδρος της Βουλής, Νικήτας Κακλαμάνης, πολιτικό τέκνο του Ευάγγελου Αβέρωφ και αυθεντικός εκπρόσωπος της «λαϊκής Δεξιάς», μιλάει για τις αλλαγές στον Κανονισμό του Κοινοβουλίου, τις επόμενες εκλογές, την αυτοδυναμία και τη συνταγματική αναθεώρηση.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/08/09/kaklamanis-1024x655.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Συμβιβασμός στο Συνέδριο της Νέας Αριστεράς",
@@ -343,6 +359,14 @@
           "source": "Τα Νέα"
         },
         {
+          "title": "Συγκλίσεις υπό όρους στην Κεντροαριστερά",
+          "link": "https://www.tovima.gr/print/politics/sygkliseis-ypo-orous-stin-kentroaristera/",
+          "pubDate": "Sun, 25 Jan 2026 17:45:00 +0300",
+          "description": "Το ΠαΣοΚ, ο ΣΥΡΙΖΑ, η Νέα Αριστερά και το περιβάλλον του Αλέξη Τσίπρα κρατούν ανοικτούς διαύλους - Οι επαφές υπάρχουν, οι προθέσεις δηλώνονται, οι επιφυλάξεις όμως παραμένουν ισχυρές - Τι μέλλον μπορεί να έχει όπως είναι τώρα η Κεντροαριστερά;",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/10/08/tsipras-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "ΣΥΡΙΖΑ για ανάρτηση Κ. Μητσοτάκη: Η θέση της Ελλάδας πρέπει να είναι ξεκάθαρη, όχι να ισορροπεί σε δύο βάρκες",
           "link": "https://www.naftemporiki.gr/politics/2063562/syriza-gia-anartisi-k-mitsotaki-i-thesi-tis-elladas-prepei-na-einai-xekathari-ochi-na-isorropei-se-dyo-varkes/?utm_source=rss&utm_medium=rss&utm_campaign=syriza-gia-anartisi-k-mitsotaki-i-thesi-tis-elladas-prepei-na-einai-xekathari-ochi-na-isorropei-se-dyo-varkes",
           "pubDate": "Sun, 25 Jan 2026 12:56:15 +0000",
@@ -357,6 +381,14 @@
           "description": "Με ανοικτό τον κίνδυνο διάσπασης συνεχίζεται το προγραμματικό συνέδριο της Νέας Αριστεράς και ενώ στο παρασκήνιο είναι σε εξέλιξη προσπάθειες για έναν συμβιβασμό που θα περιλαμβάνεται στην πολιτική πρόταση του.…\nΣτα όρια της ρήξης η Νέα Αριστερά – Σκληρή επίθεση Νίκου Βούτση στον Αλέξη Τσίπρα  - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Η διεύρυνση του ΠαΣοΚ στην εκδήλωση Ανανεωτικής Αριστεράς και Κινήσεων Πολιτών",
+          "link": "https://www.tovima.gr/2026/01/25/politics/i-dieyrynsi-tou-pasok-stin-ekdilosi-ananeotikis-aristeras-kai-kiniseon-politon/",
+          "pubDate": "Sun, 25 Jan 2026 14:35:11 +0300",
+          "description": "Με τη συμμετοχή στελεχών, μελών και φίλων της Ανανεωτικής Αριστεράς και των Κινήσεων Πολιτών για τη Σοσιαλδημοκρατία, πραγματοποιήθηκε η κοπή βασιλόπιτας",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/25/pita-1024x668.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Γ. Χατζηθεοδοσίου: Είναι στις προθέσεις μου να θέσω υποψηφιότητα για περιφερειάρχης Αττικής",
@@ -399,6 +431,14 @@
           "source": "Τα Νέα"
         },
         {
+          "title": "Τα «αγκάθια» για τις αλλαγές στο Σύνταγμα",
+          "link": "https://www.tovima.gr/print/politics/ta-agkathia-gia-tis-allages-sto-syntagma/",
+          "pubDate": "Sun, 25 Jan 2026 12:49:00 +0300",
+          "description": "Τι θα γίνει με τον νόμο περί ευθύνης υπουργών και τη μονιμότητα των δημοσίων υπαλλήλων - Το πολυσυζητημένο άρθρο 16 για τα πανεπιστήμια και η απόφαση του Συμβουλίου της Επικρατείας",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/30/vouli-synnefa-1024x679.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Κυρανάκης στο “Face 2 Face”: Είμαι προϊόν καλοκαιρινού έρωτα στη Σκιάθο – Δεν του κρατάω κακία, είναι ο βιολογικός μου πατέρας",
           "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-tin-sxesi-me-ton-patera-tou-krato-mia-epafi-mazi-tou-oi-epiloges-tou-kathenos-einai-sevastes/",
           "pubDate": "Sun, 25 Jan 2026 09:30:58 +0000",
@@ -431,6 +471,14 @@
           "source": "Τα Νέα"
         },
         {
+          "title": "Μητσοτάκης: Όχι σε αντιπαράθεση, αλλά σε συνεννόηση με τους συμμάχους μας",
+          "link": "https://www.tovima.gr/2026/01/25/politics/mitsotakis-oxi-se-antiparathesi-alla-se-synennoisi-me-tous-symmaxous-mas/",
+          "pubDate": "Sun, 25 Jan 2026 11:42:50 +0300",
+          "description": "«Επιδιώκουμε ενεργό ευρωπαϊκό ρόλο στη Γάζα και στη Μέση Ανατολή» έγραψε ο Κυριάκος Μητσοτάκης στην εβδομαδιαία ανασκόπησή του",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/09/mitsotakis-kyriakos-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Κ. Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη, διατηρώντας λειτουργικούς διαύλους συνεργασίας με τις ΗΠΑ",
           "link": "https://www.naftemporiki.gr/politics/2063499/k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-diatirontas-leitoyrgikoys-diayloys-synergasias-me-tis-ipa",
           "pubDate": "Sun, 25 Jan 2026 08:31:30 +0000",
@@ -445,54 +493,6 @@
           "description": "Ο Κωνσταντίνος Κυρανάκης φιλοξενήθηκε την Κυριακή 25 Ιανουαρίου στην εκπομπή “Face 2 Face” με την Κατερίνα Παναγοπούλου, όπου συζητήθηκε εκτενώς το πρόβλημα της κυκλοφοριακής συμφόρησης στην Αθήνα. Η δημοσιογράφος αναφέρθηκε στα μέτρα που εξετάζει το υπουργείο, ανάμεσά τους και την πιθανή απαγόρευση κυκλοφορίας βαρέων οχημάτων από τις 7:00 έως τις 10:00 το πρωί στην Εθνική […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Kyranakis-2-1024x683.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη – Να διατηρήσουμε διαύλους συνεργασίας με τις ΗΠΑ",
-          "link": "https://www.tanea.gr/2026/01/25/politics/mitsotakis-i-eyropi-ofeilei-na-einai-enomeni-na-diatirisoume-diaylous-synergasias-me-tis-ipa/",
-          "pubDate": "Sun, 25 Jan 2026 08:08:28 +0000",
-          "description": "«Όπως συζητήσαμε στο έκτακτο Ευρωπαϊκό Συμβούλιο της Πέμπτης, η Ευρώπη οφείλει να είναι ενωμένη, να υπερασπίζεται το Διεθνές Δίκαιο και την κυριαρχία των κρατών-μελών της, όπως στην περίπτωση της Δανίας και της Γροιλανδίας. Ταυτόχρονα, οφείλουμε να διατηρούμε ένα πλαίσιο συνεννόησης και λειτουργικούς διαύλους συνεργασίας με τις Ηνωμένες Πολιτείες, ακόμη και σε περιόδους έντασης. Καθιστώντας παράλληλα […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/mitsotakis-8-1.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Αποκάλυψη Κυρανάκη στο “Face 2 Face” για τα Τέμπη: Ο σταθμάρχης είχε βάλει κι άλλο τρένο στη λάθος γραμμή",
-          "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-trena-vasiko-melima-i-egkatastasi-pollaplon-dikleidon-asfaleias/",
-          "pubDate": "Sun, 25 Jan 2026 08:02:00 +0000",
-          "description": "Ο Αναπληρωτής Υπουργός Μεταφορών, Κωνσταντίνος Κυρανάκης, μίλησε στο “Face 2 Face” και στην Κατερίνα Παναγοπούλου για την ασφάλεια των τρένων στην Ελλάδα, μετά την τραγωδία στα Τέμπη, επισημαίνοντας ότι το βασικό μέλημα είναι η εγκατάσταση πολλαπλών δικλείδων ασφαλείας για να μειωθούν τα ανθρώπινα λάθη. Αναφέρθηκε ακόμη στον τρόπο αντιμετώπισης της κυκλοφοριακής συμφόρησης, στο επεισόδιο με […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Konstadinos-Kyranakis-sto-face-to-face.jpg-1024x576.jpeg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Στο χιονοδρομικό των Καλαβρύτων ο Κ. Μητσοτάκης – Το βίντεο που ανήρτησε",
-          "link": "https://www.naftemporiki.gr/politics/2063372/sto-chionodromiko-ton-kalavryton-o-k-mitsotakis-to-vinto-poy-anirtise/?utm_source=rss&utm_medium=rss&utm_campaign=sto-chionodromiko-ton-kalavryton-o-k-mitsotakis-to-vinto-poy-anirtise",
-          "pubDate": "Sat, 24 Jan 2026 17:13:29 +0000",
-          "description": "Αιφνιδιαστικά, και χωρίς πρωτόκολλο, ο Κυριάκος Μητσοτάκης, βρέθηκε σήμερα χιονοδρομικό κέντρο των Καλαβρύτων. Ο πρωθυπουργός έφτασε περίπου στις εννέα το πρωί, και τον υποδείχθηκε ο διευθυντής του Κέντρου, Αλέξης Άγριος.…\nΣτο χιονοδρομικό των Καλαβρύτων ο Κ. Μητσοτάκης – Το βίντεο που ανήρτησε - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Γ. Γεραπετρίτης για Συμβούλιο Ειρήνης: «Η θέση μας καθορίζεται από την ιδιότητά μας ως εκλεγμένο μέλος του Συμβουλίου Ασφαλείας του ΟΗΕ»",
-          "link": "https://www.naftemporiki.gr/politics/2063332/g-gerapetritis-gia-symvoylio-eirinis-i-thesi-mas-kathorizetai-apo-tin-idiotita-mas-os-eklegmeno-melos-toy-symvoylioy-asfaleias-toy-oie/?utm_source=rss&utm_medium=rss&utm_campaign=g-gerapetritis-gia-symvoylio-eirinis-i-thesi-mas-kathorizetai-apo-tin-idiotita-mas-os-eklegmeno-melos-toy-symvoylioy-asfaleias-toy-oie",
-          "pubDate": "Sat, 24 Jan 2026 15:27:23 +0000",
-          "description": "Σε διαρκή συνεργασία με τους Ευρωπαίους εταίρους της βρίσκεται η Ελλάδα, για το θέμα του Συμβουλίου Ειρήνης, δήλωσε ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης. «Η Ελλάδα τάσσεται σταθερά υπέρ των πρωτοβουλιών…\nΓ. Γεραπετρίτης για Συμβούλιο Ειρήνης: «Η θέση μας καθορίζεται από την ιδιότητά μας ως εκλεγμένο μέλος του Συμβουλίου Ασφαλείας του ΟΗΕ» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Άννα Διαμαντοπούλου στην ΕΦΣΥΝ: Πολιτικά και ηθικά δεν μπορούμε να συνεργαστούμε με τη Νέα Δημοκρατία",
-          "link": "https://www.naftemporiki.gr/politics/2063259/anna-diamantopoyloy-stin-efsyn-politika-kai-ithika-den-mporoyme-na-synergastoyme-me-ti-nea-dimokratia/?utm_source=rss&utm_medium=rss&utm_campaign=anna-diamantopoyloy-stin-efsyn-politika-kai-ithika-den-mporoyme-na-synergastoyme-me-ti-nea-dimokratia",
-          "pubDate": "Sat, 24 Jan 2026 11:26:15 +0000",
-          "description": "Την ανάγκη το ΠΑΣΟΚ να δώσει «διέξοδο για μια άλλη διακυβέρνηση» υπογραμμίζει η Άννα Διαμαντοπούλου, απορρίπτοντας ρητά κάθε ενδεχόμενο συνεργασίας με τη Νέα Δημοκρατία και θέτοντας ως κεντρικό διακύβευμα την…\nΆννα Διαμαντοπούλου στην ΕΦΣΥΝ: Πολιτικά και ηθικά δεν μπορούμε να συνεργαστούμε με τη Νέα Δημοκρατία - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Πηγές του ΥΕΘΑ διαψεύδουν τα περί πώλησης κτιρίου του Πολεμικού Ναυτικού στην πλατεία Κλαυθμώνος",
-          "link": "https://www.naftemporiki.gr/politics/2063247/piges-toy-yetha-diapseydoyn-ta-peri-polisis-ktirioy-toy-polemikoy-naytikoy-stin-plateia-klaythmonos/?utm_source=rss&utm_medium=rss&utm_campaign=piges-toy-yetha-diapseydoyn-ta-peri-polisis-ktirioy-toy-polemikoy-naytikoy-stin-plateia-klaythmonos",
-          "pubDate": "Sat, 24 Jan 2026 10:28:48 +0000",
-          "description": "Δημοσιεύματα περί δήθεν «πώλησης του κτιρίου του Πολεμικού Ναυτικού στην Πλατεία Κλαυθμώνος» διαψεύδουν κατηγορηματικά πηγές του υπουργείου Εθνικής Άμυνας .\nΠηγές του ΥΕΘΑ διαψεύδουν τα περί πώλησης κτιρίου του Πολεμικού Ναυτικού στην πλατεία Κλαυθμώνος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
