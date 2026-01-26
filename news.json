@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T12:25:24.534Z",
+  "lastUpdated": "2026-01-26T12:30:31.681Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,26 @@
       "color": "red",
       "articles": [
         {
-          "title": "Κομισιόν: Ξεκινά έρευνα στο «Grok» του Έλον Μασκ για την δημιουργία παράνομου περιεχομένου με γυναίκες και παιδιά",
-          "link": "https://www.newsit.gr/kosmos/komision-ksekina-ereyna-sto-grok-tou-elon-mask-gia-tin-dimiourgia-paranomou-periexomenou-me-gynaikes-kai-paidia/4583820/",
+          "title": "Εθνική πόλο γυναικών: Κόντρα στη Γαλλία το δεύτερο παιχνίδι για το ευρωπαϊκό πρωτάθλημα",
+          "link": "https://www.newsit.gr/athlitika/ethniki-polo-gynaikon-kontra-sti-gallia-to-deytero-paixnidi-gia-to-eyropaiko-protathlima/4583825/",
+          "pubDate": "Mon, 26 Jan 2026 12:28:09 +0000",
+          "description": "Η Εθνική πόλο γυναικών της Ελλάδας “διέλυσε” με 24-7 τη Σλοβακία, στην πρεμιέρα του ευρωπαϊκού πρωταθλήματος της Μαδέιρα στην Πορτογαλία και πλέον στρέφεται στο ματς ...  \nTo άρθρο Εθνική πόλο γυναικών: Κόντρα στη Γαλλία το δεύτερο παιχνίδι για το ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tricha-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Αναφορές για έκρηξη σε διαμέρισμα στους Αγίους Αναργύρους",
+          "link": "https://www.protothema.gr/greece/article/1763551/anafores-gia-ekrixi-se-diamerisma-stous-agious-anargurous/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 14:25:00 +0200",
+          "description": "Η αστυνομία διεξάγει έρευνες για το συμβάν",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-14/peripoliko_arthrou.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Κομισιόν εναντίον Μασκ: Ξεκινά έρευνα στο «Grok» για την δημιουργία παράνομου περιεχομένου με γυναίκες και παιδιά",
+          "link": "https://www.newsit.gr/kosmos/komision-enantion-mask-ksekina-ereyna-sto-grok-gia-tin-dimiourgia-paranomou-periexomenou-me-gynaikes-kai-paidia/4583820/",
           "pubDate": "Mon, 26 Jan 2026 12:23:22 +0000",
-          "description": "Κατά μέτωπο «επίθεση» εξαπολύει η Κομισιόν εναντίον του «Grok», του chatbot της τεχνητής νοημοσύνης της πλατφόρμας Χ (πρώην Twitter) του Έλον Μασκ, με αφορμή τις ...  \nTo άρθρο Κομισιόν: Ξεκινά έρευνα στο «Grok» του Έλον Μασκ για την δημιουργία παράνομου περιεχομένου με γυναίκες και παιδιά δημοσιεύτηκε στο NewsIT .",
+          "description": "Κατά μέτωπο «επίθεση» εξαπολύει η Κομισιόν εναντίον του «Grok», του chatbot της τεχνητής νοημοσύνης της πλατφόρμας Χ (πρώην Twitter) του Έλον Μασκ, με αφορμή τις ...  \nTo άρθρο Κομισιόν εναντίον Μασκ: Ξεκινά έρευνα στο «Grok» για την δημιουργία παράνομου περιεχομένου με γυναίκες και παιδιά δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grok-illustration-reuters-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -185,7 +201,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Γλυφάδας: 16χρονος πήγε στο σχολείο με τρία μαχαίρια - Συνελήφθη και ο πατέρας του",
+          "title": "Γλυφάδα: 16χρονος πήγε στο σχολείο με τρία μαχαίρια - Συνελήφθη και ο πατέρας του",
           "link": "https://www.protothema.gr/greece/article/1763531/glufadas-16hronos-pige-sto-sholeio-me-tria-mahairia-sunelifthi-kai-o-pateras-tou/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 13:43:00 +0200",
           "description": "Εκτός από τα τρία μαχαίρια, είχε στην κατοχή του και έναν κόφτη",
@@ -228,25 +244,9 @@
           "title": "«Βιολάντα»: Λαμαρίνες, θρήνος και αποκαΐδια μετά την έκρηξη – Κόπηκε στα δύο το εργοστάσιο, εικόνες χάους",
           "link": "https://www.newsit.gr/ellada/violanta-lamarines-thrinos-kai-apokaidia-meta-tin-ekriksi-kopike-sta-dyo-to-ergostasio-eikones-xaous/4583738/",
           "pubDate": "Mon, 26 Jan 2026 11:33:40 +0000",
-          "description": "Μια ανείπωτη τραγωδία ξετυλίγεται από το πρωί της Δευτέρας (26.1.26) στα Τρίκαλα, καθώς κτήριο του εργοστασίου «Βιολάντα» τυλίχθηκε στις φλόγες με αποτέλεσμα τέσσερις εργαζόμενες να ...  \nTo άρθρο «Βιολάντα»: Λαμαρίνες, θρήνος και αποκαΐδια μετά την έκρηξη – Κόπηκε στα δύο το εργοστάσιο, εικόνες χάους δημοσιεύτηκε στο NewsIT .",
+          "description": "Μια ανείπωτη τραγωδία ξετυλίγεται από το πρωί της Δευτέρας (26.1.26) στα Τρίκαλα, καθώς κτίριο του εργοστασίου «Βιολάντα» τυλίχθηκε στις φλόγες με αποτέλεσμα τέσσερις εργαζόμενες να ...  \nTo άρθρο «Βιολάντα»: Λαμαρίνες, θρήνος και αποκαΐδια μετά την έκρηξη – Κόπηκε στα δύο το εργοστάσιο, εικόνες χάους δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-r-1-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Τραγωδία στο εργοστάσιο «Βιολάντα»: Ηχητικό ντοκουμέντο με την έκρηξη να ακούγεται από 8χλμ μακριά",
-          "link": "https://www.newsit.gr/ellada/tragodia-sto-ergostasio-violanta-ixitiko-ntokoumento-me-tin-ekriksi-na-akougetai-apo-8xlm-makria/4583732/",
-          "pubDate": "Mon, 26 Jan 2026 11:33:12 +0000",
-          "description": "Στις 4 η ώρα τα ξημερώματα της Δευτέρας (26/1/2026) ο εκκωφαντικός ήχος της έκρηξης στο εργοστάσιο της «Βιολάντα» διαπέρασε κάθε «εμπόδιο» και έφτασε μέχρι και ...  \nTo άρθρο Τραγωδία στο εργοστάσιο «Βιολάντα»: Ηχητικό ντοκουμέντο με την έκρηξη να ακούγεται από 8χλμ μακριά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekrixi.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άσκηση Ετοιμότητας αύριο στο Ελευθέριος Βενιζέλος - Δεν θα επηρεάσει τη λειτουργία του αεροδρομίου",
-          "link": "https://www.protothema.gr/greece/article/1763524/askisi-etoimotitas-me-titlo-atuhima-aeroskafous-ston-aerolimena-aurio-sto-eleutherios-venizelos/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 13:29:00 +0200",
-          "description": "Η άσκηση ετοιμότητας ευρείας κλίμακας θα πραγματοποιηθεί από τις 10:30 έως και τις 13:00, ενώ δεν θα επηρεαστεί η λειτουργία του αεροδρομίου",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-29/venizelos1.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Η Γαλλία μπορεί να απαγορεύσει τα κοινωνικά δίκτυα στους κάτω των 15 μέσα σε μήνες: τι γνωρίζουμε",
+          "link": "http://gr.euronews.com/next/2026/01/26/france-could-ban-under-15s-from-social-media-within-months-heres-what-we-know",
+          "pubDate": "Mon, 26 Jan 2026 13:18:46 +0100",
+          "description": "«Όχι σε αμερικανικές πλατφόρμες ή κινεζικούς αλγόριθμους»: ο Μακρόν της Γαλλίας στοχοποιεί τεχνολογικούς γίγαντες με απαγόρευση social media για κάτω των 15",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Private jet carrying eight people crashes in Maine",
           "link": "https://www.bbc.com/news/articles/cddgqqd0peno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 12:10:29 GMT",
@@ -731,14 +739,6 @@
           "description": "Νεοϋορκέζοι συμμετέχουν σε χιονοπόλεμο στο πάρκο McCarren στο Μπρούκλιν, καθώς μια ισχυρή χειμερινή καταιγίδα σαρώνει μεγάλες εκτάσεις των ΗΠΑ.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Δεν γλύτωσαν ούτε οι Μουτζαχεντίν: Οι Ταλιμπάν αφαίρεσαν την αίθουσα δόξας από το Μουσείο Τζιχάντ",
-          "link": "http://gr.euronews.com/culture/2026/01/26/den-glytwsan-oyte-oi-moytzaxentin-oi-talimpan-afairesan-thn-ai8oysa-do3as-apo-to-moyseio",
-          "pubDate": "Mon, 26 Jan 2026 09:23:54 +0100",
-          "description": "Σύμφωνα με το Ισλάμ, δεν επιτρέπεται στους μουσουλμάνους να απεικονίζουν (τασουίρ) έμψυχα όντα",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -767,7 +767,7 @@
           "link": "https://www.gazzetta.gr/football/champions-league/2510307/agiax-olympiakos-times-kai-pagides-sta-sites-metapolisis",
           "pubDate": "Mon, 26 Jan 2026 14:17:31 +0200",
           "description": "Τα διαθέσιμα εισιτήρια που υπάρχουν σε sites μεταπώλησης αλλά κι οι τεράστιοι κίνδυνοι να πάρετε... μαγικό χαρτάκι και να δείτε το Άγιαξ-Ολυμπιακός από κάποια πλατεία του Άμστερνταμ!",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiacos_fans.jpg?itok=cG5cMSv8",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gate7.jpg?itok=B-KOaGyf",
           "source": "Gazzetta"
         },
         {
