@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T15:15:28.123Z",
+  "lastUpdated": "2026-01-26T15:20:29.438Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,9 +9,9 @@
       "color": "red",
       "articles": [
         {
-          "title": "Διακοπή λειτουργίας του The Birth Center, η ανάρτηση της Εριέττας Κούρκουλου Λάτση",
+          "title": "Διακόπτεται η λειτουργία του The Birth Center, η ανάρτηση της Εριέττας Κούρκουλου - Λάτση",
           "link": "https://www.protothema.gr/greece/article/1763665/diakopi-leitourgias-tou-the-birth-center-i-anartisi-tis-eriettas-kourkoulou-latsi/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 17:14:05 +0200",
+          "pubDate": "Mon, 26 Jan 2026 17:14:00 +0200",
           "description": "Η κυρία Κούρκουλου γνωστοποίησε πως «για το προσεχές διάστημα, το Κέντρο δεν θα πραγματοποιεί φυσικούς τοκετούς στις εγκαταστάσεις του»",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/maketa-kourkoulou.jpg",
           "source": "Πρώτο Θέμα"
@@ -271,6 +271,14 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τι λέει η πρόταση",
+          "link": "https://www.tovima.gr/2026/01/26/politics/epistoliki-psifos-gia-tous-ektos-elladas-eklogeis-ti-leei-i-protasi/",
+          "pubDate": "Mon, 26 Jan 2026 17:16:57 +0300",
+          "description": "Πρόταση για επιστολική ψήφο σε όσους ψηφίζουν εκτός Ελλάδας κατέθεσε στο υπουργικό συμβούλιο ο υπουργός Εσωτερικών. Την Πέμπτη η άτυπη διακομματική επιτροπή υπό τον Θοδωρή Λιβάνιο.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2024/04/28/epistoliki-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Τριβές στο ΠΑΣΟΚ: Οι συνεργασίες είναι μόνο η αφορμή",
           "link": "https://www.tanea.gr/print/2026/01/26/politics/oi-synergasies-einai-mono-lfi-aformi/",
           "pubDate": "Mon, 26 Jan 2026 14:07:00 +0000",
@@ -485,14 +493,6 @@
           "description": "Τα συλλυπητήριά του στις οικογένειες των θυμάτων από τη φονική πυρκαγιά στο εργοστάσιο της Βιολάντα στα Τρίκαλα αποστέλλει με ανάρτησή του ο αντιπρόεδρος της κυβέρνησης, Κωστής Χατζηδάκης, ανακοινώνοντας παράλληλα και…\nΒιολάντα: Συλλυπητήρια ανακοίνωση από τον Κωστή Χατζηδάκη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Μητσοτάκης για τα Τρίκαλα: Η σκέψη μας βρίσκεται με τις οικογένειες των θυμάτων",
-          "link": "https://www.tanea.gr/2026/01/26/politics/mitsotakis-gia-ta-trikala-i-skepsi-mas-vrisketai-me-tis-oikogeneies-ton-thymaton/",
-          "pubDate": "Mon, 26 Jan 2026 09:50:48 +0000",
-          "description": "Αναφορά στο τραγικό δυστύχημα σε εργοστάσιο τροφίμων στα Τρίκαλα έκανε ο πρωθυπουργός ξεκινώντας την εισήγησή του στη σημερινή συνεδρίαση του Υπουργικού Συμβουλίου επισημαίνοντας ότι «η σκέψη μας βρίσκεται με τις οικογένειες των θυμάτων ενώ η πυροσβεστική ερευνά ήδη τις συνθήκες για να αποδοθούν ευθύνες». Τόνισε επίσης,  ότι στις δύσκολες συγκυρίες που διάγουμε είναι κρίσιμη η […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/mitsotakis-9.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Spain slashes speed limit on popular train route after fault found",
+          "link": "https://www.bbc.com/news/articles/ckgy049ypd5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 15:17:32 GMT",
+          "description": "The discovery of a crack on the Madrid-Barcelona line follows two recent deadly crashes in the country.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab0/live/dc8612b0-fac9-11f0-92f0-7514a316844b.jpg",
+          "source": "BBC News"
+        },
         {
           "title": "Αυτή η πόλη της Μέσης Ανατολής μόλις ανακηρύχθηκε τουριστική πρωτεύουσα για το 2026",
           "link": "http://gr.euronews.com/travel/2026/01/26/this-middle-eastern-city-has-just-been-named-a-tourism-capital-for-2026",
@@ -522,14 +530,6 @@
           "pubDate": "Mon, 26 Jan 2026 14:42:30 GMT",
           "description": "The Israeli military had been searching for Ran Gvili since the ceasefire with Hamas began in October.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccaa/live/8e6eb450-fac0-11f0-b5f7-49f0357294ff.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Spain slashes speed limit on popular train route after fault found",
-          "link": "https://www.bbc.com/news/articles/ckgy049ypd5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 14:37:29 GMT",
-          "description": "The discovery of a crack on the Madrid-Barcelona line follows two recent deadly crashes in the country.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b13/live/66a4a890-fabf-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
         },
         {
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ρεάλ Μαδρίτης: Πως θα είναι η ζωή χωρίς τον Μαλεντόν",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510359/real-madritis-pos-tha-einai-i-zoi-horis-ton-malenton",
+          "pubDate": "Mon, 26 Jan 2026 17:16:30 +0200",
+          "description": "Ο Τεό Μαλεντόν θα παραμείνει εκτός δράσης λόγω του τραυματισμού του στον προσαγωγό για 2-3 εβδομάδες και η Ρεάλ θα πρέπει να καλύψει το κενό του.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/maledon.jpg?itok=2mUI-OK2",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Άρης: Η ΚΑΕ έστειλε βίντεο διαμαρτυρίας στην ΕΟΚ/ΚΕΔ",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510356/aris-i-kae-esteile-binteo-diamartyrias-stin-eokked",
           "pubDate": "Mon, 26 Jan 2026 17:11:17 +0200",
@@ -870,7 +878,7 @@
           "title": "Γκάλης για Εθνική πόλο: «Περήφανοι για εσάς»",
           "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510347/gkalis-gia-ethniki-polo-perifanoi-gia-esas",
           "pubDate": "Mon, 26 Jan 2026 16:28:55 +0200",
-          "description": "Ο Νίκος Γκάλης αποθέωσε την Εθνική ομάδα πόλο ανδρών, μετά την κατάκτηση του ιστορικού χάλκινου μεταλλίου.",
+          "description": "Ο Νίκος Γκάλης αποθέωσε την Εθνική ομάδα πόλο ανδρών μετά την κατάκτηση του ιστορικού χάλκινου μεταλλίου.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-05/nick_gkalis_eurokinissi_giorgos_matthaios.jpg?itok=Eq1QKCVo",
           "source": "Gazzetta"
         },
@@ -977,14 +985,6 @@
           "description": "Η ώρα για το Final 8 στο Κύπελλο Ελλάδας του μπάσκετ πλησιάζει και η ΕΟΚ ξεκίνησε την… αντίστροφη μέτρηση, ανακοινώνοντας την κυκλοφορία των εισιτηρίων για ...  \nTo άρθρο Κύπελλο Ελλάδας: Κυκλοφόρησαν τα εισιτήρια για το Final 8 του μπάσκετ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/09/sloukas-fournier-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Παναθηναϊκός: Ανακοίνωσε την απόκτηση της Στράντζαλη",
-          "link": "https://www.gazzetta.gr/volleyball/volley-league-gynaikon/2510334/panathinaikos-anakoinose-tin-apoktisi-tis-strantzali",
-          "pubDate": "Mon, 26 Jan 2026 15:44:48 +0200",
-          "description": "Ο Παναθηναϊκός ανακοίνωσε την απόκτηση της Ελληνίδας ακραίας, Όλγας Στράντζαλη, στο πλαίσιο της ενίσχυσης του τμήματος γυναικών στο βόλεϊ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/strantzali.jpg?itok=u8660cWr",
-          "source": "Gazzetta"
         }
       ]
     },
