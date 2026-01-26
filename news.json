@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T23:35:27.408Z",
+  "lastUpdated": "2026-01-26T23:40:24.734Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κίνα: Λεοπάρδαλη του χιονιού δάγκωσε στο πρόσωπο σκιέρ που προσπάθησε να βγάλει σέλφι με το ζώο",
+          "link": "https://www.newsit.gr/kosmos/kina-leopardali-tou-xioniou-dagkose-sto-prosopo-skier-pou-prospathise-na-vgalei-selfi-me-to-zoo/4584270/",
+          "pubDate": "Mon, 26 Jan 2026 23:37:16 +0000",
+          "description": "Με ένα σοβαρό τραύμα στο πρόσωπο «πλήρωσε» μία σκιέρ στην Κίνα την προσπάθειά της να τραβήξει μία σέλφι με μία σπάνια λευκή λεοπάρδαλη του χιονιού. ...  \nTo άρθρο Κίνα: Λεοπάρδαλη του χιονιού δάγκωσε στο πρόσωπο σκιέρ που προσπάθησε να βγάλει σέλφι με το ζώο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/leopard-china-27012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ο Τραμπ βάζει δασμούς 25% σε εισαγωγές από τη Νότια Κορέα",
           "link": "https://www.newsit.gr/kosmos/o-tramp-vazei-dasmous-25-se-eisagoges-apo-ti-notia-korea/4584268/",
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 23:42:41 +0300",
           "description": "Η Ουντινέζε έφυγε με το διπλό από το Μπεντεγκόντι, ανέβηκε στην 10η θέση και άφησε στον πάτο της βαθμολογίας την Βερόνα.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/unisssddd-768x466.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "«Δεν είμαι Ναζί»: Ο Κάνιε Γουέστ απολογείται για τον Χίτλερ στη WSJ – Μανιακό επεισόδιο, τροχαίο και Μπιάνκα",
-          "link": "https://www.in.gr/2026/01/26/go-fun/den-eimai-nazi-o-kanie-gouest-apologeitai-gia-ton-xitler-sti-wsj-maniako-epeisodio-troxaio-kai-mpianka/",
-          "pubDate": "Mon, 26 Jan 2026 23:41:39 +0300",
-          "description": "Ο Κάνιε Γουέστ αγόρασε μια ολοσέλιδη καταχώρηση στη Wall Street Journal για να ζητήσει συγγνώμη για το ακραίο αντισημιτικό του παραλήρημα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2016-12-13T150703Z_529198592_RC14A74E5200_RTRMADP_3_USA-TRUMP-KANYEWEST-1-768x512.jpg",
           "source": "In.gr"
         }
       ]
