@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T21:20:32.364Z",
+  "lastUpdated": "2026-01-26T21:25:25.159Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Μία μέρα πριν την τραγωδία οι τρεις γυναίκες που σκοτώθηκαν στην έκρηξη στη Βιολάντα ήταν στην κοπή της πίτας της εταιρείας",
+          "link": "https://www.protothema.gr/greece/article/1763845/to-gledi-egine-thrinos-sto-ergostasio-tis-violada-i-teleutaia-fotografia-ton-adikohamenon-gunaikon/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 23:22:11 +0200",
+          "description": "Οι γυναίκες λίγες ώρες πριν την τραγωδία διασκέδαζαν μαζί στην κοπή της πρωτοχρονιάτικης πίτας της εταιρείας - Λόγω της εκδήλωσης στο εργοστάσιο ήταν 12 αντί για 30 άτομα στη βάρδια",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-26/violanda-xrwma.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Η ΑΕΛ Novibet ανακοίνωσε την απόκτηση του Ντιλάν Μπατουμπινσικά από τη Σεντ Ετιέν",
+          "link": "https://www.newsit.gr/athlitika/i-ael-novibet-anakoinose-tin-apoktisi-tou-ntilan-mpatoumpinsika-apo-ti-sent-etien/4584242/",
+          "pubDate": "Mon, 26 Jan 2026 21:20:22 +0000",
+          "description": "Παίκτης της AΕΛ Novibet είναι με κάθε επισημότητα ο Ντιλάν Μπατουμπινσικά, με τους «βυσσινί» να ανακοινώνουν την απόκτηση του Κογκολέζου στόπερ με συμβόλαιο ως το ...  \nTo άρθρο Η ΑΕΛ Novibet ανακοίνωσε την απόκτηση του Ντιλάν Μπατουμπινσικά από τη Σεντ Ετιέν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/dylan-batubinsika-ael-fc.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ένας νεκρός από ουκρανικό χτύπημα στη ρωσική περιφέρεια Μπέλγκοροντ",
           "link": "https://www.newsit.gr/kosmos/enas-nekros-apo-oukraniko-xtypima-sti-rosiki-perifereia-mpelgkoront/4584249/",
@@ -103,6 +119,14 @@
           "description": "Σεισμός μεγέθους 3,6 βαθμών της κλίμακας Ρίχτερ σημειώθηκε στην Κρήτη το βράδυ της Δευτέρας (26.01.2026). Το επίκεντρο της δόνησης εντοπίζεται στη θαλάσσια περιοχή κοντά στα ...  \nTo άρθρο Σεισμός 3,6 Ρίχτερ στην Κρήτη – Ανοιχτά από τα Σφακιά το επίκεντρο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/seismos2-26012026.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Αστυνομικός πυροβόλησε και σκότωσε 28χρονο στο Μιλάνο σε έλεγχο για ναρκωτικά",
+          "link": "https://www.in.gr/2026/01/26/world/astynomikos-pyrovolise-kai-skotose-28xrono-sto-milano-se-elegxo-gia-narkotika/",
+          "pubDate": "Mon, 26 Jan 2026 23:23:49 +0300",
+          "description": "Οι αστυνομικοί στο Μιλάνο είπαν ότι τους σημάδεψε με περίστροφο, ωστόσο διαπιστώθηκε ότι κρατούσε ένα πιστόλι κρότου. Ήταν γνωστός στις αρχές για υποθέσεις ναρκωτικών και κλοπές.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alex-suprun-Fn57NtC4ddk-unsplash-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Ψάχνουν το πελατολόγιο του σουβλατζίδικου στη Δραπετσώνα που μαζί με πιτόγυρα πούλαγε και ναρκωτικά",
@@ -223,30 +247,6 @@
           "description": "Απίστευτο περιστατικό στην Ακτή Δυμαίων στην Πάτρα. Ένας 35χρονος οδηγός καταγγέλλει ότι δέχτηκε επίθεση από άλλον οδηγό, ο οποίος του έσπασε το χέρι με λοστό ...  \nTo άρθρο Πάτρα: Του έκλεισε με το αυτοκίνητο τον δρόμο και του έσπασε το χέρι με λοστό δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-2-2.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ντόναλντ Τραμπ για τον θάνατο του Άλεξ Πρέτι στη Μινεάπολη: «Πρόκειται για τραγωδία – αποτέλεσμα εχθρικής αντίστασης Δημοκρατικών»",
-          "link": "https://www.newsit.gr/kosmos/ntonalnt-tramp-gia-ton-thanato-tou-aleks-preti-sti-mineapoli-prokeitai-gia-tragodia-apotelesma-exthrikis-antistasis-dimokratikon/4584199/",
-          "pubDate": "Mon, 26 Jan 2026 19:59:38 +0000",
-          "description": "Ο Ντόναλντ Τραμπ πιστεύει πως ο θάνατος του 37χρονου νοσηλευτή Άλεξ Πρέτι από τα πυρά ομοσπονδιακών αστυνομικών της ICE στη Μινεάπολη, στις ΗΠΑ, είναι μια ...  \nTo άρθρο Ντόναλντ Τραμπ για τον θάνατο του Άλεξ Πρέτι στη Μινεάπολη: «Πρόκειται για τραγωδία – αποτέλεσμα εχθρικής αντίστασης Δημοκρατικών» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/minneapolis-shooting-usa-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σε «Red Code» η Περιφέρεια Κρήτης λόγω της κακοκαιρίας",
-          "link": "https://www.protothema.gr/greece/article/1763824/se-red-code-i-perifereia-kritis-logo-tis-kakokairias/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 21:59:00 +0200",
-          "description": "Σε ετοιμότητα οι αρμόδιες υπηρεσίες για την αντιμετώπιση κινδύνων από την εκδήλωση πλημμυρικών φαινομένων",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/6819868.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Πάνω από 800 παραβάσεις για μη χρήση κράνους την τελευταία εβδομάδα",
-          "link": "https://www.protothema.gr/greece/article/1763812/pano-apo-800-paravaseis-gia-mi-hrisi-kranous-tin-teleutaia-evdomada/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 21:49:31 +0200",
-          "description": "Το κράνος δεν είναι απλώς αξεσουάρ, είναι ευθύνη που σώζει ζωές, αναφέρει η ανακοίνωση της αστυνομίας",
-          "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-21/troxaia12.png",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -509,6 +509,14 @@
           "source": "BBC News"
         },
         {
+          "title": "Θύελλα αντιδράσεων από το Παρατηρητήριο Τρίτης Ηλικίας μετά τις δηλώσεις του Φειδία Παναγιώτου ",
+          "link": "http://gr.euronews.com/2026/01/26/8yella-antidrasewn-apo-to-parathrhthrio-triths-hlikias-meta-tis-dhlwseis-toy-feidia-panagi",
+          "pubDate": "Mon, 26 Jan 2026 22:17:46 +0100",
+          "description": "Καταγγελία σε βάρος του στο Ευρωκοινοβούλιο θα υποβάλει η Κυπριακή Παραολυμπιακή Επιτροπή",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Γερμανία: Η εγγύτητα του Σρέντερ στη Ρωσία πυροδοτεί νέο κύμα αντιδράσεων",
           "link": "http://gr.euronews.com/2026/01/26/germania-h-eggythta-toy-srenter-sth-rwsia-pyrodotei-neo-kyma-antidrasewn",
           "pubDate": "Mon, 26 Jan 2026 22:00:51 +0100",
@@ -731,14 +739,6 @@
           "description": "Η Greenpeace στις Βρυξέλλες διαμαρτυρήθηκε για την εξάρτηση της ΕΕ από εισαγόμενα ορυκτά καύσιμα, ζητώντας ΑΠΕ αντί για εξάρτηση από ΗΠΑ και Ρωσία.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Γιώργος Παπαγεωργίου: Είμαστε πολύ κοντά πια σε μια εσωτερική και κοινωνική δυστοπία",
-          "link": "http://gr.euronews.com/culture/2026/01/26/yorgos-papageorgiou-eimaste-poli-konta-pia-se-mia-esoteriki-kai-koinoniki-distopia",
-          "pubDate": "Mon, 26 Jan 2026 14:54:15 +0100",
-          "description": "Ο Γιώργος Παπαγεωργίου σκηνοθετεί και πρωταγωνιστεί στη θεατρική μεταφορά του «1984», του εμβληματικού μυθιστορήματος του Τζορτζ Όργουελ, που παρουσιάζεται στο θέατρο Δίπυλον",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Η ΑΕΛ Novibet ανακοίνωσε την απόκτηση του Ντιλάν Μπατουμπινσικά από τη Σεντ Ετιέν",
+          "link": "https://www.newsit.gr/athlitika/i-ael-novibet-anakoinose-tin-apoktisi-tou-ntilan-mpatoumpinsika-apo-ti-sent-etien/4584242/",
+          "pubDate": "Mon, 26 Jan 2026 21:20:22 +0000",
+          "description": "Παίκτης της AΕΛ Novibet είναι με κάθε επισημότητα ο Ντιλάν Μπατουμπινσικά, με τους «βυσσινί» να ανακοινώνουν την απόκτηση του Κογκολέζου στόπερ με συμβόλαιο ως το ...  \nTo άρθρο Η ΑΕΛ Novibet ανακοίνωσε την απόκτηση του Ντιλάν Μπατουμπινσικά από τη Σεντ Ετιέν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/dylan-batubinsika-ael-fc.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Αρμάνι - Βαρέζε 74-84: Η ομάδα του Καστρίτη έκανε… ριφιφί στο Μιλάνο!",
           "link": "https://www.gazzetta.gr/basketball/mpasket-italia/2510433/armani-bareze-74-84-i-omada-toy-kastriti-ekane-rififi-sto-milano",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 20:47:42 +0200",
           "description": "Η εξέλιξη δεν σταματά ποτέ και ένας επιστήμονας δείχνει τον πιο απρόσμενο διάδοχο του ανθρώπου.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pithikos.jpg?itok=_sMcm2tu",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τραγωδία στα Τρίκαλα: Η μειωμένη βάρδια, το διάλειμμα των πέντε και η μακάβρια διαδικασία ταυτοποίησης",
-          "link": "https://www.gazzetta.gr/plus/2510408/tragodia-sta-trikala-i-meiomeni-bardia-dialeimma-ton-pente-kai-i-makabria-diadikasia",
-          "pubDate": "Mon, 26 Jan 2026 20:33:46 +0200",
-          "description": "Νέες πληροφορίες για την τραγωδία στα Τρίκαλα, όπου τέσσερις εργαζόμενες γυναίκες έχασαν τη ζωή του και μία αγνοείται.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/trikala_-_violanta_1.jpg?itok=XN_5slPB",
           "source": "Gazzetta"
         }
       ]
