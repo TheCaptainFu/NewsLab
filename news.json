@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T17:05:30.008Z",
+  "lastUpdated": "2026-01-26T17:10:32.750Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Νεκρός 40χρονος που παρασύρθηκε από ΙΧ στη Νίκαια, δώρισε τα όργανα η οικογένεια",
+          "link": "https://www.protothema.gr/greece/article/1763744/nekros-40hronos-pou-parasurthike-apo-ih-sti-nikaia-dorise-ta-organa-i-oikogeneia-kalo-taxidi-levedi-mou/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 19:10:08 +0200",
+          "description": "Ο Χριστόφορος ασχολούνταν επαγγελματικά με την μαγειρική",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2023-01-12/dorea-organon.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Meteo: Πάνω από 43.000 κεραυνοί έπεσαν την Δευτέρα – Οι περιοχές που «πνίγηκαν» από τη βροχή",
           "link": "https://www.newsit.gr/ellada/meteo-pano-apo-43-000-keraynoi-epesan-tin-deytera-oi-perioxes-pou-pnigikan-apo-ti-vroxi/4584109/",
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 16:00:12 +0000",
           "description": "Την έκπτωση φόρου Αγαθών και Υπηρεσιών (GST) αποφάσισε να αυξήσει ο πρωθυπουργός του Καναδά Μαρκ Κάρνεϊ, προσπαθώντας να αντιμετωπίσει τις ανησυχίες των πολιτών σχετικά με ...  \nTo άρθρο Ο Καναδάς αυξάνει την έκπτωση του φόρου για αγαθά και υπηρεσίες εν μέσω αυξανόμενης ακρίβειας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/canada-carney-reuters-1200x901.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ιστορική ημέρα στον ΠΑΟΚ, έπεσαν οι υπογραφές για τη Νέα Τούμπα",
-          "link": "https://www.newsit.gr/athlitika/istoriki-imera-ston-paok-epesan-oi-ypografes-gia-ti-nea-toumpa/4584049/",
-          "pubDate": "Mon, 26 Jan 2026 15:59:54 +0000",
-          "description": "Άνοιξε ο δρόμος για την κατασκευή της Νέας Τούμπας αφού τη Δευτέρα (26.01.2026) η ΠΑΕ ΠΑΟΚ, ο ΑΣ ΠΑΟΚ και η εταιρεία “Φωλιά του Δικέφαλου ...  \nTo άρθρο Ιστορική ημέρα στον ΠΑΟΚ, έπεσαν οι υπογραφές για τη Νέα Τούμπα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-nea-toympa-paokfc-1200x769.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Κατράνης: «Εκτελεστής» για τη Real Salt Lake στη νίκη επί της Μπρόντμπι",
+          "link": "https://www.gazzetta.gr/football/mls/2510382/katranis-ektelestis-gia-ti-real-salt-lake-sti-niki-epi-tis-mprontmpi",
+          "pubDate": "Mon, 26 Jan 2026 19:07:49 +0200",
+          "description": "Ο Αλέξανδρος Κατράνης χάρισε τη νίκη στην Real Salt Lake σε ματς προετοιμασίας κόντρα στη Μπρόντμπι με «ξερό» σουτ από θέση βολής.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/katranis.png?itok=1Djn-imQ",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Η Εθνική πόλο ανδρών επέστρεψε στην Ελλάδα έχοντας κατακτήσει ιστορικό χάλκινο μετάλλιο στο ευρωπαϊκό",
           "link": "https://www.newsit.gr/athlitika/i-ethniki-polo-andron-epestrepse-stin-ellada-exontas-kataktisei-istoriko-xalkino-metallio-sto-eyropaiko/4584107/",
           "pubDate": "Mon, 26 Jan 2026 17:01:59 +0000",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 17:11:17 +0200",
           "description": "Μετά την ανακοίνωση, η ΚΑΕ Άρης απέστειλε και οπτικό υλικό στην ΕΟΚ/ΚΕΔ διαμαρτυρόμενη για τη διαιτησία του αγώνα με τον Προμηθέα Πατρών.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6110867_3_4_1.jpg?itok=mMHLppEE",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άλεξ Χόνολντ: Ο άνθρωπος που ανέβηκε στον ουρανοξύστη Taipei 101, δεν μπορεί να νιώσει φόβο",
-          "link": "https://www.gazzetta.gr/plus/2510355/alex-honolnt-o-anthropos-poy-anebike-ston-oyranoxysti-taipei-101-den-mporei-na-niosei",
-          "pubDate": "Mon, 26 Jan 2026 17:11:00 +0200",
-          "description": "Το 2016, ο τότε 30χρονος Χόνολντ υποβλήθηκε σε λειτουργική μαγνητική τομογραφία (fMRI), καθώς οι ερευνητές ήθελαν να μάθουν εάν ο εγκέφαλός του αντιδρά διαφορετικά από τους περισσότερους ανθρώπους σε εικόνες που προκαλούν φόβο",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bomb.jpg?itok=SQoDAH3V",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Nexus Mods: Το Vortex φέρνει το εγγενές modding στο Steam Deck και το Steam Machine",
+          "link": "https://gr.pcmag.com/games/51131/nexus-mods-to-vortex-phernei-to-eggenes-modding-sto-steam-deck-kai-to-steam-machine",
+          "pubDate": "Mon, 26 Jan 2026 17:09:53 +0000",
+          "description": "Η δημοφιλής πλατφόρμα ανακοίνωσε το πλάνο της για το 2026, εστιάζοντας στην υποστήριξη του SteamOS και στον πλήρη εκσυγχρονισμό του Vortex για ευκολότερη διαχείριση mods σε περιβάλλον Linux.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/n/nexus-mods/nexus-mods-pledges-to-add-native-steam-deck-steam-machine-su_k53a.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "MAIA 200: Η Microsoft χτίζει την επόμενη οικονομία Τεχνητής Νοημοσύνης",
           "link": "https://www.techgear.gr/maia-200-i-microsoft-chtizei-tin-epomeni-oikonomia-technitis-noimosynis-47332",
           "pubDate": "Mon, 26 Jan 2026 19:03:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Mon, 26 Jan 2026 06:24:00 +0200",
           "description": "Η κινεζική εταιρεία LimX Dynamics ανακοίνωσε επίσημα την κυκλοφορία του COSA (Cognitive OS of Agents), ένα πρωτοποριακό λειτουργικό σύστημα ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/cosa-limx-dynamics.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Me Meme: Η AI του Google Photos σε μετατρέπει στο επόμενο viral meme",
-          "link": "https://www.techgear.gr/me-meme-i-ai-toy-google-photos-se-metatrepei-sto-epomeno-viral-meme-47312",
-          "pubDate": "Mon, 26 Jan 2026 06:06:00 +0200",
-          "description": "Η Google ανακοίνωσε τη λειτουργία Me Meme για το Google Photos και φιλοδοξεί να μετατρέψει τη βιβλιοθήκη φωτογραφιών μας σε μια αστείρευτη πηγή ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/google-photos-meme-me.jpg",
           "source": "Techgear"
         }
       ]
