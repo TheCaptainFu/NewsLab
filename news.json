@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T06:10:31.239Z",
+  "lastUpdated": "2026-01-26T06:15:28.876Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -43,8 +43,8 @@
         {
           "title": "Μόνο μία AI κάμερα στη Μεσογείων «έκοψε» 28.000 κλήσεις για κόκκινο σε έναν μήνα",
           "link": "https://www.protothema.gr/greece/article/1763301/mono-mia-ai-kamera-sti-mesogeion-ekopse-28000-kliseis-gia-kokkino-se-enan-mina/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 07:58:15 +0200",
-          "description": "Ξεπερνούν κάθε πρόβλεψη οι καταγραφές από τις 8 έξυπνες κάμερες που λειτουργούν - Tις επόμενες ημέρες φτάνουν οι πρώτές κλήσεις στο κινητό κινητό - Όποιος οδηγός αμφισβητεί την παράβαση θα επικοινωνεί με την Τροχαία με βιντεοκλήση",
+          "pubDate": "Mon, 26 Jan 2026 07:58:00 +0200",
+          "description": "Ξεπερνούν κάθε πρόβλεψη οι καταγραφές από τις 8 έξυπνες κάμερες που λειτουργούν - Tις επόμενες ημέρες φτάνουν οι πρώτες κλήσεις στο κινητό - Όποιος οδηγός αμφισβητεί την παράβαση, θα επικοινωνεί με την Τροχαία με βιντεοκλήση",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/ai-kameres-ef-mak.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Πρόγραμμα Τηλεόρασης: Όλοι οι αγώνες και οι αθλητικές μεταδόσεις σήμερα (26/1)",
+          "link": "https://www.gazzetta.gr/2510233/programma-tileorasis-oloi-oi-agones-kai-oi-athlitikes-metadoseis-simera-261",
+          "pubDate": "Mon, 26 Jan 2026 08:11:13 +0200",
+          "description": "Δείτε στον τηλεοπτικό οδηγό του Gazzetta ώρες και κανάλια για την πλούσια αθλητική δράση της ημέρας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/sociedad_girona.jpg?itok=7L9eM6P0",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Πάρτι για Πίστονς και Κλίπερς, διπλό στο Φοίνιξ οι Χιτ (vid)",
           "link": "https://www.gazzetta.gr/basketball/nba/2510232/parti-gia-pistons-kai-klipers-diplo-sto-foinix-oi-hit-vid",
           "pubDate": "Mon, 26 Jan 2026 08:07:45 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 22:59:59 +0200",
           "description": "Ξενοδοχειακό συγκρότημα στη Σουηδία προσφέρει εποχική εργασία σε έμπειρους σεφ à la carte για το καλοκαίρι του 2026, με μισθό περίπου 2.800 ευρώ και παροχή διαμονής.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2025-11/chef.jpg.jpg?itok=_wIQ7aqh",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τουρκία: Φιάσκο με απευθείας εκτέλεση φάουλ που δεν μέτρησε ως γκολ! ",
-          "link": "https://www.gazzetta.gr/football/2510178/toyrkia-fiasko-me-apeytheias-ektelesi-faoyl-poy-den-metrise-os-gkol",
-          "pubDate": "Sun, 25 Jan 2026 22:58:56 +0200",
-          "description": "Απίστευτα πράγματα στην Τουρκία, εκεί όπου ομάδα τέταρτης κατηγορίας σκόραρε με απευθείας εκτέλεση φάουλ και ο διαιτητής δεν το είδε ποτέ!",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/turkey_foul.png?itok=GubvEXhj",
           "source": "Gazzetta"
         }
       ]
