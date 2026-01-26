@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T18:25:24.227Z",
+  "lastUpdated": "2026-01-26T18:30:32.626Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,7 +9,7 @@
       "color": "red",
       "articles": [
         {
-          "title": "Αύξηση 3 ευρώ στην αμοιβή γιατρών συμβεβλημένων με τον ΕΟΠΥΥ προβλέπει τροπολογία που προωθεί το υπουργείο Υγείας",
+          "title": "Αύξηση 3 ευρώ στην αμοιβή ιατρών συμβεβλημένων με τον ΕΟΠΥΥ προβλέπει τροπολογία που προωθεί το υπουργείο Υγείας",
           "link": "https://www.protothema.gr/greece/article/1763776/auxisi-3-euro-stin-amoivi-giatron-sumvevlimenon-me-ton-eopuu-provlepei-tropologia-pou-proothei-to-upourgeio-ugeias/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 20:24:00 +0200",
           "description": "Σύμφωνα με ενημέρωση του πρόεδρου του Ιατρικού Συλλόγου Αθηνών, Γιώργου Πατούλη, από τον υπουργό Υγείας, Άδωνι Γεωργιάδη, η αμοιβή αναμένεται να αυξηθεί από τα 10 στα 13 ευρώ",
@@ -29,7 +29,7 @@
           "link": "https://www.protothema.gr/greece/article/1763771/eskase-agogos-nerou-sti-thessaloniki-tesseris-traumaties-deite-video/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 20:14:00 +0200",
           "description": "Η διοίκηση της ΕΥΑΘ έδωσε εντολή να ξεκινήσει άμεσα η διαδικασία ώστε να διαπιστωθούν οι ακριβείς συνθήκες κάτω από τις οποίες συνέβη το εργατικό ατύχημα",
-          "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-26/agogos.png",
+          "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-26/agogos_2.png",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -119,6 +119,30 @@
           "description": "Την κατάθεση της πρώην αντιπροέδρου του ΟΠΕΚΕΠΕ την περίοδο 2013–2014, Δήμητρα Χαλικιά, στην Εξεταστική Επιτροπή της Βουλής σχολίασαν πηγές της Νέα Δημοκρατία, υποστηρίζοντας ότι αποδυναμώνει ...  \nTo άρθρο Πηγές ΝΔ για κατάθεση Χαλικιά στην Εξεταστική για ΟΠΕΚΕΠΕ: Έμεινε το ΠΑΣΟΚ χωρίς άλλοθι δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eksetastiki-opekepe-kathesi-xalikia-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Ιράν: Το αεροπλανοφόρο «Λίνκολν» σε απόσταση βολής – Η Τεχεράνη προειδοποιεί για «επώδυνη απάντηση»",
+          "link": "https://www.in.gr/2026/01/26/world/iran-aeroplanoforo-linkoln-se-apostasi-volis-texerani-proeidopoiei-gia-epodyni-apantisi/",
+          "pubDate": "Mon, 26 Jan 2026 20:29:35 +0300",
+          "description": "Αυτή η κίνηση της «αρμάδας», όπως την έχει χαρακτηρίσει ο Τραμπ, ήρθε μετά την προειδοποίηση του διοικητή των Φρουρών της Επανάστασης στο Ιράν, οι δυνάμεις του έχουν «το δάχτυλο στη σκανδάλη».",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/NNUY7VHVCZOAHJP2SRPSQ2T6PQ-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "ΟΣΕΤΕΕ: Μαύρη μερα για την Ελλάδα το εργατικό δυστύχημα στα Τρίκαλα – Ανθρωπιστική κρίση στους χώρους δουλειάς",
+          "link": "https://www.in.gr/2026/01/26/greece/osetee-mayri-mera-gia-tin-ellada-ergatiko-dystyxima-sta-trikala-anthropistiki-krisi-stous-xorous-douleias/",
+          "pubDate": "Mon, 26 Jan 2026 20:27:40 +0300",
+          "description": "Το εργατικο δυστύχημα στα Τρίκαλα, με θύματα πέντε εργάτριες νυχτερινής βάρδιας, δεν ήταν η κακιά στιγμή. Ήταν άλλη μια πράξη στην εξελισσόμενη τραγωδία της ανθρωπιστικής κρίσης στους χώρους δουλειάς.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EV15_260126_THK_PYRKAGIA-35-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Τραγωδία στην Κύπρο: Πέθανε 4χρονο κοριτσάκι από γρίπη Α",
+          "link": "https://www.in.gr/2026/01/26/greece/tragodia-stin-kypro-pethane-4xrono-koritsaki-apo-gripi/",
+          "pubDate": "Mon, 26 Jan 2026 20:27:25 +0300",
+          "description": "Το παιδί είχε αρχικά εισαχθεί για νοσηλεία στο Γενικό Νοσοκομείο Λεμεσού και στη συνέχει κρίθηκε αναγκαία η μεταφορά του",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/paidi-nosokomeio-1.jpeg",
+          "source": "In.gr"
         },
         {
           "title": "Γιάννης Πλούταρχος: Το νέο του τραγούδι με τίτλο «Δε γίνεται» είναι ένα δυναμικό ζεϊμπέκικο",
@@ -223,30 +247,6 @@
           "description": "Σύσκεψη θα πραγματοποιηθεί αύριο, Τρίτη (27.01.2026), στο Μέγαρο Μαξίμου, υπό τον Κυριάκο Μητσοτάκη, για την ευλογιά των προβάτων. Αντικείμενο της σύσκεψης, υπό τον πρωθυπουργό Κυριάκο ...  \nTo άρθρο Ευλογιά των προβάτων: Σύσκεψη υπό τον Κυριάκο Μητσοτάκη την Τρίτη στο Μαξίμου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/provata1-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Συμμορία «άδειαζε» καταστήματα στη Δυτική Αττική – 2 συλλήψεις",
-          "link": "https://www.newsit.gr/ellada/symmoria-adeiaze-katastimata-sti-dytiki-attiki-2-syllipseis/4584097/",
-          "pubDate": "Mon, 26 Jan 2026 16:54:19 +0000",
-          "description": "Εξαρθρώθηκε από την αστυνομία συμμορία που λήστευε καταστήματα σε περιοχές της Δυτικής Αττικής. Οι άνδρες της ΕΛΑΣ προχώρησαν σε δύο συλλήψεις: ενός 19ρονου και ενός ...  \nTo άρθρο Συμμορία «άδειαζε» καταστήματα στη Δυτική Αττική – 2 συλλήψεις δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/symmoria-26012026.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Πικέρμι: Οι δραματικές στιγμές με το αυτοκίνητο που παρασύρθηκε από το νερό και η διάσωση των ανθρώπων",
-          "link": "https://www.newsit.gr/ellada/pikermi-oi-dramatikes-stigmes-me-to-aytokinito-pou-parasyrthike-apo-to-nero-kai-i-diasosi-ton-anthropon/4584082/",
-          "pubDate": "Mon, 26 Jan 2026 16:50:33 +0000",
-          "description": "Το περιστατικό συνέβη το μεσημέρι της Δευτέρας (26/1/26) στην περιοχή της Πετρέζας, στα όρια Πικερμίου και Σπάτων. Ένα αυτοκίνητο παρασύρθηκε από το ρέμα που περνάει από ...  \nTo άρθρο Πικέρμι: Οι δραματικές στιγμές με το αυτοκίνητο που παρασύρθηκε από το νερό και η διάσωση των ανθρώπων δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pikermi-1200x747.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο κανένας που δεν φοβήθηκε τον Πούτιν – Μισθοφόροι Wagner σε σχολεία και άλλα μαθήματα προπαγάνδας",
-          "link": "https://www.in.gr/2026/01/26/life/culture-live/o-kanenas-pou-den-fovithike-ton-poutin-misthoforoi-wagner-se-sxoleia-kai-alla-mathimata-propagandas/",
-          "pubDate": "Mon, 26 Jan 2026 19:50:22 +0300",
-          "description": "Η σοκαριστική αποκάλυψη ότι μέλη της Wagner διδάσκουν σε παιδιά κάτω των δέκα ετών τη χρήση αυτόματων όπλων είναι μία μόλις σκηνή από το ντοκιμαντέρ Mr. Nobody Against Putin (Ο κ. Κανένας εναντίον του Πούτιν) που διεκδικεί Όσκαρ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/poutin-768x497.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Συνελήφθη ανήλικος για πράξεις βίας σε αγώνα μπάσκετ στην Αργολίδα!",
+          "link": "https://www.gazzetta.gr/basketball/2510402/synelifthi-anilikos-gia-praxeis-bias-se-agona-mpasket-stin-argolida",
+          "pubDate": "Mon, 26 Jan 2026 20:25:09 +0200",
+          "description": "Οι Αστυνομικές Αρχές συνέλαβαν έναν ανήλικο, ο οποίος πέταξε μεταλλικό κιγκλίδωμα κατά τη διάρκεια αγώνα μπάσκετ και κινήθηκε απειλητικά προς τον πάγκο της φιλοξενούμενης ομάδας!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/ball_eskana.jpg?itok=5KIZA1Xk",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Παναθηναϊκός: «Ο Ούλισες Γκαρσία στη λίστα του»",
           "link": "https://www.gazzetta.gr/football/superleague/2510395/panathinaikos-o-oylises-gkarsia-sti-lista-toy",
           "pubDate": "Mon, 26 Jan 2026 20:16:36 +0200",
@@ -832,6 +840,14 @@
           "pubDate": "Mon, 26 Jan 2026 19:45:30 +0200",
           "description": "Ο Βόλος είναι μία ανάσα από την απόκτηση του επιθετικού Ζαν Κάρλος Ουρτάδο.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oyrtado_1.jpg?itok=ottJ6S04",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Daily Mail: Ο Σουμάχερ δεν είναι πια κλινήρης: Η αλήθεια για την υγεία του",
+          "link": "https://www.gazzetta.gr/plus/2510405/daily-mail-o-soymaher-den-einai-pia-kliniris-i-alitheia-gia-tin-ygeia-toy",
+          "pubDate": "Mon, 26 Jan 2026 19:41:19 +0200",
+          "description": "Υπάρχει αργή αλλά υπαρκτή πρόοδος του Μίκαελ Σουμάχερ, όπως αποκαλύπτουν πηγές στη Daily Mail, και η οικογένεια του μάχεται για ιδιωτικότητα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mikael-soymaxer.jpg?itok=vnZug24l",
           "source": "Gazzetta"
         },
         {
@@ -968,22 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 18:05:00 +0200",
           "description": "Aντίστροφα μετρά ο χρόνος για την καταβολή των συντάξεων Φεβρουαρίου 2026, με τις πρώτες πληρωμές, για τις κύριες συντάξεις, να γίνονται την Τετάρτη 28/1 Ιανουαρίου.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/eyro-evrw-eyrw-evro-eurw-hrimata-xrhmata-oikonomia-economy-hrimata-xrhmata-xrimata-getty.jpg?itok=Cb5vWqst",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σκαριόλο: Η εξήγηση του για το bulling που έκανε στον Χεζόνια",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2510375/skariolo-i-exigisi-toy-gia-bulling-poy-ekane-ston-hezonia",
-          "pubDate": "Mon, 26 Jan 2026 18:04:53 +0200",
-          "description": "Ο προπονητής της Ρεάλ Σέρτζιο Σκαριόλο ανέπτυξε τη θεωρία του για την επιθετική συμπεριφορά που είχε προς τον Μάριο Χεζόνια στο ξεκίνημα της σεζόν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/scariolo_eurokinissi.jpg?itok=8BtEdJjl",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τι κάνει ένα smoothie υγιεινό και τι μπορεί να το κάνει λιγότερο υγιεινό",
-          "link": "https://www.gazzetta.gr/plus/2510328/ti-kanei-ena-smoothie-ygieino-kai-ti-mporei-na-kanei-ligotero-ygieino",
-          "pubDate": "Mon, 26 Jan 2026 18:00:00 +0200",
-          "description": "Ποια συστατικά και ποιοι διατροφικοί συνδυασμοί επηρεάζουν τη γλυκαιμική απόκριση, τον κορεσμό και τη συνολική θρεπτική αξία ενός smoothie.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fanny-gustafsson-71z7ecls4uo-unsplash.jpg?itok=TaDxc_9y",
           "source": "Gazzetta"
         }
       ]
