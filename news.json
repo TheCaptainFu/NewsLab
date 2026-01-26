@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T19:40:35.391Z",
+  "lastUpdated": "2026-01-26T19:45:28.162Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΗΠΑ: Στη Μέση Ανατολή κατέπλευσε το αεροπλανοφόρο Λίνκολν στέλνοντας «μήνυμα» στο Ιράν",
+          "link": "https://www.newsit.gr/kosmos/ipa-sti-mesi-anatoli-katepleyse-to-aeroplanoforo-linkoln-stelnontas-minyma-sto-iran/4584196/",
+          "pubDate": "Mon, 26 Jan 2026 19:42:17 +0000",
+          "description": "Το αεροπλανοφόρο των ΗΠΑ «USS Abraham Lincoln» και συνοδευτικά πολεμικά πλοία έφθασαν στη Μέση Ανατολή. Αυτό ανακοίνωσε τη Δευτέρα (26.01.2026) ο αμερικανικός στρατός, ο οποίος ...  \nTo άρθρο ΗΠΑ: Στη Μέση Ανατολή κατέπλευσε το αεροπλανοφόρο Λίνκολν στέλνοντας «μήνυμα» στο Ιράν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aeroplanofo-lincoln-26012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Πάνω από 800 κλήσεις για μη χρήση κράνους σε μια εβδομάδα",
           "link": "https://www.protothema.gr/greece/article/1763809/pano-apo-800-kliseis-gia-mi-hrisi-kranous-se-mia-evdomada/?utm_source=rss",
@@ -121,6 +129,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Ενώ το κλίμα αλλάζει, εμείς δεν αλλάζουμε",
+          "link": "https://www.in.gr/2026/01/26/greece/eno-klima-allazei-emeis-den-allazoume/",
+          "pubDate": "Mon, 26 Jan 2026 21:42:51 +0300",
+          "description": "Ο καθηγητής Οικολογίας και γραμματέας του τομέα Περιβάλλοντος του ΠΑΣΟΚ - ΚΙΝΑΛ, Παναγιώτης Δημόπουλος, με άρθρο του στο in αναφέρεται στην κλιματική κρίση και προτείνει δράσεις για την αντιμετώπιση των συνεπειών της στην Ελλάδα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6820669-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Θεσσαλονίκη: Έσκασε αγωγός νερού με 4 τραυματίες – Βίντεο από το σημείο του ατυχήματος",
           "link": "https://www.newsit.gr/ellada/thessaloniki-eskase-agogos-nerou-me-4-traymaties-vinteo-apo-to-simeio-tou-atyximatos/4584172/",
           "pubDate": "Mon, 26 Jan 2026 18:41:41 +0000",
@@ -230,22 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 18:10:10 +0000",
           "description": "Εκτός από την κρίσιμη αναμέτρηση του Ολυμπιακού με τον Άγιαξ φαίνεται πως θα είναι ο Ρόμαν Γιάρεμτσουκ. Ο Ουκρανός επιθετικός αντιμετωπίζει πρόβλημα τραυματισμού στη γάμπα ...  \nTo άρθρο Ολυμπιακός: Πρόβλημα με Ρομάν Γιάρεμτσουκ ενόψει Άγιαξ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roman-giaremtsoyk-eurokinissi-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κακοκαιρία: Δραματική διάσωση δύο εγκλωβισμένων σε ΙΧ που παρασύρθηκε από ρέμα στα Σπάτα",
-          "link": "https://www.in.gr/2026/01/26/greece/kakokairia-dramatiki-diasosi-dyo-egklovismenon-se-ix-pou-parasyrthike-apo-rema-sta-spata/",
-          "pubDate": "Mon, 26 Jan 2026 21:05:45 +0300",
-          "description": "Καρέ καρέ η επιχείρηση διάσωσης των δύο επιβατών του ΙΧ που παρασύρθηκε από τα ορμητικά νερά στα Σπάτα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/dias_77-768x510.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ηράκλειο: Καθυστερήσεις και ακυρώσεις πτήσεων στο αεροδρόμιο λόγω της κακοκαιρίας",
-          "link": "https://www.newsit.gr/ellada/irakleio-kathysteriseis-kai-akyroseis-ptiseon-sto-aerodromio-logo-tis-kakokairias/4584138/",
-          "pubDate": "Mon, 26 Jan 2026 18:05:33 +0000",
-          "description": "Προβλήματα στις πτήσεις του αεροδρομίου Ηρακλείου «Νίκος Καζαντζάκης» δημιούργησαν τα έντονα φαινόμενα του καιρού, με έντονες βροχές και καταιγίδες.  Σύμφωνα με τα όσα είπε στο ...  \nTo άρθρο Ηράκλειο: Καθυστερήσεις και ακυρώσεις πτήσεων στο αεροδρόμιο λόγω της κακοκαιρίας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kazantzakis-1200x745.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ερυθρός Αστέρας: Στην έξοδο ο Ντεβόντε Γκράχαμ",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510421/erythros-asteras-stin-exodo-o-ntebonte-gkraham",
+          "pubDate": "Mon, 26 Jan 2026 21:41:35 +0200",
+          "description": "Ο Ντεβόντε Γκράχαμ φαίνεται πως δεν θα συνεχίσει την καριέρα του στον Ερυθρό Αστέρα, καθώς δεν τον εμπιστεύεται καθόλου ο Σάσα Ομπράντοβιτς.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/graham_intime.jpg?itok=YOvKVPnR",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ντοκ Ρίβερς για Αντετοκούνμπο: «Δεν υπάρχει χρονοδιάγραμμα επιστροφής»",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510420/ntok-ribers-gia-antetokoynmpo-den-yparhei-hronodiagramma-epistrofis",
+          "pubDate": "Mon, 26 Jan 2026 21:40:30 +0200",
+          "description": "Στον τραυματισμό του Γιάννη Αντετοκούνμπο, αναφέρθηκε ο τεχνικός των Μπακς, Ντοκ Ρίβερς, αναφέροντας πως δεν υπάρχει χρονοδιάγραμμα επιστροφής.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/antetokounmpo.jpg?itok=n6k6SFgY",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ευρωπαϊκό πρωτάθλημα: Νίκη στο ντέρμπι της πρεμιέρας για την Ουγγαρία",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510419/eyropaiko-protathlima-niki-sto-ntermpi-tis-premieras-gia",
+          "pubDate": "Mon, 26 Jan 2026 21:40:07 +0200",
+          "description": "Η Ουγγαρία πήρε το ντέρμπι της πρώτης αγωνιστικής στη φάση των ομίλων του Ευρωπαϊκού πρωταθλήματος κόντρα στην Ισπανία. Νίκη για τη Γαλλία στον όμιλο της Εθνικής ομάδας..",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hungary_waterpolo.jpg?itok=A30J1R0v",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τον νου σου: Αν δεις κέρμα στο χερούλι του αυτοκινήτου σου, δεν είναι η τυχερή σου μέρα",
+          "link": "https://www.gazzetta.gr/plus/2510418/ton-noy-soy-deis-kerma-sto-heroyli-toy-aytokinitoy-soy-den-einai-i-tyheri-soy-mera",
+          "pubDate": "Mon, 26 Jan 2026 21:39:35 +0200",
+          "description": "1️⃣ Οι διαρρήκτες χρησιμοποιούν μικρά τεχνάσματα που περνούν απαρατήρητα και μπορούν να αφήσουν το αυτοκίνητό σου ξεκλείδωτο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kerma.jpg?itok=VTpKL2Oy",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ: Ανεβάζει την προσφορά και πιέζει για Χόρχε Σάντσες",
           "link": "https://www.gazzetta.gr/football/superleague/2510417/paok-anebazei-tin-prosfora-kai-piezei-gia-horhe-santses",
           "pubDate": "Mon, 26 Jan 2026 21:34:43 +0200",
@@ -952,38 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 19:25:00 +0200",
           "description": "Ο Στίβεν Κινγκ επικρίνει σκληρά την ICE και συγκρίνει τους πράκτορες του Τραμπ με τη ναζιστική «Γκεστάπο» σε μια τολμηρή ανάρτηση στα social media.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/king-stephen.jpg?itok=orXF46K0",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Εθνική πόλο: Η αποστολή επέστρεψε στην Ελλάδα με τα χάλκινα μετάλλια",
-          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510386/ethniki-polo-i-apostoli-epestrepse-stin-ellada-me-ta",
-          "pubDate": "Mon, 26 Jan 2026 19:22:11 +0200",
-          "description": "Η αποστολή της Εθνικής Ομάδας πόλο Ανδρών επέστρεψε στην Ελλάδα, με τα μέλη της αποστολής να φορούν τα χάλκια μετάλλια τους.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/polo-ellada.jpg?itok=Mj4dR1A-",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Dubai Basketball: Συνεχίζει αήττητη στην ABA Liga",
-          "link": "https://www.gazzetta.gr/basketball/aba-liga/2510385/dubai-basketball-synehizei-aittiti-stin-aba-liga",
-          "pubDate": "Mon, 26 Jan 2026 19:17:00 +0200",
-          "description": "Η Dubai Basketball ξεπέρασε εύκολα το εμπόδιο της Ζελέζνικ, επικρατώντας με 98-82 και φτάνοντας τις 14 νίκες σε ισάριθμα παιχνίδια στην Αδριατική Λίγκα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/musa_dubai_basketball_abaliga.jpg?itok=-C2I8J7R",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λεβαδειακός: Ανακοινώθηκε η επιστροφή του Γιώργου Νίκα",
-          "link": "https://www.gazzetta.gr/football/superleague/2510384/lebadeiakos-anakoinothike-i-epistrofi-toy-giorgoy-nika",
-          "pubDate": "Mon, 26 Jan 2026 19:15:01 +0200",
-          "description": "Ο Λεβαδειακός γνωστοποίησε με κάθε επισημότητα την μεταγραφή του Γιώργου Νίκα πίσω στην ομάδα της καρδιάς του.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/welcome_nikas-696x522.jpg?itok=m1tyOp6w",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΟΦΗ: «Βαρύ» πρόστιμο για το Super Cup",
-          "link": "https://www.gazzetta.gr/football/super-cup-elladas/2510383/ofi-bary-prostimo-gia-super-cup",
-          "pubDate": "Mon, 26 Jan 2026 19:14:03 +0200",
-          "description": "Ο ΟΦΗ τιμωρήθηκε με πρόστιμο της τάξης των 12.500 ευρώ για το Super Cup με τον Ολυπιακό στο Πακγρήτιο Στάδιο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ofi-ejedra.jpg?itok=YmZRWZ03",
           "source": "Gazzetta"
         }
       ]
