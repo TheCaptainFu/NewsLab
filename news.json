@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T07:40:28.503Z",
+  "lastUpdated": "2026-01-26T07:45:29.711Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -201,6 +201,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Γλυφάδα: Στον εισαγγελέα σήμερα ο 46χρονος πατροκτόνος – Σοκαριστικές μαρτυρίες για την δολοφονία",
+          "link": "https://www.in.gr/2026/01/26/greece/glyfada-ston-eisaggelea-simera-o-46xronos-patroktonos-sokaristikes-martyries-gia-tin-dolofonia/",
+          "pubDate": "Mon, 26 Jan 2026 09:42:34 +0300",
+          "description": "Ο 46χρονος που είχε καταδικαστεί και στο παρελθόν και για τη δολοφονία της μητέρας του, είχε χαρακτηριστεί επικίνδυνος για τον εαυτό τους και το περιβάλλον του",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6033083932007402521-768x468.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Τρεις γυναίκες νεκρές από τη μεγάλη φωτιά στο εργοστάσιο της Βιολάντα στα Τρίκαλα\n",
           "link": "https://www.protothema.gr/greece/article/1763319/treis-gunaikes-nekres-apo-ti-megali-fotia-sto-ergostasio-tis-violada-sta-trikala/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 08:42:00 +0200",
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 06:33:12 +0000",
           "description": "Μια νέα περίοδος εκσυγχρονισμού και αναβάθμισης για το λιμάνι της Πάτρας σηματοδοτείται με την έγκριση του Master Plan από το Συμβούλιο της Επικρατείας, το οποίο ...  \nTo άρθρο Επενδύσεις και νέες θέσεις εργασίας ξεκλειδώνει το Master Plan του λιμένα Πατρών δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ploia-apergia-eurok.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Διευκρινίσεις από τον Ανδρέα Πετρόπουλο: «Δεν υπονόησα πρόσωπα του αθλητικού χώρου για τα κομμένα φρένα»",
-          "link": "https://www.newsit.gr/athlitika/dieykriniseis-apo-ton-andrea-petropoulo-den-yponoisa-prosopa-tou-athlitikou-xorou-gia-ta-kommena-frena/4583422/",
-          "pubDate": "Mon, 26 Jan 2026 06:32:22 +0000",
-          "description": "Σάλο προκάλεσε μία ανάρτηση του Ανδρέα Πετρόπουλου μετά το Κολοσσός Ρόδου – Ολυμπιακός, για το GBL, αφού ο παίκτης των γηπεδούχων άφησε να εννοηθεί ότι κάποιος του ...  \nTo άρθρο Διευκρινίσεις από τον Ανδρέα Πετρόπουλο: «Δεν υπονόησα πρόσωπα του αθλητικού χώρου για τα κομμένα φρένα» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/petropoulos-1-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -565,10 +565,10 @@
           "source": "Euronews"
         },
         {
-          "title": "«Πράσινο» μυκητοκτόνο σώζει τους αμπελώνες της Γαλλίας από ασθένεια ",
+          "title": "«Πράσινο» μυκητοκτόνο σώζει τους αμπελώνες της Γαλλίας",
           "link": "http://gr.euronews.com/green/2026/01/26/can-a-sustainable-fungicide-save-frances-vineyards-from-climate-driven-disease",
           "pubDate": "Mon, 26 Jan 2026 07:00:59 +0100",
-          "description": "Η κρίση του γαλλικού κρασιού κλονίζεται από έξαρση του ωιδίου και του περονόσπορου, αλλά ένα μυκητοκτόνο φυτικής προέλευσης μπορεί να σώσει την κατάσταση.",
+          "description": "Η παραγωγή του γαλλικού κρασιού κλονίζεται από έξαρση του ωιδίου και του περονόσπορου, αλλά ένα μυκητοκτόνο φυτικής προέλευσης μπορεί να σώσει την κατάσταση.",
           "thumbnail": null,
           "source": "Euronews"
         },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Νέοι κανόνες για τα powerbanks στα αεροπλάνα: Τι δεν πρέπει να ξανακάνεις στο ταξίδι σου",
+          "link": "https://www.gazzetta.gr/plus/2510225/neoi-kanones-gia-ta-powerbanks-sta-aeroplana-ti-den-prepei-na-xanakaneis-sto-taxidi",
+          "pubDate": "Mon, 26 Jan 2026 09:44:09 +0200",
+          "description": "Από εδώ και στο εξής το powerbank μπορεί να μπαίνει στη χειραποσκευή σου, αλλά αλλάζει ριζικά ο τρόπος που επιτρέπεται να το χρησιμοποιείς στο αεροπλάνο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/shutterstock_2633670937_1.jpg?itok=B0U_E_84",
+          "source": "Gazzetta"
+        },
         {
           "title": "Λαπόρτα για την... πλημμύρα στο Καμπ Νόου: «Είναι φυσιολογικό, ξέραμε ότι μπορεί να συμβεί»",
           "link": "https://www.gazzetta.gr/football/la-liga/2510246/laporta-gia-tin-plimmyra-sto-kamp-nooy-einai-fysiologiko-xerame-oti-mporei",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 07:39:05 +0200",
           "description": "Oι Ράπτορς έφυγαν με ένα μεγάλο διπλό (103-101) από την Οκλαχόμα με πρωταγωνιστή τον Κουίκλι.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/gettyimages_ingram.jpg?itok=uqsQszaW",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σπουδαία πρωτοβουλία Μπακς: Δώρισαν φαγητό σε καταφύγια αστέγων στο Μιλγουόκι",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510226/spoydaia-protoboylia-mpaks-dorisan-fagito-se-katafygia-astegon-sto-milgoyoki",
-          "pubDate": "Mon, 26 Jan 2026 07:27:16 +0200",
-          "description": "Oι Μπακς πήραν μια πολύ όμορφη πρωτοβουλία μετά την αναβολή του ματς με τους Μάβερικς.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/giannis_antetokounmpo_gettyjpg_1.jpg?itok=lQ8F9Oh_",
           "source": "Gazzetta"
         }
       ]
