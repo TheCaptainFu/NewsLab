@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T05:35:23.986Z",
+  "lastUpdated": "2026-01-26T05:40:30.197Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Θάντερ - Ράπτορς 101-103: Οι Καναδοί άλωσαν την Οκλαχόμα",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510227/thanter-raptors-101-103-oi-kanadoi-alosan-tin-oklahoma",
+          "pubDate": "Mon, 26 Jan 2026 07:39:05 +0200",
+          "description": "Oι Ράπτορς έφυγαν με ένα μεγάλο διπλό (103-101) από την Οκλαχόμα με πρωταγωνιστή τον Κουίκλι.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/gettyimages_ingram.jpg?itok=uqsQszaW",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Σπουδαία πρωτοβουλία Μπακς: Δώρισαν φαγητό σε καταφύγια αστέγων στο Μιλγουόκι",
           "link": "https://www.gazzetta.gr/basketball/nba/2510226/spoydaia-protoboylia-mpaks-dorisan-fagito-se-katafygia-astegon-sto-milgoyoki",
           "pubDate": "Mon, 26 Jan 2026 07:27:16 +0200",
@@ -977,14 +985,6 @@
           "description": "Ο Παναθηναϊκός απέτυχε να επιστρέψει στις νίκες στη Super League, για δεύτερη σερί αγωνιστική και ο Ράφα Μπενίτεθ εμφανίστηκε απογοητευμένος στην συνέντευξη Τύπου που ακολούθησε ...  \nTo άρθρο Ράφα Μπενίτεθ: «Θέλαμε να προφυλάξουμε παίκτες, αδύνατον να στηρίζεσαι σε λίγους με τρεις διοργανώσεις» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/rafa-mpeniteth-eurokinissi-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Λεβαδειακός: «Ο Παπαδόπουλος υπογράφει έως το 2030»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510174/lebadeiakos-o-papadopoylos-ypografei-eos-2030",
-          "pubDate": "Sun, 25 Jan 2026 22:29:55 +0200",
-          "description": "Ο Λεβαδειακός, σύμφωνα με Ιταλό ρεπόρτερ, είναι μία ανάσα από τον μεσοεπιθετικό Χρήστο Παπαδόπουλο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2203442147_1.jpg?itok=o2OMEY1o",
-          "source": "Gazzetta"
         }
       ]
     },
