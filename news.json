@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T03:10:27.283Z",
+  "lastUpdated": "2026-01-26T03:15:26.662Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Συναγερμός στα Τρίκαλα λόγω μεγάλη πυρκαγιάς σε γνωστό εργοστάσιο την ώρα της νυχτερινής βάρδιας",
+          "link": "https://www.in.gr/2026/01/26/greece/synagermos-sta-trikala-logo-megali-pyrkagias-se-gnosto-ergostasio-tin-ora-tis-nyxterinis-vardias/",
+          "pubDate": "Mon, 26 Jan 2026 05:12:04 +0300",
+          "description": "Πυρκαγιά ξέσπασε στη διάρκεια της νυχτερινής βάρδιας στο εργοστάσιο Βιολάντα, στα Τρίκαλα, και έχει σημάνει συναγερμός ενώ οι πυροσβεστικές δυνάμεις δίνουν μεγάλη μάχη για να τη θέσουν υπό έλεγχο.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ektakti-eidisi-1-768x576.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Φιλιππίνες: Πολύνεκρο ναυάγιο πορθμείου στη νήσο Μπασίλαν",
           "link": "https://www.in.gr/2026/01/26/world/filippines-polynekro-nayagio-porthmeiou-sti-niso-mpasilan/",
@@ -239,14 +247,6 @@
           "description": "Τουλάχιστον 30 άνθρωποι τραυματίστηκαν όταν κεραυνός έπληξε τη διαδήλωση υποστηρικτών του ακροδεξιού πρώην προέδρου Ζαΐχ Μπολσονάρο στην Βραζιλία, ανακοίνωσε η πυροσβεστική υπηρεσία. Χιλιάδες διαδηλωτές είχαν ...  \nTo άρθρο Βραζιλία: Κεραυνός χτύπησε διαδήλωση υπέρ του Μπολσονάρο και τραυμάτισε 30 ανθρώπους δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/brazil-politics-protest.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Μινεάπολη: Κοντινό βίντεο αποδεικνύει πως ο Άλεξ Πρέτι ήταν άοπλος πριν τον πυροβολήσουν πολλές φορές",
-          "link": "https://www.in.gr/2026/01/25/world/mineapoli-kontino-vinteo-apodeiknyei-pos-o-aleks-preti-itan-aoplos-prin-ton-pyrovolisoun-polles-fores/",
-          "pubDate": "Sun, 25 Jan 2026 23:55:23 +0300",
-          "description": "Βίντεο που δείχνει τους ομοσπονδιακούς πράκτορες να παλεύουν με τον Άλεξ Πρέτι, δείχνει πως περισσότερο δολοφονήθηκε παρά σκοτώθηκε αποτελώντας απειλή προς τις αρχές.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T203636Z_1146812914_RC2B8JAU7DCT_RTRMADP_5_USA-TRUMP-MINNESOTA-768x513.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Tearful goodbyes as Japan returns pandas to China amid worsening ties ",
+          "link": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 03:08:21 GMT",
+          "description": "The twin cubs' departure will leave Japan without any pandas for the first time since 1972.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50cf/live/bd569d60-fa60-11f0-aace-f5c9843bc6d7.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals",
           "link": "https://www.bbc.com/news/articles/c20gg729y1yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 00:15:03 GMT",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/2026/01/25/ti-gnwrizoume-mustiko-oplo-ferontai-na-xrisimopoiisan-hpa-enantion-venezouela",
           "pubDate": "Sun, 25 Jan 2026 12:33:18 +0100",
           "description": "Πρόκειται για το αποκαλούμενο \"Discombobulator\" ή \"Disorientator\", δηλαδή \"αποσυντονιστής», «αποδιοργανωτής»",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Μινεσότα: Οργή για τον θάνατο του 37χρονου από την ICE - «Πυρά» των Δημοκρατικών κατά του Τραμπ",
-          "link": "http://gr.euronews.com/2026/01/25/minesota-orgh-gia-ton-8anato-toy-37xronoy-apo-thn-ice-pyra-twn-dhmokratikwn-kata-toy",
-          "pubDate": "Sun, 25 Jan 2026 12:24:56 +0100",
-          "description": "Ο κυβερνήτης της Μινεσότα ζητάει την απομάκρυνση των πρακτόρων της ICE - Την παραίτηση της υπουργού Εσωτερικής Ασφάλειας ζήτησε ο Γκάβιν Νιούσομ",
           "thumbnail": null,
           "source": "Euronews"
         }
