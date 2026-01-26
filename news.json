@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T22:30:31.737Z",
+  "lastUpdated": "2026-01-26T22:35:25.282Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κεφαλογιάννης: Ενδεχομένως την Τρίτη να έχουμε μια πρώτη εικόνα για τα αίτια της έκρηξης στα Τρίκαλα ",
+          "link": "https://www.protothema.gr/greece/article/1763867/kefalogiannis-endehomenos-tin-triti-na-ehoume-mia-proti-eikona-gia-ta-aitia-tis-ekrixis-sta-trikala/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 00:29:48 +0200",
+          "description": "Στην περιοχή κλιμάκιο της Διεύθυνσης Αντιμετώπισης Εγκλημάτων Εμπρησμού για τη διερεύνηση των αιτίων της έκρηξης και της πυρκαγιάς στο εργοστάσιο Βιολάντα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/kefalogiannis_giannis.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Το βλέμμα του Βενσάν Κασέλ στην Κάρλα Μπρούνι που έγινε viral",
           "link": "https://www.newsit.gr/lifestyle/to-vlemma-tou-vensan-kasel-stin-karla-mprouni-pou-egine-viral/4584255/",
@@ -39,6 +47,14 @@
           "description": "Η επιτυχημένη δραματική σειρά εποχής «Άγιος έρωτας» επιστρέφει στον ALPHA, με εξελίξεις που κόβουν την ανάσα. Τι θα δούμε στα επεισόδια που θα προβληθούν από ...  \nTo άρθρο Άγιος έρωτας – επόμενα επεισόδια: Ο Αντρέας αποκαλύπτει στον Χάρη την πρόταση της Χριστίνας σχετικά την υιοθεσία του μωρού της Ρίτας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/10/agios-erotas2-1-1200x684.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "ΕΕ: Δεύτερο κύμα χρηματοδότησης SAFE για οκτώ κράτη -μέλη με 74 δισ. ευρώ",
+          "link": "https://www.in.gr/2026/01/27/inbox/ee-deytero-kyma-xrimatodotisis-safe-gia-okto-krati-meli-74-dis-eyro/",
+          "pubDate": "Tue, 27 Jan 2026 00:30:16 +0300",
+          "description": "H EE ενέκρινε τα αμυντικά σχέδια 8 κρατών, μεταξύ αυτών και η Ελλάδα, στο πλαίσιο της πρωτοβουλίας «Δράση για την ασφάλεια στην Ευρώπη» (SAFE)",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alexey-larionov-1X3li7TGf6o-unsplash-768x576.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Έντι Ράμα στην Κνεσέτ: Είμαι Καθολικός,  τα δύο μεγαλύτερα παιδιά μου Ορθόδοξα και το μικρότερο μπορεί να γίνει Ιουδαίος",
@@ -231,22 +247,6 @@
           "description": "Μια μέρα πριν από την έκρηξη οι τρεις από τις πέντε είναι αγκαλιασμένες και χαμογελαστές στην κοπή της πρωτοχρονιάτικης πίτας.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/aaaaa-1-768x459.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Διακοπές κυκλοφορίας σε Χαλκιδική, Σέρρες και Κιλκίς λόγω έντονης βροχόπτωσης",
-          "link": "https://www.protothema.gr/greece/article/1763839/diakopes-kukloforias-se-halkidiki-serres-kai-kilkis-logo-edonis-vrohoptosis/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 22:32:00 +0200",
-          "description": "Οι αποφάσεις της τροχαίας για το οδικό δίκτυο της Κεντρικής Μακεδονίας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/6535536.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Σεισμός 3,6 Ρίχτερ στην Κρήτη – Ανοιχτά από τα Σφακιά το επίκεντρο",
-          "link": "https://www.newsit.gr/ellada/seismos-3-6-rixter-stin-kriti-anoixta-apo-ta-sfakia-to-epikentro/4584219/",
-          "pubDate": "Mon, 26 Jan 2026 20:31:44 +0000",
-          "description": "Σεισμός μεγέθους 3,6 βαθμών της κλίμακας Ρίχτερ σημειώθηκε στην Κρήτη το βράδυ της Δευτέρας (26.01.2026). Το επίκεντρο της δόνησης εντοπίζεται στη θαλάσσια περιοχή κοντά στα ...  \nTo άρθρο Σεισμός 3,6 Ρίχτερ στην Κρήτη – Ανοιχτά από τα Σφακιά το επίκεντρο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/seismos2-26012026.jpg",
-          "source": "NewsIT"
         }
       ]
     },
