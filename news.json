@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T21:25:25.159Z",
+  "lastUpdated": "2026-01-26T21:30:31.422Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,11 +9,19 @@
       "color": "red",
       "articles": [
         {
+          "title": "Ισπανός σκιέρ σκοτώθηκε από χιονοστιβάδα στις γαλλικές Άλπεις",
+          "link": "https://www.newsit.gr/kosmos/ispanos-skier-skotothike-apo-xionostivada-stis-gallikes-alpeis/4584252/",
+          "pubDate": "Mon, 26 Jan 2026 21:24:31 +0000",
+          "description": "Ένας Ισπανός που έκανε σκι εκτός πίστας παρασύρθηκε σήμερα (26/01/2026) από χιονοστιβάδα στην περιοχή Τίνιε στις γαλλικές Άλπεις, με αποτέλεσμα να βρει τον θάνατο. Ελικόπτερο ...  \nTo άρθρο Ισπανός σκιέρ σκοτώθηκε από χιονοστιβάδα στις γαλλικές Άλπεις δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/skier-1200x900.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Μία μέρα πριν την τραγωδία οι τρεις γυναίκες που σκοτώθηκαν στην έκρηξη στη Βιολάντα ήταν στην κοπή της πίτας της εταιρείας",
           "link": "https://www.protothema.gr/greece/article/1763845/to-gledi-egine-thrinos-sto-ergostasio-tis-violada-i-teleutaia-fotografia-ton-adikohamenon-gunaikon/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 23:22:11 +0200",
+          "pubDate": "Mon, 26 Jan 2026 23:22:00 +0200",
           "description": "Οι γυναίκες λίγες ώρες πριν την τραγωδία διασκέδαζαν μαζί στην κοπή της πρωτοχρονιάτικης πίτας της εταιρείας - Λόγω της εκδήλωσης στο εργοστάσιο ήταν 12 αντί για 30 άτομα στη βάρδια",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-26/violanda-xrwma.jpg",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xroma-tripli-violanta.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -239,14 +247,6 @@
           "description": "Η Ναόμι Κάμπελ υπογράφει δοκίμιο για τη δυναμική καλλιτέχνη και μοντέλου, συνοδεύοντας νέα έκθεση έργων του Πάμπλο Πικάσο στην Ελβετία, με επίκεντρο την επιθυμία, την οικειότητα και τις σχέσεις εξουσίας",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2019-09-24T191928Z_1423949380_RC165D2C3F30_RTRMADP_5_FASHION-PARIS-SAINT-LAURENT-768x520.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Πάτρα: Του έκλεισε με το αυτοκίνητο τον δρόμο και του έσπασε το χέρι με λοστό",
-          "link": "https://www.newsit.gr/ellada/patra-tou-ekleise-me-to-aytokinito-ton-dromo-kai-tou-espase-to-xeri-me-losto/4584209/",
-          "pubDate": "Mon, 26 Jan 2026 20:00:12 +0000",
-          "description": "Απίστευτο περιστατικό στην Ακτή Δυμαίων στην Πάτρα. Ένας 35χρονος οδηγός καταγγέλλει ότι δέχτηκε επίθεση από άλλον οδηγό, ο οποίος του έσπασε το χέρι με λοστό ...  \nTo άρθρο Πάτρα: Του έκλεισε με το αυτοκίνητο τον δρόμο και του έσπασε το χέρι με λοστό δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-2-2.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Η Ευρωπαϊκή Ένωση προγραμματίζει επενδυτικό συνέδριο στην Ιορδανία τον Απρίλιο",
+          "link": "http://gr.euronews.com/my-europe/2026/01/26/i-eyropaiki-enosi-programmatizei-ependitiko-sinedrio-stinn-iordania-ton-aprilio",
+          "pubDate": "Mon, 26 Jan 2026 22:24:17 +0100",
+          "description": "Η πρόεδρος της Κομισιόν θα επισκεφθεί το Αμμάν, καθώς η ΕΕ επενδύει στην οικονομική διπλωματία",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
           "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 21:18:39 GMT",
@@ -731,14 +739,6 @@
           "description": "Μήπως η Ευρώπη έχει ήδη μείνει πίσω στον παγκόσμιο αγώνα για την τεχνητή νοημοσύνη; Και πόσο μακριά πρέπει να φτάσει η ΕΕ για να καλύψει το χαμένο έδαφος; Πάρτε μέρος στη δημοσκόπηση και μοιραστείτε την άποψή σας.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Greenpeace παρουσιάζει ανδρείκελα Τραμπ, Πούτιν, ζητά από ΕΕ τέλος εξάρτησης από ορυκτά καύσιμα",
-          "link": "http://gr.euronews.com/video/2026/01/26/greenpeace-has-unveiled-effigies-of-donald-trump-and-vladimir-putin-in-brussels-urging-the",
-          "pubDate": "Mon, 26 Jan 2026 15:11:13 +0100",
-          "description": "Η Greenpeace στις Βρυξέλλες διαμαρτυρήθηκε για την εξάρτηση της ΕΕ από εισαγόμενα ορυκτά καύσιμα, ζητώντας ΑΠΕ αντί για εξάρτηση από ΗΠΑ και Ρωσία.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Περιστέρι: Δωρεάν είσοδος με Σαραγόσα!",
+          "link": "https://www.gazzetta.gr/basketball/fiba-europe-cup/2510434/peristeri-dorean-eisodos-me-saragosa",
+          "pubDate": "Mon, 26 Jan 2026 23:30:00 +0200",
+          "description": "Το Περιστέρι ανακοίνωσε πως η αναμέτρηση κόντρα στη Σαραγόσα (28/01, 20:30) στο «Ανδρέας Παπανδρέου», θα είναι ελεύθερη στους φιλάθλους.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/peristeri_eurokinissi_0.jpg?itok=pN5Pp0eH",
+          "source": "Gazzetta"
+        },
         {
           "title": "Η ΑΕΛ Novibet ανακοίνωσε την απόκτηση του Ντιλάν Μπατουμπινσικά από τη Σεντ Ετιέν",
           "link": "https://www.newsit.gr/athlitika/i-ael-novibet-anakoinose-tin-apoktisi-tou-ntilan-mpatoumpinsika-apo-ti-sent-etien/4584242/",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 20:49:03 +0200",
           "description": "Ο Ρόμαν Γιάρεμτσουκ αναμένεται να χάσει το κρίσιμο ματς του Ολυμπιακού με τον Άγιαξ στο Άμστερνταμ (28/1, 22:00).",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/yaremchuk.jpg?itok=y83a61yS",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ούτε οι πίθηκοι, ούτε οι μαϊμούδες: Ποιος θα κάνει «κουμάντο» στη Γη όταν εξαφανιστεί ο άνθρωπος",
-          "link": "https://www.gazzetta.gr/plus/2510391/oyte-oi-pithikoi-oyte-oi-maimoydes-poios-tha-kanei-koymanto-sti-gi-otan-exafanistei-o",
-          "pubDate": "Mon, 26 Jan 2026 20:47:42 +0200",
-          "description": "Η εξέλιξη δεν σταματά ποτέ και ένας επιστήμονας δείχνει τον πιο απρόσμενο διάδοχο του ανθρώπου.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pithikos.jpg?itok=_sMcm2tu",
           "source": "Gazzetta"
         }
       ]
