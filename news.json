@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T19:50:31.171Z",
+  "lastUpdated": "2026-01-26T19:55:28.048Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -137,6 +137,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Η μάχη της παραμονής στη Super League: Οι έξι «μονομάχοι» και οι μικρές διαφορές που τους χωρίζουν",
+          "link": "https://www.in.gr/2026/01/26/sports/football/maxi-tis-paramonis-sti-super-league-oi-eksi-monomaxoi-kai-oi-mikres-diafores-pou-tous-xorizoun/",
+          "pubDate": "Mon, 26 Jan 2026 21:51:11 +0300",
+          "description": "Από την 8η θέση της βαθμολογίας έως και την 13 «χωράνε» έξι ομάδες με μόλις έξι βαθμούς να τις χωρίζουν. Στις οκτώ τελευταίες αγωνιστικές, ανάμεσά τους, θα δοθεί μια γερή μάχη.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6655629-768x554.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ρούτε: «Συνεχίστε να ονειρεύεστε» αν πιστεύετε ότι η Ευρώπη μπορεί να υπερασπιστεί τον εαυτό της χωρίς τις ΗΠΑ",
+          "link": "https://www.in.gr/2026/01/26/world/route-synexiste-na-oneireyeste-pisteyete-oti-eyropi-mporei-na-yperaspistei-ton-eayto-tis-xoris-tis-ipa/",
+          "pubDate": "Mon, 26 Jan 2026 21:50:56 +0300",
+          "description": "Ο επικεφαλής του ΝΑΤΟ, Μαρκ Ρούτε, δήλωσε ότι η Ευρώπη θα χρειαστεί να δαπανήσει «δισεκατομμύρια και δισεκατομμύρια ευρώ» για την άμυνα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T152123Z_1566671765_RC219JAJTIGH_RTRMADP_5_USA-TRUMP-GREENLAND-NATO-768x514.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Καιρός: Έρχονται ακόμη δύο κύματα κακοκαιρίας μέσα στην εβδομάδα – Ισχυρές καταιγίδες και θυελλώδεις άνεμοι",
           "link": "https://www.newsit.gr/ellada/kairos-erxontai-akomi-dyo-kymata-kakokairias-mesa-stin-evdomada-isxyres-kataigides-kai-thyellodeis-anemoi/4584167/",
           "pubDate": "Mon, 26 Jan 2026 18:45:35 +0000",
@@ -231,22 +247,6 @@
           "description": "Σύμφωνα με ενημέρωση του πρόεδρου του Ιατρικού Συλλόγου Αθηνών, Γιώργου Πατούλη, από τον υπουργό Υγείας, Άδωνι Γεωργιάδη, η αμοιβή αναμένεται να αυξηθεί από τα 10 στα 13 ευρώ",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-18/xrwma-giatros-syntagh.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Κάθετος διάδρομος: Ισχνό το ενδιαφέρον στη δημοπρασία για μεταφορά αερίου",
-          "link": "https://www.in.gr/2026/01/26/economy/oikonomikes-eidiseis/kathetos-diadromos-isxno-endiaferon-sti-dimoprasia-gia-metafora-aeriou/",
-          "pubDate": "Mon, 26 Jan 2026 21:19:36 +0300",
-          "description": "Ο Κάθετος Διάδρομος δεν συγκέντρωσε και στη σημερινή δημοπρασία ενδιαφέρον για μεταφορά αερίου – Τα εμπόδια – Η γεωπολιτική",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/d1c1e3ac4e519ae2f510452ad4889aed_XL-768x527.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Γιώργος Καπουτζίδης: Η μοναχικότητα και η μοναξιά που βίωσα στην εφηβεία μου με διαμόρφωσαν",
-          "link": "https://www.newsit.gr/lifestyle/giorgos-kapoutzidis-i-monaxikotita-kai-i-monaksia-pou-viosa-stin-efiveia-mou-me-diamorfosan/4584163/",
-          "pubDate": "Mon, 26 Jan 2026 18:17:00 +0000",
-          "description": "Ο Γιώργος Καπουτζίδης έκανε μία εξομολόγηση για τα δύσκολα εφηβικά χρόνια που πέρασε και παραδέχτηκε ότι τα όσα βίωσε τον βοήθησαν να γίνει ο άνθρωπος ...  \nTo άρθρο Γιώργος Καπουτζίδης: Η μοναχικότητα και η μοναξιά που βίωσα στην εφηβεία μου με διαμόρφωσαν δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-kapoytzidis-ndp-1200x695.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Σουέλα Μπρέιβερμαν: Αποχώρηση από τους Συντηρητικούς για το ακροδεξιό Reform UK",
+          "link": "http://gr.euronews.com/2026/01/26/soyela-mpreiberman-apoxwrhsh-apo-toys-synthrhtikoys-gia-to-akrode3io-reform-uk",
+          "pubDate": "Mon, 26 Jan 2026 20:47:01 +0100",
+          "description": "Η πρώην υπουργός Εσωτερικών της Μεγάλης Βρετανίας εντάσσεται στο κόμμα του Νάιτζελ Φάρατζ, ενώ το Reform UK προηγείται σε δημοσκοπήσεις παρά τον μικρό αριθμό εδρών",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Εννέα υπουργοί Ενέργειας της ΕΕ δεσμεύονται να ενισχύσουν την υπεράκτια αιολική ενέργεια στη Βόρεια Θάλασσα",
           "link": "http://gr.euronews.com/my-europe/2026/01/26/ennea-ypoyrgoi-energeias-ths-ee-desmeyontai-na-enisxysoyn-thn-yperaktia-aiolikh-energeia-s",
           "pubDate": "Mon, 26 Jan 2026 20:28:41 +0100",
@@ -731,14 +739,6 @@
           "description": "Prime Minister Sébastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/4c7fd700-fab0-11f0-91f4-a739ab96be22.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Επίσημη έρευνα κατά του Grok του Ίλον Μασκ ανακοίνωσε η Κομισιόν",
-          "link": "http://gr.euronews.com/next/2026/01/26/epishmh-ereyna-kata-grok-ilon-mask-anakoinose-komision",
-          "pubDate": "Mon, 26 Jan 2026 13:06:05 +0100",
-          "description": "Η επίσημη έρευνα για το X ακολουθεί την κατακραυγή για την αποτυχία της πλατφόρμας να αποτρέψει τη δημιουργία εικόνων σεξουαλικού περιεχομένου πραγματικών ανθρώπων - συμπεριλαμβανομένων παιδιών.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Πετρίδης: «Τα νεότερα για Ναν, Όσμαν, Μήτογλου – Περιμένει τις εξελίξεις από το ΝΒΑ για παίκτη ο Παναθηναϊκός»",
+          "link": "https://panathinaikos24.gr/2026/01/26/617870/petridis-ta-neotera-gia-nan-osman-mitoglou-perimenei-tis-ekselikseis-apo-to-nva-gia-paikti-o-panathinaikos/",
+          "pubDate": "Mon, 26 Jan 2026 19:51:06 +0000",
+          "description": "Τα τελευταία νέα του Παναθηναϊκού ΑΚΤOR",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6802218.jpg?fit=900%2C598&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Δημοσκόπηση Metron Analysis: Η πρώτη πραγματική αναμέτρηση Καρυστιανού – Κωνσταντοπούλου έχει ξεκάθαρο νικητή",
           "link": "https://panathinaikos24.gr/2026/01/26/617432/dimoskopisi-metron-analysis-i-proti-pragmatiki-anametrisi-karystianou-konstantopoulou-exei-ksekatharo-nikiti/",
           "pubDate": "Mon, 26 Jan 2026 19:02:19 +0000",
@@ -1174,14 +1182,6 @@
           "pubDate": "Mon, 26 Jan 2026 12:12:57 +0000",
           "description": "Tι συμβαίνει με τον Γάλλο ψηλό.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/AP25095527063396.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Η κατηφόρα δεν έχει τέλος, θα καούν και οι παίκτες, που έρχονται!",
-          "link": "https://panathinaikos24.gr/2026/01/26/617786/i-katifora-den-exei-telos-tha-kaoun-kai-oi-paiktes-pou-erxontai/",
-          "pubDate": "Mon, 26 Jan 2026 11:47:11 +0000",
-          "description": "Ο Τάσος Νικολογιάννης γράφει για την συνεχιζόμενη κακή εικόνα του Παναθηναϊκού, που πλέον πάει φουλ να είναι εκτός τετράδας σε μία αγωνιστική ντροπή και είναι δεδομένο, ότι θα καούν και οι παίκτες, που έρχονται.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5005154.jpg?fit=900%2C598&amp;ssl=1",
           "source": "Panathinaikos24"
         },
         {
