@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T14:40:29.054Z",
+  "lastUpdated": "2026-01-26T14:45:32.371Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "MasterChef: Απόψε 2 παίκτες από την πρώτη μπριγάδα αποχωρούν από τον διαγωνισμό",
+          "link": "https://www.newsit.gr/media/masterchef-apopse-2-paiktes-apo-tin-proti-mprigada-apoxoroun-apo-ton-diagonismo/4583928/",
+          "pubDate": "Mon, 26 Jan 2026 14:41:46 +0000",
+          "description": "Δεκαεπτά παίκτες, που κατάφεραν να ξεχωρίσουν στη διαδικασία των auditions του «MasterChef» και αποτελούν την πρώτη μπριγάδα, περνάνε στη φάση της τελικής επιλογής. Απόψε, Δευτέρα ...  \nTo άρθρο MasterChef: Απόψε 2 παίκτες από την πρώτη μπριγάδα αποχωρούν από τον διαγωνισμό δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/masterchef-1011-1200x692.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Έκρηξη στο εργοστάσιο «Βιολάντα»: «Η επιθεώρηση εργασίας είναι από την πρώτη στιγμή στον τόπο της τραγωδίας» δήλωσε ο Κώστας Καραγκούνης",
           "link": "https://www.newsit.gr/ellada/ekriksi-sto-ergostasio-violanta-i-epitheorisi-ergasias-einai-apo-tin-proti-stigmi-ston-topo-tis-tragodias-dilose-o-kostas-karagkounis/4583966/",
@@ -239,14 +247,6 @@
           "description": "Με τη θλίψη και τον πόνο να έχει χαραχθεί στα πρόσωπα τους και τις ελπίδες τους να έχουν πλέον εξανεμιστεί, καθώς έχουν βρεθεί τέσσερις νεκρές ...  \nTo άρθρο Τρίκαλα: Συγκλονίζουν οι συγγενείς των θυμάτων της φονικής έκρηξης στο εργοστάσιο Βιολάντα – «Με φώναξαν να δώσουμε DNA» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gunaikes-violanta.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Γάζα: Το Ισραήλ ανακοίνωσε ότι ανέκτησε τα λείψανα του τελευταίου ομήρου της Χαμάς",
-          "link": "https://www.in.gr/2026/01/26/world/gaza-israil-anakoinose-oti-anektise-ta-leipsana-tou-teleytaiou-omirou-tis-xamas/",
-          "pubDate": "Mon, 26 Jan 2026 16:36:11 +0300",
-          "description": "Ο ισραηλινός στρατός ανακοίνωσε ότι έχει ανακτήσει και την τελευταία σορό ομήρου, από την επίθεση της Χαμάς στο Ισραήλ στις 7 Οκτωβρίου 2023. Πρόκειται για τον επιλοχία Ραν Γκβίλι.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T140103Z_439040894_RC2QBIACYXUW_RTRMADP_5_ISRAEL-PALESTINIANS-GAZA-HOSTAGES-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Israel says it has retrieved remains of final Gaza hostage",
+          "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 14:42:30 GMT",
+          "description": "The Israeli military had been searching for Ran Gvili since the ceasefire with Hamas began in October.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccaa/live/8e6eb450-fac0-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Έρευνα: Η φροντίδα των εγγονιών ωφελεί τον εγκέφαλο, ιδίως στις γιαγιάδες",
+          "link": "http://gr.euronews.com/health/2026/01/26/taking-care-of-grandchildren-is-beneficial-for-the-brain-particularly-for-grandmothers-a-s",
+          "pubDate": "Mon, 26 Jan 2026 15:33:46 +0100",
+          "description": "Η φροντίδα των εγγονιών ενισχύει την υγεία του εγκεφάλου των ηλικιωμένων, προστατεύοντας ιδίως τις γιαγιάδες από τη σταδιακή έκπτωση μνήμης και ευφράδειας με το πέρασμα του χρόνου.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "ΕΕ και τεχνητή νοημοσύνη: Είναι χαμένη μάχη; Πάρτε μέρος στη δημοσκόπησή ",
           "link": "http://gr.euronews.com/my-europe/2026/01/26/eu-kai-ai-einai-xameni-i-maxi-i-exei-elpides-i-eu-parte-meros-sti-dimoskopisi",
           "pubDate": "Mon, 26 Jan 2026 15:18:12 +0100",
@@ -723,22 +739,6 @@
           "description": "Η άνοια είναι αυξανόμενη παγκόσμια πρόκληση δημόσιας υγείας, χωρίς θεραπεία. Μελέτη: γενετικά υψηλός ΔΜΣ αυξάνει τον κίνδυνο αγγειακής άνοιας.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Πού βρίσκεται ο χρυσός της Λατινικής Αμερικής; Ξετυλίγοντας το κουβάτι του μύθου και της αλήθειας",
-          "link": "http://gr.euronews.com/business/2026/01/26/pou-vrisketai-o-xrisos-tis-latinikis-amerikis",
-          "pubDate": "Mon, 26 Jan 2026 11:02:48 +0100",
-          "description": "Από τον μύθο του Ελ Ντοράντο μέχρι τις σημερινές συζητήσεις για τη λεηλασία, ο χρυσός σημάδεψε την ιστορία του ισπανικού αποικισμού της Λατινικής Αμερικής. Ωστόσο, ένας ειδικός προειδοποιεί ότι τα κλειδιά της ιστορικής υπανάπτυξης της ηπείρου βρίσκονται πέρα από το πολύτιμο μέταλλο.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Το Ισραήλ θα ανοίξει εν μέρει το πέρασμα της Ράφα εάν βρεθεί η σορός Ισραηλινού στρατιώτη",
-          "link": "http://gr.euronews.com/2026/01/26/israel-anoigei-ti-rafa-an-vrethei-soros-omirou",
-          "pubDate": "Mon, 26 Jan 2026 10:39:45 +0100",
-          "description": "Το Ισραήλ συμφώνησε να ανοίξει εκ νέου το πέρασμα της Ράφα της Γάζας με την Αίγυπτο για τη διέλευση πεζών μόνο όταν βρεθεί η σορός του Ισραηλινού στρατιώτη Ραν Γκβίλι.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,30 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Australian Open: Στα προημιτελικά με άνεση οι Ριμπάκινα και Σβιόντεκ",
+          "link": "https://www.gazzetta.gr/tennis/australian-open/2510349/australian-open-sta-proimitelika-me-anesi-oi-rimpakina-kai-sbiontek",
+          "pubDate": "Mon, 26 Jan 2026 16:44:29 +0200",
+          "description": "Στην προημιτελική φάση του Australian Open προκρίθηκαν οι Έλενα Ριμπάκινα και Ίγκα Σβιόντεκ, επικρατώντας στη φάση των \"16\" χωρίς δυσκολίες...",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/elena_rybakina_ausopen26.jpg?itok=Z32yWHUi",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: «Υπόκλιση» της UEFA στον... καυτό Γιόβιτς",
+          "link": "https://www.gazzetta.gr/football/superleague/2510348/aek-ypoklisi-tis-uefa-ston-kayto-giobits",
+          "pubDate": "Mon, 26 Jan 2026 16:44:17 +0200",
+          "description": "Η UEFA έκανε ειδική αναφορά στον αρχισκόρερ της ΑΕΚ, Λούκα Γιόβιτς, ο οποίος έχει 9 γκολ στα τελευταία 12 παιχνίδια του με τα κιτρινόμαυρα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/luka_jovic.jpg?itok=8CCBmD9l",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τούνη για revenge porn: «Ντρέπεται και η ντροπή - Ο κατηγορούμενος δήλωσε ότι έχει στραβισμό» (vid)",
+          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
+          "pubDate": "Mon, 26 Jan 2026 16:39:00 +0200",
+          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ioanna-toyni1.png.png?itok=TPl233ul",
+          "source": "Gazzetta"
+        },
         {
           "title": "Stoiximan GBL: Μπορεί ο Άρης να μπει «σφήνα» στους δύο «δικεφάλους»;",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510342/stoiximan-gbl-mporei-o-aris-na-mpei-sfina-stoys-dyo-dikefaloys",
@@ -960,30 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 15:13:27 +0200",
           "description": "Σύμφωνα με δημοσίευμα από την Ιταλία, ο Ντάβιντε Καλάμπρια δεν αποκλείεται να επιστρέψει στην Ιταλία στο τέλος της μεταγραφικής περιόδου.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/calabria_intime.jpg?itok=skw2eoSK",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κοντά στο «μπαμ» με Γκιγιέρμε η Ρίο Άβε",
-          "link": "https://www.gazzetta.gr/football/primeira-liga/2510318/konta-sto-mpam-me-gkigierme-i-rio-abe",
-          "pubDate": "Mon, 26 Jan 2026 15:12:37 +0200",
-          "description": "Η Ρίο Άβε βρίσκεται κοντά στην ολοκλήρωση μιας σημαντικής μεταγραφής για την ενίσχυση στο αξόνα, με την απόκτηση του Ράιαν Γκιγιέρμε από τη Κρουζέιρο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/rio_abe.jpg?itok=mFaxMlr0",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Η Εθνική ποδοσφαίρου κλείνει φιλικό παιχνίδι με την Παραγουάη",
-          "link": "https://www.newsit.gr/athlitika/i-ethniki-podosfairou-kleinei-filiko-paixnidi-me-tin-paragouai/4583864/",
-          "pubDate": "Mon, 26 Jan 2026 13:11:17 +0000",
-          "description": "Η Εθνική ποδοσφαίρου της Ελλάδας έχει ήδη ανακοινώσει ένα φιλικό με την Ουγγαρία για το Μάρτιο του 2026 και ετοιμάζεται να κλείσει και ένα δεύτερο ...  \nTo άρθρο Η Εθνική ποδοσφαίρου κλείνει φιλικό παιχνίδι με την Παραγουάη δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/karetsas-tetei-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Εθνική πόλο ανδρών: Χωρίς πίεση αποδεικνύει ποια είναι και τι αξίζει",
-          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510315/ethniki-polo-andron-horis-piesi-apodeiknyei-poia-einai-kai",
-          "pubDate": "Mon, 26 Jan 2026 15:00:00 +0200",
-          "description": "Ο Δημήτρης Μύτικας αναλύει το χάλκινο μετάλλιο της Εθνικής πόλο ανδρών, μιας ομάδας που δείχνει τι αξίζει όταν το βάρος της στιγμής δεν θολώνει το μυαλό της.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ethniki_omada_polo_europaiko.jpg?itok=267pOmar",
           "source": "Gazzetta"
         }
       ]
