@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T15:40:30.403Z",
+  "lastUpdated": "2026-01-26T15:45:31.487Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βιολάντα: Πάνω από 1.000 βαθμοί Κελσίου στο εργοστάσιο εξαιτίας της φωτιάς - Τι εξετάζεται για τα αίτια της τραγωδίας",
+          "link": "https://www.protothema.gr/greece/article/1763649/violada-pano-apo-1000-vathmous-kelsiou-sto-ergostasio-exaitias-tis-fotias-ti-exetazetai-gia-ta-aitia-tis-tragodias/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 17:44:43 +0200",
+          "description": "Ηχητικό ντοκουμέντο από την εκκωφαντική έκρηξη - Τι «βλέπουν» για τα αίτια - Η ανακοίνωση της εταιρείας",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-violanta-1.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Χαϊδάρι: Συνελήφθη μετά από καταδίωξη 20χρονος με όπλο και γεμιστήρα",
+          "link": "https://www.newsit.gr/ellada/xaidari-synelifthi-meta-apo-katadioksi-20xronos-me-oplo-kai-gemistira/4584022/",
+          "pubDate": "Mon, 26 Jan 2026 15:43:34 +0000",
+          "description": "Πιστόλι με φυσίγγιο στη θαλάμη και γεμιστήρα είχε στην κατοχή του ένας 20χρονος στο Χαϊδάρι. Τον συνέλαβαν αστυνομικοί της ομάδας ΔΙΑΣ μετά από καταδίωξη. Όπως ...  \nTo άρθρο Χαϊδάρι: Συνελήφθη μετά από καταδίωξη 20χρονος με όπλο και γεμιστήρα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xaidari-oplo-26012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Το Πανεπιστήμιο Πατρών και η θέση του σε διεθνείς κατατάξεις το 2025",
           "link": "https://www.protothema.gr/greece/article/1763681/to-panepistimio-patron-kai-i-thesi-tou-se-diethneis-katataxeis-to-2025/?utm_source=rss",
@@ -25,7 +41,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Πλημμύρισαν οι αίθουσες του Ειδικού Σχολείου στο Ηράκλειο, διαμαρτύρονται οι εκπαιδευτικοί: Βίντεο ",
+          "title": "Πλημμύρισαν αίθουσες στο Ειδικό  Σχολείο του Ηρακλείου, διαμαρτύρονται οι εκπαιδευτικοί: Βίντεο ",
           "link": "https://www.protothema.gr/greece/article/1763682/plimmurisan-oi-aithouses-tou-eidikou-sholeiou-sto-irakleio-diamarturodai-oi-ekpaideutikoi-video/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 17:34:00 +0200",
           "description": "Σύμφωνα με τους δασκάλους του σχολείου πλημμύρισαν το 1/3 των αιθουσών, πρόκειται για κοντέινερ που τοποθετήθηκαν πέρυσι και, όπως λένε, δεν καλύπτουν τις ανάγκες της εκπαιδευτικής δομής",
@@ -185,6 +201,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Αυτά γίνονται μόνο από Ολυμπιακούς – Με φανέλες του Θρύλου στο μεγάλο ντέρμπι στο Μαρακανά (pics, vid)",
+          "link": "https://www.in.gr/2026/01/26/sports/football/ayta-ginontai-mono-apo-olympiakous-faneles-tou-thrylou-sto-megalo-ntermpi-sto-marakana-pics-vid/",
+          "pubDate": "Mon, 26 Jan 2026 17:42:47 +0300",
+          "description": "Η ιαχή «Ολυμπιακός - Ολυμπιακός» ακούστηκε στο Μαρακανά από Έλληνες οπαδούς του Θρύλου, την ώρα του μεγάλου βραζιλιάνικου ντέρμπι Φλαμένγκο - Φλουμινένσε",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Screenshot-2026-01-26-173831-768x459.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "MasterChef: Απόψε 2 παίκτες από την πρώτη μπριγάδα αποχωρούν από τον διαγωνισμό",
           "link": "https://www.newsit.gr/media/masterchef-apopse-2-paiktes-apo-tin-proti-mprigada-apoxoroun-apo-ton-diagonismo/4583928/",
           "pubDate": "Mon, 26 Jan 2026 14:41:46 +0000",
@@ -223,30 +247,6 @@
           "description": "Η ομιλία πραγματοποιήθηκε στην Θεσσαλονίκη με πρωτοβουλία της Ισραηλιτικής Κοινότητας - Ομιλία και στην Αίγινα  για τον Ιωάννη Καποδίστρια",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/2025-01-24_%CE%B1%CE%B9%CE%B3%CE%B9%CE%BD%CE%B1_%CE%BA%CE%B1%CF%80%CE%BF%CE%B4%CE%B9%CF%83%CF%84%CF%81%CE%B9%CE%B1%CF%83.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Έκρηξη σε διαμέρισμα στους Αγίους Αναργύρους: Ξηλώθηκαν πόρτες και παράθυρα",
-          "link": "https://www.newsit.gr/ellada/ekriksi-se-diamerisma-stous-agious-anargyrous-ksilothikan-portes-kai-parathyra/4583973/",
-          "pubDate": "Mon, 26 Jan 2026 14:33:03 +0000",
-          "description": "Έκρηξη σημειώθηκε το μεσημέρι της Δευτέρας 26 Ιανουαρίου σε διαμέρισμα πολυκατοικίας που βρίσκεται επί της οδού Ηπείρου στους Αγίους Αναργύρους. Σύμφωνα με την ΕΛΑΣ η ...  \nTo άρθρο Έκρηξη σε διαμέρισμα στους Αγίους Αναργύρους: Ξηλώθηκαν πόρτες και παράθυρα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-eurok.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τρίκαλα: Η στιγμή της φονικής έκρηξης στο εργοστάσιο «Βιολάντα» που έκανε τη νύχτα μέρα",
-          "link": "https://www.newsit.gr/ellada/trikala-i-stigmi-tis-fonikis-ekriksis-sto-ergostasio-violanta-pou-ekane-ti-nyxta-mera/4583952/",
-          "pubDate": "Mon, 26 Jan 2026 14:31:35 +0000",
-          "description": "Την ώρα που τα Τρίκαλα και ολόκληρη η χώρα θρηνούν για την τραγωδία στο εργοστάσιο μπισκότων «Βιολάντα», έρχονται στο φως οι εικόνες που φανερώνουν τη ...  \nTo άρθρο Τρίκαλα: Η στιγμή της φονικής έκρηξης στο εργοστάσιο «Βιολάντα» που έκανε τη νύχτα μέρα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekrixi-2-1200x780.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Παναθηναϊκός: «Ο Καλάμπρια θα μπορούσε να επιστρέψει άμεσα στη Serie A» έγραψαν στην Ιταλία",
-          "link": "https://www.newsit.gr/athlitika/panathinaikos-o-kalampria-tha-mporouse-na-epistrepsei-amesa-sti-serie-a-egrapsan-stin-italia/4583971/",
-          "pubDate": "Mon, 26 Jan 2026 14:31:28 +0000",
-          "description": "Ο Νταβίντε Καλάμπρια βρίσκεται στον Παναθηναϊκό από το περασμένο καλοκαίρι, αλλά σύμφωνα με δημοσιεύματα από την Ιταλία, το μέλλον του παίκτη του Παναθηναϊκού δεν αποκλείεται ...  \nTo άρθρο Παναθηναϊκός: «Ο Καλάμπρια θα μπορούσε να επιστρέψει άμεσα στη Serie A» έγραψαν στην Ιταλία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kalampria-eurokinissi.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -755,7 +755,7 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Βιολάντα: Βίντεο ντοκουμέντο με τη στιγμή της έκρηξης στο εργοστάσιο",
+          "title": "ΒΙΟΛΑΝΤΑ: Βίντεο ντοκουμέντο με τη στιγμή της έκρηξης στο εργοστάσιο",
           "link": "https://www.gazzetta.gr/plus/2510367/biolanta-binteo-ntokoymento-me-ti-stigmi-tis-ekrixis-sto-ergostasio",
           "pubDate": "Mon, 26 Jan 2026 17:37:46 +0200",
           "description": "Κάμερα ασφαλείας παρακείμενης επιχείρησης κατέγραψε τη στιγμή της τρομερής έκρηξης στο εργοστάσιο «Βιολάντα» στα Τρίκαλα.",
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "LIVE ΤΩΡΑ | Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/live-tora-o-achtarmas-ston-panathinaiko-psa/?utm_source=rss&utm_medium=rss&utm_campaign=live-tora-o-achtarmas-ston-panathinaiko-psa",
+          "pubDate": "Mon, 26 Jan 2026 15:43:51 +0000",
+          "description": "Παρακολουθήστε την ζωντανή εκπομπή «Green Monday» του «Όλα Πράσινα» με τον Άρη Αντωνόπουλο να αναλύει όλα τα μεταγραφικά δεδομένα γύρω από ποδοσφαιρικό και μπασκετικό Παναθηναϊκό.\nThe post LIVE ΤΩΡΑ | Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/2025-26-bg-ekpompi-green-monday-cover-article-solo-.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
           "title": "Ενός κακού, μεταγραφές έπονται: Η γκέλα στο Περιστέρι φέρνει 10άρι…",
           "link": "https://panathinaikos24.gr/2026/01/26/617834/enos-kakou-metagrafes-epontai-i-gkela-sto-peristeri-fernei-10ari/",
           "pubDate": "Mon, 26 Jan 2026 15:35:42 +0000",
@@ -1223,14 +1231,6 @@
           "description": "Ο Ράφα Μπενίτεθ μίλησε στην συνέντευξη Τύπου, μετά την αναμέτρηση του Παναθηναϊκού με τον Ατρόμητο και σχολίασε τα όσα έκανε η ομάδα! Όσα είπε στην συνέντευξη Τύπου ο Μπενίτεθ: Για την αστάθεια στην απόδοση του Παναθηναϊκού: «Νομίζω ότι πολλές φορές αναλύουμε τα πράγματα ανάλογα με το αποτέλεσμα. Με την ΑΕΚ ήμασταν καλοί στο πρώτο μέρος […]\nThe post Προανήγγειλε αλλαγές ο Μπενίτεθ: «Τα πράγματα είναι πιο πολύπλοκα»! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-7.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Κινδυνεύει με «τρελό» αρνητικό ρεκόρ ο Παναθηναϊκός! – Εκτός έδρας νίκη με το… κυάλι",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/kindynevei-me-trelo-arnitiko-rekor/?utm_source=rss&utm_medium=rss&utm_campaign=kindynevei-me-trelo-arnitiko-rekor",
-          "pubDate": "Sun, 25 Jan 2026 20:38:19 +0000",
-          "description": "Η συγκομιδή μακριά από τη Λεωφόρο φέρνει ιστορικές συγκρίσεις και μετατρέπει τις επόμενες εξόδους σε κομβικό τεστ αξιοπιστίας. Η φετινή εκτός έδρας συγκομιδή φέρνει τον Παναθηναϊκό αντιμέτωπο με ένα ανεπιθύμητο ορόσημο, καθώς τα αριθμητικά δεδομένα παραπέμπουν σε σεζόν που έχουν χαραχθεί αρνητικά στη συλλογική μνήμη. Αν το «Τριφύλλι» δεν βρει άμεσα νίκη μακριά από την […]\nThe post Κινδυνεύει με «τρελό» αρνητικό ρεκόρ ο Παναθηναϊκός! – Εκτός έδρας νίκη με το… κυάλι appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/jedvaj-apogoitefsi.jpg",
-          "source": "Όλα Πράσινα"
         }
       ]
     },
@@ -1238,6 +1238,14 @@
       "title": "ΤΕΧΝΟΛΟΓΙΑ & SCIENCE",
       "color": "pink",
       "articles": [
+        {
+          "title": "Apple Watch: Ανιχνεύει έως και 4 φορές πιο αποτελεσματικά την κολπική μαρμαρυγή σύμφωνα με νέα έρευνα",
+          "link": "https://gr.pcmag.com/smartwatches/51126/apple-watch-anikhneuei-eos-kai-4-phores-pio-apotelesmatika-ten-kolpike-marmaruge-sumphona-me-nea-ere",
+          "pubDate": "Mon, 26 Jan 2026 15:36:20 +0000",
+          "description": "Μελέτη σε άτομα υψηλού κινδύνου έδειξε ότι το έξυπνο ρολόι της Apple εντοπίζει σημαντικά περισσότερες περιπτώσεις αρρυθμίας σε σχέση με τις παραδοσιακές μεθόδους, σώζοντας ζωές από πιθανά εγκεφαλικά.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/a/apple-watc/apple-watch-can-enhance-the-detection-of-heart-arrhythmias-s_p5hu.jpg",
+          "source": "PC Magazine"
+        },
         {
           "title": "ChatGPT: Έρχεται η «έξυπνη» ανώνυμη περιήγηση με διατήρηση της εξατομίκευσης",
           "link": "https://gr.pcmag.com/ai-2/51125/chatgpt-erkhetai-e-exupne-anonume-periegese-me-diaterese-tes-exatomikeuses",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sun, 25 Jan 2026 17:33:42 +0000",
           "description": "Η εκστρατεία GhostPoster χρησιμοποίησε «αθώα» εργαλεία μετάφρασης και downloaders για να μολύνει 840.000 χρήστες, παρακάμπτοντας την ασφάλεια μέσω κρυμμένου κώδικα σε εικόνες.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/u/using-brow/using-browser-extensions-to-translate-or-download-videos-bet_mbtp.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Microsoft: Παρέδωσε στο FBI κλειδιά κρυπτογράφησης BitLocker – Η πρώτη δημόσια επιβεβαιωμένη περίπτωση",
-          "link": "https://gr.pcmag.com/it-security/51120/microsoft-paredose-sto-fbi-kleidia-kruptographeses-bitlocker-e-prote-demosia-epibebaiomene-periptose",
-          "pubDate": "Sun, 25 Jan 2026 17:21:41 +0000",
-          "description": "Σε αντίθεση με την Apple, η Microsoft παραχώρησε πρόσβαση σε κρυπτογραφημένα δεδομένα Windows κατόπιν εντάλματος, προκαλώντας αντιδράσεις από ειδικούς σε θέματα κυβερνοασφάλειας και ιδιωτικότητας.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/r/report-mic/report-microsoft-hands-over-keys-for-bitlocker-encrypted-dat_j38y.jpg",
           "source": "PC Magazine"
         }
       ]
