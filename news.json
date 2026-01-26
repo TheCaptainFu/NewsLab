@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T11:15:29.984Z",
+  "lastUpdated": "2026-01-26T11:20:31.504Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Εξιχνιάστηκαν τέσσερις υποθέσεις κλοπών στα Χανιά, συνελήφθησαν δύο 34χρονοι \n",
+          "link": "https://www.protothema.gr/greece/article/1763505/exihniastikan-tesseris-upotheseis-klopon-sta-hania-sunelifthisan-duo-34hronoi/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 13:18:41 +0200",
+          "description": "Οι υποθέσεις αφορούν κλοπές από καταστήματα και νηπιαγωγείο",
+          "thumbnail": "https://i1.prth.gr/images/w640/1/jpg/files/2025-08-01/peripoliko.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Βιολάντα: Μοναδικό μας μέλημα είναι να σταθούμε δίπλα στις οικογένειες των ανθρώπων που χάσαμε",
+          "link": "https://www.protothema.gr/greece/article/1763504/etaireia-violada-monadiko-mas-melima-einai-na-stathoume-dipla-stis-oikogeneies-ton-anthropon-pou-hasame/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 13:16:00 +0200",
+          "description": "Σε ανακοίνωσή της κάνει λόγο για μια στιγμή βαθιάς ψυχικής συντριβής, επισημαίνοντας ότι δεν υπάρχουν λόγια ικανά να περιγράψουν το μέγεθος της τραγωδίας",
+          "thumbnail": "https://i1.prth.gr/images/w640/1/jpg/files/2026-01-26/violada-ergostasio.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ιωάννα Μαλέσκου: Χαίρομαι που επανέρχεται η Κατερίνα Καραβάτου",
           "link": "https://www.newsit.gr/media/ioanna-maleskou-xairomai-pou-epanerxetai-i-katerina-karavatou/4583594/",
@@ -61,7 +77,7 @@
           "link": "https://www.protothema.gr/greece/article/1763494/provlimata-apo-tin-kakokairia-stin-kriti-deite-video-me-tous-plimmurismenous-dromous/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 13:00:00 +0200",
           "description": "Προειδοποίηση για έντονες καταιγίδες κατά τόπους σήμερα 26/1 στην Κρήτη - Στο κέντρο του Ηρακλείου τα συνεργεία του δήμου προχώρησαν σε κοπές δέντρων για λόγους ασφαλείας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/kriti_arthrou.jpg",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/arthrou-kairos.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -69,7 +85,7 @@
           "link": "https://www.newsit.gr/ellada/oi-megalyteres-ergatikes-tragodies-stin-ellada-apo-tin-petrola-kai-tin-pyrkal-mexri-ti-larko-kai-ti-violanta/4583695/",
           "pubDate": "Mon, 26 Jan 2026 10:56:37 +0000",
           "description": "Τα ξημερώματα της 26ης Ιανουαρίου 2026, η εργασία μετατράπηκε σε θάνατο: μια ισχυρή έκρηξη στο εργοστάσιο της Βιολάντα στα Τρίκαλα κατέστρεψε μια πρότυπη μονάδα παραγωγής, ...  \nTo άρθρο Οι μεγαλύτερες εργατικές τραγωδίες στην Ελλάδα από την Πετρόλα και την Πυρκάλ μέχρι τη Λάρκο και τη Βιολάντα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio-3.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/biolandacookies-1200x900.jpg",
           "source": "NewsIT"
         },
         {
@@ -231,22 +247,6 @@
           "description": "Ο πρίγκιπας Χάρι, δούκας του Σάσσεξ, η Μέγκαν, δούκισσα του Σάσσεξ παρακολούθησαν την πρεμιέρα της ταινίας «Cookie Queens» στο Φεστιβάλ Κινηματογράφου Σάντανς στο Κέντρο Παραστατικών ...  \nTo άρθρο Ο πρίγκιπας Χάρι και η Μέγκαν στην παγκόσμια πρεμιέρα του ντοκιμαντέρ «Cookie Queens» στο Φεστιβάλ Σάντανς δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/prince-harry-23012026.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Θεσσαλονίκη: Τραυματίστηκαν τέσσερις εργάτες σε έργο σύνδεσης νέου αγωγού της ΕΥΑΘ",
-          "link": "https://www.protothema.gr/greece/article/1763462/thessaloniki-traumatistikan-tesseris-ergates-se-ergo-sundesis-neou-agogou-tis-euath/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 12:09:00 +0200",
-          "description": "Τρεις από τους τέσσερις τραυματίες πήραν εξιτήριο, ενώ ο τέταρτος υπέστη κάταγμα στο πόδι και αναμένεται υποβληθεί σε χειρουργική επέμβαση",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/erga-eyath.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Η ιστορία της Βιολάντα: Ο συνοικιακός φούρνος με τα μπισκότα που έφθασαν στην άκρη του κόσμου και η σημερινή τραγωδία στα Τρίκαλα",
-          "link": "https://www.protothema.gr/greece/article/1763450/violada-o-sunoikiakos-fournos-sta-trikala-pou-exelihthike-se-diethni-viomihania-pos-ta-biskota-efthasan-akri-kosmou/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 12:09:00 +0200",
-          "description": "Τρεις παραγωγικές μονάδες σε Τρίκαλα και Λάρισα, περίπου 250 εργαζόμενοι και κύκλος εργασιών 37,8 εκατ. ευρώ το 2024 – Από έναν συνοικιακό φούρνο στη βιομηχανία που δημιούργησε ο Κωνσταντίνος Τζιωρτζιώτης",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/6826074.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Όμορφοι «Dead People»! (vid)",
+          "link": "https://www.gazzetta.gr/plus/2510276/omorfoi-dead-people-vid",
+          "pubDate": "Mon, 26 Jan 2026 13:13:55 +0200",
+          "description": "Το Gazzetta άκουσε το νέο single, «Dead People» (από τη «Fine! Records»), της Ειρήνης Σκυλακάκη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/deadpeoplephoto.jpg?itok=_ExAxAd3",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Σέρχιο Ράμος: Πλήρης συμφωνία για την εξαγορά της Σεβίλλης, σύμφωνα με τους Ισπανούς",
           "link": "https://www.gazzetta.gr/football/la-liga/2510291/serhio-ramos-pliris-symfonia-gia-tin-exagora-tis-sebillis-symfona-me-toys",
           "pubDate": "Mon, 26 Jan 2026 13:11:43 +0200",
@@ -977,14 +985,6 @@
           "description": "Όλο και πιο κοντά στην απόκτηση του Αντρέ Λουίζ πλησιάζει ο Ολυμπιακός καθώς ο ατζέντης βρίσκεται ήδη στην Ελλάδα για τις τελευταίες λεπτομέρειες.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/andre_luiz_getty.jpg?itok=YQhN4U7z",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Κόρι Τζόσεφ: «Είμαι πεινασμένος να παίξω μπάσκετ, έχω μιλήσει με τον Γιώργο Μπαρτζώκα»",
-          "link": "https://www.newsit.gr/athlitika/kori-tzosef-eimai-peinasmenos-na-paikso-mpasket-exo-milisei-me-ton-giorgo-mpartzoka/4583585/",
-          "pubDate": "Mon, 26 Jan 2026 09:09:50 +0000",
-          "description": "Ο Κόρι Τζόσεφ έφθασε στην Ελλάδα για να ολοκληρώσει τη μετεγγραφή του στον Ολυμπιακό και στις πρώτες του δηλώσεις στο αεροδρόμιο “Ελευθέριος Βενιζέλος” έδειξε ενημερωμένος ...  \nTo άρθρο Κόρι Τζόσεφ: «Είμαι πεινασμένος να παίξω μπάσκετ, έχω μιλήσει με τον Γιώργο Μπαρτζώκα» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/joseph-2-1200x798.jpg",
-          "source": "NewsIT"
         }
       ]
     },
