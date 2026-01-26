@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T13:35:24.280Z",
+  "lastUpdated": "2026-01-26T13:40:29.644Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -185,6 +185,22 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Χαλικιά (ΟΠΕΚΕΠΕ) στην εξεταστική: Γελοία η δικογραφία για Βορίδη – Καρφιά σε Σημανδράκο, Τυχεροπούλου, Βάρρα",
+          "link": "https://www.in.gr/2026/01/26/politics/politiki-grammateia/xalikia-opekepe-stin-eksetastiki-geloia-dikografia-gia-voridi-karfia-se-simandrako-tyxeropoulou-varra/",
+          "pubDate": "Mon, 26 Jan 2026 15:36:40 +0300",
+          "description": "Το πρώην στέλεχος των ΔΗΜΑΡ και ΣΥΡΙΖΑ που συμμετείχε στη διοίκηση του Οργανισμού τη περίοδο διακυβέρνησης Σαμαρά/Βενιζέλου, υποβάθμισε τη σημασία της δικογραφίας της Ευρωπαϊκής Εισαγγελίας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6826059-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Οι σειρήνες της Πάρου",
+          "link": "https://www.in.gr/2026/01/26/politics/aftodioikisi/oi-seirines-tis-parou/",
+          "pubDate": "Mon, 26 Jan 2026 15:34:41 +0300",
+          "description": "Ηλεκτρονικές σειρήνες ενεργοποιούνται για την άμεση ενημέρωση του πληθυσμού στο Δήμο Πάρου.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/22-01-2026-1320x1129-768x657.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Γκρεγκ Μποβίνο: Ο άνθρωπος που ενσαρκώνει το δόγμα Τραμπ για τους μετανάστες και ντύνεται σαν αξιωματικός των SS – «Ενεργώ και καθαρίζω»",
           "link": "https://www.newsit.gr/kosmos/gkregk-mpovino-o-anthropos-pou-ensarkonei-to-dogma-tramp-gia-tous-metanastes-kai-ntynetai-san-aksiomatikos-ton-ss-energo-kai-katharizo/4583836/",
           "pubDate": "Mon, 26 Jan 2026 12:33:30 +0000",
@@ -231,22 +247,6 @@
           "description": "Η αστυνομία διεξάγει έρευνες για το συμβάν - Δεν υπάρχουν τραυματίες",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-14/peripoliko_arthrou.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Λευκός Οίκος: «Είναι πολύ αργά» για να σταματήσει η κατασκευή της νέας αίθουσας χορού, λέει ο Τραμπ",
-          "link": "https://www.in.gr/2026/01/26/world/leykos-oikos-einai-poly-arga-gia-na-stamatisei-kataskeyi-tis-neas-aithousas-xorou-leei-o-tramp/",
-          "pubDate": "Mon, 26 Jan 2026 15:24:35 +0300",
-          "description": "«Η διακοπή των εργασιών σε αυτό το προχωρημένο στάδιο, την ώρα που τόσα πράγματα έχουν ήδη παραγγελθεί και πραγματοποιηθεί, θα ήταν καταστροφική για τον Λευκό Οίκο είπε ο Τραμπ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet-2026-01-26T151836.140-768x537.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "«Σμήνη ΑΙ» που παρεισφρέουν στα social media, η νέα απειλή για τη δημοκρατία",
-          "link": "https://www.in.gr/2026/01/26/in-science/technology/smini-ai-pou-pareisfreoun-sta-social-media-nea-apeili-gia-ti-dimokratia/",
-          "pubDate": "Mon, 26 Jan 2026 15:23:55 +0300",
-          "description": "Σμήνη από bot που υποδύονται τους ανθρώπους απειλούν να χειραγωγήσουν το δημόσιο διάλογο και να δημιουργήσουν την ψευδαίσθηση κοινωνικής ομοφωνίας.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2024-05-12T140453Z_1776683956_RC2GX1AD5VDZ_RTRMADP_5_USA-CHINA-AI-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "Οικογένεια χάρισε αγροτεμάχιο σε ολόκληρο χωριό: «Να μοιραστεί σε όλους»",
+          "link": "https://www.gazzetta.gr/plus/2510311/oikogeneia-harise-agrotemahio-se-olokliro-horio-na-moirastei-se-oloys",
+          "pubDate": "Mon, 26 Jan 2026 15:38:05 +0200",
+          "description": "Μια οικογένεια στη δυτική Γαλλία δώρισε ένα μεγάλο αγροτεμάχιο στον δήμο, με μοναδικό όρο να μετατραπεί σε κοινόχρηστο οπωρώνα και να ωφεληθεί ολόκληρη η κοινότητα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/agroktima.jpg?itok=gcXjs0jE",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σοκ στην Ομόνοια με Κίτσο: Εκτός για 9-12 μήνες λόγω ρήξης χιαστού",
+          "link": "https://www.gazzetta.gr/football/katigoria-kyproy/2510331/sok-stin-omonoia-me-kitso-ektos-gia-9-12-mines-logo-rixis-hiastoy",
+          "pubDate": "Mon, 26 Jan 2026 15:37:47 +0200",
+          "description": "Επαληθεύτηκαν οι ανησυχίες για τον Φώτη Κίτσο, με τον Έλληνα αμυντικό να μένει εκτός αγωνιστικής δράσης για περίπου έναν χρόνο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-09/kitsos_omonoia_.jpg?itok=WE2BJVts",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Liga Endesa: Τέλος ο Πλάθα από την Ανδόρα, ανέλαβε ο Τάμπακ",
+          "link": "https://www.gazzetta.gr/basketball/mpasket-ispania/2510330/liga-endesa-telos-o-platha-apo-tin-andora-anelabe-o-tampak",
+          "pubDate": "Mon, 26 Jan 2026 15:36:26 +0200",
+          "description": "Η Ανδόρα τερμάτισε τη συνεργασία της με τον πρώην προπονητή της ΑΕΚ, Ζοάν Πλάθα, αναθέτοντας την τεχνική ηγεσία στον Ζαν Τάμπακ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/plaza.jpg?itok=yHFzv_xW",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Μαγνητική για τον Τσιριβέγια, εκτός με ίωση ο Καλάμπρια",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-magnitiki-gia-ton-tsirivegia-ektos-me-iosi-o-kalampria/4583888/",
+          "pubDate": "Mon, 26 Jan 2026 13:32:10 +0000",
+          "description": "Ο Παναθηναϊκός καλείται να αφήσει πίσω του τον αγώνα με τον Ατρόμητο στη Super League, καθώς ακολουθεί η αναμέτρηση με τη Ρόμα στο Europa League, ...  \nTo άρθρο Παναθηναϊκός: Μαγνητική για τον Τσιριβέγια, εκτός με ίωση ο Καλάμπρια δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kalabria-chirivella-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Κριστιάνο Ρονάλντο: Η ανάρτησή του για τον Κάρικ το 2021 έγινε viral",
           "link": "https://www.gazzetta.gr/football/premier-league/2510322/kristiano-ronalnto-i-anartisi-toy-gia-ton-karik-2021-egine-viral",
           "pubDate": "Mon, 26 Jan 2026 15:23:55 +0200",
@@ -952,38 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 13:40:24 +0200",
           "description": "Ο GM της Μυκόνου Γιάννης Τζήμας μίλησε στο podcast της Stoiximan GBL, Man to Man μεταξύ άλλων για την πορεία της ομάδας του στο πρωτάθλημα, αλλά και τον Νίκο Γκάλη.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/tzimas_1.jpg?itok=iK6jnIbw",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Ενδιαφέρον από το εξωτερικό για Γιάρεμτσουκ και Γιαζίτσι και οι παίκτες προς αποχώρηση",
-          "link": "https://www.gazzetta.gr/football/superleague/2510296/olympiakos-endiaferon-apo-exoteriko-gia-giaremtsoyk-kai-giazitsi-kai",
-          "pubDate": "Mon, 26 Jan 2026 13:39:37 +0200",
-          "description": "Εκτός από τις μεταγραφές, ο Ολυμπιακός κινείται και στο κομμάτι των αποχωρήσεων με τους Γιάρεμτσουκ, Γιαζίτσι και Βέζο να έχουν προσελκύσει το ενδιαφέρον από το εξωτερικό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/yaremchuk_3.jpg?itok=A5RVTHu4",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ελλάδα – Σλοβακία 24-7: Επίδειξη δύναμης από την Εθνική πόλο γυναικών στην πρεμιέρα του ευρωπαϊκού πρωταθλήματος",
-          "link": "https://www.newsit.gr/athlitika/ellada-slovakia-24-7-epideiksi-dynamis-apo-tin-ethniki-polo-gynaikon-stin-premiera-tou-eyropaikou-protathlimatos/4583746/",
-          "pubDate": "Mon, 26 Jan 2026 11:36:30 +0000",
-          "description": "Η Εθνική πόλο γυναικών της Ελλάδας έκανε επίδειξη δύναμης στην πρεμιέρα της στο ευρωπαϊκό πρωτάθλημα της Μαδέιρα στην Πορτογαλία και νίκησε με το επιβλητικό 24-7 ...  \nTo άρθρο Ελλάδα – Σλοβακία 24-7: Επίδειξη δύναμης από την Εθνική πόλο γυναικών στην πρεμιέρα του ευρωπαϊκού πρωταθλήματος δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/polowomen-1-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ελλάδα - Σλοβακία 24-7: Πρεμιέρα στο ρελαντί για τη «γαλανόλευκη»",
-          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510295/ellada-slobakia-24-7-premiera-sto-relanti-gia-ti",
-          "pubDate": "Mon, 26 Jan 2026 13:34:34 +0200",
-          "description": "Η Εθνική ομάδα πόλο γυναικών έκανε την πρεμιέρα που αναμενόταν στο Ευρωπαϊκό πρωτάθλημα, νικώντας πολύ εύκολα την Σλοβακία με 24-7 για την 1η αγωνιστική.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vpleuritou.jpg?itok=MnUpCGMU",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μίκαελ Σουμάχερ: Συγκλονιστικές φήμες για την υγεία του",
-          "link": "https://www.gazzetta.gr/gmotion/2510294/mikael-soymaher-sygklonistikes-fimes-gia-tin-ygeia-toy",
-          "pubDate": "Mon, 26 Jan 2026 13:33:45 +0200",
-          "description": "Τι υποστηρίζει η Daily Mail για την κατάσταση του Γερμανού πρωταθλητή και γιατί η οικογένεια συνεχίζει να τηρεί στάση αναμονής.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/schumi-korina_1080.jpg?itok=Dzbr9rah",
           "source": "Gazzetta"
         }
       ]
