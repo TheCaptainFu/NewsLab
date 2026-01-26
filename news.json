@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T20:25:31.843Z",
+  "lastUpdated": "2026-01-26T20:30:32.675Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -13,7 +13,7 @@
           "link": "https://www.newsit.gr/ellada/psaxnoun-to-pelatologio-tou-souvlatzidikou-sti-drapetsona-pou-mazi-me-pitogyra-poulage-kai-narkotika/4584194/",
           "pubDate": "Mon, 26 Jan 2026 20:23:13 +0000",
           "description": "Κανείς δε μπορούσε να φανταστεί, ότι το γνωστό σουβλατζίδικο της Δραπετσώνας θα απασχολούσε τη δημοσιότητα, όχι για τους φημισμένους μεζέδες του αλλά… για υπόθεση διακίνησης ...  \nTo άρθρο Ψάχνουν το πελατολόγιο του σουβλατζίδικου στη Δραπετσώνα που μαζί με πιτόγυρα πούλαγε και ναρκωτικά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/narkotika.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/souvlaki.jpg",
           "source": "NewsIT"
         },
         {
@@ -137,8 +137,16 @@
           "source": "NewsIT"
         },
         {
+          "title": "ICE – SS – Εκτελεστές: Ανατριχίλες ξυπνά η ναζιστική αισθητική του διοικητή της ICE",
+          "link": "https://www.in.gr/2026/01/26/world/ice-es-es-ektelestes-anatrixiles-ksypna-nazistiki-aisthitiki-tou-dioikiti-tis-ice/",
+          "pubDate": "Mon, 26 Jan 2026 22:24:47 +0300",
+          "description": "Ο διοικητής της ICE Γκρεγκ Μποβίνο, είναι διαβόητος, όχι μόνο για τις κυνικές δηλώσεις του, αλλά και για τη ναζιστικής αισθητικής στολή του. Ο ίδιος αρνείται κάθε ομοιότητα με αξιωματικό του Χίτλερ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/bovino-1024x683-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Απίστευτη δύναμη από τον Πολονάρα: «Θα επιστρέψω στα γήπεδα μέχρι τις 20 Μαρτίου – Τίποτα δεν με τρομάζει»",
-          "link": "https://www.in.gr/2026/01/26/sports/basketball/204152159/",
+          "link": "https://www.in.gr/2026/01/26/sports/basketball/apisteyti-dynami-apo-ton-polonara-tha-epistrepso-sta-gipeda-mexri-tis-20-martiou-tipota-den-tromazei/",
           "pubDate": "Mon, 26 Jan 2026 22:24:02 +0300",
           "description": "Ο Ακίλε Πολονάρα συνεχίζει να δίνει μάχη με τη λευχαιμία, ωστόσο η υγεία του έχει βελτιωθεί τόσο πολύ που ο ίδιος έδωσε υπόσχεση ότι στις 20 Μαρτίου θα είναι σε θέση να επιστρέψει στις προπονήσεις!",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/achille-polonara-768x554.jpg",
@@ -239,14 +247,6 @@
           "description": "Σοβαρά προβλήματα έχει προκαλέσει στα Μελίσσια η θραύση κεντρικού αγωγού της ΕΥΔΑΠ, η οποία είχε ως αποτέλεσμα να υποστεί καθίζηση το οδόστρωμα και να ανοίξει ...  \nTo άρθρο Μελίσσια: «Κρατήρας» από θραύση αγωγού – Κλειστή η Δημοκρατίας λόγω της καθίζησης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/melissia-1200x774.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Αυτοκίνητο καρφώθηκε σε ελιές στην Ηλεία, στο νοσοκομείο 19χρονος",
-          "link": "https://www.protothema.gr/greece/article/1763796/autokinito-karfothike-se-elies-stin-ileia-sto-nosokomeio-19hronos/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 21:00:18 +0200",
-          "description": "Μεγάλες ζημιές στο αυτοκίνητο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/troxaio-exo.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
