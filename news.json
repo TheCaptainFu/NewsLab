@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T11:55:28.854Z",
+  "lastUpdated": "2026-01-26T12:00:41.908Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,42 @@
       "color": "red",
       "articles": [
         {
+          "title": "Grand Hotel – επόμενο επεισόδιο: Η Κυβέλη εκβιάζει τον Ρήγα",
+          "link": "https://www.newsit.gr/media/grand-hotel-epomeno-epeisodio-i-kyveli-ekviazei-ton-riga/4583803/",
+          "pubDate": "Mon, 26 Jan 2026 11:59:12 +0000",
+          "description": "Εξελίξεις και ανατροπές έρχονται στο νέο διπλό επεισόδιο του «Grand Hotel» που θα προβληθεί απόψε Δευτέρα (26.01.2026) στις 21:00, μέσα από την συχνότητα του ΑΝΤ1. ...  \nTo άρθρο Grand Hotel – επόμενο επεισόδιο: Η Κυβέλη εκβιάζει τον Ρήγα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grand-hotel1-2-1200x745.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Αστρονομικό ποσό σε Μπρούκλιν Μπέκαμ και Νίκολα Πελτζ για να αποκαλύψουν σε βιβλίο τα μυστικά των Μπέκαμ",
+          "link": "https://www.newsit.gr/lifestyle/astronomiko-poso-se-mprouklin-mpekam-kai-nikola-peltz-gia-na-apokalypsoun-se-vivlio-ta-mystika-ton-mpekam/4583802/",
+          "pubDate": "Mon, 26 Jan 2026 11:58:27 +0000",
+          "description": "Αδρά πληρώνουν τον γιο του Ντέιβιντ Μπέκαμ και της Βικτόρια Μπέκαμ, Μπρούκλιν καθώς και τη γυναίκα του Νίκολα Πελτζ, για να γράψουν ένα αποκαλυπτικό βιβλίο, ...  \nTo άρθρο Αστρονομικό ποσό σε Μπρούκλιν Μπέκαμ και Νίκολα Πελτζ για να αποκαλύψουν σε βιβλίο τα μυστικά των Μπέκαμ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/05/Brooklyn-Beckham-Nicola-Peltz.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Μπόρνμουθ: Στην Αγγλία ο Χρήστος Μανδάς για να ολοκληρώσει τη μετεγγραφή",
+          "link": "https://www.newsit.gr/athlitika/mpornmouth-stin-agglia-o-xristos-mandas-gia-na-oloklirosei-ti-meteggrafi/4583791/",
+          "pubDate": "Mon, 26 Jan 2026 11:56:11 +0000",
+          "description": "Ο Χρήστος Μανδάς ετοιμάζεται να “κλείσει” τη μετεγγραφή του στην Μπόρνμουθ, καθώς αναμένεται να περάσει άμεσα από ιατρικές εξετάσεις στην Αγγλία, ώστε να ανακοινωθεί ο ...  \nTo άρθρο Μπόρνμουθ: Στην Αγγλία ο Χρήστος Μανδάς για να ολοκληρώσει τη μετεγγραφή δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/mandas-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Γλυφάδα: 16χρονος πήγε στο σχολείο με τρία μαχαίρια – Συνελήφθη εκείνος και ο πατέρας του",
+          "link": "https://www.newsit.gr/ellada/glyfada-16xronos-pige-sto-sxoleio-me-tria-maxairia-synelifthi-ekeinos-kai-o-pateras-tou/4583794/",
+          "pubDate": "Mon, 26 Jan 2026 11:55:27 +0000",
+          "description": "Σοκ έχει προκαλέσει η είδηση ότι ένας 16χρονος μαθητής εμφανίστηκε στο σχολείο του στη Γλυφάδα έχοντας στη κατοχή του τρία μαχαίρια και έναν κόφτη. Η ...  \nTo άρθρο Γλυφάδα: 16χρονος πήγε στο σχολείο με τρία μαχαίρια – Συνελήφθη εκείνος και ο πατέρας του δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-1.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ασφαλισμένη η τρικαλινή μπισκοτοποιία Βιολάντα – Σε εξέλιξη οι εκτιμήσεις των ζημιών και η έρευνα για τα αίτια ",
           "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/asfalismeni-i-trikalini-mpiskotopoiia-violanta-se-ekseliksi-oi-ektimiseis-ton-zimion-kai-i-ereyna-gia-ta-aitia/4583775/",
           "pubDate": "Mon, 26 Jan 2026 11:52:37 +0000",
-          "description": "Πλήρως ασφαλισμένο ήταν το εργοστάσιο μπισκότων της Βιολάντα στην Εθνική Οδό Τρικάλων – Καρδίτσας, το οποίο καταστράφηκε ολοσχερώς έπειτα από τη μεγάλη έκρηξη και την ...  \nTo άρθρο Ασφαλισμένη η τρικαλινή μπισκοτοποιία Βιολάντα – Σε εξέλιξη οι εκτιμήσεις των ζημιών και η έρευνα για τα αίτια  δημοσιεύτηκε στο NewsIT .",
+          "description": "Πλήρως ασφαλισμένη ήταν η μονάδα του εργοστασίου μπισκότων της Βιολάντα στην Εθνική Οδό Τρικάλων – Καρδίτσας, η οποία καταστράφηκε ολοσχερώς έπειτα από τη μεγάλη έκρηξη ...  \nTo άρθρο Ασφαλισμένη η τρικαλινή μπισκοτοποιία Βιολάντα – Σε εξέλιξη οι εκτιμήσεις των ζημιών και η έρευνα για τα αίτια  δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio-4.jpg",
           "source": "NewsIT"
         },
@@ -41,19 +73,19 @@
           "source": "NewsIT"
         },
         {
-          "title": "Σπάτα: Απεγκλωβίστηκε όχημα με δύο επιβαίνοντες που παρασύρθηκε από νερά ρέματος\n",
-          "link": "https://www.protothema.gr/greece/article/1763523/sunagermos-sta-spata-ohima-me-duo-epivainodes-parasurthike-apo-rema-se-exelixi-epiheirisi-diasosis/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 13:45:52 +0200",
-          "description": "Το περιστατικό έγινε στην περιοχή της Πετρέζας – Η επιχείρηση απεγκλωβισμού ήταν δύσκολη, λόγω των ορμητικών νερών",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/pyrosvestiki1__2_.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
           "title": "Τραγωδία στο Ηράκλειο: Βρήκε νεκρό τον αδερφό της στο σπίτι του ",
           "link": "https://www.protothema.gr/greece/article/1763528/tragodia-sto-irakleio-nekros-63hronos-edopistike-sto-spiti-tou/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 13:45:37 +0200",
           "description": "Ο άνδρας δεν είχε επικοινωνήσει με τους συγγενείς του για αρκετό διάστημα, γεγονός που προκάλεσε ανησυχία",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-06-21/ekav-mak.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Σπάτα: Απεγκλωβίστηκαν δύο άτομα που επέβαιναν σε όχημα που παρασύρθηκε από νερά ρέματος\n",
+          "link": "https://www.protothema.gr/greece/article/1763523/sunagermos-sta-spata-ohima-me-duo-epivainodes-parasurthike-apo-rema-se-exelixi-epiheirisi-diasosis/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 13:45:00 +0200",
+          "description": "Το περιστατικό έγινε στην περιοχή της Πετρέζας – Η επιχείρηση απεγκλωβισμού ήταν δύσκολη, λόγω των ορμητικών νερών",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/pyrosvestiki1__2_.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -215,38 +247,6 @@
           "description": "Το φαινόμενο εμφανίστηκε λίγο μετά τις βροχές και έγινε ορατό από μεγάλο μέρος της πόλης",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/ouranio-tokso-irakleio-xroma.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "ΓΕΣ: Ο Στρατός Ξηράς εκπόνησε εγχειρίδιο επιχειρήσεων για τη χρήση και την αντιμετώπιση drones και UAV – Ποιο είναι το περιεχόμενό του",
-          "link": "https://www.newsit.gr/ellada/ges-o-stratos-ksiras-ekponise-egxeiridio-epixeiriseon-gia-ti-xrisi-kai-tin-antimetopisi-drones-kai-uav-poio-einai-to-periexomeno-tou/4583717/",
-          "pubDate": "Mon, 26 Jan 2026 11:01:48 +0000",
-          "description": "Το Γενικό Επιτελείο Στρατού ανακοίνωσε ότι για πρώτη φορά εκπόνησε και εξέδωσε Εγχειρίδιο Εκστρατείας, το οποίο αφορά την επιχειρησιακή χρήση των drones (UAV) και τις ...  \nTo άρθρο ΓΕΣ: Ο Στρατός Ξηράς εκπόνησε εγχειρίδιο επιχειρήσεων για τη χρήση και την αντιμετώπιση drones και UAV – Ποιο είναι το περιεχόμενό του δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/drones-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Προβλήματα από την κακοκαιρία στην Κρήτη, δείτε βίντεο με τους πλημμυρισμένους δρόμους - Συνεργεία του δήμου κόβουν προληπτικά δέντρα",
-          "link": "https://www.protothema.gr/greece/article/1763494/provlimata-apo-tin-kakokairia-stin-kriti-deite-video-me-tous-plimmurismenous-dromous/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 13:00:00 +0200",
-          "description": "Προειδοποίηση για έντονες καταιγίδες κατά τόπους σήμερα 26/1 στην Κρήτη - Στο κέντρο του Ηρακλείου τα συνεργεία του δήμου προχώρησαν σε κοπές δέντρων για λόγους ασφαλείας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/arthrou-kairos.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Οι μεγαλύτερες εργατικές τραγωδίες στην Ελλάδα από την Πετρόλα και την Πυρκάλ μέχρι τη Λάρκο και τη Βιολάντα",
-          "link": "https://www.newsit.gr/ellada/oi-megalyteres-ergatikes-tragodies-stin-ellada-apo-tin-petrola-kai-tin-pyrkal-mexri-ti-larko-kai-ti-violanta/4583695/",
-          "pubDate": "Mon, 26 Jan 2026 10:56:37 +0000",
-          "description": "Τα ξημερώματα της 26ης Ιανουαρίου 2026, η εργασία μετατράπηκε σε θάνατο: μια ισχυρή έκρηξη στο εργοστάσιο της Βιολάντα στα Τρίκαλα κατέστρεψε μια πρότυπη μονάδα παραγωγής, ...  \nTo άρθρο Οι μεγαλύτερες εργατικές τραγωδίες στην Ελλάδα από την Πετρόλα και την Πυρκάλ μέχρι τη Λάρκο και τη Βιολάντα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/biolandacookies-1200x900.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Παναγιώτη Σαντή από το Βόλο",
-          "link": "https://www.newsit.gr/athlitika/o-olympiakos-anakoinose-tin-apoktisi-tou-panagioti-santi-apo-to-volo/4583728/",
-          "pubDate": "Mon, 26 Jan 2026 10:56:26 +0000",
-          "description": "Ο Παναγιώτης Σαντής είναι κι επίσημα παίκτης του Ολυμπιακού, αφού υπέγραψε το νέο του συμβόλαιο με τους Πειραιώτες και παρουσιάστηκε ως νέος παίκτης της ακαδημίας ...  \nTo άρθρο Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Παναγιώτη Σαντή από το Βόλο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/santis-1-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -717,10 +717,10 @@
           "source": "Euronews"
         },
         {
-          "title": "Greece biscuit factory fire leaves at least three dead",
+          "title": "Greece biscuit factory fire leaves at least four dead",
           "link": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 08:06:42 GMT",
-          "description": "A search is continuing for people still missing after a blaze broke out at a biscuit factory near the city of Trikala.",
+          "description": "A search is continuing for one person still missing after a blaze broke out at a biscuit factory near the city of Trikala.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f0/live/86816ff0-fa9b-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
         },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Μπέος: «Καλοδεχούμενοι οι οπαδοί της ΑΕΛ, να απομονωθούν τα ακραία στοιχεία»",
+          "link": "https://www.gazzetta.gr/football/superleague/2510303/mpeos-kalodehoymenoi-oi-opadoi-tis-ael-na-apomonothoyn-ta-akraia",
+          "pubDate": "Mon, 26 Jan 2026 13:58:46 +0200",
+          "description": "Ο Δήμαρχος του Βόλου, Αχιλλέας Μπέος καλωσόρισε τους οπαδούς της ΑΕΛ και ζήτησε την βοήθεια της αστυνομίας για να απομονώσει τα ακραία στοιχεία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mpeos_intime.jpg?itok=vxc4cHqn",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μπόρνμουθ: Στην Αγγλία ο Χρήστος Μανδάς για να ολοκληρώσει τη μετεγγραφή",
+          "link": "https://www.newsit.gr/athlitika/mpornmouth-stin-agglia-o-xristos-mandas-gia-na-oloklirosei-ti-meteggrafi/4583791/",
+          "pubDate": "Mon, 26 Jan 2026 11:56:11 +0000",
+          "description": "Ο Χρήστος Μανδάς ετοιμάζεται να “κλείσει” τη μετεγγραφή του στην Μπόρνμουθ, καθώς αναμένεται να περάσει άμεσα από ιατρικές εξετάσεις στην Αγγλία, ώστε να ανακοινωθεί ο ...  \nTo άρθρο Μπόρνμουθ: Στην Αγγλία ο Χρήστος Μανδάς για να ολοκληρώσει τη μετεγγραφή δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/mandas-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Οπαδός του ΠΑΟΚ ζήτησε τον Μόντριτς και ο Λόβρεν απάντησε: «Θα πρέπει να πουλήσω το νεφρό μου!»",
           "link": "https://www.gazzetta.gr/football/europa-league/2510301/opados-toy-paok-zitise-ton-montrits-kai-o-lobren-apantise-tha-prepei",
@@ -968,22 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 11:56:43 +0200",
           "description": "Όμορφες αναμετρήσεις, εξαιρετικές συνεργασίες και μεγάλες μάχες για άλλη μια εβδομάδα στο Basketaki Salonica, όπου οι ομάδες συνεχίζουν τις αγωνιστικές τους υποχρεώσεις με αμείωτο ρυθμό με στόχο την πολυπόθητη νίκη.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/basketaki_56.jpg?itok=i_e6hmww",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λιάγκας: Του έκλεισε το τηλέφωνο ο Μιχάλης Γιαννάκος - «Μου έκανε τη μούρη κρέας» (vid)",
-          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
-          "pubDate": "Mon, 26 Jan 2026 11:51:00 +0200",
-          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/giorgos-liagas-giannakos.jpg.png?itok=XS_v3-mU",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "F1 - Αυτή είναι η πραγματική Red Bull RB22 (vid)",
-          "link": "https://www.gazzetta.gr/gmotion/2510270/f1-ayti-einai-i-pragmatiki-red-bull-rb22-vid",
-          "pubDate": "Mon, 26 Jan 2026 11:50:58 +0200",
-          "description": "H αυστριακή ομάδα δημοσίευσε τις πρώτες πραγματικές εικόνες του μονοθεσίου που θα φορά τον πρώτο δικό της κινητήρα στην ιστορία στη Formula 1.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/si2026012503041.jpg?itok=PVHpOk5K",
           "source": "Gazzetta"
         }
       ]
