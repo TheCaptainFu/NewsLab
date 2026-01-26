@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T14:15:27.824Z",
+  "lastUpdated": "2026-01-26T14:20:28.140Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Μινεάπολη: Δύο θανατηφόροι πυροβολισμοί, καμία δίωξη – Πώς η ομοσπονδιακή ασυλία καλύπτει τους πράκτορες της ICE",
+          "link": "https://www.newsit.gr/kosmos/mineapoli-dyo-thanatiforoi-pyrovolismoi-kamia-dioksi-pos-i-omospondiaki-asylia-kalyptei-tous-praktores-tis-ice/4583947/",
+          "pubDate": "Mon, 26 Jan 2026 14:18:08 +0000",
+          "description": "Αναβρασμός επικρατεί στη Μινεάπολη μετά και τον δεύτερο θανατηφόρο πυροβολισμό από άνδρες της Υπηρεσίας Μετανάστευσης και Τελωνείων (ICE). Ο 37χρονος νοσηλευτής Άλεξ Πρέτι, σκοτώθηκε από ...  \nTo άρθρο Μινεάπολη: Δύο θανατηφόροι πυροβολισμοί, καμία δίωξη – Πώς η ομοσπονδιακή ασυλία καλύπτει τους πράκτορες της ICE δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/minneapolisrene.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Νίκος Γκάλης για Εθνική πόλο ανδρών: «Περήφανοι για εσάς»",
           "link": "https://www.newsit.gr/athlitika/nikos-gkalis-gia-ethniki-polo-andron-perifanoi-gia-esas/4583937/",
@@ -239,14 +247,6 @@
           "description": "Βρέθηκε η σορός και της πέμπτης αγνοούμενης στο εργοστάσιο της εταιρείας Βιολάντα, που καταστράφηκε ολοσχερώς από την έκρηξη και τη φωτιά που ακολούθησε.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/IN_1920-14-1200x675-3-768x432.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Η Εθνική ποδοσφαίρου κλείνει φιλικό παιχνίδι με την Παραγουάη",
-          "link": "https://www.newsit.gr/athlitika/i-ethniki-podosfairou-kleinei-filiko-paixnidi-me-tin-paragouai/4583864/",
-          "pubDate": "Mon, 26 Jan 2026 13:11:17 +0000",
-          "description": "Η Εθνική ποδοσφαίρου της Ελλάδας έχει ήδη ανακοινώσει ένα φιλικό με την Ουγγαρία για το Μάρτιο του 2026 και ετοιμάζεται να κλείσει και ένα δεύτερο ...  \nTo άρθρο Η Εθνική ποδοσφαίρου κλείνει φιλικό παιχνίδι με την Παραγουάη δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/karetsas-tetei-1200x799.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Τριβές στο ΠΑΣΟΚ: Οι συνεργασίες είναι μόνο η αφορμή",
+          "link": "https://www.tanea.gr/print/2026/01/26/politics/oi-synergasies-einai-mono-lfi-aformi/",
+          "pubDate": "Mon, 26 Jan 2026 14:07:00 +0000",
+          "description": "Το ΠΑΣΟΚ οδεύει προς το συνέδριο του Μαρτίου όχι απλώς με ανοικτές εκκρεμότητες, αλλά με μια ορατή εσωκομματική κρίση, η οποία βαθαίνει όσο πλησιάζει η ώρα των αποφάσεων. Δεν πρόκειται για ιδεολογική ζύμωση ούτε για δημιουργική πολυφωνία. Πρόκειται για σύγκρουση στρατηγικών, φιλοδοξιών και κατευθύνσεων, που εκδηλώνεται πλέον δημόσια και χωρίς φίλτρα. Η εικόνα αποτυπώθηκε καθαρά […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/pasok-2-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Καρυστιανού: Ζητά ενημέρωση από Μητσοτάκη για τη συνάντηση με Ερντογάν «για να κρίνουν οι πολίτες αν πρέπει να γίνει»",
           "link": "https://www.tanea.gr/2026/01/26/politics/karystianou-zita-enimerosi-apo-mitsotaki-gia-ti-synantisi-me-erntogan-gia-na-krinoun-oi-polites-an-prepei-na-ginei/",
@@ -485,14 +493,6 @@
           "description": "Με αναφορά στο δυστύχημα στη μπισκοτοβιομηχανία «Βιολάντα» ξεκίνησε την εισήγησή του στο Υπουργικό ο Κ. Μητσοτάκης",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/ETB_8940-1024x683.jpg",
           "source": "Το Βήμα"
-        },
-        {
-          "title": "Ν. Ανδρουλάκης: «Δε θα επιτρέψω το συνέδριο να γίνει ηχώ δωματίου» – «Δε στέκεται ως υπουργός ο κ. Φλωρίδης»",
-          "link": "https://www.tovima.gr/2026/01/26/politics/n-androulakis-de-tha-epitrepso-to-synedrio-na-ginei-ixo-domatiou-de-steketai-os-ypourgos-o-k-floridis/",
-          "pubDate": "Mon, 26 Jan 2026 11:21:08 +0300",
-          "description": "«Δεν μπορώ να δεχτώ κατά παραγγελία νομοθέτηση, ούτε να μη βαδίζει η χώρα μου στον ευρωπαϊκό δρόμο μιας ποιοτικής δημοκρατίας» - Θέμα Φλωρίδη έθεσε με συνέντευξη του στο ΟPEN ο Πρόεδρος του ΠαΣοΚ",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/androulakis-1024x683.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Greenpeace παρουσιάζει ανδρείκελα Τραμπ, Πούτιν, ζητά από ΕΕ τέλος εξάρτησης από ορυκτά καύσιμα",
+          "link": "http://gr.euronews.com/video/2026/01/26/greenpeace-has-unveiled-effigies-of-donald-trump-and-vladimir-putin-in-brussels-urging-the",
+          "pubDate": "Mon, 26 Jan 2026 15:11:13 +0100",
+          "description": "Η Greenpeace στις Βρυξέλλες διαμαρτυρήθηκε για την εξάρτηση της ΕΕ από εισαγόμενα ορυκτά καύσιμα, ζητώντας ΑΠΕ αντί για εξάρτηση από ΗΠΑ και Ρωσία.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
         {
           "title": "Γιώργος Παπαγεωργίου: Είμαστε πολύ κοντά πια σε μια εσωτερική και κοινωνική δυστοπία",
           "link": "http://gr.euronews.com/culture/2026/01/26/yorgos-papageorgiou-eimaste-poli-konta-pia-se-mia-esoteriki-kai-koinoniki-distopia",
@@ -555,6 +563,14 @@
           "description": "«Όχι σε αμερικανικές πλατφόρμες ή κινεζικούς αλγόριθμους»: O Εμανουέλ Μακρόν στοχοποιεί τεχνολογικούς γίγαντες με απαγόρευση social media για κάτω των 15",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "France debates under-15s social media ban endorsed by Macron",
+          "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:14:43 GMT",
+          "description": "Prime Minister Sébastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/4c7fd700-fab0-11f0-91f4-a739ab96be22.jpg",
+          "source": "BBC News"
         },
         {
           "title": "Private jet carrying eight people crashes in Maine",
@@ -723,22 +739,6 @@
           "description": "Ο πρόεδρος των ΗΠΑ Ντόναλντ Τραμπ δήλωσε ότι η κυβέρνησή του επανεξετάζει τον θανάσιμο πυροβολισμό του Άλεξ Πρέτι από πράκτορες της υπηρεσίας μετανάστευσης στη Μινεάπολη, ο οποίος προκάλεσε επικρίσεις από τους πρώην προέδρους Ομπάμα και Κλίντον",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Πιστοί της Σαντερία στην Κούβα προσφέρουν δώρα και ικετεύουν τους θεούς για ειρήνη εν μέσω κρίσεων",
-          "link": "http://gr.euronews.com/video/2026/01/26/cubas-santeros-provide-offerings-and-petition-deities-for-peace-during-times-of-crisis",
-          "pubDate": "Mon, 26 Jan 2026 10:33:10 +0100",
-          "description": "Αφροκουβανοί ιερείς της Σαντερία πραγματοποιούν τελετές για να ζητήσουν ειρήνη και υγεία κατά τη διάρκεια περιφερειακής σύγκρουσης.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Βραζιλία: Δεκάδες υποστηρικτές του Μπολσονάρου τραυματίστηκαν από κεραυνό σε συγκέντρωση ",
-          "link": "http://gr.euronews.com/2026/01/26/brazilia-dekades-ipostiriktes-bolosnaro-travmaties-apo-keravno-se-diadilosi",
-          "pubDate": "Mon, 26 Jan 2026 10:21:33 +0100",
-          "description": "89  άτομα τραυματίστηκαν από κεραυνό σε συγκέντρωση υποστήριξης του πρώην προέδρου Ζαΐρ Μπολσονάρου στη Μπραζίλια",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Η υπογονιμότητα αφορά και τους άνδρες",
+          "link": "https://www.gazzetta.gr/plus/2510341/i-ypogonimotita-afora-kai-toys-andres",
+          "pubDate": "Mon, 26 Jan 2026 16:17:36 +0200",
+          "description": "Όταν ένα ζευγάρι δυσκολεύεται να αποκτήσει παιδί, το βλέμμα στρέφεται σχεδόν πάντα στη γυναίκα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/shutterstock_1199574622_2.jpg?itok=o1Kr5i36",
+          "source": "Gazzetta"
+        },
         {
           "title": "Νίκος Γκάλης για Εθνική πόλο ανδρών: «Περήφανοι για εσάς»",
           "link": "https://www.newsit.gr/athlitika/nikos-gkalis-gia-ethniki-polo-andron-perifanoi-gia-esas/4583937/",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 14:20:19 +0200",
           "description": "Εντοπίστηκε και τέταρτη νεκρή στη φωτιά στο εργοστάσιο «Βιολάντα» στα Τρίκαλα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/violanta-trikala.jpg?itok=AqTpu3cr",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός: Τιμές και παγίδες στα sites μεταπώλησης εισιτηρίων",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510307/agiax-olympiakos-times-kai-pagides-sta-sites-metapolisis",
-          "pubDate": "Mon, 26 Jan 2026 14:17:31 +0200",
-          "description": "Τα διαθέσιμα εισιτήρια που υπάρχουν σε sites μεταπώλησης αλλά κι οι τεράστιοι κίνδυνοι να πάρετε... μαγικό χαρτάκι και να δείτε το Άγιαξ-Ολυμπιακός από κάποια πλατεία του Άμστερνταμ!",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gate7.jpg?itok=B-KOaGyf",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Windows 11: Η ενημέρωση του Ιανουαρίου «νεκρώνει» υπολογιστές με το σφάλμα \"Unmountable Boot Volume\"",
+          "link": "https://gr.pcmag.com/operating-systems/51124/windows-11-e-enemerose-tou-ianouariou-nekronei-upologistes-me-to-sphalma-unmountable-boot-volume",
+          "pubDate": "Mon, 26 Jan 2026 14:15:37 +0000",
+          "description": "Μετά τα προβλήματα σε Outlook και Remote Desktop, η Microsoft επιβεβαιώνει ότι το update KB5074109 εμποδίζει την εκκίνηση των Windows σε φυσικές συσκευές, προκαλώντας μαύρες οθόνες.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/w/windows-11/windows-11-january-patch-now-stops-some-pcs-from-booting-alt_ge78.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "Siri 2.0: Η Apple «σβήνει» τα λάθη του παρελθόντος με τη δύναμη του Gemini",
           "link": "https://gr.pcmag.com/ai-2/51123/siri-20-e-apple-sbenei-ta-lathe-tou-parelthontos-me-te-duname-tou-gemini",
           "pubDate": "Mon, 26 Jan 2026 13:49:28 +0000",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sun, 25 Jan 2026 16:36:53 +0000",
           "description": "Από τον Ιούλιο του 2026, οι χρήστες παλαιότερων Mac θα πρέπει να αναβαθμίσουν στο macOS 13 Ventura για να λαμβάνουν ενημερώσεις ασφαλείας.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/u/using-a-ma/using-a-mac-from-before-2018-google-will-soon-axe-chrome-sup_2jz6.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Σοκ στον κυβερνοχώρο: Βρέθηκαν 149 εκατομμύρια κλεμμένοι κωδικοί πρόσβασης σε απροστάτευτη βάση δεδομένων",
-          "link": "https://gr.pcmag.com/security/51115/sok-ston-kubernokhoro-brethekan-149-ekatommuria-klemmenoi-kodikoi-prosbases-se-aprostateute-base-ded",
-          "pubDate": "Sun, 25 Jan 2026 16:16:05 +0000",
-          "description": "Ο ερευνητής Jeremiah Fowler εντόπισε τεράστιο όγκο δεδομένων με διαπιστευτήρια για Gmail, Facebook και Netflix, τα οποία φέρεται να συλλέχθηκαν μέσω κακόβουλου λογισμικού.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/d/database-c/database-containing-149m-stolen-passwords-from-gmail-instagr_hvae.jpg",
           "source": "PC Magazine"
         }
       ]
