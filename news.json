@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T18:20:29.482Z",
+  "lastUpdated": "2026-01-26T18:25:24.227Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Αύξηση 3 ευρώ στην αμοιβή γιατρών συμβεβλημένων με τον ΕΟΠΥΥ προβλέπει τροπολογία που προωθεί το υπουργείο Υγείας",
+          "link": "https://www.protothema.gr/greece/article/1763776/auxisi-3-euro-stin-amoivi-giatron-sumvevlimenon-me-ton-eopuu-provlepei-tropologia-pou-proothei-to-upourgeio-ugeias/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 20:24:00 +0200",
+          "description": "Σύμφωνα με ενημέρωση του πρόεδρου του Ιατρικού Συλλόγου Αθηνών, Γιώργου Πατούλη, από τον υπουργό Υγείας, Άδωνι Γεωργιάδη, η αμοιβή αναμένεται να αυξηθεί από τα 10 στα 13 ευρώ",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-18/xrwma-giatros-syntagh.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Γιώργος Καπουτζίδης: Η μοναχικότητα και η μοναξιά που βίωσα στην εφηβεία μου με διαμόρφωσαν",
           "link": "https://www.newsit.gr/lifestyle/giorgos-kapoutzidis-i-monaxikotita-kai-i-monaksia-pou-viosa-stin-efiveia-mou-me-diamorfosan/4584163/",
@@ -239,14 +247,6 @@
           "description": "Η σοκαριστική αποκάλυψη ότι μέλη της Wagner διδάσκουν σε παιδιά κάτω των δέκα ετών τη χρήση αυτόματων όπλων είναι μία μόλις σκηνή από το ντοκιμαντέρ Mr. Nobody Against Putin (Ο κ. Κανένας εναντίον του Πούτιν) που διεκδικεί Όσκαρ",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/poutin-768x497.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Καρυοφυλλιά Καραμπέτη: Ήμουν κατά του γάμου από μικρό παιδί, δεν ήθελα να παντρευτώ",
-          "link": "https://www.newsit.gr/lifestyle/karyofyllia-karampeti-imoun-kata-tou-gamou-apo-mikro-paidi-den-ithela-na-pantreyto/4584075/",
-          "pubDate": "Mon, 26 Jan 2026 16:50:20 +0000",
-          "description": "Μία σπάνια τηλεοπτική συνέντευξη έδωσε η Καρυοφυλλιά Καραμπέτη και αναφέρθηκε στα πράγματα που έχουν αληθινή αξία στη ζωή. Όπως δήλωσε η σπουδαία καλλιτέχνιδα το απόγευμα ...  \nTo άρθρο Καρυοφυλλιά Καραμπέτη: Ήμουν κατά του γάμου από μικρό παιδί, δεν ήθελα να παντρευτώ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kariofilia-karampeti-ndp-1200x733.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -843,14 +843,6 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Καταγγελία για βιασμό της νοσοκόμας του Μίκαελ Σουμάχερ: Αυστραλός οδηγός αγώνων στο «κάδρο»",
-          "link": "https://www.gazzetta.gr/plus/2510387/kataggelia-gia-biasmo-tis-nosokomas-toy-mikael-soymaher-aystralos-odigos-agonon-sto",
-          "pubDate": "Mon, 26 Jan 2026 19:27:26 +0200",
-          "description": "Αυστραλός οδηγός στο προσκήνιο για βιασμό την έπαυλη του Μίκαελ Σουμάχερ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/soumaxer_-_ape.jpg?itok=O33NBQi3",
-          "source": "Gazzetta"
-        },
-        {
           "title": "Ο Στίβεν Κινγκ συγκρίνει την ICE του Τραμπ με τη ναζιστική Γκεστάπο",
           "link": "https://www.gazzetta.gr/plus/2510325/o-stiben-kingk-sygkrinei-tin-ice-toy-tramp-me-ti-nazistiki-gkestapo",
           "pubDate": "Mon, 26 Jan 2026 19:25:00 +0200",
@@ -984,6 +976,14 @@
           "pubDate": "Mon, 26 Jan 2026 18:04:53 +0200",
           "description": "Ο προπονητής της Ρεάλ Σέρτζιο Σκαριόλο ανέπτυξε τη θεωρία του για την επιθετική συμπεριφορά που είχε προς τον Μάριο Χεζόνια στο ξεκίνημα της σεζόν.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/scariolo_eurokinissi.jpg?itok=8BtEdJjl",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τι κάνει ένα smoothie υγιεινό και τι μπορεί να το κάνει λιγότερο υγιεινό",
+          "link": "https://www.gazzetta.gr/plus/2510328/ti-kanei-ena-smoothie-ygieino-kai-ti-mporei-na-kanei-ligotero-ygieino",
+          "pubDate": "Mon, 26 Jan 2026 18:00:00 +0200",
+          "description": "Ποια συστατικά και ποιοι διατροφικοί συνδυασμοί επηρεάζουν τη γλυκαιμική απόκριση, τον κορεσμό και τη συνολική θρεπτική αξία ενός smoothie.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fanny-gustafsson-71z7ecls4uo-unsplash.jpg?itok=TaDxc_9y",
           "source": "Gazzetta"
         }
       ]
