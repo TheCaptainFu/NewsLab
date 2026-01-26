@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T19:55:28.048Z",
+  "lastUpdated": "2026-01-26T19:58:26.152Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -189,7 +189,7 @@
           "link": "https://www.in.gr/2026/01/26/world/den-iksera-kan-pos-na-pyrovolo-pos-nearoi-afrikanoi-eksapatithikan-gia-na-polemisoun-gia-ti-rosia/",
           "pubDate": "Mon, 26 Jan 2026 21:36:00 +0300",
           "description": "Προσελκύονται από ψευδείς αγγελίες εργασίας, κατατάσσονται εν αγνοία τους κατά την άφιξή τους στη Ρωσία και τίθενται σε θανάσιμο κίνδυνο",
-          "thumbnail": null,
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Screenshot-61-768x494.jpg",
           "source": "In.gr"
         },
         {
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Euroleague: Η επιλογή νέου CEO και η επίδραση της αποχώρησης Mοτιεγιούνας σε ΝΒΑ, FIBA και Ρεάλ!",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510425/euroleague-i-epilogi-neoy-ceo-kai-i-epidrasi-tis-apohorisis",
+          "pubDate": "Mon, 26 Jan 2026 21:56:16 +0200",
+          "description": "Το Gazzetta σας βάζει στο κλίμα της κρίσιμης διήμερης συνεδρίασης του Δ.Σ. της ECA που βρίσκεται προ των στην Βαρκελώνη. Η επιλογή του αντικαταστάτη του Λιθουανού CEO της EL και οι σημαντικές εξελίξεις που θα προκύψουν για το μέλλον του ευρωπαϊκού μπάσκετ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/whatsapp_image_2026-01-26_at_21.36.34.jpeg?itok=C-YXABN4",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μπαρτσελόνα: Ανανεώνει μέχρι το 2031 ο Φερμίν Λόπεθ ",
           "link": "https://www.gazzetta.gr/football/la-liga/2510424/mpartselona-ananeonei-mehri-2031-o-fermin-lopeth",
           "pubDate": "Mon, 26 Jan 2026 21:46:12 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 19:47:05 +0200",
           "description": "Ο Ακίλε Πολονάρα που δίνει μια μεγάλη μάχη δεν το βάζει κάτω και με δηλώσεις του στην Ιταλική τηλεόραση υποστήριξε πως θέλει να επιστρέψει στα γήπεδα στις 20 Μαρτίου.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/polonara21.jpg?itok=PRUZMVFV",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Βόλος: Ο Ουρτάδο πλησιάζει στην ομάδα της Μαγνησίας",
-          "link": "https://www.gazzetta.gr/football/superleague/2510388/bolos-o-oyrtazo-plisiazei-stin-omada-tis-magnisias",
-          "pubDate": "Mon, 26 Jan 2026 19:45:30 +0200",
-          "description": "Ο Βόλος είναι μία ανάσα από την απόκτηση του επιθετικού Ζαν Κάρλος Ουρτάδο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oyrtado_1.jpg?itok=ottJ6S04",
           "source": "Gazzetta"
         }
       ]
