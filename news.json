@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T20:45:27.276Z",
+  "lastUpdated": "2026-01-26T20:50:31.223Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Αστυνομικός πυροβόλησε και σκότωσε έναν 28χρονο στο Μιλάνο",
+          "link": "https://www.newsit.gr/kosmos/astynomikos-pyrovolise-kai-skotose-enan-28xrono-sto-milano/4584237/",
+          "pubDate": "Mon, 26 Jan 2026 20:48:43 +0000",
+          "description": "Ένας 28χρονος σκοτώθηκε το βράδυ της Δευτέρας (26/01/2026) στο Μιλάνο από καθώς σημάδεψε με περίστροφο αστυνομικούς και ένας από αυτούς τον πυροβόλησε.  Σύμφωνα με τα ...  \nTo άρθρο Αστυνομικός πυροβόλησε και σκότωσε έναν 28χρονο στο Μιλάνο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/police-italy-16012026.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Nissan: Στη Διεθνή Ημέρα Καθαρής Ενέργειας παρουσιάσει ένα Ariya με φωτοβολταϊκά",
+          "link": "https://www.newsit.gr/auto/nissan-sti-diethni-imera-katharis-energeias-parousiasei-ena-ariya-me-fotovoltaika/4583914/",
+          "pubDate": "Mon, 26 Jan 2026 20:45:00 +0000",
+          "description": "Σήμερα, 26 Ιανουαρίου, η μέρα είναι διεθνώς αφιερωμένη στην Καθαρή Ενέργεια και η Nissan τη γιορτάζει με έναν ξεχωριστό τρόπο. Συγκεκριμένα, η ιαπωνική μάρκα παρουσιάζει ...  \nTo άρθρο Nissan: Στη Διεθνή Ημέρα Καθαρής Ενέργειας παρουσιάσει ένα Ariya με φωτοβολταϊκά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nissan-ariya-solar-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ο γιος του Μαρσέλο, Ένζο Άλβες, υπέγραψε επαγγελματικό συμβόλαιο με τη Ρεάλ Μαδρίτης",
           "link": "https://www.newsit.gr/athlitika/o-gios-tou-marselo-enzo-alves-ypegrapse-epaggelmatiko-symvolaio-me-ti-real-madritis/4584233/",
@@ -153,6 +169,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Έρχονται δύο νέα κύματα κακοκαιρίας με ισχυρές βροχές και καταιγίδες – Πότε θα «χτυπήσουν»",
+          "link": "https://www.in.gr/2026/01/26/greece/erxontai-dyo-nea-kymata-kakokairias-isxyres-vroxes-kai-kataigides-pote-tha-xtypisoun/",
+          "pubDate": "Mon, 26 Jan 2026 22:45:52 +0300",
+          "description": "Πρόσκαιρη βελτίωση του καιρού αναμένεται την Τρίτη στο μεγαλύτερο μέρος της χώρας - Παραμένουν υψηλές για την εποχή θερμοκρασίες με τα χιόνια να περιορίζονται στα πολύ ορεινά",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kakokairia-768x431-768x431.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "ΗΠΑ: Στη Μέση Ανατολή κατέπλευσε το αεροπλανοφόρο Λίνκολν στέλνοντας «μήνυμα» στο Ιράν",
           "link": "https://www.newsit.gr/kosmos/ipa-sti-mesi-anatoli-katepleyse-to-aeroplanoforo-linkoln-stelnontas-minyma-sto-iran/4584196/",
           "pubDate": "Mon, 26 Jan 2026 19:42:17 +0000",
@@ -222,30 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 22:16:58 +0300",
           "description": "Η εκπρόσωπος Τύπου του ρωσικού υπουργείου Εξωτερικών, Μαρία Ζαχάροβα, σχολίασε την απόφαση της ΕΕ να απαγορεύσει πλήρως τις προμήθειες ρωσικού αερίου από το 2027.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-20T102144Z_279577315_RC2W4JAV029O_RTRMADP_5_RUSSIA-LAVROV-768x475.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Πάνω από 20 οι νεκροί λόγω του πολικού ψύχους στις ΗΠΑ: Θερμοκρασίες ρεκόρ στους -45 βαθμούς, σχεδόν 1 εκατομμύριο νοικοκυριά χωρίς ρεύμα",
-          "link": "https://www.newsit.gr/kosmos/pano-apo-20-oi-nekroi-logo-tou-polikou-psyxous-stis-ipa-thermokrasies-rekor-stous-45-vathmous-sxedon-1-ekatommyrio-noikokyria-xoris-reyma/4584181/",
-          "pubDate": "Mon, 26 Jan 2026 19:15:32 +0000",
-          "description": "Εκατομμύρια Αμερικανοί βρίσκονται και σήμερα (26.01.2026) αντιμέτωποι με ένα κύμα πολικού ψύχους, που επιδεινώνει τις επιπτώσεις της χιονοθύελλας, με τα ακραία καιρικά φαινόμενα να έχουν ...  \nTo άρθρο Πάνω από 20 οι νεκροί λόγω του πολικού ψύχους στις ΗΠΑ: Θερμοκρασίες ρεκόρ στους -45 βαθμούς, σχεδόν 1 εκατομμύριο νοικοκυριά χωρίς ρεύμα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/storm-usa.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Όλγα Κεφαλογιάννη: Να αποσυρθεί η επίμαχη ρύθμιση ζητούν οι δικηγορικοί σύλλογοι",
-          "link": "https://www.newsit.gr/politikh/olga-kefalogianni-na-aposyrthei-i-epimaxi-rythmisi-zitoun-oi-dikigorikoi-syllogoi/4584184/",
-          "pubDate": "Mon, 26 Jan 2026 19:14:57 +0000",
-          "description": "Τη διαφωνία της με τη ρύθμιση για το οικογενειακό δίκαιο, η οποία θεωρείται «φωτογραφική» για την Όλγα Κεφαλογιάννη, εκφράζει η Ολομέλεια των Δικηγορικών Συλλόγων της ...  \nTo άρθρο Όλγα Κεφαλογιάννη: Να αποσυρθεί η επίμαχη ρύθμιση ζητούν οι δικηγορικοί σύλλογοι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olga-kefalogiannh-eurok-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΗΠΑ: Στους 21 οι νεκροί από το πολικό ψύχος – Σε κατάσταση συναγερμού 20 πολιτείες",
-          "link": "https://www.in.gr/2026/01/26/world/ipa-stous-21-oi-nekroi-apo-poliko-psyxos-se-katastasi-synagermou-20-politeies/",
-          "pubDate": "Mon, 26 Jan 2026 22:13:49 +0300",
-          "description": "Στο σκοτάδι έχουν βυθιστεί περισσότερα από 800.000 νοικοκυριά. Στην περιοχή των Μεγάλων Λιμνών, στις βόρειες ΗΠΑ, οι κάτοικοι όταν ξύπνησαν επικρατούσαν ακραίες θερμοκρασίες",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T194306Z_688293737_RC259JAPO46P_RTRMADP_5_USA-WEATHER-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Μετά την οδυνηρή κρίση στη Γροιλανδία, η Ευρώπη στρέφει την προσοχή της στην Ουκρανία",
+          "link": "http://gr.euronews.com/my-europe/2026/01/26/meta-tin-odiniri-krisi-sti-groilandia-i-eyropi-strefei-tin-prosoxi-tis-stin-oykrania",
+          "pubDate": "Mon, 26 Jan 2026 21:41:53 +0100",
+          "description": "Η Ουκρανία βρίσκεται και πάλι στην κορυφή της ευρωπαϊκής ατζέντας, αφού οι τελευταίες δασμολογικές απειλές του Ντόναλντ Τραμπ ανέτρεψαν για λίγο τις συλλογικές προσπάθειες για ειρήνευση",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Η WhatsApp χαρακτηρίζεται επίσημα ως “Πολύ Μεγάλη Διαδικτυακή Πλατφόρμα” στην ΕΕ ",
           "link": "http://gr.euronews.com/next/2026/01/26/h-whatsapp-xarakthrizetai-epishma-ws-poly-megalh-diadiktyakh-platforma-sthn-ee",
           "pubDate": "Mon, 26 Jan 2026 21:34:24 +0100",
@@ -731,14 +739,6 @@
           "description": "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d843/live/4b6f9a20-fa9d-11f0-a9b2-e154b2ff290d.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
-          "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 12:58:29 GMT",
-          "description": "The interior minister condemned the attack, which police say they are investigating.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6584/live/8e1c0d70-fa31-11f0-b5f7-49f0357294ff.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Ο Μπενίτεθ έχει σανίδα σωτηρίας το Κύπελλο",
+          "link": "https://www.gazzetta.gr/football/superleague/2510379/panathinaikos-o-mpeniteth-ehei-sanida-sotirias-kypello",
+          "pubDate": "Mon, 26 Jan 2026 22:47:10 +0200",
+          "description": "Ο Γιώργος Σακελλαρίου εξηγεί στο blog του γιατί το Κύπελλο μοιάζει να είναι το τελευταίο στήριγμα για τον Παναθηναϊκό του Μπενίτεθ και πόσο σημαντική είναι η τετράδα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mpeniteth_3.jpg?itok=qXXIxWY0",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ο γιος του Μαρσέλο, Ένζο Άλβες, υπέγραψε επαγγελματικό συμβόλαιο με τη Ρεάλ Μαδρίτης",
           "link": "https://www.newsit.gr/athlitika/o-gios-tou-marselo-enzo-alves-ypegrapse-epaggelmatiko-symvolaio-me-ti-real-madritis/4584233/",
@@ -977,14 +985,6 @@
           "description": "Ο Φάρλεϊ Ρόσα με story του στο Instagram «ανακοίνωσε» την επιστροφή του στον Παναιτωλικό, όντας έτοιμος για την τρίτη του θητεία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/rosa.jpg?itok=D9SXb_wt",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Το NBA LIVE στο Gazzetta",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510350/nba-live-sto-gazzetta",
-          "pubDate": "Mon, 26 Jan 2026 20:15:00 +0200",
-          "description": "Παρακολουθήστε LIVE την εξέλιξη των επτά αναμετρήσεων του NBA, μέσα από το Gazzetta.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/luka_doncic_lakersx.jpg?itok=q6_m254k",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Πότε κρίνεται του Ναν – Τα δεδομένα για Οσμάν και Μήτογλου",
+          "link": "https://trifilara.gr/panathinaikos-pote-krinetai-tou-nan-ta-dedomena-gia-osman-kai-mitoglou/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-pote-krinetai-tou-nan-ta-dedomena-gia-osman-kai-mitoglou",
+          "pubDate": "Mon, 26 Jan 2026 20:50:25 +0000",
+          "description": "Κρίσιμες οι επόμενες ημέρες για Ναν, αισιοδοξία για Όσμαν και Μήτογλου.\nThe post Παναθηναϊκός: Πότε κρίνεται του Ναν – Τα δεδομένα για Οσμάν και Μήτογλου appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Παναθηναϊκός: Νεότερα για Ναν, Μήτογλου και Όσμαν ενόψει Βιλερμπάν",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-neotera-gia-nan-mitoglo/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-neotera-gia-nan-mitoglo",
+          "pubDate": "Mon, 26 Jan 2026 20:45:58 +0000",
+          "description": "Κρίσιμες οι επόμενες ημέρες για Ναν, συγκρατημένη αισιοδοξία για Όσμαν και Μήτογλου ενόψει Βιλερμπάν. Ακολούθως, ο Παναθηναϊκός στρέφει πλήρως την προσοχή του στο εκτός έδρας παιχνίδι της EuroLeague με αντίπαλο τη Βιλερμπάν στη Λιόν, σε μια αναμέτρηση που αποκτά ιδιαίτερη σημασία τόσο βαθμολογικά όσο και σε επίπεδο ψυχολογίας. Το «Τριφύλλι» καλείται να αντιδράσει άμεσα και […]\nThe post Παναθηναϊκός: Νεότερα για Ναν, Μήτογλου και Όσμαν ενόψει Βιλερμπάν appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/10/nunn-5-2.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Απίστευτο: Η κατηγορία που ο Παναθηναϊκός πάει να πιάσει… πάτο!",
           "link": "https://panathinaikos24.gr/2026/01/26/617876/apisteyto-i-katigoria-pou-o-panathinaikos-paei-na-piasei-pato/",
@@ -1215,22 +1231,6 @@
           "description": "Ένα ακόμη πρόβλημα τραυματισμού ήρθε να προστεθεί για τον Παναθηναϊκό.\nThe post Ανησυχία με Τσιριβέγια στον Παναθηναϊκό! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Παίρνει… σκούπα ο Μπενίτεθ το καλοκαίρι στον Παναθηναϊκό!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/pairnei-skoupa-o-beniteth-to-kalokair/?utm_source=rss&utm_medium=rss&utm_campaign=pairnei-skoupa-o-beniteth-to-kalokair",
-          "pubDate": "Mon, 26 Jan 2026 10:39:45 +0000",
-          "description": "Όπως ξεκαθάρισε και στη συνέντευξη Τύπου μετά το παιχνίδι με τον Ατρόμητο, ο Ράφα Μπενίτεθ έχει λάβει τις αποφάσεις του για την κατεύθυνση που θα ακολουθήσει ο Παναθηναϊκός. Ο Ισπανός τεχνικός δεν μίλησε απλώς για διορθωτικές κινήσεις, αλλά άφησε να φανεί ξεκάθαρα πως στο μυαλό του υπάρχει μια ουσιαστική και σε βάθος αναδόμηση του ρόστερ, […]\nThe post Παίρνει… σκούπα ο Μπενίτεθ το καλοκαίρι στον Παναθηναϊκό! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-5-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Παναθηναϊκός: Στον «αέρα» ο Τσιριβέγια ενόψει Ρόμα! – Η πρώτη εκτίμηση",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ston-aera-o-tsirivegi/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ston-aera-o-tsirivegi",
-          "pubDate": "Mon, 26 Jan 2026 10:19:44 +0000",
-          "description": "Πρόβλημα προέκυψε για τον Παναθηναϊκό στο παιχνίδι με τον Ατρόμητο, καθώς ο Πέδρο Τσιριβέγια τραυματίστηκε μετά την είσοδό του ως αλλαγή, προκαλώντας άμεση ανησυχία στο «Τριφύλλι». Πρόβλημα προέκυψε για τον Παναθηναϊκό στο παιχνίδι με τον Ατρόμητο, καθώς ο Πέδρο Τσιριβέγια τραυματίστηκε μετά την είσοδό του ως αλλαγή, προκαλώντας άμεση ανησυχία στο «Τριφύλλι». Ο Ισπανός μέσος […]\nThe post Παναθηναϊκός: Στον «αέρα» ο Τσιριβέγια ενόψει Ρόμα! – Η πρώτη εκτίμηση appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/chirivella-2.jpg",
-          "source": "Όλα Πράσινα"
         }
       ]
     },
