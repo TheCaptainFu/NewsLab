@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T10:50:25.865Z",
+  "lastUpdated": "2026-01-26T10:55:28.970Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Δήμαρχος Μήλου: Έχουμε καταθέσει αίτηση αναστολής, θεωρώ ότι μέσα στη εβδομάδα θα έχουμε αποτέλεσμα και παρέμβαση του ΣτΕ",
+          "link": "https://www.protothema.gr/greece/article/1763479/dimarhos-milou-ehoume-katathesei-aitisi-anastolis-theoro-oti-mesa-sti-evdomada-tha-ehoume-paremvasi-tou-ste/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:52:00 +0200",
+          "description": "Δείτε το ρεπορτάζ του Mega για το οικολογικό έγκλημα στη Μήλο",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/mylos2-xrm.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Βιολάντα: Το εργοστάσιο πριν και μετά την ολοκληρωτική καταστροφή",
+          "link": "https://www.newsit.gr/ellada/violanta-to-ergostasio-prin-kai-meta-tin-oloklirotiki-katastrofi/4583679/",
+          "pubDate": "Mon, 26 Jan 2026 10:51:03 +0000",
+          "description": "Τεράστια είναι η καταστροφή στο εργοστάσιο της εταιρείας μπισκότων «Βιολάντα» στα Τρίκαλα μετά την ισχυρή έκρηξη από την οποία προκλήθηκε μεγάλη φωτιά τα ξημερώματα της ...  \nTo άρθρο Βιολάντα: Το εργοστάσιο πριν και μετά την ολοκληρωτική καταστροφή δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/trikala-ergostasio.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Δημοτικός σύμβουλος Μήλου για το οικολογικό έγκλημα στο νησί: Αυτό που χτίζεται είναι κολοσσός και είναι μέσα σε καταφύγιο άγριας ζωής",
           "link": "https://www.protothema.gr/greece/article/1763481/dimotikos-sumvoulos-milou-gia-to-oikologiko-eglima-sto-nisi-auto-pou-htizetai-einai-kolossos-/?utm_source=rss",
@@ -185,12 +201,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Τραγωδία στο εργοστάσιο Βιολάντα: Τα πιθανά αίτια της καταστροφής – Για ποιο λόγο ήταν λιγότεροι εργαζόμενοι στη βάρδια",
+          "link": "https://www.in.gr/2026/01/26/greece/tragodia-sto-ergostasio-violanta-ta-pithana-aitia-tis-katastrofis-gia-poio-logo-itan-ligoteroi-ergazomenoi-sti-vardia/",
+          "pubDate": "Mon, 26 Jan 2026 12:53:58 +0300",
+          "description": "Εντοπίστηκαν τέσσερις σοροί γυναικών μετά την έκρηξη στο εργοστάσιο της Βιολάντα στα Τρίκαλα, αγνοείται άλλη μία εργαζόμενη - Παγίδα θανάτου το υπόγειο της επιχείρησης",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FOTIA_ERGOSTASIO_TRIKALA_KID075-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Το ΓΕΣ εκδίδει για πρώτη φορά εγχειρίδιο για τη χρήση και την αντιμετώπιση drones\n",
           "link": "https://www.protothema.gr/greece/article/1763452/to-ges-ekdidei-gia-proti-fora-egheiridio-gia-ti-hrisi-kai-tin-adimetopisi-drones/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 11:52:00 +0200",
           "description": "Νέο εγχειρίδιο του Στρατού για τα UAV - Πώς χρησιμοποιούνται και πώς αντιμετωπίζονται τα drones στο πεδίο μάχης",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/drones12__2_.jpg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Η Κάιλι, ο έρωτας και το Όσκαρ – Μπορεί ο Τιμοτέ Σαλαμέ να σπάσει την «κατάρα» των Καρντάσιαν;",
+          "link": "https://www.in.gr/2026/01/26/go-fun/perierga/kaili-o-erotas-kai-oskar-mporei-o-timote-salame-na-spasei-tin-katara-ton-karntasian/",
+          "pubDate": "Mon, 26 Jan 2026 12:50:59 +0300",
+          "description": "Αν το βράδυ της 15ης Μαρτίου ο Τιμοτέ Σαλαμέ φύγει από το Dolby Theatre του Λος Άντζελες αγκαλιά με το βραβείο Όσκαρ, δεν θα είναι μόνο μια μεγάλη νίκη για εκείνον αλλά και για την οικογένεια Καρντάσιαν.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/timothee-chalamet-kylie-jenner2.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Χρυσός και ασήμι προειδοποιούν για κρίση… πανικού;",
@@ -215,38 +247,6 @@
           "description": "Συμπληρώθηκαν 6 χρόνια από τον θάνατο του Κόμπι Μπράιαντ και της κόρης του Τζιάνα, μαζί με επτά ακόμη ανθρώπους σε συντριβή ελικοπτέρου.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kobe-2-768x515.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "ΟΠΕΚΕΠΕ: Δέσμευση περιουσίας για δύο κατηγορουμένους στην Κρήτη – Χιλιάδες ευρώ σε ακίνητα και στοιχήματα",
-          "link": "https://www.in.gr/2026/01/26/greece/opekepe-desmeysi-periousias-gia-dyo-katigoroumenous-stin-kriti-xiliades-eyro-se-akinita-kai-stoiximata/",
-          "pubDate": "Mon, 26 Jan 2026 12:44:00 +0300",
-          "description": "Το \"πόρισμα Βουρλιώτη\" με τα ευρήματα διαβιβάστηκε στην Ευρωπαϊκή Εισαγγελία προκειμένου να συναξιολογηθεί με τα υπόλοιπα στοιχεί",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/m_m061321753893515-1200x800-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ταϊβάν: Αναρριχητής «κόβει την ανάσα» – Σκαρφάλωσε ουρανοξύστη χωρίς σχοινί ασφαλείας σε 90 λεπτά",
-          "link": "https://www.newsit.gr/kosmos/taivan-anarrixitis-kovei-tin-anasa-skarfalose-ouranoksysti-xoris-sxoini-asfaleias-se-90-lepta/4583597/",
-          "pubDate": "Mon, 26 Jan 2026 09:37:50 +0000",
-          "description": "Ο Αμερικανός αναρριχητής, Άλεξ Χόννολντ, έκανε το απίστευτο και την Κυριακή (25/1/2026) σκαρφάλωσε σε έναν από τους ψηλότερους ουρανοξύστες στον κόσμο, στην Ταϊβάν, χωρίς σχοινί ...  \nTo άρθρο Ταϊβάν: Αναρριχητής «κόβει την ανάσα» – Σκαρφάλωσε ουρανοξύστη χωρίς σχοινί ασφαλείας σε 90 λεπτά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/taiwan3-1200x781.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κακοκαιρία: Αυτοψίες σε Γλυφάδα και πληγείσες περιοχές της Αττικής – Πότε θα καταβληθούν οι αποζημιώσεις",
-          "link": "https://www.in.gr/2026/01/26/greece/kakokairia-aytopsies-se-glyfada-kai-pligeises-perioxes-tis-attikis-pote-tha-katavlithoun-oi-apozimioseis/",
-          "pubDate": "Mon, 26 Jan 2026 12:36:59 +0300",
-          "description": "Η καταγραφή ζημιών σε Γλυφάδα και δήμους που έχουν πληγεί από την κακοκαιρία συνεχίζεται - Ποια θα είναι τα ποσά για νοικοκυριά - Οριζόντια επιδότηση σε ποσοστό 70% για τις επιχειρήσεις",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/dscf50681769076656-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τραμπ: «Κάποια στιγμή θα φύγουμε από την Μινεάπολη» – Τι είπε για τον 37χρονο διαδηλωτή που σκότωσε η ICE",
-          "link": "https://www.in.gr/2026/01/26/world/tramp-kapoia-stigmi-tha-fygoume-apo-tin-mineapoli-ti-eipe-gia-ton-37xrono-diadiloti-pou-skotose-ice/",
-          "pubDate": "Mon, 26 Jan 2026 12:29:29 +0300",
-          "description": "Σε σχόλιά του στην Wall Street Journal, ο Τραμπ ανέφερε επίσης ότι τελικά θα αποσύρει τους πράκτορές του από την πόλη. Δεν έδωσε όμως χρονοδιάγραμμα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet1-1200x702-1-768x449.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "ΥΠΑΜ: Εκδόθηκε Εγχειρίδιο Εκστρατείας του Στρατού Ξηράς για τη χρήση και την αντιμετώπιση drones (UAV)",
+          "link": "https://www.tanea.gr/2026/01/26/politics/ypam-ekdothike-egxeiridio-ekstrateias-tou-stratou-ksiras-gia-ti-xrisi-kai-tin-antimetopisi-drones-uav/",
+          "pubDate": "Mon, 26 Jan 2026 10:52:51 +0000",
+          "description": "Το Γενικό Επιτελείο Στρατού προχώρησε για πρώτη φορά στη σύνταξη και έκδοση Εγχειριδίου Εκστρατείας για την τακτική αξιοποίηση πολυκοπτέρων (UAV) και τους τρόπους αντιμετώπισής τους στο σύγχρονο πεδίο επιχειρήσεων. Επισημαίνεται ότι στο πλαίσιο της αναβάθμισης της εκπαίδευσης των οπλιτών θητείας, με τον Νόμο 5265/2026 του Υπουργείου Εθνικής Άμυνας, ο οποίος ψηφίσθηκε πρόσφατα από τη Βουλή […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/drone.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Αλ. Τσίπρας για «Βιολάντα»: Συλλυπητήρια στις οικογένειες των θυμάτων – Ως πότε θα θρηνούμε ανθρώπους που χάνονται κυνηγώντας την επιβίωση;",
           "link": "https://www.naftemporiki.gr/politics/2063882/al-tsipras-gia-violanta-syllypitiria-stis-oikogeneies-ton-thymaton-os-pote-tha-thrinoyme-anthropoys-poy-chanontai-kynigontas-tin-epiviosi/?utm_source=rss&utm_medium=rss&utm_campaign=al-tsipras-gia-violanta-syllypitiria-stis-oikogeneies-ton-thymaton-os-pote-tha-thrinoyme-anthropoys-poy-chanontai-kynigontas-tin-epiviosi",
@@ -485,14 +493,6 @@
           "description": "Συμβιβασμός μεταξύ των δύο βασικών θέσεων σε ότι αφορά το θέμα των συνεργασιών προέκυψε στο Συνέδριο της Νέας Αριστεράς μετά από διαβουλεύσεις που διήρκεσαν τρεις ημέρες.\nΣυμβιβασμός στο Συνέδριο της Νέας Αριστεράς - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Συμβιβασμός στη ΝΕΑΡ: Πώς αποφεύχθηκε η ρήξη ανάμεσα σε Χαρίτση – Σακελλαρίδη",
-          "link": "https://www.tanea.gr/2026/01/25/politics/symvivasmos-sti-near-pos-apofeyxthike-i-riksi-anamesa-se-xaritsi-sakellaridi/",
-          "pubDate": "Sun, 25 Jan 2026 15:16:28 +0000",
-          "description": "Με μία συμβιβαστική πολιτική πρόταση το Συνέδριο της Νέας Αριστεράς απέφυγε τον κίνδυνο της ρήξης που ήταν ορατός από την έναρξη των εργασιών. Το σχέδιο πολιτικής απόφασης στο οποίο κατέληξε η αντίστοιχη Επιτροπή και το οποίο διάβασε στο σώμα του Συνεδρίου ο γραμματέας του κόμματος, Γαβριήλ Σακελλαρίδης αναφέρει μεταξύ άλλων: «Η ΝΔ παραμένει κυρίαρχη αλλά […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/aristera-1024x683.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Euroleague: Συνάντηση του Μοτιεγιούνας με τον Ευρωπαίο Επίτροπο στις Βρυξέλλες",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510287/euroleague-synantisi-toy-motiegioynas-me-ton-eyropaio-epitropo-stis",
+          "pubDate": "Mon, 26 Jan 2026 12:51:38 +0200",
+          "description": "O Διευθύνων Σύμβουλος της Euroleague είχε συνάντηση με τον Ευρωπαίο Επίτροπο και μεταξύ άλλων συζητήθηκε το στρατηγικό όραμα του οργανισμού για τα επόμενα χρόνια.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/motiejunas.jpg?itok=Ki8rgvJL",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Πρόβλημα στη Ρόμα ενόψει Παναθηναϊκού: Εκτός ο Κονέ- Αμφίβολος ο Ντιμπάλα",
           "link": "https://www.gazzetta.gr/football/serie/2510285/problima-sti-roma-enopsei-panathinaikoy-ektos-o-kone-amfibolos-o-ntimpala",
           "pubDate": "Mon, 26 Jan 2026 12:48:30 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 10:34:00 +0200",
           "description": "Η συνέντευξη της Αφροδίτης Λατινοπούλου στον Τάσο Ξιαρχό",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/zina-koutselini_20_281_29.jpg.png?itok=COIJPg5K",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Θλιβερή νύχτα στη Μινεσότα»: Αντιδράσεις και ανακοίνωση Ένωσης Παικτών για τη δολοφονία άντρα από πράκτορες της ICE",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510254/thliberi-nyhta-sti-minesota-antidraseis-paikton-kai-ligkas-gia-ti-dolofonia",
-          "pubDate": "Mon, 26 Jan 2026 10:28:57 +0200",
-          "description": "To παιχνίδι στη Μινεσότα μεταξύ Τίμπεργουλβς και Γουόριορς έγινε σε πολύ περίεργη ατμόσφαιρα λόγω του θανάτου του Άλεξ Πρέτι από πράκτορες της ICE.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-11/edwards_0.jpg?itok=xQ256Nly",
           "source": "Gazzetta"
         }
       ]
