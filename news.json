@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T04:45:31.354Z",
+  "lastUpdated": "2026-01-26T04:50:28.634Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,30 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Καύσιμα και φοροδιαφυγή: Δημοσιονομικό «στοίχημα» το 2026 για την ΑΑΔΕ και τους ψηφιακούς ελέγχους",
+          "link": "https://www.newsit.gr/oikonomia/finance/kaysima-kai-forodiafygi-dimosionomiko-stoixima-to-2026-gia-tin-aade-kai-tous-psifiakous-elegxous/4583176/",
+          "pubDate": "Mon, 26 Jan 2026 04:47:00 +0000",
+          "description": "«Μέτωπο» με την φοροδιαφυγή και το λαθρεμπόριο στα καύσιμα έχει ανοίξει η κυβέρνηση με απανωτά χτυπήματα στα κυκλώματα, γεγονός που δεν άπτεται μόνο του αστυνομικού ρεπορτάζ, καθώς αποτελεί φαινόμενο ...  \nTo άρθρο Καύσιμα και φοροδιαφυγή: Δημοσιονομικό «στοίχημα» το 2026 για την ΑΑΔΕ και τους ψηφιακούς ελέγχους δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/venzini-eurokinissi-1-1200x675-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Μεγάλη φωτιά στο εργοστάσιο της Βιόλαντα, πέντε αγνοούμενοι εργαζόμενοι\n",
+          "link": "https://www.protothema.gr/greece/article/1763291/megali-fotia-sto-ergostasio-tis-violada-pede-agnooumenoi/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 06:46:00 +0200",
+          "description": "Η φωτιά καίει μεγάλη πτέρυγα του εργοστασίου - Κατά πληροφορίες στην πτέρυγα βρίσκονταν 12 άτομα, τα πέντε δεν έχουν εντοπιστεί",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/fwtia-trikala-mak.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Καιρός: Επιστρέφουν οι βροχές και οι καταιγίδες στην Αττική – Σε κόκκινο συναγερμό 6 περιφέρειες",
+          "link": "https://www.newsit.gr/ellada/kairos-epistrefoun-oi-vroxes-kai-oi-kataigides-stin-attiki-se-kokkino-synagermo-6-perifereies/4583388/",
+          "pubDate": "Mon, 26 Jan 2026 04:45:00 +0000",
+          "description": "Ο καιρός παρουσιάζει νέα επιδείνωση από σήμερα, Δευτέρα 26.01.2026, με βροχές, καταιγίδες και ισχυρούς νοτιάδες να επηρεάζουν μεγάλο μέρος της χώρας. Σύμφωνα με τα προγνωστικά ...  \nTo άρθρο Καιρός: Επιστρέφουν οι βροχές και οι καταιγίδες στην Αττική – Σε κόκκινο συναγερμό 6 περιφέρειες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vroxi-2-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ισχυρές βροχές σήμερα και κίνδυνος για πλημμύρες: Ποιες περιοχές βρίσκονται σε «κόκκινο συναγερμό», οι δύσκολες ώρες για την Αττική ",
           "link": "https://www.protothema.gr/greece/article/1763268/ishures-vrohes-simera-me-auximeno-kinduno-plimmurikon-fainomenon-poies-periohes-vriskodai-se-kokkino-sunagermo/?utm_source=rss",
@@ -109,7 +133,7 @@
           "link": "https://www.in.gr/2026/01/26/economy/prositi-stegasi-ti-kanoun-alles-xores-kai-ti-den-kanoume-emeis/",
           "pubDate": "Mon, 26 Jan 2026 06:00:47 +0300",
           "description": "Η νέα έκθεση «Η στέγαση στην Ελλάδα» των Διανέοσις-ΙΟΒΕ, αφιερώνει εκτενές κεφάλαιο στις διεθνείς πρακτικές για την προσιτή κατοικία. Οι συνειρμοί για το τι (δεν) κάνει η Ελλάδα, είναι αναπόφευκτοι.",
-          "thumbnail": null,
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5q2a92861731512525-1-768x512.jpg",
           "source": "In.gr"
         },
         {
@@ -223,30 +247,6 @@
           "description": "Στη φυλακή και το «δεξί του χέρι», νωρίτερα προφυλακίστηκαν ακόμα τέσσερα άτομα – Ζημιά 25 εκατ. ευρώ για τους καταναλωτές από το παράνομο λογισμικό",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-26/peiragmenes_antlies.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ιράν: Οι συλληφθέντες στις διαδηλώσεις θα δικαστούν το «συντομότερο δυνατόν»",
-          "link": "https://www.in.gr/2026/01/26/world/iran-oi-syllifthentes-stis-diadiloseis-tha-dikastoun-syntomotero-dynaton/",
-          "pubDate": "Mon, 26 Jan 2026 02:00:23 +0300",
-          "description": "Οι «εγκληματίες» θα τιμωρηθούν χωρίς την παραμικρή επιείκεια, αναφέρει ο επικεφαλής των δικαστικών αρχών του Ιράν, υποσχόμενος δίκες το «συντομότερο δυνατόν» για τους συλληφθέντες στις διαδηλώσεις.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/mohseni-ejei-768x451.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Η χρονιά των Hectocorns της τεχνητής νοημοσύνης: 100 δισ. μπαίνουν στο ταμπλό",
-          "link": "https://www.in.gr/2026/01/26/economy/diethnis-oikonomia/xronia-ton-hectocorns-tis-texnitis-noimosynis-100-dis-mpainoun-sto-tamplo/",
-          "pubDate": "Mon, 26 Jan 2026 01:31:53 +0300",
-          "description": "Οι hectocorn της τεχνητής νοημοσύνης με αποτίμηση πάνω από 100 δισ. ετοιμάζουν την είσοδό τους στα χρηματιστήρια των ΗΠΑ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/annie-spratt-Jr8byYZmTTU-unsplash-768x576.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μάλτα: Ένας πρόσφυγας διασώθηκε, 150 αγνοούνται μετά τη βύθιση των πλοιαρίου τους στα ανοιχτά της Τυνησίας",
-          "link": "https://www.in.gr/2026/01/26/world/malta-enas-prosfygas-diasothike-50-agnoountai-meta-ti-vythisi-tou-ploiariou-tous-sta-anoixta-tis-tynisias/",
-          "pubDate": "Mon, 26 Jan 2026 01:00:14 +0300",
-          "description": "Ένας άνδρας πάλευε με τα κύματα για περισσότερες από 24 ώρες, κατάφερε να διασωθεί και μεταφέρθηκε στη Μάλτα, όμως περίπου 150 άτομα αγνοούνται, εκ των οποίων τα 50 επέβαιναν στη βάρκα με τον διασωθέντα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/15275730-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
