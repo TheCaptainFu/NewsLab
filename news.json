@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T10:45:26.591Z",
+  "lastUpdated": "2026-01-26T10:50:25.865Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Δημοτικός σύμβουλος Μήλου για το οικολογικό έγκλημα στο νησί: Αυτό που χτίζεται είναι κολοσσός και είναι μέσα σε καταφύγιο άγριας ζωής",
+          "link": "https://www.protothema.gr/greece/article/1763481/dimotikos-sumvoulos-milou-gia-to-oikologiko-eglima-sto-nisi-auto-pou-htizetai-einai-kolossos-/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:48:33 +0200",
+          "description": "Δεν είναι ξαφνικό αυτό που γίνεται τώρα στον Μύτακα Μήλου, έχω ζητήσει αντίγραφα αδειών και δεν έχω λάβει τίποτα, είπε ο Χρήστος Γαλής, μέλος του Δημοτικού Συμβουλίου",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/skai-milos.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Τραγωδία στη Βιολάντα στα Τρίκαλα: «Οι εργαζόμενες στη νυχτερινή βάρδια ήταν μητέρες που το πρωί φρόντιζαν τα παιδιά τους»",
+          "link": "https://www.protothema.gr/greece/article/1763491/tragodia-sti-violada-sta-trikala-oi-ergazomenes-sti-nuhterini-vardia-itan-miteres-pou-to-proi-frodizan-ta-paidia-tous/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 12:46:00 +0200",
+          "description": "Συγγενής μιας εκ των γυναικών μιλάει στο protothema.gr - Όπως λέει η συγγενής του έχει τρία παιδιά",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/violanta-trikala.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Χωρίς εμπορικό ενδιαφέρον η σημερινή δημοπρασία φυσικού αερίου για τον Κάθετο Διάδρομο",
           "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/xoris-emporiko-endiaferon-i-simerini-dimoprasia-fysikou-aeriou-gia-ton-katheto-diadromo/4583707/",
@@ -29,7 +45,7 @@
           "link": "https://www.protothema.gr/greece/article/1763487/gnostos-souvlatzis-tis-drapetsonas-sunelifthi-gia-diakinisi-narkotikon-promitheue-atoma-edos-tou-psitopoleiou/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 12:39:00 +0200",
           "description": "Η σύλληψη του έγινε μετά από πώληση 2,1 γραμμαρίων ηρωίνης σε έναν 60χρονο έναντι 50 ευρώ - Στην κατοχή του βρέθηκε 212 αμφιβόλου γνησιότητας έγγραφα ταυτοπροσωπίας και 12.480 ευρώ",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-07/peripoliko-xrwma.jpg",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/souvlakia-psistaria.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -193,6 +209,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "«Mamba Forever»: Η μέρα που «έφυγε» από τη ζωή ο «θρύλος», Κόμπι Μπράιαντ (vids)",
+          "link": "https://www.in.gr/2026/01/26/sports/basketball/otan-o-black-mamba-sigise-eksi-xronia-apo-to-tragiko-dystyxima-tou-kompi-vids/",
+          "pubDate": "Mon, 26 Jan 2026 12:47:37 +0300",
+          "description": "Συμπληρώθηκαν 6 χρόνια από τον θάνατο του Κόμπι Μπράιαντ και της κόρης του Τζιάνα, μαζί με επτά ακόμη ανθρώπους σε συντριβή ελικοπτέρου.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kobe-2-768x515.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "ΟΠΕΚΕΠΕ: Δέσμευση περιουσίας για δύο κατηγορουμένους στην Κρήτη – Χιλιάδες ευρώ σε ακίνητα και στοιχήματα",
           "link": "https://www.in.gr/2026/01/26/greece/opekepe-desmeysi-periousias-gia-dyo-katigoroumenous-stin-kriti-xiliades-eyro-se-akinita-kai-stoiximata/",
           "pubDate": "Mon, 26 Jan 2026 12:44:00 +0300",
@@ -223,30 +247,6 @@
           "description": "Σε σχόλιά του στην Wall Street Journal, ο Τραμπ ανέφερε επίσης ότι τελικά θα αποσύρει τους πράκτορές του από την πόλη. Δεν έδωσε όμως χρονοδιάγραμμα.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet1-1200x702-1-768x449.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Ζήνα Κουτσελίνη: Έχω αφαιρέσει στήθος γιατί ήταν πιο «μπαμπάτσικο», πρώτα με κοιτούσαν εκεί και μετά στα μάτια",
-          "link": "https://www.newsit.gr/lifestyle/zina-koutselini-exo-afairesei-stithos-giati-itan-pio-mpampatsiko-prota-me-koitousan-ekei-kai-meta-sta-matia/4583602/",
-          "pubDate": "Mon, 26 Jan 2026 09:28:34 +0000",
-          "description": "Η Ζήνα Κουτσελίνη παραχώρησε δηλώσεις το βράδυ της Κυριακής (25-01-2026) σε ρεπόρτερ ψυχαγωγικών εκπομπών και μίλησε με ειλικρίνεια για την επέμβαση αφαίρεσης στήθους που είχε ...  \nTo άρθρο Ζήνα Κουτσελίνη: Έχω αφαιρέσει στήθος γιατί ήταν πιο «μπαμπάτσικο», πρώτα με κοιτούσαν εκεί και μετά στα μάτια δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/koutselini-ndp-1200x834.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Στην τελική ευθεία η μετεγγραφή του Αντρέ Λουίζ",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-stin-teliki-eytheia-i-meteggrafi-tou-antre-louiz/4583593/",
-          "pubDate": "Mon, 26 Jan 2026 09:28:18 +0000",
-          "description": "Ο Αντρέ Λουίζ έχει ξεχωρίσει με τη φανέλα της Ρίο Άβε στην Πορτογαλία και ο Ολυμπιακός αναμένεται να τον κάνει άμεσα δικό του, ενισχύοντας την ...  \nTo άρθρο Ολυμπιακός: Στην τελική ευθεία η μετεγγραφή του Αντρέ Λουίζ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/andreluiz-1200x842.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η «εμφύλια σύγκρουση» που απειλεί να τινάξει το τένις στον αέρα",
-          "link": "https://www.in.gr/2026/01/26/sports/othersports/emfylia-sygkrousi-pou-apeilei-na-tinaksei-tenis-ston-aera/",
-          "pubDate": "Mon, 26 Jan 2026 12:25:36 +0300",
-          "description": "Ένα δισεκατομμύριο δολάρια, η σκιά της Σαουδικής Αραβίας και η ρήξη του Τζόκοβιτς με το σύστημα φέρνουν το παγκόσμιο τένις μπροστά στη μεγαλύτερη κρίση της ιστορίας του",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/w24-140702NovakDjokovic.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Αλ. Τσίπρας για «Βιολάντα»: Συλλυπητήρια στις οικογένειες των θυμάτων – Ως πότε θα θρηνούμε ανθρώπους που χάνονται κυνηγώντας την επιβίωση;",
+          "link": "https://www.naftemporiki.gr/politics/2063882/al-tsipras-gia-violanta-syllypitiria-stis-oikogeneies-ton-thymaton-os-pote-tha-thrinoyme-anthropoys-poy-chanontai-kynigontas-tin-epiviosi/?utm_source=rss&utm_medium=rss&utm_campaign=al-tsipras-gia-violanta-syllypitiria-stis-oikogeneies-ton-thymaton-os-pote-tha-thrinoyme-anthropoys-poy-chanontai-kynigontas-tin-epiviosi",
+          "pubDate": "Mon, 26 Jan 2026 10:48:55 +0000",
+          "description": "Τα συλλυπητήριά του «στις οικογένειες των θυμάτων και στους συναδέλφους τους που σήμερα, για ακόμη μια φορά, θρηνούν την απώλεια δικών τους ανθρώπων» εκφράζει ο πρώην πρωθυπουργός Αλέξης Τσίπρας σε…\nΑλ. Τσίπρας για «Βιολάντα»: Συλλυπητήρια στις οικογένειες των θυμάτων – Ως πότε θα θρηνούμε ανθρώπους που χάνονται κυνηγώντας την επιβίωση; - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Εθνικές εκλογές: Δημιουργία Τριεδρικής Περιφέρειας Απόδημου Ελληνισμού προτείνει η κυβέρνηση – Επανέρχονται στις 12 οι έδρες Επικρατείας ",
           "link": "https://www.naftemporiki.gr/politics/2063851/ethnikes-ekloges-dimioyrgia-triedrikis-perifereias-apodimoy-ellinismoy-proteinei-i-kyvernisi-epanerchontai-stis-12-oi-edres-epikrateias/?utm_source=rss&utm_medium=rss&utm_campaign=ethnikes-ekloges-dimioyrgia-triedrikis-perifereias-apodimoy-ellinismoy-proteinei-i-kyvernisi-epanerchontai-stis-12-oi-edres-epikrateias",
@@ -485,14 +493,6 @@
           "description": "Με μία συμβιβαστική πολιτική πρόταση το Συνέδριο της Νέας Αριστεράς απέφυγε τον κίνδυνο της ρήξης που ήταν ορατός από την έναρξη των εργασιών. Το σχέδιο πολιτικής απόφασης στο οποίο κατέληξε η αντίστοιχη Επιτροπή και το οποίο διάβασε στο σώμα του Συνεδρίου ο γραμματέας του κόμματος, Γαβριήλ Σακελλαρίδης αναφέρει μεταξύ άλλων: «Η ΝΔ παραμένει κυρίαρχη αλλά […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/aristera-1024x683.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Συνεδριάζει το υπουργικό συμβούλιο υπό τον Κυριάκο Μητσοτάκη: Οι νομοθετικές πρωτοβουλίες που θα παρουσιαστούν",
-          "link": "https://www.tanea.gr/2026/01/25/politics/synedriazei-to-ypoyrgiko-symvoylio-ypo-ton-kyriako-mitsotaki-oi-nomothetikes-protovoylies/",
-          "pubDate": "Sun, 25 Jan 2026 14:54:13 +0000",
-          "description": "Αύριο, Δευτέρα 26 Ιανουαρίου, συνεδριάζει το Υπουργικό Συμβούλιο υπό την προεδρία του Κυριάκου Μητσοτάκη στο Μέγαρο Μαξίμου. Στις 18:00 ο πρωθυπουργός θα συμμετάσχει σε εκδήλωση για το πρόγραμμα «The Greek AI Accelerator».",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/mhtsotakhs-6-scaled-e1756203321790-1024x672.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -515,6 +515,14 @@
           "description": "Σωστικά συνεργεία αναζητούν δεκάδες αγνοουμένους μετά την κατολίσθηση στην Ιάβα της Ινδονησίας. Ο απολογισμός των νεκρών ανήλθε σε 17 τη Δευτέρα.",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "Uganda's military chief denies army assaulted Bobi Wine's wife",
+          "link": "https://www.bbc.com/news/articles/c20zdj8n7vgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 10:31:33 GMT",
+          "description": "Barbara Kyagulanyi, married to the opposition leader, says she refused to reveal her husband's whereabouts.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1cd/live/5280ef80-fa98-11f0-a6ee-1768c9a638e7.jpg",
+          "source": "BBC News"
         },
         {
           "title": "Εγκαινιάστηκε η πρεσβεία της Κύπρου στο Μπαχρέιν από τον Νίκο Χριστοδουλίδη ",
@@ -689,7 +697,7 @@
           "link": "https://www.bbc.com/news/articles/cz6y7nxx5jvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 07:15:24 GMT",
           "description": "Temperatures are expected to peak on Tuesday, reaching the \"high forties\" in Victoria and South Australia.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c71/live/75a49390-fa6b-11f0-ba3f-fd73924e5353.jpg",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c467/live/fe7a5a50-faa3-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
         },
         {
@@ -731,14 +739,6 @@
           "description": "Οι αρχές λένε ότι πρώην αεροσυνοδός εκμεταλλευόταν για χρόνια τα προνόμια της αεροπορικής εταιρείας, προκαλώντας ερωτήματα για τους ελέγχους ασφαλείας.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Υπό πίεση η δημοκρατία της ΕΕ; Χειραγώγηση πληροφοριών από το εξωτερικό, η δεύτερη μεγαλύτερη απειλή",
-          "link": "http://gr.euronews.com/next/2026/01/26/is-eu-democracy-under-pressure-foreign-information-manipulation-has-emerged-as-the-second",
-          "pubDate": "Mon, 26 Jan 2026 07:01:10 +0100",
-          "description": "Ευρωβαρόμετρο: ξένες παρεμβάσεις και παραπληροφόρηση στις εκλογές είναι η δεύτερη πρόκληση για τη δημοκρατία της ΕΕ. Οι ειδικοί εφιστούν την προσοχή.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,30 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Πρόβλημα στη Ρόμα ενόψει Παναθηναϊκού: Εκτός ο Κονέ- Αμφίβολος ο Ντιμπάλα",
+          "link": "https://www.gazzetta.gr/football/serie/2510285/problima-sti-roma-enopsei-panathinaikoy-ektos-o-kone-amfibolos-o-ntimpala",
+          "pubDate": "Mon, 26 Jan 2026 12:48:30 +0200",
+          "description": "Νέο πλήγμα για τη Ρόμα που αναμένεται να ταξιδέψει στη Αθήνα για τον αγώνα με το Παναθηναϊκό χωρίς τον Μανού Κονέ, ενώ αμφίβολος παραμένει και ο Πάουλο Ντιμπάλα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-10/dybala.jpg?itok=Fw3YoySK",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τα 5 ρούχα που δεν πρέπει να φοράμε όταν οδηγούμε",
+          "link": "https://www.gazzetta.gr/gmotion/2510169/ta-5-royha-poy-den-prepei-na-forame-otan-odigoyme",
+          "pubDate": "Mon, 26 Jan 2026 12:45:00 +0200",
+          "description": "Η επιλογή της κατάλληλης ενδυμασίας στο τιμόνι δεν είναι ζήτημα στιλ, αλλά παράγοντας ασφάλειας. Μάθετε ποια ρούχα περιορίζουν τις κινήσεις σας και πώς να ντύνεστε σωστά.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/leoon-liang-g7ifb9fxtre-unsplash.jpg?itok=zB1xYyCA",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ozaa, το ιδανικό mouse για χρήση σε πολλές συσκευές (video)",
+          "link": "https://www.gazzetta.gr/plus/2509963/ozaa-idaniko-mouse-gia-hrisi-se-polles-syskeyes-video",
+          "pubDate": "Mon, 26 Jan 2026 12:44:44 +0200",
+          "description": "Γνωρίστε το Trust Ozaa, το νέο mouse για πολλές χρήσεις και συσκευές",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/24819_pictures_product_visual_1.png?itok=P0ZnMkbB",
+          "source": "Gazzetta"
+        },
         {
           "title": "Κεντζιόρα: «Θρύλος ο Λουτσέσκου, θα ήταν υπέροχο να φτάσουμε στον τελικό του Europa League»",
           "link": "https://www.gazzetta.gr/football/superleague/2510282/kentziora-thrylos-o-loytseskoy-tha-itan-yperoho-na-ftasoyme-ston",
@@ -960,30 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 10:28:57 +0200",
           "description": "To παιχνίδι στη Μινεσότα μεταξύ Τίμπεργουλβς και Γουόριορς έγινε σε πολύ περίεργη ατμόσφαιρα λόγω του θανάτου του Άλεξ Πρέτι από πράκτορες της ICE.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-11/edwards_0.jpg?itok=xQ256Nly",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Whoop: Το απαγορευμένο βραχιολάκι του Αλκαράθ που αναγκάστηκε να βγάλει",
-          "link": "https://www.gazzetta.gr/tennis/australian-open/2510253/whoop-apagoreymeno-brahiolaki-toy-alkarath-poy-anagkastike-na-bgalei",
-          "pubDate": "Mon, 26 Jan 2026 10:25:00 +0200",
-          "description": "Πριν την έναρξη του αγώνα του με τον Τόμι Πολ, ζητήθηκε από τον Κάρλος Αλκαράθ να αφαιρέσει το Whoop που φορούσε. Τι είναι και γιατί απαγορεύεται.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/alcaraz_1.jpg?itok=170pyr4H",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "24 Ώρες Ντεϊτόνα: Τρίτη διαδοχική νίκη για την Penske Porsche ",
-          "link": "https://www.gazzetta.gr/gmotion/2510252/24-ores-nteitona-triti-diadohiki-niki-gia-tin-penske-porsche",
-          "pubDate": "Mon, 26 Jan 2026 10:22:38 +0200",
-          "description": "To πρωτάθλημα της IMSA ξεκίνησε με τον καλύτερο τρόπο για την Porsche Penske Motorsport, καθώς κυριάρχησε στον αγώνα της Φλόριντα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/g_xtf3swmaa_nxr1.jpg?itok=Lkxm_1hE",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Έτσι θα είναι το Xiaomi smart tag, το Xiaomi Tag (εικόνες)",
-          "link": "https://www.gazzetta.gr/plus/2509962/etsi-tha-einai-xiaomi-smart-tag-xiaomi-tag-eikones",
-          "pubDate": "Mon, 26 Jan 2026 10:22:33 +0200",
-          "description": "Γνωρίστε το Xiaomi Tag που εντοπίστηκε στον κώδικα του HyperOS",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gsmarena_000_0.jpg?itok=eZQuqRvw",
           "source": "Gazzetta"
         }
       ]
