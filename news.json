@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T06:25:26.739Z",
+  "lastUpdated": "2026-01-26T06:30:31.917Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -13,7 +13,7 @@
           "link": "https://www.newsit.gr/kosmos/ipa-aeroplano-synetrivi-sto-mein-tin-stigmi-tis-apogeiosis-agnosti-i-katastasi-ton-8-epivaton/4583411/",
           "pubDate": "Mon, 26 Jan 2026 06:21:00 +0000",
           "description": "Τραγωδία εκτυλίχθηκε στο αεροδρόμιο του Μέιν στις ΗΠΑ, καθώς μικρό ιδιωτικό αεροπλάνο, με 8 επιβαίνοντες, συνετρίβη και μετατράπηκε σε πύρινη σφαίρα καθώς βρισκόταν στη φάση ...  \nTo άρθρο ΗΠΑ: Αεροπλάνο συνετρίβη στο Μέιν την στιγμή της απογείωσης – Άγνωστη η κατάσταση των 8 επιβατών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aeroplano-mein.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/air-india-plane-1200x800.jpg",
           "source": "NewsIT"
         },
         {
@@ -581,6 +581,14 @@
           "source": "Euronews"
         },
         {
+          "title": "At least seven dead and 800,000 without power as major winter storm hits US",
+          "link": "https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 04:38:19 GMT",
+          "description": "Almost half of US states have declared emergencies as officials warn of \"life threatening conditions\" that could affect 180 million people.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a3/live/0d2856f0-fa5f-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Fifteen dead after Philippines ferry with 300 passengers sinks",
           "link": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 04:06:14 GMT",
@@ -669,14 +677,6 @@
           "source": "Euronews"
         },
         {
-          "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
-          "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 18:48:27 GMT",
-          "description": "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2e/live/179de690-fa05-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
           "title": "Venezuela frees dozens of political prisoners, human rights group says",
           "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 18:29:57 GMT",
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Τα αποτελέσματα του ΝΒΑ στο Gazzetta",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510057/live-nba-sto-gazzetta",
+          "pubDate": "Mon, 26 Jan 2026 08:26:09 +0200",
+          "description": "Δείτε τα αποτελέσματα του ΝΒΑ στο Gazzetta.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-02/fox_getty.jpg?itok=iTiJDQOn",
+          "source": "Gazzetta"
+        },
         {
           "title": "Οι 22 χώρες χωρίς στρατό: πώς επιβιώνουν και γιατί κανείς δεν τις αγγίζει",
           "link": "https://www.gazzetta.gr/plus/2510186/oi-22-hores-horis-strato-pos-epibionoyn-kai-giati-kaneis-den-tis-aggizei",
@@ -976,14 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 23:20:58 +0200",
           "description": "Η Λίβερπουλ αποφάσισε να απορρίψει την πρόταση της Τότεναμ και να κρατήσει τον Άντι Ρόμπερτσον, σε μια εξέλιξη που μπορεί να επηρεάσει και το μέλλον του Κώστα Τσιμίκα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-11/robertson_1.jpg?itok=dnOaeXo5",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "NBA: Αναβλήθηκε το Μπακς-Μάβερικς λόγω καιρικών συνθηκών",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510182/nba-anablithike-mpaks-maberiks-logo-kairikon-synthikon",
-          "pubDate": "Sun, 25 Jan 2026 23:16:16 +0200",
-          "description": "Οι Μάβερικς δεν κατάφεραν να αναχωρήσουν από το Ντάλας λόγω των δυσμενών καιρικών συνθηκών, με αποτέλεσμα να αναβληθεί ο αγώνας με τους Μπακς στο Μιλγουόκι.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-02/kuzma_getty.jpg?itok=RQ1zmMga",
           "source": "Gazzetta"
         }
       ]
