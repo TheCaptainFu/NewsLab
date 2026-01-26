@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T13:30:36.926Z",
+  "lastUpdated": "2026-01-26T13:35:24.280Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Μαγνητική για τον Τσιριβέγια, εκτός με ίωση ο Καλάμπρια",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-magnitiki-gia-ton-tsirivegia-ektos-me-iosi-o-kalampria/4583888/",
+          "pubDate": "Mon, 26 Jan 2026 13:32:10 +0000",
+          "description": "Ο Παναθηναϊκός καλείται να αφήσει πίσω του τον αγώνα με τον Ατρόμητο στη Super League, καθώς ακολουθεί η αναμέτρηση με τη Ρόμα στο Europa League, ...  \nTo άρθρο Παναθηναϊκός: Μαγνητική για τον Τσιριβέγια, εκτός με ίωση ο Καλάμπρια δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kalabria-chirivella-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Η Άμπερ Χερντ σπάει τη σιωπή της για τη διαμάχη με τον Τζόνι Ντεπ στο ντοκιμαντέρ Silenced: «Έχω χάσει την ικανότητά μου να μιλάω»",
           "link": "https://www.newsit.gr/lifestyle/i-amper-xernt-spaei-ti-siopi-tis-gia-ti-diamaxi-me-ton-tzoni-ntep-sto-ntokimanter-silenced-exo-xasei-tin-ikanotita-mou-na-milao/4583885/",
@@ -137,7 +145,7 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "Βίντεο φέρεται να καταγράφει την εκκωφαντική έκρηξη στη βιομηχανία της Βιολάντα σε απόσταση 8 χλμ",
+          "title": "Ηχητικό ντοκουμέντο από την εκκωφαντική έκρηξη στη βιομηχανία της Βιολάντα, καταγράφηκε από κάμερα ασφαλείας σε απόσταση 8 χλμ",
           "link": "https://www.protothema.gr/greece/article/1763563/trikala-video-feretai-na-apotuponei-tin-ekkofadiki-ekrixi-sti-viomihania-tis-violada/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 14:42:00 +0200",
           "description": "Το ωστικό κύμα ήταν τόσο έντονο που έκανε τα παράθυρα να τρίζουν και αναστάτωσε τους κατοίκους της περιοχής",
@@ -185,12 +193,20 @@
           "source": "NewsIT"
         },
         {
-          "title": "Δήμητρα Λιάνη για τον θάνατο της Αναστασίας Αθήνη: Έχω συγχωρέσει όλους τους εχθρούς μου, το παρελθόν δε με αφορά πια\n",
+          "title": "Δήμητρα Λιάνη για τον θάνατο της Αναστασίας Αθήνη: Έχω συγχωρέσει όλους τους εχθρούς μου, το παρελθόν δεν με αφορά πια\n",
           "link": "https://www.protothema.gr/greece/article/1763557/dimitra-liani-gia-ton-thanato-tis-anastasias-athini-eho-sughoresei-olous-tous-ehthrous-mou-to-parelthon-de-me-afora-pia/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 14:32:48 +0200",
+          "pubDate": "Mon, 26 Jan 2026 14:32:00 +0200",
           "description": "Η Αθήνη έφυγε από τη ζωή σε ηλικία 77 ετών - Το επεισόδιο με τη Λιάνη που έμεινε στην ιστορία",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-10-15/dhmhtra-lianh-papandreou.jpg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Τραγωδία στα Τρίκαλα: Κόπηκε στα δύο το εργοστάσιο – Με δείγμα DNA η ταυτοποίηση των σορών",
+          "link": "https://www.in.gr/2026/01/26/greece/tragodia-sta-trikala-kopike-sta-dyo-ergostasio-deigma-dna-taytopoiisi-ton-soron/",
+          "pubDate": "Mon, 26 Jan 2026 15:30:28 +0300",
+          "description": "Τέσσερις γυναίκες νεκρές από τη μεγάλη φωτιά στο εργοστάσιο μπισκότων Βιολάντα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/PYRKAGIA-6-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Δεν γινόταν αλλιώς: Ο Τάισον Γουόρντ αναδείχθηκε MVP της 16ης αγωνιστικής (vid)",
@@ -231,22 +247,6 @@
           "description": "Σμήνη από bot που υποδύονται τους ανθρώπους απειλούν να χειραγωγήσουν το δημόσιο διάλογο και να δημιουργήσουν την ψευδαίσθηση κοινωνικής ομοφωνίας.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2024-05-12T140453Z_1776683956_RC2GX1AD5VDZ_RTRMADP_5_USA-CHINA-AI-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Κομισιόν εναντίον Μασκ: Ξεκινά έρευνα στο «Grok» για την δημιουργία παράνομου περιεχομένου με γυναίκες και παιδιά",
-          "link": "https://www.newsit.gr/kosmos/komision-enantion-mask-ksekina-ereyna-sto-grok-gia-tin-dimiourgia-paranomou-periexomenou-me-gynaikes-kai-paidia/4583820/",
-          "pubDate": "Mon, 26 Jan 2026 12:23:22 +0000",
-          "description": "Κατά μέτωπο «επίθεση» εξαπολύει η Κομισιόν εναντίον του «Grok», του chatbot της τεχνητής νοημοσύνης της πλατφόρμας Χ (πρώην Twitter) του Έλον Μασκ, με αφορμή τις ...  \nTo άρθρο Κομισιόν εναντίον Μασκ: Ξεκινά έρευνα στο «Grok» για την δημιουργία παράνομου περιεχομένου με γυναίκες και παιδιά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grok-illustration-reuters-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Έχω παιδιά: Η επιτυχημένη σειρά του Mega επιστρέφει την Κυριακή 1η Φεβρουαρίου",
-          "link": "https://www.newsit.gr/media/exo-paidia-i-epityximeni-seira-tou-mega-epistrefei-tin-kyriaki-1i-fevrouariou/4583831/",
-          "pubDate": "Mon, 26 Jan 2026 12:22:18 +0000",
-          "description": "Η κωμική σειρά του MEGA, με τίτλο «Έχω παιδιά», που επαναπροσδιόρισε το είδος της οικογενειακής κωμωδίας, κερδίζοντας την αγάπη του κοινού με το ευφυές και ...  \nTo άρθρο Έχω παιδιά: Η επιτυχημένη σειρά του Mega επιστρέφει την Κυριακή 1η Φεβρουαρίου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/exo-paidia-1200x643.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,22 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "«The Greek AI Accelerator»: Αναβάλλεται λόγω της τραγωδίας στα Τρίκαλα η εκδήλωση όπου θα συμμετείχε ο Κ. Μητσοτάκης",
+          "link": "https://www.naftemporiki.gr/politics/2063993/the-greek-ai-accelerator-anavalletai-logo-tis-tragodias-sta-trikala-i-ekdilosi-opoy-tha-symmeteiche-o-k-mitsotakis/?utm_source=rss&utm_medium=rss&utm_campaign=the-greek-ai-accelerator-anavalletai-logo-tis-tragodias-sta-trikala-i-ekdilosi-opoy-tha-symmeteiche-o-k-mitsotakis",
+          "pubDate": "Mon, 26 Jan 2026 13:32:55 +0000",
+          "description": "Λόγω του τραγικού δυστυχήματος στα Τρίκαλα ο Πρωθυπουργός, σύμφωνα με κυβερνητικές πηγές, δεν θα λάβει μέρος στην προγραμματισμένη για το απόγευμα συζήτηση για το πρόγραμμα «The Greek AI Accelerator» στο…\n«The Greek AI Accelerator»: Αναβάλλεται λόγω της τραγωδίας στα Τρίκαλα η εκδήλωση όπου θα συμμετείχε ο Κ. Μητσοτάκης - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "ΣΥΡΙΖΑ: Αναβάλλονται όλες οι προγραμματισμένες εκδηλώσεις τις επόμενες τρεις ημέρες",
+          "link": "https://www.naftemporiki.gr/politics/2063998/syriza-anavallontai-oles-oi-programmatismenes-ekdiloseis-tis-epomenes-treis-imeres/?utm_source=rss&utm_medium=rss&utm_campaign=syriza-anavallontai-oles-oi-programmatismenes-ekdiloseis-tis-epomenes-treis-imeres",
+          "pubDate": "Mon, 26 Jan 2026 13:32:27 +0000",
+          "description": "Μετά τη Νέα Δημοκρατία και το ΠΑΣΟΚ, ο ΣΥΡΙΖΑ ανακοίνωσε και αυτός με τη σειρά του την αναβολή όλων των προγραμματισμένων εκδήλωσεων για τρεις ημέρες λόγω της τραγωδίας στη «Βιολάντα».…\nΣΥΡΙΖΑ: Αναβάλλονται όλες οι προγραμματισμένες εκδηλώσεις τις επόμενες τρεις ημέρες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Ο πρωθυπουργός, λόγω του τραγικού δυστυχήματος στα Τρίκαλα, δεν θα συμμετάσχει στη συζήτηση «The Greek AI Accelerator»",
           "link": "https://www.tanea.gr/2026/01/26/politics/o-prothypourgos-logo-tou-tragikou-dystyximatos-sta-trikala-den-tha-symmetasxei-sti-syzitisi-the-greek-ai-accelerator/",
@@ -477,22 +493,6 @@
           "description": "Διατυπώνονται φόβοι πως η δίκη στη Λάρισα για τους (μη πολιτικούς) υπευθύνους του δυστυχήματος των Τεμπών κινδυνεύει να επισκιαστεί από πολιτικές επιδιώξεις.",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/09/npb03383_11757181371.jpg",
           "source": "Το Βήμα"
-        },
-        {
-          "title": "Πώς «διαβάζουν» στην κυβέρνηση το «φαινόμενο Καρυστιανού»",
-          "link": "https://www.tovima.gr/print/politics/pos-diavazoun-stin-kyvernisi-to-fainomeno-karystianou/",
-          "pubDate": "Mon, 26 Jan 2026 10:10:00 +0300",
-          "description": "Τι λένε οι αναλύσεις των δημοσκοπήσεων που κάνει το Μαξίμου και ποια στρατηγική επιλέγει - Το ενδεχόμενο σχηματισμού νέων κομμάτων, η αντισυστημική ψήφος και οι ψηφοφόροι του καναπέ.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/18/EV25_230225_KARYSTIANOY-1-1024x705.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Μέγαρο Μαξίμου: Με «θετική ατζέντα» το 1ο Υπουργικό του 2026",
-          "link": "https://www.tovima.gr/2026/01/26/politics/megaro-maksimou-me-thetiki-atzenta-to-1o-ypourgiko-tou-2026/",
-          "pubDate": "Mon, 26 Jan 2026 09:34:48 +0300",
-          "description": "Το Υπουργικό συμβούλιο, το πρώτο για το 2026, αναμένεται να ξεκινήσει στο Μέγαρο Μαξίμου, στις 11.00. Οι νέες νομοθετικές ρυθμίσεις",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/19/mitsotakis-1024x683.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
+          "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 13:34:31 GMT",
+          "description": "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d843/live/4b6f9a20-fa9d-11f0-a9b2-e154b2ff290d.jpg",
+          "source": "BBC News"
+        },
         {
           "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
           "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
@@ -522,14 +530,6 @@
           "pubDate": "Mon, 26 Jan 2026 12:48:17 GMT",
           "description": "A search is continuing for one person still missing after a blaze broke out at a biscuit factory near the city of Trikala.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f0/live/86816ff0-fa9b-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
-          "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 12:31:41 GMT",
-          "description": "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d843/live/4b6f9a20-fa9d-11f0-a9b2-e154b2ff290d.jpg",
           "source": "BBC News"
         },
         {
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "«Ο Καλάμπρια θα μπορούσε να επιστρέψει άμεσα στην Serie A»",
+          "link": "https://panathinaikos24.gr/2026/01/26/617800/o-kalampria-tha-mporouse-na-epistrepsei-amesa-stin-serie-a/",
+          "pubDate": "Mon, 26 Jan 2026 13:32:23 +0000",
+          "description": "Σύμφωνα με τον έγκυρο Ιταλό δημοσιογράφο, Ματέο Μορέτο, η πιθανότητα επιστροφής του Ντάβιντε Καλάμπρια στην Ιταλία είναι ρεαλιστικό σενάριο.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4993516.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Τα εισιτήρια της «μάχης» με τον Ερυθρό Αστέρα",
           "link": "https://panathinaikos24.gr/2026/01/26/617792/ta-eisitiria-tis-maxis-me-ton-erythro-astera/",
           "pubDate": "Mon, 26 Jan 2026 12:41:39 +0000",
@@ -1222,14 +1230,6 @@
           "pubDate": "Sun, 25 Jan 2026 19:40:52 +0000",
           "description": "Αναλυτικά οι δηλώσεις του Ράφα Μπενίτεθ μετά την ισοπαλία του Παναθηναϊκού (0-0) στην έδρα του Ατρομήτου.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5004668.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Βαθμολογία Super League: Η θέση του Παναθηναϊκού",
-          "link": "https://panathinaikos24.gr/2026/01/25/617710/vathmologia-super-league-i-thesi-tou-panathinaikou/",
-          "pubDate": "Sun, 25 Jan 2026 19:37:58 +0000",
-          "description": "Η βαθμολογία της Stoiximan Super League μετά το 0-0 του Παναθηναϊκού στο Περιστέρι.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/BATHMOLOGIA.jpg?fit=900%2C599&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
