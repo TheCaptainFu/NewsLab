@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T18:10:33.089Z",
+  "lastUpdated": "2026-01-26T18:15:27.428Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ολυμπιακός: Πρόβλημα με Ρομάν Γιάρεμτσουκ ενόψει Άγιαξ",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-provlima-me-roman-giaremtsouk-enopsei-agiaks/4584164/",
+          "pubDate": "Mon, 26 Jan 2026 18:10:10 +0000",
+          "description": "Εκτός από την κρίσιμη αναμέτρηση του Ολυμπιακού με τον Άγιαξ φαίνεται πως θα είναι ο Ρόμαν Γιάρεμτσουκ. Ο Ουκρανός επιθετικός αντιμετωπίζει πρόβλημα τραυματισμού στη γάμπα ...  \nTo άρθρο Ολυμπιακός: Πρόβλημα με Ρομάν Γιάρεμτσουκ ενόψει Άγιαξ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roman-giaremtsoyk-eurokinissi-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ηράκλειο: Καθυστερήσεις και ακυρώσεις πτήσεων στο αεροδρόμιο λόγω της κακοκαιρίας",
           "link": "https://www.newsit.gr/ellada/irakleio-kathysteriseis-kai-akyroseis-ptiseon-sto-aerodromio-logo-tis-kakokairias/4584138/",
@@ -239,14 +247,6 @@
           "description": "Σε συνεργασία με την Περιφέρεια Κεντρικής Μακεδονίας εκτελούνται εργασίες με βαρέα μηχανήματα έργου στην κοιλάδα του Κρουσοβίτη στο Σιδηρόκαστρο ώστε να μην φτάσουν τα νερά σε κατοικημένες περιοχές.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/sint_plim-768x449.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Σέρρες: Νέες αποκαλύψεις για την καθηγήτρια που φίμωσε μαθητή – «Έλεγε ότι ένας γάτος είναι η μετεμψύχωση του πατέρα της»",
-          "link": "https://www.newsit.gr/ellada/serres-nees-apokalypseis-gia-tin-kathigitria-pou-fimose-mathiti-elege-oti-enas-gatos-einai-i-metempsyxosi-tou-patera-tis/4584046/",
-          "pubDate": "Mon, 26 Jan 2026 16:40:12 +0000",
-          "description": "Την καταδίκη της για τα όσα έκανε σε 13χρονο μαθητή και την απόφαση του υπουργείου Παιδείας να τεθεί σε διαθεσιμότητα, διαδέχονται οι νέες καταγγελίες για ...  \nTo άρθρο Σέρρες: Νέες αποκαλύψεις για την καθηγήτρια που φίμωσε μαθητή – «Έλεγε ότι ένας γάτος είναι η μετεμψύχωση του πατέρα της» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kathigitria-serres.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Το NBA LIVE στο Gazzetta",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510350/nba-live-sto-gazzetta",
+          "pubDate": "Mon, 26 Jan 2026 20:15:00 +0200",
+          "description": "Παρακολουθήστε LIVE την εξέλιξη των επτά αναμετρήσεων του NBA, μέσα από το Gazzetta.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/luka_doncic_lakersx.jpg?itok=q6_m254k",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Πρόβλημα με Ρομάν Γιάρεμτσουκ ενόψει Άγιαξ",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-provlima-me-roman-giaremtsouk-enopsei-agiaks/4584164/",
+          "pubDate": "Mon, 26 Jan 2026 18:10:10 +0000",
+          "description": "Εκτός από την κρίσιμη αναμέτρηση του Ολυμπιακού με τον Άγιαξ φαίνεται πως θα είναι ο Ρόμαν Γιάρεμτσουκ. Ο Ουκρανός επιθετικός αντιμετωπίζει πρόβλημα τραυματισμού στη γάμπα ...  \nTo άρθρο Ολυμπιακός: Πρόβλημα με Ρομάν Γιάρεμτσουκ ενόψει Άγιαξ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roman-giaremtsoyk-eurokinissi-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ενα «flash back» που εξηγεί τα πάντα για το νέο γήπεδο του ΠΑΟΚ",
           "link": "https://www.gazzetta.gr/football/superleague/2510392/ena-flash-back-poy-exigei-ta-panta-gia-neo-gipedo-toy-paok",
           "pubDate": "Mon, 26 Jan 2026 20:00:37 +0200",
@@ -969,22 +985,6 @@
           "description": "Άνοιξε ο δρόμος για την κατασκευή της Νέας Τούμπας αφού τη Δευτέρα (26.01.2026) η ΠΑΕ ΠΑΟΚ, ο ΑΣ ΠΑΟΚ και η εταιρεία “Φωλιά του Δικέφαλου ...  \nTo άρθρο Ιστορική ημέρα στον ΠΑΟΚ, έπεσαν οι υπογραφές για τη Νέα Τούμπα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-nea-toympa-paokfc-1200x769.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Κέιν: Συζητήσεις με τη Μπάγερν για νέο συμβόλαιο έως το 2029 ",
-          "link": "https://www.gazzetta.gr/football/bundesliga/2510373/kein-syzitiseis-me-ti-mpagern-gia-neo-symbolaio-eos-2029",
-          "pubDate": "Mon, 26 Jan 2026 17:58:20 +0200",
-          "description": "Η Μπάγερν ξεκίνησε συζητήσεις με την πλευρά του Χάρι Κέιν για την ανανέωση της συνεργασίας τους με χρονικό ορίζοντα το 2029.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-10/kane_bayern_munich_1.jpg?itok=LGVw-WJQ",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πρεμιέρα για την Allwyn Arena-Δείτε πώς μεταμορφώθηκε το γήπεδο της ΑΕΚ",
-          "link": "https://www.gazzetta.gr/football/2510372/premiera-gia-tin-allwyn-arena-deite-pos-metamorfothike-gipedo-tis-aek",
-          "pubDate": "Mon, 26 Jan 2026 17:57:52 +0200",
-          "description": "Την Κυριακή 1η Φεβρουαρίου ο πρώτος αγώνας της ΑΕΚ στην Allwyn Arena με αντίπαλο τον Ολυμπιακό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/1_-_2026-01-26t175619.493.jpg?itok=bgKytTs-",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Σενάριο από Γαλλία: Στο προσκήνιο ο Ουλίσες Γκαρσία για το «Τριφύλλι»!",
+          "link": "https://trifilara.gr/senario-apo-gallia-sto-proskinio-o-oulises-gkarsia-gia-to-trifylli/?utm_source=rss&utm_medium=rss&utm_campaign=senario-apo-gallia-sto-proskinio-o-oulises-gkarsia-gia-to-trifylli",
+          "pubDate": "Mon, 26 Jan 2026 18:14:32 +0000",
+          "description": "Eνα νέο μεταγραφικό σενάριο από τη Γαλλία έρχεται να βάλει στο κάδρο του Παναθηναϊκού τον Ουλίσες Γκαρσία, με τα σχετικά δημοσιεύματα να κάνουν λόγο για ουσιαστικό και έντονο ενδιαφέρον από πλευράς των «πράσινων».\nThe post Σενάριο από Γαλλία: Στο προσκήνιο ο Ουλίσες Γκαρσία για το «Τριφύλλι»! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Όνομα-έκπληξη: Σε ποιον δημοσιογράφο θα δώσει συνέντευξη ο Μητσοτάκης",
+          "link": "https://panathinaikos24.gr/2026/01/26/617863/onoma-ekpliksi-se-poion-dimosiografo-tha-dosei-synenteyksi-o-mitsotakis/",
+          "pubDate": "Mon, 26 Jan 2026 18:11:18 +0000",
+          "description": "Τι αναμένεται να συζητηθεί στη συνέντευξη.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5%CF%85%CE%BC%CE%BD%CE%B5%CF%84%CE%B8%CF%81%CF%85%CE%BD%CE%BC%CF%85%CF%86%CE%B3.jpg?fit=895%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "«Πάει για Ουλίσες Γκαρσία ο Παναθηναϊκός», γράφουν στη Γαλλία!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/paei-gia-oulises-gkarsia-o-panathinai/?utm_source=rss&utm_medium=rss&utm_campaign=paei-gia-oulises-gkarsia-o-panathinai",
@@ -1185,14 +1201,6 @@
           "source": "Trifilara"
         },
         {
-          "title": "Επίσημο το ΜΠΑΜ: «Φίνο κορίτσι» και η Στράντζαλη!",
-          "link": "https://panathinaikos24.gr/2026/01/26/617780/episimo-to-mpam-fino-koritsi-kai-i-strantzali/",
-          "pubDate": "Mon, 26 Jan 2026 10:56:23 +0000",
-          "description": "Σπουδαία προσθήκη για τον Παναθηναϊκό!",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/olg.jpg?fit=1656%2C749&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
           "title": "Ανησυχία με Τσιριβέγια στον Παναθηναϊκό!",
           "link": "https://trifilara.gr/anisychia-me-tsirivegia-ston-panathinaiko/?utm_source=rss&utm_medium=rss&utm_campaign=anisychia-me-tsirivegia-ston-panathinaiko",
           "pubDate": "Mon, 26 Jan 2026 10:56:15 +0000",
@@ -1222,14 +1230,6 @@
           "pubDate": "Mon, 26 Jan 2026 10:10:46 +0000",
           "description": "Ερωτήματα προκάλεσε η απουσία του Παύλου Παντελίδη από το παιχνίδι του Παναθηναϊκού με τον Ατρόμητο, όμως η απόφαση του Ράφα Μπενίτεθ μόνο τυχαία δεν ήταν. Αφενός, ο Ισπανός τεχνικός επέλεξε συνειδητά να δώσει χρόνο συμμετοχής στον Γιάννη Μπόκο, στο πλαίσιο της προσπάθειας να εντάξει σταδιακά νεαρούς ποδοσφαιριστές στο ροτέισον της ομάδας. Αφετέρου, και αυτός ήταν […]\nThe post Ατρόμητος – Παναθηναϊκός: Ο λόγος που έμεινε εκτός ο Παντελίδης στο Περιστέρι appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Pantelidis-2.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Παναθηναϊκός: Το παράδοξο με Μπόκο!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-to-paradoxo-me-boko/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-to-paradoxo-me-boko",
-          "pubDate": "Mon, 26 Jan 2026 10:03:02 +0000",
-          "description": "Παράδοξο, αλλά απολύτως ελληνικό, είναι αυτό που συμβαίνει με την περίπτωση του Γιάννη Μπόκου στον Παναθηναϊκό. Παράδοξο, αλλά απολύτως ελληνικό, είναι αυτό που συμβαίνει με την περίπτωση του Γιάννη Μπόκου στον Παναθηναϊκό. Για μήνες, ένα μεγάλο κομμάτι του κόσμου ζητούσε επίμονα να δοθούν ευκαιρίες στα παιδιά των ακαδημιών, να παίξουν οι νεαροί, να μην καίγονται […]\nThe post Παναθηναϊκός: Το παράδοξο με Μπόκο! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Mpokos-Benitez.jpg",
           "source": "Όλα Πράσινα"
         }
       ]
