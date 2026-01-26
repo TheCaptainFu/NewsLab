@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-26T02:30:38.718Z",
-  "totalArticles": 178,
+  "lastUpdated": "2026-01-26T02:35:29.418Z",
+  "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
@@ -15,6 +15,14 @@
           "description": "Αγριεύει πάλι ο καιρός σήμερα Δευτέρα, 26 Ιανουαρίου, με βροχές και καταιγίδες. Οι άνεμοι ενισχύονται και θα φτάσουν τα 9 εννέα μποφόρ στο Αιγαίο. Μικρή ...  \nTo άρθρο Καιρός σήμερα: Βροχές, καταιγίδες και άνεμοι έως 9 μποφόρ – Αναλυτική πρόγνωση δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos-vroxi-3-1200x798.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Μινεάπολη: Ο Κλίντον καλεί τους Αμερικανούς να «ορθώσουν το ανάστημά τους» και να «υψώσουν τη φωνή» τους",
+          "link": "https://www.in.gr/2026/01/26/world/mineapoli-o-klinton-kalei-tous-amerikanous-na-orthosoun-anastima-tous-kai-na-ypsosoun-ti-foni-tous/",
+          "pubDate": "Mon, 26 Jan 2026 04:30:10 +0300",
+          "description": "Ο Μπιλ Κλίντον στηλιτεύει το γεγονός ότι η κυβέρνηση Τραμπ «μας είπε ψέματα» για τις δολοφονίες των δύο πολιτών στη Μινεσότα, και καλεί τους Αμερικανούς «να ορθώσουν το ανάστημά τους».",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/bill-clinton-768x463.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Λίβανος: 2 νεκροί σε νέα ισραηλινά πλήγματα στον νότο",
@@ -238,14 +246,6 @@
           "pubDate": "Sun, 25 Jan 2026 20:47:48 +0000",
           "description": "Ο Εμμανουήλ Καραλής μπήκε με το… δεξί και στο 2026, αφού πέτυχε με το… καλημέρα την καλύτερη επίδοση στον κόσμο στο άλμα επί κοντώ, παίρνοντας τη ...  \nTo άρθρο Ο Εμμανουήλ Καραλής ξεκίνησε εντυπωσιακά και το 2026 με άλμα στα 5,93 μέτρα στην Πολωνία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/karalis-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κακοκαιρία στις ΗΠΑ: H μεγάλη χιονοθύελλα άφησε χωρίς ρεύμα 900.000 νοικοκυριά και επιχειρήσεις – Ακυρώθηκαν 15.000 πτήσεις",
-          "link": "https://www.newsit.gr/kosmos/kakokairia-stis-ipa-h-megali-xionothyella-afise-xoris-reyma-900-000-noikokyria-kai-epixeiriseis-akyrothikan-15-000-ptiseis/4583301/",
-          "pubDate": "Sun, 25 Jan 2026 20:47:00 +0000",
-          "description": "Η πολική κακοκαιρία εξακολουθεί να κρατά «αιχμάλωτες» τις ΗΠΑ. Μία μεγάλη χιονοθύελλα κατευθύνεται προς τις βορειοανατολικές πολιτείες, αφού έπληξε προηγουμένως πολλές στα κεντρικά και τα ...  \nTo άρθρο Κακοκαιρία στις ΗΠΑ: H μεγάλη χιονοθύελλα άφησε χωρίς ρεύμα 900.000 νοικοκυριά και επιχειρήσεις – Ακυρώθηκαν 15.000 πτήσεις δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-weather1-25012026.jpg",
           "source": "NewsIT"
         }
       ]
@@ -1033,6 +1033,14 @@
           "source": "Όλα Πράσινα"
         },
         {
+          "title": "Κερκέζ: «Αξίζαμε την νίκη – Αυτοί είχαν μια ευκαιρία!»",
+          "link": "https://trifilara.gr/kerkez-axizame-tin-niki-aftoi-eichan-mia-efkairia/?utm_source=rss&utm_medium=rss&utm_campaign=kerkez-axizame-tin-niki-aftoi-eichan-mia-efkairia",
+          "pubDate": "Sun, 25 Jan 2026 19:53:56 +0000",
+          "description": "Όσα είπε ο Ντούσαν Κέρκεζ μετά το παιχνίδι της 18ης αγωνιστικής της Super League ανάμεσα στον Παναθηναϊκό και τον Ατρόμητο.\nThe post Κερκέζ: «Αξίζαμε την νίκη – Αυτοί είχαν μια ευκαιρία!» appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Κέρκεζ: «Εμείς αξίζαμε τη νίκη!»",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/kerkez-emeis-axizame-ti-niki/?utm_source=rss&utm_medium=rss&utm_campaign=kerkez-emeis-axizame-ti-niki",
           "pubDate": "Sun, 25 Jan 2026 19:49:24 +0000",
@@ -1081,6 +1089,22 @@
           "source": "Όλα Πράσινα"
         },
         {
+          "title": "Νέο «στραπάτσο» ο Παναθηναϊκός!",
+          "link": "https://trifilara.gr/neo-strapatso-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=neo-strapatso-o-panathinaikos",
+          "pubDate": "Sun, 25 Jan 2026 19:26:08 +0000",
+          "description": "O Παναθηναϊκός έφυγε από το Περιστέρι με τον βαθμό (0-0), όμως το αποτέλεσμα δεν λέει όλη την αλήθεια. Γιατί το ματς της 18ης αγωνιστικής της Super League, την Κυριακή 25 Ιανουαρίου (19:30), ήταν από εκείνα που αφήνουν περισσότερο προβληματισμό παρά ικανοποίηση, ειδικά από τη στιγμή που ο Ράφα Μπενίτεθ είδε την ομάδα του να «παίζει με τη φωτιά» από πολύ νωρίς και να σώζεται ουσιαστικά από τον Αλμπάν Λαφόν.\nThe post Νέο «στραπάτσο» ο Παναθηναϊκός! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Μπενίτεθ: «Είναι πιο πολύπλοκο – Αυτό μας μπλόκαρε σήμερα» – Τι είπε για Πελίστρι",
+          "link": "https://trifilara.gr/beniteth-einai-pio-polyploko-afto-mas-blokare-simera-ti-eipe-gia-pelistri/?utm_source=rss&utm_medium=rss&utm_campaign=beniteth-einai-pio-polyploko-afto-mas-blokare-simera-ti-eipe-gia-pelistri",
+          "pubDate": "Sun, 25 Jan 2026 19:25:31 +0000",
+          "description": "Ο Ράφα Μπενίτεθ μίλησε στην συνέντευξη Τύπου μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» κόντρα στον Ατρόμητο.\nThe post Μπενίτεθ: «Είναι πιο πολύπλοκο – Αυτό μας μπλόκαρε σήμερα» – Τι είπε για Πελίστρι appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Κόλλησε στο Περιστέρι και έχασε και άλλο έδαφος ο Παναθηναϊκός",
           "link": "https://panathinaikos24.gr/2026/01/25/617686/kollise-sto-peristeri-kai-exase-kai-allo-edafos-o-panathinaikos/",
           "pubDate": "Sun, 25 Jan 2026 19:24:44 +0000",
@@ -1095,6 +1119,22 @@
           "description": "Αυτή είναι η βαθμολογία της Super League, μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού! Μετά την ολοκλήρωση της αναμέτρησης της 18ης αγωνιστικής, η βαθμολογία της Super League αποτυπώνει με σαφήνεια τη δύσκολη πραγματικότητα για τον Παναθηναϊκό, ο οποίος παραμένει στην 5η θέση του πίνακα με 26 βαθμούς σε 17 παιχνίδια. Το «Τριφύλλι» βρίσκεται πλέον σε […]\nThe post Νέα γκέλα για τον Παναθηναϊκό στο Περιστέρι! – Η βαθμολογία της Super League appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/ingason-1-scaled.jpg",
           "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League",
+          "link": "https://trifilara.gr/stasimos-o-panathinaikos-kai-to-klima-varainei-i-vathmologia-tis-super-league/?utm_source=rss&utm_medium=rss&utm_campaign=stasimos-o-panathinaikos-kai-to-klima-varainei-i-vathmologia-tis-super-league",
+          "pubDate": "Sun, 25 Jan 2026 19:20:32 +0000",
+          "description": "Δείτε πώς διαμορφώθηκε η βαθμολογία μετά το Παναθηναϊκός - Πανσερραϊκός στο πλαίσιο τις 11η αγωνιστικής της Super League.\nThe post Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός",
+          "link": "https://trifilara.gr/ta-prota-logia-tou-beniteth-meta-to-atromitos-panathinaikos-2/?utm_source=rss&utm_medium=rss&utm_campaign=ta-prota-logia-tou-beniteth-meta-to-atromitos-panathinaikos-2",
+          "pubDate": "Sun, 25 Jan 2026 19:15:06 +0000",
+          "description": "Ο Ράφα Μπενίτεθ μίλησε στην μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» με τον Ατρόμητο.\nThe post Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Ήττα… πλήγμα για τον Παναθηναϊκό!",
@@ -1145,6 +1185,22 @@
           "source": "Panathinaikos24"
         },
         {
+          "title": "Παναθηναϊκός: «Ανακατεμένη» 11άδα κόντρα στον Ατρόμητο!",
+          "link": "https://trifilara.gr/panathinaikos-anakatemeni-11ada-kontra-ston-atromito/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-anakatemeni-11ada-kontra-ston-atromito",
+          "pubDate": "Sun, 25 Jan 2026 16:44:32 +0000",
+          "description": "Η πιθανή ενδεκάδα του Παναθηναϊκού κόντρα στον Ατρόμητο και οι σκέψεις του Ράφα Μπενίτεθ.\nThe post Παναθηναϊκός: «Ανακατεμένη» 11άδα κόντρα στον Ατρόμητο! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "«Καθάρισε» το Μαρούσι, με… σοβαρό δεύτερο ημίχρονο ο Παναθηναϊκός",
+          "link": "https://trifilara.gr/katharise-to-marousi-me-sovaro-deftero-imichrono-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=katharise-to-marousi-me-sovaro-deftero-imichrono-o-panathinaikos",
+          "pubDate": "Sun, 25 Jan 2026 16:40:06 +0000",
+          "description": "Το παιχνίδι στο ΟΑΚΑ ξεκίνησε με τρόπο που κανείς στο στρατόπεδο του Παναθηναϊκού δεν θα ήθελε, καθώς το Μαρούσι μπήκε με ένταση, καθαρό πλάνο και ένα γρήγορο σερί 6-0 που έβαλε από νωρίς πίεση στους «πράσινους». Το «Τριφύλλι» εμφανίστηκε νευρικό, με κακές αποστάσεις στην επίθεση και σημαντική αστοχία, στοιχεία που έδωσαν την ευκαιρία στους φιλοξενούμενους […]\nThe post «Καθάρισε» το Μαρούσι, με… σοβαρό δεύτερο ημίχρονο ο Παναθηναϊκός appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Η ενδεκάδα του Παναθηναϊκού κόντρα στον Ατρόμητο",
           "link": "https://panathinaikos24.gr/2026/01/25/617635/i-endekada-tou-panathinaikou-kontra-ston-atromito/",
           "pubDate": "Sun, 25 Jan 2026 16:31:36 +0000",
@@ -1153,67 +1209,27 @@
           "source": "Panathinaikos24"
         },
         {
+          "title": "Αταμάν: «Σοβαρευτήκαμε – Υπάρχει κούραση» – Όσα είπε για τους τραυματίες",
+          "link": "https://trifilara.gr/ataman-sovareftikame-yparchei-kourasi-osa-eipe-gia-tous-travmaties/?utm_source=rss&utm_medium=rss&utm_campaign=ataman-sovareftikame-yparchei-kourasi-osa-eipe-gia-tous-travmaties",
+          "pubDate": "Sun, 25 Jan 2026 16:31:33 +0000",
+          "description": "Ο Εργκίν Αταμάν μίλησε στην συνέντευξη Τύπου μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού».\nThe post Αταμάν: «Σοβαρευτήκαμε – Υπάρχει κούραση» – Όσα είπε για τους τραυματίες appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Παναθηναϊκός – Μαρούσι 92-81 | HIGHLIGHTS",
+          "link": "https://trifilara.gr/panathinaikos-marousi-92-81-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-92-81-highlights",
+          "pubDate": "Sun, 25 Jan 2026 16:10:38 +0000",
+          "description": "Οι καλύτερες φάσεις και ο τρόπος που ο Παναθηναϊκός πήρε την νίκη κόντρα στο Μαρούσι.\nThe post Παναθηναϊκός – Μαρούσι 92-81 | HIGHLIGHTS appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Τι είπε ο Αταμάν για τις απουσίες του Παναθηναϊκού μετά το ματς κόντρα στο Μαρούσι (video)",
           "link": "https://panathinaikos24.gr/2026/01/25/617631/ti-eipe-o-ataman-gia-tis-apousies-tou-panathinaikou-meta-to-mats-kontra-sto-marousi-video/",
           "pubDate": "Sun, 25 Jan 2026 15:53:08 +0000",
           "description": "Ο κόουτς Αταμάν μίλησε για την κατάσταση της υγείας του Τζέντι Οσμάν, του Κέντρικ Ναν και του Ομέρ Γιουρτσέβεν, ενόψει των επερχόμενων αγωνιστικών υποχρεώσεων του Παναθηναϊκού στην Euroleague.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/image-19.jpg?fit=960%2C540&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Ζήτησε challenge υπέρ του Αμαρουσίου ο Αταμάν και αποθεώθηκε (video)",
-          "link": "https://panathinaikos24.gr/2026/01/25/617627/zitise-challenge-yper-tou-amarousiou-o-ataman-kai-apotheothike-video/",
-          "pubDate": "Sun, 25 Jan 2026 15:50:02 +0000",
-          "description": "Η κίνηση του Τούρκου προπονητή, ο οποίος αποθεώθηκε από τον κόσμο.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/image-18.jpg?fit=960%2C540&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Με Σλούκα «μαέστρο» και Σορτς – Τολιόπουλο διψήφιους ο Παναθηναϊκός κέρδισε άνετα το Μαρούσι",
-          "link": "https://panathinaikos24.gr/2026/01/25/617614/me-slouka-maestro-kai-sorts-toliopoulo-dipsifious-o-panathinaikos-kerdise-aneta-to-marousi/",
-          "pubDate": "Sun, 25 Jan 2026 15:35:21 +0000",
-          "description": "Όταν... πάτησε γκάζι, ο Παναθηναϊκός AKTOR άφησε άνετα πίσω του το Μαρούσι και συνέχισε νικηφόρα στην GBL.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5003739-scaled.jpg?fit=2560%2C1703&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Μαγικό καλάθι του Χουάντσο – Έβαλε απίθανα φάλτσα στην μπάλα! (video)",
-          "link": "https://panathinaikos24.gr/2026/01/25/617609/magiko-kalathi-tou-xouantso-evale-apithana-faltsa-stin-mpala-video/",
-          "pubDate": "Sun, 25 Jan 2026 15:25:54 +0000",
-          "description": "Τρομερός ο Ισπανός.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5003894.jpg?fit=900%2C599&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Έξαλλος ο Αταμάν – Μπήκε στον αγωνιστικό χώρο και διαμαρτυρήθηκε έντονα (video)",
-          "link": "https://panathinaikos24.gr/2026/01/25/617603/eksallos-o-ataman-mpike-ston-agonistiko-xoro-kai-diamartyrithike-entona-video/",
-          "pubDate": "Sun, 25 Jan 2026 14:40:30 +0000",
-          "description": "Μπήκε στον αγωνιστικό χώρο ο Εργκίν Αταμάν.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5003784.jpg?fit=900%2C598&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Απίστευτα πράγματα από την ΕΡΤ: «Έπεσε» η μετάδοση του αγώνα του Παναθηναϊκού",
-          "link": "https://panathinaikos24.gr/2026/01/25/617600/apisteyta-pragmata-apo-tin-ert-epese-i-metadosi-tou-agona-tou-panathinaikou/",
-          "pubDate": "Sun, 25 Jan 2026 14:25:45 +0000",
-          "description": "Για αδιευκρίνιστους μέχρι στιγμής λόγους.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5003780.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Live streaming: Παναθηναϊκός-Μαρούσι",
-          "link": "https://panathinaikos24.gr/2026/01/25/617594/live-streaming-panathinaikos-marousi-3/",
-          "pubDate": "Sun, 25 Jan 2026 13:44:56 +0000",
-          "description": "Παρακολουθήστε live  την εξέλιξη του αγώνα, στο πλαίσιο της 16ης αγωνιστικής της Stoiximan GBL.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/31062.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Γλυφάδα: «Παιδί μου, μην με σκοτώνεις άλλο, πέθανα» – Τα τελευταία λόγια του 80χρονου που τον μαχαίρωσε μέχρι θανάτου ο γιος του",
-          "link": "https://panathinaikos24.gr/2026/01/25/617589/glyfada-paidi-mou-min-me-skotoneis-allo-pethana-ta-teleytaia-logia-tou-80xronou-pou-ton-maxairose-mexri-thanatou-o-gios-tou/",
-          "pubDate": "Sun, 25 Jan 2026 13:10:54 +0000",
-          "description": "Ο δράστης συνελήφθη από τις αρχές για το έγκλημα και φέρεται να είπε στους αστυνομικούς που του πέρασαν χειροπέδες. «Έχω δύο αδέρφια. Θα σκοτώσω και τα αδέλφια του αν με αφήσετε και πάλι ελεύθερο».",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/egklima-glifada-1200x675-1.webp?fit=1200%2C675&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
