@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T04:35:23.864Z",
+  "lastUpdated": "2026-01-26T04:40:30.607Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ισχυρές βροχές σήμερα και κίνδυνος για πλημμύρες: Ποιες περιοχές βρίσκονται σε «κόκκινο συναγερμό», οι δύσκολες ώρες για την Αττική ",
+          "link": "https://www.protothema.gr/greece/article/1763268/ishures-vrohes-simera-me-auximeno-kinduno-plimmurikon-fainomenon-poies-periohes-vriskodai-se-kokkino-sunagermo/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 06:39:00 +0200",
+          "description": "Δεμένα τα πλοία σε Πειραιά και Ραφήνα καθώς και τα δελφίνια στον Αργοσαρωνικό -  Κατηγορίας 3 το επεισόδιο βροχόπτωσης - «Όχι κινδυνολογία, αλλά αυξημένη εγρήγορση», λέει ο Καλλιάνος",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-03/vroxi-eurokinissi-xrwma.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Τρίκαλα: Φωτιά μετά από έκρηξη στη μπισκοτοβιομηχανία «Βιολάντα» – 3 τραυματίες και 4 αγνοούμενοι",
           "link": "https://www.newsit.gr/ellada/trikala-fotia-meta-apo-ekriksi-sti-mpiskotoviomixania-violanta-3-traymaties-kai-4-agnooumenoi/4583385/",
@@ -239,14 +247,6 @@
           "description": "Ένας άνδρας πάλευε με τα κύματα για περισσότερες από 24 ώρες, κατάφερε να διασωθεί και μεταφέρθηκε στη Μάλτα, όμως περίπου 150 άτομα αγνοούνται, εκ των οποίων τα 50 επέβαιναν στη βάρκα με τον διασωθέντα",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/15275730-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Μιχάλης Μητρούσης: ««Τι σαχλαμάρες είναι αυτές; Είναι ανάγκη να πεθάνεις πάνω στο σανίδι;»",
-          "link": "https://www.newsit.gr/lifestyle/mixalis-mitrousis-ti-saxlamares-einai-aytes-einai-anagki-na-pethaneis-pano-sto-sanidi/4582803/",
-          "pubDate": "Sun, 25 Jan 2026 21:59:00 +0000",
-          "description": "Ο Μιχάλης Μητρούσης ξεκαθάρισε ότι δεν ονειρεύεται να πεθάνει επάνω στο θεατρικό σανίδι, ενώ παράλληλα μίλησε με λόγια αγάπης για τη μονάκριβη κόρη του, Μαρίλια ...  \nTo άρθρο Μιχάλης Μητρούσης: ««Τι σαχλαμάρες είναι αυτές; Είναι ανάγκη να πεθάνεις πάνω στο σανίδι;» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mixalis-mitroysis-ndp-1200x693.jpg",
-          "source": "NewsIT"
         }
       ]
     },
