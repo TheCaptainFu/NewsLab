@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T06:40:29.983Z",
+  "lastUpdated": "2026-01-26T06:45:31.501Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,9 +9,33 @@
       "color": "red",
       "articles": [
         {
+          "title": "«Βιολάντα»: Ανασύρσθηκαν 3 σοροί από τη μεγάλη φωτιά στο εργοστάσιο – Αγωνία για τους αγνοούμενους",
+          "link": "https://www.newsit.gr/uncategorized/violanta-anasyrsthikan-3-soroi-apo-ti-megali-fotia-sto-ergostasio-agonia-gia-tous-agnooumenous/4583453/",
+          "pubDate": "Mon, 26 Jan 2026 06:43:53 +0000",
+          "description": "Τραγική κατάληξη είχε η φωτιά που ξέσπασε τα ξημερώματαα της Δευτέρας 26.01.2026, στις εγκαταστάσεις τις μπισκοτοβιομηχανίας Βιολάντα στ Τρίκαλα.  Από την έκρηξη που σημειώθηκε στο ...  \nTo άρθρο «Βιολάντα»: Ανασύρσθηκαν 3 σοροί από τη μεγάλη φωτιά στο εργοστάσιο – Αγωνία για τους αγνοούμενους δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektaktieidisi-newsit-2-2-1200x675.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τρεις γυναίκες νεκρές από τη μεγάλη φωτιά στο εργοστάσιο της Βιολάντα στα Τρίκαλα\n",
+          "link": "https://www.protothema.gr/greece/article/1763319/treis-gunaikes-nekres-apo-ti-megali-fotia-sto-ergostasio-tis-violada-sta-trikala/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 08:42:00 +0200",
+          "description": "",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpeg/files/2024-12-11/xrvma_ektakth_epikairothta_1012242.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Μεγάλη ταλαιπωρία και στα δύο ρεύματα του Κηφισού, ουρές χιλιομέτρων στο Σχιστό - Καθυστερήσεις σε Αττική Οδό και Κηφισίας",
+          "link": "https://www.protothema.gr/greece/article/1763318/megali-talaiporia-kai-sta-duo-reumata-tou-kifisou-oures-hiliometron-sto-shisto-kathusteriseis-se-attiki-odo-kai-kifisias/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 08:42:00 +0200",
+          "description": "Δείτε live την κίνηση στους δρόμους",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-13/mpotiliarisma_kifisos.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
           "title": "Τρίκαλα: Στο κέντρο του εργοστασίου η έκρηξη που προκάλεσε τη φωτιά στη «Βιολάντα», δείτε βίντεο και φωτογραφίες",
           "link": "https://www.protothema.gr/greece/article/1763317/trikala-sto-kedro-tou-ergostasiou-i-ekrixi-pou-prokalese-ti-fotia-sti-violada-deite-video-kai-fotografies/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 08:39:49 +0200",
+          "pubDate": "Mon, 26 Jan 2026 08:39:00 +0200",
           "description": "Όπως φαίνεται από τις εικόνες καταστροφής και τη διασπορά των αντικειμένων που εκσφενδονίστηκαν, η έκρηξη ήταν ισχυρότατη",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/fotia_violanta__3_.jpg",
           "source": "Πρώτο Θέμα"
@@ -129,6 +153,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Μινεσότα Τίμπεργουλβς – Γκόλντεν Στέιτ Γουόριορς 85-111: Μαγικός Κάρι και… περίπατος (vids)",
+          "link": "https://www.in.gr/2026/01/26/sports/basketball/minesota-timpergoulvs-gkolnten-steit-gouoriors-85-111-resital-kari-kai-aneti-niki-gia-tous-polemistes-vids/",
+          "pubDate": "Mon, 26 Jan 2026 08:42:10 +0300",
+          "description": "Οι Γκόλντεν Στέιτ Γουόριορς λύγισαν τους Μινεσότα Τίμπεργουλβς με 111-85, σε μία βραδιά που ο Στεφ Κάρι έδωσε σόου ολοκληρώνοντας το ματς με 26 πόντους, 7 ασίστ και 4 κλεψίματα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/curry-1024x576-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Απίστευτο κι όμως αληθινό: Το νέο Καμπ Νου πλημμύρισε (vid)",
           "link": "https://www.in.gr/2026/01/26/sports/football/apisteyto-ki-omos-alithino-neo-kamp-nou-plimmyrise-vid/",
           "pubDate": "Mon, 26 Jan 2026 08:33:31 +0300",
@@ -189,7 +221,7 @@
           "link": "https://www.in.gr/2026/01/26/greece/trikala-agonia-gia-tis-5-agnooumenes-sto-flegomeno-ergostasio-violanta-okto-atoma-sto-nosokomeio/",
           "pubDate": "Mon, 26 Jan 2026 08:24:05 +0300",
           "description": "Μεγάλη φωτιά ξέσπασε τα ξημερώματα στη γνωστή μπισκοτοβιομηχανία ΒΙΟΛΑΝΤΑ στα Τρίκαλα - 8 τραυματίες, 5 αγνοούμενες.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Capture-178.jpg",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Capture-181.jpg",
           "source": "In.gr"
         },
         {
@@ -214,38 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 05:02:28 +0000",
           "description": "Κι αν έχει βάλει αυτογκόλ αυτή η κυβέρνηση… έστω κι αν είναι εφτάψυχη και σώζεται κάθε φορά ακόμα και στο και πέντε! Στο χιονοδρομικό κέντρο ...  \nTo άρθρο Η αντίδραση Μητσοτάκη στο τρολάρισμα σκιέρ και μια ιστορία από τα παλιά με έναν άλλον πρωθυπουργό ^ μεταρρυθμίσεις Χατζηδάκη στο υπουργικό με …υπεύθυνη δήλωση ^ αυτοκτονικός ιδεασμός στη νέα αριστερά ^ γιατί ο Καιρίδης έδωσε το κομμάτι της πίτας του στην Αντιπολίτευση ^ ποια τραγουδάει «Μάτια μου, εγώ για σένα έχω, έρωτα, που άλλο δεν αντέχω» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kyriakos-mitsotakis4-240102026-1200x753.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Φοίβος Δεληβοριάς: «Threesome» στο Κύτταρο για λίγες παραστάσεις",
-          "link": "https://www.in.gr/2026/01/26/life/music/foivos-delivorias-threesome-sto-kyttaro-gia-liges-parastaseis/",
-          "pubDate": "Mon, 26 Jan 2026 08:00:45 +0300",
-          "description": "Ο Φοίβος Δεληβοριάς τα Σάββατα: 24 και 31 Ιανουαρίου και στις 7, 14, 21 Φεβρουαρίου 2026.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/foivos-1.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ξενοδοχεία χωρίς πόρτα στο μπάνιο: μινιμαλισμός ή οικονομικός συμβιβασμός;",
-          "link": "https://www.in.gr/2026/01/26/go-fun/perierga/ksenodoxeia-xoris-porta-sto-mpanio-minimalismos-oikonomikos-symvivasmos/",
-          "pubDate": "Mon, 26 Jan 2026 08:00:15 +0300",
-          "description": "Γιατί ολοένα και περισσότερα ξενοδοχεία καταργούν την πόρτα του μπάνιου, ποιο είναι το πραγματικό κόστος πίσω από την απόφαση και πώς γεννήθηκε το κίνημα αντίδρασης “BringBackDoors”",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/porta.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Super League: Ο πρωτοπόρος Ολυμπιακός, ο «λίγος» Παναθηναϊκός και η «αλύγιστη» ΑΕΚ",
-          "link": "https://www.newsit.gr/athlitika/super-league-o-protoporos-olympiakos-o-ligos-panathinaikos-kai-i-alygisti-aek/4583278/",
-          "pubDate": "Mon, 26 Jan 2026 05:00:00 +0000",
-          "description": "Ο Παναθηναϊκός ήταν ο μεγάλος χαμένος και της 18ης αγωνιστικής της Super League, αφού το 0-0 στην έδρα του Ατρομήτου, τον άφησε 9 βαθμούς πίσω ...  \nTo άρθρο Super League: Ο πρωτοπόρος Ολυμπιακός, ο «λίγος» Παναθηναϊκός και η «αλύγιστη» ΑΕΚ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zarury-1-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "To stress test για τον Κάθετο Διάδρομο ^ Πήραν για τα καλά μπρος οι ελεγκτικές μηχανές ^ Θα γίνει ξανά «της μόδας» η χρυσή λίρα; ^ Nέες ανατιμήσεις στα τρόφιμα συντηρούν την κούρσα του πληθωρισμού ^ Νέες εξαγορές ετοιμάζει ο Μασούτης ^ Ενεργειακό όφελος 750 εκατ. ευρώ για το εμπορικό ισοζύγιο ^ Το ασήμι, ο ήλιος και στο βάθος φωτοβολταϊκά",
-          "link": "https://www.newsit.gr/blogs/apocryptografos/to-stress-test-gia-ton-katheto-diadromo-piran-gia-ta-kala-mpros-oi-elegktikes-mixanes-tha-ginei-ksana-tis-modas-i-xrysi-lira-nees-anatimiseis-sta-trofima-syntiroun-tin-koursa-tou-plithorismou-nees-eks/4583229/",
-          "pubDate": "Mon, 26 Jan 2026 05:00:00 +0000",
-          "description": "To stress test για τον Κάθετο Διάδρομο Με υψηλές ταρίφες, έντονο ανταγωνισμό, ρυθμιστικά κενά αλλά και τη ζήτηση για φυσικό αέριο να αγγίζει κόκκινο σε ...  \nTo άρθρο To stress test για τον Κάθετο Διάδρομο ^ Πήραν για τα καλά μπρος οι ελεγκτικές μηχανές ^ Θα γίνει ξανά «της μόδας» η χρυσή λίρα; ^ Nέες ανατιμήσεις στα τρόφιμα συντηρούν την κούρσα του πληθωρισμού ^ Νέες εξαγορές ετοιμάζει ο Μασούτης ^ Ενεργειακό όφελος 750 εκατ. ευρώ για το εμπορικό ισοζύγιο ^ Το ασήμι, ο ήλιος και στο βάθος φωτοβολταϊκά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1358631264-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
