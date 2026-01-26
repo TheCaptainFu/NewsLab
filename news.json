@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T15:10:28.579Z",
+  "lastUpdated": "2026-01-26T15:15:28.123Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,30 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Διακοπή λειτουργίας του The Birth Center, η ανάρτηση της Εριέττας Κούρκουλου Λάτση",
+          "link": "https://www.protothema.gr/greece/article/1763665/diakopi-leitourgias-tou-the-birth-center-i-anartisi-tis-eriettas-kourkoulou-latsi/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 17:14:05 +0200",
+          "description": "Η κυρία Κούρκουλου γνωστοποίησε πως «για το προσεχές διάστημα, το Κέντρο δεν θα πραγματοποιεί φυσικούς τοκετούς στις εγκαταστάσεις του»",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/maketa-kourkoulou.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Συνελήφθη μετά από καταδίωξη 20χρονος στο Χαϊδάρι με όπλο και γεμιστήρα ",
+          "link": "https://www.protothema.gr/greece/article/1763662/sunelifthi-meta-apo-katadioxi-20hronos-sto-haidari-me-oplo-kai-gemistira/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 17:10:00 +0200",
+          "description": "Στη δικογραφία περιλαμβάνεται και έτερος δράστης κατηγορούμενος για απείθεια και επικίνδυνη οδήγηση",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/oplo-20xronos-xaidari.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Ο Τραμπ στέλνει τον «τσάρο των συνόρων» Τομ Χόμαν στη Μινεσότα – «Είναι σκληρός και δίκαιος»",
+          "link": "https://www.newsit.gr/kosmos/o-tramp-stelnei-ton-tsaro-ton-synoron-tom-xoman-sti-minesota-einai-skliros-kai-dikaios/4583997/",
+          "pubDate": "Mon, 26 Jan 2026 15:09:43 +0000",
+          "description": "Τον «τσάρο» των συνόρων, Τομ Χόμαν στέλνει στη Μινεσότα ο Αμερικανός πρόεδρος, Ντόναλντ Τραμπ, ο οποίος πιέζεται έντονα ακόμη και από Ρεπουμπλικάνους βουλευτές και γερουσιαστές ...  \nTo άρθρο Ο Τραμπ στέλνει τον «τσάρο των συνόρων» Τομ Χόμαν στη Μινεσότα – «Είναι σκληρός και δίκαιος» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tomhoman-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Νάξος: Οι εντυπωσιακές προσγειώσεις αεροπλάνων παρά τους θυελλώδεις ανέμους",
           "link": "https://www.newsit.gr/ellada/naksos-oi-entyposiakes-prosgeioseis-aeroplanon-para-tous-thyellodeis-anemous/4583995/",
@@ -222,30 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 14:07:29 +0000",
           "description": "Ολιγόλεπτη συνομιλία είχαν ο πρωθυπουργός, Κυριάκος Μητσοτάκης, και η υπουργός Τουρισμού,  Όλγα Κεφαλογιάννη, μετά την ολοκλήρωση της συνεδρίασης του Υπουργικού Συμβουλίου στο Μέγαρο Μαξίμου, το ...  \nTo άρθρο Συνομιλία Μητσοτάκη και Κεφαλογιάννη μετά το Υπουργικό, με φόντο τις αντιδράσεις για τη συνεπιμέλεια δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mitsotakis-kefalogianni-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η γη της ελιάς: Επικίνδυνα μυστικά βγαίνουν στο φως",
-          "link": "https://www.in.gr/2026/01/26/plus/medianews/gi-tis-elias-epikindyna-mystika-vgainoun-sto-fos/",
-          "pubDate": "Mon, 26 Jan 2026 17:06:25 +0300",
-          "description": "Όλα όσα θα δούμε στο νέο επεισόδιο της δραματικής σειράς Η γη της ελιάς. Απόψε, στις 22.20, στο MEGA.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/H-gi-tis-elias_E_26.01.2026-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Αποσωλήνωση της 6χρονης με εγκεφαλίτιδα επιχειρούν οι γιατροί στη ΜΕΘ του Παίδων – «Σαρώνει» η γρίπη στα παιδιά",
-          "link": "https://www.newsit.gr/ellada/aposolinosi-tis-6xronis-me-egkefalitida-epixeiroun-oi-giatroi-sti-meth-tou-paidon-saronei-i-gripi-sta-paidia/4583915/",
-          "pubDate": "Mon, 26 Jan 2026 14:05:46 +0000",
-          "description": "Σε σταθερή -αλλά ακόμη σοβαρή- κατάσταση εξακολουθεί να νοσηλεύεται διασωληνωμένο στη ΜΕΘ του Νοσοκομείου Παίδων το 6χρονο κορίτσι, το οποίο παρουσίασε βαριά επιπλοκή γρίπης. Η ...  \nTo άρθρο Αποσωλήνωση της 6χρονης με εγκεφαλίτιδα επιχειρούν οι γιατροί στη ΜΕΘ του Παίδων – «Σαρώνει» η γρίπη στα παιδιά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nosokomeio-paidon-meth.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Βιολάντα: Τίποτα δεν θα είναι πια το ίδιο",
-          "link": "https://www.newsit.gr/ellada/violanta-tipota-den-tha-einai-pia-to-idio/4583901/",
-          "pubDate": "Mon, 26 Jan 2026 14:05:35 +0000",
-          "description": "Οι επιχειρήσεις, μικρές ή μεγάλες είναι άνθρωποι. Είναι οι άνθρωποί τους που περνούν το μεγαλύτερο μέρος της ημέρας εκεί, που κοπιάζουν, που συζητούν τα προβλήματά ...  \nTo άρθρο Βιολάντα: Τίποτα δεν θα είναι πια το ίδιο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta1-1-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Αυτή η πόλη της Μέσης Ανατολής μόλις ανακηρύχθηκε τουριστική πρωτεύουσα για το 2026",
+          "link": "http://gr.euronews.com/travel/2026/01/26/this-middle-eastern-city-has-just-been-named-a-tourism-capital-for-2026",
+          "pubDate": "Mon, 26 Jan 2026 16:06:15 +0100",
+          "description": "Η πρωτεύουσα του Κατάρ απέκτησε τον τίτλο Πρωτεύουσα Τουρισμού του GCC από την Αλ Αΐν στα Ηνωμένα Αραβικά Εμιράτα.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Ε.Ε.:«Η συμφωνία με την Ινδία μητέρα όλων των εμπορικών συμφωνιών» δήλωσε στο euronews o Σέφτσοβιτς ",
           "link": "http://gr.euronews.com/my-europe/2026/01/26/ee-i-simfonia-me-tin-india-mitera-olon-ton-emporikon-simfonion-sto-eurones-o-seftsovits",
           "pubDate": "Mon, 26 Jan 2026 15:46:25 +0100",
@@ -731,14 +739,6 @@
           "description": "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/780d/live/ffabd240-fa9f-11f0-b385-5f48925de19a.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Χιονοθύελλα στις ΗΠΑ μετατρέπει τους λόφους σε πίστες για έλκηθρο",
-          "link": "http://gr.euronews.com/video/2026/01/26/us-winter-storm-turns-hills-into-playgrounds-for-sledding",
-          "pubDate": "Mon, 26 Jan 2026 11:09:06 +0100",
-          "description": "Οικογένειες ανεβαίνουν στους λόφους για μια μέρα με έλκηθρα και χιονοπόλεμο, αξιοποιώντας στο έπακρο τη χιονόπτωση και τον χειμωνιάτικο καιρό.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Άρης: Η ΚΑΕ έστειλε βίντεο διαμαρτυρίας στην ΕΟΚ/ΚΕΔ",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510356/aris-i-kae-esteile-binteo-diamartyrias-stin-eokked",
+          "pubDate": "Mon, 26 Jan 2026 17:11:17 +0200",
+          "description": "Μετά την ανακοίνωση, η ΚΑΕ Άρης απέστειλε και οπτικό υλικό στην ΕΟΚ/ΚΕΔ διαμαρτυρόμενη για τη διαιτησία του αγώνα με τον Προμηθέα Πατρών.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6110867_3_4_1.jpg?itok=mMHLppEE",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άλεξ Χόνολντ: Ο άνθρωπος που ανέβηκε στον ουρανοξύστη Taipei 101, δεν μπορεί να νιώσει φόβο",
+          "link": "https://www.gazzetta.gr/plus/2510355/alex-honolnt-o-anthropos-poy-anebike-ston-oyranoxysti-taipei-101-den-mporei-na-niosei",
+          "pubDate": "Mon, 26 Jan 2026 17:11:00 +0200",
+          "description": "Το 2016, ο τότε 30χρονος Χόνολντ υποβλήθηκε σε λειτουργική μαγνητική τομογραφία (fMRI), καθώς οι ερευνητές ήθελαν να μάθουν εάν ο εγκέφαλός του αντιδρά διαφορετικά από τους περισσότερους ανθρώπους σε εικόνες που προκαλούν φόβο",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bomb.jpg?itok=SQoDAH3V",
+          "source": "Gazzetta"
+        },
         {
           "title": "Παναθηναϊκός: Ελεύθερος ο Φίκαϊ, συνεχίζει στην Γκόρνικ",
           "link": "https://www.gazzetta.gr/football/superleague/2510354/panathinaikos-eleytheros-o-fikai-synehizei-stin-gkornik",
@@ -968,22 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 15:44:48 +0200",
           "description": "Ο Παναθηναϊκός ανακοίνωσε την απόκτηση της Ελληνίδας ακραίας, Όλγας Στράντζαλη, στο πλαίσιο της ενίσχυσης του τμήματος γυναικών στο βόλεϊ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/strantzali.jpg?itok=u8660cWr",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Ξανά εκτός ο Καλάμπρια, μαγνητική θα κάνει ο Τσιριβέγια",
-          "link": "https://www.gazzetta.gr/football/superleague/2510333/panathinaikos-xana-ektos-o-kalampria-magnitiki-tha-kanei-o-tsiribegia",
-          "pubDate": "Mon, 26 Jan 2026 15:44:20 +0200",
-          "description": "Ο Παναθηναϊκός επέστρεψε στο Κορωπί για να ξεκινήσει την προετοιμασία του για την Ρόμα έχοντας τέσσερις απόντες. Σε μαγνητική θα υποβληθεί ο Τσιριβέγια.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/chirivella_intime_2.jpg?itok=ZpG4ndIS",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Οικογένεια χάρισε αγροτεμάχιο σε ολόκληρο χωριό: «Να μοιραστεί σε όλους»",
-          "link": "https://www.gazzetta.gr/plus/2510311/oikogeneia-harise-agrotemahio-se-olokliro-horio-na-moirastei-se-oloys",
-          "pubDate": "Mon, 26 Jan 2026 15:38:05 +0200",
-          "description": "Μια οικογένεια στη δυτική Γαλλία δώρισε ένα μεγάλο αγροτεμάχιο στον δήμο, με μοναδικό όρο να μετατραπεί σε κοινόχρηστο οπωρώνα και να ωφεληθεί ολόκληρη η κοινότητα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/agroktima.jpg?itok=gcXjs0jE",
           "source": "Gazzetta"
         }
       ]
