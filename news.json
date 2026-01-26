@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T20:20:26.800Z",
+  "lastUpdated": "2026-01-26T20:25:31.843Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,18 @@
       "color": "red",
       "articles": [
         {
+          "title": "Ψάχνουν το πελατολόγιο του σουβλατζίδικου στη Δραπετσώνα που μαζί με πιτόγυρα πούλαγε και ναρκωτικά",
+          "link": "https://www.newsit.gr/ellada/psaxnoun-to-pelatologio-tou-souvlatzidikou-sti-drapetsona-pou-mazi-me-pitogyra-poulage-kai-narkotika/4584194/",
+          "pubDate": "Mon, 26 Jan 2026 20:23:13 +0000",
+          "description": "Κανείς δε μπορούσε να φανταστεί, ότι το γνωστό σουβλατζίδικο της Δραπετσώνας θα απασχολούσε τη δημοσιότητα, όχι για τους φημισμένους μεζέδες του αλλά… για υπόθεση διακίνησης ...  \nTo άρθρο Ψάχνουν το πελατολόγιο του σουβλατζίδικου στη Δραπετσώνα που μαζί με πιτόγυρα πούλαγε και ναρκωτικά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/narkotika.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Συνάντηση Μητσοτάκη με κτηνοτρόφους για την ευλογιά στο Μέγαρο Μαξίμου την Τρίτη",
           "link": "https://www.newsit.gr/politikh/synantisi-mitsotaki-me-ktinotrofous-gia-tin-eylogia-sto-megaro-maksimou-tin-triti/4584222/",
           "pubDate": "Mon, 26 Jan 2026 20:18:27 +0000",
-          "description": "Για τις 10 το πρωί της Τρίτης (27.01.2026) ορίστηκε η σύσκεψη του Πρωθυπουργού, Κυριάκου Μητσοτάκη, στο Μέγαρο Μαξίμου με κτηνοτρόφους, με αντικείμενο την εφαρμογή των ...  \nTo άρθρο Συνάντηση Μητσοτάκη με κτηνοτρόφους για την ευλογιά στο Μέγαρο Μαξίμου την Τρίτη δημοσιεύτηκε στο NewsIT .",
+          "description": "Για τις 10 το πρωί της Τρίτης (27.01.2026) ορίστηκε η σύσκεψη του Πρωθυπουργού, Κυριάκου Μητσοτάκη, στο Μέγαρο Μαξίμου με κτηνοτρόφους. Αντικείμενο είναι η εφαρμογή των ...  \nTo άρθρο Συνάντηση Μητσοτάκη με κτηνοτρόφους για την ευλογιά στο Μέγαρο Μαξίμου την Τρίτη δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kiriakos-mitsotakis-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -129,8 +137,24 @@
           "source": "NewsIT"
         },
         {
+          "title": "Απίστευτη δύναμη από τον Πολονάρα: «Θα επιστρέψω στα γήπεδα μέχρι τις 20 Μαρτίου – Τίποτα δεν με τρομάζει»",
+          "link": "https://www.in.gr/2026/01/26/sports/basketball/204152159/",
+          "pubDate": "Mon, 26 Jan 2026 22:24:02 +0300",
+          "description": "Ο Ακίλε Πολονάρα συνεχίζει να δίνει μάχη με τη λευχαιμία, ωστόσο η υγεία του έχει βελτιωθεί τόσο πολύ που ο ίδιος έδωσε υπόσχεση ότι στις 20 Μαρτίου θα είναι σε θέση να επιστρέψει στις προπονήσεις!",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/achille-polonara-768x554.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Στέλαν Σκάρσγκαρντ: «Μην προσπαθείς να είσαι τέλειος. Πες στα παιδιά σου: συγγνώμη, είμαι άχρηστος, αλλά σας αγαπώ»",
+          "link": "https://www.in.gr/2026/01/26/go-fun/fizz/stelan-skarsgkarnt-min-prospatheis-na-eisai-teleios-pes-sta-paidia-sou-syggnomi-eimai-axristos-alla-sas-agapo/",
+          "pubDate": "Mon, 26 Jan 2026 22:20:36 +0300",
+          "description": "Ο Στέλαν Σκάρσγκαρντ μιλά χωρίς φίλτρα για τη γονεϊκότητα, απορρίπτοντας την ιδέα της τελειότητας: αυτό που χρειάζονται τα παιδιά, λέει, δεν είναι άψογοι γονείς, αλλά ειλικρίνεια, λάθη και αγάπη.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/stln-768x490.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ζαχάροβα: Η απαγόρευση του ρωσικού φυσικού αερίου θα κοστίσει στους Ευρωπαίους την ελευθερία τους",
-          "link": "https://www.in.gr/2026/01/26/uncategorized/zaxarova-apagoreysi-tou-rosikou-fysikou-aeriou-tha-kostisei-stous-eyropaious-tin-eleytheria-tous/",
+          "link": "https://www.in.gr/2026/01/26/world/zaxarova-apagoreysi-tou-rosikou-fysikou-aeriou-tha-kostisei-stous-eyropaious-tin-eleytheria-tous/",
           "pubDate": "Mon, 26 Jan 2026 22:16:58 +0300",
           "description": "Η εκπρόσωπος Τύπου του ρωσικού υπουργείου Εξωτερικών, Μαρία Ζαχάροβα, σχολίασε την απόφαση της ΕΕ να απαγορεύσει πλήρως τις προμήθειες ρωσικού αερίου από το 2027.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-20T102144Z_279577315_RC2W4JAV029O_RTRMADP_5_RUSSIA-LAVROV-768x475.jpg",
@@ -223,30 +247,6 @@
           "description": "Μεγάλες ζημιές στο αυτοκίνητο",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/troxaio-exo.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Μινεάπολη: Ο θάνατος του Άλεξ Πρίτι ως απόδειξη του τι συμβαίνει όταν δίνεται ασυλία στις δυνάμεις καταστολής",
-          "link": "https://www.in.gr/2026/01/26/world/mineapoli-o-thanatos-tou-aleks-priti-os-apodeiksi-tou-ti-symvainei-otan-dinetai-asylia-stis-dynameis-katastolis/",
-          "pubDate": "Mon, 26 Jan 2026 22:00:02 +0300",
-          "description": "Η επίσημη εκδοχή της δολοφονίας ενός ακόμη ανθρώπου στη Μινεάπολη είναι ότι ο πράκτορας που πυροβόλησε «βρισκόταν σε άμυνα». Οι μαρτυρίες το διαψεύδουν. Αλλά οι πράκτορές απολαμβάνουν ατιμωρησία.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T031457Z_1726731742_RC2V7JA45R7E_RTRMADP_5_USA-TRUMP-MINNESOTA-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Η Ολομέλεια των Δικηγορικών Συλλόγων ζητά την άμεση κατάργηση της διάταξης για την συνεπιμέλεια των τέκνων",
-          "link": "https://www.protothema.gr/greece/article/1763797/i-olomeleia-ton-dikigorikon-sullogon-zita-tin-amesi-katargisi-tis-diataxis-gia-tin-sunepimeleia-ton-teknon/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 21:00:00 +0200",
-          "description": "Οι Κώδικες, θα πρέπει να έχουν διαχρονική ισχύ και η όποια τροποποίησή τους θα πρέπει να γίνεται με ιδιαίτερη φειδώ και μετά από πλήρη διαβούλευση, επισημαίνουν οι πρόεδροι των δικηγορικών συλλόγων",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-04-28/dikaiosini.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ευλαμπία Ρέβη: Η πρώτη φωτογραφία μέσα από το μαιευτήριο με τα δώρα του νεογέννητου γιου της",
-          "link": "https://www.newsit.gr/lifestyle/eylampia-revi-i-proti-fotografia-mesa-apo-to-maieytirio-me-ta-dora-tou-neogennitou-giou-tis/4584176/",
-          "pubDate": "Mon, 26 Jan 2026 18:56:22 +0000",
-          "description": "Μητέρα για πρώτη φορά έγινε πρόσφατα η Ευλαμπία Ρέβη κι από εκείνη τη στιγμή η ζωή της γνωστής δημοσιογράφου καθώς και του συζύγου της, Σωτήρη ...  \nTo άρθρο Ευλαμπία Ρέβη: Η πρώτη φωτογραφία μέσα από το μαιευτήριο με τα δώρα του νεογέννητου γιου της δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/evlampia-revi-1200x749.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
+          "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 20:22:09 GMT",
+          "description": "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2763/live/edf25770-faf1-11f0-adda-0755af0bac4f.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Μαρκ Ρούτε: Η Ευρώπη δεν μπορεί να υπερασπιστεί τον εαυτό της χωρίς τις ΗΠΑ",
           "link": "http://gr.euronews.com/my-europe/2026/01/26/mark-royte-h-eyrwph-den-mporei-na-yperaspistei-ton-eayto-ths-xwris-tis-hpa",
           "pubDate": "Mon, 26 Jan 2026 21:12:15 +0100",
@@ -731,14 +739,6 @@
           "description": "Τα υπεράκτια αιολικά πάρκα θα συνδεθούν σύντομα με πολλές χώρες σε όλη την Ευρώπη, χάρη σε μια ιστορική διακήρυξη για διασυνοριακά δίκτυα.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Greece biscuit factory fire leaves at least four dead",
-          "link": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 12:48:17 GMT",
-          "description": "A search is continuing for one person still missing after a blaze broke out at a biscuit factory near the city of Trikala.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f0/live/86816ff0-fa9b-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Στο «Ράδιο Αρβύλα» είδαμε μια διαφήμιση που δεν έπρεπε να πετύχει, αλλά πέτυχε",
+          "link": "https://www.gazzetta.gr/plus/2510428/sto-radio-arbyla-eidame-mia-diafimisi-poy-den-eprepe-na-petyhei-alla-petyhe",
+          "pubDate": "Mon, 26 Jan 2026 22:22:50 +0200",
+          "description": "Μια μικρή διαφήμιση, φτιαγμένη χωρίς μεγάλες προσδοκίες, κατάφερε να μείνει στη μνήμη περισσότερο από όσο θα περίμενε κανείς.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/diafimisi.jpg?itok=EOaWSDm7",
+          "source": "Gazzetta"
+        },
         {
           "title": "Τι σημαίνει για τους ιδιοκτήτες αυθαιρέτων η μεταρρύθμιση στις πολεοδομίες",
           "link": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
@@ -977,14 +985,6 @@
           "description": "Εκτός από την κρίσιμη αναμέτρηση του Ολυμπιακού με τον Άγιαξ φαίνεται πως θα είναι ο Ρόμαν Γιάρεμτσουκ. Ο Ουκρανός επιθετικός αντιμετωπίζει πρόβλημα τραυματισμού στη γάμπα ...  \nTo άρθρο Ολυμπιακός: Πρόβλημα με Ρομάν Γιάρεμτσουκ ενόψει Άγιαξ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roman-giaremtsoyk-eurokinissi-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ενα «flash back» που εξηγεί τα πάντα για το νέο γήπεδο του ΠΑΟΚ",
-          "link": "https://www.gazzetta.gr/football/superleague/2510392/ena-flash-back-poy-exigei-ta-panta-gia-neo-gipedo-toy-paok",
-          "pubDate": "Mon, 26 Jan 2026 20:00:37 +0200",
-          "description": "Ο Σταύρος Σουντουλίδης κάνει ένα γρήγορο «flash back» και θυμάται όλα όσα προηγήθηκαν μέχρι τη σημερινή ιστορική μέρα για τον ΠΑΟΚ και το νέο γήπεδο στην Τούμπα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_toumba_04_0.jpg?itok=g4hI3r_d",
-          "source": "Gazzetta"
         }
       ]
     },
