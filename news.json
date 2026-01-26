@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T12:00:41.908Z",
+  "lastUpdated": "2026-01-26T12:05:26.412Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τραγωδία στο εργοστάσιο «Βιολάντα»: Τα συλλυπητήρια μηνύματα κυβέρνησης και αντιπολίτευσης – «Είμαστε όλοι συγκλονισμένοι»",
+          "link": "https://www.newsit.gr/politikh/tragodia-sto-ergostasio-violanta-ta-syllypitiria-minymata-kyvernisis-kai-antipoliteysis-eimaste-oloi-sygklonismenoi/4583790/",
+          "pubDate": "Mon, 26 Jan 2026 12:03:46 +0000",
+          "description": "Βαρύ είναι το κλίμα στον πολιτικό κόσμο μετά την τραγωδία που σημειώθηκε τα ξημερώματα της Δευτέρας (26.01.2026) στο εργοστάσιο «Βιολάντα» στα Τρίκαλα, όπου τέσσερις εργαζόμενες ...  \nTo άρθρο Τραγωδία στο εργοστάσιο «Βιολάντα»: Τα συλλυπητήρια μηνύματα κυβέρνησης και αντιπολίτευσης – «Είμαστε όλοι συγκλονισμένοι» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta5-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Μητροπολίτης Δέρκων Απόστολος: Ανάδελφη και ασεβής η επίθεση της Ρωσίας στον Οικουμενικό Πατριάρχη Βαρθολομαίο",
+          "link": "https://www.protothema.gr/greece/article/1763542/mitropolitis-derkon-apostolos-anadelfi-kai-asevis-i-epithesi-tis-rosias-ston-oikoumeniko-patriarhi-vartholomaio/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 14:00:43 +0200",
+          "description": "Σχολιάζοντας τις υβριστικές κατηγορίες εναντίον του Πατριάρχη, σημειώνει αρχικά πως «Δεν είναι η πρώτη φορά που η Μόσχα, με βραχίονα το βαθύ κράτος και τη μυστική SVR, επιτίθεται, ανάδελφα, ασεβώς και απρεπώς κατά του Οικουμενικού Πατριάρχη»",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-05-09/vartholomaios.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Grand Hotel – επόμενο επεισόδιο: Η Κυβέλη εκβιάζει τον Ρήγα",
           "link": "https://www.newsit.gr/media/grand-hotel-epomeno-epeisodio-i-kyveli-ekviazei-ton-riga/4583803/",
@@ -161,9 +177,9 @@
           "source": "NewsIT"
         },
         {
-          "title": "Άσκηση ετοιμότητας με τίτλο «ατύχημα αεροσκάφους στον αερολιμένα» αύριο στο Ελευθέριος Βενιζέλος",
+          "title": "Άσκηση Ετοιμότητας αύριο στο Ελευθέριος Βενιζέλος - Δεν θα επηρεάσει τη λειτουργία του αεροδρομίου",
           "link": "https://www.protothema.gr/greece/article/1763524/askisi-etoimotitas-me-titlo-atuhima-aeroskafous-ston-aerolimena-aurio-sto-eleutherios-venizelos/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 13:29:12 +0200",
+          "pubDate": "Mon, 26 Jan 2026 13:29:00 +0200",
           "description": "Η άσκηση ετοιμότητας ευρείας κλίμακας θα πραγματοποιηθεί από τις 10:30 έως και τις 13:00, ενώ δεν θα επηρεαστεί η λειτουργία του αεροδρομίου",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-29/venizelos1.jpg",
           "source": "Πρώτο Θέμα"
@@ -230,22 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 13:04:16 +0200",
           "description": "Ο κατηγορούμενος παραπέμφθηκε σε ανακριτή από τον οποίο αναμένεται να ζητήσει και να λάβει προθεσμία",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/glifada-dolofonia.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "ΕΛΣΤΑΤ: Αύξηση 1,9% σημείωσε το διαθέσιμο εισόδημα των νοικοκυριών",
-          "link": "https://www.newsit.gr/oikonomia/finance/elstat-ayksisi-1-9-simeiose-to-diathesimo-eisodima-ton-noikokyrion/4583723/",
-          "pubDate": "Mon, 26 Jan 2026 11:04:06 +0000",
-          "description": "Αύξηση 1,9% κατέγραψε το διαθέσιμο εισόδημα των νοικοκυριών και των μη κερδοσκοπικών ιδρυμάτων που τα εξυπηρετούν το γ’ τρίμηνο του 2025, σε σύγκριση με το ...  \nTo άρθρο ΕΛΣΤΑΤ: Αύξηση 1,9% σημείωσε το διαθέσιμο εισόδημα των νοικοκυριών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-472485878-2-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Εντυπωσιακό ουράνιο τόξο στον ουρανό του Ηρακλείου, δείτε φωτογραφία ",
-          "link": "https://www.protothema.gr/greece/article/1763499/eduposiako-ouranio-toxo-ston-ourano-tou-irakleiou-deite-fotografia/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 13:03:28 +0200",
-          "description": "Το φαινόμενο εμφανίστηκε λίγο μετά τις βροχές και έγινε ορατό από μεγάλο μέρος της πόλης",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/ouranio-tokso-irakleio-xroma.jpg",
           "source": "Πρώτο Θέμα"
         }
       ]
