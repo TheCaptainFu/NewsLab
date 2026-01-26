@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T18:52:52.638Z",
+  "lastUpdated": "2026-01-26T18:55:26.446Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ακίλε Πολονάρα: «Μετά από όσα έχω περάσει, τίποτα δεν με τρομάζει πια, ήμουν στα πρόθυρα του θανάτου»",
+          "link": "https://www.newsit.gr/athlitika/akile-polonara-meta-apo-osa-exo-perasei-tipota-den-me-tromazei-pia-imoun-sta-prothyra-tou-thanatou/4584178/",
+          "pubDate": "Mon, 26 Jan 2026 18:52:33 +0000",
+          "description": "Ο Ακίλε Πολονάρα συνεχίζει να συγκινεί με τη “μάχη” που δίνει για την υγεία του, αλλά και να στέλνει μήνυμα αισιοδοξίας σε όλον τον κόσμο. ...  \nTo άρθρο Ακίλε Πολονάρα: «Μετά από όσα έχω περάσει, τίποτα δεν με τρομάζει πια, ήμουν στα πρόθυρα του θανάτου» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/polopnara-grab-1200x747.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Καιρός: Έρχονται ακόμη δύο κύματα κακοκαιρίας μέσα στην εβδομάδα – Ισχυρές καταιγίδες και θυελλώδεις άνεμοι",
           "link": "https://www.newsit.gr/ellada/kairos-erxontai-akomi-dyo-kymata-kakokairias-mesa-stin-evdomada-isxyres-kataigides-kai-thyellodeis-anemoi/4584167/",
@@ -239,14 +247,6 @@
           "description": "Ο Χριστόφορος ασχολούνταν επαγγελματικά με την μαγειρική",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2023-01-12/dorea-organon.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Καιρός αύριο: Βροχές και καταιγίδες μέχρι το απόγευμα – Χιονοπτώσεις στα ορεινά, ισχυροί άνεμοι στο Αιγαίο",
-          "link": "https://www.newsit.gr/ellada/kairos-ayrio-vroxes-kai-kataigides-mexri-to-apogeyma-xionoptoseis-sta-oreina-isxyroi-anemoi-sto-aigaio/4583880/",
-          "pubDate": "Mon, 26 Jan 2026 17:09:00 +0000",
-          "description": "Η κακοκαιρία θα «χτυπήσει» τη χώρα μας και αύριο (27/1/2026), σύμφωνα με την ΕΜΥ, αφού βροχές και καταιγίδες θα επικρατήσουν μέχρι τις απογευματινές ώρες και ...  \nTo άρθρο Καιρός αύριο: Βροχές και καταιγίδες μέχρι το απόγευμα – Χιονοπτώσεις στα ορεινά, ισχυροί άνεμοι στο Αιγαίο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos-92-1200x798.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ακίλε Πολονάρα: «Μετά από όσα έχω περάσει, τίποτα δεν με τρομάζει πια, ήμουν στα πρόθυρα του θανάτου»",
+          "link": "https://www.newsit.gr/athlitika/akile-polonara-meta-apo-osa-exo-perasei-tipota-den-me-tromazei-pia-imoun-sta-prothyra-tou-thanatou/4584178/",
+          "pubDate": "Mon, 26 Jan 2026 18:52:33 +0000",
+          "description": "Ο Ακίλε Πολονάρα συνεχίζει να συγκινεί με τη “μάχη” που δίνει για την υγεία του, αλλά και να στέλνει μήνυμα αισιοδοξίας σε όλον τον κόσμο. ...  \nTo άρθρο Ακίλε Πολονάρα: «Μετά από όσα έχω περάσει, τίποτα δεν με τρομάζει πια, ήμουν στα πρόθυρα του θανάτου» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/polopnara-grab-1200x747.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ολυμπιακός: Χάνει Άγιαξ ο Γιάρεμτσουκ",
           "link": "https://www.gazzetta.gr/football/champions-league/2510413/olympiakos-hanei-agiax-o-giaremtsoyk",
           "pubDate": "Mon, 26 Jan 2026 20:49:03 +0200",
@@ -977,14 +985,6 @@
           "description": "Η περίπτωση του 28χρονου δεξιού μπακ, Χόρχε Σάντσες, επανέρχεται στα μετεγγραφικά δημοσιεύματα που αφορούν τον ΠΑΟΚ, με τα ΜΜΕ από το Μεξικό να σημειώνουν πως ...  \nTo άρθρο «Ο ΠΑΟΚ ετοιμάζει νέα πρόταση για τον Χόρχε Σάντσες» γράφουν στο Μεξικό δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jorge-sanchez-ap.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Φλαμένγκο: Συμφώνησε με τη Γουέστ Χαμ για την απόκτηση του Πακετά",
-          "link": "https://www.gazzetta.gr/football/2510380/flamengko-symfonise-me-ti-goyest-ham-gia-tin-apoktisi-toy-paketa",
-          "pubDate": "Mon, 26 Jan 2026 18:48:00 +0200",
-          "description": "Τη φανέλα της Φλαμένγκο προβάρει ο Λούκας Πακετά, καθώς οι Βραζιλιάνοι ήρθαν σε συμφωνία με τη Γουέστ Χαμ για τη μεταγραφή του στα 42 εκατομμύρια ευρώ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lucas_paqueta.jpg?itok=swvo52rY",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Διπλή αναβάθμιση από την Apple: Τι φέρνουν σήμερα τα iOS 26.2.1 και watchOS 26.2.1",
+          "link": "https://www.techgear.gr/dipli-anavathmisi-apo-tin-apple-ti-fernoyn-simera-ta-ios-26-2-1-kai-watchos-26-2-1-47333",
+          "pubDate": "Mon, 26 Jan 2026 20:53:00 +0200",
+          "description": "Η Apple προχώρησε σήμερα σε μια συντονισμένη διάθεση ενημερώσεων λογισμικού, κυκλοφορώντας ταυτόχρονα το iOS 26.2.1 και το watchOS ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/ios-apple-tag-2.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Resident Evil Requiem Preview: Η Grace φέρνει τον τρόμο του RE2 και ο Leon τη δράση του RE4",
           "link": "https://gr.pcmag.com/games/51132/resident-evil-requiem-preview-e-grace-phernei-ton-tromo-tou-re2-kai-o-leon-te-drase-tou-re4",
           "pubDate": "Mon, 26 Jan 2026 18:34:50 +0000",
@@ -1468,14 +1476,6 @@
           "pubDate": "Mon, 26 Jan 2026 06:45:00 +0200",
           "description": "Η Disney και η Lucasfilm έδωσαν στη δημοσιότητα το πρώτο trailer για τη νέα animated σειρά Star Wars: Maul - Shadow Lord, επιβεβαιώνοντας πως ο πιο ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/star-wars-maul.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Το ChatGPT «διαβάζει» τον Elon Musk: Η OpenAI αντλεί δεδομένα από το Grokipedia",
-          "link": "https://www.techgear.gr/to-chatgpt-diavazei-ton-elon-musk-i-openai-antlei-dedomena-apo-to-grokipedia-47314",
-          "pubDate": "Mon, 26 Jan 2026 06:33:00 +0200",
-          "description": "Σε μια εξέλιξη που θυμίζει περισσότερο φάρσα της τεχνολογικής ιστορίας παρά στρατηγική κίνηση, το ChatGPT της OpenAI εντοπίστηκε να αντλεί απαντήσεις ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/chatgpt-grokipedia.jpg",
           "source": "Techgear"
         }
       ]
