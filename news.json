@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T05:15:30.325Z",
+  "lastUpdated": "2026-01-26T05:20:27.306Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -87,6 +87,14 @@
           "description": "Η άνοδος της τιμής του φυσικού αερίου στην Ευρώπη τον τελευταίο μήνα εκτιμάται ότι θα ανεβάσει παράλληλα και τα τιμολόγια που θα κληθούν να πληρώσουν ...  \nTo άρθρο Κερδισμένοι όσοι διάλεξαν σταθερά συμβόλαια αερίου-ρεύματος δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/natural-gas-r-1210-scaled-1-1-1200x675-1.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Μπαράζ νομοσχεδίων στο σημερινό Υπουργικό Συμβούλιο",
+          "link": "https://www.in.gr/2026/01/26/politics/mparaz-nomosxedion-sto-simerino-ypourgiko-symvoulio/",
+          "pubDate": "Mon, 26 Jan 2026 07:10:16 +0300",
+          "description": "Στο  Υπουργικό Συμβούλιο που συνεδριάζει υπό τον Κυριάκο Μητσοτάκη, θα συζητηθούν νομοσχέδια που καλύπτουν τομείς από τη στεγαστική πολιτική μέχρι τον ψηφιακό μετασχηματισμό της χώρας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ipourgiko-1-1200x810-768x518.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Κυβέρνηση: «Θετική ατζέντα» (ξανά) με νύχια και με δόντια",
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 05:12:04 +0300",
           "description": "Πληροφορίες κάνουν λόγο για νεκρούς εξαιτίας έκρηξης και πυρκαγιάς στη διάρκεια της νυχτερινής βάρδιας στο εργοστάσιο Βιολάντα, στα Τρίκαλα.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/fotia-violanta-10-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Φιλιππίνες: Πολύνεκρο ναυάγιο πορθμείου στη νήσο Μπασίλαν",
-          "link": "https://www.in.gr/2026/01/26/world/filippines-polynekro-nayagio-porthmeiou-sti-niso-mpasilan/",
-          "pubDate": "Mon, 26 Jan 2026 05:00:53 +0300",
-          "description": "Ναυάγιο πορθμείου στις Φιλιππίνες οδήγησε στον θάνατο τουλάχιστον 8 ανθρώπους, ενώ έγινε γνωστό ότι από τους 342 επιβαίνοντες σε αυτό τουλάχιστον 138 έχουν διασωθεί.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ferry-srink-768x532.jpg",
           "source": "In.gr"
         }
       ]
@@ -509,12 +509,44 @@
           "source": "Euronews"
         },
         {
+          "title": "Minneapolis protesters march against ICE as governor urges Trump to remove agents",
+          "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 04:52:49 GMT",
+          "description": "Second fatal shooting an 'inflection point' says Tim Walz as protests spread over Saturday's shooting of intensive care nurse Alex Pretti in Minneapolis.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a024/live/92a4fce0-fa71-11f0-a038-897092faef25.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "H Tεχεράνη προειδοποιεί εκ νέου τις ΗΠΑ κατά της ανάληψης στρατιωτικής δράσης ",
           "link": "http://gr.euronews.com/2026/01/26/iranikes-arhes-proeidopoihsi-hpa",
           "pubDate": "Mon, 26 Jan 2026 05:47:42 +0100",
           "description": "Η τελευταία εξέλιξη έρχεται λίγες ημέρες αφότου ο πρόεδρος των ΗΠΑ Ντόναλντ Τραμπ δήλωσε ότι πλοία μετακινούνται προς την περιοχή \"«σε περίπτωση» που αποφασίσει να αναλάβει δράση",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "Fifteen dead after Philippines ferry with 300 passengers sinks",
+          "link": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 04:06:14 GMT",
+          "description": "The local coast guard is still searching for 28 missing passengers of the MV Trisha Kerstin.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9de/live/cce379f0-fa6b-11f0-ba3f-fd73924e5353.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Heatwave warnings across Australia as millions celebrate national day",
+          "link": "https://www.bbc.com/news/articles/cz6y7nxx5jvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 04:01:00 GMT",
+          "description": "Temperatures are expected to peak on Tuesday, reaching the \"high forties\" in Victoria and South Australia.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c71/live/75a49390-fa6b-11f0-ba3f-fd73924e5353.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting",
+          "link": "https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 03:50:14 GMT",
+          "description": "Two people have been shot dead by federal agents in the city in recent weeks, leaving many angry and frustrated.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f9a/live/1d030cc0-fa67-11f0-b385-5f48925de19a.jpg",
+          "source": "BBC News"
         },
         {
           "title": "Tearful goodbyes as Japan returns pandas to China amid worsening ties ",
@@ -653,22 +685,6 @@
           "source": "Euronews"
         },
         {
-          "title": "Video shows moments around fatal shooting of Alex Pretti in Minneapolis",
-          "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 15:31:54 GMT",
-          "description": "Bystander footage has captured the seconds before the killing of 37-year-old Alex Pretti.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf2/live/6592a130-f99f-11f0-b5f7-49f0357294ff.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Captain of suspected Russian shadow tanker in French custody",
-          "link": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 15:25:52 GMT",
-          "description": "French officials seized the tanker, named the Grinch, in the Mediterranean Sea on Thursday.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ad/live/5bd25b00-f9fd-11f0-a24b-df29ade509fc.png",
-          "source": "BBC News"
-        },
-        {
           "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
           "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 14:56:24 GMT",
@@ -723,22 +739,6 @@
           "description": "Επικαλούμενο δύο κορυφαίους αξιωματούχους του υπουργείου Υγείας του Ιράν, το αμερικανικό περιοδικό μεταδίδει ότι η κλίμακα της καταστολής των διαδηλωτών στις 8 και 9 Ιανουαρίου ήταν τόσο μεγάλη που τα ασθενοφόρα αντικαταστάθηκαν από νταλίκες",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
-          "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 12:24:31 GMT",
-          "description": "He has been described as an avid outdoorsman who loved mountain biking.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1751/live/9fd14180-f9ea-11f0-811c-ad0579c12ce2.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Sir Mark Tully, the BBC's 'voice of India', dies aged 90",
-          "link": "https://www.bbc.com/news/articles/c4nnp4d064do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 12:12:08 GMT",
-          "description": "Sir Mark covered some of the defining moments in India's history in a career that spanned decades.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4121/live/0ed9ada0-1c21-11ef-80aa-699d54c46324.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Starterpacks: Η απάντηση του X στο «χάος» του Timeline και η κόντρα με το Bluesky",
+          "link": "https://www.techgear.gr/starterpacks-i-apantisi-toy-x-sto-chaos-toy-timeline-kai-i-kontra-me-to-bluesky-47318",
+          "pubDate": "Mon, 26 Jan 2026 07:20:00 +0200",
+          "description": "Μια νέα εποχή ξεκινά –ή τουλάχιστον αυτό υπόσχεται η πλατφόρμα του Elon Musk– για τον τρόπο που ανακαλύπτουμε περιεχόμενο στο διαδίκτυο. Το X (πρώην ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/x-starterpacks.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Τεράστια έρευνα: Η AI νικά τον μέσο άνθρωπο σε δημιουργικότητα, αλλά υποκλίνεται στους κορυφαίους",
           "link": "https://www.techgear.gr/terastia-ereyna-i-ai-nika-ton-meso-anthropo-se-dimioyrgikotita-alla-ypoklinetai-stoys-koryfaioys-47317",
           "pubDate": "Mon, 26 Jan 2026 07:10:00 +0200",
@@ -1469,14 +1477,6 @@
           "description": "Σε μια κίνηση που επανακαθορίζει τις ισορροπίες της παγκόσμιας δημόσιας υγείας, οι ΗΠΑ οριστικοποίησαν την αποχώρησή τους από τον Παγκόσμιο Οργανισμό ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/us-leaves-who.jpg",
           "source": "Techgear"
-        },
-        {
-          "title": "AMD Ryzen 7 9850X3D: Ο νέος «βασιλιάς» του gaming έρχεται στις 29 Ιανουαρίου",
-          "link": "https://gr.pcmag.com/processors/51103/amd-ryzen-7-9850x3d-o-neos-basilias-tou-gaming-erkhetai-stis-29-ianouariou",
-          "pubDate": "Sat, 24 Jan 2026 22:09:00 +0000",
-          "description": "Με boost clock στα 5.6 GHz και την τεχνολογία 3D V-Cache, η AMD υπόσχεται έως και 8% καλύτερες επιδόσεις, διατηρώντας το AM5 socket για εύκολη αναβάθμιση.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/a/amd-ryzen-/amd-ryzen-7-9850x3d-launches-on-jan-29-for-499_g4we.jpg",
-          "source": "PC Magazine"
         }
       ]
     }
