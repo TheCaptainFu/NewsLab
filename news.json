@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T07:20:26.454Z",
+  "lastUpdated": "2026-01-26T07:25:27.966Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Η Σοφία Παυλίδου για τη νέα σχέση της: «Τώρα ήμουν έτοιμη, βρήκα τον άνθρωπο αυτό μετά από 10 χρόνια»",
+          "link": "https://www.newsit.gr/lifestyle/i-sofia-paylidou-gia-ti-nea-sxesi-tis-tora-imoun-etoimi-vrika-ton-anthropo-ayto-meta-apo-10-xronia/4583487/",
+          "pubDate": "Mon, 26 Jan 2026 07:24:36 +0000",
+          "description": "Η Σοφία Παυλίδου επιβεβαίωσε μπροστά στις κάμερες ότι βρίσκεται σε νέα σχέση και δήλωσε πως αισθάνθηκε απόλυτη έτοιμη να κάνει το επόμενο βήμα στα προσωπικά ...  \nTo άρθρο Η Σοφία Παυλίδου για τη νέα σχέση της: «Τώρα ήμουν έτοιμη, βρήκα τον άνθρωπο αυτό μετά από 10 χρόνια» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidou-ndp-1200x899.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία στα Τρίκαλα: «Το ωστικό κύμα από την έκρηξη στη Βιολάντα ήταν τεράστιο, σώθηκαν όσοι ήταν κοντά στην έξοδο» λέει αντιπεριφερειάρχης στο protothema",
+          "link": "https://www.protothema.gr/greece/article/1763345/tragodia-sta-trikala-to-ostiko-kuma-apo-tin-ekrixi-sti-violada-itan-terastio-sothikan-osoi-itan-koda-stin-exodo/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 09:20:00 +0200",
+          "description": "Στο υπόγειο βρέθηκαν οι τρεις νεκρές, λέει η Χρύσα Ντιντή - «Κάτοικοι χωριών που βρίσκονται 7 με 8 χιλιόμετρα μακριά από το εργοστάσιο φοβήθηκαν και νόμιζαν ότι έπεσε βόμβα στο χωριό τους»",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/fotia_violanta__2_.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ο Βαγγέλης Παυλίδης βρίσκεται στο «στόχαστρο» της Αλ Χιλάλ",
           "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-vrisketai-sto-stoxastro-tis-al-xilal/4583472/",
@@ -133,7 +149,7 @@
           "link": "https://www.newsit.gr/ellada/tragodia-sto-ergostasio-tis-violanta-4-nekres-gynaikes-apo-ti-megali-fotia-akomi-mia-agnoeitai/4583453/",
           "pubDate": "Mon, 26 Jan 2026 06:43:53 +0000",
           "description": "Τραγική κατάληξη είχε η φωτιά που ξέσπασε τα ξημερώματα της Δευτέρας 26.01.2026, στις εγκαταστάσεις τις μπισκοτοβιομηχανίας Βιολάντα στα Τρίκαλα με 4 γυναίκες να εντοπίζονται νεκρές. ...  \nTo άρθρο Τραγωδία στο εργοστάσιο της «Βιολάντα»: 4 νεκρές γυναίκες από τη μεγάλη φωτιά – Ακόμη μία αγνοείται δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta3-1-1200x686.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta4.jpg",
           "source": "NewsIT"
         },
         {
@@ -217,35 +233,19 @@
           "source": "NewsIT"
         },
         {
+          "title": "Πρόεδρος Παρτιζάν: «Ο Μπογκντάνοβιτς είναι το καλοκαιρινό όνειρό μας…»",
+          "link": "https://www.in.gr/2026/01/26/sports/basketball/euroleague/vomva-sti-euroleague-o-mpogkntanovits-einai-to-kalokairino-oneiro/",
+          "pubDate": "Mon, 26 Jan 2026 09:17:24 +0300",
+          "description": "Ο Μπόγκνταν Μπογκντάνοβιτς μπορεί να αγωνίζεται στο NBA, όμως κυκλοφορεί δημοσίευμα-βόμβα για το μέλλον του και την επιστροφή του στη Euroleague.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/37753583578358-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Κικίλιας: Επενδύσεις και νέες θέσεις εργασίας με το Master Plan του λιμένα Πατρών",
           "link": "https://www.in.gr/2026/01/26/politics/kikilias-ependyseis-kai-nees-theseis-ergasias-master-plan-tou-limena-patron/",
           "pubDate": "Mon, 26 Jan 2026 09:10:46 +0300",
           "description": "«Η στήριξη των τοπικών οικονομιών αποτελεί βασικό μας στόχο στην προσπάθεια που κάνουμε για την αναβάθμιση και τον εκσυγχρονισμό των λιμανιών της χώρας», δήλωσε ο Βασίλης Κικίλιας",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/PAN_8427-2-1200x800-1-1200x800-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μινεάπολη: Η οργή του Κλίντον μετά τη νέα δολοφονία από πράκτορες του ICE – «Μας είπε ψέματα»",
-          "link": "https://www.newsit.gr/kosmos/mineapoli-i-orgi-tou-klinton-meta-ti-nea-dolofonia-apo-praktores-tou-ice-mas-eipe-psemata/4583409/",
-          "pubDate": "Mon, 26 Jan 2026 06:04:03 +0000",
-          "description": "Αμερικανικός «εμφύλιος» έχει προκύψει μεταξύ πρώην προέδρων όπως ο Μπιλ Κλίντον αλλά και του Ντόναλντ Τραμπ, για το νέο περιστατικό βίας των πρακτόρων του ICE ...  \nTo άρθρο Μινεάπολη: Η οργή του Κλίντον μετά τη νέα δολοφονία από πράκτορες του ICE – «Μας είπε ψέματα» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/minnesota-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Έγκλημα στη Γλυφάδα: Δώδεκα χρόνια μετά την δολοφονία της μητέρας του, γύρισε για να σκοτώσει τον πατέρα του – Όλο το χρονικό",
-          "link": "https://www.newsit.gr/ellada/egklima-sti-glyfada-dodeka-xronia-meta-tin-dolofonia-tis-miteras-tou-gyrise-gia-na-skotosei-ton-patera-tou-olo-to-xroniko/4583406/",
-          "pubDate": "Mon, 26 Jan 2026 06:01:15 +0000",
-          "description": "Με αίμα γράφτηκε τελικά ο επίλογος της οικογενειακής τραγωδίας που ξεκίνησε να ξετυλίγεται το 2014 με τη δολοφονία μιας μητέρας στη Γλυφάδα από τα χέρια ...  \nTo άρθρο Έγκλημα στη Γλυφάδα: Δώδεκα χρόνια μετά την δολοφονία της μητέρας του, γύρισε για να σκοτώσει τον πατέρα του – Όλο το χρονικό δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/glyfada-auto-dolofonia-1200x728.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ακρίβεια: Ο μισθός τελειώνει νωρίς, οι ανάγκες όμως δεν περιμένουν… Τα χρήματα δεν φτάνουν μέχρι το τέλος του μήνα",
-          "link": "https://www.in.gr/2026/01/26/economy/oikonomikes-eidiseis/akriveia-o-misthos-teleionei-noris-oi-anagkes-omos-den-perimenoun-ta-xrimata-den-ftanoun-mexri-telos-tou-mina/",
-          "pubDate": "Mon, 26 Jan 2026 09:00:59 +0300",
-          "description": "Μεγάλο πρόβλημα εξακολουθεί να παραμένει η ακρίβεια για χιλιάδες νοικοκυριά, αφού τα χρήματα τελειώνουν πριν εκπνεύσει ο μήνας.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/euromoney-768x491.jpg",
           "source": "In.gr"
         }
       ]
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "«Ο χρόνος τελειώνει»: Ανασχηματισμό έως και πρόωρες εκλογές «βλέπουν» στην ΝΔ",
+          "link": "https://www.tovima.gr/print/politics/o-xronos-teleionei/",
+          "pubDate": "Mon, 26 Jan 2026 09:15:00 +0300",
+          "description": "Από ανασχηματισμό έως και πρόωρες εκλογές «βλέπουν» στην ΚΟ της ΝΔ",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/6692393-e1769411650369-1024x711.jpg",
+          "source": "Το Βήμα"
+        },
         {
           "title": "Σήμερα αναχωρεί ο Γιώργος Γεραπετρίτης για Νέα Υόρκη – Η κρίσιμη συνεδρίαση για τη Μέση Ανατολή",
           "link": "https://www.tanea.gr/2026/01/26/politics/simera-anaxorei-o-giorgos-gerapetritis-gia-nea-yorki-i-krisimi-synedriasi-gia-ti-mesi-anatoli/",
@@ -485,14 +493,6 @@
           "description": "Στις αναταράξεις στις ευρωατλαντικές σχέσεις που σημάδεψαν την εβδομάδα που πέρασε εστιάζει ο πρωθυπουργός Κυριάκος Μητσοάκης στην καθιερωμένη κυριακάτικη ανάρτησή του, τονίζοντας την ανάγκη διατήρησης διαύλων συνεργασίας με τις ΗΠΑ,…\nΚ. Μητσοτάκης: Η Ευρώπη οφείλει να είναι ενωμένη, διατηρώντας λειτουργικούς διαύλους συνεργασίας με τις ΗΠΑ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Κυρανάκης στο “Face 2 Face” για κυκλοφοριακή συμφόρηση: «Η Αθήνα δεν έχει σχεδιαστεί για τέτοια πυκνότητα οχημάτων»",
-          "link": "https://www.tanea.gr/2026/01/25/politics/kyranakis-sto-face-2-face-gia-kykloforiaki-symforisi-i-athina-den-exei-sxediastei-gia-tetoia-pyknotita-oximaton/",
-          "pubDate": "Sun, 25 Jan 2026 08:30:48 +0000",
-          "description": "Ο Κωνσταντίνος Κυρανάκης φιλοξενήθηκε την Κυριακή 25 Ιανουαρίου στην εκπομπή “Face 2 Face” με την Κατερίνα Παναγοπούλου, όπου συζητήθηκε εκτενώς το πρόβλημα της κυκλοφοριακής συμφόρησης στην Αθήνα. Η δημοσιογράφος αναφέρθηκε στα μέτρα που εξετάζει το υπουργείο, ανάμεσά τους και την πιθανή απαγόρευση κυκλοφορίας βαρέων οχημάτων από τις 7:00 έως τις 10:00 το πρωί στην Εθνική […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Kyranakis-2-1024x683.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -747,12 +747,28 @@
       "color": "green",
       "articles": [
         {
+          "title": "Θάντερ - Ράπτορς: Ο Μαμουκελασβίλι κουβάλησε τον Ντορτ στον ώμο του για να μην τραυματιστεί (vid)",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510242/thanter-raptors-o-mamoykelasbili-koybalise-ton-ntort-ston-omo-toy-gia-na-min",
+          "pubDate": "Mon, 26 Jan 2026 09:22:43 +0200",
+          "description": "Ο Μαμουκελασβίλι λειτούργησε σωτήρια στο ματς με τους Θάντερ και γλίτωσε τα χειρότερα για τον Ντορτ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dort23.jpg?itok=cB9TpH2q",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Τα νεότερα για την κατάσταση της υγείας της Σίας Κοσιώνη: «Δεν υπάρχει κάποιος κίνδυνος»",
           "link": "https://www.gazzetta.gr/plus/2510241/ta-neotera-gia-tin-katastasi-tis-ygeias-tis-sias-kosioni-den-yparhei-kapoios-kindynos",
           "pubDate": "Mon, 26 Jan 2026 09:19:32 +0200",
           "description": "Τα νεότερα για την κατάσταση της υγείας της Σίας Κοσιώνη που νοσηλεύεται για πέμπτη μέρα στη ΜΕΘ έδωσε στο Happy Day ο στενός της φίλος και συνεργάτης, Γιώργος Λεμπέσης.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sia-kosioni.jpg?itok=Mm_UboZf",
           "source": "Gazzetta"
+        },
+        {
+          "title": "Ο Βαγγέλης Παυλίδης βρίσκεται στο «στόχαστρο» της Αλ Χιλάλ",
+          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-vrisketai-sto-stoxastro-tis-al-xilal/4583472/",
+          "pubDate": "Mon, 26 Jan 2026 07:18:59 +0000",
+          "description": "Ο Βαγγέλης Παυλίδης είναι ασταμάτητος και τη φετινή σεζόν με τη φανέλα της Μπενφίκα και η Αλ Χιλάλ εμφανίζεται έτοιμη να… στρώσει χρυσό χαλί στους ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης βρίσκεται στο «στόχαστρο» της Αλ Χιλάλ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-4-1200x776.jpg",
+          "source": "NewsIT"
         },
         {
           "title": "Αδιανόητο: Ο Λεβαδειακός έχει τις διπλάσιες πιθανότητες από τον Παναθηναϊκό για play offs",
@@ -968,22 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 23:58:10 +0200",
           "description": "Η Μπέτις ηττήθηκε από την Αλαβές με 2-1 και έχασε την ευκαιρία να αποσπαστεί από τους διώκτες της και να πατήσει στην πεντάδα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/alaves.jpg?itok=4u10yqwA",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ρόμα – Μίλαν 1-1: Ισοπαλία με κερδισμένη την Ίντερ στην κορυφή της Serie A",
-          "link": "https://www.newsit.gr/athlitika/roma-milan-1-1-isopalia-me-kerdismeni-tin-inter-stin-koryfi-tis-serie-a/4583333/",
-          "pubDate": "Sun, 25 Jan 2026 21:53:39 +0000",
-          "description": "Η Μίλαν έμεινε στην ισοπαλία με 1-1 στην έδρα της Ρόμα για την 22η αγωνιστική της ιταλικής Serie A και ήταν η… Ίντερ αυτή που ...  \nTo άρθρο Ρόμα – Μίλαν 1-1: Ισοπαλία με κερδισμένη την Ίντερ στην κορυφή της Serie A δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romamilan-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ρόμα - Μίλαν 1-1: Έχασαν έδαφος στο Ολίμπικο οι Ροσονέρι",
-          "link": "https://www.gazzetta.gr/football/serie/2510191/roma-milan-1-1-ehasan-edafos-sto-olimpiko-oi-rosoneri",
-          "pubDate": "Sun, 25 Jan 2026 23:52:12 +0200",
-          "description": "Ισόπαλο 1-1 το ντέρμπι στο «Ολίμπικο» ανάμεσα στη Ρόμα και τη Μίλαν, με τους Ροσονέρι να μένουν στο -5 από την κορυφή της Serie A.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2258167363_1.jpg?itok=Brh-K0gy",
           "source": "Gazzetta"
         }
       ]
