@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T04:40:30.607Z",
+  "lastUpdated": "2026-01-26T04:45:31.354Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -13,7 +13,7 @@
           "link": "https://www.protothema.gr/greece/article/1763268/ishures-vrohes-simera-me-auximeno-kinduno-plimmurikon-fainomenon-poies-periohes-vriskodai-se-kokkino-sunagermo/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 06:39:00 +0200",
           "description": "Δεμένα τα πλοία σε Πειραιά και Ραφήνα καθώς και τα δελφίνια στον Αργοσαρωνικό -  Κατηγορίας 3 το επεισόδιο βροχόπτωσης - «Όχι κινδυνολογία, αλλά αυξημένη εγρήγορση», λέει ο Καλλιάνος",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-03/vroxi-eurokinissi-xrwma.jpg",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/vroxi-athina-mak.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Star Wars: Maul - Shadow Lord, δείτε το πρώτο trailer για τη νέα animated σειρά",
+          "link": "https://www.techgear.gr/star-wars-maul-shadow-lord-deite-to-proto-trailer-gia-ti-nea-animated-seira-47315",
+          "pubDate": "Mon, 26 Jan 2026 06:45:00 +0200",
+          "description": "Η Disney και η Lucasfilm έδωσαν στη δημοσιότητα το πρώτο trailer για τη νέα animated σειρά Star Wars: Maul - Shadow Lord, επιβεβαιώνοντας πως ο πιο ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/star-wars-maul.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Το ChatGPT «διαβάζει» τον Elon Musk: Η OpenAI αντλεί δεδομένα από το Grokipedia",
           "link": "https://www.techgear.gr/to-chatgpt-diavazei-ton-elon-musk-i-openai-antlei-dedomena-apo-to-grokipedia-47314",
           "pubDate": "Mon, 26 Jan 2026 06:33:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sat, 24 Jan 2026 21:34:50 +0000",
           "description": "Η νέα λειτουργία σε beta έκδοση επιτρέπει στους χρήστες να δημιουργούν δυναμικές λίστες, συνδυάζοντας το προσωπικό τους γούστο με τις παγκόσμιες τάσεις.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/n/new-spotif/new-spotify-ai-playlists-use-your-history-cultural-trends-to_wf1x.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "AST SpaceMobile: Συμμαχία με τον New Glenn της Blue Origin για να «χτυπήσει» το Starlink",
-          "link": "https://gr.pcmag.com/networking/51100/ast-spacemobile-summakhia-me-ton-new-glenn-tes-blue-origin-gia-na-khtupesei-to-starlink",
-          "pubDate": "Sat, 24 Jan 2026 21:17:32 +0000",
-          "description": "Η startup από το Τέξας επιστρατεύει τον γιγαντιαίο πύραυλο του Jeff Bezos για να εκτοξεύσει τον δορυφόρο BlueBird 7 και να προσφέρει ταχύτητες 120Mbps στα κινητά.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/a/ast-spacem/ast-spacemobile-bets-on-blue-origin-to-send-up-its-next-gian_3v5t.jpg",
           "source": "PC Magazine"
         }
       ]
