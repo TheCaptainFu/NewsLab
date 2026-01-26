@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T08:50:30.248Z",
+  "lastUpdated": "2026-01-26T08:55:29.826Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τέσσερις οι νεκρές γυναίκες από την έκρηξη και τη φωτιά στο εργοστάσιο της Βιολάντα στα Τρίκαλα, αναζητείται η πέμπτη",
+          "link": "https://www.protothema.gr/greece/article/1763319/treis-gunaikes-nekres-apo-ti-megali-fotia-sto-ergostasio-tis-violada-sta-trikala/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 10:54:45 +0200",
+          "description": "«Βρήκαμε την τέταρτη σορό και ψάχνουμε την πέμπτη» λέει ο αντιδήμαρχος Πολιτικής Προστασίας  - Πριν τη φωτιά σημειώθηκε έκρηξη - Τραυματίες ακόμη πέντε εργαζόμενοι και ένας πυροσβέστης",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/fotia_violanta_mak.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Παύλος Μαρινάκης για τη δολοφονία στη Γλυφάδα: Ολέθρια τα αποτελέσματα του νόμου Παρασκευόπουλου με τις μαζικές αποφυλακίσεις",
           "link": "https://www.newsit.gr/politikh/paylos-marinakis-gia-ti-dolofonia-sti-glyfada-olethria-ta-apotelesmata-tou-nomou-paraskeyopoulou-me-tis-mazikes-apofylakiseis/4583538/",
@@ -20,12 +28,12 @@
           "title": "Καιρός: Βροχές, καταιγίδες και χαλάζι – Σε ποιες περιοχές θα «χτυπήσει» η κακοκαιρία",
           "link": "https://www.newsit.gr/ellada/kairos-vroxes-kataigides-kai-xalazi-se-poies-perioxes-tha-xtypisei-i-kakokairia/4583542/",
           "pubDate": "Mon, 26 Jan 2026 08:45:12 +0000",
-          "description": "Έντονα φαινόμενα θα σημειωθούν σε πολλές περιοχές της χώρας μας, σύμφωνα με την ΕΜΥ εξαιτίας της νέας κακοκαιρίας που έχει ξεκινήσει ήδη να «βασανίζει» τους ...  \nTo άρθρο Καιρός: Βροχές, καταιγίδες και χαλάζι – Σε ποιες περιοχές θα «χτυπήσει» η κακοκαιρία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektaktieidisi-newsit-13-1200x675.jpg",
+          "description": "Έντονα φαινόμενα θα σημειωθούν σε πολλές περιοχές της χώρας μας σήμερα (26/1/2026), σύμφωνα με την ΕΜΥ εξαιτίας της νέας κακοκαιρίας που έχει ξεκινήσει ήδη να ...  \nTo άρθρο Καιρός: Βροχές, καταιγίδες και χαλάζι – Σε ποιες περιοχές θα «χτυπήσει» η κακοκαιρία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kakokairia-vroxi-eurok-1-1200x798.jpg",
           "source": "NewsIT"
         },
         {
-          "title": "Ξεκίνησαν οι ισχυρές καταιγίδες στην Αθήνα, live χάρτης με το πέρασμα της κακοκαιρίας που σήμανε πορτοκαλί συναγερμό στην Αττική",
+          "title": "Ισχυρές καταιγίδες στην Αττική, στο επίκεντρο τα νότια προάστια, live χάρτης με το πέρασμα της κακοκαιρίας που σήμανε πορτοκαλί συναγερμό",
           "link": "https://www.protothema.gr/greece/article/1763379/portokali-proeidopoiisi-gia-kataigides-stin-attiki-ti-tha-ginei-tis-epomenes-ores-hartis-koluda/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 10:44:00 +0200",
           "description": "Η κακοκαιρία φέρνει ασταθή καιρό, βροχές και πιθανές πλημμυρικές καταστάσεις - Στο επίκεντρο και αυτής της κακοκαιρίας τα νότια προάστια",
@@ -76,8 +84,8 @@
           "title": "Λιγότερα άτομα δούλευαν στο εργοστάσιο της Βιολάντα τη στιγμή της έκρηξης λόγω της κοπής πίτας το προηγούμενο βράδυ",
           "link": "https://www.protothema.gr/greece/article/1763391/i-dioikisi-tis-violada-apofasise-hthes-na-doulepsoun-12-adi-gia-30-atoma-sti-simerini-vardia-logo-kopi-pitas/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 10:28:00 +0200",
-          "description": "Στη βάρδια ήταν παρόντα 12 άτομα αντί για περίπου 30 που εργάζονται συνήθως - Από τη φωτιά ανασύρθηκαν νεκρές τρεις γυναίκες, ενώ άλλες δυο αγνοούνται",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/fotia_violanta__3_.jpg",
+          "description": "Στη βάρδια ήταν παρόντα 12 άτομα αντί για περίπου 30 που εργάζονται συνήθως - Από τη φωτιά ανασύρθηκαν νεκρές τέσσερις γυναίκες, ενώ άλλη μία αγνοείται",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/fotia_ergostasio_maketa.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -185,6 +193,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Ισπανικός Εμφύλιος: Το πνεύμα της αντιλογίας, ο ολέθριος ρόλος του χρυσού",
+          "link": "https://www.in.gr/2026/01/26/istoriko-arxeio/ispanikos-emfylios-pneyma-tis-antilogias-o-olethrios-rolos-tou-xrysou/",
+          "pubDate": "Mon, 26 Jan 2026 10:50:46 +0300",
+          "description": "Εύκολα χάνει η Ισπανία την ισορροπίαν της, υπάρχει δε εις μέγαν βαθμόν εν αυτή η τάσις από την μίαν ιδέαν να περιπίπτη εις την άλλην",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/emfylios.photo_.5-600x452.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Μέσα Μαζικής Μεταφοράς: Αυξάνονται τα πρόστιμα για τους παραβάτες – 100 εύρω θα πληρώνουν όσοι δεν έχουν εισιτήριο",
           "link": "https://www.newsit.gr/ellada/mesa-mazikis-metaforas-ayksanontai-ta-prostima-gia-tous-paravates-100-eyro-tha-plironoun-osoi-den-exoun-eisitirio/4583513/",
           "pubDate": "Mon, 26 Jan 2026 07:50:32 +0000",
@@ -231,22 +247,6 @@
           "description": "Δείτε live την κίνηση στους δρόμους",
           "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-13/mpotiliarisma_kifisos.jpeg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Διάταξη – σφήνα στο οικογενειακό δίκαιο: Επιβεβλημένη μεταρρύθμιση ή νομική ακροβασία;",
-          "link": "https://www.newsit.gr/blogs/eyelpidon-stories/diataksi-sfina-sto-oikogeneiako-dikaio-epivevlimeni-metarrythmisi-i-nomiki-akrovasia/4583509/",
-          "pubDate": "Mon, 26 Jan 2026 07:34:51 +0000",
-          "description": "Η θύελλα που σηκώθηκε μετά την αποκάλυψη ότι σε άσχετο νομοσχέδιο για τον ΟΠΕΚΕΠΕ, πέρασε διάταξη που αφορά σε αλλαγές στο οικογενειακό δίκαιο, ήταν καταρχάς ...  \nTo άρθρο Διάταξη – σφήνα στο οικογενειακό δίκαιο: Επιβεβλημένη μεταρρύθμιση ή νομική ακροβασία; δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kefalogianni-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Το όνειρο, ο εφιάλτης, η αναγέννηση: Ο Μάρκους Ράσφορντ και μια ιδιαίτερη ιστορία",
-          "link": "https://www.in.gr/2026/01/26/sports/football/oneiro-o-efialtis-anagennisi-o-markous-rasfornt-kai-mia-idiaiteri-istoria/",
-          "pubDate": "Mon, 26 Jan 2026 10:34:41 +0300",
-          "description": "Ο Μάρκους Ράσφορντ, η Μπαρτσελόνα, η Μάντσεστερ Γιουνάιτεντ και το μέλλον του",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/8581c0a0-7a9e-11f0-a69a-95efe7e2a480-768x431.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Αρχαίο δάσος στον Ισημερινό: τελευταίο καταφύγιο για μικρό κολιμπρί που απειλείται με εξαφάνιση",
+          "link": "http://gr.euronews.com/green/2026/01/26/an-ancient-forest-in-ecuador-is-the-last-stronghold-for-a-tiny-hummingbird-that-is-facing",
+          "pubDate": "Mon, 26 Jan 2026 09:45:20 +0100",
+          "description": "Το είδος κινδυνεύει, καθώς τα δάση σε μεγάλα υψόμετρα αποψιλώνονται για βοσκή και γεωργία.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Νεοϋορκέζοι διασκεδάζουν με χιονοπόλεμο εν μέσω ισχυρής χιονοθύελλας",
           "link": "http://gr.euronews.com/video/2026/01/26/new-yorkers-revel-in-a-snowball-fight-amid-a-major-winter-storm",
           "pubDate": "Mon, 26 Jan 2026 09:41:49 +0100",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/2026/01/25/etpimes-pros-ypografi-oi-amerikanikes-eggyiseis-asfaleias-leei-o-zelenski",
           "pubDate": "Sun, 25 Jan 2026 19:13:08 +0100",
           "description": "Η Ρωσία εκτόξευσε πάνω από 1.700 μη επανδρωμένα αεροσκάφη, 1.380 βόμβες και 69 πυραύλους την περασμένη εβδομάδα, σύμφωνα με τον Ουκρανό πρόεδρο",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Ο πρωθυπουργός της Αρμενίας παίζει ντραμς και προσκαλεί τον κόσμο στη συναυλία του στο Ερεβάν",
-          "link": "http://gr.euronews.com/2026/01/25/prwthupourgos-armenia-paizei-ntrams-proskalei-kosmo-sunaulia-erevan",
-          "pubDate": "Sun, 25 Jan 2026 18:47:07 +0100",
-          "description": "«Εμείς παίζουμε, εσείς χορεύετε»: Ο Νικολ Πασινιάν θα εμφανιστεί με το μουσικό του συγκρότημα στις 30 Ιανουαρίου",
           "thumbnail": null,
           "source": "Euronews"
         }
