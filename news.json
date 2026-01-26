@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T21:54:20.953Z",
+  "lastUpdated": "2026-01-26T21:55:26.115Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Μιλάνο-Κορτίνα 2026: ICE και διεθνείς δυνάμεις ασφαλείας στα Χειμερινά Ολυμπιακά Αγώνες",
+          "link": "http://gr.euronews.com/2026/01/26/milano-kortina-2026-ice-kai-die8neis-dynameis-asfaleias-sta-xeimerina-olympiaka-agwnes",
+          "pubDate": "Mon, 26 Jan 2026 22:52:24 +0100",
+          "description": "Η Ιταλία προετοιμάζεται για εκτεταμένα μέτρα ασφαλείας, με χιλιάδες αστυνομικούς και περιορισμούς κυκλοφορίας, εν μέσω αμφιλεγόμενων δηλώσεων για την παρουσία Αμερικανών πρακτόρων",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "French MPs take first step to ban social media for under-15s",
           "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 21:46:41 GMT",
@@ -731,14 +739,6 @@
           "description": "Χιλιάδες άνθρωποι συγκεντρώθηκαν υπό βροχή στην πρωτεύουσα της Βραζιλίας την Κυριακή για να στηρίξουν τον Μπολσονάρο.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Spain slashes speed limit on popular train route after fault found",
-          "link": "https://www.bbc.com/news/articles/ckgy049ypd5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 15:17:32 GMT",
-          "description": "The discovery of a crack on the Madrid-Barcelona line follows two recent deadly crashes in the country.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab0/live/dc8612b0-fac9-11f0-92f0-7514a316844b.jpg",
-          "source": "BBC News"
         }
       ]
     },
