@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T14:00:35.718Z",
+  "lastUpdated": "2026-01-26T14:05:30.608Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Εξαρθρώθηκε συμμορία που έκανε ληστείες και κλοπές σε καταστήματα στη Δυτική Αττική, εξιχνιάστηκαν 17 περιπτώσεις",
+          "link": "https://www.protothema.gr/greece/article/1763613/exarthrothike-summoria-pou-diepratte-listeies-kai-klopes-se-katastimata-sti-dutiki-attiki-exihniastikan-17-periptoseis/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 16:04:42 +0200",
+          "description": "Συνελήφθησαν δύο νεαροί που πραγματοποιούσαν τις ληστείες σε Χαϊδάρι, Αιγάλεω και Περιστέρι",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/summoria-klopes-dytiki-attiki.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Εντυπωσιακός έρανος Τσέχων για την Ουκρανία: Συγκέντρωσαν 6 εκατ. δολάρια σε 5 μέρες για γεννήτριες και μπαταρίες",
+          "link": "https://www.newsit.gr/kosmos/entyposiakos-eranos-tsexon-gia-tin-oukrania-sygkentrosan-6-ekat-dolaria-se-5-meres-gia-gennitries-kai-mpataries/4583906/",
+          "pubDate": "Mon, 26 Jan 2026 14:01:37 +0000",
+          "description": "Δεν ήταν καθόλου τυχαία η επιλογή της Ρωσίας να κλιμακώσει τις επιθέσεις της στην Ουκρανία σε μια χρονική περίοδο στην οποία το θερμόμετρο πέφτει έως ...  \nTo άρθρο Εντυπωσιακός έρανος Τσέχων για την Ουκρανία: Συγκέντρωσαν 6 εκατ. δολάρια σε 5 μέρες για γεννήτριες και μπαταρίες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/european-generators-electricity-ukraine-reuters-3-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Συνταγή για το viral υγιεινό γλυκάκι με γιαούρτι και μπισκότα",
           "link": "https://www.newsit.gr/tasteit/syntagi-gia-to-viral-ygieino-glykaki-me-giaourti-kai-mpiskota/4579104/",
@@ -185,6 +201,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Τροχαίο ατύχημα στον Κηφισό: Σύγκρουση αυτοκινήτου με μηχανή – Κυκλοφοριακό κομφούζιο στο σημείο",
+          "link": "https://www.in.gr/2026/01/26/greece/troxaio-atyxima-ston-kifiso-sygkrousi-aytokinitou-mixani-kykloforiako-komfouzio-sto-simeio/",
+          "pubDate": "Mon, 26 Jan 2026 16:00:19 +0300",
+          "description": "Ένα αυτοκίνητο συγκρούστηκε με μια μηχανή, με αποτέλεσμα να τραυματιστεί ελαφρά ο αναβάτης του δικύκλου, πλησίον των ΚΤΕΛ Κηφισού",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6578204-768x576.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "ΑΕΚ: Χωρίς Γιόβιτς και Ρέλβα με Πανσερραϊκό, εκτίουν με Λεβαδειακό οι Ρότα και Κοϊτά",
           "link": "https://www.newsit.gr/athlitika/aek-xoris-giovits-kai-relva-me-panserraiko-ektioun-me-levadeiako-oi-rota-kai-koita/4583854/",
           "pubDate": "Mon, 26 Jan 2026 12:59:06 +0000",
@@ -223,30 +247,6 @@
           "description": "Υπάρχει καπνός ανάμεσα σε Τσάμπι Αλόνσο και Λίβερπουλ, θα υπάρχει και… φωτιά; Τα δεδομένα για συνεργασία και οι άμεσες αποφάσεις για Σλοτ και Τζέραρντ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alonso-121225-1-1024x607-768x455.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Μάικλ Παρέντι: Πέθανε ο «ενοχλητικός διανοούμενος» της αμερικανικής Αριστεράς του 20ού αιώνα",
-          "link": "https://www.in.gr/2026/01/26/life/culture-live/maikl-parenti-pethane-o-enoxlitikos-dianooumenos-tis-amerikanikis-aristeras-tou-20ou-aiona/",
-          "pubDate": "Mon, 26 Jan 2026 15:50:37 +0300",
-          "description": "Πέθανε σε ηλικία 92 ετών ο Μάικλ Παρέντι, εμβληματική μορφή της αμερικανικής μαρξιστικής σκέψης. Ένας πολιτικός επιστήμονας που άσκησε ανελέητη κριτική στον ιμπεριαλισμό, τον καπιταλισμό και τη μιντιακή εξουσία, μένοντας μέχρι τέλους ασυμβίβαστος",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Michael-Parenti-1933-2026-died-today.-He-has-as-his-son-Christian-said-‘gone-to-the-Great-Le-1-768x572.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ιράν: Στους 5.520 οι επιβεβαιωμένοι νεκροί διαδηλωτές  από τις κυβερνητικές δυνάμεις, λέει ΜΚΟ με έδρα τις ΗΠΑ",
-          "link": "https://www.newsit.gr/kosmos/iran-stous-5-520-oi-epivevaiomenoi-nekroi-diadilotes-apo-tis-kyvernitikes-dynameis-leei-mko-me-edra-tis-ipa/4583840/",
-          "pubDate": "Mon, 26 Jan 2026 12:49:47 +0000",
-          "description": "Μπορεί οι μαζικές και αιματηρές αντικυβερνητικές διαδήλωσεις στο Ιράν να είναι πλέον παρελθόν, ωστόσο δύο περίπου εβδομάδες μετά η διεθνής κοινότητα και μη κυβερνητικές οργανώσεις ...  \nTo άρθρο Ιράν: Στους 5.520 οι επιβεβαιωμένοι νεκροί διαδηλωτές  από τις κυβερνητικές δυνάμεις, λέει ΜΚΟ με έδρα τις ΗΠΑ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iran-protests-reuters-3-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μινεάπολη: Βίντεο δείχνει άνδρες της ICE να απειλούν δημοσιογράφο και εικονολήπτη της Rai που βιντεοσκοπούσαν τα επεισόδια",
-          "link": "https://www.newsit.gr/kosmos/mineapoli-vinteo-deixnei-andres-tis-ice-na-apeiloun-dimosiografo-kai-eikonolipti-tis-rai-pou-vinteoskopousan-ta-epeisodia/4583848/",
-          "pubDate": "Mon, 26 Jan 2026 12:45:11 +0000",
-          "description": "Εικονολήπτης και δημοσιογράφος της ιταλικής δημόσιας τηλεόρασης Rai απειλήθηκαν από την ICE στη Μινεάπολη επειδήβιντεοσκοπούσαν τα επεισόδια στη σκιά των θανάσιμων τραυματισμών δυο Αμερικανών, της ...  \nTo άρθρο Μινεάπολη: Βίντεο δείχνει άνδρες της ICE να απειλούν δημοσιογράφο και εικονολήπτη της Rai που βιντεοσκοπούσαν τα επεισόδια δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/rai-1200x553.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Καρυστιανού: Ζητά ενημέρωση από Μητσοτάκη για τη συνάντηση με Ερντογάν «για να κρίνουν οι πολίτες αν πρέπει να γίνει»",
+          "link": "https://www.tanea.gr/2026/01/26/politics/karystianou-zita-enimerosi-apo-mitsotaki-gia-ti-synantisi-me-erntogan-gia-na-krinoun-oi-polites-an-prepei-na-ginei/",
+          "pubDate": "Mon, 26 Jan 2026 14:04:20 +0000",
+          "description": "Την πρώτη της δημόσια παρέμβαση στα ελληνοτουρκικά πραγματοποίησε η Μαρία Καρυστιανού, ζητώντας από τον πρωθυπουργό Κυριάκο Μητσοτάκη να προχωρήσει σε επίσημη ενημέρωση σχετικά με την ατζέντα της επικείμενης συνάντησής του με τον Ρετζέπ Ταγίπ Ερντογάν. Σε ανάρτησή της στην πλατφόρμα X, και ενώ βρίσκονται σε εξέλιξη οι διεργασίες για την ίδρυση του πολιτικού της φορέα, […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Maria-Karystianou-1-1.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Πηγές ΝΔ: Εκθέτει Τυχεροπούλου και Σημανδράκο η Δήμητρα Χαλικιά – Υπάλληλοι του ΟΠΕΚΕΠΕ άλλαζαν τις δηλώσεις ΟΣΔΕ",
           "link": "https://www.naftemporiki.gr/politics/2064019/piges-nd-ekthetei-tycheropoyloy-kai-simandrako-i-dimitra-chalikia-ypalliloi-toy-opekepe-allazan-tis-diloseis-osde/?utm_source=rss&utm_medium=rss&utm_campaign=piges-nd-ekthetei-tycheropoyloy-kai-simandrako-i-dimitra-chalikia-ypalliloi-toy-opekepe-allazan-tis-diloseis-osde",
@@ -485,14 +493,6 @@
           "description": "«Δεν μπορώ να δεχτώ κατά παραγγελία νομοθέτηση, ούτε να μη βαδίζει η χώρα μου στον ευρωπαϊκό δρόμο μιας ποιοτικής δημοκρατίας» - Θέμα Φλωρίδη έθεσε με συνέντευξη του στο ΟPEN ο Πρόεδρος του ΠαΣοΚ",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/androulakis-1024x683.jpg",
           "source": "Το Βήμα"
-        },
-        {
-          "title": "Π. Μαρινάκης για τη δολοφονία στη Γλυφάδα: «Ολέθρια τα αποτελέσματα του νόμου Παρασκευόπουλου με τις μαζικές αποφυλακίσεις»",
-          "link": "https://www.tanea.gr/2026/01/26/politics/p-marinakis-gia-ti-dolofonia-sti-glyfada-olethria-ta-apotelesmata-tou-nomou-paraskeyopoulou-me-tis-mazikes-apofylakiseis/",
-          "pubDate": "Mon, 26 Jan 2026 07:38:53 +0000",
-          "description": "Ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης σε συνέντευξή του στην εκπομπή του Mega «Κοινωνία ώρα Mega» αναφέρθηκε αρχικά στην πατροκτονία που σημειώθηκε στην Γλυφάδα, δηλώνοντας χαρακτηριστικά πως ο νόμος Παρασκευόπουλου είχε ολέθρια αποτελέσματα. «Εγείρονται πολύ σοβαρά ερωτήματα, πως αφέθηκε ο 46χρονος από τη δομή και από ποιους αφέθηκε. Ο νόμος Παρασκευόπουλου δεν ήρθε ως μάννα εξ […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Paulos-Marinakis.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Αυτός είναι ο ιδανικός συνδυασμός ασκήσεων για να κάψεις το κοιλιακό λίπος",
+          "link": "https://www.gazzetta.gr/plus/2510327/aytos-einai-o-idanikos-syndyasmos-askiseon-gia-na-kapseis-koiliako-lipos",
+          "pubDate": "Mon, 26 Jan 2026 16:00:00 +0200",
+          "description": "Δεν χρειάζεται να είναι περίπλοκο—ο συνδυασμός αυτών των δύο ασκήσεων μπορεί να βοηθήσει στη μείωση του σπλαχνικού λίπους.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jj2-26-1-26.jpg?itok=rl-dd6pX",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Λείπει το κάτι παραπάνω…",
+          "link": "https://www.gazzetta.gr/football/superleague/2510317/olympiakos-leipei-kati-parapano",
+          "pubDate": "Mon, 26 Jan 2026 16:00:00 +0200",
+          "description": "Ο Κ. Νικολακόπουλος συνεχίζει να γράφει στο blog του στο gazzetta για τον Ολυμπιακό σε ατομικό επίπεδο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/5001606.jpg?itok=xcbctnIy",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "F1 - Στην Audi o αστέρας των junior κατηγοριών Φρέντι Σλέιτερ",
+          "link": "https://www.gazzetta.gr/gmotion/2510313/f1-stin-audi-o-asteras-ton-junior-katigorion-frenti-sleiter",
+          "pubDate": "Mon, 26 Jan 2026 16:00:00 +0200",
+          "description": "Η γερμανική ομάδα της Formula 1 είναι αυτή που κέρδισε τελικά την υπογραφή του ανερχόμενου Βρετανού αστέρα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/audi_slater.jpg?itok=JKvB7Sou",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ: Εξαντλήθηκαν τα εισιτήρια για τον αγώνα με την Λυών",
           "link": "https://www.gazzetta.gr/football/europa-league/2510338/paok-exantlithikan-ta-eisitiria-gia-ton-agona-me-tin-lyon",
           "pubDate": "Mon, 26 Jan 2026 15:52:46 +0200",
@@ -960,30 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 14:15:09 +0200",
           "description": "Ο Τάισον Γουόρντ αναδείχθηκε MVP της 16ης αγωνιστικής της Stoiximan GBL μετά το triple double που έκανε κόντρα στον Κολοσσό.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ward_1.jpg?itok=5rOt8V2m",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Κιν δεν θέλει να βλέπει τον Κάρικ και ο λόγος είναι η γυναίκα του και ο... Ολυμπιακός: Όλο το story",
-          "link": "https://www.gazzetta.gr/football/superleague/2510305/o-kin-den-thelei-na-blepei-ton-karik-kai-o-logos-einai-i-gynaika-toy",
-          "pubDate": "Mon, 26 Jan 2026 14:13:09 +0200",
-          "description": "Ο Ρόι Κιν... προσγείωσε τους πάντες για την πορεία του Μάικλ Κάρικ στη Μάντσεστερ Γιουνάιτεντ, κρατώντας ζωντανή τη διαμάχη τους λόγω Ολυμπιακού.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-01/keane.jpg?itok=FgJe-JP3",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Μοναδική απουσία ο Λούκα Ιβάνουσετς ενόψει Λιόν",
-          "link": "https://www.newsit.gr/athlitika/paok-monadiki-apousia-o-louka-ivanousets-enopsei-lion/4583815/",
-          "pubDate": "Mon, 26 Jan 2026 12:07:20 +0000",
-          "description": "Ο ΠΑΟΚ έχει ξεκινήσει την προετοιμασία του για το παιχνίδι με τη Λιόν στην τελευταία αγωνιστική της League Phase του Europa League, έχοντας ως μοναδική ...  \nTo άρθρο ΠΑΟΚ: Μοναδική απουσία ο Λούκα Ιβάνουσετς ενόψει Λιόν δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ivanusec-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Όταν η Βιολάντα ήταν φούρνος της γειτονιάς στα Τρίκαλα: Η ιστορία της εμβληματικής βιομηχανίας",
-          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
-          "pubDate": "Mon, 26 Jan 2026 14:05:00 +0200",
-          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/biolanta.jpg.png?itok=9yBSxE7o",
           "source": "Gazzetta"
         }
       ]
