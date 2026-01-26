@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T20:55:25.816Z",
+  "lastUpdated": "2026-01-26T20:58:28.797Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Εξαφανίστηκε 16χρονη από τον Κορυδαλλό – Η ανακοίνωση από το «Χαμόγελο του Παιδιού»",
+          "link": "https://www.newsit.gr/ellada/eksafanistike-16xroni-apo-ton-korydallo-i-anakoinosi-apo-to-xamogelo-tou-paidiou/4584239/",
+          "pubDate": "Mon, 26 Jan 2026 20:56:56 +0000",
+          "description": "Συναγερμός σήμανε την Δευτέρα (26.01.2026) για την εξαφάνιση μιας 16χρονης από την περιοχή του Κορυδαλλού. Η εξαφάνιση της 16χρονης Ελένης Α. από την περιοχή του ...  \nTo άρθρο Εξαφανίστηκε 16χρονη από τον Κορυδαλλό – Η ανακοίνωση από το «Χαμόγελο του Παιδιού» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/exafanisi-1-1-1200x630.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Αστυνομικός πυροβόλησε και σκότωσε έναν 28χρονο στο Μιλάνο",
           "link": "https://www.newsit.gr/kosmos/astynomikos-pyrovolise-kai-skotose-enan-28xrono-sto-milano/4584237/",
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 22:20:36 +0300",
           "description": "Ο Στέλαν Σκάρσγκαρντ μιλά χωρίς φίλτρα για τη γονεϊκότητα, απορρίπτοντας την ιδέα της τελειότητας: αυτό που χρειάζονται τα παιδιά, λέει, δεν είναι άψογοι γονείς, αλλά ειλικρίνεια, λάθη και αγάπη.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/stln-768x490.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ζαχάροβα: Η απαγόρευση του ρωσικού φυσικού αερίου θα κοστίσει στους Ευρωπαίους την ελευθερία τους",
-          "link": "https://www.in.gr/2026/01/26/world/zaxarova-apagoreysi-tou-rosikou-fysikou-aeriou-tha-kostisei-stous-eyropaious-tin-eleytheria-tous/",
-          "pubDate": "Mon, 26 Jan 2026 22:16:58 +0300",
-          "description": "Η εκπρόσωπος Τύπου του ρωσικού υπουργείου Εξωτερικών, Μαρία Ζαχάροβα, σχολίασε την απόφαση της ΕΕ να απαγορεύσει πλήρως τις προμήθειες ρωσικού αερίου από το 2027.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-20T102144Z_279577315_RC2W4JAV029O_RTRMADP_5_RUSSIA-LAVROV-768x475.jpg",
           "source": "In.gr"
         }
       ]
