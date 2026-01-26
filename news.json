@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T20:30:32.675Z",
+  "lastUpdated": "2026-01-26T20:35:24.366Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Διακοπές κυκλοφορίας σε Χαλκιδική, Σέρρες και Κιλκίς λόγω έντονης βροχόπτωσης",
+          "link": "https://www.protothema.gr/greece/article/1763839/diakopes-kukloforias-se-halkidiki-serres-kai-kilkis-logo-edonis-vrohoptosis/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 22:32:00 +0200",
+          "description": "Οι αποφάσεις της τροχαίας για το οδικό δίκτυο της Κεντρικής Μακεδονίας",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/6535536.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Σεισμός 3,6 Ρίχτερ στην Κρήτη – Ανοιχτά από τα Σφακιά το επίκεντρο",
+          "link": "https://www.newsit.gr/ellada/seismos-3-6-rixter-stin-kriti-anoixta-apo-ta-sfakia-to-epikentro/4584219/",
+          "pubDate": "Mon, 26 Jan 2026 20:31:44 +0000",
+          "description": "Σεισμός μεγέθους 3,6 βαθμών της κλίμακας Ρίχτερ σημειώθηκε στην Κρήτη το βράδυ της Δευτέρας (26.01.2026). Το επίκεντρο της δόνησης εντοπίζεται στη θαλάσσια περιοχή κοντά στα ...  \nTo άρθρο Σεισμός 3,6 Ρίχτερ στην Κρήτη – Ανοιχτά από τα Σφακιά το επίκεντρο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/seismos2-26012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ψάχνουν το πελατολόγιο του σουβλατζίδικου στη Δραπετσώνα που μαζί με πιτόγυρα πούλαγε και ναρκωτικά",
           "link": "https://www.newsit.gr/ellada/psaxnoun-to-pelatologio-tou-souvlatzidikou-sti-drapetsona-pou-mazi-me-pitogyra-poulage-kai-narkotika/4584194/",
@@ -137,10 +153,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "ICE – SS – Εκτελεστές: Ανατριχίλες ξυπνά η ναζιστική αισθητική του διοικητή της ICE",
+          "title": "ICE – SS – Εκτελεστές: Ανατριχίλες ξυπνά η ναζιστική αισθητική του διοικητή της Συνοριακής Φρουράς του Τραμπ",
           "link": "https://www.in.gr/2026/01/26/world/ice-es-es-ektelestes-anatrixiles-ksypna-nazistiki-aisthitiki-tou-dioikiti-tis-ice/",
           "pubDate": "Mon, 26 Jan 2026 22:24:47 +0300",
-          "description": "Ο διοικητής της ICE Γκρεγκ Μποβίνο, είναι διαβόητος, όχι μόνο για τις κυνικές δηλώσεις του, αλλά και για τη ναζιστικής αισθητικής στολή του. Ο ίδιος αρνείται κάθε ομοιότητα με αξιωματικό του Χίτλερ.",
+          "description": "Ο διοικητής της ICE Γκρεγκ Μποβίνο είναι διαβόητος, όχι μόνο για τις κυνικές δηλώσεις του αλλά και για τη ναζιστικής αισθητικής στολή του. Ο ίδιος αρνείται κάθε ομοιότητα με αξιωματικό του Χίτλερ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/bovino-1024x683-768x512.jpg",
           "source": "In.gr"
         },
@@ -230,22 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 19:00:47 +0000",
           "description": "Οι 4 συστημικές ελληνικές τράπεζες έχουν περιθώρια ανόδου, παρότι έχουν ενισχυθεί κατά 17% από τις αρχές του έτους και 92% τον τελευταίο χρόνο, εκφράζει η ...  \nTo άρθρο Στο μικροσκόπιο οι ελληνικές τράπεζες από διεθνείς επενδυτικούς οίκους – Περιθώρια περαιτέρω ανόδου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-640267784-1-1200x861.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΟΣΕΤΕΕ: Μαύρη μερα για την Ελλάδα το εργατικό δυστύχημα στα Τρίκαλα – Ανθρωπιστική κρίση στους χώρους δουλειάς",
-          "link": "https://www.in.gr/2026/01/26/greece/osetee-mayri-mera-gia-tin-ellada-ergatiko-dystyxima-sta-trikala-anthropistiki-krisi-stous-xorous-douleias/",
-          "pubDate": "Mon, 26 Jan 2026 22:00:40 +0300",
-          "description": "Το εργατικο δυστύχημα στα Τρίκαλα, με θύματα πέντε εργάτριες νυχτερινής βάρδιας, δεν ήταν η κακιά στιγμή. Ήταν άλλη μια πράξη στην εξελισσόμενη τραγωδία της ανθρωπιστικής κρίσης στους χώρους δουλειάς.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EV15_260126_THK_PYRKAGIA-35-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μελίσσια: «Κρατήρας» από θραύση αγωγού – Κλειστή η Δημοκρατίας λόγω της καθίζησης",
-          "link": "https://www.newsit.gr/ellada/melissia-kratiras-apo-thraysi-agogou-kleisti-i-dimokratias-logo-tis-kathizisis/4584183/",
-          "pubDate": "Mon, 26 Jan 2026 19:00:35 +0000",
-          "description": "Σοβαρά προβλήματα έχει προκαλέσει στα Μελίσσια η θραύση κεντρικού αγωγού της ΕΥΔΑΠ, η οποία είχε ως αποτέλεσμα να υποστεί καθίζηση το οδόστρωμα και να ανοίξει ...  \nTo άρθρο Μελίσσια: «Κρατήρας» από θραύση αγωγού – Κλειστή η Δημοκρατίας λόγω της καθίζησης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/melissia-1200x774.jpg",
           "source": "NewsIT"
         }
       ]
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Απίστευτο: Η κατηγορία που ο Παναθηναϊκός πάει να πιάσει… πάτο!",
+          "link": "https://panathinaikos24.gr/2026/01/26/617876/apisteyto-i-katigoria-pou-o-panathinaikos-paei-na-piasei-pato/",
+          "pubDate": "Mon, 26 Jan 2026 20:31:49 +0000",
+          "description": "Ένα υπέρ-ατού, που μετατράπηκε σε αχίλλειο πτέρνα...",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3732.jpeg?fit=750%2C422&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Πετρίδης: «Τα νεότερα για Ναν, Όσμαν, Μήτογλου – Περιμένει τις εξελίξεις από το ΝΒΑ για παίκτη ο Παναθηναϊκός»",
           "link": "https://panathinaikos24.gr/2026/01/26/617870/petridis-ta-neotera-gia-nan-osman-mitoglou-perimenei-tis-ekselikseis-apo-to-nva-gia-paikti-o-panathinaikos/",
           "pubDate": "Mon, 26 Jan 2026 19:51:06 +0000",
@@ -1174,14 +1182,6 @@
           "pubDate": "Mon, 26 Jan 2026 12:41:39 +0000",
           "description": "Τα εισιτήρια για τον προημιτελικό του Challenge Cup Γυναικών.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/ntye-1.jpg?fit=805%2C531&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Γρίφος με Γιαμπουσέλε…",
-          "link": "https://panathinaikos24.gr/2026/01/26/617578/grifos-me-giampousele/",
-          "pubDate": "Mon, 26 Jan 2026 12:12:57 +0000",
-          "description": "Tι συμβαίνει με τον Γάλλο ψηλό.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/AP25095527063396.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
         },
         {
