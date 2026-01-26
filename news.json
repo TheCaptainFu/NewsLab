@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T15:20:29.438Z",
+  "lastUpdated": "2026-01-26T15:25:32.484Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,18 @@
       "color": "red",
       "articles": [
         {
+          "title": "ΕΜΠ: Στην κορυφή των ελληνικών πανεπιστημίων σύμφωνα με την ετήσια έκθεση της ΕΘΑΑΕ",
+          "link": "https://www.protothema.gr/greece/article/1763670/eb-stin-korufi-ton-ellinikon-panepistimion-sumfona-me-tin-etisia-ekthesi-tis-ethaae/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 17:24:04 +0200",
+          "description": "Το Εθνικό Μετσόβιο Πανεπιστήμιο κατατάσσεται πρώτο για τρίτη συνεχή χρονιά – Βάσει της συγκεκριμένης κατάταξης κατανέμεται η κρατική χρηματοδότηση στα ΑΕΙ",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-06-24/metsovio_politexneio_arthrou.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
           "title": "Διακόπτεται η λειτουργία του The Birth Center, η ανάρτηση της Εριέττας Κούρκουλου - Λάτση",
           "link": "https://www.protothema.gr/greece/article/1763665/diakopi-leitourgias-tou-the-birth-center-i-anartisi-tis-eriettas-kourkoulou-latsi/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 17:14:00 +0200",
-          "description": "Η κυρία Κούρκουλου γνωστοποίησε πως «για το προσεχές διάστημα, το Κέντρο δεν θα πραγματοποιεί φυσικούς τοκετούς στις εγκαταστάσεις του»",
+          "description": "Η κυρία Κούρκουλου Λάτση γνωστοποίησε πως «για το προσεχές διάστημα, το Κέντρο δεν θα πραγματοποιεί φυσικούς τοκετούς στις εγκαταστάσεις του»",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/maketa-kourkoulou.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -185,12 +193,36 @@
           "source": "NewsIT"
         },
         {
+          "title": "Άρης: Γύρισε στις προπονήσεις ο Μιγκέλ Αλφαρέλα",
+          "link": "https://www.in.gr/2026/01/26/sports/football/aris-gyrise-stis-proponiseis-o-migkel-alfarela/",
+          "pubDate": "Mon, 26 Jan 2026 17:24:40 +0300",
+          "description": "Ο Γάλλος επιθετικός ξεπέρασε το πρόβλημα τραυματισμού του και συμμετείχε στην προπόνηση μετά από δυο μήνες, περίπου, ενώ θέτει υποψηφιότητα για την αποστολή του σαββατιάτικου ματς με τον Παναιτωλικό.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6747571-768x552.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ζελένσκι: Συζητήσαμε με Ρωσία και ΗΠΑ στρατιωτικά και πολιτικά ζητήματα για τον τερματισμό του πολέμου",
           "link": "https://www.newsit.gr/kosmos/zelenski-syzitisame-me-rosia-kai-ipa-stratiotika-kai-politika-zitimata-gia-ton-termatismo-tou-polemou/4583941/",
           "pubDate": "Mon, 26 Jan 2026 14:23:30 +0000",
           "description": "Για τις επαφές αξιωματούχων από την Ρωσία, τις ΗΠΑ και την Ουκρανία που πραγματοποιήθηκαν τις τελευταίες ημέρες στο Άμπου Ντάμπι μίλησε σήμερα (26.01.2026) ο Βολοντίμιρ ...  \nTo άρθρο Ζελένσκι: Συζητήσαμε με Ρωσία και ΗΠΑ στρατιωτικά και πολιτικά ζητήματα για τον τερματισμό του πολέμου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zelensky-trump-reuters-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Μυστηριώδες σιδερένιο σύννεφο ανακαλύφθηκε σε διάσημο νεφέλωμα",
+          "link": "https://www.in.gr/2026/01/26/uncategorized/mystiriodes-siderenio-synnefo-anakalyfthike-se-diasimo-nefeloma/",
+          "pubDate": "Mon, 26 Jan 2026 17:23:16 +0300",
+          "description": "Το σύννεφο ατόμων σιδήρου στο κέντρο του Δακτυλιοειδούς Νεφελώματος έχει μήκος 6 τρισεκατομμυρίων χιλιομέτρων. Μια εξήγξση είναι πως πρόκειται για τα λείψανα ενός εξαερωμένου πλανήτη.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Nebula-Roger-Wesson-et-al-768x480.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Τζόγος με το θάνατο σε live μετάδοση: Ηρωϊσμός ή κανιβαλισμός το Skyscraper Live του Άλεξ Χόλοντ;",
+          "link": "https://www.in.gr/2026/01/26/life/culture-live/tzogos-thanato-se-live-metadosi-iroismos-kanivalismos-skyscraper-live-tou-aleks-xolont/",
+          "pubDate": "Mon, 26 Jan 2026 17:20:58 +0300",
+          "description": "Η διαφορά ανάμεσα στο μονταρισμένο δράμα και τον ωμό, ζωντανό τρόμο της απευθείας μετάδοσης διεκδίκησε την τηλεθέαση στο Netflix με την αναρρίχηση του Άλεξ Χόλοντ να αναδεικνύει την τηλεθέαση του θανάτου",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/621827716_1248744380459233_2830703926804164477_n-768x432.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Τα πρόσωπα της τραγωδίας στη Βιολάντα: Θρήνος για την  Βασιλική, την Έλενα, τη Σταυρούλα",
@@ -214,38 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 14:13:18 +0000",
           "description": "Η Εθνική πόλο των ανδρών μας έκανε για μια ακόμα φορά υπερήφανους. Η Γαλανόλευκη επικράτησε άνετα της Ιταλίας 12-5 στον μικρό τελικό του Ευρωπαϊκού πρωταθλήματος ...  \nTo άρθρο Νίκος Γκάλης για Εθνική πόλο ανδρών: «Περήφανοι για εσάς» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ethniki-polo-andron-eurokinissi-6-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γυναικείες οργανώσεις: Προβληματική η υποχρεωτική συνεπιμέλεια, οι αλλαγές δεν μπορεί να γίνονται για σκοπιμότητες",
-          "link": "https://www.protothema.gr/greece/article/1763625/gunaikeies-organoseis-provlimatiki-i-upohreotiki-sunepimeleia-oi-allages-den-borei-na-ginodai-gia-skopimotites/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 16:13:15 +0200",
-          "description": "Οι 10 οργανώσεις προειδοποιούν ότι η εφαρμογή της υποχρεωτικής συνεπιμέλειας δημιουργεί στην πράξη σοβαρά προβλήματα, σε βάρος κυρίως των παιδιών και των θυμάτων βίας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/synepimeleia1.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Έκρηξη στη βιομηχανία «Βιολάντα»: Βρέθηκε η σορός και της πέμπτης εργάτριας που σκοτώθηκε στο εργοστάσιο στα Τρίκαλα",
-          "link": "https://www.newsit.gr/ellada/ekriksi-sti-viomixania-violanta-vrethike-i-soros-kai-tis-pemptis-ergatrias-pou-skotothike-sto-ergostasio-sta-trikala/4583948/",
-          "pubDate": "Mon, 26 Jan 2026 14:09:14 +0000",
-          "description": "Τραγικός είναι ο επίλογος και για την πέμπτη εργαζόμενη που αγνοούνταν μετά την έκρηξη και τη φωτιά στο εργοστάσιο της βιομηχανίας «Βιολάντας» στα Τρίκαλα. Πέντε ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: Βρέθηκε η σορός και της πέμπτης εργάτριας που σκοτώθηκε στο εργοστάσιο στα Τρίκαλα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nekres-violanta-trikala.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γάζα: Βρέθηκε η σορός του τελευταίου Ισραηλινού ομήρου και επιστρέφει στο Ισραήλ",
-          "link": "https://www.newsit.gr/kosmos/gaza-vrethike-i-soros-tou-teleytaiou-israilinou-omirou-kai-epistrefei-sto-israil/4583931/",
-          "pubDate": "Mon, 26 Jan 2026 14:07:42 +0000",
-          "description": "Ο ισραηλινός στρατός ανακοίνωσε σήμερα (26/1/26) ότι εντόπισε και ταυτοποίησε τη σορό του Ραν Γκβίλι, του τελευταίου εναπομείναντα ομήρου στη Γάζα. Η σορός του ομήρου ...  \nTo άρθρο Γάζα: Βρέθηκε η σορός του τελευταίου Ισραηλινού ομήρου και επιστρέφει στο Ισραήλ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/palestinians-gaza-hostages-2.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συνομιλία Μητσοτάκη και Κεφαλογιάννη μετά το Υπουργικό, με φόντο τις αντιδράσεις για τη συνεπιμέλεια",
-          "link": "https://www.newsit.gr/politikh/synomilia-mitsotaki-kai-kefalogianni-meta-to-ypourgiko-me-fonto-tis-antidraseis-gia-ti-synepimeleia/4583932/",
-          "pubDate": "Mon, 26 Jan 2026 14:07:29 +0000",
-          "description": "Ολιγόλεπτη συνομιλία είχαν ο πρωθυπουργός, Κυριάκος Μητσοτάκης, και η υπουργός Τουρισμού,  Όλγα Κεφαλογιάννη, μετά την ολοκλήρωση της συνεδρίασης του Υπουργικού Συμβουλίου στο Μέγαρο Μαξίμου, το ...  \nTo άρθρο Συνομιλία Μητσοτάκη και Κεφαλογιάννη μετά το Υπουργικό, με φόντο τις αντιδράσεις για τη συνεπιμέλεια δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mitsotakis-kefalogianni-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,7 +747,31 @@
       "color": "green",
       "articles": [
         {
-          "title": "Ρεάλ Μαδρίτης: Πως θα είναι η ζωή χωρίς τον Μαλεντόν",
+          "title": "Λούκμαν: Ζήτησε να φύγει από την Αταλάντα ",
+          "link": "https://www.gazzetta.gr/football/serie/2510362/loykman-zitise-na-fygei-apo-tin-atalanta",
+          "pubDate": "Mon, 26 Jan 2026 17:24:27 +0200",
+          "description": "Αίτημα μεταγραφής φαίνεται πως κατέθεσε προς τη διοίκηση της Αταλάντα ο Αντεμόλα Λούκμαν, ο οποίος συνεχίζει να πιέζει τους Μπεργκαμάσκι για την αποχώρησή του.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-05/lookmannnn.jpg?itok=p65NV1nk",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γιόβιτς: Στο μουσείο της ΑΕΚ η φανέλα του ιστορικού καρέ ",
+          "link": "https://www.gazzetta.gr/football/superleague/2510360/giobits-sto-moyseio-tis-aek-i-fanela-toy-istorikoy-kare",
+          "pubDate": "Mon, 26 Jan 2026 17:22:28 +0200",
+          "description": "Η φανέλα που φορούσε ο Λούκα Γιόβιτς στο ιστορικό καρέ που πέτυχε κόντρα στον Παναθηναϊκό τοποθετήθηκε στο μουσείο της ΑΕΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jovic_3.jpg?itok=DkTyORl9",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μινεάπολη: Η «γυναίκα με το ροζ παλτό» που κατέγραψε τη στιγμή της δολοφονίας του Άλεξ Πρέτι",
+          "link": "https://www.gazzetta.gr/plus/2510357/mineapoli-i-gynaika-me-roz-palto-poy-kategrapse-ti-stigmi-tis-dolofonias-toy-alex",
+          "pubDate": "Mon, 26 Jan 2026 17:19:41 +0200",
+          "description": "Τι συνέβη στη βασική μάρτυρα της δολοφονίας του Άλεξ Πρέτι; Η «γυναίκα με το ροζ παλτό» αφηγείται την ιστορία της αφού κατέγραψε θανατηφόρα πυροβολισμούς από τη Συνοριακή Φρουρά στη Μινεάπολη",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/roz.jpg?itok=dQxdlieq",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ρεάλ Μαδρίτης: Πώς θα είναι η ζωή χωρίς τον Μαλεντόν",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510359/real-madritis-pos-tha-einai-i-zoi-horis-ton-malenton",
           "pubDate": "Mon, 26 Jan 2026 17:16:30 +0200",
           "description": "Ο Τεό Μαλεντόν θα παραμείνει εκτός δράσης λόγω του τραυματισμού του στον προσαγωγό για 2-3 εβδομάδες και η Ρεάλ θα πρέπει να καλύψει το κενό του.",
@@ -961,30 +985,6 @@
           "description": "Η γερμανική ομάδα της Formula 1 είναι αυτή που κέρδισε τελικά την υπογραφή του ανερχόμενου Βρετανού αστέρα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/audi_slater.jpg?itok=JKvB7Sou",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Εξαντλήθηκαν τα εισιτήρια για τον αγώνα με την Λυών",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510338/paok-exantlithikan-ta-eisitiria-gia-ton-agona-me-tin-lyon",
-          "pubDate": "Mon, 26 Jan 2026 15:52:46 +0200",
-          "description": "Ο ΠΑΟΚ ανακοίνωσε πως δεν υπάρχουν πλεόν διαθέσιμα εισιτήρια για τον εκτός έδρας αγώνα του με την Λυών την Πέμπτη (29/01).",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_kosmos_intime.jpg?itok=slSy6YN9",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σβαμπ: «Μου λείπουν οι οπαδοί του ΠΑΟΚ»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510337/sbamp-moy-leipoyn-oi-opadoi-toy-paok",
-          "pubDate": "Mon, 26 Jan 2026 15:49:00 +0200",
-          "description": "Ο Στέφαν Σβαμπ αναφέρθηκε στην πορεία του στην Ελλάδα και τον ΠΑΟΚ, μιλώντας για το τι αναμνήσεις έχει και τι του έχει λείψει περισσότερο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-05/svab-tsouber.jpg?itok=b_E2Byi7",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κύπελλο Ελλάδας: Κυκλοφόρησαν τα εισιτήρια για το Final 8 του μπάσκετ",
-          "link": "https://www.newsit.gr/athlitika/kypello-elladas-kykloforisan-ta-eisitiria-gia-to-final-8-tou-mpasket/4583895/",
-          "pubDate": "Mon, 26 Jan 2026 13:47:02 +0000",
-          "description": "Η ώρα για το Final 8 στο Κύπελλο Ελλάδας του μπάσκετ πλησιάζει και η ΕΟΚ ξεκίνησε την… αντίστροφη μέτρηση, ανακοινώνοντας την κυκλοφορία των εισιτηρίων για ...  \nTo άρθρο Κύπελλο Ελλάδας: Κυκλοφόρησαν τα εισιτήρια για το Final 8 του μπάσκετ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/09/sloukas-fournier-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "ChatGPT: Έρχεται η «έξυπνη» ανώνυμη περιήγηση με διατήρηση της εξατομίκευσης",
+          "link": "https://gr.pcmag.com/ai-2/51125/chatgpt-erkhetai-e-exupne-anonume-periegese-me-diaterese-tes-exatomikeuses",
+          "pubDate": "Mon, 26 Jan 2026 15:23:14 +0000",
+          "description": "Μια νέα κρυφή λειτουργία στο Temporary Chat επιτρέπει στο chatbot της OpenAI να θυμάται τις προτιμήσεις σας χωρίς όμως να καταγράφει τη συνομιλία στο ιστορικό σας.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/c/chatgpts-v/chatgpts-version-of-incognito-mode-may-soon-remember-who-you_vt6n.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "BlueSky: Παγκόσμιο «blackout» στην πλατφόρμα – Δεν φορτώνουν τα feeds και η ανακάλυψη ροών",
           "link": "https://gr.pcmag.com/social-media-1/51128/bluesky-pagkosmio-blackout-sten-platphorma-den-phortonoun-ta-feeds-kai-e-anakalupse-roon",
           "pubDate": "Mon, 26 Jan 2026 14:51:19 +0000",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sun, 25 Jan 2026 17:21:41 +0000",
           "description": "Σε αντίθεση με την Apple, η Microsoft παραχώρησε πρόσβαση σε κρυπτογραφημένα δεδομένα Windows κατόπιν εντάλματος, προκαλώντας αντιδράσεις από ειδικούς σε θέματα κυβερνοασφάλειας και ιδιωτικότητας.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/r/report-mic/report-microsoft-hands-over-keys-for-bitlocker-encrypted-dat_j38y.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Gmail Outage: Κατέρρευσαν τα φίλτρα spam και η κατηγοριοποίηση των email",
-          "link": "https://gr.pcmag.com/old-hosted-email-providers/51118/gmail-outage-katerreusan-ta-philtra-spam-kai-e-kategoriopoiese-ton-email",
-          "pubDate": "Sun, 25 Jan 2026 17:09:53 +0000",
-          "description": "Χιλιάδες χρήστες αναφέρουν ότι διαφημιστικά και κοινωνικά μηνύματα \"πλημμυρίζουν\" τα κύρια εισερχόμενα, ενώ η Google παραδέχεται το πρόβλημα και εργάζεται για την επίλυση.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/g/gmail-glit/gmail-glitch-appears-to-break-email-filtering-tabbed-inboxes_hk2q.jpg",
           "source": "PC Magazine"
         }
       ]
