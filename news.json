@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T18:15:27.428Z",
+  "lastUpdated": "2026-01-26T18:20:29.482Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γιώργος Καπουτζίδης: Η μοναχικότητα και η μοναξιά που βίωσα στην εφηβεία μου με διαμόρφωσαν",
+          "link": "https://www.newsit.gr/lifestyle/giorgos-kapoutzidis-i-monaxikotita-kai-i-monaksia-pou-viosa-stin-efiveia-mou-me-diamorfosan/4584163/",
+          "pubDate": "Mon, 26 Jan 2026 18:17:00 +0000",
+          "description": "Ο Γιώργος Καπουτζίδης έκανε μία εξομολόγηση για τα δύσκολα εφηβικά χρόνια που πέρασε και παραδέχτηκε ότι τα όσα βίωσε τον βοήθησαν να γίνει ο άνθρωπος ...  \nTo άρθρο Γιώργος Καπουτζίδης: Η μοναχικότητα και η μοναξιά που βίωσα στην εφηβεία μου με διαμόρφωσαν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-kapoytzidis-ndp-1200x695.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Έσκασε αγωγός νερού στη Θεσσαλονίκη, τέσσερις τραυματίες, δείτε βίντεο\n",
+          "link": "https://www.protothema.gr/greece/article/1763771/eskase-agogos-nerou-sti-thessaloniki-tesseris-traumaties-deite-video/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 20:14:00 +0200",
+          "description": "Η διοίκηση της ΕΥΑΘ έδωσε εντολή να ξεκινήσει άμεσα η διαδικασία ώστε να διαπιστωθούν οι ακριβείς συνθήκες κάτω από τις οποίες συνέβη το εργατικό ατύχημα",
+          "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-26/agogos.png",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ολυμπιακός: Πρόβλημα με Ρομάν Γιάρεμτσουκ ενόψει Άγιαξ",
           "link": "https://www.newsit.gr/athlitika/olympiakos-provlima-me-roman-giaremtsouk-enopsei-agiaks/4584164/",
@@ -231,22 +247,6 @@
           "description": "Μία σπάνια τηλεοπτική συνέντευξη έδωσε η Καρυοφυλλιά Καραμπέτη και αναφέρθηκε στα πράγματα που έχουν αληθινή αξία στη ζωή. Όπως δήλωσε η σπουδαία καλλιτέχνιδα το απόγευμα ...  \nTo άρθρο Καρυοφυλλιά Καραμπέτη: Ήμουν κατά του γάμου από μικρό παιδί, δεν ήθελα να παντρευτώ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kariofilia-karampeti-ndp-1200x733.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "«Ο ΠΑΟΚ ετοιμάζει νέα πρόταση για τον Χόρχε Σάντσες» γράφουν στο Μεξικό",
-          "link": "https://www.newsit.gr/athlitika/o-paok-etoimazei-nea-protasi-gia-ton-xorxe-santses-grafoun-sto-meksiko/4584102/",
-          "pubDate": "Mon, 26 Jan 2026 16:49:30 +0000",
-          "description": "Η περίπτωση του 28χρονου δεξιού μπακ, Χόρχε Σάντσες, επανέρχεται στα μετεγγραφικά δημοσιεύματα που αφορούν τον ΠΑΟΚ, με τα ΜΜΕ από το Μεξικό να σημειώνουν πως ...  \nTo άρθρο «Ο ΠΑΟΚ ετοιμάζει νέα πρόταση για τον Χόρχε Σάντσες» γράφουν στο Μεξικό δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jorge-sanchez-ap.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κακοκαιρία: Σε κατάσταση έκτακτης ανάγκης ο Δήμος Σιντικής στις Σέρρες –  Απεγκλωβίστηκε ζευγάρι κτηνοτρόφων",
-          "link": "https://www.in.gr/2026/01/26/greece/kakokairia-se-katastasi-ektaktis-anagkis-o-dimos-sintikis-stis-serres-apegklovistike-zeygari-ktinotrofon/",
-          "pubDate": "Mon, 26 Jan 2026 19:40:25 +0300",
-          "description": "Σε συνεργασία με την Περιφέρεια Κεντρικής Μακεδονίας εκτελούνται εργασίες με βαρέα μηχανήματα έργου στην κοιλάδα του Κρουσοβίτη στο Σιδηρόκαστρο ώστε να μην φτάσουν τα νερά σε κατοικημένες περιοχές.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/sint_plim-768x449.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παναθηναϊκός: «Ο Ούλισες Γκαρσία στη λίστα του»",
+          "link": "https://www.gazzetta.gr/football/superleague/2510395/panathinaikos-o-oylises-gkarsia-sti-lista-toy",
+          "pubDate": "Mon, 26 Jan 2026 20:16:36 +0200",
+          "description": "Ο Παναθηναϊκός φέρεται να έχει ασχοληθεί με την περίπτωση του αριστερού μπακ της Μαρσέιγ Ούλισες Γκαρσία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ulisses_garcia.jpg?itok=tandkdme",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναιτωλικός: Ο Ρόσα «ανακοίνωσε» την επιστροφή του",
+          "link": "https://www.gazzetta.gr/football/superleague/2510394/panaitolikos-o-rosa-anakoinose-tin-epistrofi-toy",
+          "pubDate": "Mon, 26 Jan 2026 20:15:28 +0200",
+          "description": "Ο Φάρλεϊ Ρόσα με story του στο Instagram «ανακοίνωσε» την επιστροφή του στον Παναιτωλικό, όντας έτοιμος για την τρίτη του θητεία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/rosa.jpg?itok=D9SXb_wt",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Το NBA LIVE στο Gazzetta",
           "link": "https://www.gazzetta.gr/basketball/nba/2510350/nba-live-sto-gazzetta",
           "pubDate": "Mon, 26 Jan 2026 20:15:00 +0200",
@@ -969,22 +985,6 @@
           "description": "Ο προπονητής της Ρεάλ Σέρτζιο Σκαριόλο ανέπτυξε τη θεωρία του για την επιθετική συμπεριφορά που είχε προς τον Μάριο Χεζόνια στο ξεκίνημα της σεζόν.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/scariolo_eurokinissi.jpg?itok=8BtEdJjl",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Τι κάνει ένα smoothie υγιεινό και τι μπορεί να το κάνει λιγότερο υγιεινό",
-          "link": "https://www.gazzetta.gr/plus/2510328/ti-kanei-ena-smoothie-ygieino-kai-ti-mporei-na-kanei-ligotero-ygieino",
-          "pubDate": "Mon, 26 Jan 2026 18:00:00 +0200",
-          "description": "Ποια συστατικά και ποιοι διατροφικοί συνδυασμοί επηρεάζουν τη γλυκαιμική απόκριση, τον κορεσμό και τη συνολική θρεπτική αξία ενός smoothie.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fanny-gustafsson-71z7ecls4uo-unsplash.jpg?itok=TaDxc_9y",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ιστορική ημέρα στον ΠΑΟΚ, έπεσαν οι υπογραφές για τη Νέα Τούμπα",
-          "link": "https://www.newsit.gr/athlitika/istoriki-imera-ston-paok-epesan-oi-ypografes-gia-ti-nea-toumpa/4584049/",
-          "pubDate": "Mon, 26 Jan 2026 15:59:54 +0000",
-          "description": "Άνοιξε ο δρόμος για την κατασκευή της Νέας Τούμπας αφού τη Δευτέρα (26.01.2026) η ΠΑΕ ΠΑΟΚ, ο ΑΣ ΠΑΟΚ και η εταιρεία “Φωλιά του Δικέφαλου ...  \nTo άρθρο Ιστορική ημέρα στον ΠΑΟΚ, έπεσαν οι υπογραφές για τη Νέα Τούμπα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-nea-toympa-paokfc-1200x769.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -1065,10 +1065,10 @@
           "source": "Όλα Πράσινα"
         },
         {
-          "title": "LIVE ΤΩΡΑ | Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»!",
+          "title": "Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/live-tora-o-achtarmas-ston-panathinaiko-psa/?utm_source=rss&utm_medium=rss&utm_campaign=live-tora-o-achtarmas-ston-panathinaiko-psa",
           "pubDate": "Mon, 26 Jan 2026 15:43:51 +0000",
-          "description": "Παρακολουθήστε την ζωντανή εκπομπή «Green Monday» του «Όλα Πράσινα» με τον Άρη Αντωνόπουλο να αναλύει όλα τα μεταγραφικά δεδομένα γύρω από ποδοσφαιρικό και μπασκετικό Παναθηναϊκό.\nThe post LIVE ΤΩΡΑ | Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»! appeared first on Όλα Πράσινα.",
+          "description": "Παρακολουθήστε την ζωντανή εκπομπή «Green Monday» του «Όλα Πράσινα» με τον Άρη Αντωνόπουλο να αναλύει όλα τα μεταγραφικά δεδομένα γύρω από ποδοσφαιρικό και μπασκετικό Παναθηναϊκό.\nThe post Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/2025-26-bg-ekpompi-green-monday-cover-article-solo-.jpg",
           "source": "Όλα Πράσινα"
         },
