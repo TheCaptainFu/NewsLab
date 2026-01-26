@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T16:25:25.125Z",
+  "lastUpdated": "2026-01-26T16:30:37.717Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,7 +9,7 @@
       "color": "red",
       "articles": [
         {
-          "title": "Συνεχίζει με αμείωτο ρυθμό η Τροχαία τα αλκοτέστ, 10 συλλήψεις και 246 παραβάσεις σε τρεις μέρες, δείτε βίντεο  ",
+          "title": "Συνεχίζει με αμείωτο ρυθμό η Τροχαία τα αλκοτέστ: 10 συλλήψεις και 246 παραβάσεις σε τρεις μέρες, δείτε βίντεο  ",
           "link": "https://www.protothema.gr/greece/article/1763710/sullipsi-10-odigon-gia-odigisi-upo-tin-epireia-alkool-stin-attiki/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 18:22:00 +0200",
           "description": "Η ΕΛΑΣ πραγματοποίησε  23.010 ελέγχους σε ένα τριήμερο",
@@ -993,9 +993,17 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Στον «αέρα» τα εισιτήρια για το Final 8 του Κυπέλλου Ελλάδας Ανδρών",
+          "link": "https://panathinaikos24.gr/2026/01/26/617845/ston-aera-ta-eisitiria-gia-to-final-8-tou-kypellou-elladas-andron/",
+          "pubDate": "Mon, 26 Jan 2026 16:26:46 +0000",
+          "description": "Το Final 8 θα διοργανωθεί στο Ηράκλειο Κρήτης από τις 17, έως τις 21 Φεβρουαρίου και η ΕΟΚ ανακοίνωσε πως το κοινό μπορεί να προμηθευτεί τα διαθέσιμα εισιτήρια.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/10/4842039.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Με τον ΠΑΟΚ στα προημιτελικά κυπέλλου στο βόλεϊ γυναικών ο Παναθηναϊκός",
           "link": "https://panathinaikos24.gr/2026/01/26/617839/me-ton-paok-sta-proimitelika-kypellou-sto-volei-gynaikon-o-panathinaikos/",
-          "pubDate": "Mon, 26 Jan 2026 16:23:28 +0000",
+          "pubDate": "Mon, 26 Jan 2026 16:12:28 +0000",
           "description": "Η ομοσπονδία γνωστοποίησε τα ζευγάρια και την ημερομηνία που θα διεξαχθούν οι προημιτελικοί αγώνες του Κυπέλλου Ελλάδας Γυναικών.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/haylie-bennett-panathinaikos-volley-intime-5002760.webp?fit=1300%2C700&amp;ssl=1",
           "source": "Panathinaikos24"
@@ -1223,14 +1231,6 @@
           "description": "Μετρά αντίστροφα για το πρώτο του παιχνίδι με τη φανέλα του Παναθηναϊκού ο Σαντίνο Αντίνο. Σταδιακά αρχίζει να ξεκαθαρίζει το πλαίσιο γύρω από το πιθανό ντεμπούτο του Σαντίνο Αντίνο με τη φανέλα του Παναθηναϊκού, με τους ανθρώπους του συλλόγου να κινούνται προσεκτικά, έχοντας πλήρη επίγνωση της αγωνιστικής του κατάστασης και του χρονικού διαστήματος αποχής του […]\nThe post Παναθηναϊκός: Γιατί δεν παίζει ο Αντίνο – Το πιθανό ντεμπούτο του στα πράσινα appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Andino-1-2.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Παναθηναϊκός: Πρόβλημα για την Ρόμα πριν το ΟΑΚΑ",
-          "link": "https://panathinaikos24.gr/2026/01/26/617761/panathinaikos-provlima-gia-tin-roma-prin-to-oaka/",
-          "pubDate": "Mon, 26 Jan 2026 09:47:28 +0000",
-          "description": "«Πονοκέφαλος» για τον Τζαν Πιέρο Γκασπερίνι, ενόψει Παναθηναϊκού.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/AP26022792572210.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
