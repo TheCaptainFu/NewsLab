@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T14:05:30.608Z",
+  "lastUpdated": "2026-01-26T14:10:31.294Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,46 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τρίκαλα: Βρέθηκε και η πέμπτη σορός στα συντρίμμια της βιομηχανίας «Βιολάντα»",
+          "link": "https://www.newsit.gr/ellada/trikala-vrethike-kai-i-pempti-soros-sta-syntrimmia-tis-viomixanias-violanta/4583948/",
+          "pubDate": "Mon, 26 Jan 2026 14:09:14 +0000",
+          "description": "To άρθρο Τρίκαλα: Βρέθηκε και η πέμπτη σορός στα συντρίμμια της βιομηχανίας «Βιολάντα» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektaktieidisi-newsit-14-1200x675.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Γάζα: Βρέθηκε η σορός του τελευταίου Ισραηλινού ομήρου και επιστρέφει στο Ισραήλ",
+          "link": "https://www.newsit.gr/kosmos/gaza-vrethike-i-soros-tou-teleytaiou-israilinou-omirou-kai-epistrefei-sto-israil/4583931/",
+          "pubDate": "Mon, 26 Jan 2026 14:07:42 +0000",
+          "description": "Ο ισραηλινός στρατός ανακοίνωσε σήμερα (26/1/26) ότι εντόπισε και ταυτοποίησε τη σορό του Ραν Γκβίλι, του τελευταίου εναπομείναντα ομήρου στη Γάζα. Η σορός του ομήρου ...  \nTo άρθρο Γάζα: Βρέθηκε η σορός του τελευταίου Ισραηλινού ομήρου και επιστρέφει στο Ισραήλ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/palestinians-gaza-hostages-2.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Συνομιλία Μητσοτάκη και Κεφαλογιάννη μετά το Υπουργικό, με φόντο τις αντιδράσεις για τη συνεπιμέλεια",
+          "link": "https://www.newsit.gr/politikh/synomilia-mitsotaki-kai-kefalogianni-meta-to-ypourgiko-me-fonto-tis-antidraseis-gia-ti-synepimeleia/4583932/",
+          "pubDate": "Mon, 26 Jan 2026 14:07:29 +0000",
+          "description": "Ολιγόλεπτη συνομιλία είχαν ο πρωθυπουργός Κυριάκος Μητσοτάκης και η υπουργός Τουρισμού Όλγα Κεφαλογιάννη, μετά την ολοκλήρωση της συνεδρίασης του Υπουργικού Συμβουλίου στο Μέγαρο Μαξίμου, το ...  \nTo άρθρο Συνομιλία Μητσοτάκη και Κεφαλογιάννη μετά το Υπουργικό, με φόντο τις αντιδράσεις για τη συνεπιμέλεια δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mitsotakis-kefalogianni-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Αποσωλήνωση της 6χρονης με εγκεφαλίτιδα επιχειρούν οι γιατροί στη ΜΕΘ του Παίδων – «Σαρώνει» η γρίπη στα παιδιά",
+          "link": "https://www.newsit.gr/ellada/aposolinosi-tis-6xronis-me-egkefalitida-epixeiroun-oi-giatroi-sti-meth-tou-paidon-saronei-i-gripi-sta-paidia/4583915/",
+          "pubDate": "Mon, 26 Jan 2026 14:05:46 +0000",
+          "description": "Σε σταθερή -αλλά ακόμη σοβαρή- κατάσταση εξακολουθεί να νοσηλεύεται διασωληνωμένο στη ΜΕΘ του Νοσοκομείου Παίδων το 6χρονο κορίτσι, το οποίο παρουσίασε βαριά επιπλοκή γρίπης. Η ...  \nTo άρθρο Αποσωλήνωση της 6χρονης με εγκεφαλίτιδα επιχειρούν οι γιατροί στη ΜΕΘ του Παίδων – «Σαρώνει» η γρίπη στα παιδιά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nosokomeio-paidon-meth.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Βιολάντα: Τίποτα δεν θα είναι πια το ίδιο",
+          "link": "https://www.newsit.gr/ellada/violanta-tipota-den-tha-einai-pia-to-idio/4583901/",
+          "pubDate": "Mon, 26 Jan 2026 14:05:35 +0000",
+          "description": "Οι επιχειρήσεις, μικρές ή μεγάλες είναι άνθρωποι. Είναι οι άνθρωποί τους που περνούν το μεγαλύτερο μέρος της ημέρας εκεί, που κοπιάζουν, που συζητούν τα προβλήματά ...  \nTo άρθρο Βιολάντα: Τίποτα δεν θα είναι πια το ίδιο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta1-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Εξαρθρώθηκε συμμορία που έκανε ληστείες και κλοπές σε καταστήματα στη Δυτική Αττική, εξιχνιάστηκαν 17 περιπτώσεις",
           "link": "https://www.protothema.gr/greece/article/1763613/exarthrothike-summoria-pou-diepratte-listeies-kai-klopes-se-katastimata-sti-dutiki-attiki-exihniastikan-17-periptoseis/?utm_source=rss",
@@ -206,46 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 16:00:19 +0300",
           "description": "Ένα αυτοκίνητο συγκρούστηκε με μια μηχανή, με αποτέλεσμα να τραυματιστεί ελαφρά ο αναβάτης του δικύκλου, πλησίον των ΚΤΕΛ Κηφισού",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6578204-768x576.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "ΑΕΚ: Χωρίς Γιόβιτς και Ρέλβα με Πανσερραϊκό, εκτίουν με Λεβαδειακό οι Ρότα και Κοϊτά",
-          "link": "https://www.newsit.gr/athlitika/aek-xoris-giovits-kai-relva-me-panserraiko-ektioun-me-levadeiako-oi-rota-kai-koita/4583854/",
-          "pubDate": "Mon, 26 Jan 2026 12:59:06 +0000",
-          "description": "Η ΑΕΚ πήρε τη νίκη με 1-0 στην έδρα του Αστέρα Τρίπολης για τη 18η αγωνιστική της Super League, αλλά έχασε με κάρτες τους Ρέλβας, ...  \nTo άρθρο ΑΕΚ: Χωρίς Γιόβιτς και Ρέλβα με Πανσερραϊκό, εκτίουν με Λεβαδειακό οι Ρότα και Κοϊτά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jovic-rota-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μισθοί: Τι αυξήσεις θα πάρουν οι ιδιωτικοί υπάλληλοι [παραδείγματα]",
-          "link": "https://www.in.gr/2026/01/26/economy/oikonomikes-eidiseis/misthoi-ti-ayksiseis-tha-paroun-oi-idiotikoi-ypalliloi-paradeigmata/",
-          "pubDate": "Mon, 26 Jan 2026 15:56:38 +0300",
-          "description": "Πόσο θα αυξηθούν οι μισθοί στον ιδιωτικό τομέα με τη μισθοδοσία Ιανουαρίου",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/μισθοί-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Έγκλημα στη Γλυφάδα: «Δεν είχε καν στο μυαλό του ότι ο γιος του θα μπορούσε να τον σκοτώσει» λέει φίλος του 80χρονου",
-          "link": "https://www.newsit.gr/ellada/egklima-sti-glyfada-den-eixe-kan-sto-myalo-tou-oti-o-gios-tou-tha-mporouse-na-ton-skotosei-leei-filos-tou-80xronou/4583783/",
-          "pubDate": "Mon, 26 Jan 2026 12:55:42 +0000",
-          "description": "Συγκλονισμένη παραμένει η κοινή γνώμη από την άγρια δολοφονία ενός 80χρονου στη Γλυφάδα από τον ίδιο του τον γιο, ο οποίος μάλιστα είχε δολοφονήσει και ...  \nTo άρθρο Έγκλημα στη Γλυφάδα: «Δεν είχε καν στο μυαλό του ότι ο γιος του θα μπορούσε να τον σκοτώσει» λέει φίλος του 80χρονου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nekros-glifada-1200x638.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τσεχία: Πάνω από 6 εκ. ευρώ σε έρανο για την αγορά γεννητριών στους Ουκρανούς",
-          "link": "https://www.in.gr/2026/01/26/world/tsexia-pano-apo-6-ek-eyro-se-erano-gia-tin-agora-gennitrion-stous-oukranous/",
-          "pubDate": "Mon, 26 Jan 2026 15:53:52 +0300",
-          "description": "Οι Ουκρανοί ξεπαγιάζουν μετά τις ρωσικές επιθέσεις στο ενεργειακό δίκτυο",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-15T065830Z_1536110764_RC2I1JAF6NCY_RTRMADP_5_UKRAINE-CRISIS-ATTACK-LVIV-1200x827-1-768x529.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "«Φουντώνουν» τα σενάρια για Τσάμπι Αλόνσο και Λίβερπουλ – Ποιοι είναι οι πρώτοι μεταγραφικοί στόχοι",
-          "link": "https://www.in.gr/2026/01/26/sports/football/to-paraskinio-tis-synantisis-tsampi-alonso-liverpoul-oi-metagrafikoi-stoxoi-o-tzerarnt-kai-oi-ekselikseis-me-slot/",
-          "pubDate": "Mon, 26 Jan 2026 15:53:11 +0300",
-          "description": "Υπάρχει καπνός ανάμεσα σε Τσάμπι Αλόνσο και Λίβερπουλ, θα υπάρχει και… φωτιά; Τα δεδομένα για συνεργασία και οι άμεσες αποφάσεις για Σλοτ και Τζέραρντ.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alonso-121225-1-1024x607-768x455.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Σάκοτα: «Ζούμε για τη στιγμή, που θα έχουμε sold out ή σχεδόν sold out σε κάθε αγώνα»",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510339/sakota-zoyme-gia-ti-stigmi-poy-tha-ehoyme-sold-out-i",
+          "pubDate": "Mon, 26 Jan 2026 16:06:21 +0200",
+          "description": "Κάλεσμα στον κόσμο, με μια μακροσκελή τοποθέτηση στο επίσημο site της ΑΕΚ έκανε ο Ντράγκαν Σάκοτα, ενόψει του παιχνιδιού με την Άλμπα Βερολίνου (28/01, 19:00).",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sakota_1.jpg?itok=0SaUTD-Z",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Αυτός είναι ο ιδανικός συνδυασμός ασκήσεων για να κάψεις το κοιλιακό λίπος",
           "link": "https://www.gazzetta.gr/plus/2510327/aytos-einai-o-idanikos-syndyasmos-askiseon-gia-na-kapseis-koiliako-lipos",
           "pubDate": "Mon, 26 Jan 2026 16:00:00 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 14:17:03 +0200",
           "description": "Μπαίνουν στα «Εξοικονομώ» οι προμηθευτές - Έρχεται η εξόφληση παρεμβάσεων μέσω των λογαριασμών.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2025-08/shutterstock_exoikonomo.jpg?itok=WglWNhDY",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Stoiximan GBL: MVP της αγωνιστικής ο «τριπλός» Γουόρντ",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510306/stoiximan-gbl-mvp-tis-agonistikis-o-triplos-goyornt",
-          "pubDate": "Mon, 26 Jan 2026 14:15:09 +0200",
-          "description": "Ο Τάισον Γουόρντ αναδείχθηκε MVP της 16ης αγωνιστικής της Stoiximan GBL μετά το triple double που έκανε κόντρα στον Κολοσσό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ward_1.jpg?itok=5rOt8V2m",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Siri 2.0: Η Apple «σβήνει» τα λάθη του παρελθόντος με τη δύναμη του Gemini",
+          "link": "https://gr.pcmag.com/ai-2/51123/siri-20-e-apple-sbenei-ta-lathe-tou-parelthontos-me-te-duname-tou-gemini",
+          "pubDate": "Mon, 26 Jan 2026 13:49:28 +0000",
+          "description": "Μετά από χρόνια καθυστερήσεων, η Apple επιστρατεύει την τεχνολογία της Google για να δώσει στη Siri δυνατότητες Personal Intelligence, μετατρέποντάς την σε ένα ισχυρό AI chatbot.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/g/gemini-pow/gemini-powered-siri-reportedly-set-to-arrive-on-iphones-next_6wp4.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "Το μεγάλο στοίχημα του Elon Musk: Υποσχέθηκε ρομπότ στην αγορά σε λιγότερο από δύο χρόνια",
           "link": "https://www.techgear.gr/to-megalo-stoichima-toy-elon-musk-yposchethike-rompot-stin-agora-se-ligotero-apo-dyo-chronia-47331",
           "pubDate": "Mon, 26 Jan 2026 14:55:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sun, 25 Jan 2026 16:16:05 +0000",
           "description": "Ο ερευνητής Jeremiah Fowler εντόπισε τεράστιο όγκο δεδομένων με διαπιστευτήρια για Gmail, Facebook και Netflix, τα οποία φέρεται να συλλέχθηκαν μέσω κακόβουλου λογισμικού.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/d/database-c/database-containing-149m-stolen-passwords-from-gmail-instagr_hvae.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Intel Nova Lake: Επίσημη κυκλοφορία στα τέλη του 2026 με 52 πυρήνες και απάντηση στην 3D V-Cache της AMD",
-          "link": "https://gr.pcmag.com/processors/51114/intel-nova-lake-episeme-kuklophoria-sta-tele-tou-2026-me-52-purenes-kai-apantese-sten-3d-v-cache-tes",
-          "pubDate": "Sun, 25 Jan 2026 16:05:54 +0000",
-          "description": "Ο CEO της Intel επιβεβαίωσε την άφιξη των επεξεργαστών Core Ultra Series 4, η οποία φέρνει τη νέα αρχιτεκτονική Coyote Cove, το socket LGA-1954 και το πολυαναμενόμενο Big Last Level Cache για κορυφαίες επιδόσεις στο gaming.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/i/intel-conf/intel-confirms-nova-lake-core-ultra-400-cpus-launching-this_2qdg.jpg",
           "source": "PC Magazine"
         }
       ]
