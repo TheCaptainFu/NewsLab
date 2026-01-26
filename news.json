@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T14:50:27.929Z",
+  "lastUpdated": "2026-01-26T14:55:25.597Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κίεβο: Ζημιές στη Λαύρα των Σπηλαίων από ρωσικές επιδρομές – Είναι μνημείο παγκόσμιας κληρονομιάς της UNESCO",
+          "link": "https://www.newsit.gr/kosmos/kievo-zimies-sti-layra-ton-spilaion-apo-rosikes-epidromes-einai-mnimeio-pagkosmias-klironomias-tis-unesco/4583976/",
+          "pubDate": "Mon, 26 Jan 2026 14:50:02 +0000",
+          "description": "Οι μαζικές ρωσικές επιθέσεις στο Κίεβο προχθές Σάββατο (24.01.2026) προκάλεσαν ζημιές σε κτίρια του ορθόδοξου μοναστηριού Λαύρα των Σπηλαίων, μνημείο παγκόσμιας κληρονομιάς της UNESCO, ανακοίνωσε ...  \nTo άρθρο Κίεβο: Ζημιές στη Λαύρα των Σπηλαίων από ρωσικές επιδρομές – Είναι μνημείο παγκόσμιας κληρονομιάς της UNESCO δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kyiv-unesco-reuters-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Οι εντυπωσιακές προσγειώσεις στο αεροδρόμιο της Νάξου εν μέσω θυελλωδών ανέμων, δείτε βίντεο",
           "link": "https://www.protothema.gr/greece/article/1763648/oi-eduposiakes-prosgeioseis-sto-aerodromio-tis-naxou-en-meso-thuellodon-anemon-deite-video/?utm_source=rss",
@@ -225,27 +233,19 @@
           "source": "NewsIT"
         },
         {
+          "title": "Νικόλαος Ζήβας: Πέθανε ο καλλιτέχνης που έδινε «πνοή» στην ύλη και τη μνήμη",
+          "link": "https://www.in.gr/2026/01/26/life/texni/nikolaos-zivas-pethane-o-kallitexnis-pou-edine-pnoi-stin-yli-kai-ti-mnimi/",
+          "pubDate": "Mon, 26 Jan 2026 16:52:06 +0300",
+          "description": "Ο εικαστικός Νικόλαος Ζήβας άφησε την τελευταία του πνοή σε ηλικία 66 ετών",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Screenshot-2026-01-26-134747-768x659.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Κύπελλο Ελλάδας: Κυκλοφόρησαν τα εισιτήρια για το Final 8 του μπάσκετ",
           "link": "https://www.newsit.gr/athlitika/kypello-elladas-kykloforisan-ta-eisitiria-gia-to-final-8-tou-mpasket/4583895/",
           "pubDate": "Mon, 26 Jan 2026 13:47:02 +0000",
           "description": "Η ώρα για το Final 8 στο Κύπελλο Ελλάδας του μπάσκετ πλησιάζει και η ΕΟΚ ξεκίνησε την… αντίστροφη μέτρηση, ανακοινώνοντας την κυκλοφορία των εισιτηρίων για ...  \nTo άρθρο Κύπελλο Ελλάδας: Κυκλοφόρησαν τα εισιτήρια για το Final 8 του μπάσκετ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/09/sloukas-fournier-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μικ Τζάγκερ: Αγνοείται ο σύντροφος της εγγονής του, έκκληση της οικογένειας για πληροφορίες",
-          "link": "https://www.newsit.gr/kosmos/mik-tzagker-agnoeitai-o-syntrofos-tis-eggonis-tou-ekklisi-tis-oikogeneias-gia-plirofories/4583898/",
-          "pubDate": "Mon, 26 Jan 2026 13:46:44 +0000",
-          "description": "Ώρες αγωνίας για την οικογένεια του Μικ Τζάγκερ, frontman των Rolling Stones, καθώς αγνοείται ο σύντροφος της εγγονής του Ασίζι Τζάκσον ο οποίος έχει εξαφανιστεί ...  \nTo άρθρο Μικ Τζάγκερ: Αγνοείται ο σύντροφος της εγγονής του, έκκληση της οικογένειας για πληροφορίες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mick-jagger-1200x854.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σπάτα: Ξεχείλισε το ρέμα Βάρδα – Διακόπηκε η κυκλοφορία προς Πικέρμι",
-          "link": "https://www.newsit.gr/ellada/spata-ksexeilise-to-rema-varda-diakopike-i-kykloforia-pros-pikermi/4583866/",
-          "pubDate": "Mon, 26 Jan 2026 13:45:24 +0000",
-          "description": "Στη διακοπή της κυκλοφορίας των οχημάτων στο ρέμα του Βάρδα από τα Σπάτα προς το Πικέρμι προχώρησε η Τροχαία πριν από τις 15:00 το μεσημέρι ...  \nTo άρθρο Σπάτα: Ξεχείλισε το ρέμα Βάρδα – Διακόπηκε η κυκλοφορία προς Πικέρμι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/spatarema-1200x636.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,11 +501,27 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ε.Ε.:«Η συμφωνία με την Ινδία μητέρα όλων των εμπορικών συμφωνιών» δήλωσε στο euronews o Σέφτσοβιτς ",
+          "link": "http://gr.euronews.com/my-europe/2026/01/26/ee-i-simfonia-me-tin-india-mitera-olon-ton-emporikon-simfonion-sto-eurones-o-seftsovits",
+          "pubDate": "Mon, 26 Jan 2026 15:46:25 +0100",
+          "description": "Η Ευρωπαϊκή Ένωση επιδιώκει να «ανοίξει» την οικονομία της Ινδίας στις ευρωπαϊκές εταιρείες, καθώς οι Βρυξέλλες εισέρχονται στην τελική ευθεία των διαπραγματεύσεων με το Νέο Δελχί",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Israel says it has retrieved remains of final Gaza hostage",
           "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 14:42:30 GMT",
           "description": "The Israeli military had been searching for Ran Gvili since the ceasefire with Hamas began in October.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccaa/live/8e6eb450-fac0-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Spain slashes speed limit on popular train route after fault found",
+          "link": "https://www.bbc.com/news/articles/ckgy049ypd5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 14:37:29 GMT",
+          "description": "The discovery of a crack on the Madrid-Barcelona line follows two recent deadly crashes in the country.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b13/live/66a4a890-fabf-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
         },
         {
@@ -637,14 +653,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Israel to reopen Gaza crossing after search for last dead hostage's body ends",
-          "link": "https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 11:23:20 GMT",
-          "description": "Israel's military says its troops are searching for the remains of Ran Gvili, reportedly at a cemetery in northern Gaza.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/955e/live/1baa6450-fa98-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
           "title": "Ο Ντόναλντ Τραμπ δεν θα παρακολουθήσει το Super Bowl, λέει ότι είναι κατά των Bad Bunny και Green Day ",
           "link": "http://gr.euronews.com/culture/2026/01/26/trump-super-bowl-bad-bunny-green-day",
           "pubDate": "Mon, 26 Jan 2026 12:18:05 +0100",
@@ -731,14 +739,6 @@
           "description": "Οικογένειες ανεβαίνουν στους λόφους για μια μέρα με έλκηθρα και χιονοπόλεμο, αξιοποιώντας στο έπακρο τη χιονόπτωση και τον χειμωνιάτικο καιρό.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Κίνδυνος αγγειακής άνοιας για τους υπέρβαρους ανθρώπους, σύμφωνα με νέα μελέτη",
-          "link": "http://gr.euronews.com/health/2026/01/26/being-overweight-causes-vascular-related-dementia-major-study-finds",
-          "pubDate": "Mon, 26 Jan 2026 11:08:02 +0100",
-          "description": "Η άνοια είναι αυξανόμενη παγκόσμια πρόκληση δημόσιας υγείας, χωρίς θεραπεία. Μελέτη: γενετικά υψηλός ΔΜΣ αυξάνει τον κίνδυνο αγγειακής άνοιας.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,30 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Τα προβλήματα στην κινεζική BOE στέλνουν την Apple στην αγκαλιά της Samsung",
+          "link": "https://www.gazzetta.gr/plus/2509965/ta-problimata-stin-kineziki-boe-stelnoyn-tin-apple-stin-agkalia-tis-samsung",
+          "pubDate": "Mon, 26 Jan 2026 16:51:55 +0200",
+          "description": "Οι οθόνες των iPhone θα έρχονται πλέον πιο συχνά από τη Samsung",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/apple-iphone-17-pro-camera-close-up-250909.jpg?itok=iTxOeJvA",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Ριμπάλτα, Νίκολιτς και παίκτες στη Sunel Arena για το ματς με την Άλμπα",
+          "link": "https://www.gazzetta.gr/football/superleague/2510353/aek-rimpalta-nikolits-kai-paiktes-sti-sunel-arena-gia-mats-me-tin",
+          "pubDate": "Mon, 26 Jan 2026 16:51:52 +0200",
+          "description": "Σύσσωμο το ποδοσφαιρικό τμήμα της ΑΕΚ θα δώσει το παρών στη Sunel Arena για το κρίσιμο παιχνίδι με την Άλμπα, για το Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_gkooll.jpg?itok=tylI0hyT",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σοκ στο βρετανικό ποδόσφαιρο: Οι κεφαλιές πίσω από τον θάνατο ποδοσφαιριστή",
+          "link": "https://www.gazzetta.gr/football/premier-league/2510352/sok-sto-bretaniko-podosfairo-oi-kefalies-piso-apo-ton-thanato",
+          "pubDate": "Mon, 26 Jan 2026 16:50:19 +0200",
+          "description": "Οι πολλές κεφαλιές θεωρείται ότι συνέβαλαν καθοριστικά στην εγκεφαλική νόσο του πρώην διεθνούς Σκωτσέζου αμυντικού Γκόρντον ΜακΚουίν, σύμφωνα με το πόρισμα ιατροδικαστή.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-651912128_1.jpg?itok=I5RDMXoq",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΑΕΚ: Σύσσωμη η ομάδα ποδοσφαίρου θα βρεθεί στα Άνω Λιόσια για το ματς της Ένωσης με την Άλμπα στο BCL",
           "link": "https://www.newsit.gr/athlitika/aek-syssomi-i-omada-podosfairou-tha-vrethei-sta-ano-liosia-gia-to-mats-tis-enosis-me-tin-almpa-sto-bcl/4583983/",
@@ -960,30 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 15:36:26 +0200",
           "description": "Η Ανδόρα τερμάτισε τη συνεργασία της με τον πρώην προπονητή της ΑΕΚ, Ζοάν Πλάθα, αναθέτοντας την τεχνική ηγεσία στον Ζαν Τάμπακ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/plaza.jpg?itok=yHFzv_xW",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Μαγνητική για τον Τσιριβέγια, εκτός με ίωση ο Καλάμπρια",
-          "link": "https://www.newsit.gr/athlitika/panathinaikos-magnitiki-gia-ton-tsirivegia-ektos-me-iosi-o-kalampria/4583888/",
-          "pubDate": "Mon, 26 Jan 2026 13:32:10 +0000",
-          "description": "Ο Παναθηναϊκός καλείται να αφήσει πίσω του τον αγώνα με τον Ατρόμητο στη Super League, καθώς ακολουθεί η αναμέτρηση με τη Ρόμα στο Europa League, ...  \nTo άρθρο Παναθηναϊκός: Μαγνητική για τον Τσιριβέγια, εκτός με ίωση ο Καλάμπρια δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kalabria-chirivella-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κριστιάνο Ρονάλντο: Η ανάρτησή του για τον Κάρικ το 2021 έγινε viral",
-          "link": "https://www.gazzetta.gr/football/premier-league/2510322/kristiano-ronalnto-i-anartisi-toy-gia-ton-karik-2021-egine-viral",
-          "pubDate": "Mon, 26 Jan 2026 15:23:55 +0200",
-          "description": "Ο Πορτογάλος σούπερ σταρ είχε... προβλέψει το μέλλον πίσω στο 2021, με την ανάρτησή του για τον Μάικλ Κάρικ να γίνεται viral τις τελευταίες ώρες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2025-12/cristiano-ronaldo-cr7-getty.jpg?itok=qNIOgFRk",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Με μόνη απουσία τον Ιβανούσετς η προπόνηση",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510321/paok-me-moni-apoysia-ton-ibanoysets-i-proponisi",
-          "pubDate": "Mon, 26 Jan 2026 15:23:00 +0200",
-          "description": "Στην φυσική κατάσταση των παικτών δόθηκε έμφαση στην σημερινή προπόνηση του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ivanusec_intime.jpg?itok=b1xum0gI",
           "source": "Gazzetta"
         }
       ]
