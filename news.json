@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T09:40:31.383Z",
+  "lastUpdated": "2026-01-26T09:45:26.973Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -121,7 +121,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Εντοπίστηκαν τρεις σοροί γυναικών από την έκρηξη και τη φωτιά στο εργοστάσιο της Βιολάντα στα Τρίκαλα, κανένα ίχνος από τις δύο αγνοούμενες",
+          "title": "Εντοπίστηκαν τρεις σοροί γυναικών μετά την έκρηξη στο εργοστάσιο της Βιολάντα στα Τρίκαλα, κανένα ίχνος από τις δύο αγνοούμενες",
           "link": "https://www.protothema.gr/greece/article/1763319/treis-gunaikes-nekres-apo-ti-megali-fotia-sto-ergostasio-tis-violada-sta-trikala/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 10:54:00 +0200",
           "description": "Πριν τη φωτιά σημειώθηκε έκρηξη - Τραυματίες ακόμη πέντε εργαζόμενοι και ένας πυροσβέστης",
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Το Ισραήλ θα ανοίξει εν μέρει το πέρασμα της Ράφα εάν βρεθεί η σορός Ισραηλινού στρατιώτη",
+          "link": "http://gr.euronews.com/2026/01/26/israel-anoigei-ti-rafa-an-vrethei-soros-omirou",
+          "pubDate": "Mon, 26 Jan 2026 10:39:45 +0100",
+          "description": "Το Ισραήλ συμφώνησε να ανοίξει εκ νέου το πέρασμα της Ράφα της Γάζας με την Αίγυπτο για τη διέλευση πεζών μόνο όταν βρεθεί η σορός του Ισραηλινού στρατιώτη Ραν Γκβίλι.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Τραμπ: Θα φύγουμε από τη Μινεσότα, αλλά δεν ξέρουμε πότε",
+          "link": "http://gr.euronews.com/2026/01/26/tramp-8a-fygoyme-apo-th-minesota-alla-den-3eroyme-pote",
+          "pubDate": "Mon, 26 Jan 2026 10:35:50 +0100",
+          "description": "Ο πρόεδρος των ΗΠΑ Ντόναλντ Τραμπ δήλωσε ότι η κυβέρνησή του επανεξετάζει τον θανάσιμο πυροβολισμό του Άλεξ Πρέτι από πράκτορες της υπηρεσίας μετανάστευσης στη Μινεάπολη, ο οποίος προκάλεσε επικρίσεις από τους πρώην προέδρους Ομπάμα και Κλίντον",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Πιστοί της Σαντερία στην Κούβα προσφέρουν δώρα και ικετεύουν τους θεούς για ειρήνη εν μέσω κρίσεων",
           "link": "http://gr.euronews.com/video/2026/01/26/cubas-santeros-provide-offerings-and-petition-deities-for-peace-during-times-of-crisis",
           "pubDate": "Mon, 26 Jan 2026 10:33:10 +0100",
@@ -723,22 +739,6 @@
           "description": "Two people have been shot dead by federal agents in the city in recent weeks, leaving many angry and frustrated.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85b/live/b2a4ecc0-fa86-11f0-b385-5f48925de19a.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Tearful goodbyes as Japan returns pandas to China amid worsening ties ",
-          "link": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 03:08:21 GMT",
-          "description": "The twin cubs' departure will leave Japan without any pandas for the first time since 1972.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50cf/live/bd569d60-fa60-11f0-aace-f5c9843bc6d7.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "'I spent £2,000 on one event': Why Gen Z is obsessed with Hyrox",
-          "link": "https://www.bbc.com/news/articles/cj0nmj72v8ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 00:45:40 GMT",
-          "description": "How young millennials and Generation Z - people in their twenties to early forties - have become obsessed with this fitness craze.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8d7/live/bd1afc30-f216-11f0-8f9d-7304521a922a.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "«Όλα καλά; Mε καταλαβαίνετε;»: Ο Ιτούδης ξεκίνησε τη συνέντευξη Τύπου με ελληνικά (vid)",
+          "link": "https://www.gazzetta.gr/basketball/mpasket-israil/2510268/ola-kala-me-katalabainete-o-itoydis-xekinise-ti-synenteyxi-typoy",
+          "pubDate": "Mon, 26 Jan 2026 11:41:36 +0200",
+          "description": "Ο Δημήτρης Ιτούδης μίλησε ελληνικά και ρώσικα στη συνέντευξη Τύπου μετά τη νίκη της Χάποελ Τελ Αβίβ επί της Μπερ Σεβά, έχοντας κέφια.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/itoudis_0.jpg?itok=cumNuxp0",
+          "source": "Gazzetta"
+        },
         {
           "title": "Λυπηθείτε τον κόσμο",
           "link": "https://www.gazzetta.gr/football/superleague/2510267/lypitheite-ton-kosmo",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 09:25:10 +0200",
           "description": "Με χαμηλές τιμές, έντονη ψηφιακή παρουσία και επιθετικό ρυθμό ανάπτυξης, τα κινεζικά brands δεν επιδιώκουν να αναδιαμορφώσουν τις δυτικές αγορές.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/075_cfoto-aurbanre240306_npn97-1280x853.jpg?itok=omjUB5LU",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Θάντερ - Ράπτορς: Ο Μαμουκελασβίλι κουβάλησε τον Ντορτ στον ώμο του για να μην τραυματιστεί (vid)",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510242/thanter-raptors-o-mamoykelasbili-koybalise-ton-ntort-ston-omo-toy-gia-na-min",
-          "pubDate": "Mon, 26 Jan 2026 09:22:43 +0200",
-          "description": "Ο Μαμουκελασβίλι λειτούργησε σωτήρια στο ματς με τους Θάντερ και γλίτωσε τα χειρότερα για τον Ντορτ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dort23.jpg?itok=cB9TpH2q",
           "source": "Gazzetta"
         }
       ]
