@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T17:45:29.099Z",
+  "lastUpdated": "2026-01-26T17:50:28.679Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ανήλικος πέταξε κάγκελο σε αγώνα μπάσκετ στο Αργος, κινήθηκε απειλητικά προς τη φιλοξενούμενη ομάδα και συνελήφθη",
+          "link": "https://www.newsit.gr/athlitika/anilikos-petakse-kagkelo-se-agona-mpasket-sto-argos-kinithike-apeilitika-pros-ti-filoksenoumeni-omada-kai-synelifthi/4584147/",
+          "pubDate": "Mon, 26 Jan 2026 17:48:10 +0000",
+          "description": "Στη σύλληψη ενός ανηλίκου οπαδού προχώρησαν το απόγευμα της Κυριακής (25.01.2026) αστυνομικοί του Τμήματος Δίωξης και Εξιχνίασης Εγκλημάτων Άργους – Μυκηνών, μετά από σοβαρό επεισόδιο ...  \nTo άρθρο Ανήλικος πέταξε κάγκελο σε αγώνα μπάσκετ στο Αργος, κινήθηκε απειλητικά προς τη φιλοξενούμενη ομάδα και συνελήφθη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mpala-mpasket-eurokinissi-1200x798.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Μαζί για το Παιδί: Νέα ενημερωτική καμπάνια για τη Γραμμή 115 25",
+          "link": "https://www.protothema.gr/greece/article/1763753/mazi-gia-to-paidi-nea-enimerotiki-kabania-gia-ti-grammi-11525/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 19:47:31 +0200",
+          "description": "Η καμπάνια εστιάζει σε τρία βασικά θέματα που απασχολούν σήμερα εφήβους και οικογένειες: το άγχος, τον θυμό και την κρίση στην οικογένεια",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/mazi-gia-to-paidi.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Νίκαια: Νεκρός 40χρονος που παρασύρθηκε από αυτοκίνητο – Δώρισε τα όργανα η οικογένεια",
           "link": "https://www.newsit.gr/ellada/nikaia-nekros-40xronos-pou-parasyrthike-apo-aytokinito-dorise-ta-organa-i-oikogeneia/4584135/",
@@ -231,22 +247,6 @@
           "description": "Η ΕΛΑΣ πραγματοποίησε  23.010 ελέγχους σε ένα τριήμερο",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/troxaia-alkotset-4.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ένα αναπάντεχο ρεκόρ: Ο κόσμος μετράει 8 χρόνια από την τελευταια πυρηνική έκρηξη – Πόσο θα κρατήσει;",
-          "link": "https://www.in.gr/2026/01/26/world/ena-anapantexo-rekor-o-kosmos-metraei-8-xronia-apo-tin-teleytaia-pyriniki-ekriksi-poso-tha-kratisei/",
-          "pubDate": "Mon, 26 Jan 2026 19:17:19 +0300",
-          "description": "Ο κόσμος έχει περάσει το μεγαλύτερο χρονικό διάστημα χωρίς πυρηνική έκρηξη από την αρχή της ατομικής εποχής, πριν από περισσότερα από 80 χρόνια",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/emanuel-kypreos-XySaPZljJ54-unsplash-768x488.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Παράταση παραστάσεων για την «Αλεξάνδρεια», του Φωκά Ευαγγελινού, στο Παλλάς",
-          "link": "https://www.newsit.gr/politismos/paratasi-parastaseon-gia-tin-aleksandreia-tou-foka-eyaggelinou-sto-pallas/4584066/",
-          "pubDate": "Mon, 26 Jan 2026 16:16:44 +0000",
-          "description": "Μετά την τεράστια ανταπόκριση του κοινού και έχοντας αποσπάσει διθυραμβικές κριτικές γοητεύοντας κοινό και κριτικούς, η θεατρική παράσταση «Αλεξάνδρεια» σε σύλληψη και σκηνοθεσία του Φωκά ...  \nTo άρθρο Παράταση παραστάσεων για την «Αλεξάνδρεια», του Φωκά Ευαγγελινού, στο Παλλάς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alexandreia-1200x755.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "F1 - Δοκιμές Βαρκελώνης 1η Ημέρα: Η Red Bull έκανε την αρχή στο 2026 ",
+          "link": "https://www.gazzetta.gr/gmotion/2510390/f1-dokimes-barkelonis-1i-imera-i-red-bull-ekane-tin-arhi-sto-2026",
+          "pubDate": "Mon, 26 Jan 2026 19:49:00 +0200",
+          "description": "Η Red Bull Racing ήταν η ομάδα που κυριάρχησε την πρώτη ημέρα χειμερινών δοκιμών της Formula 1, με τη μυστικοπάθεια από το σπορ να κυριαρχεί.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/g_lqz2jwwaayc4i_f11.jpg?itok=mXmuYRec",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ανήλικος πέταξε κάγκελο σε αγώνα μπάσκετ στο Αργος, κινήθηκε απειλητικά προς τη φιλοξενούμενη ομάδα και συνελήφθη",
+          "link": "https://www.newsit.gr/athlitika/anilikos-petakse-kagkelo-se-agona-mpasket-sto-argos-kinithike-apeilitika-pros-ti-filoksenoumeni-omada-kai-synelifthi/4584147/",
+          "pubDate": "Mon, 26 Jan 2026 17:48:10 +0000",
+          "description": "Στη σύλληψη ενός ανηλίκου οπαδού προχώρησαν το απόγευμα της Κυριακής (25.01.2026) αστυνομικοί του Τμήματος Δίωξης και Εξιχνίασης Εγκλημάτων Άργους – Μυκηνών, μετά από σοβαρό επεισόδιο ...  \nTo άρθρο Ανήλικος πέταξε κάγκελο σε αγώνα μπάσκετ στο Αργος, κινήθηκε απειλητικά προς τη φιλοξενούμενη ομάδα και συνελήφθη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mpala-mpasket-eurokinissi-1200x798.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Συγκλονίζει ο Πολονάρα: «Τίποτα δεν με τρομάζει, έφτασα στα πρόθυρα του θανάτου, θα επιστρέψω 20 Μαρτίου στα γήπεδα»",
+          "link": "https://www.gazzetta.gr/basketball/mpasket-italia/2510389/sygklonizei-o-polonara-tipota-den-me-tromazei-eftasa-sta-prothyra",
+          "pubDate": "Mon, 26 Jan 2026 19:47:05 +0200",
+          "description": "Ο Ακίλε Πολονάρα που δίνει μια μεγάλη μάχη δεν το βάζει κάτω και με δηλώσεις του στην Ιταλική τηλεόραση υποστήριξε πως θέλει να επιστρέψει στα γήπεδα στις 20 Μαρτίου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/polonara21.jpg?itok=PRUZMVFV",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Βόλος: Ο Ουρτάζο πλησιάζει στην ομάδα της Μαγνησίας",
+          "link": "https://www.gazzetta.gr/football/superleague/2510388/bolos-o-oyrtazo-plisiazei-stin-omada-tis-magnisias",
+          "pubDate": "Mon, 26 Jan 2026 19:45:30 +0200",
+          "description": "Ο Βόλος είναι μία ανάσα από την απόκτηση του επιθετικού Ζαν Κάρλος Ουρτάδο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oyrtado_1.jpg?itok=ottJ6S04",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Παναθηναϊκός: Αυτό είναι το ροτέισον του «τριφυλλιού» για το οποίο μίλησε ο Μπενίτεθ",
           "link": "https://www.gazzetta.gr/football/superleague/2510288/panathinaikos-ayto-einai-roteison-toy-trifyllioy-gia-opoio-milise-o",
           "pubDate": "Mon, 26 Jan 2026 19:30:00 +0200",
@@ -953,38 +985,6 @@
           "description": "Η πληροφόρηση για την υγεία του Μίχαελ Σουμάχερ, μετά το ατύχημα που είχε τον Δεκέμβριο του 2013 -κάνοντας σκι στις γαλλικές Άλπεις- εξακολουθεί να βγαίνει ...  \nTo άρθρο «Ο Μίχαελ Σουμάχερ δεν είναι πια κατάκοιτος, μετακινείται με αναπηρικό αμαξίδιο» ισχυρίζεται η Daily Mail δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/michael-schumacher-ape-1200x755.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ψηφιακό δίπλωμα οδήγησης: Όλα όσα πρέπει να ξέρεις για τη μεγάλη αλλαγή",
-          "link": "https://www.gazzetta.gr/gmotion/2510274/psifiako-diploma-odigisis-ola-osa-prepei-na-xereis-gia-ti-megali-allagi",
-          "pubDate": "Mon, 26 Jan 2026 17:45:00 +0200",
-          "description": "Δες πώς το ψηφιακό δίπλωμα οδήγησης αλλάζει την καθημερινότητά μας - Τι ισχύει για τα ταξίδια στο εξωτερικό και ποιες είναι οι νέες προθεσμίες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6668514_1.jpg?itok=mC4OdbGw",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΣ - ΠΑΕ ΠΑΟΚ: Υπογράφηκε το μνημόνιο για το νέο γήπεδο στην Τούμπα",
-          "link": "https://www.gazzetta.gr/football/superleague/2510368/pae-paok-ypografike-mnimonio-gia-neo-gipedo-stin-toympa",
-          "pubDate": "Mon, 26 Jan 2026 17:38:17 +0200",
-          "description": "Με κοινή ανακοίνωσή τους ο ΑΣ ΠΑΟΚ, η ΠΑΕ ΠΑΟΚ και η εταιρία «Φωλιά του Δικέφαλου Αετού» γνωστοποίησαν την υπογραφή μνημονίου συναντίληψης (MoU), που αφορά την κατασκευή του νέου γηπέδου στην Τούμπα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-09/nea_toumba_paok.jpg.jpg?itok=ItXvF_22",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΒΙΟΛΑΝΤΑ: Βίντεο ντοκουμέντο με τη στιγμή της έκρηξης στο εργοστάσιο",
-          "link": "https://www.gazzetta.gr/plus/2510367/biolanta-binteo-ntokoymento-me-ti-stigmi-tis-ekrixis-sto-ergostasio",
-          "pubDate": "Mon, 26 Jan 2026 17:37:46 +0200",
-          "description": "Κάμερα ασφαλείας παρακείμενης επιχείρησης κατέγραψε τη στιγμή της τρομερής έκρηξης στο εργοστάσιο «Βιολάντα» στα Τρίκαλα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/image_3_0.jpg?itok=w15N-JKZ",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Super League 2: Άλλαξε ημερομηνία η κλήρωση Play Offs και Play Outs",
-          "link": "https://www.gazzetta.gr/football/superleague-2/2510366/super-league-2-allaxe-imerominia-i-klirosi-play-offs-kai-play-outs",
-          "pubDate": "Mon, 26 Jan 2026 17:37:18 +0200",
-          "description": "Η Super League 2 ανακοίνωσε πως η κλήρωση για τα Play Offs και τα Play Outs των δυο Ομίλων άλλαξε ημέρα και τελικά θα γίνει την επόμενη Δευτέρα (02/02) στις 15:00.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kalamata-panionios_1.jpg?itok=4agwLhqx",
-          "source": "Gazzetta"
         }
       ]
     },
