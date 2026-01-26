@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T17:30:32.755Z",
+  "lastUpdated": "2026-01-26T17:35:25.191Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πηγές ΝΔ για κατάθεση Χαλικιά στην Εξεταστική για ΟΠΕΚΕΠΕ: Έμεινε το ΠΑΣΟΚ χωρίς άλλοθι",
+          "link": "https://www.newsit.gr/politikh/piges-nd-gia-katathesi-xalikia-stin-eksetastiki-gia-opekepe-emeine-to-pasok-xoris-allothi/4584137/",
+          "pubDate": "Mon, 26 Jan 2026 17:31:43 +0000",
+          "description": "Την κατάθεση της πρώην αντιπροέδρου του ΟΠΕΚΕΠΕ την περίοδο 2013–2014, Δήμητρα Χαλικιά, στην Εξεταστική Επιτροπή της Βουλής σχολίασαν πηγές της Νέα Δημοκρατία, υποστηρίζοντας ότι αποδυναμώνει ...  \nTo άρθρο Πηγές ΝΔ για κατάθεση Χαλικιά στην Εξεταστική για ΟΠΕΚΕΠΕ: Έμεινε το ΠΑΣΟΚ χωρίς άλλοθι δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eksetastiki-opekepe-kathesi-xalikia-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Γιάννης Πλούταρχος: Το νέο του τραγούδι με τίτλο «Δε γίνεται» είναι ένα δυναμικό ζεϊμπέκικο",
           "link": "https://www.newsit.gr/lifestyle/giannis-ploutarxos-to-neo-tou-tragoudi-me-titlo-de-ginetai-einai-ena-dynamiko-zeimpekiko/4584128/",
@@ -239,14 +247,6 @@
           "description": "Με άνοδο έκλεισαν οι τιμές των μετοχών σήμερα (26.1.2026) στην πρώτη συνεδρίαση της εβδομάδος στο Χρηματιστήριο Αθηνών, με την αγορά να επανέρχεται σε ανοδική τροχιά ...  \nTo άρθρο Χρηματιστήριο Αθηνών: Ανοδικό κλείσιμο, σε νέα υψηλά 16 ετών η αγορά δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xrimatistirio-eurokinissi.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Βρεφονηπιακοί σταθμοί: Η αναμονή που «παγώνει» τον οικογενειακό προγραμματισμό, ποιες μπορεί να είναι οι μόνιμες λύσεις",
-          "link": "https://www.protothema.gr/greece/article/1763669/vrefonipiakoi-stathmoi-i-anamoni-pou-pagonei-ton-oikogeneiako-programmatismo-poies-borei-na-einai-oi-monimes-luseis/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 18:10:00 +0200",
-          "description": "Τι συμβαίνει, όταν οι καθυστερήσεις στις πληρωμές από την ΕΕΤΑΑ είναι επαναλαμβανόμενες; Απαντά ο Παναγιώτης Μ. Ευαγγελίου, Μηχανολόγος Μηχανικός, εξειδικευμένος σύμβουλος σε θέματα αδειοδότησης βρεφονηπιακών σταθμών",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-evageliou.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
