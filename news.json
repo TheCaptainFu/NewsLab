@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-26T09:55:33.900Z",
-  "totalArticles": 178,
+  "lastUpdated": "2026-01-26T10:00:39.735Z",
+  "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τζόκερ: Σε Ηράκλειο Κρήτης και Φλώρινα τα δύο τυχερά δελτία που κερδίζουν από 7,5 εκατομμύρια ευρώ",
+          "link": "https://www.newsit.gr/ellada/tzoker-se-irakleio-kritis-kai-florina-ta-dyo-tyxera-deltia-pou-kerdizoun-apo-7-5-ekatommyria-eyro/4583641/",
+          "pubDate": "Mon, 26 Jan 2026 09:56:04 +0000",
+          "description": "Τζόκερ και η ζωή τους άλλαξε για πάντα. Μετά από αλλεπάλληλα τζακ ποτ, το βράδυ της Κυριακής (25-01-2026) βρέθηκαν δύο τυχερά δελτία στην πρώτη κατηγορία, ...  \nTo άρθρο Τζόκερ: Σε Ηράκλειο Κρήτης και Φλώρινα τα δύο τυχερά δελτία που κερδίζουν από 7,5 εκατομμύρια ευρώ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tzoker-eu-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Το ΓΕΣ εκδίδει για πρώτη φορά εγχειρίδιο για τη χρήση και την αντιμετώπιση drones\n",
           "link": "https://www.protothema.gr/greece/article/1763452/to-ges-ekdidei-gia-proti-fora-egheiridio-gia-ti-hrisi-kai-tin-adimetopisi-drones/?utm_source=rss",
@@ -76,7 +84,7 @@
           "title": "Κυριάκος Μητσοτάκης για την τραγωδία στο εργοστάσιο «Βιολάντα»: Η σκέψη μας με τις οικογένειες των θυμάτων – Η Πυροσβεστική ερευνά για να αποδοθούν ευθύνες",
           "link": "https://www.newsit.gr/politikh/kyriakos-mitsotakis-gia-tin-tragodia-sto-ergostasio-violanta-i-skepsi-mas-me-tis-oikogeneies-ton-thymaton-i-pyrosvestiki-ereyna-gia-na-apodothoun-eythynes/4583581/",
           "pubDate": "Mon, 26 Jan 2026 09:20:16 +0000",
-          "description": "Στην τραγωδία στο εργοστάσιο «Βιολάντα» στα Τρίκαλα με τους τέσσερις νεκρούς αναφέρθηκε ο πρωθυπουργός Κυριάκος Μητσοτάκης στην εισαγωγική του τοποθέτηση στο υπουργικό συμβούλιο, το πρωί ...  \nTo άρθρο Κυριάκος Μητσοτάκης για την τραγωδία στο εργοστάσιο «Βιολάντα»: Η σκέψη μας με τις οικογένειες των θυμάτων – Η Πυροσβεστική ερευνά για να αποδοθούν ευθύνες δημοσιεύτηκε στο NewsIT .",
+          "description": "Στην τραγωδία στο εργοστάσιο «Βιολάντα» στα Τρίκαλα με τους νεκρούς, τους αγνοούμενους και τους τραυματίες, αναφέρθηκε ο πρωθυπουργός Κυριάκος Μητσοτάκης στην εισαγωγική του τοποθέτηση στο ...  \nTo άρθρο Κυριάκος Μητσοτάκης για την τραγωδία στο εργοστάσιο «Βιολάντα»: Η σκέψη μας με τις οικογένειες των θυμάτων – Η Πυροσβεστική ερευνά για να αποδοθούν ευθύνες δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kyriakosmitsotakis.jpg",
           "source": "NewsIT"
         },
@@ -135,6 +143,14 @@
           "description": "Ο Κωνσταντίνος Αργυρός είναι ιδιαίτερα δημοφιλής και στην Αλβανία, κάτι που φάνηκε σε ένα από τα τελευταία επεισόδια του «Big Brother», που προβάλλεται στη γειτονική ...  \nTo άρθρο Κωνσταντίνος Αργυρός: Όταν οι παίκτες του «Big Brother» της Αλβανίας άρχισαν να χορεύουν με τραγούδι του δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bigbrother-arxiki-1200x829.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Οι Ένοπλες Δυνάμεις απέκτησαν Εγχειρίδιο Εκστρατείας για την αντιμετώπιση UAV",
+          "link": "https://www.in.gr/2026/01/26/greece/oi-enoples-dynameis-apektisan-egxeiridio-ekstrateias-gia-tin-antimetopisi-uav/",
+          "pubDate": "Mon, 26 Jan 2026 11:55:41 +0300",
+          "description": "Το Εγχειρίδιο αποτελεί ένα ολοκληρωμένο επιχειρησιακό εργαλείο για τη χρήση drones σε τακτικό επίπεδο και προστασίας των μονάδων.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/uav.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Μινεάπολη: Στο εδώλιο η δράση της ICE μετά τις εκτελέσεις της Ρενέ Γκουντ και του νοσηλευτή Άλεξ Πρέτι από πράκτορες",
@@ -204,7 +220,7 @@
           "title": "Ισχυρές καταιγίδες στην Αττική, λίμνη και πάλι η Βουλιαγμένης: Live χάρτης με το πέρασμα της κακοκαιρίας που έχει σημάνει πορτοκαλί συναγερμό",
           "link": "https://www.protothema.gr/greece/article/1763379/ishures-kataigides-stin-attiki-sto-epikedro-ta-notia-proastia-live-hartis-me-to-perasma-tis-kakokairias/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 10:44:00 +0200",
-          "description": "Επικαιροποιήθηκε το έκτακτο δελτίου καιρού από την ΕΜΥ - Διεκόπη η κυκλοφορία επί της Αθηνών - Κορίνθου στο ύψος του 48ου χλμ. στο ρεύμα κυκλοφορίας προς Αθήνα",
+          "description": "Επικαιροποιήθηκε το έκτακτο δελτίου καιρού από την ΕΜΥ - Διεκόπη η κυκλοφορία επί της Αθηνών - Κορίνθου στο ύψος του 48ου χλμ. στο ρεύμα κυκλοφορίας προς Αθήνα (Μέγαρα), λόγω κατολίσθησης",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/vroxi-athina-mak_2.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -231,22 +247,6 @@
           "description": "Οι επιβάτες καλούνται να επικοινωνούν με τα λιμεναρχεία και τις ναυτιλιακές εταιρείες πριν από την αναχώρησή τους, για την έγκαιρη και έγκυρη ενημέρωσή τους",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2021-12-18/apagoreutiko_apoplou.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Προϋπολογισμός: Με καθαρά έσοδα 77,065 δισ. ευρώ και δημοσιονομικό πλεόνασμα 100 εκατ. ευρώ «έκλεισε» το 2025",
-          "link": "https://www.newsit.gr/oikonomia/finance/proypologismos-me-kathara-esoda-77-065-dis-eyro-kai-dimosionomiko-pleonasma-100-ekat-eyro-ekleise-to-2025-2/4583550/",
-          "pubDate": "Mon, 26 Jan 2026 08:36:25 +0000",
-          "description": "Στα 77,065 δισ. ευρώ διαμορφώθηκαν τα καθαρά έσοδα του κρατικού προϋπολογισμού την περίοδο Ιανουαρίου – Δεκεμβρίου 2025, εμφανίζοντας υστέρηση 796 εκατ. ευρώ (1%) έναντι του επικαιροποιημένου στόχου που περιλαμβάνεται ...  \nTo άρθρο Προϋπολογισμός: Με καθαρά έσοδα 77,065 δισ. ευρώ και δημοσιονομικό πλεόνασμα 100 εκατ. ευρώ «έκλεισε» το 2025 δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1902679769-1200x675-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Απίστευτο συμβάν στο Ρίζεσπορ – Αλάνιασπορ: Ο Παπανικολάου πήρε ανύπαρκτη κόκκινη στο έκτο λεπτό (vid)",
-          "link": "https://www.in.gr/2026/01/26/sports/football/epos-sto-rizespor-alaniaspor-o-papanikolaou-pire-anyparkti-kokkini-sto-ekto-lepto-tou-mats/",
-          "pubDate": "Mon, 26 Jan 2026 11:31:53 +0300",
-          "description": "Απίστευτα πράγματα στο Ρίζεσπορ – Αλάνιασπορ, με αποβολή του Παπανικολάου μόλις στο 6ο λεπτό του ματς λόγω ανύπαρκτης κόκκινης κάρτας – Ακυρώθηκε και γκολ των γηπεδούχων.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alanyaspor-caykur-rizespor-aa-arsiv-2173418-768x432.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Βιολάντα: Συλλυπητήρια ανακοίνωση από τον Κωστή Χατζηδάκη",
+          "link": "https://www.naftemporiki.gr/politics/2063868/violanta-syllypitiria-anakoinosi-kosti-chatzidaki/?utm_source=rss&utm_medium=rss&utm_campaign=violanta-syllypitiria-anakoinosi-kosti-chatzidaki",
+          "pubDate": "Mon, 26 Jan 2026 09:58:45 +0000",
+          "description": "Τα συλλυπητήριά του στις οικογένειες των θυμάτων από τη φονική πυρκαγιά στο εργοστάσιο της Βιολάντα στα Τρίκαλα αποστέλλει με ανάρτησή του ο αντιπρόεδρος της κυβέρνησης, Κωστής Χατζηδάκης, ανακοινώνοντας παράλληλα και…\nΒιολάντα: Συλλυπητήρια ανακοίνωση από τον Κωστή Χατζηδάκη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Μητσοτάκης για τα Τρίκαλα: Η σκέψη μας βρίσκεται με τις οικογένειες των θυμάτων",
           "link": "https://www.tanea.gr/2026/01/26/politics/mitsotakis-gia-ta-trikala-i-skepsi-mas-vrisketai-me-tis-oikogeneies-ton-thymaton/",
@@ -263,10 +271,10 @@
           "source": "Τα Νέα"
         },
         {
-          "title": "Μητσοτάκης στο Υπουργικό: Μεταρρυθμίσεις και αυξήσεις μισθών – Στήριξη πολιτών και επιχειρήσεων",
-          "link": "https://www.tanea.gr/2026/01/26/politics/mitsotakis-sto-ypourgiko-metarrythmiseis-kai-ayksiseis-misthon-stiriksi-politon-kai-epixeiriseon/",
+          "title": "Μητσοτάκης: Ψήφος από το σπίτι και στις εθνικές εκλογές – Tο σχέδιο για τους αποδήμους",
+          "link": "https://www.tanea.gr/2026/01/26/politics/mitsotakis-psifos-apo-to-spiti-kai-stis-ethnikes-ekloges-to-sxedio-gia-tous-apodimous/",
           "pubDate": "Mon, 26 Jan 2026 09:48:22 +0000",
-          "description": "Ο Κυριάκος Μητσοτάκης αναφέρθηκε στην τραγωδία στα Τρίκαλα, όπου σημειώθηκε έκρηξη και φωτιά στο εργοστάσιο της «Βιολάντα», κατά τη διάρκεια της εισήγησής του στο σημερινό υπουργικό συμβούλιο. Ο Πρωθυπουργός τόνισε ότι «η σκέψη μας είναι με τις οικογένειες των θυμάτων», επισημαίνοντας πως «η Πυροσβεστική ερευνά ήδη τις συνθήκες για να αποδοθούν ευθύνες». Στη συνέχεια, ο […]",
+          "description": "Αναφερόμενος στην επέκταση του δικαιώματος επιστολικής ψήφου των Ελλήνων του εξωτερικού στις εθνικές εκλογές, ο Πρωθυπουργός πρότεινε τη δημιουργία Ειδικής Τριεδρικής Περιφέρειας Απόδημου Ελληνισμού.",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/5005415-1024x683.jpg",
           "source": "Τα Νέα"
         },
@@ -485,14 +493,6 @@
           "description": "Με τη συμμετοχή στελεχών, μελών και φίλων της Ανανεωτικής Αριστεράς και των Κινήσεων Πολιτών για τη Σοσιαλδημοκρατία, πραγματοποιήθηκε η κοπή βασιλόπιτας",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/25/pita-1024x668.jpg",
           "source": "Το Βήμα"
-        },
-        {
-          "title": "Γ. Χατζηθεοδοσίου: Είναι στις προθέσεις μου να θέσω υποψηφιότητα για περιφερειάρχης Αττικής",
-          "link": "https://www.naftemporiki.gr/politics/2063533/g-chatzitheodosioy-einai-stis-protheseis-moy-na-theso-ypopsifiotita-gia-perifereiarchis-attikis/?utm_source=rss&utm_medium=rss&utm_campaign=g-chatzitheodosioy-einai-stis-protheseis-moy-na-theso-ypopsifiotita-gia-perifereiarchis-attikis",
-          "pubDate": "Sun, 25 Jan 2026 11:30:48 +0000",
-          "description": "Την πρόθεσή του να κατέβει ως υποψήφιος για την Περιφέρεια Αττικής εκφράζει ο πρόεδρος του Επαγγελματικού Επιμελητηρίου Αθηνών, Γιάννης Χατζηθεοδοσίου.\nΓ. Χατζηθεοδοσίου: Είναι στις προθέσεις μου να θέσω υποψηφιότητα για περιφερειάρχης Αττικής - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Basketaki Salonica: Ανασκόπηση εβδομάδας",
+          "link": "https://www.gazzetta.gr/basketball/basketaki-erasitehniko-protathlima-mpasket/2510271/basketaki-salonica-anaskopisi",
+          "pubDate": "Mon, 26 Jan 2026 11:56:43 +0200",
+          "description": "Όμορφες αναμετρήσεις, εξαιρετικές συνεργασίες και μεγάλες μάχες για άλλη μια εβδομάδα στο Basketaki Salonica, όπου οι ομάδες συνεχίζουν τις αγωνιστικές τους υποχρεώσεις με αμείωτο ρυθμό με στόχο την πολυπόθητη νίκη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/basketaki_56.jpg?itok=i_e6hmww",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Λιάγκας: Του έκλεισε το τηλέφωνο ο Μιχάλης Γιαννάκος - «Μου έκανε τη μούρη κρέας» (vid)",
           "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
           "pubDate": "Mon, 26 Jan 2026 11:51:00 +0200",
@@ -977,14 +985,6 @@
           "description": "Χιλιάδες άγρια δέντρα στο Μέιν διαψεύδουν τις προβλέψεις δεκαετιών και επαναφέρουν την ελπίδα για τη φυσική αποκατάσταση των δασών.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/2f8a55b5-kastania-u.jpg?itok=vitgLXrR",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Νέοι κανόνες για τα powerbanks στα αεροπλάνα: Τι δεν πρέπει να ξανακάνεις στο ταξίδι σου",
-          "link": "https://www.gazzetta.gr/plus/2510225/neoi-kanones-gia-ta-powerbanks-sta-aeroplana-ti-den-prepei-na-xanakaneis-sto-taxidi",
-          "pubDate": "Mon, 26 Jan 2026 09:44:09 +0200",
-          "description": "Από εδώ και στο εξής το powerbank μπορεί να μπαίνει στη χειραποσκευή σου, αλλά αλλάζει ριζικά ο τρόπος που επιτρέπεται να το χρησιμοποιείς στο αεροπλάνο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/shutterstock_2633670937_1.jpg?itok=B0U_E_84",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Γιατί δεν παίζει ο Αντίνο – Το πιθανό ντεμπούτο του στα πράσινα",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-giati-den-paizei-o-antin/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-giati-den-paizei-o-antin",
+          "pubDate": "Mon, 26 Jan 2026 09:52:44 +0000",
+          "description": "Μετρά αντίστροφα για το πρώτο του παιχνίδι με τη φανέλα του Παναθηναϊκού ο Σαντίνο Αντίνο. Σταδιακά αρχίζει να ξεκαθαρίζει το πλαίσιο γύρω από το πιθανό ντεμπούτο του Σαντίνο Αντίνο με τη φανέλα του Παναθηναϊκού, με τους ανθρώπους του συλλόγου να κινούνται προσεκτικά, έχοντας πλήρη επίγνωση της αγωνιστικής του κατάστασης και του χρονικού διαστήματος αποχής του […]\nThe post Παναθηναϊκός: Γιατί δεν παίζει ο Αντίνο – Το πιθανό ντεμπούτο του στα πράσινα appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Andino-1-2.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Παναθηναϊκός: Πρόβλημα για την Ρόμα πριν το ΟΑΚΑ",
           "link": "https://panathinaikos24.gr/2026/01/26/617761/panathinaikos-provlima-gia-tin-roma-prin-to-oaka/",
@@ -1041,6 +1049,22 @@
           "source": "Panathinaikos24"
         },
         {
+          "title": "Προανήγγειλε αλλαγές ο Μπενίτεθ: «Τα πράγματα είναι πιο πολύπλοκα»!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/proaningeile-allages-o-beniteth-ta-p/?utm_source=rss&utm_medium=rss&utm_campaign=proaningeile-allages-o-beniteth-ta-p",
+          "pubDate": "Sun, 25 Jan 2026 20:45:12 +0000",
+          "description": "Ο Ράφα Μπενίτεθ μίλησε στην συνέντευξη Τύπου, μετά την αναμέτρηση του Παναθηναϊκού με τον Ατρόμητο και σχολίασε τα όσα έκανε η ομάδα! Όσα είπε στην συνέντευξη Τύπου ο Μπενίτεθ: Για την αστάθεια στην απόδοση του Παναθηναϊκού: «Νομίζω ότι πολλές φορές αναλύουμε τα πράγματα ανάλογα με το αποτέλεσμα. Με την ΑΕΚ ήμασταν καλοί στο πρώτο μέρος […]\nThe post Προανήγγειλε αλλαγές ο Μπενίτεθ: «Τα πράγματα είναι πιο πολύπλοκα»! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-7.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Κινδυνεύει με «τρελό» αρνητικό ρεκόρ ο Παναθηναϊκός! – Εκτός έδρας νίκη με το… κυάλι",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/kindynevei-me-trelo-arnitiko-rekor/?utm_source=rss&utm_medium=rss&utm_campaign=kindynevei-me-trelo-arnitiko-rekor",
+          "pubDate": "Sun, 25 Jan 2026 20:38:19 +0000",
+          "description": "Η συγκομιδή μακριά από τη Λεωφόρο φέρνει ιστορικές συγκρίσεις και μετατρέπει τις επόμενες εξόδους σε κομβικό τεστ αξιοπιστίας. Η φετινή εκτός έδρας συγκομιδή φέρνει τον Παναθηναϊκό αντιμέτωπο με ένα ανεπιθύμητο ορόσημο, καθώς τα αριθμητικά δεδομένα παραπέμπουν σε σεζόν που έχουν χαραχθεί αρνητικά στη συλλογική μνήμη. Αν το «Τριφύλλι» δεν βρει άμεσα νίκη μακριά από την […]\nThe post Κινδυνεύει με «τρελό» αρνητικό ρεκόρ ο Παναθηναϊκός! – Εκτός έδρας νίκη με το… κυάλι appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/jedvaj-apogoitefsi.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
           "title": "Μπενίτεθ: «Θέλαμε να προφυλάξουμε παίκτες, αδύνατον να στηρίζεσαι σε λίγους με τρεις διοργανώσεις»",
           "link": "https://panathinaikos24.gr/2026/01/25/617725/mpeniteth-thelame-na-profylaksoume-paiktes-adynaton-na-stirizesai-se-ligous-me-treis-diorganoseis/",
           "pubDate": "Sun, 25 Jan 2026 20:33:41 +0000",
@@ -1049,12 +1073,20 @@
           "source": "Panathinaikos24"
         },
         {
+          "title": "Παναθηναϊκός: Η κριτική κι ο βαθμός του Μπενίτεθ με Ατρόμητο",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-i-kritiki-ki-o-vathmos-tou/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-i-kritiki-ki-o-vathmos-tou",
+          "pubDate": "Sun, 25 Jan 2026 20:07:16 +0000",
+          "description": "Η κριτική του Ράφα Μπενίτεθ, στο ματς με τον Ατρόμητο για την 18η αγωνιστική της Stoiximan Super League. Δίχως καμία υπερβολή, στο Περιστέρι παρακολουθήσαμε έναν Παναθηναϊκό που θυμίζε… άνοστη σούπα. Ειδικά στο 1ο ημίχρονο. Προφανώς, στο παιχνίδι κόντρα στον Ατρόμητο δεν βγήκε σχεδόν τίποτα από το πλάνο του Ράφα Μπενίτεθ, το οποίο απ’ ό,τι φαίνεται […]\nThe post Παναθηναϊκός: Η κριτική κι ο βαθμός του Μπενίτεθ με Ατρόμητο appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/10/kritiki-proponiti-benitez.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
           "title": "Ατρόμητος – Παναθηναϊκός 0-0 | Highlights",
-          "link": "https://trifilara.gr/atromitos-panathinaikos-0-0-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=atromitos-panathinaikos-0-0-highlights",
-          "pubDate": "Sun, 25 Jan 2026 20:02:57 +0000",
-          "description": "Ο Παναθηναϊκός έμεινε με τον έναν βαθμό στο Περιστέρι κόντρα στον Ατρόμητο, με τις δύο ομάδες να μην μπορούν να σκοράρουν στο 90άλεπτό.\nThe post Ατρόμητος – Παναθηναϊκός 0-0 | Highlights appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/atromitos-panathinaikos-0-0-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=atromitos-panathinaikos-0-0-highlights",
+          "pubDate": "Sun, 25 Jan 2026 19:59:48 +0000",
+          "description": "Οι μεγαλύτερες ευκαιρίες στην αναμέτρηση του Παναθηναϊκού με τον Ατρόμητο, με τις δύο ομάδες να μην μπορούν να βρουν γκολ!\nThe post Ατρόμητος – Παναθηναϊκός 0-0 | Highlights appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/tetteh-2-1.jpg",
+          "source": "Όλα Πράσινα"
         },
         {
           "title": "Κερκέζ: «Αξίζαμε την νίκη – Αυτοί είχαν μια ευκαιρία!»",
@@ -1063,6 +1095,22 @@
           "description": "Όσα είπε ο Ντούσαν Κέρκεζ μετά το παιχνίδι της 18ης αγωνιστικής της Super League ανάμεσα στον Παναθηναϊκό και τον Ατρόμητο.\nThe post Κερκέζ: «Αξίζαμε την νίκη – Αυτοί είχαν μια ευκαιρία!» appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
+        },
+        {
+          "title": "Κέρκεζ: «Εμείς αξίζαμε τη νίκη!»",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/kerkez-emeis-axizame-ti-niki/?utm_source=rss&utm_medium=rss&utm_campaign=kerkez-emeis-axizame-ti-niki",
+          "pubDate": "Sun, 25 Jan 2026 19:49:24 +0000",
+          "description": "Ο προπονητής του Ατρόμητου, Ντούσαν Κέρκεζ, σχολίασε τα όσα έγιναν στην αναμέτρηση κόντρα στον Παναθηναϊκό, στο παιχνίδι της 18ης αγωνιστικής της Super League. Αναλυτικά όσα είπε ο Κέρκεζ: «Για εμένα αξίζαμε κάτι παραπάνω, δηλαδή να κερδίσουμε. Στο πρώτο μέρος είχαμε ευκαιρίες για γκολ. Στο δεύτερο ημίχρονο μας έβαλε πίσω ο Παναθηναϊκός, είχαν μία ευκαιρία με […]\nThe post Κέρκεζ: «Εμείς αξίζαμε τη νίκη!» appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/kerkez.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Ατρόμητος – Παναθηναϊκός: Η κριτική των «πράσινων»",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/atromitos-panathinaikos-i-kritiki-ton-2/?utm_source=rss&utm_medium=rss&utm_campaign=atromitos-panathinaikos-i-kritiki-ton-2",
+          "pubDate": "Sun, 25 Jan 2026 19:42:20 +0000",
+          "description": "Ο Παναθηναϊκός αναδείχθηκε ισόπαλος δίχως τέρματα με τον Ατρόμητο στο Περιστέρι κι ο Στέλιος Στρατιάδης σχολίαζει την απόδοση των «πράσινων». ΑΛΜΠΑΝ ΛΑΦΟΝ Αρχικά, ο Γάλλος τερματοφύλακας καθόρισε το παιχνίδι από πολύ νωρίς. Το πέναλτι που κερδίζει ο Ατρόμητος προκύπτει και από δική του έξοδο, όμως η απόκρουση στην εκτέλεση του Μίχορλ αλλάζει πλήρως τη ροή […]\nThe post Ατρόμητος – Παναθηναϊκός: Η κριτική των «πράσινων» appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/endekada-3.jpg",
+          "source": "Όλα Πράσινα"
         },
         {
           "title": "Μπενίτεθ: «Αξίζαμε να κερδίσουμε, είχαμε ξεκάθαρες ευκαιρίες»",
@@ -1079,6 +1127,22 @@
           "description": "Η βαθμολογία της Stoiximan Super League μετά το 0-0 του Παναθηναϊκού στο Περιστέρι.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/BATHMOLOGIA.jpg?fit=900%2C599&amp;ssl=1",
           "source": "Panathinaikos24"
+        },
+        {
+          "title": "Ανύπαρκτος στο Περιστέρι ο Παναθηναϊκός!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/anyparktos-sto-peristeri-o-panathinai/?utm_source=rss&utm_medium=rss&utm_campaign=anyparktos-sto-peristeri-o-panathinai",
+          "pubDate": "Sun, 25 Jan 2026 19:35:31 +0000",
+          "description": "Ένα ακόμη… στραβοπάτημα για τον Παναθηναϊκό στο πρωτάθλημα, με τους «πράσινους» να μη μπορούν να νικήσουν ούτ τον Ατρόμητο στο Περιστέρι, μένοντας στο 0-0. Ατρόμητος (Κέρκεζ): Χουτεσιώτης, Μουντές, Τσακμάκης, Μανσούρ, Ούρονεν, Μουτουσαμί, Τσιγγάρας, Γιουμπιτάνα, Μίχορλ, Μπάκου, Τσαντίλας. Παναθηναϊκός (Μπενίτεθ):Λαφόν, Κώτσιρα, Κυριακόπουλο, Ίνγκασον, Τουμπά, Σιώπη, Μπακασέτα, Μπόκο, Ζαρουρί, Τεττέη, Πάντοβιτς. Αρχικά ο Παναθηναϊκός πήγε στο Περιστέρι […]\nThe post Ανύπαρκτος στο Περιστέρι ο Παναθηναϊκός! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/tetteh-1-2.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Το πρώτο σχόλιο του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/to-proto-scholio-tou-beniteth-meta-to-at-2/?utm_source=rss&utm_medium=rss&utm_campaign=to-proto-scholio-tou-beniteth-meta-to-at-2",
+          "pubDate": "Sun, 25 Jan 2026 19:33:42 +0000",
+          "description": "Ο Ράφα Μπενίτεθ μίλησε μετά το παιχνίδι κόντρα στον Ατρόμητο και σχολίασε όσα έκανε ο Παναθηναϊκός. Αναλυτικά όσα είπε ο Μπενίτεθ: «Νομίζω ότι στο πρώτο ημίχρονο προσπαθούσαμε, αλλά αυτοί τα έδιναν όλα. Φαινόταν ότι έτρεχαν πάρα πολύ. Στο δεύτερο ημίχρονο είχαμε περισσότερο έλεγχο. Δημιουργήσαμε κάποιες φάσεις, μία καθαρή ευκαιρία που θα μπορούσε να αλλάξει τα […]\nThe post Το πρώτο σχόλιο του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-5-1.jpg",
+          "source": "Όλα Πράσινα"
         },
         {
           "title": "Νέο «στραπάτσο» ο Παναθηναϊκός!",
@@ -1103,6 +1167,14 @@
           "description": "Έμεινε άσφαιρος ξανά και έχασε εκ νέου έδαφος ο Παναθηναϊκός. Οι πράσινοι, ήταν κάκιστοι στο πρώτο μέρος στο Περιστέρι, είχαν ήρωα τον Λαφόν που έπιασε πέναλτι και παρότι στο δεύτερο ημίχρονο βελτιώθηκαν, δεν εκμεταλλεύτηκαν τις λίγες τους ευκαιρίες, μένοντας στο 0-0.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4fcee81c-bfb7-4567-bcc1-e6b74287ba9c.jpg?fit=900%2C571&amp;ssl=1",
           "source": "Panathinaikos24"
+        },
+        {
+          "title": "Νέα γκέλα για τον Παναθηναϊκό στο Περιστέρι! – Η βαθμολογία της Super League",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/nea-gkela-gia-ton-panathinaiko-sto-peri/?utm_source=rss&utm_medium=rss&utm_campaign=nea-gkela-gia-ton-panathinaiko-sto-peri",
+          "pubDate": "Sun, 25 Jan 2026 19:23:46 +0000",
+          "description": "Αυτή είναι η βαθμολογία της Super League, μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού! Μετά την ολοκλήρωση της αναμέτρησης της 18ης αγωνιστικής, η βαθμολογία της Super League αποτυπώνει με σαφήνεια τη δύσκολη πραγματικότητα για τον Παναθηναϊκό, ο οποίος παραμένει στην 5η θέση του πίνακα με 26 βαθμούς σε 17 παιχνίδια. Το «Τριφύλλι» βρίσκεται πλέον σε […]\nThe post Νέα γκέλα για τον Παναθηναϊκό στο Περιστέρι! – Η βαθμολογία της Super League appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/ingason-1-scaled.jpg",
+          "source": "Όλα Πράσινα"
         },
         {
           "title": "Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League",
@@ -1158,62 +1230,6 @@
           "pubDate": "Sun, 25 Jan 2026 16:54:37 +0000",
           "description": "Δείτε τις καλύτερες στιγμές της νίκης του Παναθηναϊκού.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5004176.jpg?fit=900%2C614&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Παναθηναϊκός: «Ανακατεμένη» 11άδα κόντρα στον Ατρόμητο!",
-          "link": "https://trifilara.gr/panathinaikos-anakatemeni-11ada-kontra-ston-atromito/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-anakatemeni-11ada-kontra-ston-atromito",
-          "pubDate": "Sun, 25 Jan 2026 16:44:32 +0000",
-          "description": "Η πιθανή ενδεκάδα του Παναθηναϊκού κόντρα στον Ατρόμητο και οι σκέψεις του Ράφα Μπενίτεθ.\nThe post Παναθηναϊκός: «Ανακατεμένη» 11άδα κόντρα στον Ατρόμητο! appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "«Καθάρισε» το Μαρούσι, με… σοβαρό δεύτερο ημίχρονο ο Παναθηναϊκός",
-          "link": "https://trifilara.gr/katharise-to-marousi-me-sovaro-deftero-imichrono-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=katharise-to-marousi-me-sovaro-deftero-imichrono-o-panathinaikos",
-          "pubDate": "Sun, 25 Jan 2026 16:40:06 +0000",
-          "description": "Το παιχνίδι στο ΟΑΚΑ ξεκίνησε με τρόπο που κανείς στο στρατόπεδο του Παναθηναϊκού δεν θα ήθελε, καθώς το Μαρούσι μπήκε με ένταση, καθαρό πλάνο και ένα γρήγορο σερί 6-0 που έβαλε από νωρίς πίεση στους «πράσινους». Το «Τριφύλλι» εμφανίστηκε νευρικό, με κακές αποστάσεις στην επίθεση και σημαντική αστοχία, στοιχεία που έδωσαν την ευκαιρία στους φιλοξενούμενους […]\nThe post «Καθάρισε» το Μαρούσι, με… σοβαρό δεύτερο ημίχρονο ο Παναθηναϊκός appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Η ενδεκάδα του Παναθηναϊκού κόντρα στον Ατρόμητο",
-          "link": "https://panathinaikos24.gr/2026/01/25/617635/i-endekada-tou-panathinaikou-kontra-ston-atromito/",
-          "pubDate": "Sun, 25 Jan 2026 16:31:36 +0000",
-          "description": "Η ενδεκάδα που επέλεξε ο Ράφα Μπενίτεθ.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5000157.jpg?fit=1440%2C960&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Αταμάν: «Σοβαρευτήκαμε – Υπάρχει κούραση» – Όσα είπε για τους τραυματίες",
-          "link": "https://trifilara.gr/ataman-sovareftikame-yparchei-kourasi-osa-eipe-gia-tous-travmaties/?utm_source=rss&utm_medium=rss&utm_campaign=ataman-sovareftikame-yparchei-kourasi-osa-eipe-gia-tous-travmaties",
-          "pubDate": "Sun, 25 Jan 2026 16:31:33 +0000",
-          "description": "Ο Εργκίν Αταμάν μίλησε στην συνέντευξη Τύπου μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού».\nThe post Αταμάν: «Σοβαρευτήκαμε – Υπάρχει κούραση» – Όσα είπε για τους τραυματίες appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Παναθηναϊκός – Μαρούσι 92-81 | HIGHLIGHTS",
-          "link": "https://trifilara.gr/panathinaikos-marousi-92-81-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-marousi-92-81-highlights",
-          "pubDate": "Sun, 25 Jan 2026 16:10:38 +0000",
-          "description": "Οι καλύτερες φάσεις και ο τρόπος που ο Παναθηναϊκός πήρε την νίκη κόντρα στο Μαρούσι.\nThe post Παναθηναϊκός – Μαρούσι 92-81 | HIGHLIGHTS appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Τι είπε ο Αταμάν για τις απουσίες του Παναθηναϊκού μετά το ματς κόντρα στο Μαρούσι (video)",
-          "link": "https://panathinaikos24.gr/2026/01/25/617631/ti-eipe-o-ataman-gia-tis-apousies-tou-panathinaikou-meta-to-mats-kontra-sto-marousi-video/",
-          "pubDate": "Sun, 25 Jan 2026 15:53:08 +0000",
-          "description": "Ο κόουτς Αταμάν μίλησε για την κατάσταση της υγείας του Τζέντι Οσμάν, του Κέντρικ Ναν και του Ομέρ Γιουρτσέβεν, ενόψει των επερχόμενων αγωνιστικών υποχρεώσεων του Παναθηναϊκού στην Euroleague.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/image-19.jpg?fit=960%2C540&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Ζήτησε challenge υπέρ του Αμαρουσίου ο Αταμάν και αποθεώθηκε (video)",
-          "link": "https://panathinaikos24.gr/2026/01/25/617627/zitise-challenge-yper-tou-amarousiou-o-ataman-kai-apotheothike-video/",
-          "pubDate": "Sun, 25 Jan 2026 15:50:02 +0000",
-          "description": "Η κίνηση του Τούρκου προπονητή, ο οποίος αποθεώθηκε από τον κόσμο.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/image-18.jpg?fit=960%2C540&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
