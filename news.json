@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T18:05:29.070Z",
+  "lastUpdated": "2026-01-26T18:10:33.089Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ηράκλειο: Καθυστερήσεις και ακυρώσεις πτήσεων στο αεροδρόμιο λόγω της κακοκαιρίας",
+          "link": "https://www.newsit.gr/ellada/irakleio-kathysteriseis-kai-akyroseis-ptiseon-sto-aerodromio-logo-tis-kakokairias/4584138/",
+          "pubDate": "Mon, 26 Jan 2026 18:05:33 +0000",
+          "description": "Προβλήματα στις πτήσεις του αεροδρομίου Ηρακλείου «Νίκος Καζαντζάκης» δημιούργησαν τα έντονα φαινόμενα του καιρού, με έντονες βροχές και καταιγίδες.  Σύμφωνα με τα όσα είπε στο ...  \nTo άρθρο Ηράκλειο: Καθυστερήσεις και ακυρώσεις πτήσεων στο αεροδρόμιο λόγω της κακοκαιρίας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kazantzakis-1200x745.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Πορτογαλία: Βίντεο από την κατάσχεση 9 τόνων κοκαΐνης από «ναρκο-υποβρύχιο» στο αρχιπέλαγος των Αζορών",
           "link": "https://www.newsit.gr/kosmos/portogalia-vinteo-apo-tin-katasxesi-9-tonon-kokainis-apo-narko-ypovryxio-sto-arxipelagos-ton-azoron/4584154/",
@@ -137,6 +145,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Μελίσσια: Καθίζηση οδοστρώματος λόγω σοβαρής βλάβης σε αγωγό της ΕΥΔΑΠ – Κλειστή η λεωφόρος Δημοκρατίας",
+          "link": "https://www.in.gr/2026/01/26/greece/melissia-kathizisi-odostromatos-logo-sovaris-vlavis-se-agogo-tis-eydap-kleisti-leoforos-dimokratias/",
+          "pubDate": "Mon, 26 Jan 2026 20:08:01 +0300",
+          "description": "Η βλάβη σε κεντρικό αγωγό της ΕΥΔΑΠ προκάλεσε καθίζηση στον δρόμο με συνέπεια να διακοπεί η κυκλοφορία στη λεωφόρο Δημοκρατίας στα Μελίσσια",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/melissi_dimo-768x582.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Καιρός: Πάνω από 43.000 κεραυνοί έπεσαν τη Δευτερά – Που σημειώθηκαν τα μεγαλύτερα ύψη βροχής",
+          "link": "https://www.in.gr/2026/01/26/greece/kairos-pano-apo-43-000-keraynoi-epesan-ti-deytera-pou-simeiothikan-ta-megalytera-ypsi-vroxis/",
+          "pubDate": "Mon, 26 Jan 2026 20:05:40 +0300",
+          "description": "Κατά τη διάρκεια του 24ψρου έπεσαν 43.295 κεραυνοί, εκ των οποίων οι 5.644 πάνω από την ξηρά και οι 37.651 πάνω από τη θάλασσα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/4845706-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Meteo: Πάνω από 43.000 κεραυνοί έπεσαν την Δευτέρα – Οι περιοχές που «πνίγηκαν» από τη βροχή",
           "link": "https://www.newsit.gr/ellada/meteo-pano-apo-43-000-keraynoi-epesan-tin-deytera-oi-perioxes-pou-pnigikan-apo-ti-vroxi/4584109/",
           "pubDate": "Mon, 26 Jan 2026 17:03:09 +0000",
@@ -223,30 +247,6 @@
           "description": "Την καταδίκη της για τα όσα έκανε σε 13χρονο μαθητή και την απόφαση του υπουργείου Παιδείας να τεθεί σε διαθεσιμότητα, διαδέχονται οι νέες καταγγελίες για ...  \nTo άρθρο Σέρρες: Νέες αποκαλύψεις για την καθηγήτρια που φίμωσε μαθητή – «Έλεγε ότι ένας γάτος είναι η μετεμψύχωση του πατέρα της» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kathigitria-serres.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Στη Νέα Υόρκη ο Γιώργος Γεραπετρίτης: Στο επίκεντρο η συνάντηση με τον γγ του ΟΗΕ, Αντόνιο Γκουτέρες",
-          "link": "https://www.newsit.gr/politikh/sti-nea-yorki-o-giorgos-gerapetritis-sto-epikentro-i-synantisi-me-ton-gg-tou-oie-antonio-gkouteres/4584089/",
-          "pubDate": "Mon, 26 Jan 2026 16:39:51 +0000",
-          "description": "Με το βλέμμα στραμμένο στη Μέση Ανατολή και με αιχμή το ραντεβού με τον γενικό γραμματέα του ΟΗΕ, Αντόνιο Γκουτέρες, ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης ...  \nTo άρθρο Στη Νέα Υόρκη ο Γιώργος Γεραπετρίτης: Στο επίκεντρο η συνάντηση με τον γγ του ΟΗΕ, Αντόνιο Γκουτέρες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gerapetritis-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ρωσία: Αεροπορικές εταιρείες ακύρωσαν πτήσεις επειδή «έπεσε» το σύστημα κρατήσεων «Leonardo»",
-          "link": "https://www.newsit.gr/kosmos/rosia-aeroporikes-etaireies-akyrosan-ptiseis-epeidi-epese-to-systima-kratiseon-leonardo/4584079/",
-          "pubDate": "Mon, 26 Jan 2026 16:38:58 +0000",
-          "description": "Σύγχυση και ιδιαίτερη ανησυχία προκλήθηκε σήμερα (26.01.2026_ στην Ρωσία, αφού δημιουργήθηκε σοβαρό πρόβλημα στο σύστημα – πλατφόρμα κρατήσεων «Leonardo» με αποτέλεσμα ρωσικές αεροπορικές εταιρείες να ακυρώσουν ...  \nTo άρθρο Ρωσία: Αεροπορικές εταιρείες ακύρωσαν πτήσεις επειδή «έπεσε» το σύστημα κρατήσεων «Leonardo» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/russia-airport-epa-1-1-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Πάνω από 40.000 κεραυνοί έπεσαν τη Δευτέρα, οι περιοχές με τα μεγαλύτερα ύψη βροχής, δείτε χάρτες",
-          "link": "https://www.protothema.gr/greece/article/1763721/pano-apo-40000-keraunoi-epesan-ti-deutera-oi-periohes-me-ta-megalutera-upsi-vrohis-deite-hartes/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 18:36:44 +0200",
-          "description": "Μεγάλος αριθμός καταιγίδων και κεραυνών καταγράφηκε κυρίως σε θαλάσσιες, νησιωτικές και παράκτιες περιοχές",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-09-10/keraunos.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "«Πάει για Ουλίσες Γκαρσία ο Παναθηναϊκός», γράφουν στη Γαλλία!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/paei-gia-oulises-gkarsia-o-panathinai/?utm_source=rss&utm_medium=rss&utm_campaign=paei-gia-oulises-gkarsia-o-panathinai",
+          "pubDate": "Mon, 26 Jan 2026 18:07:06 +0000",
+          "description": "Γαλλικά δημοσιεύματα φέρνουν στο προσκήνιο τον Ουλίσες Γκαρσία για τον Παναθηναϊκό. Νέο μεταγραφικό σενάριο από τη Γαλλία βάζει στο κάδρο του Παναθηναϊκού τον Ουλίσες Γκαρσία, με τα σχετικά δημοσιεύματα να κάνουν λόγο για ουσιαστικό και έντονο ενδιαφέρον από πλευράς «πρασίνων». Ο 30χρονος Ελβετός αριστερός μπακ, με σημαντική εμπειρία από την Βέρντερ Βρέμης, φέρεται να βρίσκεται […]\nThe post «Πάει για Ουλίσες Γκαρσία ο Παναθηναϊκός», γράφουν στη Γαλλία! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/garcia.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
           "title": "«Ενδιαφέρεται για Ουλίσες Γκαρσία ο Παναθηναϊκός»",
           "link": "https://panathinaikos24.gr/2026/01/26/617855/endiaferetai-gia-oulises-gkarsia-o-panathinaikos/",
           "pubDate": "Mon, 26 Jan 2026 17:32:25 +0000",
@@ -1222,14 +1230,6 @@
           "pubDate": "Mon, 26 Jan 2026 10:03:02 +0000",
           "description": "Παράδοξο, αλλά απολύτως ελληνικό, είναι αυτό που συμβαίνει με την περίπτωση του Γιάννη Μπόκου στον Παναθηναϊκό. Παράδοξο, αλλά απολύτως ελληνικό, είναι αυτό που συμβαίνει με την περίπτωση του Γιάννη Μπόκου στον Παναθηναϊκό. Για μήνες, ένα μεγάλο κομμάτι του κόσμου ζητούσε επίμονα να δοθούν ευκαιρίες στα παιδιά των ακαδημιών, να παίξουν οι νεαροί, να μην καίγονται […]\nThe post Παναθηναϊκός: Το παράδοξο με Μπόκο! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Mpokos-Benitez.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Παναθηναϊκός: Γιατί δεν παίζει ο Αντίνο – Το πιθανό ντεμπούτο του στα πράσινα",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-giati-den-paizei-o-antin/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-giati-den-paizei-o-antin",
-          "pubDate": "Mon, 26 Jan 2026 09:52:44 +0000",
-          "description": "Μετρά αντίστροφα για το πρώτο του παιχνίδι με τη φανέλα του Παναθηναϊκού ο Σαντίνο Αντίνο. Σταδιακά αρχίζει να ξεκαθαρίζει το πλαίσιο γύρω από το πιθανό ντεμπούτο του Σαντίνο Αντίνο με τη φανέλα του Παναθηναϊκού, με τους ανθρώπους του συλλόγου να κινούνται προσεκτικά, έχοντας πλήρη επίγνωση της αγωνιστικής του κατάστασης και του χρονικού διαστήματος αποχής του […]\nThe post Παναθηναϊκός: Γιατί δεν παίζει ο Αντίνο – Το πιθανό ντεμπούτο του στα πράσινα appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Andino-1-2.jpg",
           "source": "Όλα Πράσινα"
         }
       ]
