@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T04:10:27.528Z",
+  "lastUpdated": "2026-01-26T04:15:28.981Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κερδισμένοι όσοι διάλεξαν σταθερά συμβόλαια αερίου-ρεύματος",
+          "link": "https://www.newsit.gr/oikonomia/xristika/kerdismenoi-osoi-dialeksan-stathera-symvolaia-aeriou-reymatos/4581870/",
+          "pubDate": "Mon, 26 Jan 2026 04:12:00 +0000",
+          "description": "Η άνοδος της τιμής του φυσικού αερίου στην Ευρώπη τον τελευταίο μήνα εκτιμάται ότι θα ανεβάσει παράλληλα και τα τιμολόγια που θα κληθούν να πληρώσουν ...  \nTo άρθρο Κερδισμένοι όσοι διάλεξαν σταθερά συμβόλαια αερίου-ρεύματος δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/natural-gas-r-1210-scaled-1-1-1200x675-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Survivor 2026: Ο Αλέξανδρος Κούρτοβικ από τον Άγιο Δημήτριο στον Άγιο Δομίνικο",
           "link": "https://www.newsit.gr/lifestyle/survivor-2026-o-aleksandros-kourtovik-apo-ton-agio-dimitrio-ston-agio-dominiko/4583316/",
@@ -239,14 +247,6 @@
           "description": "Αστικές συγκοινωνίες • Φρένο στην εισιτηριοδιαφυγή • Πώς θα τσεκάρουν τη διέλευση χωρίς εισιτήριο από τις μπάρες του μετρό",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/tanea-18-768x950.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα",
-          "link": "https://www.newsit.gr/athlitika/ethniki-polo-andron-i-aponomi-tou-xalkinou-metalliou-sto-eyropaiko-protathlima/4583323/",
-          "pubDate": "Sun, 25 Jan 2026 21:30:52 +0000",
-          "description": "Η Εθνική πόλο ανδρών της Ελλάδας κατέκτησε το χάλκινο μετάλλιο στο ευρωπαϊκό πρωτάθλημα του Βελιγραδίου και ανέβηκε για πρώτη φορά στην ιστορία της στο βάθρο ...  \nTo άρθρο Εθνική πόλο ανδρών: Η απονομή του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grpolo-1200x784.jpg",
-          "source": "NewsIT"
         }
       ]
     },
