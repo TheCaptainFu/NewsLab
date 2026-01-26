@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T08:25:26.224Z",
+  "lastUpdated": "2026-01-26T08:30:33.439Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,46 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Σύλληψη 45χρονου για εξύβριση και συκοφαντική δυσφήμιση μέσω διαδικτύου του δημάρχου Ελληνικού-Αργυρούπολης",
+          "link": "https://www.protothema.gr/greece/article/1763392/sullipsi-45hronou-gia-exuvrisi-kai-sukofadiki-dusfimisi-meso-diadiktuou-tou-dimarhou-ellinikou-arguroupolis/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 10:29:00 +0200",
+          "description": "Η πρώτη μήνυση είχε υποβληθεί από τον Ιωάννη Κωνσταντάτο τον Νοέμβριο - Ακολούθησε δεύτερη την Κυριακή με βάση την οποία συνελήφθη ο 45χρονος στα πλαίσια του αυτοφώρου ως διαχειριστής ιστοσελίδας",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/konstantatos.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Η διοίκηση της «Βιολάντα» αποφάσισε χθες να δουλέψουν 12 αντί για 30 άτομα στη σημερινή βάρδια λόγω κοπή πίτας\n",
+          "link": "https://www.protothema.gr/greece/article/1763391/i-dioikisi-tis-violada-apofasise-hthes-na-doulepsoun-12-adi-gia-30-atoma-sti-simerini-vardia-logo-kopi-pitas/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 10:28:00 +0200",
+          "description": "Από τη φωτιά ανασύρθηκαν νεκρές τρεις γυναίκες, ενώ άλλες δυο αγνοούνται",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/fotia_violanta__3_.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Γιώργος Λιάγκας: Ο Μιχάλης Γιαννάκος του έκλεισε το τηλέφωνο – «Μου έκανε τη μούρη κρέας» ξέσπασε ο παρουσιαστής",
+          "link": "https://www.newsit.gr/media/giorgos-liagkas-o-mixalis-giannakos-tou-ekleise-to-tilefono-mou-ekane-ti-mouri-kreas-ksespase-o-parousiastis/4583534/",
+          "pubDate": "Mon, 26 Jan 2026 08:25:35 +0000",
+          "description": "Ανέβηκαν οι τόνοι στην εκπομπή «Το Πρωινό» στον ΑΝΤ1, όταν ο Μιχάλης Γιαννάκος έκλεισε κάποια στιγμή το τηλέφωνο της ζωντανής σύνδεσης. Ο Γιώργος Λιάγκας έδειξε ...  \nTo άρθρο Γιώργος Λιάγκας: Ο Μιχάλης Γιαννάκος του έκλεισε το τηλέφωνο – «Μου έκανε τη μούρη κρέας» ξέσπασε ο παρουσιαστής δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/liagas-arxiki-1200x737.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Κακοκαιρία: Φτάνουν στην Αττική οι βροχές και καταιγίδες – Πώς θα κινηθούν τα φαινόμενα",
+          "link": "https://www.newsit.gr/ellada/kakokairia-ftanoun-stin-attiki-oi-vroxes-kai-kataigides-pos-tha-kinithoun-ta-fainomena/4583539/",
+          "pubDate": "Mon, 26 Jan 2026 08:25:25 +0000",
+          "description": "Το πρωί της Δευτέρας 26.01.2026, το νέο κύμα κακοκαιρίας αναμένεται στην Αττική και μπορεί να μην είναι τόσο έντονα τα φαινόμενα όπως εκείνη πριν από ...  \nTo άρθρο Κακοκαιρία: Φτάνουν στην Αττική οι βροχές και καταιγίδες – Πώς θα κινηθούν τα φαινόμενα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kataigida-1-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Πορτοκαλί προειδοποίηση για καταιγίδες στην Αττική, τι θα γίνει τις επόμενες ώρες - Χάρτης Κολυδά αποτυπώνει το πέρασμα της κακοκαιρίας",
+          "link": "https://www.protothema.gr/greece/article/1763379/portokali-proeidopoiisi-gia-kataigides-stin-attiki-ti-tha-ginei-tis-epomenes-ores-hartis-koluda/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 10:25:00 +0200",
+          "description": "Σήμερα Δευτέρα 26/1/2026 υπάρχει πορτοκαλί συναγερμός για ισχυρές καταιγίδες στην Αττική από την ΕΜΥ, με κακοκαιρία που φέρνει ασταθή καιρό, βροχές και πιθανές πλημμυρικές καταστάσεις",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/kakokairia_maketa.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Λευκάδα: Τοποθετήθηκε βόμβα σε βίλα επιχειρηματία που δραστηριοποιείται στη Νέα Υόρκη",
           "link": "https://www.protothema.gr/greece/article/1763389/leukada-topothetithike-vomva-se-vila-epiheirimatia-pou-drastiriopoieitai-sti-nea-uorki/?utm_source=rss",
@@ -161,6 +201,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Δικαιώνουν τον Νίκο Ανδρουλάκη οι εξελίξεις στο σκάνδαλο των υποκλοπών;",
+          "link": "https://www.in.gr/2026/01/26/politics/politiki-grammateia/dikaionoun-ton-niko-androulaki-oi-ekselikseis-sto-skandalo-ton-ypoklopon/",
+          "pubDate": "Mon, 26 Jan 2026 10:25:02 +0300",
+          "description": "Ως κομβικές αντιμετωπίζουν στο ΠΑΣΟΚ τις τελευταίες αποκαλύψεις του In για το σκάνδαλο των υποκλοπών. Στελέχη της Χαριλάου Τρικούπη υπενθυμίζουν τη «θεσμική» διαδρομή που ακολούθησε ο Νίκος Ανδρουλάκης από το 2022, ενόψει και της εξέτασης της προσφυγής του στο Ευρωπαϊκό Δικαστήριο Ανθρωπίνων Δικαιωμάτων.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6760233-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Η Σοφία Παυλίδου για τη νέα σχέση της: «Τώρα ήμουν έτοιμη, βρήκα τον άνθρωπο αυτό μετά από 10 χρόνια»",
           "link": "https://www.newsit.gr/lifestyle/i-sofia-paylidou-gia-ti-nea-sxesi-tis-tora-imoun-etoimi-vrika-ton-anthropo-ayto-meta-apo-10-xronia/4583487/",
           "pubDate": "Mon, 26 Jan 2026 07:24:36 +0000",
@@ -199,54 +247,6 @@
           "description": "Είχαν κάνει πέντε διαρρήξεις σπιτιών, μία διάρρηξη μοτοσικλέτας και μία καταστήματος, τρεις κλοπές σε καταστήματα και δύο κλοπές με τη μέθοδο της απασχόλησης",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-16/peripoliko-mak.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Κιλκίς: Νεκρός 62χρονος οδηγός που βγήκε από τον δρόμο και χτύπησε σε δέντρο",
-          "link": "https://www.protothema.gr/greece/article/1763340/kilkis-nekros-62hronos-odigos-pou-vgike-apo-ton-dromo-kai-htupise-se-dedro/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 09:10:41 +0200",
-          "description": "Τα ακριβή αίτια και οι συνθήκες του δυστυχήματος ερευνώνται από το Αστυνομικό Τμήμα Παιονίας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-10-23/asthenoforo-mak.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "1.000.000 μοναδικοί χρήστες ενημερώθηκαν χθες Κυριακή 25 Ιανουαρίου από το protothema.gr",
-          "link": "https://www.protothema.gr/greece/article/1763339/1000000-monadikoi-hristes-enimerothikan-hthes-kuriaki-25-ianouariou-apo-to-protothemagr/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 09:10:38 +0200",
-          "description": "Σταθερά στην πρώτη θέση των διαδικτυακών Μέσων Ενημέρωσης",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/25012026_noumera-xrwma.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Απαγορευτικό απόπλου από τον Πειραιά – Ακυρώσεις δρομολογίων",
-          "link": "https://www.in.gr/2026/01/26/greece/apagoreytiko-apoplou-apo-ton-peiraia-akyroseis-dromologion/",
-          "pubDate": "Mon, 26 Jan 2026 10:09:33 +0300",
-          "description": "Οι ισχυροί άνεμοι είχαν ως αποτέλεσμα την ακύρωση δρομολογίων από τον Πειραιά προς το νοτιοανατολικό Αιγαίο.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6806340-768x513.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Χρυσός: Έσπασε το φράγμα των 5.000 δολαρίων",
-          "link": "https://www.in.gr/2026/01/26/economy/xrysos-espase-fragma-ton-5-000-dolarion/",
-          "pubDate": "Mon, 26 Jan 2026 10:07:48 +0300",
-          "description": "Ασταμάτητος ο χρυσός με την τιμή του να έχει σημειώσει άνοδο άνω του 17% φέτος από την αρχή του χρόνου",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/gold-times-1200x692-768x443.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μέγαρο Μαξίμου: Αλλαγή στρατηγικής με στόχο τις δημοσκοπήσεις – Συνεδριάζει σήμερα το Υπουργικό Συμβούλιο",
-          "link": "https://www.newsit.gr/politikh/megaro-maksimou-allagi-stratigikis-me-stoxo-tis-dimoskopiseis-synedriazei-simera-to-ypourgiko-symvoulio/4583449/",
-          "pubDate": "Mon, 26 Jan 2026 07:04:43 +0000",
-          "description": "Οι μεταρρυθμίσεις που δρομολογεί η κυβέρνηση ως το τέλος της τετραετίας, βρίσκονται στο επίκεντρο της επικοινωνιακής στρατηγικής του Μεγάρου Μαξίμου. Μετά από περίπου δύο μήνες, ...  \nTo άρθρο Μέγαρο Μαξίμου: Αλλαγή στρατηγικής με στόχο τις δημοσκοπήσεις – Συνεδριάζει σήμερα το Υπουργικό Συμβούλιο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mitsotakis-ypourgiko-1200x801.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σία Κοσιώνη: «Ο Κώστας Μπακογιάννης είναι διαρκώς στο πλευρό της» λέει ο συνεργάτης της παρουσιάστριας Γιώργος Λεμπέσης",
-          "link": "https://www.newsit.gr/ellada/sia-kosioni-o-kostas-mpakogiannis-einai-diarkos-sto-pleyro-tis-leei-o-synergatis-tis-parousiastrias-giorgos-lempesis/4583470/",
-          "pubDate": "Mon, 26 Jan 2026 07:03:53 +0000",
-          "description": "Η Σία Κοσιώνη παραμένει στη μονάδα εντατικής θεραπείας του Metropolitan και πηγαίνει καλύτερα. Όπως λένε οι δικοί της άνθρωποι, η υγεία της παρουσιάστριας βελτιώνεται και ...  \nTo άρθρο Σία Κοσιώνη: «Ο Κώστας Μπακογιάννης είναι διαρκώς στο πλευρό της» λέει ο συνεργάτης της παρουσιάστριας Γιώργος Λεμπέσης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kosioni-ndp-1200x832.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -263,7 +263,7 @@
           "source": "Τα Νέα"
         },
         {
-          "title": "Η ενεργή εμπλοκή στα κοινά που «αγγίζει» και τη δίκη των Τεμπών",
+          "title": "Η «πολιτική» Καρυστιανού αγγίζει και τη δίκη των Τεμπών",
           "link": "https://www.tovima.gr/print/politics/i-energi-emploki-sta-koina-crpou-aggizei-kai-ti-diki-ton-temponcr/",
           "pubDate": "Mon, 26 Jan 2026 10:23:00 +0300",
           "description": "Διατυπώνονται φόβοι πως η δίκη στη Λάρισα για τους (μη πολιτικούς) υπευθύνους του δυστυχήματος των Τεμπών κινδυνεύει να επισκιαστεί από πολιτικές επιδιώξεις.",
@@ -501,19 +501,27 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Trump says administration 'reviewing everything' after shooting of Alex Pretti",
+          "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 08:29:04 GMT",
+          "description": "Tim Walz says the city's second fatal shooting this month is an \"inflection point\" as protests spread over the death of Alex Pretti.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba23/live/2b0c80d0-fa76-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Δεν γλύτωσαν ούτε οι Μουτζαχεντίν: Οι Ταλιμπάν αφαίρεσαν την αίθουσα δόξας από το Μουσείο Τζιχάντ",
+          "link": "http://gr.euronews.com/culture/2026/01/26/den-glytwsan-oyte-oi-moytzaxentin-oi-talimpan-afairesan-thn-ai8oysa-do3as-apo-to-moyseio",
+          "pubDate": "Mon, 26 Jan 2026 09:23:54 +0100",
+          "description": "Σύμφωνα με το Ισλάμ, δεν επιτρέπεται στους μουσουλμάνους να απεικονίζουν (τασουίρ) έμψυχα όντα",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Eighteen dead after Philippines ferry with 300 passengers sinks",
           "link": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 08:17:35 GMT",
           "description": "The local coast guard is still searching for 24 missing passengers of the MV Trisha Kerstin.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9de/live/cce379f0-fa6b-11f0-ba3f-fd73924e5353.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Minneapolis protesters march against ICE as governor demands Trump remove agents",
-          "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 07:31:46 GMT",
-          "description": "Tim Walz says the city's second fatal shooting this month is an \"inflection point\" as protests spread over the death of Alex Pretti.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba23/live/2b0c80d0-fa76-11f0-b5f7-49f0357294ff.jpg",
           "source": "BBC News"
         },
         {
@@ -731,14 +739,6 @@
           "description": "Διέλυσε με 12-5 την Ιταλία στον μικρό τελικό και ανέβηκε σε βάθρο Ευρωπαϊκού Πρωταθλήματος για πρώτη φορά στην ιστορία της",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Ειδήσεις | 25 Ιανουαρίου 2026 - Βραδινό δελτίο",
-          "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-bradino-deltio",
-          "pubDate": "Sun, 25 Jan 2026 18:00:15 +0100",
-          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "«Θλιβερή νύχτα στη Μινεσότα» : Αντιδράσεις παικτών και λίγκας  για τη δολοφονία άντρα από πράκτορες της ICE",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510254/thliberi-nyhta-sti-minesota-antidraseis-paikton-kai-ligkas-gia-ti-dolofonia",
+          "pubDate": "Mon, 26 Jan 2026 10:28:57 +0200",
+          "description": "To παιχνίδι στη Μινεσότα μεταξύ Τίμπεργουλβς και Γουόριορς έγινε σε πολύ περίεργη ατμόσφαιρα λόγω του θανάτου του Άλεξ Πρέτι από ένα πράκτορα της ICE.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-11/edwards_0.jpg?itok=xQ256Nly",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Whoop: Το απαγορευμένο βραχιολάκι του Αλκαράθ που αναγκάστηκε να βγάλει",
+          "link": "https://www.gazzetta.gr/tennis/australian-open/2510253/whoop-apagoreymeno-brahiolaki-toy-alkarath-poy-anagkastike-na-bgalei",
+          "pubDate": "Mon, 26 Jan 2026 10:25:00 +0200",
+          "description": "Πριν την έναρξη του αγώνα του με τον Τόμι Πολ, ζητήθηκε από τον Κάρλος Αλκαράθ να αφαιρέσει το Whoop που φορούσε. Τι είναι και γιατί απαγορεύεται.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/alcaraz_1.jpg?itok=170pyr4H",
+          "source": "Gazzetta"
+        },
         {
           "title": "24 Ώρες Ντεϊτόνα: Τρίτη διαδοχική νίκη για την Penske Porsche ",
           "link": "https://www.gazzetta.gr/gmotion/2510252/24-ores-nteitona-triti-diadohiki-niki-gia-tin-penske-porsche",
@@ -969,22 +985,6 @@
           "description": "Δείτε τα αποτελέσματα του ΝΒΑ στο Gazzetta.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-02/fox_getty.jpg?itok=iTiJDQOn",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Οι 22 χώρες χωρίς στρατό: πώς επιβιώνουν και γιατί κανείς δεν τις αγγίζει",
-          "link": "https://www.gazzetta.gr/plus/2510186/oi-22-hores-horis-strato-pos-epibionoyn-kai-giati-kaneis-den-tis-aggizei",
-          "pubDate": "Mon, 26 Jan 2026 08:22:24 +0200",
-          "description": "Από την Κόστα Ρίκα έως την Ισλανδία και τα νησιά του Ειρηνικού, 22 χώρες έχουν καταργήσει τον στρατό τους. Πώς προστατεύονται και ποια μοντέλα ασφάλειας ακολουθούν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/astynomia.jpg?itok=HFARgdHq",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αποτελέσματα NBA: «Άλωσαν» την Οκλαχόμα οι Τορόντο Ράπτορς, σπουδαία διπλά και για Γουόριορς και Χιτ",
-          "link": "https://www.newsit.gr/athlitika/apotelesmata-nba-alosan-tin-oklaxoma-oi-toronto-raptors-spoudaia-dipla-kai-gia-gouoriors-kai-xit/4583413/",
-          "pubDate": "Mon, 26 Jan 2026 06:20:15 +0000",
-          "description": "Συνεχίζεται το ντεφορμάρισμα των Οκλαχόμα Σίτι Θάντερ στο NBA, μετά το εντυπωσιακό τους ξεκίνημα στη σεζόν, αφού ηττήθηκαν και από τους Τορόντο Ράπτορς, με 103-101. ...  \nTo άρθρο Αποτελέσματα NBA: «Άλωσαν» την Οκλαχόμα οι Τορόντο Ράπτορς, σπουδαία διπλά και για Γουόριορς και Χιτ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ingram-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "ΤΡΑΓΩΔΙΑ στα Τρίκαλα: Τρεις γυναίκες νεκρές και δύο αγνοούμενες από τη μεγάλη φωτιά στο εργοστάσιο της Βιολάντα",
+          "link": "https://panathinaikos24.gr/2026/01/26/617733/tragodia-sta-trikala-treis-gynaikes-nekres-kai-dyo-agnooumenes-apo-ti-megali-fotia-sto-ergostasio-tis-violanta/",
+          "pubDate": "Mon, 26 Jan 2026 07:00:51 +0000",
+          "description": "Αναφορές και για τέταρτη νεκρή - Πριν τη φωτιά σημειώθηκε έκρηξη - Τραυματίες ακόμη πέντε εργαζόμενοι και ένας πυροσβέστης",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5005288.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Προανήγγειλε αλλαγές ο Μπενίτεθ: «Τα πράγματα είναι πιο πολύπλοκα»!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/proaningeile-allages-o-beniteth-ta-p/?utm_source=rss&utm_medium=rss&utm_campaign=proaningeile-allages-o-beniteth-ta-p",
@@ -1223,14 +1231,6 @@
           "description": "Οι καλύτερες φάσεις και ο τρόπος που ο Παναθηναϊκός πήρε την νίκη κόντρα στο Μαρούσι.\nThe post Παναθηναϊκός – Μαρούσι 92-81 | HIGHLIGHTS appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Τι είπε ο Αταμάν για τις απουσίες του Παναθηναϊκού μετά το ματς κόντρα στο Μαρούσι (video)",
-          "link": "https://panathinaikos24.gr/2026/01/25/617631/ti-eipe-o-ataman-gia-tis-apousies-tou-panathinaikou-meta-to-mats-kontra-sto-marousi-video/",
-          "pubDate": "Sun, 25 Jan 2026 15:53:08 +0000",
-          "description": "Ο κόουτς Αταμάν μίλησε για την κατάσταση της υγείας του Τζέντι Οσμάν, του Κέντρικ Ναν και του Ομέρ Γιουρτσέβεν, ενόψει των επερχόμενων αγωνιστικών υποχρεώσεων του Παναθηναϊκού στην Euroleague.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/image-19.jpg?fit=960%2C540&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
