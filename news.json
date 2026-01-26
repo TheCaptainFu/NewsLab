@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T01:05:28.413Z",
+  "lastUpdated": "2026-01-26T01:10:30.478Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals",
+          "link": "https://www.bbc.com/news/articles/c20gg729y1yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 00:15:03 GMT",
+          "description": "A leak exposes for the first time the extent of Russia’s misuse of Interpol to request the arrest of critics.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea21/live/9d4dc4e0-f87f-11f0-b385-5f48925de19a.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Analysing the Minneapolis shooting frame by frame",
           "link": "https://www.bbc.com/news/videos/cg4e0r1el5yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Jan 2026 22:04:22 GMT",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/2026/01/25/minesota-orgh-gia-ton-8anato-toy-37xronoy-apo-thn-ice-pyra-twn-dhmokratikwn-kata-toy",
           "pubDate": "Sun, 25 Jan 2026 12:24:56 +0100",
           "description": "Ο κυβερνήτης της Μινεσότα ζητάει την απομάκρυνση των πρακτόρων της ICE - Την παραίτηση της υπουργού Εσωτερικής Ασφάλειας ζήτησε ο Γκάβιν Νιούσομ",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Ειδήσεις | 25 Ιανουαρίου 2026 - Μεσημβρινό δελτίο",
-          "link": "http://gr.euronews.com/video/2026/01/25/eidhseis-25-ianoyarioy-2026-meshmbrino-deltio",
-          "pubDate": "Sun, 25 Jan 2026 12:00:19 +0100",
-          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 25 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
           "thumbnail": null,
           "source": "Euronews"
         }
