@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T17:44:13.779Z",
+  "lastUpdated": "2026-01-26T17:45:29.099Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -177,14 +177,6 @@
           "source": "NewsIT"
         },
         {
-          "title": "Ο Νίκος Γκάλης συνεχάρη την Εθνική πόλο για το χάλκινο μετάλλιο",
-          "link": "https://www.in.gr/2026/01/26/sports/othersports/o-nikos-gkalis-synexari-tin-ethniki-polo-gia-xalkino-metallio/",
-          "pubDate": "Mon, 26 Jan 2026 19:38:10 +0300",
-          "description": "Ο θρύλος του ελληνικού μπάσκετ, Νίκος Γκάλης, με ανάρτησή του στο Facebook συνεχάρη την Εθνική Ελλάδας στο πόλο που κατέκτησε το χάλκινο μετάλλιο στο ευρωπαϊκό πρωτάθλημα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6684261-768x553.jpg",
-          "source": "In.gr"
-        },
-        {
           "title": "Πάνω από 40.000 κεραυνοί έπεσαν τη Δευτέρα, οι περιοχές με τα μεγαλύτερα ύψη βροχής, δείτε χάρτες",
           "link": "https://www.protothema.gr/greece/article/1763721/pano-apo-40000-keraunoi-epesan-ti-deutera-oi-periohes-me-ta-megalutera-upsi-vrohis-deite-hartes/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 18:36:44 +0200",
@@ -247,6 +239,14 @@
           "description": "Ο κόσμος έχει περάσει το μεγαλύτερο χρονικό διάστημα χωρίς πυρηνική έκρηξη από την αρχή της ατομικής εποχής, πριν από περισσότερα από 80 χρόνια",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/emanuel-kypreos-XySaPZljJ54-unsplash-768x488.jpg",
           "source": "In.gr"
+        },
+        {
+          "title": "Παράταση παραστάσεων για την «Αλεξάνδρεια», του Φωκά Ευαγγελινού, στο Παλλάς",
+          "link": "https://www.newsit.gr/politismos/paratasi-parastaseon-gia-tin-aleksandreia-tou-foka-eyaggelinou-sto-pallas/4584066/",
+          "pubDate": "Mon, 26 Jan 2026 16:16:44 +0000",
+          "description": "Μετά την τεράστια ανταπόκριση του κοινού και έχοντας αποσπάσει διθυραμβικές κριτικές γοητεύοντας κοινό και κριτικούς, η θεατρική παράσταση «Αλεξάνδρεια» σε σύλληψη και σκηνοθεσία του Φωκά ...  \nTo άρθρο Παράταση παραστάσεων για την «Αλεξάνδρεια», του Φωκά Ευαγγελινού, στο Παλλάς δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alexandreia-1200x755.jpg",
+          "source": "NewsIT"
         }
       ]
     },
@@ -533,10 +533,10 @@
           "source": "BBC News"
         },
         {
-          "title": "Γροιλανδός υπουργός: Ασαφή τα συμφέροντα των ΗΠΑ, χωρίς συμφωνία στο τραπέζι",
+          "title": "«Ασαφή τα αμερικανικά συμφέροντα, δεν υπάρχει συμφωνία» λέει στο euronews Γροιλανδός υπουργός",
           "link": "http://gr.euronews.com/my-europe/2026/01/26/greenlandic-minister-says-that-us-interests-are-unclear-with-no-deal-yet-on-the-table",
           "pubDate": "Mon, 26 Jan 2026 17:46:16 +0100",
-          "description": "Η υπουργός Naaja Nathanielsen είπε στο Euronews ότι η Γροιλανδία ζητά σαφήνεια για τις απαιτήσεις του Τραμπ, προειδοποίησε ότι «πλήρης πρόσβαση» στους ορυκτούς πόρους της θα παραβίαζε τις κόκκινες γραμμές της.",
+          "description": "Η υπουργός ορυκτών πόρων σημείωσε ότι η Γροιλανδία ζητεί σαφήνεια για τις απαιτήσεις του Τραμπ και προειδοποίεί ότι «πλήρης πρόσβαση» στους ορυκτούς πόρους παραβιάζει τις κόκκινες γραμμές της κυβέρνησης της",
           "thumbnail": null,
           "source": "Euronews"
         },
