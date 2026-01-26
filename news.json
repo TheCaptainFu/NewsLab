@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T16:00:39.409Z",
+  "lastUpdated": "2026-01-26T16:05:25.058Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,46 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βιολάντα: Πάνω από 1.000 βαθμοί Κελσίου στο εργοστάσιο εξαιτίας της φωτιάς - Τι εξετάζεται για τα αίτια της τραγωδίας",
+          "link": "https://www.protothema.gr/greece/article/1763649/violada-pano-apo-1000-vathmous-kelsiou-sto-ergostasio-exaitias-tis-fotias-ti-exetazetai-gia-ta-aitia-tis-tragodias/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 18:02:37 +0200",
+          "description": "Ηχητικό ντοκουμέντο από την εκκωφαντική έκρηξη - Τι «βλέπουν» για τα αίτια - Η ανακοίνωση της εταιρείας",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-violanta-1.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Καιρός: Διακοπή κυκλοφορίας σε Κιλκίς, Σέρρες και Χαλκιδική λόγω έντονης βροχόπτωσης",
+          "link": "https://www.newsit.gr/ellada/kairos-diakopi-kykloforias-se-kilkis-serres-kai-xalkidiki-logo-entonis-vroxoptosis/4584048/",
+          "pubDate": "Mon, 26 Jan 2026 16:00:34 +0000",
+          "description": "Διακοπή κυκλοφορίας οχημάτων τέθηκε σε ισχύ την Δευτέρα (26/01/2026) σε τμήματα του οδικού δικτύου σε Κιλκίς, Σέρρες και Χαλκιδική, λόγω έντονων βροχοπτώσεων. Συγκεκριμένα, όπως ανακοίνωσε ...  \nTo άρθρο Καιρός: Διακοπή κυκλοφορίας σε Κιλκίς, Σέρρες και Χαλκιδική λόγω έντονης βροχόπτωσης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vroxi-3-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ο Καναδάς αυξάνει την έκπτωση του φόρου για αγαθά και υπηρεσίες εν μέσω αυξανόμενης ακρίβειας",
+          "link": "https://www.newsit.gr/oikonomia/diethni/o-kanadas-ayksanei-tin-ekptosi-tou-forou-gia-agatha-kai-ypiresies-en-meso-ayksanomenis-akriveias/4584034/",
+          "pubDate": "Mon, 26 Jan 2026 16:00:12 +0000",
+          "description": "Την έκπτωση φόρου Αγαθών και Υπηρεσιών (GST) αποφάσισε να αυξήσει ο πρωθυπουργός του Καναδά Μαρκ Κάρνεϊ, προσπαθώντας να αντιμετωπίσει τις ανησυχίες των πολιτών σχετικά με ...  \nTo άρθρο Ο Καναδάς αυξάνει την έκπτωση του φόρου για αγαθά και υπηρεσίες εν μέσω αυξανόμενης ακρίβειας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/canada-carney-reuters-1200x901.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ιστορική ημέρα στον ΠΑΟΚ, έπεσαν οι υπογραφές για τη Νέα Τούμπα",
+          "link": "https://www.newsit.gr/athlitika/istoriki-imera-ston-paok-epesan-oi-ypografes-gia-ti-nea-toumpa/4584049/",
+          "pubDate": "Mon, 26 Jan 2026 15:59:54 +0000",
+          "description": "Άνοιξε ο δρόμος για την κατασκευή της Νέας Τούμπας αφού τη Δευτέρα (26.01.2026) η ΠΑΕ ΠΑΟΚ, ο ΑΣ ΠΑΟΚ και η εταιρεία “Φωλιά του Δικέφαλου ...  \nTo άρθρο Ιστορική ημέρα στον ΠΑΟΚ, έπεσαν οι υπογραφές για τη Νέα Τούμπα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-nea-toympa-paokfc-1200x769.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ηράκλειο: Πλημμύρισαν από τη βροχή οι αίθουσες του ειδικού σχολείου – Τι καταγγέλλουν γονείς και εκπαιδευτικοί",
+          "link": "https://www.newsit.gr/ellada/irakleio-plimmyrisan-apo-ti-vroxi-oi-aithouses-tou-eidikou-sxoleiou-ti-kataggelloun-goneis-kai-ekpaideytikoi/4584042/",
+          "pubDate": "Mon, 26 Jan 2026 15:59:41 +0000",
+          "description": "Ανάστατοι είναι οι μαθητές, οι γονείς και οι εκπαιδευτικοί του Ειδικού Σχολείου στο Ηράκλειο Κρήτης. Το σχολικό συγκρότημα πλημμύρισε από τη βροχή που έπεσε τη ...  \nTo άρθρο Ηράκλειο: Πλημμύρισαν από τη βροχή οι αίθουσες του ειδικού σχολείου – Τι καταγγέλλουν γονείς και εκπαιδευτικοί δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/irakleio-plimmira-26012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Κρουζ και Ρομέο Μπέκαμ: Βίντεο – σπόντα μέσω TikTok στον αδερφό τους Μπρούκλιν από το Παρίσι",
           "link": "https://www.newsit.gr/lifestyle/krouz-kai-romeo-mpekam-vinteo-sponta-meso-tiktok-ston-aderfo-tous-mprouklin-apo-to-parisi/4584041/",
@@ -63,14 +103,6 @@
           "description": "Θρήνος στα Τρίκαλα μετά την φονική έκρηξη στο εργοστάσιο της «Βιολάντα» τα ξημερώματα της Δευτέρας 26 Ιανουαρίου με τραγικό απολογισμό πέντε νεκρές εργάτριες. Η έκρηξη ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: Εικόνες από drone δείχνουν το μέγεθος της καταστροφής δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/trikala-ekrixi-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Βιολάντα: Πάνω από 1.000 βαθμοί Κελσίου στο εργοστάσιο εξαιτίας της φωτιάς - Τι εξετάζεται για τα αίτια της τραγωδίας",
-          "link": "https://www.protothema.gr/greece/article/1763649/violada-pano-apo-1000-vathmous-kelsiou-sto-ergostasio-exaitias-tis-fotias-ti-exetazetai-gia-ta-aitia-tis-tragodias/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 17:44:43 +0200",
-          "description": "Ηχητικό ντοκουμέντο από την εκκωφαντική έκρηξη - Τι «βλέπουν» για τα αίτια - Η ανακοίνωση της εταιρείας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xrwma-violanta-1.jpg",
-          "source": "Πρώτο Θέμα"
         },
         {
           "title": "Χαϊδάρι: Συνελήφθη μετά από καταδίωξη 20χρονος με όπλο και γεμιστήρα",
@@ -215,38 +247,6 @@
           "description": "Μετά την έκρηξη ακολούθησε πυρκαγιά - Πέντε εργάτριες νεκρές - Η Υπηρεσία Διερεύνησης Εγκλημάτων Εμπρησμού της Πυροσβεστικής ερευνά τα αίτια της τραγωδίας",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/trikalavideo-xrm.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Η Allwyn Arena είναι εδώ, ολοκληρώθηκε το rebranding στο γήπεδο της ΑΕΚ",
-          "link": "https://www.newsit.gr/athlitika/i-allwyn-arena-einai-edo-oloklirothike-to-rebranding-sto-gipedo-tis-aek/4583988/",
-          "pubDate": "Mon, 26 Jan 2026 14:55:42 +0000",
-          "description": "Στη νέα εποχή της Allwyn μπήκε και το γήπεδο της ΑΕΚ, που ονομάζεται πλέον Allwyn Arena. Οι εργασίες αλλαγής ονομασίας ολοκληρώθηκαν και πλέον την πρόσοψη ...  \nTo άρθρο Η Allwyn Arena είναι εδώ, ολοκληρώθηκε το rebranding στο γήπεδο της ΑΕΚ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/allwyn-arena-aek-1200x649.png",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κίεβο: Ζημιές στη Λαύρα των Σπηλαίων από ρωσικές επιδρομές – Είναι μνημείο παγκόσμιας κληρονομιάς της UNESCO",
-          "link": "https://www.newsit.gr/kosmos/kievo-zimies-sti-layra-ton-spilaion-apo-rosikes-epidromes-einai-mnimeio-pagkosmias-klironomias-tis-unesco/4583976/",
-          "pubDate": "Mon, 26 Jan 2026 14:50:02 +0000",
-          "description": "Οι μαζικές ρωσικές επιθέσεις στο Κίεβο προχθές Σάββατο (24.01.2026) προκάλεσαν ζημιές σε κτίρια του ορθόδοξου μοναστηριού Λαύρα των Σπηλαίων, μνημείο παγκόσμιας κληρονομιάς της UNESCO, ανακοίνωσε ...  \nTo άρθρο Κίεβο: Ζημιές στη Λαύρα των Σπηλαίων από ρωσικές επιδρομές – Είναι μνημείο παγκόσμιας κληρονομιάς της UNESCO δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kyiv-unesco-reuters-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Οι εντυπωσιακές προσγειώσεις στο αεροδρόμιο της Νάξου εν μέσω θυελλωδών ανέμων, δείτε βίντεο",
-          "link": "https://www.protothema.gr/greece/article/1763648/oi-eduposiakes-prosgeioseis-sto-aerodromio-tis-naxou-en-meso-thuellodon-anemon-deite-video/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 16:50:02 +0200",
-          "description": "Παρά τις δυσκολίες, οι δύο προγραμματισμένες πτήσεις πραγματοποιήθηκαν κανονικά και ολοκληρώθηκαν με επιτυχία",
-          "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-26/naxos-prosgeioseis.png",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "ΑΕΚ: Σύσσωμη η ομάδα ποδοσφαίρου θα βρεθεί στα Άνω Λιόσια για το ματς της Ένωσης με την Άλμπα στο BCL",
-          "link": "https://www.newsit.gr/athlitika/aek-syssomi-i-omada-podosfairou-tha-vrethei-sta-ano-liosia-gia-to-mats-tis-enosis-me-tin-almpa-sto-bcl/4583983/",
-          "pubDate": "Mon, 26 Jan 2026 14:47:37 +0000",
-          "description": "Η ΑΕΚ αντιμετωπίζει την Τετάρτη (28.01.2026, 19:00) την Άλμπα Βερολίνου στα Άνω Λιόσια, σε ματς για την 2η αγωνιστική του Group J της φάσης των ...  \nTo άρθρο ΑΕΚ: Σύσσωμη η ομάδα ποδοσφαίρου θα βρεθεί στα Άνω Λιόσια για το ματς της Ένωσης με την Άλμπα στο BCL δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aek-nikolits-eurokinissi.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Σκαριόλο: Η εξήγηση του για το bulling που έκανε στον Χεζόνια",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510375/skariolo-i-exigisi-toy-gia-bulling-poy-ekane-ston-hezonia",
+          "pubDate": "Mon, 26 Jan 2026 18:04:53 +0200",
+          "description": "Ο προπονητής της Ρεάλ Σέρτζιο Σκαριόλο ανέπτυξε τη θεωρία του για την επιθετική συμπεριφορά που είχε προς τον Μάριο Χεζόνια στο ξεκίνημα της σεζόν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/scariolo_eurokinissi.jpg?itok=8BtEdJjl",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τι κάνει ένα smoothie υγιεινό και τι μπορεί να το κάνει λιγότερο υγιεινό",
+          "link": "https://www.gazzetta.gr/plus/2510328/ti-kanei-ena-smoothie-ygieino-kai-ti-mporei-na-kanei-ligotero-ygieino",
+          "pubDate": "Mon, 26 Jan 2026 18:00:00 +0200",
+          "description": "Ποια συστατικά και ποιοι διατροφικοί συνδυασμοί επηρεάζουν τη γλυκαιμική απόκριση, τον κορεσμό και τη συνολική θρεπτική αξία ενός smoothie.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fanny-gustafsson-71z7ecls4uo-unsplash.jpg?itok=TaDxc_9y",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ιστορική ημέρα στον ΠΑΟΚ, έπεσαν οι υπογραφές για τη Νέα Τούμπα",
           "link": "https://www.newsit.gr/athlitika/istoriki-imera-ston-paok-epesan-oi-ypografes-gia-ti-nea-toumpa/4584049/",
           "pubDate": "Mon, 26 Jan 2026 15:59:54 +0000",
@@ -782,7 +798,7 @@
           "title": "Ολυμπιακός: Ο Αντρέ Λουίζ στα ερυθρόλευκα",
           "link": "https://www.gazzetta.gr/football/superleague/2510370/olympiakos-o-antre-loyiz-sta-erythroleyka",
           "pubDate": "Mon, 26 Jan 2026 17:54:58 +0200",
-          "description": "Ο Αντρέ Λουίζ θα έρθει στον ολυμπιακό και μάλιστα με κανονική μεταγραφή από τη Ρίο Άβε.",
+          "description": "Ο Αντρέ Λουίζ θα έρθει στον Ολυμπιακό και μάλιστα με κανονική μεταγραφή από τη Ρίο Άβε.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/antre_loyiz.jpg?itok=hrDW1W3Q",
           "source": "Gazzetta"
         },
@@ -968,22 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 16:32:15 +0200",
           "description": "Ο Αντώνης Καλκαβούρας επιχειρεί τον απολογισμό διημέρου στο πρωτάθλημα και βγάζει κερδισμένους το Περιστέρι, την Μύκονο και τον «αυτοκράτορα», την ίδια ώρα που η μάχη για την αποφυγή του υποβιβασμού έχει πάρει «άγρια ομορφιά».",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6824240_1.jpg?itok=JExGRr8J",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: «Ο Καλάμπρια θα μπορούσε να επιστρέψει άμεσα στη Serie A» έγραψαν στην Ιταλία",
-          "link": "https://www.newsit.gr/athlitika/panathinaikos-o-kalampria-tha-mporouse-na-epistrepsei-amesa-sti-serie-a-egrapsan-stin-italia/4583971/",
-          "pubDate": "Mon, 26 Jan 2026 14:31:28 +0000",
-          "description": "Ο Νταβίντε Καλάμπρια βρίσκεται στον Παναθηναϊκό από το περασμένο καλοκαίρι, αλλά σύμφωνα με δημοσιεύματα από την Ιταλία, το μέλλον του παίκτη του Παναθηναϊκού δεν αποκλείεται ...  \nTo άρθρο Παναθηναϊκός: «Ο Καλάμπρια θα μπορούσε να επιστρέψει άμεσα στη Serie A» έγραψαν στην Ιταλία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kalampria-eurokinissi.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "300 χρόνια ιστορίας: Ενα θρυλικό εστιατόριο παραμένει ανοιχτό – Τι σημαίνει για την τοπική οικονομία",
-          "link": "https://www.gazzetta.gr/plus/2510346/300-hronia-istorias-ena-thryliko-estiatorio-paramenei-anoihto-ti-simainei-gia-tin",
-          "pubDate": "Mon, 26 Jan 2026 16:31:12 +0200",
-          "description": "Το Sobrino de Botín στη Μαδρίτη συμπλήρωσε 300 χρόνια αδιάλειπτης λειτουργίας, αποδεικνύοντας πως η αυθεντική κουζίνα, η ιστορία και η συνέπεια μπορούν να αντέξουν στον χρόνο",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/estiatorio.jpg?itok=A5HI5YlZ",
           "source": "Gazzetta"
         }
       ]
