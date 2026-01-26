@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-26T16:30:37.717Z",
-  "totalArticles": 180,
+  "lastUpdated": "2026-01-26T16:35:33.944Z",
+  "totalArticles": 178,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Σε κατάσταση έκτακτης ανάγκης κηρύχθηκαν περιοχές του δήμου Σιντικής - Συναγερμός για τον ποταμό Κρουσοβίτη",
+          "link": "https://www.protothema.gr/greece/article/1763723/se-katastasi-ektaktis-anagis-kiruhthikan-periohes-tou-dimou-sidikis-sunagermos-gia-ton-potamo-krousoviti/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 18:32:00 +0200",
+          "description": "Λόγω των πλημμυρών στην περιοχή ζευγάρι κτηνοτρόφων απεγκλωβίστηκε από την κτηνοτροφική τους μονάδα στην περιοχή Φαιά Πέτρα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/6767219.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Συνεχίζει με αμείωτο ρυθμό η Τροχαία τα αλκοτέστ: 10 συλλήψεις και 246 παραβάσεις σε τρεις μέρες, δείτε βίντεο  ",
           "link": "https://www.protothema.gr/greece/article/1763710/sullipsi-10-odigon-gia-odigisi-upo-tin-epireia-alkool-stin-attiki/?utm_source=rss",
@@ -217,6 +225,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Τραγωδία στα Τρίκαλα: Τι προκάλεσε την ισχυρή έκρηξη στο εργοστάσιο – Τα πρώτα σενάριο που εξετάζονται",
+          "link": "https://www.in.gr/2026/01/26/greece/tragodia-sta-trikala-ti-prokalese-tin-isxyri-ekriksi-sto-ergostasio-ta-prota-senario-pou-eksetazontai/",
+          "pubDate": "Mon, 26 Jan 2026 18:34:11 +0300",
+          "description": "Εκείνο που προβληματίζει τους αξιωματικούς της Πυροσβεστικής είναι ότι κανείς από τους μάρτυρες δεν αναφέρει ότι αντελήφθη κάποια μυρωδιά που δηλώνει διαρροή αερίου πριν από την έκρηξη στο εργοστάσιο στα Τρίκαλα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trikala_-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Πλημμύρισαν αίθουσες στο Ειδικό  Σχολείο του Ηρακλείου, διαμαρτύρονται οι εκπαιδευτικοί: Βίντεο ",
           "link": "https://www.protothema.gr/greece/article/1763682/plimmurisan-oi-aithouses-tou-eidikou-sholeiou-sto-irakleio-diamarturodai-oi-ekpaideutikoi-video/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 17:34:00 +0200",
@@ -230,22 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 15:30:40 +0000",
           "description": "Την πρώτη της δημόσια τοποθέτηση για τα ελληνοτουρκικά επιχειρεί η Μαρία Καρυστιανού. Σε ανάρτησή της, ζητά από τον πρωθυπουργό να κάνει γνωστή την ατζέντα της ...  \nTo άρθρο Καρυστιανού σε Μητσοτάκη για ελληνοτουρκικά: Πείτε μας τι θα συζητήσετε με Ερντογάν, ποιες είναι οι θέσεις σας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/karistianou-eurok-1-1200x825.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Βιολάντα: Τα 2 σενάρια που εξετάζει η Πυροσβεστική για την τραγωδία στο εργοστάσιο στα Τρίκαλα – Η διαρροή προπανίου και η έκρηξη από αλεύρι",
-          "link": "https://www.newsit.gr/ellada/violanta-ta-2-senaria-pou-eksetazei-i-pyrosvestiki-gia-tin-tragodia-sto-ergostasio-sta-trikala-i-diarroi-propaniou-kai-i-ekriksi-apo-aleyri/4583991/",
-          "pubDate": "Mon, 26 Jan 2026 15:30:31 +0000",
-          "description": "Σε εξέλιξη βρίσκονται οι έρευνες της Διεύθυνσης Αντιμετώπισης Εγκλημάτων Εμπρησμού της Πυροσβεστικής, που έχει αναλάβει την προανάκριση για τα αίτια της φονικής έκρηξης και μεγάλης ...  \nTo άρθρο Βιολάντα: Τα 2 σενάρια που εξετάζει η Πυροσβεστική για την τραγωδία στο εργοστάσιο στα Τρίκαλα – Η διαρροή προπανίου και η έκρηξη από αλεύρι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/trikala-ergostasio.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κίνα: Για «διαρροή πυρηνικών μυστικών στις ΗΠΑ» και για «διαφθορά» κατηγορείται το «δεξί χέρι» του Σι Τζινπίνγκ",
-          "link": "https://www.newsit.gr/kosmos/kina-gia-diarroi-pyrinikon-mystikon-stis-ipa-kai-gia-diafthora-katigoreitai-to-deksi-xeri-tou-si-tzinpingk/4584008/",
-          "pubDate": "Mon, 26 Jan 2026 15:29:03 +0000",
-          "description": "Πολιτικό «αναβρασμό» και αρκετές αντιδράσεις έχει προκαλέσει τις τελευταίες ημέρες στην Κίνα το γεγονός ότι ο ανώτερος στρατηγός της χώρας και στενός σύμμαχος του προέδρου ...  \nTo άρθρο Κίνα: Για «διαρροή πυρηνικών μυστικών στις ΗΠΑ» και για «διαφθορά» κατηγορείται το «δεξί χέρι» του Σι Τζινπίνγκ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/china-military-reuters-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Final 8 Κυπέλλου: Ξεκίνησε η διάθεση των εισιτηρίων",
+          "link": "https://www.gazzetta.gr/basketball/kypello-elladas-mpasket/2510376/final-8-kypelloy-xekinise-i-diathesi-ton-eisitirion",
+          "pubDate": "Mon, 26 Jan 2026 18:30:00 +0200",
+          "description": "Στη διάθεση του κόσμου τα εισιτήρια για το Κύπελλο Ελλάδος που πρόκειται να διεξαχθεί στο Ηράκλειο της Κρήτης από τις 17-21 Φεβρουαρίου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/final_8.jpg?itok=TPdr3HSN",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σοκαριστικές μαρτυρίες για τη διευθύντρια σχολείου στις Σέρρες: «Η γάτα που βλέπετε είναι η μετεμψύχωση του πατέρα μου»",
+          "link": "https://www.gazzetta.gr/plus/2510377/ssss",
+          "pubDate": "Mon, 26 Jan 2026 18:25:32 +0200",
+          "description": "Οι αποκαλύψεις για τη διευθύντρια στις Σέρρες σκιαγραφούν ένα σχολικό περιβάλλον έντασης, φόβου και ακραίων περιστατικών.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dieuthintria-serres-1200x675.jpg?itok=vGm9lloD",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ολυμπιακός: Ο Αντρέ Λουίς βάζει τα ερυθρόλευκα, ολοκληρώνεται η μετεγγραφή του από την Ριό Άβε",
           "link": "https://www.newsit.gr/athlitika/olympiakos-o-antre-louis-vazei-ta-erythroleyka-oloklironetai-i-meteggrafi-tou-apo-tin-rio-ave/4584062/",
           "pubDate": "Mon, 26 Jan 2026 16:09:47 +0000",
@@ -969,22 +985,6 @@
           "description": "Η ΑΕΚ αντιμετωπίζει την Τετάρτη (28.01.2026, 19:00) την Άλμπα Βερολίνου στα Άνω Λιόσια, σε ματς για την 2η αγωνιστική του Group J της φάσης των ...  \nTo άρθρο ΑΕΚ: Σύσσωμη η ομάδα ποδοσφαίρου θα βρεθεί στα Άνω Λιόσια για το ματς της Ένωσης με την Άλμπα στο BCL δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aek-nikolits-eurokinissi.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Australian Open: Στα προημιτελικά με άνεση οι Ριμπάκινα και Σβιόντεκ",
-          "link": "https://www.gazzetta.gr/tennis/australian-open/2510349/australian-open-sta-proimitelika-me-anesi-oi-rimpakina-kai-sbiontek",
-          "pubDate": "Mon, 26 Jan 2026 16:44:29 +0200",
-          "description": "Στην προημιτελική φάση του Australian Open προκρίθηκαν οι Έλενα Ριμπάκινα και Ίγκα Σβιόντεκ, επικρατώντας στη φάση των \"16\" χωρίς δυσκολίες...",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/elena_rybakina_ausopen26.jpg?itok=Z32yWHUi",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: «Υπόκλιση» της UEFA στον... καυτό Γιόβιτς",
-          "link": "https://www.gazzetta.gr/football/superleague/2510348/aek-ypoklisi-tis-uefa-ston-kayto-giobits",
-          "pubDate": "Mon, 26 Jan 2026 16:44:17 +0200",
-          "description": "Η UEFA έκανε ειδική αναφορά στον αρχισκόρερ της ΑΕΚ, Λούκα Γιόβιτς, ο οποίος έχει 9 γκολ στα τελευταία 12 παιχνίδια του με τα κιτρινόμαυρα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/luka_jovic.jpg?itok=8CCBmD9l",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Έβερτον – Λιντς με «Ενίσχυση» στα Ζαχαρωτά",
+          "link": "https://panathinaikos24.gr/2026/01/26/617849/everton-lints-me-enisxysi-sta-zaxarota/",
+          "pubDate": "Mon, 26 Jan 2026 16:34:27 +0000",
+          "description": "Η Έβερτον υποδέχεται τη Λιντς στο ματς που ρίχνει την αυλαία της 23ης «στροφής» της Premier League, με τις δυο ομάδες να έρχονται... φουριόζες από την προηγούμενη αγωνιστική.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Everton1.jpg?fit=350%2C235&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Στον «αέρα» τα εισιτήρια για το Final 8 του Κυπέλλου Ελλάδας Ανδρών",
           "link": "https://panathinaikos24.gr/2026/01/26/617845/ston-aera-ta-eisitiria-gia-to-final-8-tou-kypellou-elladas-andron/",
@@ -1017,36 +1025,12 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Τελειώνει ο Φικάι από τον Παναθηναϊκό! – Τα δεδομένα της αποχώρησης",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/teleionei-o-fikai-apo-ton-panathinaiko/?utm_source=rss&utm_medium=rss&utm_campaign=teleionei-o-fikai-apo-ton-panathinaiko",
-          "pubDate": "Mon, 26 Jan 2026 15:48:34 +0000",
-          "description": "Άμεσα παρελθόν από τον Παναθηναϊκό αναμένεται να αποτελέσει ο Έλτον Φικάι, καθώς ο 20χρονος αμυντικός επέλεξε να συνεχίσει την καριέρα του στο εξωτερικό, παρά το έντονο ενδιαφέρον που υπήρξε από Ατρόμητο και ΑΕΛ. Σύμφωνα με πληροφορίες, ο Αλβανός στόπερ βρίσκεται μια ανάσα από τη Γκόρνικ Ζαμπρζε, όπου αναμένεται να μετακομίσει ως ελεύθερος. Οι «πράσινοι», ωστόσο, […]\nThe post Τελειώνει ο Φικάι από τον Παναθηναϊκό! – Τα δεδομένα της αποχώρησης appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/fikaj.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "LIVE ΤΩΡΑ | Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/live-tora-o-achtarmas-ston-panathinaiko-psa/?utm_source=rss&utm_medium=rss&utm_campaign=live-tora-o-achtarmas-ston-panathinaiko-psa",
-          "pubDate": "Mon, 26 Jan 2026 15:43:51 +0000",
-          "description": "Παρακολουθήστε την ζωντανή εκπομπή «Green Monday» του «Όλα Πράσινα» με τον Άρη Αντωνόπουλο να αναλύει όλα τα μεταγραφικά δεδομένα γύρω από ποδοσφαιρικό και μπασκετικό Παναθηναϊκό.\nThe post LIVE ΤΩΡΑ | Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/2025-26-bg-ekpompi-green-monday-cover-article-solo-.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Ενός κακού, μεταγραφές έπονται: Η γκέλα στο Περιστέρι φέρνει 10άρι…",
           "link": "https://panathinaikos24.gr/2026/01/26/617834/enos-kakou-metagrafes-epontai-i-gkela-sto-peristeri-fernei-10ari/",
           "pubDate": "Mon, 26 Jan 2026 15:35:42 +0000",
           "description": "Ο Παναθηναϊκός καλείται άμεσα να λύσει ένα από τα πιο σημαντικά του αγωνιστικά ζητήματα, το πράγμα «φωνάζει»…",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/benitez_1_4.webp?fit=1000%2C500&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "«Σειρήνες» για Καλάμπρια: «Μπορεί να γυρίσει άμεσα στην Ιταλία»!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/seirines-gia-kalabria-borei-na-g/?utm_source=rss&utm_medium=rss&utm_campaign=seirines-gia-kalabria-borei-na-g",
-          "pubDate": "Mon, 26 Jan 2026 15:27:38 +0000",
-          "description": "Σύμφωνα με όσα μετέφερε ο Ματέο Μορέτο, το όνομα του Ντάβιντε Καλάμπρια επανέρχεται στην ιταλική επικαιρότητα, με το ενδεχόμενο επιστροφής του στη Serie A να παραμένει ανοιχτό ακόμη και μέσα στην τρέχουσα μεταγραφική περίοδο. Πρόκειται για ένα σενάριο που δεν συνοδεύεται από συγκεκριμένες ονομαστικές αναφορές, αλλά εντάσσεται στο γενικότερο κλίμα κινητικότητας των τελευταίων ημερών του […]\nThe post «Σειρήνες» για Καλάμπρια: «Μπορεί να γυρίσει άμεσα στην Ιταλία»! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/calabria-2.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Πρόταση για να τιμηθεί ο Μίμης Δομάζος από τον Δήμο Αθηναίων κατέθεσε ο Μπακογιάννης",
@@ -1145,14 +1129,6 @@
           "source": "Trifilara"
         },
         {
-          "title": "Επίσημο: Ανακοίνωσε τη μεταγραφή Στράντζαλη ο Παναθηναϊκός!",
-          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/episimo-anakoinose-ti-metagrafi-stra/?utm_source=rss&utm_medium=rss&utm_campaign=episimo-anakoinose-ti-metagrafi-stra",
-          "pubDate": "Mon, 26 Jan 2026 11:05:42 +0000",
-          "description": "Ο Παναθηναϊκός ανακοίνωσε την έναρξη της συνεργασίας του με την Όλγα Στράντζαλη στο γυναικείο τμήμα βόλεϊ. Αναλυτικά η ανακοίνωση: Ο Παναθηναϊκός Αθλητικός Όμιλος ανακοινώνει την έναρξη της συνεργασίας του με την Όλγα Στράντζαλη στο γυναικείο τμήμα βόλεϊ. Σε μια πολύ σημαντική μεταγραφική προσθήκη προχώρησε το «τριφύλλι» αφού ενέταξε στο έμψυχο δυναμικό του την Όλγα Στράντζαλη. […]\nThe post Επίσημο: Ανακοίνωσε τη μεταγραφή Στράντζαλη ο Παναθηναϊκός! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/strantzali-2.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Αντίνο: Τι συμβαίνει με το ντεμπούτο του με το «Τριφύλλι»",
           "link": "https://trifilara.gr/antino-ti-symvainei-me-to-ntebouto-tou-me-to-trifylli/?utm_source=rss&utm_medium=rss&utm_campaign=antino-ti-symvainei-me-to-ntebouto-tou-me-to-trifylli",
           "pubDate": "Mon, 26 Jan 2026 10:59:35 +0000",
@@ -1185,52 +1161,60 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Παίρνει… σκούπα ο Μπενίτεθ το καλοκαίρι στον Παναθηναϊκό!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/pairnei-skoupa-o-beniteth-to-kalokair/?utm_source=rss&utm_medium=rss&utm_campaign=pairnei-skoupa-o-beniteth-to-kalokair",
-          "pubDate": "Mon, 26 Jan 2026 10:39:45 +0000",
-          "description": "Όπως ξεκαθάρισε και στη συνέντευξη Τύπου μετά το παιχνίδι με τον Ατρόμητο, ο Ράφα Μπενίτεθ έχει λάβει τις αποφάσεις του για την κατεύθυνση που θα ακολουθήσει ο Παναθηναϊκός. Ο Ισπανός τεχνικός δεν μίλησε απλώς για διορθωτικές κινήσεις, αλλά άφησε να φανεί ξεκάθαρα πως στο μυαλό του υπάρχει μια ουσιαστική και σε βάθος αναδόμηση του ρόστερ, […]\nThe post Παίρνει… σκούπα ο Μπενίτεθ το καλοκαίρι στον Παναθηναϊκό! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-5-1.jpg",
-          "source": "Όλα Πράσινα"
+          "title": "Ατρόμητος – Παναθηναϊκός 0-0 | Highlights",
+          "link": "https://trifilara.gr/atromitos-panathinaikos-0-0-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=atromitos-panathinaikos-0-0-highlights",
+          "pubDate": "Sun, 25 Jan 2026 20:02:57 +0000",
+          "description": "Ο Παναθηναϊκός έμεινε με τον έναν βαθμό στο Περιστέρι κόντρα στον Ατρόμητο, με τις δύο ομάδες να μην μπορούν να σκοράρουν στο 90άλεπτό.\nThe post Ατρόμητος – Παναθηναϊκός 0-0 | Highlights appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
-          "title": "Καιρός: Βροχές, καταιγίδες και χαλάζι – Στο επίκεντρο η Αττική, που αλλού θα «χτυπήσει» η κακοκαιρία",
-          "link": "https://panathinaikos24.gr/2026/01/26/617768/kairos-vroxes-kataigides-kai-xalazi-sto-epikentro-i-attiki-pou-allou-tha-xtypisei-i-kakokairia/",
-          "pubDate": "Mon, 26 Jan 2026 10:26:41 +0000",
-          "description": "Θυελλώδεις νότιοι άνεμοι θα πνέουν στο Αιγαίο έως σήμερα αργά το απόγευμα, με αποτέλεσμα να ακυρώνονται δρομολόγια.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/4917629.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
+          "title": "Κερκέζ: «Αξίζαμε την νίκη – Αυτοί είχαν μια ευκαιρία!»",
+          "link": "https://trifilara.gr/kerkez-axizame-tin-niki-aftoi-eichan-mia-efkairia/?utm_source=rss&utm_medium=rss&utm_campaign=kerkez-axizame-tin-niki-aftoi-eichan-mia-efkairia",
+          "pubDate": "Sun, 25 Jan 2026 19:53:56 +0000",
+          "description": "Όσα είπε ο Ντούσαν Κέρκεζ μετά το παιχνίδι της 18ης αγωνιστικής της Super League ανάμεσα στον Παναθηναϊκό και τον Ατρόμητο.\nThe post Κερκέζ: «Αξίζαμε την νίκη – Αυτοί είχαν μια ευκαιρία!» appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
-          "title": "Παναθηναϊκός: Στον «αέρα» ο Τσιριβέγια ενόψει Ρόμα! – Η πρώτη εκτίμηση",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ston-aera-o-tsirivegi/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ston-aera-o-tsirivegi",
-          "pubDate": "Mon, 26 Jan 2026 10:19:44 +0000",
-          "description": "Πρόβλημα προέκυψε για τον Παναθηναϊκό στο παιχνίδι με τον Ατρόμητο, καθώς ο Πέδρο Τσιριβέγια τραυματίστηκε μετά την είσοδό του ως αλλαγή, προκαλώντας άμεση ανησυχία στο «Τριφύλλι». Πρόβλημα προέκυψε για τον Παναθηναϊκό στο παιχνίδι με τον Ατρόμητο, καθώς ο Πέδρο Τσιριβέγια τραυματίστηκε μετά την είσοδό του ως αλλαγή, προκαλώντας άμεση ανησυχία στο «Τριφύλλι». Ο Ισπανός μέσος […]\nThe post Παναθηναϊκός: Στον «αέρα» ο Τσιριβέγια ενόψει Ρόμα! – Η πρώτη εκτίμηση appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/chirivella-2.jpg",
-          "source": "Όλα Πράσινα"
+          "title": "Νέο «στραπάτσο» ο Παναθηναϊκός!",
+          "link": "https://trifilara.gr/neo-strapatso-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=neo-strapatso-o-panathinaikos",
+          "pubDate": "Sun, 25 Jan 2026 19:26:08 +0000",
+          "description": "O Παναθηναϊκός έφυγε από το Περιστέρι με τον βαθμό (0-0), όμως το αποτέλεσμα δεν λέει όλη την αλήθεια. Γιατί το ματς της 18ης αγωνιστικής της Super League, την Κυριακή 25 Ιανουαρίου (19:30), ήταν από εκείνα που αφήνουν περισσότερο προβληματισμό παρά ικανοποίηση, ειδικά από τη στιγμή που ο Ράφα Μπενίτεθ είδε την ομάδα του να «παίζει με τη φωτιά» από πολύ νωρίς και να σώζεται ουσιαστικά από τον Αλμπάν Λαφόν.\nThe post Νέο «στραπάτσο» ο Παναθηναϊκός! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
-          "title": "Ατρόμητος – Παναθηναϊκός: Ο λόγος που έμεινε εκτός ο Παντελίδης στο Περιστέρι",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/atromitos-panathinaikos-o-logos-pou-em/?utm_source=rss&utm_medium=rss&utm_campaign=atromitos-panathinaikos-o-logos-pou-em",
-          "pubDate": "Mon, 26 Jan 2026 10:10:46 +0000",
-          "description": "Ερωτήματα προκάλεσε η απουσία του Παύλου Παντελίδη από το παιχνίδι του Παναθηναϊκού με τον Ατρόμητο, όμως η απόφαση του Ράφα Μπενίτεθ μόνο τυχαία δεν ήταν. Αφενός, ο Ισπανός τεχνικός επέλεξε συνειδητά να δώσει χρόνο συμμετοχής στον Γιάννη Μπόκο, στο πλαίσιο της προσπάθειας να εντάξει σταδιακά νεαρούς ποδοσφαιριστές στο ροτέισον της ομάδας. Αφετέρου, και αυτός ήταν […]\nThe post Ατρόμητος – Παναθηναϊκός: Ο λόγος που έμεινε εκτός ο Παντελίδης στο Περιστέρι appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Pantelidis-2.jpg",
-          "source": "Όλα Πράσινα"
+          "title": "Μπενίτεθ: «Είναι πιο πολύπλοκο – Αυτό μας μπλόκαρε σήμερα» – Τι είπε για Πελίστρι",
+          "link": "https://trifilara.gr/beniteth-einai-pio-polyploko-afto-mas-blokare-simera-ti-eipe-gia-pelistri/?utm_source=rss&utm_medium=rss&utm_campaign=beniteth-einai-pio-polyploko-afto-mas-blokare-simera-ti-eipe-gia-pelistri",
+          "pubDate": "Sun, 25 Jan 2026 19:25:31 +0000",
+          "description": "Ο Ράφα Μπενίτεθ μίλησε στην συνέντευξη Τύπου μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» κόντρα στον Ατρόμητο.\nThe post Μπενίτεθ: «Είναι πιο πολύπλοκο – Αυτό μας μπλόκαρε σήμερα» – Τι είπε για Πελίστρι appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
-          "title": "Παναθηναϊκός: Το παράδοξο με Μπόκο!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-to-paradoxo-me-boko/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-to-paradoxo-me-boko",
-          "pubDate": "Mon, 26 Jan 2026 10:03:02 +0000",
-          "description": "Παράδοξο, αλλά απολύτως ελληνικό, είναι αυτό που συμβαίνει με την περίπτωση του Γιάννη Μπόκου στον Παναθηναϊκό. Παράδοξο, αλλά απολύτως ελληνικό, είναι αυτό που συμβαίνει με την περίπτωση του Γιάννη Μπόκου στον Παναθηναϊκό. Για μήνες, ένα μεγάλο κομμάτι του κόσμου ζητούσε επίμονα να δοθούν ευκαιρίες στα παιδιά των ακαδημιών, να παίξουν οι νεαροί, να μην καίγονται […]\nThe post Παναθηναϊκός: Το παράδοξο με Μπόκο! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Mpokos-Benitez.jpg",
-          "source": "Όλα Πράσινα"
+          "title": "Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League",
+          "link": "https://trifilara.gr/stasimos-o-panathinaikos-kai-to-klima-varainei-i-vathmologia-tis-super-league/?utm_source=rss&utm_medium=rss&utm_campaign=stasimos-o-panathinaikos-kai-to-klima-varainei-i-vathmologia-tis-super-league",
+          "pubDate": "Sun, 25 Jan 2026 19:20:32 +0000",
+          "description": "Δείτε πώς διαμορφώθηκε η βαθμολογία μετά το Παναθηναϊκός - Πανσερραϊκός στο πλαίσιο τις 11η αγωνιστικής της Super League.\nThe post Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
-          "title": "Παναθηναϊκός: Γιατί δεν παίζει ο Αντίνο – Το πιθανό ντεμπούτο του στα πράσινα",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-giati-den-paizei-o-antin/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-giati-den-paizei-o-antin",
-          "pubDate": "Mon, 26 Jan 2026 09:52:44 +0000",
-          "description": "Μετρά αντίστροφα για το πρώτο του παιχνίδι με τη φανέλα του Παναθηναϊκού ο Σαντίνο Αντίνο. Σταδιακά αρχίζει να ξεκαθαρίζει το πλαίσιο γύρω από το πιθανό ντεμπούτο του Σαντίνο Αντίνο με τη φανέλα του Παναθηναϊκού, με τους ανθρώπους του συλλόγου να κινούνται προσεκτικά, έχοντας πλήρη επίγνωση της αγωνιστικής του κατάστασης και του χρονικού διαστήματος αποχής του […]\nThe post Παναθηναϊκός: Γιατί δεν παίζει ο Αντίνο – Το πιθανό ντεμπούτο του στα πράσινα appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Andino-1-2.jpg",
-          "source": "Όλα Πράσινα"
+          "title": "Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός",
+          "link": "https://trifilara.gr/ta-prota-logia-tou-beniteth-meta-to-atromitos-panathinaikos-2/?utm_source=rss&utm_medium=rss&utm_campaign=ta-prota-logia-tou-beniteth-meta-to-atromitos-panathinaikos-2",
+          "pubDate": "Sun, 25 Jan 2026 19:15:06 +0000",
+          "description": "Ο Ράφα Μπενίτεθ μίλησε στην μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» με τον Ατρόμητο.\nThe post Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Παναθηναϊκός: «Ανακατεμένη» 11άδα κόντρα στον Ατρόμητο!",
+          "link": "https://trifilara.gr/panathinaikos-anakatemeni-11ada-kontra-ston-atromito/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-anakatemeni-11ada-kontra-ston-atromito",
+          "pubDate": "Sun, 25 Jan 2026 16:44:32 +0000",
+          "description": "Η πιθανή ενδεκάδα του Παναθηναϊκού κόντρα στον Ατρόμητο και οι σκέψεις του Ράφα Μπενίτεθ.\nThe post Παναθηναϊκός: «Ανακατεμένη» 11άδα κόντρα στον Ατρόμητο! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         }
       ]
     },
