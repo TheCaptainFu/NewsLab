@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T09:00:38.912Z",
+  "lastUpdated": "2026-01-26T09:05:28.014Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τραγωδία στη «Βιολάντα»: «Είδαν το ταβάνι να πέφτει» από την έκρηξη και πετάχτηκαν έξω – Πώς σώθηκαν οι εργαζόμενοι τραυματίες",
+          "link": "https://www.newsit.gr/ellada/tragodia-sti-violanta-eidan-to-tavani-na-peftei-apo-tin-ekriksi-kai-petaxtikan-ekso-pos-sothikan-oi-ergazomenoi-traymaties/4583541/",
+          "pubDate": "Mon, 26 Jan 2026 09:01:32 +0000",
+          "description": "Τις σκηνές χάους που επικράτησαν μόλις σημειώθηκε η μεγάλη έκρηξη στο κτήριο του εργοστασίου Βιολάντα, περιέγραψαν στους γιατρούς οι τραυματίες που μεταφέρθηκαν στο νοσοκομείο Τρικάλων. ...  \nTo άρθρο Τραγωδία στη «Βιολάντα»: «Είδαν το ταβάνι να πέφτει» από την έκρηξη και πετάχτηκαν έξω – Πώς σώθηκαν οι εργαζόμενοι τραυματίες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-eurok-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Κωνσταντίνος Αργυρός: Όταν οι παίκτες του «Big Brother» της Αλβανίας άρχισαν να χορεύουν με τραγούδι του",
           "link": "https://www.newsit.gr/lifestyle/konstantinos-argyros-otan-oi-paiktes-tou-big-brother-tis-alvanias-arxisan-na-xoreyoun-me-tragoudi-tou/4583565/",
@@ -185,6 +193,22 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Πόλεμος στην Ουκρανία: Η Ρωσία επιμένει στην απαίτηση να της παραχωρηθεί από το Κίεβο ολόκληρο το Ντονμπάς",
+          "link": "https://www.in.gr/2026/01/26/world/polemos-stin-oukrania-rosia-epimenei-stin-apaitisi-na-tis-paraxorithei-apo-kievo-olokliro-ntonmpas/",
+          "pubDate": "Mon, 26 Jan 2026 11:02:32 +0300",
+          "description": "«Το εδαφικό ζήτημα παραμένει θεμελιώδες για τη Ρωσία για την επίτευξη μιας συμφωνίας για τον τερματισμό του πολέμου στην Ουκρανία», δηλώνει το Κρεμλίνο",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-24T142552Z_1359742759_RC2P7JAKW4DG_RTRMADP_5_UKRAINE-CRISIS-RUSSIA-EMIRATES-TALKS-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Κακοκαιρία: Ανοιξαν οι ουρανοί στην Αττική – Νέο έκτακτο δελτίο από την ΕΜΥ- Προβλήματα στα δρομολόγια πλοίων",
+          "link": "https://www.in.gr/2026/01/26/greece/kakokairia-anoiksan-oi-ouranoi-stin-attiki-neo-ektakto-deltio-apo-tin-emy-provlimata-sta-dromologia-ploion/",
+          "pubDate": "Mon, 26 Jan 2026 11:00:30 +0300",
+          "description": "Επικαιροποιήθηκε το έκτακτο δελτίου καιρού από την ΕΜΥ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/vroxi-2-1200x800-1-1200x800-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Σέρρες: «Χρειάζεται βοήθεια και όχι τιμωρία», λέει ο πατέρας του 13χρονου για την διευθύντρια που φίμωσε και έδεσε με χαρτοταινία τον γιο του",
           "link": "https://www.protothema.gr/greece/article/1763372/serres-hreiazetai-voitheia-kai-ohi-timoria-o-pateras-13hronou-dieuthudria-fimose-kai-edese-me-hartotainia-ton-gio-tou/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 09:58:34 +0200",
@@ -222,30 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 10:50:46 +0300",
           "description": "Εύκολα χάνει η Ισπανία την ισορροπίαν της, υπάρχει δε εις μέγαν βαθμόν εν αυτή η τάσις από την μίαν ιδέαν να περιπίπτη εις την άλλην",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/emfylios.photo_.5-600x452.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μέσα Μαζικής Μεταφοράς: Αυξάνονται τα πρόστιμα για τους παραβάτες – 100 εύρω θα πληρώνουν όσοι δεν έχουν εισιτήριο",
-          "link": "https://www.newsit.gr/ellada/mesa-mazikis-metaforas-ayksanontai-ta-prostima-gia-tous-paravates-100-eyro-tha-plironoun-osoi-den-exoun-eisitirio/4583513/",
-          "pubDate": "Mon, 26 Jan 2026 07:50:32 +0000",
-          "description": "Σημαντικές αλλαγές έρχονται στα πρόστιμα για τη μετακίνηση χωρίς εισιτήριο στα μέσα μαζικής μεταφοράς από το υπουργείο Υποδομών και Μεταφορών, με τους παραβάτες να έρχονται ...  \nTo άρθρο Μέσα Μαζικής Μεταφοράς: Αυξάνονται τα πρόστιμα για τους παραβάτες – 100 εύρω θα πληρώνουν όσοι δεν έχουν εισιτήριο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eisitirhio.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ένας στους 4 Βρετανούς ανησυχεί ότι θα απολυθεί λόγω τεχνητής νοημοσύνης",
-          "link": "https://www.in.gr/2026/01/26/in-science/ai/enas-stous-4-vretanous-anisyxei-oti-tha-apolythei-logo-texnitis-noimosynis/",
-          "pubDate": "Mon, 26 Jan 2026 10:49:50 +0300",
-          "description": "Οι νεότεροι εργαζόμενοι, ιδίως της γενιά Z, ήταν οι πιο ανήσυχοι για τον αντίκτυπο της τεχνητής νοημοσύνης στην εργασία",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/office-1024x683-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Κύκλωμα νοθείας καυσίμων: Στη φυλακή ο αρχηγός και άλλοι πέντε – Απολογούνται σήμερα οι δύο τελευταίοι",
-          "link": "https://www.in.gr/2026/01/26/greece/kykloma-notheias-kaysimon-sti-fylaki-o-arxigos-kai-alloi-pente-apologountai-simera-oi-dyo-teleytaioi/",
-          "pubDate": "Mon, 26 Jan 2026 10:44:35 +0300",
-          "description": "Η πλειονότητα των κατηγορουμένων αρνείται τις κατηγορίες",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6033083932007402536-768x555.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "ΗΠΑ: Πάνω από 10 νεκροί λόγω των ακραίων καιρικών συνθηκών που σαρώνουν τη χώρα",
+          "link": "http://gr.euronews.com/2026/01/26/ipa-pano-apo-10-nekroi-logo-akraion-kairikon-synthikon",
+          "pubDate": "Mon, 26 Jan 2026 09:57:22 +0100",
+          "description": "Η χειμερινή καταιγίδα που πλήττει τις ΗΠΑ έχει προκαλέσει σοβαρές διαταραχές και κυκλοφοριακό χάος σε ολόκληρη τη χώρα. 800.000 άνθρωποι έμειναν χωρίς ρεύμα στα νοτιοανατολικά για περισσότερο από μία ημέρα",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Αρχαίο δάσος στον Ισημερινό, το τελευταίο καταφύγιο για μικρό κολιμπρί που απειλείται με εξαφάνιση",
           "link": "http://gr.euronews.com/green/2026/01/26/an-ancient-forest-in-ecuador-is-the-last-stronghold-for-a-tiny-hummingbird-that-is-facing",
           "pubDate": "Mon, 26 Jan 2026 09:45:20 +0100",
@@ -731,14 +739,6 @@
           "description": "Η Caseta Municipal, η οποία χρησίμευσε ως καταφύγιο για παροχή πρώτων βοηθειών εκείνο το βράδυ, φιλοξένησε μια λειτουργία με 700 παρευρισκόμενους ενώ στο νοσοκομείο νοσηλεύονται ακόμη 22 τραυματίες",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Venezuela frees dozens of political prisoners, human rights group says",
-          "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 18:29:57 GMT",
-          "description": "It is the latest batch of detainees freed since the US seized Venezuelan President Nicolás Maduro in a raid.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612b/live/8a6f54c0-fa13-11f0-b12c-a199f4d4d58c.png",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "F1 - Οι πρώτες φωτογραφίες της νέας McLaren MCL40",
+          "link": "https://www.gazzetta.gr/gmotion/2510257/f1-oi-protes-fotografies-tis-neas-mclaren-mcl40",
+          "pubDate": "Mon, 26 Jan 2026 11:03:58 +0200",
+          "description": "Η βρετανική ομάδα έδειξε τις πρώτες φωτογραφίες του νέου της μονοθεσίου, το οποίο θα κάνει ντεμπούτο στις δοκιμές της Βαρκελώνης.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/g_k07ynwuaal-ov1.jpg?itok=M4b3VsWZ",
+          "source": "Gazzetta"
+        },
         {
           "title": "Τζόσεφ: «Συμφώνησα αμέσως, η ιστορία του Ολυμπιακού μιλά από μόνη της»",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510255/tzosef-symfonisa-amesos-i-istoria-toy-olympiakoy-mila-apo-moni-tis",
@@ -977,14 +985,6 @@
           "description": "Σε τραγωδία εξελίσσεται η μεγάλη φωτιά που ξέσπασε στο εργοστάσιο «Βιολάντα» στα Τρίκαλα, καθώς η πυροσβεστικές δυνάμεις εντόπισαν τις σορούς.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fotia-violanta-6.jpg?itok=9BVCSU7W",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Οι Μιλγουόκι Μπακς δώρισαν σε αστέγους το φαγητό του αγώνα με τους Ντάλας Μάβερικς",
-          "link": "https://www.newsit.gr/athlitika/oi-milgouoki-mpaks-dorisan-se-astegous-to-fagito-tou-agona-me-tous-ntalas-maveriks/4583440/",
-          "pubDate": "Mon, 26 Jan 2026 06:45:50 +0000",
-          "description": "Οι Μιλγουόκι Μπακς δεν αγωνίστηκαν στο NBA, καθώς αναβλήθηκε η αναμέτρηση με τους Ντάλας Μάβερικς και η διοίκηση της ομάδας προχώρησε σε μία εξαιρετική κίνηση. ...  \nTo άρθρο Οι Μιλγουόκι Μπακς δώρισαν σε αστέγους το φαγητό του αγώνα με τους Ντάλας Μάβερικς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/antetokounmpo-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
