@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T12:05:26.412Z",
+  "lastUpdated": "2026-01-26T12:10:30.709Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΠΑΟΚ: Μοναδική απουσία ο Λούκα Ιβάνουσετς ενόψει Λιόν",
+          "link": "https://www.newsit.gr/athlitika/paok-monadiki-apousia-o-louka-ivanousets-enopsei-lion/4583815/",
+          "pubDate": "Mon, 26 Jan 2026 12:07:20 +0000",
+          "description": "Ο ΠΑΟΚ έχει ξεκινήσει την προετοιμασία του για το παιχνίδι με τη Λιόν στην τελευταία αγωνιστική της League Phase του Europa League, έχοντας ως μοναδική ...  \nTo άρθρο ΠΑΟΚ: Μοναδική απουσία ο Λούκα Ιβάνουσετς ενόψει Λιόν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ivanusec-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Τραγωδία στο εργοστάσιο «Βιολάντα»: Τα συλλυπητήρια μηνύματα κυβέρνησης και αντιπολίτευσης – «Είμαστε όλοι συγκλονισμένοι»",
           "link": "https://www.newsit.gr/politikh/tragodia-sto-ergostasio-violanta-ta-syllypitiria-minymata-kyvernisis-kai-antipoliteysis-eimaste-oloi-sygklonismenoi/4583790/",
@@ -239,14 +247,6 @@
           "description": "Ποινική δίωξη για ανθρωποκτονία από πρόθεση άσκησε ο εισαγγελέας στον 46χρονο που δολοφόνησε τον 80χρονο πατέρα του στη Γλυφάδα, το πρωί της Κυριακής (25.1.26), σε ...  \nTo άρθρο Δολοφονία στη Γλυφάδα: Ποινική δίωξη στον 46χρονο για ανθρωποκτονία από πρόθεση δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/glifada-dolofonia13-1200x675.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Δίωξη για ανθρωποκτονία στον 46χρονο πατροκτόνο της Γλυφάδας",
-          "link": "https://www.protothema.gr/greece/article/1763500/dioxi-gia-anthropoktonia-ston-46hrono-patroktono-tis-glufadas/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 13:04:16 +0200",
-          "description": "Ο κατηγορούμενος παραπέμφθηκε σε ανακριτή από τον οποίο αναμένεται να ζητήσει και να λάβει προθεσμία",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/glifada-dolofonia.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -509,6 +509,14 @@
           "source": "Euronews"
         },
         {
+          "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
+          "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 11:34:02 GMT",
+          "description": "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d843/live/4b6f9a20-fa9d-11f0-a9b2-e154b2ff290d.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Israel to reopen Gaza crossing after search for last dead hostage's body ends",
           "link": "https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 11:23:20 GMT",
@@ -731,14 +739,6 @@
           "description": "Εφιαλτικό ταξίδι στο «Send Help» του Σαμ Ράιμι, περισσότερο ρομαντισμό Ρέτζενσι στη 4η σεζόν «Bridgerton», Καρναβάλι Βενετίας και 10ο άλμπουμ της Λάνα Ντελ Ρέι. Αυτή την εβδομάδα στην Ευρώπη.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "«Σας πιστεύουμε»: Το συναρπαστικό θρίλερ δωματίου για την ενδοοικογενειακή σεξουαλική κακοποίηση",
-          "link": "http://gr.euronews.com/culture/2026/01/26/sas-pistevoume-to-kathilotiko-thriler-domatiou-gia-tin-endoikogeniaki-sexoualiki-kakopiisi",
-          "pubDate": "Mon, 26 Jan 2026 08:23:29 +0100",
-          "description": "Η βραβευμένη κινηματογραφική παραγωγή από το Βέλγιο βγαίνει στους ελληνικούς κινηματογράφους στις 29 Ιανουαρίου",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΠΑΟΚ: Μοναδική απουσία ο Λούκα Ιβάνουσετς ενόψει Λιόν",
+          "link": "https://www.newsit.gr/athlitika/paok-monadiki-apousia-o-louka-ivanousets-enopsei-lion/4583815/",
+          "pubDate": "Mon, 26 Jan 2026 12:07:20 +0000",
+          "description": "Ο ΠΑΟΚ έχει ξεκινήσει την προετοιμασία του για το παιχνίδι με τη Λιόν στην τελευταία αγωνιστική της League Phase του Europa League, έχοντας ως μοναδική ...  \nTo άρθρο ΠΑΟΚ: Μοναδική απουσία ο Λούκα Ιβάνουσετς ενόψει Λιόν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ivanusec-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Όταν η Βιολάντα ήταν φούρνος της γειτονιάς στα Τρίκαλα: Η ιστορία της εμβληματικής βιομηχανίας",
+          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
+          "pubDate": "Mon, 26 Jan 2026 14:05:00 +0200",
+          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/biolanta.jpg.png?itok=9yBSxE7o",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μπέος: «Καλοδεχούμενοι οι οπαδοί της ΑΕΛ, να απομονωθούν τα ακραία στοιχεία»",
           "link": "https://www.gazzetta.gr/football/superleague/2510303/mpeos-kalodehoymenoi-oi-opadoi-tis-ael-na-apomonothoyn-ta-akraia",
@@ -968,22 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 12:04:50 +0200",
           "description": "Ο Κόρι Τζόσεφ έστειλε το μήνυμα του στον κόσμο του Ολυμπιακού μόλις έφτασε στην Ελλάδα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/joseph_45.jpg?itok=HeLL6P8v",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο όρος «κλειδί» στο συμβόλαιο της Άννας Λιβαθυνού με τον ΑΝΤ1",
-          "link": "https://www.gazzetta.gr/plus/2510273/o-oros-kleidi-sto-symbolaio-tis-annas-libathynoy-me-ton-ant1",
-          "pubDate": "Mon, 26 Jan 2026 12:00:43 +0200",
-          "description": "Το κανάλι του Αμαρουσίου, ο ΑΝΤ1 έχει υπογράψει έναν όρο με την Άννα Λιβαθυνού, η οποία απομακρύνθηκε από το Καλημέρα Ελλάδα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/anna-livathinou_1.jpg?itok=MJ8lB9ty",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Basketaki Salonica: Ανασκόπηση εβδομάδας",
-          "link": "https://www.gazzetta.gr/basketball/basketaki-erasitehniko-protathlima-mpasket/2510271/basketaki-salonica-anaskopisi",
-          "pubDate": "Mon, 26 Jan 2026 11:56:43 +0200",
-          "description": "Όμορφες αναμετρήσεις, εξαιρετικές συνεργασίες και μεγάλες μάχες για άλλη μια εβδομάδα στο Basketaki Salonica, όπου οι ομάδες συνεχίζουν τις αγωνιστικές τους υποχρεώσεις με αμείωτο ρυθμό με στόχο την πολυπόθητη νίκη.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/basketaki_56.jpg?itok=i_e6hmww",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "OPPO Reno15 Series: Παρουσιάστηκε επίσημα η νέα mid-range γενιά με 4 μοντέλα",
+          "link": "https://www.techgear.gr/oppo-reno15-series-paroysiastike-episima-i-nea-mid-range-genia-me-4-montela-47326",
+          "pubDate": "Mon, 26 Jan 2026 14:07:00 +0200",
+          "description": "Η OPPO ανακοίνωσε σήμερα την κυκλοφορία της σειράς Reno15, η οποία περιλαμβάνει  τα Reno15 Pro Max 5G, Reno15 Pro 5G, Reno15 5G και Reno15 F 5G. ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/oppo-reno-15-fs-15-pro-kv.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Ανεπανάληπτο: Η πρώτη καταγραφή ηλεκτρονίων να σπάνε χημικούς δεσμούς σε πραγματικό χρόνο",
           "link": "https://www.techgear.gr/anepanalipto-i-proti-katagrafi-ilektronion-na-spane-chimikoys-desmoys-se-pragmatiko-chrono-47325",
           "pubDate": "Mon, 26 Jan 2026 13:35:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sun, 25 Jan 2026 14:10:53 +0000",
           "description": "Από προειδοποιήσεις για σαμαράκια και απότομες στροφές μέχρι έξυπνη καθοδήγηση σε κυκλικούς κόμβους, η εφαρμογή πλοήγησης ανανεώνεται ριζικά για να ανταγωνιστεί το Google Maps.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/w/waze-final/waze-finally-delivers-5-features-it-first-promised-almost-2_5kt3.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Nike: Υπό διερεύνηση πιθανή παραβίαση δεδομένων από την ομάδα χάκερ World Leaks",
-          "link": "https://gr.pcmag.com/security/51107/nike-upo-diereunese-pithane-parabiase-dedomenon-apo-ten-omada-khaker-world-leaks",
-          "pubDate": "Sun, 25 Jan 2026 13:34:42 +0000",
-          "description": "Οι ψηφιακοί εκβιαστές απειλούν με διαρροή 1.4TB εσωτερικών εγγράφων και αρχείων παραγωγής, ενώ η Nike αξιολογεί το περιστατικό κυβερνοασφάλειας.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/n/nike-probe/nike-probes-potential-breach-after-threat-from-hacking-group_tync.jpg",
           "source": "PC Magazine"
         }
       ]
