@@ -1,13 +1,37 @@
 {
-  "lastUpdated": "2026-01-26T15:45:31.487Z",
-  "totalArticles": 180,
+  "lastUpdated": "2026-01-26T15:50:36.154Z",
+  "totalArticles": 170,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "«Ο Μίχαελ Σουμάχερ δεν είναι πια κατάκοιτος, μετακινείται με αναπηρικό αμαξίδιο» ισχυρίζεται η Daily Mail",
+          "link": "https://www.newsit.gr/athlitika/o-mixael-soumaxer-den-einai-pia-katakoitos-metakineitai-me-anapiriko-amaksidio-isxyrizetai-i-daily-mail/4584038/",
+          "pubDate": "Mon, 26 Jan 2026 15:48:11 +0000",
+          "description": "Η πληροφόρηση για την υγεία του Μίχαελ Σουμάχερ, μετά το ατύχημα που είχε τον Δεκέμβριο του 2013 -κάνοντας σκι στις γαλλικές Άλπεις- εξακολουθεί να βγαίνει ...  \nTo άρθρο «Ο Μίχαελ Σουμάχερ δεν είναι πια κατάκοιτος, μετακινείται με αναπηρικό αμαξίδιο» ισχυρίζεται η Daily Mail δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/michael-schumacher-ape-1200x755.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Volkswagen: Η ασίγαστη δύναμη του Golf R Black Edition",
+          "link": "https://www.newsit.gr/auto/volkswagen-i-asigasti-dynami-tou-golf-r-black-edition/4582460/",
+          "pubDate": "Mon, 26 Jan 2026 15:46:00 +0000",
+          "description": "Η κορωνίδα των εκδόσεων Golf, είναι το R που χαρακτηρίζεται από σπορτίφ στοιχεία που το καθιστούν μοναδικό στη γκάμα της Volkswagen, με τεχνολογία που λειτουργεί ...  \nTo άρθρο Volkswagen: Η ασίγαστη δύναμη του Golf R Black Edition δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vw-golf-r-black-edition-01.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Έκρηξη στη βιομηχανία «Βιολάντα»: Εικόνες από drone δείχνουν το μέγεθος της καταστροφής",
+          "link": "https://www.newsit.gr/ellada/ekriksi-sti-viomixania-violanta-eikones-apo-drone-deixnoun-to-megethos-tis-katastrofis/4584031/",
+          "pubDate": "Mon, 26 Jan 2026 15:45:48 +0000",
+          "description": "Θρήνος στα Τρίκαλα μετά την φονική έκρηξη στο εργοστάσιο της «Βιολάντα» τα ξημερώματα της Δευτέρας 26 Ιανουαρίου με τραγικό απολογισμό πέντε νεκρές εργάτριες. Η έκρηξη ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: Εικόνες από drone δείχνουν το μέγεθος της καταστροφής δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/trikala-ekrixi-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Βιολάντα: Πάνω από 1.000 βαθμοί Κελσίου στο εργοστάσιο εξαιτίας της φωτιάς - Τι εξετάζεται για τα αίτια της τραγωδίας",
           "link": "https://www.protothema.gr/greece/article/1763649/violada-pano-apo-1000-vathmous-kelsiou-sto-ergostasio-exaitias-tis-fotias-ti-exetazetai-gia-ta-aitia-tis-tragodias/?utm_source=rss",
@@ -223,30 +247,6 @@
           "description": "Στον τόπο της τραγωδίας στο εργοστάσιο της «Βιολάντα» στα Τρίκαλα βρίσκεται από το πρωί της Δευτέρας (26.1.26) κλιμάκιο της επιθεώρησης εργασίας, όπως δήλωσε ο υφυπουργός ...  \nTo άρθρο Έκρηξη στο εργοστάσιο «Βιολάντα»: «Η επιθεώρηση εργασίας είναι από την πρώτη στιγμή στον τόπο της τραγωδίας» δήλωσε ο Κώστας Καραγκούνης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ergostasio-trikala-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Άνδρας στην Κω νόμιζε ότι έβγαινε ραντεβού με ανήλικη, αλλά του είχαν στήσει παγίδα και τον έδειραν",
-          "link": "https://www.protothema.gr/greece/article/1763636/andras-stin-ko-nomize-oti-evgaine-radevou-alla-tou-eihan-stisei-pagida-kai-ton-edeiran/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 16:38:00 +0200",
-          "description": "Το θύμα του ξυλοδαρμού είχε έρθει σε επαφή μέσω διαδικτύου με την ανήλικη",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2023-03-26/ksylodarmos.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Εξεταστική ΟΠΕΚΕΠΕ: Βαριές καταγγελίες από την πρώην αντιπρόεδρο, Δήμητρα Χαλικιά – Τι είπε για Βορίδη, Βάρρα, Σημανδράκο και Τυχεροπούλου",
-          "link": "https://www.newsit.gr/politikh/eksetastiki-opekepe-varies-kataggelies-apo-tin-proin-antiproedro-dimitra-xalikia-ti-eipe-gia-voridi-varra-simandrako-kai-tyxeropoulou/4583958/",
-          "pubDate": "Mon, 26 Jan 2026 14:34:15 +0000",
-          "description": "Για ένα «διαχρονικό και συστημικό φαινόμενο, με κοινό παρανομαστή την ανεμπόδιστη σύγκρουση συμφερόντων» έκανε λόγο η πρώην β’ αντιπρόεδρος του ΟΠΕΚΕΠΕ, Δήμητρα Χαλικιά, καταθέτοντας τη ...  \nTo άρθρο Εξεταστική ΟΠΕΚΕΠΕ: Βαριές καταγγελίες από την πρώην αντιπρόεδρο, Δήμητρα Χαλικιά – Τι είπε για Βορίδη, Βάρρα, Σημανδράκο και Τυχεροπούλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eksetastiki-opekepe-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Παυλόπουλος: Μνήμες και διδάγματα από το Ολοκαύτωμα των Ελλήνων Εβραίων",
-          "link": "https://www.protothema.gr/greece/article/1763614/paulopoulos/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 16:34:00 +0200",
-          "description": "Η ομιλία πραγματοποιήθηκε στην Θεσσαλονίκη με πρωτοβουλία της Ισραηλιτικής Κοινότητας - Ομιλία και στην Αίγινα  για τον Ιωάννη Καποδίστρια",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/2025-01-24_%CE%B1%CE%B9%CE%B3%CE%B9%CE%BD%CE%B1_%CE%BA%CE%B1%CF%80%CE%BF%CE%B4%CE%B9%CF%83%CF%84%CF%81%CE%B9%CE%B1%CF%83.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Πηγές ΠΑΣΟΚ για κατάθεση Δ.Χαλικιά: Επιχείρησε να «αθωώσει» σχεδόν όλους τους πρωταγωνιστές του σκανδάλου του ΟΠΕΚΕΠΕ",
+          "link": "https://www.naftemporiki.gr/politics/2064092/piges-pasok-gia-katathesi-d-chalikia-epicheirise-na-athoosei-schedon-oloys-toys-protagonistes-toy-skandaloy-toy-opekepe/?utm_source=rss&utm_medium=rss&utm_campaign=piges-pasok-gia-katathesi-d-chalikia-epicheirise-na-athoosei-schedon-oloys-toys-protagonistes-toy-skandaloy-toy-opekepe",
+          "pubDate": "Mon, 26 Jan 2026 15:46:11 +0000",
+          "description": "«Με εμφανή απουσία πρωτογενούς πληροφόρησης και γνώσης επί των θεμάτων στα οποία αναφερόταν, η κυρία Χαλικιά αντιπρόεδρος του ΟΠΕΚΕΠΕ την περίοδο Ιανουάριος 2013-Απρίλιος 2014, τοποθετήθηκε στην εξεταστική επιτροπή επί ώρα…\nΠηγές ΠΑΣΟΚ για κατάθεση Δ.Χαλικιά: Επιχείρησε να «αθωώσει» σχεδόν όλους τους πρωταγωνιστές του σκανδάλου του ΟΠΕΚΕΠΕ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Θεσσαλονίκη: Το Σερβικό προξενείο θα φιλοξενεί και το Ουγγρικό",
           "link": "https://www.naftemporiki.gr/politics/2064074/thessaloniki-to-serviko-proxeneio-tha-filoxenei-kai-to-oyggriko/?utm_source=rss&utm_medium=rss&utm_campaign=thessaloniki-to-serviko-proxeneio-tha-filoxenei-kai-to-oyggriko",
@@ -485,14 +493,6 @@
           "description": "Ανακοίνωση εξέδωσε το ΚΚΕ για την τραγωδία στο εργοστάσιο Βιολάντα: «Η έκρηξη έρχεται να επιβεβαιώσει ότι η εργατική τάξη της χώρας πληρώνει βαρύ φόρο αίματος στη μάχη για το μεροκάματο».…\nΚΚΕ για Βιολάντα: Να απαντηθούν άμεσα και με σαφήνεια, όλα τα κρίσιμα ερωτήματα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Μητσοτάκης στο Υπουργικό:  Αναγκαιότητα η πολιτική σταθερότητα",
-          "link": "https://www.tovima.gr/2026/01/26/politics/mitsotakis-i-politiki-statherotita-einai-ethniki-anagkaiotita/",
-          "pubDate": "Mon, 26 Jan 2026 13:09:07 +0300",
-          "description": "Η εισαγωγική ομιλία του πρωθυπουργού Κυριάκου Μητσοτάκη στο πρώτο Υπουργικό Συμβούλιο της νέας χρονιάς και η ατζέντα",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/ETB_9261-1024x683.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -500,6 +500,22 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Israel says it has retrieved remains of final Gaza hostage",
+          "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 15:47:12 GMT",
+          "description": "The development paves the way for the next phase of US President Donald Trump's peace plan to get under way.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccaa/live/8e6eb450-fac0-11f0-b5f7-49f0357294ff.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "\"Σίγουρα\": Η ομιλία του Εμανουέλ Μακρόν στο Νταβός δημιουργεί ντόρο στα κοινωνικά δίκτυα",
+          "link": "http://gr.euronews.com/my-europe/2026/01/26/sigoyra-h-omilia-toy-emanoyel-makron-sto-ntabos-dhmioyrgei-ntoro-sta-koinwnika-diktya",
+          "pubDate": "Mon, 26 Jan 2026 16:41:49 +0100",
+          "description": "Κατά τη διάρκεια της ομιλίας του στα αγγλικά στο Οικονομικό Φόρουμ του Νταβός, ο Γάλλος πρόεδρος επανέλαβε αρκετές φορές το \"σίγουρα\". Αυτό αρκούσε για να διασκεδάσουν χρήστες του Διαδικτύου και να ξεκινήσει μια τάση που χρησιμοποιεί και αναμειγνύει την έκφραση που χρησιμοποίησε ο Εμανουέλ Μακρόν.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
         {
           "title": "Περισσότερες από 3.700 συλλήψεις στο πλαίσιο της παγκόσμιας καταστολής της εμπορίας ανθρώπων, σύμφωνα με την Ιντερπόλ",
           "link": "http://gr.euronews.com/2026/01/26/perissoteres-apo-3700-syllhpseis-sto-plaisio-ths-pagkosmias-katastolhs-ths-emporias-an8rwp",
@@ -547,14 +563,6 @@
           "description": "Η Ευρωπαϊκή Ένωση επιδιώκει να «ανοίξει» την οικονομία της Ινδίας στις ευρωπαϊκές εταιρείες, καθώς οι Βρυξέλλες εισέρχονται στην τελική ευθεία των διαπραγματεύσεων με το Νέο Δελχί",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Israel says it has retrieved remains of final Gaza hostage",
-          "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 14:42:30 GMT",
-          "description": "The Israeli military had been searching for Ran Gvili since the ceasefire with Hamas began in October.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccaa/live/8e6eb450-fac0-11f0-b5f7-49f0357294ff.jpg",
-          "source": "BBC News"
         },
         {
           "title": "Έρευνα: Η φροντίδα των εγγονιών ωφελεί τον εγκέφαλο, ιδίως στις γιαγιάδες",
@@ -731,14 +739,6 @@
           "description": "Τα δάση της Πορτογαλίας αυξάνονται ταχύτατα, αλλά με τεράστιο περιβαλλοντικό κόστος. Πώς προσπαθεί η χώρα να αντιστρέψει την πορεία;",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Κατολίσθηση στην Ινδονησία: τουλάχιστον 17 νεκροί, πάνω από 70 αγνοούνται",
-          "link": "http://gr.euronews.com/video/2026/01/26/indonesia-landslide-kills-at-least-17-with-more-than-70-still-missing",
-          "pubDate": "Mon, 26 Jan 2026 11:36:21 +0100",
-          "description": "Σωστικά συνεργεία αναζητούν δεκάδες αγνοουμένους μετά την κατολίσθηση στην Ιάβα της Ινδονησίας. Ο απολογισμός των νεκρών ανήλθε σε 17 τη Δευτέρα.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "«Ο Μίχαελ Σουμάχερ δεν είναι πια κατάκοιτος, μετακινείται με αναπηρικό αμαξίδιο» ισχυρίζεται η Daily Mail",
+          "link": "https://www.newsit.gr/athlitika/o-mixael-soumaxer-den-einai-pia-katakoitos-metakineitai-me-anapiriko-amaksidio-isxyrizetai-i-daily-mail/4584038/",
+          "pubDate": "Mon, 26 Jan 2026 15:48:11 +0000",
+          "description": "Η πληροφόρηση για την υγεία του Μίχαελ Σουμάχερ, μετά το ατύχημα που είχε τον Δεκέμβριο του 2013 -κάνοντας σκι στις γαλλικές Άλπεις- εξακολουθεί να βγαίνει ...  \nTo άρθρο «Ο Μίχαελ Σουμάχερ δεν είναι πια κατάκοιτος, μετακινείται με αναπηρικό αμαξίδιο» ισχυρίζεται η Daily Mail δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/michael-schumacher-ape-1200x755.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ψηφιακό δίπλωμα οδήγησης: Όλα όσα πρέπει να ξέρεις για τη μεγάλη αλλαγή",
+          "link": "https://www.gazzetta.gr/gmotion/2510274/psifiako-diploma-odigisis-ola-osa-prepei-na-xereis-gia-ti-megali-allagi",
+          "pubDate": "Mon, 26 Jan 2026 17:45:00 +0200",
+          "description": "Δες πώς το ψηφιακό δίπλωμα οδήγησης αλλάζει την καθημερινότητά μας - Τι ισχύει για τα ταξίδια στο εξωτερικό και ποιες είναι οι νέες προθεσμίες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6668514_1.jpg?itok=mC4OdbGw",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΑΣ - ΠΑΕ ΠΑΟΚ: Υπογράφηκε το μνημόνιο για το νέο γήπεδο στην Τούμπα",
           "link": "https://www.gazzetta.gr/football/superleague/2510368/pae-paok-ypografike-mnimonio-gia-neo-gipedo-stin-toympa",
@@ -969,22 +985,6 @@
           "description": "Δεν υπάρχει τίποτα πιο καθηλωτικό από το να συνειδητοποιείς ότι ένας άνθρωπος πεθαίνει στη δουλειά του. Και μέσα σε αυτό τον βίαιο κύκλο, οι νεκροί αυξάνονται.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/violanta-trikala.jpg?itok=AqTpu3cr",
           "source": "Gazzetta"
-        },
-        {
-          "title": "F1 - «Green Alert»: Η Aston Martin αγνοείται ",
-          "link": "https://www.gazzetta.gr/gmotion/2510343/f1-green-alert-i-aston-martin-agnoeitai",
-          "pubDate": "Mon, 26 Jan 2026 16:20:43 +0200",
-          "description": "Η βρετανική ομάδα απουσιάζει αυτή τη στιγμή από τις δοκιμές της Βαρκελώνης και αναμένεται να χάσει τουλάχιστον δύο ημέρες δράσης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/2250110992.jpg?itok=9G-Yaho2",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Η υπογονιμότητα αφορά και τους άνδρες",
-          "link": "https://www.gazzetta.gr/plus/2510341/i-ypogonimotita-afora-kai-toys-andres",
-          "pubDate": "Mon, 26 Jan 2026 16:17:36 +0200",
-          "description": "Όταν ένα ζευγάρι δυσκολεύεται να αποκτήσει παιδί, το βλέμμα στρέφεται σχεδόν πάντα στη γυναίκα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/shutterstock_1199574622_2.jpg?itok=o1Kr5i36",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Τελειώνει ο Φικάι από τον Παναθηναϊκό! – Τα δεδομένα της αποχώρησης",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/teleionei-o-fikai-apo-ton-panathinaiko/?utm_source=rss&utm_medium=rss&utm_campaign=teleionei-o-fikai-apo-ton-panathinaiko",
+          "pubDate": "Mon, 26 Jan 2026 15:48:34 +0000",
+          "description": "Άμεσα παρελθόν από τον Παναθηναϊκό αναμένεται να αποτελέσει ο Έλτον Φικάι, καθώς ο 20χρονος αμυντικός επέλεξε να συνεχίσει την καριέρα του στο εξωτερικό, παρά το έντονο ενδιαφέρον που υπήρξε από Ατρόμητο και ΑΕΛ. Σύμφωνα με πληροφορίες, ο Αλβανός στόπερ βρίσκεται μια ανάσα από τη Γκόρνικ Ζαμπρζε, όπου αναμένεται να μετακομίσει ως ελεύθερος. Οι «πράσινοι», ωστόσο, […]\nThe post Τελειώνει ο Φικάι από τον Παναθηναϊκό! – Τα δεδομένα της αποχώρησης appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/fikaj.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "LIVE ΤΩΡΑ | Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/live-tora-o-achtarmas-ston-panathinaiko-psa/?utm_source=rss&utm_medium=rss&utm_campaign=live-tora-o-achtarmas-ston-panathinaiko-psa",
@@ -1001,108 +1009,12 @@
           "source": "Όλα Πράσινα"
         },
         {
-          "title": "Ενός κακού, μεταγραφές έπονται: Η γκέλα στο Περιστέρι φέρνει 10άρι…",
-          "link": "https://panathinaikos24.gr/2026/01/26/617834/enos-kakou-metagrafes-epontai-i-gkela-sto-peristeri-fernei-10ari/",
-          "pubDate": "Mon, 26 Jan 2026 15:35:42 +0000",
-          "description": "Ο Παναθηναϊκός καλείται άμεσα να λύσει ένα από τα πιο σημαντικά του αγωνιστικά ζητήματα, το πράγμα «φωνάζει»…",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/benitez_1_4.webp?fit=1000%2C500&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
           "title": "«Σειρήνες» για Καλάμπρια: «Μπορεί να γυρίσει άμεσα στην Ιταλία»!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/seirines-gia-kalabria-borei-na-g/?utm_source=rss&utm_medium=rss&utm_campaign=seirines-gia-kalabria-borei-na-g",
           "pubDate": "Mon, 26 Jan 2026 15:27:38 +0000",
           "description": "Σύμφωνα με όσα μετέφερε ο Ματέο Μορέτο, το όνομα του Ντάβιντε Καλάμπρια επανέρχεται στην ιταλική επικαιρότητα, με το ενδεχόμενο επιστροφής του στη Serie A να παραμένει ανοιχτό ακόμη και μέσα στην τρέχουσα μεταγραφική περίοδο. Πρόκειται για ένα σενάριο που δεν συνοδεύεται από συγκεκριμένες ονομαστικές αναφορές, αλλά εντάσσεται στο γενικότερο κλίμα κινητικότητας των τελευταίων ημερών του […]\nThe post «Σειρήνες» για Καλάμπρια: «Μπορεί να γυρίσει άμεσα στην Ιταλία»! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/calabria-2.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Πρόταση για να τιμηθεί ο Μίμης Δομάζος από τον Δήμο Αθηναίων κατέθεσε ο Μπακογιάννης",
-          "link": "https://panathinaikos24.gr/2026/01/26/617830/protasi-gia-na-timithei-o-mimis-domazos-apo-ton-dimo-athinaion-katethese-o-mpakogiannis/",
-          "pubDate": "Mon, 26 Jan 2026 15:26:48 +0000",
-          "description": "Αναλυτικά η πρόταση.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/01/DOMAZOS-1.jpg?fit=1280%2C1596&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Ρεύμα που δεν καταναλώσαμε: Πώς οι συνεπείς καταναλωτές πληρώνουν έναν επιπλέον λογαριασμό – Ο λόγος και η… έκπληξη",
-          "link": "https://panathinaikos24.gr/2026/01/26/617825/reyma-pou-den-katanalosame-pos-oi-synepeis-katanalotes-plironoun-enan-epipleon-logariasmo-o-logos-kai-i-ekpliksi/",
-          "pubDate": "Mon, 26 Jan 2026 15:03:31 +0000",
-          "description": "Οι συνεπείς καταναλωτές πληρώνουν σχεδόν έναν επιπλέον λογαριασμό ρεύματος για να καλύψουν τις ρευματοκλοπές.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-26_09-16-24_777986-1536x1024-1.jpg?fit=1536%2C1024&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Νόριτς – Κόβεντρι με «boost» σε γκολ και πρωτοπόρο",
-          "link": "https://panathinaikos24.gr/2026/01/26/617820/norits-koventri-me-boost-se-gkol-kai-protoporo/",
-          "pubDate": "Mon, 26 Jan 2026 14:32:34 +0000",
-          "description": "Το ντέρμπι με στοιχηματικό «boost».",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/1100x650-Norwich.png?fit=2200%2C1300&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Βήματα προς τα πίσω…",
-          "link": "https://panathinaikos24.gr/2026/01/26/617814/vimata-pros-ta-piso/",
-          "pubDate": "Mon, 26 Jan 2026 14:23:12 +0000",
-          "description": "Το «τριφύλλι» παρουσιάστηκε στο Περιστέρι εντελώς λάθος τόσο πνευματικά, όσο και αγωνιστικά.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5005086.jpg?fit=1936%2C1296&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Η Elabet σε υποδέχεται με μοναδική Προσφορά Γνωριμίας σε Στοίχημα & Live Casino",
-          "link": "https://panathinaikos24.gr/2026/01/26/617810/i-elabet-se-ypodexetai-me-monadiki-prosfora-gnorimias-se-stoixima-live-casino-4/",
-          "pubDate": "Mon, 26 Jan 2026 14:12:24 +0000",
-          "description": "Για εσένα που αναζητάς συναρπαστική δράση, η νέα στοιχηματική πλατφόρμα που αλλάζει τα δεδομένα στο διαδικτυακό στοιχηματισμό είναι εδώ",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/12/ElabetLogoArticles-2-1.png?fit=1200%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Χωρίς Τσιριβέγια και Τζούριτσιτς η προετοιμασία του Παναθηναϊκού για Ρόμα – Τι ισχύει για Καλάμπρια",
-          "link": "https://panathinaikos24.gr/2026/01/26/617806/xoris-tsirivegia-kai-tzouritsits-i-proetoimasia-tou-panathinaikou-gia-roma-ti-isxyei-gia-kalampria/",
-          "pubDate": "Mon, 26 Jan 2026 13:53:49 +0000",
-          "description": "Μετά την ισοπαλία με τον Ατρόμητο, ο Παναθηναϊκός ξεκίνησε την προετοιμασία του για τη μεγάλη αναμέτρηση με την Ρόμα στο ΟΑΚΑ.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5004884.jpg?fit=900%2C598&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "«Ο Καλάμπρια θα μπορούσε να επιστρέψει άμεσα στην Serie A»",
-          "link": "https://panathinaikos24.gr/2026/01/26/617800/o-kalampria-tha-mporouse-na-epistrepsei-amesa-stin-serie-a/",
-          "pubDate": "Mon, 26 Jan 2026 13:32:23 +0000",
-          "description": "Σύμφωνα με τον έγκυρο Ιταλό δημοσιογράφο, Ματέο Μορέτο, η πιθανότητα επιστροφής του Ντάβιντε Καλάμπρια στην Ιταλία είναι ρεαλιστικό σενάριο.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4993516.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Τα εισιτήρια της «μάχης» με τον Ερυθρό Αστέρα",
-          "link": "https://panathinaikos24.gr/2026/01/26/617792/ta-eisitiria-tis-maxis-me-ton-erythro-astera/",
-          "pubDate": "Mon, 26 Jan 2026 12:41:39 +0000",
-          "description": "Τα εισιτήρια για τον προημιτελικό του Challenge Cup Γυναικών.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/ntye-1.jpg?fit=805%2C531&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Γρίφος με Γιαμπουσέλε…",
-          "link": "https://panathinaikos24.gr/2026/01/26/617578/grifos-me-giampousele/",
-          "pubDate": "Mon, 26 Jan 2026 12:12:57 +0000",
-          "description": "Tι συμβαίνει με τον Γάλλο ψηλό.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/AP25095527063396.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Η κατηφόρα δεν έχει τέλος, θα καούν και οι παίκτες, που έρχονται!",
-          "link": "https://panathinaikos24.gr/2026/01/26/617786/i-katifora-den-exei-telos-tha-kaoun-kai-oi-paiktes-pou-erxontai/",
-          "pubDate": "Mon, 26 Jan 2026 11:47:11 +0000",
-          "description": "Ο Τάσος Νικολογιάννης γράφει για την συνεχιζόμενη κακή εικόνα του Παναθηναϊκού, που πλέον πάει φουλ να είναι εκτός τετράδας σε μία αγωνιστική ντροπή και είναι δεδομένο, ότι θα καούν και οι παίκτες, που έρχονται.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5005154.jpg?fit=900%2C598&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Στο τέλος μπαίνει το game changer στοιχείο: Το top σουβλάκι που αξίζει την αναμονή στην ουρά",
-          "link": "https://panathinaikos24.gr/2026/01/26/617465/sto-telos-mpainei-to-game-changer-stoixeio-to-top-souvlaki-pou-aksizei-tin-anamoni-stin-oura/",
-          "pubDate": "Mon, 26 Jan 2026 11:25:45 +0000",
-          "description": "Είναι αυτό το τοπ σουβλάκι; Θα βρεις πολλούς που το υποστηρίζουν…",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Screenshot-2026-01-24-141658.png?fit=1128%2C764&amp;ssl=1",
-          "source": "Panathinaikos24"
         },
         {
           "title": "Παναθηναϊκός: Επίσημο το «μπαμ» με Στράντζαλη!",
@@ -1129,14 +1041,6 @@
           "source": "Trifilara"
         },
         {
-          "title": "Επίσημο το ΜΠΑΜ: «Φίνο κορίτσι» και η Στράντζαλη!",
-          "link": "https://panathinaikos24.gr/2026/01/26/617780/episimo-to-mpam-fino-koritsi-kai-i-strantzali/",
-          "pubDate": "Mon, 26 Jan 2026 10:56:23 +0000",
-          "description": "Σπουδαία προσθήκη για τον Παναθηναϊκό!",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/olg.jpg?fit=1656%2C749&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
           "title": "Ανησυχία με Τσιριβέγια στον Παναθηναϊκό!",
           "link": "https://trifilara.gr/anisychia-me-tsirivegia-ston-panathinaiko/?utm_source=rss&utm_medium=rss&utm_campaign=anisychia-me-tsirivegia-ston-panathinaiko",
           "pubDate": "Mon, 26 Jan 2026 10:56:15 +0000",
@@ -1145,28 +1049,12 @@
           "source": "Trifilara"
         },
         {
-          "title": "Δεσύλλας: «Μπερδεμένος και χωρίς ταυτότητα ο Παναθηναϊκός, συνεχίζει να ψάχνεται ο Μπενίτεθ – Μοναδικό κέρδος ο Σάντσες»",
-          "link": "https://panathinaikos24.gr/2026/01/26/617775/desyllas-mperdemenos-kai-xoris-taytotita-o-panathinaikos-synexizei-na-psaxnetai-o-mpeniteth-monadiko-kerdos-o-santses/",
-          "pubDate": "Mon, 26 Jan 2026 10:42:04 +0000",
-          "description": "Όσα ανέφερε ο ρεπόρτερ του Παναθηναϊκού.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5004875.jpg?fit=900%2C601&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
           "title": "Παίρνει… σκούπα ο Μπενίτεθ το καλοκαίρι στον Παναθηναϊκό!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/pairnei-skoupa-o-beniteth-to-kalokair/?utm_source=rss&utm_medium=rss&utm_campaign=pairnei-skoupa-o-beniteth-to-kalokair",
           "pubDate": "Mon, 26 Jan 2026 10:39:45 +0000",
           "description": "Όπως ξεκαθάρισε και στη συνέντευξη Τύπου μετά το παιχνίδι με τον Ατρόμητο, ο Ράφα Μπενίτεθ έχει λάβει τις αποφάσεις του για την κατεύθυνση που θα ακολουθήσει ο Παναθηναϊκός. Ο Ισπανός τεχνικός δεν μίλησε απλώς για διορθωτικές κινήσεις, αλλά άφησε να φανεί ξεκάθαρα πως στο μυαλό του υπάρχει μια ουσιαστική και σε βάθος αναδόμηση του ρόστερ, […]\nThe post Παίρνει… σκούπα ο Μπενίτεθ το καλοκαίρι στον Παναθηναϊκό! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-5-1.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Καιρός: Βροχές, καταιγίδες και χαλάζι – Στο επίκεντρο η Αττική, που αλλού θα «χτυπήσει» η κακοκαιρία",
-          "link": "https://panathinaikos24.gr/2026/01/26/617768/kairos-vroxes-kataigides-kai-xalazi-sto-epikentro-i-attiki-pou-allou-tha-xtypisei-i-kakokairia/",
-          "pubDate": "Mon, 26 Jan 2026 10:26:41 +0000",
-          "description": "Θυελλώδεις νότιοι άνεμοι θα πνέουν στο Αιγαίο έως σήμερα αργά το απόγευμα, με αποτέλεσμα να ακυρώνονται δρομολόγια.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/4917629.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
         },
         {
           "title": "Παναθηναϊκός: Στον «αέρα» ο Τσιριβέγια ενόψει Ρόμα! – Η πρώτη εκτίμηση",
@@ -1201,36 +1089,68 @@
           "source": "Όλα Πράσινα"
         },
         {
-          "title": "Παναθηναϊκός: Πρόβλημα για την Ρόμα πριν το ΟΑΚΑ",
-          "link": "https://panathinaikos24.gr/2026/01/26/617761/panathinaikos-provlima-gia-tin-roma-prin-to-oaka/",
-          "pubDate": "Mon, 26 Jan 2026 09:47:28 +0000",
-          "description": "«Πονοκέφαλος» για τον Τζαν Πιέρο Γκασπερίνι, ενόψει Παναθηναϊκού.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/AP26022792572210.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Χάνει διαρκώς έδαφος: Σε ποια περιοχή η ΝΔ είναι πλέον δεύτερο κόμμα",
-          "link": "https://panathinaikos24.gr/2026/01/26/617751/xanei-diarkos-edafos-se-poia-perioxi-i-nd-einai-pleon-deytero-komma/",
-          "pubDate": "Mon, 26 Jan 2026 09:06:14 +0000",
-          "description": "«Καμπανάκι» για το κυβερνών κόμμα",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-26_09-41-57_606886-scaled-1.jpg?fit=1024%2C597&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Παναθηναϊκός: Έσπασε ιστορικό ρεκόρ ο Αταμάν",
-          "link": "https://panathinaikos24.gr/2026/01/26/617757/panathinaikos-espase-istoriko-rekor-o-ataman/",
-          "pubDate": "Mon, 26 Jan 2026 08:44:48 +0000",
-          "description": "Σημαντικό επίτευγμα του Εργκίν Αταμάν.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5003781.jpg?fit=900%2C598&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
           "title": "Προανήγγειλε αλλαγές ο Μπενίτεθ: «Τα πράγματα είναι πιο πολύπλοκα»!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/proaningeile-allages-o-beniteth-ta-p/?utm_source=rss&utm_medium=rss&utm_campaign=proaningeile-allages-o-beniteth-ta-p",
           "pubDate": "Sun, 25 Jan 2026 20:45:12 +0000",
           "description": "Ο Ράφα Μπενίτεθ μίλησε στην συνέντευξη Τύπου, μετά την αναμέτρηση του Παναθηναϊκού με τον Ατρόμητο και σχολίασε τα όσα έκανε η ομάδα! Όσα είπε στην συνέντευξη Τύπου ο Μπενίτεθ: Για την αστάθεια στην απόδοση του Παναθηναϊκού: «Νομίζω ότι πολλές φορές αναλύουμε τα πράγματα ανάλογα με το αποτέλεσμα. Με την ΑΕΚ ήμασταν καλοί στο πρώτο μέρος […]\nThe post Προανήγγειλε αλλαγές ο Μπενίτεθ: «Τα πράγματα είναι πιο πολύπλοκα»! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-7.jpg",
           "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Ατρόμητος – Παναθηναϊκός 0-0 | Highlights",
+          "link": "https://trifilara.gr/atromitos-panathinaikos-0-0-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=atromitos-panathinaikos-0-0-highlights",
+          "pubDate": "Sun, 25 Jan 2026 20:02:57 +0000",
+          "description": "Ο Παναθηναϊκός έμεινε με τον έναν βαθμό στο Περιστέρι κόντρα στον Ατρόμητο, με τις δύο ομάδες να μην μπορούν να σκοράρουν στο 90άλεπτό.\nThe post Ατρόμητος – Παναθηναϊκός 0-0 | Highlights appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Κερκέζ: «Αξίζαμε την νίκη – Αυτοί είχαν μια ευκαιρία!»",
+          "link": "https://trifilara.gr/kerkez-axizame-tin-niki-aftoi-eichan-mia-efkairia/?utm_source=rss&utm_medium=rss&utm_campaign=kerkez-axizame-tin-niki-aftoi-eichan-mia-efkairia",
+          "pubDate": "Sun, 25 Jan 2026 19:53:56 +0000",
+          "description": "Όσα είπε ο Ντούσαν Κέρκεζ μετά το παιχνίδι της 18ης αγωνιστικής της Super League ανάμεσα στον Παναθηναϊκό και τον Ατρόμητο.\nThe post Κερκέζ: «Αξίζαμε την νίκη – Αυτοί είχαν μια ευκαιρία!» appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Νέο «στραπάτσο» ο Παναθηναϊκός!",
+          "link": "https://trifilara.gr/neo-strapatso-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=neo-strapatso-o-panathinaikos",
+          "pubDate": "Sun, 25 Jan 2026 19:26:08 +0000",
+          "description": "O Παναθηναϊκός έφυγε από το Περιστέρι με τον βαθμό (0-0), όμως το αποτέλεσμα δεν λέει όλη την αλήθεια. Γιατί το ματς της 18ης αγωνιστικής της Super League, την Κυριακή 25 Ιανουαρίου (19:30), ήταν από εκείνα που αφήνουν περισσότερο προβληματισμό παρά ικανοποίηση, ειδικά από τη στιγμή που ο Ράφα Μπενίτεθ είδε την ομάδα του να «παίζει με τη φωτιά» από πολύ νωρίς και να σώζεται ουσιαστικά από τον Αλμπάν Λαφόν.\nThe post Νέο «στραπάτσο» ο Παναθηναϊκός! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Μπενίτεθ: «Είναι πιο πολύπλοκο – Αυτό μας μπλόκαρε σήμερα» – Τι είπε για Πελίστρι",
+          "link": "https://trifilara.gr/beniteth-einai-pio-polyploko-afto-mas-blokare-simera-ti-eipe-gia-pelistri/?utm_source=rss&utm_medium=rss&utm_campaign=beniteth-einai-pio-polyploko-afto-mas-blokare-simera-ti-eipe-gia-pelistri",
+          "pubDate": "Sun, 25 Jan 2026 19:25:31 +0000",
+          "description": "Ο Ράφα Μπενίτεθ μίλησε στην συνέντευξη Τύπου μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» κόντρα στον Ατρόμητο.\nThe post Μπενίτεθ: «Είναι πιο πολύπλοκο – Αυτό μας μπλόκαρε σήμερα» – Τι είπε για Πελίστρι appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League",
+          "link": "https://trifilara.gr/stasimos-o-panathinaikos-kai-to-klima-varainei-i-vathmologia-tis-super-league/?utm_source=rss&utm_medium=rss&utm_campaign=stasimos-o-panathinaikos-kai-to-klima-varainei-i-vathmologia-tis-super-league",
+          "pubDate": "Sun, 25 Jan 2026 19:20:32 +0000",
+          "description": "Δείτε πώς διαμορφώθηκε η βαθμολογία μετά το Παναθηναϊκός - Πανσερραϊκός στο πλαίσιο τις 11η αγωνιστικής της Super League.\nThe post Στάσιμος ο Παναθηναϊκός και το κλίμα… βαραίνει! – Η βαθμολογία της Super League appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός",
+          "link": "https://trifilara.gr/ta-prota-logia-tou-beniteth-meta-to-atromitos-panathinaikos-2/?utm_source=rss&utm_medium=rss&utm_campaign=ta-prota-logia-tou-beniteth-meta-to-atromitos-panathinaikos-2",
+          "pubDate": "Sun, 25 Jan 2026 19:15:06 +0000",
+          "description": "Ο Ράφα Μπενίτεθ μίλησε στην μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» με τον Ατρόμητο.\nThe post Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Παναθηναϊκός: «Ανακατεμένη» 11άδα κόντρα στον Ατρόμητο!",
+          "link": "https://trifilara.gr/panathinaikos-anakatemeni-11ada-kontra-ston-atromito/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-anakatemeni-11ada-kontra-ston-atromito",
+          "pubDate": "Sun, 25 Jan 2026 16:44:32 +0000",
+          "description": "Η πιθανή ενδεκάδα του Παναθηναϊκού κόντρα στον Ατρόμητο και οι σκέψεις του Ράφα Μπενίτεθ.\nThe post Παναθηναϊκός: «Ανακατεμένη» 11άδα κόντρα στον Ατρόμητο! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         }
       ]
     },
@@ -1238,14 +1158,6 @@
       "title": "ΤΕΧΝΟΛΟΓΙΑ & SCIENCE",
       "color": "pink",
       "articles": [
-        {
-          "title": "Apple Watch: Ανιχνεύει έως και 4 φορές πιο αποτελεσματικά την κολπική μαρμαρυγή σύμφωνα με νέα έρευνα",
-          "link": "https://gr.pcmag.com/smartwatches/51126/apple-watch-anikhneuei-eos-kai-4-phores-pio-apotelesmatika-ten-kolpike-marmaruge-sumphona-me-nea-ere",
-          "pubDate": "Mon, 26 Jan 2026 15:36:20 +0000",
-          "description": "Μελέτη σε άτομα υψηλού κινδύνου έδειξε ότι το έξυπνο ρολόι της Apple εντοπίζει σημαντικά περισσότερες περιπτώσεις αρρυθμίας σε σχέση με τις παραδοσιακές μεθόδους, σώζοντας ζωές από πιθανά εγκεφαλικά.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/a/apple-watc/apple-watch-can-enhance-the-detection-of-heart-arrhythmias-s_p5hu.jpg",
-          "source": "PC Magazine"
-        },
         {
           "title": "ChatGPT: Έρχεται η «έξυπνη» ανώνυμη περιήγηση με διατήρηση της εξατομίκευσης",
           "link": "https://gr.pcmag.com/ai-2/51125/chatgpt-erkhetai-e-exupne-anonume-periegese-me-diaterese-tes-exatomikeuses",
@@ -1476,6 +1388,14 @@
           "pubDate": "Sun, 25 Jan 2026 17:33:42 +0000",
           "description": "Η εκστρατεία GhostPoster χρησιμοποίησε «αθώα» εργαλεία μετάφρασης και downloaders για να μολύνει 840.000 χρήστες, παρακάμπτοντας την ασφάλεια μέσω κρυμμένου κώδικα σε εικόνες.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/u/using-brow/using-browser-extensions-to-translate-or-download-videos-bet_mbtp.jpg",
+          "source": "PC Magazine"
+        },
+        {
+          "title": "Microsoft: Παρέδωσε στο FBI κλειδιά κρυπτογράφησης BitLocker – Η πρώτη δημόσια επιβεβαιωμένη περίπτωση",
+          "link": "https://gr.pcmag.com/it-security/51120/microsoft-paredose-sto-fbi-kleidia-kruptographeses-bitlocker-e-prote-demosia-epibebaiomene-periptose",
+          "pubDate": "Sun, 25 Jan 2026 17:21:41 +0000",
+          "description": "Σε αντίθεση με την Apple, η Microsoft παραχώρησε πρόσβαση σε κρυπτογραφημένα δεδομένα Windows κατόπιν εντάλματος, προκαλώντας αντιδράσεις από ειδικούς σε θέματα κυβερνοασφάλειας και ιδιωτικότητας.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/r/report-mic/report-microsoft-hands-over-keys-for-bitlocker-encrypted-dat_j38y.jpg",
           "source": "PC Magazine"
         }
       ]
