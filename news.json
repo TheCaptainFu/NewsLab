@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T05:25:24.790Z",
+  "lastUpdated": "2026-01-26T05:30:33.299Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κακοκαιρία στις ΗΠΑ: Στο έλεος της χιονοκαταιγίδας Fern τουλάχιστον 37 πολιτείες – 11 νεκροί και 1.000.000 σπίτια χωρίς ρεύμα",
+          "link": "https://www.newsit.gr/kosmos/kakokairia-stis-ipa-sto-eleos-tis-xionokataigidas-fern-toulaxiston-37-politeies-11-nekroi-kai-1-000-000-spitia-xoris-reyma/4583395/",
+          "pubDate": "Mon, 26 Jan 2026 05:25:06 +0000",
+          "description": "Πολικό είναι το κύμα ψύχους πλήττει τις ΗΠΑ, με τουλάχιστον 11 ανθρώπους να έχουν χάσει τη ζωή τους στις χαμηλότερες θερμοκρασίες του φετινού χειμώνα, με ...  \nTo άρθρο Κακοκαιρία στις ΗΠΑ: Στο έλεος της χιονοκαταιγίδας Fern τουλάχιστον 37 πολιτείες – 11 νεκροί και 1.000.000 σπίτια χωρίς ρεύμα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/hpa-2-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Η αντίδραση Μητσοτάκη στο τρολάρισμα σκιέρ και μια ιστορία από τα παλιά με έναν άλλον πρωθυπουργό ^ μεταρρυθμίσεις Χατζηδάκη στο υπουργικό με …υπεύθυνη δήλωση ^ αυτοκτονικός ιδεασμός στη νέα αριστερά ^ γιατί ο Καιρίδης έδωσε το κομμάτι της πίτας του στην Αντιπολίτευση ^ ποια τραγουδάει «Μάτια μου, εγώ για σένα έχω, έρωτα, που άλλο δεν αντέχω»",
           "link": "https://www.newsit.gr/blogs/me-to-ganti/i-antidrasi-mitsotaki-sto-trolarisma-skier-kai-mia-istoria-apo-ta-palia-me-enan-allon-prothypourgo-metarrythmiseis-xatzidaki-sto-ypourgiko-me-ypeythyni-dilosi-aytoktonikos-ideasmos-sti-nea-aristera-gi/4583393/",
@@ -49,10 +57,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Μεγάλη φωτιά στο εργοστάσιο της Βιολάντα στα Τρίκαλα: Τρεις τραυματίες, πέντε αγνοούμενοι εργαζόμενοι\n",
+          "title": "Μεγάλη φωτιά στο εργοστάσιο της Βιολάντα στα Τρίκαλα: Αγνοούνται πέντε εργαζόμενοι, άλλοι 8 μεταφέρθηκαν στο νοσοκομείο",
           "link": "https://www.protothema.gr/greece/article/1763291/megali-fotia-sto-ergostasio-tis-violada-pede-agnooumenoi/?utm_source=rss",
           "pubDate": "Mon, 26 Jan 2026 06:46:00 +0200",
-          "description": "Η φωτιά καίει μεγάλη πτέρυγα του εργοστασίου - Κατά πληροφορίες στην πτέρυγα βρίσκονταν 12 άτομα, τα πέντε δεν έχουν εντοπιστεί",
+          "description": "Η φωτιά καίει μεγάλη πτέρυγα του εργοστασίου - Κατά πληροφορίες στην πτέρυγα βρίσκονταν 13 άτομα, τα πέντε δεν έχουν εντοπιστεί - Καλά στην υγεία τους οι 8 που διακομίσθηκαν στο νοσοκομείο",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/fwtia-trikala-mak.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 05:45:40 +0300",
           "description": "Το πρόβλημα με τα στοιχήματα σε γεωπολιτικά γεγονότα είναι πως ο κόσμος, όχι μόνο θα ποντάρει στη δυστυχία, αλλά θα αποφασίζει γι΄αυτή, καθιστώντας τις δημόσιες υπηρεσίες διεφθαρμένες.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/stoiximata-praxikopimata-dolofonies-in.gr_-768x531.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Συναγερμός στα Τρίκαλα: Φόβοι για νεκρούς λόγω μεγάλης πυρκαγιάς σε γνωστό εργοστάσιο την ώρα της βάρδιας",
-          "link": "https://www.in.gr/2026/01/26/greece/synagermos-sta-trikala-logo-megali-pyrkagias-se-gnosto-ergostasio-tin-ora-tis-nyxterinis-vardias/",
-          "pubDate": "Mon, 26 Jan 2026 05:12:04 +0300",
-          "description": "Πληροφορίες κάνουν λόγο για νεκρούς εξαιτίας έκρηξης και πυρκαγιάς στη διάρκεια της νυχτερινής βάρδιας στο εργοστάσιο Βιολάντα, στα Τρίκαλα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/fotia-violanta-10-768x432.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Κυπριακό: Κρίσιμη εβδομάδα με φόντο τις επαφές Ολγκίν-Στο μικροσκόπιο οι προθέσεις των δύο πλευρών",
+          "link": "http://gr.euronews.com/2026/01/26/kypriako-krisimes-synomilies-hristodoulidhs-erhiurman",
+          "pubDate": "Mon, 26 Jan 2026 06:24:22 +0100",
+          "description": "Εβδομάδα κρίσιμων επαφών ξεκινά στο Κυπριακό, με την άφιξη της προσωπικής απεσταλμένης του Γενικού Γραμματέα του ΟΗΕ στην Κύπρο και το ενδιαφέρον να επικεντρώνεται στις συναντήσεις της με τους δύο ηγέτες, σε μια προσπάθεια αξιολόγησης των προοπτικών για επανεκκίνηση της πολιτικής διαδικασίας",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Ισχυρές βροχές και καταιγίδες - Σε «Red Code» έξι περιοχές της χώρας",
           "link": "http://gr.euronews.com/2026/01/26/isxires-vrohes-kai-kataigides-se-red-code-exi-periohes-tis-horas",
           "pubDate": "Mon, 26 Jan 2026 06:03:12 +0100",
@@ -731,14 +739,6 @@
           "description": "Τα έργα που έχουν επιλεγεί για την έκθεση αναδεικνύουν τον κεντρικό ρόλο που διαδραματίζουν οι εκδόσεις στην καλλιτεχνική πρακτική του Βιλς, λειτουργώντας ως χώρος πειραματισμού και συνεργασίας με άλλους δημιουργούς",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Περιοδικό TIME: Ο αριθμός των νεκρών από τις διαδηλώσεις στο Ιράν ίσως υπερβαίνει τις 30.000",
-          "link": "http://gr.euronews.com/2026/01/25/periodiko-time-arithmos-nekrwn-diadhlwseis-iran-isws-upervainei-30000",
-          "pubDate": "Sun, 25 Jan 2026 13:34:04 +0100",
-          "description": "Επικαλούμενο δύο κορυφαίους αξιωματούχους του υπουργείου Υγείας του Ιράν, το αμερικανικό περιοδικό μεταδίδει ότι η κλίμακα της καταστολής των διαδηλωτών στις 8 και 9 Ιανουαρίου ήταν τόσο μεγάλη που τα ασθενοφόρα αντικαταστάθηκαν από νταλίκες",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Σπουδαία πρωτοβουλία Μπακς: Δώρισαν φαγητό σε καταφύγια αστέγων στο Μιλγουόκι",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510226/spoydaia-protoboylia-mpaks-dorisan-fagito-se-katafygia-astegon-sto-milgoyoki",
+          "pubDate": "Mon, 26 Jan 2026 07:27:16 +0200",
+          "description": "Oι Μπακς πήραν μια πολύ όμορφη πρωτοβουλία μετά την αναβολή του ματς με τους Μάβερικς.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/giannis_antetokounmpo_gettyjpg_1.jpg?itok=lQ8F9Oh_",
+          "source": "Gazzetta"
+        },
         {
           "title": "Super League: Ο πρωτοπόρος Ολυμπιακός, ο «λίγος» Παναθηναϊκός και η «αλύγιστη» ΑΕΚ",
           "link": "https://www.newsit.gr/athlitika/super-league-o-protoporos-olympiakos-o-ligos-panathinaikos-kai-i-alygisti-aek/4583278/",
@@ -977,14 +985,6 @@
           "description": "Ο Λεβαδειακός, σύμφωνα με Ιταλό ρεπόρτερ, είναι μία ανάσα από τον μεσοεπιθετικό Χρήστο Παπαδόπουλο.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2203442147_1.jpg?itok=o2OMEY1o",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Κώστας Τσιμίκας επιστρέφει άμεσα στη Λίβερπουλ",
-          "link": "https://www.newsit.gr/athlitika/o-kostas-tsimikas-epistrefei-amesa-sti-liverpoul/4583300/",
-          "pubDate": "Sun, 25 Jan 2026 20:27:43 +0000",
-          "description": "Ο Κώστας Τσιμίκας δεν κατάφερε να κερδίσει θέση βασικού στη Ρόμα και η Λίβερπουλ χρειάζεται αριστερό μπακ, με αποτέλεσμα την επικείμενη διακοπή του δανεισμού του ...  \nTo άρθρο Ο Κώστας Τσιμίκας επιστρέφει άμεσα στη Λίβερπουλ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tsimikas-2-1200x768.jpg",
-          "source": "NewsIT"
         }
       ]
     },
