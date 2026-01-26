@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T16:20:32.035Z",
+  "lastUpdated": "2026-01-26T16:25:25.125Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Συνεχίζει με αμείωτο ρυθμό η Τροχαία τα αλκοτέστ, 10 συλλήψεις και 246 παραβάσεις σε τρεις μέρες, δείτε βίντεο  ",
+          "link": "https://www.protothema.gr/greece/article/1763710/sullipsi-10-odigon-gia-odigisi-upo-tin-epireia-alkool-stin-attiki/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 18:22:00 +0200",
+          "description": "Η ΕΛΑΣ πραγματοποίησε  23.010 ελέγχους σε ένα τριήμερο",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/troxaia-alkotset-4.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Παράταση παραστάσεων για την «Αλεξάνδρεια», του Φωκά Ευαγγελινού, στο Παλλάς",
           "link": "https://www.newsit.gr/politismos/paratasi-parastaseon-gia-tin-aleksandreia-tou-foka-eyaggelinou-sto-pallas/4584066/",
@@ -37,7 +45,7 @@
           "link": "https://www.newsit.gr/ellada/ekriksi-sti-viomixania-violanta-eixe-tria-paidia-einai-se-athlia-psyxologiki-katastasi-leei-i-aderfi-ergazomenis-pou-skotothike/4584059/",
           "pubDate": "Mon, 26 Jan 2026 16:11:54 +0000",
           "description": "Στο πένθος έχουν βυθιστεί οι οικογένειες, οι φίλοι και οι συνάδελφοι των 5 γυναικών που βρήκαν τραγικό θάνατο τα ξημερώματα της Δευτέρας (26.01.2026), μετά την ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: «Είχε τρία παιδιά, είναι σε άθλια ψυχολογική κατάσταση» λέει η αδερφή εργαζόμενης που σκοτώθηκε δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fotia-trikala-violanta.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/biolanta-trikala-1200x799.jpg",
           "source": "NewsIT"
         },
         {
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 15:29:03 +0000",
           "description": "Πολιτικό «αναβρασμό» και αρκετές αντιδράσεις έχει προκαλέσει τις τελευταίες ημέρες στην Κίνα το γεγονός ότι ο ανώτερος στρατηγός της χώρας και στενός σύμμαχος του προέδρου ...  \nTo άρθρο Κίνα: Για «διαρροή πυρηνικών μυστικών στις ΗΠΑ» και για «διαφθορά» κατηγορείται το «δεξί χέρι» του Σι Τζινπίνγκ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/china-military-reuters-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άρης Betsson: Video διαμαρτυρίας σε ΕΟΚ και ΚΕΔ με φάσεις από την αναμέτρηση με τον Προμηθέα Πάτρας",
-          "link": "https://www.newsit.gr/athlitika/aris-betsson-video-diamartyrias-se-eok-kai-ked-me-faseis-apo-tin-anametrisi-me-ton-promithea-patras/4584019/",
-          "pubDate": "Mon, 26 Jan 2026 15:27:10 +0000",
-          "description": "Ο Άρης Betsson προχώρησε σε επίσημη κίνηση διαμαρτυρίας, αποστέλλοντας video στην ΕΟΚ και την ΚΕΔ με επίμαχες φάσεις από τον αγώνα με τον Προμηθέα στην ...  \nTo άρθρο Άρης Betsson: Video διαμαρτυρίας σε ΕΟΚ και ΚΕΔ με φάσεις από την αναμέτρηση με τον Προμηθέα Πάτρας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/promitheas-aris-eurokinissi.jpg",
           "source": "NewsIT"
         }
       ]
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Με τον ΠΑΟΚ στα προημιτελικά κυπέλλου στο βόλεϊ γυναικών ο Παναθηναϊκός",
+          "link": "https://panathinaikos24.gr/2026/01/26/617839/me-ton-paok-sta-proimitelika-kypellou-sto-volei-gynaikon-o-panathinaikos/",
+          "pubDate": "Mon, 26 Jan 2026 16:23:28 +0000",
+          "description": "Η ομοσπονδία γνωστοποίησε τα ζευγάρια και την ημερομηνία που θα διεξαχθούν οι προημιτελικοί αγώνες του Κυπέλλου Ελλάδας Γυναικών.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/haylie-bennett-panathinaikos-volley-intime-5002760.webp?fit=1300%2C700&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Χάνει διαρκώς έδαφος: Σε ποια περιοχή η ΝΔ είναι πλέον δεύτερο κόμμα",
           "link": "https://panathinaikos24.gr/2026/01/26/617751/xanei-diarkos-edafos-se-poia-perioxi-i-nd-einai-pleon-deytero-komma/",
           "pubDate": "Mon, 26 Jan 2026 15:51:14 +0000",
@@ -1222,14 +1230,6 @@
           "pubDate": "Mon, 26 Jan 2026 09:47:28 +0000",
           "description": "«Πονοκέφαλος» για τον Τζαν Πιέρο Γκασπερίνι, ενόψει Παναθηναϊκού.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/AP26022792572210.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Παναθηναϊκός: Έσπασε ιστορικό ρεκόρ ο Αταμάν",
-          "link": "https://panathinaikos24.gr/2026/01/26/617757/panathinaikos-espase-istoriko-rekor-o-ataman/",
-          "pubDate": "Mon, 26 Jan 2026 08:44:48 +0000",
-          "description": "Σημαντικό επίτευγμα του Εργκίν Αταμάν.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5003781.jpg?fit=900%2C598&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
