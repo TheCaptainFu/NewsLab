@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T00:05:26.301Z",
+  "lastUpdated": "2026-01-26T00:10:27.050Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Νέο story Πετρόπουλου: «Ουδέποτε υπονόησα συμμετοχή ανθρώπων του αθλητικού χώρου»",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510210/neo-story-petropoyloy-oydepote-yponoisa-symmetohi-anthropon-toy",
+          "pubDate": "Mon, 26 Jan 2026 02:08:42 +0200",
+          "description": "Ο Ανδρέας Πετρόπουλος αφού κατέβασε το αρχικό story του έκανε νέα ανάρτηση διευκρινίζοντας πως δεν υπονόησε συμμετοχή ανθρώπων του αθλητικού χώρου στο θέμα με τα φρένα του αυτοκινήτου του.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4889309.jpg?itok=cHbVLXVq",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Πετρόπουλος: Κατέβασε το story για το πρόβλημα στα φρένα",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510195/petropoylos-katebase-story-gia-problima-sta-frena",
           "pubDate": "Mon, 26 Jan 2026 00:12:57 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Sun, 25 Jan 2026 22:26:56 +0200",
           "description": "Ο Ντενίζ Ουντάβ πήγε να βγάλει φωτογραφία με νεαρούς οπαδούς της Στουτγκάρδης, όταν το κινητό τηλέφωνο χτύπησε και ο φορ των Σουηβών αποφάσισε να το σηκώσει.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/undav.jpg?itok=V0HttSnL",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μπενίτεθ: «Θέλαμε να προφυλάξουμε παίκτες, αδύνατον να στηρίζεσαι σε λίγους με τρεις διοργανώσεις»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510171/mpeniteth-thelame-na-profylaxoyme-paiktes-adynaton-na-stirizesai-se",
-          "pubDate": "Sun, 25 Jan 2026 22:20:14 +0200",
-          "description": "Τα λόγια του Ράφα Μπενίτεθ στην συνέντευξη Τύπου μετά την γκέλα (0-0) του Παναθηναϊκού με τον Ατρόμητο στο Περιστέρι.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benitez_intime_7.jpg?itok=R_CeLh9E",
           "source": "Gazzetta"
         }
       ]
