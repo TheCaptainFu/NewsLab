@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T17:02:56.227Z",
+  "lastUpdated": "2026-01-26T17:05:30.008Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Meteo: Πάνω από 43.000 κεραυνοί έπεσαν την Δευτέρα – Οι περιοχές που «πνίγηκαν» από τη βροχή",
+          "link": "https://www.newsit.gr/ellada/meteo-pano-apo-43-000-keraynoi-epesan-tin-deytera-oi-perioxes-pou-pnigikan-apo-ti-vroxi/4584109/",
+          "pubDate": "Mon, 26 Jan 2026 17:03:09 +0000",
+          "description": "Ισχυρές βροχές και καταιγίδες εκδηλώθηκαν την Δευτέρα (26/01/2026) σε αρκετές περιοχές της χώρας ενώ έπεσαν πάνω από 43.000 κεραυνοί. Συγκεκριμένα σύμφωνα με το meteo χιλιάδες ...  \nTo άρθρο Meteo: Πάνω από 43.000 κεραυνοί έπεσαν την Δευτέρα – Οι περιοχές που «πνίγηκαν» από τη βροχή δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/keraunos-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Η Εθνική πόλο ανδρών επέστρεψε στην Ελλάδα έχοντας κατακτήσει ιστορικό χάλκινο μετάλλιο στο ευρωπαϊκό",
           "link": "https://www.newsit.gr/athlitika/i-ethniki-polo-andron-epestrepse-stin-ellada-exontas-kataktisei-istoriko-xalkino-metallio-sto-eyropaiko/4584107/",
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 15:59:54 +0000",
           "description": "Άνοιξε ο δρόμος για την κατασκευή της Νέας Τούμπας αφού τη Δευτέρα (26.01.2026) η ΠΑΕ ΠΑΟΚ, ο ΑΣ ΠΑΟΚ και η εταιρεία “Φωλιά του Δικέφαλου ...  \nTo άρθρο Ιστορική ημέρα στον ΠΑΟΚ, έπεσαν οι υπογραφές για τη Νέα Τούμπα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-nea-toympa-paokfc-1200x769.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ηράκλειο: Πλημμύρισαν από τη βροχή οι αίθουσες του ειδικού σχολείου – Τι καταγγέλλουν γονείς και εκπαιδευτικοί",
-          "link": "https://www.newsit.gr/ellada/irakleio-plimmyrisan-apo-ti-vroxi-oi-aithouses-tou-eidikou-sxoleiou-ti-kataggelloun-goneis-kai-ekpaideytikoi/4584042/",
-          "pubDate": "Mon, 26 Jan 2026 15:59:41 +0000",
-          "description": "Ανάστατοι είναι οι μαθητές, οι γονείς και οι εκπαιδευτικοί του Ειδικού Σχολείου στο Ηράκλειο Κρήτης. Το σχολικό συγκρότημα πλημμύρισε από τη βροχή που έπεσε τη ...  \nTo άρθρο Ηράκλειο: Πλημμύρισαν από τη βροχή οι αίθουσες του ειδικού σχολείου – Τι καταγγέλλουν γονείς και εκπαιδευτικοί δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/irakleio-plimmira-26012026.jpg",
           "source": "NewsIT"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "MAIA 200: Η Microsoft χτίζει την επόμενη οικονομία Τεχνητής Νοημοσύνης",
+          "link": "https://www.techgear.gr/maia-200-i-microsoft-chtizei-tin-epomeni-oikonomia-technitis-noimosynis-47332",
+          "pubDate": "Mon, 26 Jan 2026 19:03:00 +0200",
+          "description": "Η Microsoft παρουσιάζει το επόμενο μεγάλο ορόσημο για τις υποδομές τεχνητής νοημοσύνης: Το Maia 200, έναν πρωτοποριακό επιταχυντή σχεδιασμένο για το ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/maia-2000-microsoft.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Apple Watch Unity Connection: Το νέο Braided Solo Loop για τον Μήνα Μαύρης Ιστορίας είναι εδώ",
           "link": "https://gr.pcmag.com/smartwatches/51130/apple-watch-unity-connection-to-neo-braided-solo-loop-gia-ton-mena-maures-istorias-einai-edo",
           "pubDate": "Mon, 26 Jan 2026 16:42:31 +0000",
@@ -1468,14 +1476,6 @@
           "pubDate": "Mon, 26 Jan 2026 06:06:00 +0200",
           "description": "Η Google ανακοίνωσε τη λειτουργία Me Meme για το Google Photos και φιλοδοξεί να μετατρέψει τη βιβλιοθήκη φωτογραφιών μας σε μια αστείρευτη πηγή ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/google-photos-meme-me.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Forza Horizon 6: Μας ταξιδεύει στην Ιαπωνία στις 19 Μαΐου",
-          "link": "https://www.techgear.gr/forza-horizon-6-mas-taxideyei-stin-iaponia-stis-19-maioy-47311",
-          "pubDate": "Mon, 26 Jan 2026 05:59:00 +0200",
-          "description": "Η Playground Games βάζει τέλος στην αναμονή και επιβεβαιώνει αυτό που η κοινότητα των racing games συζητούσε εδώ και χρόνια. Το Forza Horizon 6 είναι ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/forza-horizon-6.jpg",
           "source": "Techgear"
         }
       ]
