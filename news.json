@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T21:50:27.800Z",
+  "lastUpdated": "2026-01-26T21:54:20.953Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,10 @@
       "color": "red",
       "articles": [
         {
-          "title": "Ζελένσκι: Οι διαπραγματεύσεις με την Ρωσία να διεξαχθούν πριν Κυριακή",
-          "link": "https://www.newsit.gr/kosmos/zelenski-oi-diapragmateyseis-me-tin-rosia-na-dieksaxthoun-prin-kyriaki/4584254/",
+          "title": "Ζελένσκι: Οι διαπραγματεύσεις με την Ρωσία να διεξαχθούν πριν την Κυριακή",
+          "link": "https://www.newsit.gr/kosmos/zelenski-oi-diapragmateyseis-me-tin-rosia-na-dieksaxthoun-prin-tin-kyriaki/4584254/",
           "pubDate": "Mon, 26 Jan 2026 21:46:53 +0000",
-          "description": "Οι συνομιλίες ανάμεσα σε Ουκρανία και Ρωσία, υπό την αιγίδα των ΗΠΑ, αναμένεται να συνεχιστούν την Κυριακή 1η Φεβρουαρίου, τόνισε ο Βολοντίμιρ Ζελένσκι. Ωστόσο ο ...  \nTo άρθρο Ζελένσκι: Οι διαπραγματεύσεις με την Ρωσία να διεξαχθούν πριν Κυριακή δημοσιεύτηκε στο NewsIT .",
+          "description": "Οι συνομιλίες ανάμεσα σε Ουκρανία και Ρωσία, υπό την αιγίδα των ΗΠΑ, αναμένεται να συνεχιστούν την Κυριακή 1η Φεβρουαρίου, τόνισε ο Βολοντίμιρ Ζελένσκι. Ωστόσο ο ...  \nTo άρθρο Ζελένσκι: Οι διαπραγματεύσεις με την Ρωσία να διεξαχθούν πριν την Κυριακή δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/volodymyr-zelenskiy-3-1200x810.jpg",
           "source": "NewsIT"
         },
@@ -209,6 +209,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Άρης: Στην πρώτη θέση των ξένων σκόρερ του o Μορόν μαζί με τον Μιλογέβιτς",
+          "link": "https://www.in.gr/2026/01/26/sports/football/aris-stin-proti-thesi-ton-ksenon-skorer-tou-o-moron-mazi-ton-milogevits/",
+          "pubDate": "Mon, 26 Jan 2026 23:22:06 +0300",
+          "description": "Ο Λορέν Μορόν «έπιασε» τον Λιούμπισα Μιλόγεβιτς στην κορυφή των ξένων σκόρερ του Άρη με 48 γκολ και την επόμενη φορά που θα σκοράρει ο Ισπανός, θα πατήσει στην κορυφή.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6824910-768x554.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Συνάντηση Μητσοτάκη με κτηνοτρόφους για την ευλογιά στο Μέγαρο Μαξίμου την Τρίτη",
           "link": "https://www.newsit.gr/politikh/synantisi-mitsotaki-me-ktinotrofous-gia-tin-eylogia-sto-megaro-maksimou-tin-triti/4584222/",
           "pubDate": "Mon, 26 Jan 2026 20:18:27 +0000",
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 22:13:00 +0200",
           "description": "Σύμφωνα με το περιεχόμενο της καταγγελίας του παιδιού από κοινού με τη μητέρα του, συμμαθητές του τον κυνήγησαν και στη συνέχεια τον έσπρωξαν, με αποτέλεσμα να πέσει και να τραυματιστεί",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2025-10-12/ekab-mkt.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Συλλυπητήρια για την τραγωδία με πέντε νεκρούς στην «Βιολάντα» από την αμερικανική πρεσβεία: Στεκόμαστε δίπλα στην Ελλάδα",
-          "link": "https://www.protothema.gr/greece/article/1763829/sullupitiria-gia-tin-tragodia-me-pede-nekrous-stin-violada-apo-tin-amerikaniki-presveia-stekomaste-dipla-stin-ellada/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 22:10:15 +0200",
-          "description": "Στην φωτιά που ξέσπασε στις εγκαταστάσεις της μπισκοτοβιομηχανίας στα Τρίκαλα έχασαν τη ζωή τους πέντε εργαζόμενες",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-05-09/amerikaniki-presveia-ipa.jpg",
           "source": "Πρώτο Θέμα"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Βερόνα - Ουντινέζε 1-3: Επιστροφή στις νίκες με τριάρα ",
+          "link": "https://www.gazzetta.gr/football/serie/2510437/berona-oyntineze-1-3-epistrofi-stis-nikes-me-triara",
+          "pubDate": "Mon, 26 Jan 2026 23:51:56 +0200",
+          "description": "Η Ουντινέζε αναδείχθηκε νικήτρια στην έδρα της Βερόνα, καθώς με δυο γκολ στο β΄μέρος επικράτησε 3-1 και βύθισε ακόμα περισσότερο την αντίπαλό της στην επικίνδυνη ζώνη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/verona_udinese.jpg?itok=Cqw4LEq_",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κρεμόνα-Βίρτους 74-84: Περίπατος με Μόργκαν-Άλστον",
+          "link": "https://www.gazzetta.gr/basketball/mpasket-italia/2510436/kremona-birtoys-74-84-peripatos-me-morgkan-alston",
+          "pubDate": "Mon, 26 Jan 2026 23:50:31 +0200",
+          "description": "Η Βίρτους Μπολόνια επιβλήθηκε (84-74) της Κρεμόνα εκτός έδρας για την 17η αγωνιστική του ιταλικού πρωταθλήματος.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/morgan_intime.jpg?itok=r8RVXCvK",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Αντρέ Λουίζ: Ο «καθηγητής» Νταβίντ Λουίζ είδε το… διαμάντι του Ολυμπιακού",
           "link": "https://www.gazzetta.gr/specials/2510430/antre-loyiz-o-kathigitis-ntabint-loyiz-eide-diamanti-toy-olympiakoy",
           "pubDate": "Mon, 26 Jan 2026 23:40:00 +0200",
@@ -969,22 +985,6 @@
           "description": "Ο Αντρέ Λουίς προβάρει τα ερυθρόλευκα. Ο 23χρονος εξτρέμ της Ρίο Άβε πρόκειται να αποκτηθεί άμεσα από τον Ολυμπιακό, αποτελώντας την πρώτη χειμερινή μετεγγραφή του ...  \nTo άρθρο Με τον Βαγγέλη Μαρινάκη ο ατζέντης του Αντρέ Λουίς: Η φωτογραφία και το «ευχαριστούμε για όλα κύριε πρόεδρε» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marinakis-atzentis-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Opel Grandland Electric AWD: Ηλεκτρική τετρακίνηση με 325 ίππους",
-          "link": "https://www.gazzetta.gr/gmotion/2510369/opel-grandland-electric-awd-ilektriki-tetrakinisi-me-325-ippoys",
-          "pubDate": "Mon, 26 Jan 2026 21:00:00 +0200",
-          "description": "Tο πρώτο αμιγώς ηλεκτρικό μοντέλο της Opel με κίνηση σε όλους τους τροχούς υπόσχεται πρόσφυση σε δύσκολες συνθήκες, επιδόσεις και αυτονομία που αγγίζει τα 500 χιλιόμετρα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/opelgrandlandelectricawd_1.jpg?itok=SIpRPaQn",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Ο Μαρινάκης με τον ατζέντη του Αντρέ Λουίζ",
-          "link": "https://www.gazzetta.gr/football/superleague/2510415/olympiakos-o-marinakis-me-ton-atzenti-toy-antre-loyiz",
-          "pubDate": "Mon, 26 Jan 2026 20:57:36 +0200",
-          "description": "Ο εκπρόσωπος του Αντρέ Λουίζ φωτογραφήθηκε με τον μεγαλομέτοχο του Ολυμπιακού Βαγγέλη Μαρινάκη.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/antre_loyiz_2.jpg?itok=b6EMqqNz",
-          "source": "Gazzetta"
         }
       ]
     },
