@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T15:00:40.025Z",
+  "lastUpdated": "2026-01-26T15:05:26.286Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βίντεο ντοκουμέντο: Η στιγμή της φονικής έκρηξης στο εργοστάσιο της Βιολάντα",
+          "link": "https://www.protothema.gr/greece/article/1763661/video-dokoumedo-i-stigmi-tis-fonikis-ekrixis-sto-ergostasio-tis-violada/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 17:05:00 +0200",
+          "description": "",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/trikalavideo-xrm.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Η Allwyn Arena είναι εδώ, ολοκληρώθηκε το rebranding στο γήπεδο της ΑΕΚ",
           "link": "https://www.newsit.gr/athlitika/i-allwyn-arena-einai-edo-oloklirothike-to-rebranding-sto-gipedo-tis-aek/4583988/",
@@ -73,20 +81,20 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "Παυλόπουλος : Μνήμες και διδάγματα από το Ολοκαύτωμα των Ελλήνων Εβραίων",
-          "link": "https://www.protothema.gr/greece/article/1763614/paulopoulos/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 16:34:56 +0200",
-          "description": "Η ομιλία πραγματοποιήθηκε στην Θεσσαλονίκη με πρωτοβουλία της Ισραηλιτικής Κοινότητας - Ομιλία και στην Αίγινα  για τον Ιωάννη Καποδίστρια",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/2025-01-24_%CE%B1%CE%B9%CE%B3%CE%B9%CE%BD%CE%B1_%CE%BA%CE%B1%CF%80%CE%BF%CE%B4%CE%B9%CF%83%CF%84%CF%81%CE%B9%CE%B1%CF%83.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
           "title": "Εξεταστική ΟΠΕΚΕΠΕ: Βαριές καταγγελίες από την πρώην αντιπρόεδρο, Δήμητρα Χαλικιά – Τι είπε για Βορίδη, Βάρρα, Σημανδράκο και Τυχεροπούλου",
           "link": "https://www.newsit.gr/politikh/eksetastiki-opekepe-varies-kataggelies-apo-tin-proin-antiproedro-dimitra-xalikia-ti-eipe-gia-voridi-varra-simandrako-kai-tyxeropoulou/4583958/",
           "pubDate": "Mon, 26 Jan 2026 14:34:15 +0000",
           "description": "Για ένα «διαχρονικό και συστημικό φαινόμενο, με κοινό παρανομαστή την ανεμπόδιστη σύγκρουση συμφερόντων» έκανε λόγο η πρώην β’ αντιπρόεδρος του ΟΠΕΚΕΠΕ, Δήμητρα Χαλικιά, καταθέτοντας τη ...  \nTo άρθρο Εξεταστική ΟΠΕΚΕΠΕ: Βαριές καταγγελίες από την πρώην αντιπρόεδρο, Δήμητρα Χαλικιά – Τι είπε για Βορίδη, Βάρρα, Σημανδράκο και Τυχεροπούλου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eksetastiki-opekepe-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Παυλόπουλος: Μνήμες και διδάγματα από το Ολοκαύτωμα των Ελλήνων Εβραίων",
+          "link": "https://www.protothema.gr/greece/article/1763614/paulopoulos/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 16:34:00 +0200",
+          "description": "Η ομιλία πραγματοποιήθηκε στην Θεσσαλονίκη με πρωτοβουλία της Ισραηλιτικής Κοινότητας - Ομιλία και στην Αίγινα  για τον Ιωάννη Καποδίστρια",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/2025-01-24_%CE%B1%CE%B9%CE%B3%CE%B9%CE%BD%CE%B1_%CE%BA%CE%B1%CF%80%CE%BF%CE%B4%CE%B9%CF%83%CF%84%CF%81%CE%B9%CE%B1%CF%83.jpg",
+          "source": "Πρώτο Θέμα"
         },
         {
           "title": "Έκρηξη σε διαμέρισμα στους Αγίους Αναργύρους: Ξηλώθηκαν πόρτες και παράθυρα",
@@ -165,7 +173,7 @@
           "link": "https://www.newsit.gr/ellada/ekriksi-sti-viomixania-violanta-vrethike-i-soros-kai-tis-pemptis-ergatrias-pou-skotothike-sto-ergostasio-sta-trikala/4583948/",
           "pubDate": "Mon, 26 Jan 2026 14:09:14 +0000",
           "description": "Τραγικός είναι ο επίλογος και για την πέμπτη εργαζόμενη που αγνοούνταν μετά την έκρηξη και τη φωτιά στο εργοστάσιο της βιομηχανίας «Βιολάντας» στα Τρίκαλα. Πέντε ...  \nTo άρθρο Έκρηξη στη βιομηχανία «Βιολάντα»: Βρέθηκε η σορός και της πέμπτης εργάτριας που σκοτώθηκε στο εργοστάσιο στα Τρίκαλα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gunaikes-violanta-2-1200x746.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nekres-violanta-trikala.jpg",
           "source": "NewsIT"
         },
         {
@@ -217,6 +225,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Θεσσαλονίκη: Εργατικό ατύχημα με 4 τραυματίες όταν έσκασε αγωγός της ΕΥΑΘ – Βίντεο ντοκουμέντο",
+          "link": "https://www.in.gr/2026/01/26/greece/thessaloniki-ergatiko-atyxima-4-traymaties-otan-eskase-agogos-tis-eyath-vinteo-ntokoumento/",
+          "pubDate": "Mon, 26 Jan 2026 17:00:55 +0300",
+          "description": "Ο αγωγός έσκασε και το νερό εκτινάχθηκε με δύναμη σε ύψος που ξεπέρασε τα 2 μέτρα τραυματίζοντας τους 4 εργάτες στη Θεσσαλονίκη",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/thes_ekr-768x516.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Συνταγή για το viral υγιεινό γλυκάκι με γιαούρτι και μπισκότα",
           "link": "https://www.newsit.gr/tasteit/syntagi-gia-to-viral-ygieino-glykaki-me-giaourti-kai-mpiskota/4579104/",
           "pubDate": "Mon, 26 Jan 2026 14:00:00 +0000",
@@ -231,22 +247,6 @@
           "description": "Η χειρουργική του θυρεοειδούς έχει εξελιχθεί ραγδαία τα τελευταία χρόνια. Η εισαγωγή νέων τεχνολογιών έχει καταστήσει δυνατή την πραγματοποίηση ριζικών αλλά αναίμακτων επεμβάσεων, με απόλυτο ...  \nTo άρθρο Θυροειδής αδένας: Ο ρόλος των νέων τεχνολογιών στην αφαίρεση με μικρότερη τομή δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1285293226-1200x693.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "«Ο Καλάμπρια μπορεί να επιστρέψει άμεσα στην Ιταλία » (pic)",
-          "link": "https://www.in.gr/2026/01/26/sports/football/o-kalampria-mporei-na-epistrepsei-amesa-stin-italia-pic/",
-          "pubDate": "Mon, 26 Jan 2026 16:55:39 +0300",
-          "description": "Συνεχίζονται τα δημοσιεύματα που θέλουν το Ντάβιντε Καλάμπρια να επιστρέφει στην Serie A ακόμα και στη μεταγραφική του Ιανουαρίου.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6821784-768x555.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Survivor: Απόψε στο δεύτερο αγώνισμα ασυλίας οι εντάσεις συνεχίζονται κι ο Μιχάλης Σηφάκης έρχεται σε ρήξη με την Φανή Παντελάκη",
-          "link": "https://www.newsit.gr/media/survivor-apopse-sto-deytero-agonisma-asylias-oi-entaseis-synexizontai-ki-o-mixalis-sifakis-erxetai-se-riksi-me-tin-fani-pantelaki/4583916/",
-          "pubDate": "Mon, 26 Jan 2026 13:53:10 +0000",
-          "description": "Διατηρεί τη δυναμική του το «Survivor» το οποίο εχθές (25.01.2026) σημείωσε μία ακόμα πρωτιά στην τηλεθέαση, στη ζώνη μετάδοσής του στον ΣΚΑΪ, με ποσοστό 16,2% ...  \nTo άρθρο Survivor: Απόψε στο δεύτερο αγώνισμα ασυλίας οι εντάσεις συνεχίζονται κι ο Μιχάλης Σηφάκης έρχεται σε ρήξη με την Φανή Παντελάκη δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/survivor22-1200x710.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Εθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού",
+          "link": "https://www.naftemporiki.gr/politics/2064055/ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy/?utm_source=rss&utm_medium=rss&utm_campaign=ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy",
+          "pubDate": "Mon, 26 Jan 2026 15:03:01 +0000",
+          "description": "Τη νομοθετική πρωτοβουλία για την επιστολική ψήφο στους εκτός Ελλάδας εκλογείς κατά τις βουλευτικές εκλογές και τον ορισμό τριεδρικής εκλογικής περιφέρειας Απόδημου Ελληνισμού παρουσίασε τη Δευτέρα στο πρώτο υπουργικό συμβούλιο…\nΕθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "ΟΠΕΚΕΠΕ: 1.199.149,87 ευρώ «πίσω»,  για αχρεωστήτως καταβληθείσες ενισχύσεις σε παραγωγούς",
           "link": "https://www.naftemporiki.gr/politics/2064049/opekepe-1-199-14987-eyro-piso-gia-achreostitos-katavlitheises-enischyseis-se-paragogoys/?utm_source=rss&utm_medium=rss&utm_campaign=opekepe-1-199-14987-eyro-piso-gia-achreostitos-katavlitheises-enischyseis-se-paragogoys",
@@ -277,6 +285,14 @@
           "description": "Την πρώτη της δημόσια παρέμβαση στα ελληνοτουρκικά πραγματοποίησε η Μαρία Καρυστιανού, ζητώντας από τον πρωθυπουργό Κυριάκο Μητσοτάκη να προχωρήσει σε επίσημη ενημέρωση σχετικά με την ατζέντα της επικείμενης συνάντησής του με τον Ρετζέπ Ταγίπ Ερντογάν. Σε ανάρτησή της στην πλατφόρμα X, και ενώ βρίσκονται σε εξέλιξη οι διεργασίες για την ίδρυση του πολιτικού της φορέα, […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Maria-Karystianou-1-1.jpg",
           "source": "Τα Νέα"
+        },
+        {
+          "title": "Καρυστιανού για ελληνοτουρκικά: «Οποιαδήποτε απεμπόληση της εθνικής κυριαρχίας είναι εθνική προδοσία»",
+          "link": "https://www.tovima.gr/2026/01/26/politics/karystianou-gia-ellinotourkika-opoiadipote-apempolisi-tis-ethnikis-kyriarxias-einai-ethniki-prodosia/",
+          "pubDate": "Mon, 26 Jan 2026 17:04:09 +0300",
+          "description": "Σε ανάρτησή της η Μαρία Καρυστιανού ζητά από τον Κυριάκο Μητσοτάκη να ενημερώσει τον ελληνικό λαό για την ατζέντα της συνάντησής του με τον Ρετζέπ Ταγίπ Ερντογάν.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/10/06/maria-karystianou-e1759758472862-1024x748.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Παυλόπουλος για Καποδίστρια: «Η μνήμη του αποτελεί δείκτη πορείας»",
@@ -477,22 +493,6 @@
           "description": "Αναφορά στο τραγικό δυστύχημα σε εργοστάσιο τροφίμων στα Τρίκαλα έκανε ο πρωθυπουργός ξεκινώντας την εισήγησή του στη σημερινή συνεδρίαση του Υπουργικού Συμβουλίου επισημαίνοντας ότι «η σκέψη μας βρίσκεται με τις οικογένειες των θυμάτων ενώ η πυροσβεστική ερευνά ήδη τις συνθήκες για να αποδοθούν ευθύνες». Τόνισε επίσης,  ότι στις δύσκολες συγκυρίες που διάγουμε είναι κρίσιμη η […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/mitsotakis-9.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Μητσοτάκης: Ψήφος από το σπίτι και στις εθνικές εκλογές – Tο σχέδιο για τους αποδήμους",
-          "link": "https://www.tanea.gr/2026/01/26/politics/mitsotakis-psifos-apo-to-spiti-kai-stis-ethnikes-ekloges-to-sxedio-gia-tous-apodimous/",
-          "pubDate": "Mon, 26 Jan 2026 09:48:22 +0000",
-          "description": "Αναφερόμενος στην επέκταση του δικαιώματος επιστολικής ψήφου των Ελλήνων του εξωτερικού στις εθνικές εκλογές, ο Πρωθυπουργός πρότεινε τη δημιουργία Ειδικής Τριεδρικής Περιφέρειας Απόδημου Ελληνισμού.",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/5005415-1024x683.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Κ. Μητσοτάκης για την τραγωδία στη «Βιολάντα»: Η σκέψη μας με τις οικογένειες των θυμάτων – Ερευνώνται οι συνθήκες για να αποδοθούν ευθύνες",
-          "link": "https://www.naftemporiki.gr/politics/2063834/k-mitsotakis-gia-tin-tragodia-sti-violanta-i-skepsi-mas-me-tis-oikogeneies-ton-thymaton-ereynontai-oi-synthikes-gia-na-apodothoyn-eythynes/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-gia-tin-tragodia-sti-violanta-i-skepsi-mas-me-tis-oikogeneies-ton-thymaton-ereynontai-oi-synthikes-gia-na-apodothoyn-eythynes",
-          "pubDate": "Mon, 26 Jan 2026 09:25:00 +0000",
-          "description": "Με αναφορά στη φονική πυρκαγιά στο εργοστάσιο της «Βιολάντα» στα Τρίκαλα άνοιξε την εισήγησή του στο υπουργικό συμβούλιο ο πρωθυπουργός Κυριάκος Μητσοτάκης.\nΚ. Μητσοτάκης για την τραγωδία στη «Βιολάντα»: Η σκέψη μας με τις οικογένειες των θυμάτων – Ερευνώνται οι συνθήκες για να αποδοθούν ευθύνες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -771,10 +771,10 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Σοκ στο βρετανικό ποδόσφαιρο: Οι κεφαλιές πίσω από τον θάνατο ποδοσφαιριστή",
+          "title": "Σοκ στο βρετανικό ποδόσφαιρο: Οι κεφαλιές πίσω από το θάνατο ποδοσφαιριστή",
           "link": "https://www.gazzetta.gr/football/premier-league/2510352/sok-sto-bretaniko-podosfairo-oi-kefalies-piso-apo-ton-thanato",
           "pubDate": "Mon, 26 Jan 2026 16:50:19 +0200",
-          "description": "Οι πολλές κεφαλιές θεωρείται ότι συνέβαλαν καθοριστικά στην εγκεφαλική νόσο του πρώην διεθνούς Σκωτσέζου αμυντικού Γκόρντον ΜακΚουίν, σύμφωνα με το πόρισμα ιατροδικαστή.",
+          "description": "Οι πολλές κεφαλιές θεωρείται ότι έπαιξαν καθοριστικό ρόλο στην εγκεφαλική νόσο του πρώην διεθνούς Σκωτσέζου αμυντικού Γκόρντον ΜακΚουίν, σύμφωνα με το πόρισμα ιατροδικαστή.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-651912128_1.jpg?itok=I5RDMXoq",
           "source": "Gazzetta"
         },
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Ρεύμα που δεν καταναλώσαμε: Πώς οι συνεπείς καταναλωτές πληρώνουν έναν επιπλέον λογαριασμό – Ο λόγος και η… έκπληξη",
+          "link": "https://panathinaikos24.gr/2026/01/26/617825/reyma-pou-den-katanalosame-pos-oi-synepeis-katanalotes-plironoun-enan-epipleon-logariasmo-o-logos-kai-i-ekpliksi/",
+          "pubDate": "Mon, 26 Jan 2026 15:03:31 +0000",
+          "description": "Οι συνεπείς καταναλωτές πληρώνουν σχεδόν έναν επιπλέον λογαριασμό ρεύματος για να καλύψουν τις ρευματοκλοπές.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-26_09-16-24_777986-1536x1024-1.jpg?fit=1536%2C1024&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Νόριτς – Κόβεντρι με «boost» σε γκολ και πρωτοπόρο",
           "link": "https://panathinaikos24.gr/2026/01/26/617820/norits-koventri-me-boost-se-gkol-kai-protoporo/",
           "pubDate": "Mon, 26 Jan 2026 14:32:34 +0000",
@@ -1198,14 +1206,6 @@
           "pubDate": "Mon, 26 Jan 2026 07:22:25 +0000",
           "description": "H ισοπαλία του Παναθηναϊκού στο Περιστέρι, διατήρησε το -9 από τον Λεβαδειακό και πλέον οι πιθανότητες για ένα ιστορικό κάζο είναι μεγάλες.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5005150.jpg?fit=900%2C593&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "ΤΡΑΓΩΔΙΑ στα Τρίκαλα: Τρεις γυναίκες νεκρές και δύο αγνοούμενες από τη μεγάλη φωτιά στο εργοστάσιο της Βιολάντα",
-          "link": "https://panathinaikos24.gr/2026/01/26/617733/tragodia-sta-trikala-treis-gynaikes-nekres-kai-dyo-agnooumenes-apo-ti-megali-fotia-sto-ergostasio-tis-violanta/",
-          "pubDate": "Mon, 26 Jan 2026 07:00:51 +0000",
-          "description": "Αναφορές και για τέταρτη νεκρή - Πριν τη φωτιά σημειώθηκε έκρηξη - Τραυματίες ακόμη πέντε εργαζόμενοι και ένας πυροσβέστης",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5005288.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
         },
         {
