@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T10:55:28.970Z",
+  "lastUpdated": "2026-01-26T11:00:37.241Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,30 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Οι μεγαλύτερες εργατικές τραγωδίες στην Ελλάδα από την Πετρόλα και την Πυρκάλ μέχρι τη Λάρκο και τη Βιολάντα",
+          "link": "https://www.newsit.gr/ellada/oi-megalyteres-ergatikes-tragodies-stin-ellada-apo-tin-petrola-kai-tin-pyrkal-mexri-ti-larko-kai-ti-violanta/4583695/",
+          "pubDate": "Mon, 26 Jan 2026 10:56:37 +0000",
+          "description": "Τα ξημερώματα της 26ης Ιανουαρίου 2026, η εργασία μετατράπηκε σε θάνατο: μια ισχυρή έκρηξη στο εργοστάσιο της Βιολάντα στα Τρίκαλα κατέστρεψε μια πρότυπη μονάδα παραγωγής, ...  \nTo άρθρο Οι μεγαλύτερες εργατικές τραγωδίες στην Ελλάδα από την Πετρόλα και την Πυρκάλ μέχρι τη Λάρκο και τη Βιολάντα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio-3.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Παναγιώτη Σαντή από το Βόλο",
+          "link": "https://www.newsit.gr/athlitika/o-olympiakos-anakoinose-tin-apoktisi-tou-panagioti-santi-apo-to-volo/4583728/",
+          "pubDate": "Mon, 26 Jan 2026 10:56:26 +0000",
+          "description": "Ο Παναγιώτης Σαντής είναι κι επίσημα παίκτης του Ολυμπιακού, αφού υπέγραψε το νέο του συμβόλαιο με τους Πειραιώτες και παρουσιάστηκε ως νέος παίκτης της ακαδημίας ...  \nTo άρθρο Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Παναγιώτη Σαντή από το Βόλο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/santis-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Κυριάκος Μητσοτάκης: Επιστολική ψήφο για τους Έλληνες του εξωτερικού και στις εθνικές εκλογές",
+          "link": "https://www.newsit.gr/politikh/kyriakos-mitsotakis-epistoliki-psifo-gia-tous-ellines-tou-eksoterikou-kai-stis-ethnikes-ekloges/4583721/",
+          "pubDate": "Mon, 26 Jan 2026 10:54:53 +0000",
+          "description": "Τη θεσμική τομή της επιστολικής ψήφου των Ελλήνων του εξωτερικού στις εθνικές εκλογές του 2027 έθεσε στο επίκεντρο της εισήγησής του, το πρωί της Δευτέρας ...  \nTo άρθρο Κυριάκος Μητσοτάκης: Επιστολική ψήφο για τους Έλληνες του εξωτερικού και στις εθνικές εκλογές δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekloges-kalpi-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Δήμαρχος Μήλου: Έχουμε καταθέσει αίτηση αναστολής, θεωρώ ότι μέσα στη εβδομάδα θα έχουμε αποτέλεσμα και παρέμβαση του ΣτΕ",
           "link": "https://www.protothema.gr/greece/article/1763479/dimarhos-milou-ehoume-katathesei-aitisi-anastolis-theoro-oti-mesa-sti-evdomada-tha-ehoume-paremvasi-tou-ste/?utm_source=rss",
@@ -193,6 +217,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Κίνα προς ΗΠΑ: Η εμπορική συμφωνία με τον Καναδά δεν στρέφεται κατά τρίτων",
+          "link": "https://www.in.gr/2026/01/26/world/kina-pros-ipa-emporiki-symfonia-ton-kanada-den-strefetai-kata-triton/",
+          "pubDate": "Mon, 26 Jan 2026 12:58:16 +0300",
+          "description": "Καναδάς και οι ΗΠΑ βρίσκονται σε εμπορικό πόλεμο από τότε που η κυβέρνηση Τραμπ επέβαλε εισαγωγικούς δασμούς στον βόρειο γείτονά της. Η συμφωνία με Κίνα έριξε λάδι στη φωτιά.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kanada-kina-in.gr_-768x504.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Τζόκερ: Σε Ηράκλειο Κρήτης και Φλώρινα τα δύο τυχερά δελτία που κερδίζουν από 7,5 εκατομμύρια ευρώ",
           "link": "https://www.newsit.gr/ellada/tzoker-se-irakleio-kritis-kai-florina-ta-dyo-tyxera-deltia-pou-kerdizoun-apo-7-5-ekatommyria-eyro/4583641/",
           "pubDate": "Mon, 26 Jan 2026 09:56:04 +0000",
@@ -215,38 +247,6 @@
           "description": "Νέο εγχειρίδιο του Στρατού για τα UAV - Πώς χρησιμοποιούνται και πώς αντιμετωπίζονται τα drones στο πεδίο μάχης",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/drones12__2_.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Η Κάιλι, ο έρωτας και το Όσκαρ – Μπορεί ο Τιμοτέ Σαλαμέ να σπάσει την «κατάρα» των Καρντάσιαν;",
-          "link": "https://www.in.gr/2026/01/26/go-fun/perierga/kaili-o-erotas-kai-oskar-mporei-o-timote-salame-na-spasei-tin-katara-ton-karntasian/",
-          "pubDate": "Mon, 26 Jan 2026 12:50:59 +0300",
-          "description": "Αν το βράδυ της 15ης Μαρτίου ο Τιμοτέ Σαλαμέ φύγει από το Dolby Theatre του Λος Άντζελες αγκαλιά με το βραβείο Όσκαρ, δεν θα είναι μόνο μια μεγάλη νίκη για εκείνον αλλά και για την οικογένεια Καρντάσιαν.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/timothee-chalamet-kylie-jenner2.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Χρυσός και ασήμι προειδοποιούν για κρίση… πανικού;",
-          "link": "https://www.newsit.gr/blogs/oikonoklastika/xrysos-kai-asimi-proeidopoioun-gia-krisi-panikou/4583646/",
-          "pubDate": "Mon, 26 Jan 2026 09:50:00 +0000",
-          "description": "Η ραγδαία άνοδος των δολαριακών τιμών σε χρυσό και ασήμι, ιδιαίτερα μετά τα όσα έχουν μεσολαβήσει το τελευταίο 48ωρο του Νταβός έχει ξεπεράσει κάθε προηγούμενο ...  \nTo άρθρο Χρυσός και ασήμι προειδοποιούν για κρίση… πανικού; δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gold-silver-reuters-1200x675-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός: Ο διαιτητής Φρανσουά Λετεσιέ ορίστηκε στον «τελικό» πρόκρισης του Champions League",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-o-diaititis-fransoua-letesie-oristike-ston-teliko-prokrisis-tou-champions-league/4583634/",
-          "pubDate": "Mon, 26 Jan 2026 09:47:45 +0000",
-          "description": "Ο Ολυμπιακός θα αντιμετωπίσει την Τετάρτη (28/01/26, 22:00, Live από το Newsit.gr) τον Άγιαξ για την 8η και τελευταία αγωνιστική της League Phase του Champions ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Ο διαιτητής Φρανσουά Λετεσιέ ορίστηκε στον «τελικό» πρόκρισης του Champions League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/letexie-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Mamba Forever»: Η μέρα που «έφυγε» από τη ζωή ο «θρύλος», Κόμπι Μπράιαντ (vids)",
-          "link": "https://www.in.gr/2026/01/26/sports/basketball/otan-o-black-mamba-sigise-eksi-xronia-apo-to-tragiko-dystyxima-tou-kompi-vids/",
-          "pubDate": "Mon, 26 Jan 2026 12:47:37 +0300",
-          "description": "Συμπληρώθηκαν 6 χρόνια από τον θάνατο του Κόμπι Μπράιαντ και της κόρης του Τζιάνα, μαζί με επτά ακόμη ανθρώπους σε συντριβή ελικοπτέρου.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kobe-2-768x515.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "Galacticos LIVE by Interwetten: Κατηφόρα χωρίς τέλος για ΠΑΟ, Γιόβιτς & Ελ Καμπί οδηγούν ΑΕΚ & ΟΣΦΠ",
+          "link": "https://www.gazzetta.gr/football/superleague/2510283/galacticos-live-interwetten-katifora-horis-telos-gia-pao-giobits-el",
+          "pubDate": "Mon, 26 Jan 2026 13:00:00 +0200",
+          "description": "Οι «Galacticos» του Gazzetta συζητούν για την κατηφόρα χωρίς τέλος του Παναθηναϊκού, αλλά και τους Γιόβιτς και Ελ Καμπί που οδηγούν ΑΕΚ και Ολυμπιακό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/youtube-thumb-interwetten-kostas_4.jpg?itok=OH-jLzv2",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Χωρίς σταθερό μοντέλο παιχνιδιού, η ζωή του Παναθηναϊκού δύσκολα θα γίνει καλύτερη",
+          "link": "https://www.gazzetta.gr/football/superleague/2510281/panathinaikos-horis-stathero-montelo-paihnidioy-i-zoi-toy",
+          "pubDate": "Mon, 26 Jan 2026 13:00:00 +0200",
+          "description": "Ο Νίκος Αθανασίου γράφει για μία ομάδα που από παιχνίδι σε παιχνίδι παρουσιάζεται διαφορετική, χειρότερη και με αριθμούς που προβληματίζουν για την επιθετική και ανασταλτική της λειτουργία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kyriakopoulos_intime_2.jpg?itok=xRs0YUeX",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Ο Παναγιώτης Σαντής πέτυχε δύο γκολ κόντρα στους Πειραιώτες και έμεινε στο... Ρέντη",
+          "link": "https://www.gazzetta.gr/football/superleague/2510289/olympiakos-o-panagiotis-santis-petyhe-dyo-gkol-kontra-stoys-peiraiotes",
+          "pubDate": "Mon, 26 Jan 2026 12:58:44 +0200",
+          "description": "Σε μία κίνηση με βλέμμα στο μέλλον προχώρησε ο Ολυμπιακός καθώς ανακοίνωσε την απόκτηση του 18χρονου φορ Παναγιώτη Σαντή από τον Βόλο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/santis_0.jpg?itok=64YAuqKI",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Παναγιώτη Σαντή από το Βόλο",
+          "link": "https://www.newsit.gr/athlitika/o-olympiakos-anakoinose-tin-apoktisi-tou-panagioti-santi-apo-to-volo/4583728/",
+          "pubDate": "Mon, 26 Jan 2026 10:56:26 +0000",
+          "description": "Ο Παναγιώτης Σαντής είναι κι επίσημα παίκτης του Ολυμπιακού, αφού υπέγραψε το νέο του συμβόλαιο με τους Πειραιώτες και παρουσιάστηκε ως νέος παίκτης της ακαδημίας ...  \nTo άρθρο Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Παναγιώτη Σαντή από το Βόλο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/santis-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Euroleague: Συνάντηση του Μοτιεγιούνας με τον Ευρωπαίο Επίτροπο στις Βρυξέλλες",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510287/euroleague-synantisi-toy-motiegioynas-me-ton-eyropaio-epitropo-stis",
           "pubDate": "Mon, 26 Jan 2026 12:51:38 +0200",
@@ -953,38 +985,6 @@
           "description": "Η βρετανική ομάδα έδειξε τις πρώτες φωτογραφίες του νέου της μονοθεσίου, το οποίο θα κάνει ντεμπούτο στις δοκιμές της Βαρκελώνης.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/g_k07ynwuaal-ov1.jpg?itok=M4b3VsWZ",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Τι είναι η ICE, η αστυνομία του Τραμπ που έχει προκαλέσει το χάος στις ΗΠΑ: Πότε μπορούν οι πράκτορες να πυροβολήσουν (vid)",
-          "link": "https://www.gazzetta.gr/plus/2510265/ti-einai-i-ice-i-astynomia-toy-tramp-poy-ehei-prokalesei-haos-stis-ipa-pote-mporoyn-oi",
-          "pubDate": "Mon, 26 Jan 2026 11:00:01 +0200",
-          "description": "Η ICE των ΗΠΑ, υπό τη διοίκηση του Ντόναλντ Τραμπ αποτελεί τον κεντρικό βραχίονα για την υλοποίηση της μεγαλύτερης επιχείρησης μαζικών απελάσεων στην ιστορία της χώρας.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ice-ee.jpg?itok=tIJ4QJ5f",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τζόσεφ: «Συμφώνησα αμέσως, η ιστορία του Ολυμπιακού μιλά από μόνη της»",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2510255/tzosef-symfonisa-amesos-i-istoria-toy-olympiakoy-mila-apo-moni-tis",
-          "pubDate": "Mon, 26 Jan 2026 10:54:44 +0200",
-          "description": "Ο Κόρι Τζόσεφ μίλησε για τη συμφωνία του με τον Ολυμπιακό, αλλά και στο κίνητρο που έχει.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/joseph3.jpg?itok=lCqZxTqG",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Ολυμπιακός «έκλεισε» τον 19χρονο Παναγιώτη Σαντή του Βόλου",
-          "link": "https://www.newsit.gr/athlitika/o-olympiakos-ekleise-ton-19xrono-panagioti-santi-tou-volou/4583535/",
-          "pubDate": "Mon, 26 Jan 2026 08:38:37 +0000",
-          "description": "Στον Ολυμπιακό φαίνεται ότι θα συνεχίσει την καριέρα του ο αρχηγός της ομάδας κάτω των 19 ετών του Βόλου, αφού θεωρείται θέμα χρόνου η ολοκλήρωση ...  \nTo άρθρο Ο Ολυμπιακός «έκλεισε» τον 19χρονο Παναγιώτη Σαντή του Βόλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/santis-1200x950.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ζήνα Κουτσελίνη: «Έχω αφαιρέσει στήθος γιατί ήταν λίγο πιο μπαμπάτσικο - Πρώτα με κοιτούσαν εκεί» (vid)",
-          "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
-          "pubDate": "Mon, 26 Jan 2026 10:34:00 +0200",
-          "description": "Η συνέντευξη της Αφροδίτης Λατινοπούλου στον Τάσο Ξιαρχό",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/zina-koutselini_20_281_29.jpg.png?itok=COIJPg5K",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,30 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Αντίνο: Τι συμβαίνει με το ντεμπούτο του με το «Τριφύλλι»",
+          "link": "https://trifilara.gr/antino-ti-symvainei-me-to-ntebouto-tou-me-to-trifylli/?utm_source=rss&utm_medium=rss&utm_campaign=antino-ti-symvainei-me-to-ntebouto-tou-me-to-trifylli",
+          "pubDate": "Mon, 26 Jan 2026 10:59:35 +0000",
+          "description": "H επίσημη ανακοίνωση του Σαντίνο Αντίνο από τον Παναθηναϊκό άνοιξε νέα σελίδα για το «Τριφύλλι», όμως πλέον το μεγάλο ερώτημα δεν είναι το… αν, αλλά το πότε θα έρθει η στιγμή που ο Αργεντινός θα πατήσει για πρώτη φορά χορτάρι με τα «πράσινα».\nThe post Αντίνο: Τι συμβαίνει με το ντεμπούτο του με το «Τριφύλλι» appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Επίσημο το ΜΠΑΜ: «Φίνο κορίτσι» και η Στράντζαλη!",
+          "link": "https://panathinaikos24.gr/2026/01/26/617780/episimo-to-mpam-fino-koritsi-kai-i-strantzali/",
+          "pubDate": "Mon, 26 Jan 2026 10:56:23 +0000",
+          "description": "Σπουδαία προσθήκη για τον Παναθηναϊκό!",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/olg.jpg?fit=1656%2C749&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Ανησυχία με Τσιριβέγια στον Παναθηναϊκό!",
+          "link": "https://trifilara.gr/anisychia-me-tsirivegia-ston-panathinaiko/?utm_source=rss&utm_medium=rss&utm_campaign=anisychia-me-tsirivegia-ston-panathinaiko",
+          "pubDate": "Mon, 26 Jan 2026 10:56:15 +0000",
+          "description": "Ένα ακόμη πρόβλημα τραυματισμού ήρθε να προστεθεί για τον Παναθηναϊκό.\nThe post Ανησυχία με Τσιριβέγια στον Παναθηναϊκό! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
         {
           "title": "Δεσύλλας: «Μπερδεμένος και χωρίς ταυτότητα ο Παναθηναϊκός, συνεχίζει να ψάχνεται ο Μπενίτεθ – Μοναδικό κέρδος ο Σάντσες»",
           "link": "https://panathinaikos24.gr/2026/01/26/617775/desyllas-mperdemenos-kai-xoris-taytotita-o-panathinaikos-synexizei-na-psaxnetai-o-mpeniteth-monadiko-kerdos-o-santses/",
@@ -1207,30 +1231,6 @@
           "description": "Ο Ράφα Μπενίτεθ μίλησε στην μετά την ολοκλήρωση της αναμέτρησης του Παναθηναϊκού και σχολίασε τα όσα έγιναν στην αναμέτρηση του «Τριφυλλιού» με τον Ατρόμητο.\nThe post Τα πρώτα λόγια του Μπενίτεθ μετά το Ατρόμητος – Παναθηναϊκός appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "«Ναυάγιο» για τον Παναθηναϊκό στη Σύρο",
-          "link": "https://panathinaikos24.gr/2026/01/25/617678/nayagio-gia-ton-panathinaiko-sti-syro/",
-          "pubDate": "Sun, 25 Jan 2026 18:40:43 +0000",
-          "description": "Ο Παναθηναϊκός κατάφερε να γνωρίσει ήττα-πισωγύρισμα στη Σύρο, από τον Φοίνικα με 3-2 σετ και να χάσει πολύτιμο έδαφος για την κορυφή.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6805805.jpg?fit=900%2C599&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "ΚΑΤΑΓΓΕΛΙΑ-ΣΟΚ από τον παίκτη που είχε τη σύρραξη με Βεζένκοφ!",
-          "link": "https://panathinaikos24.gr/2026/01/25/617661/kataggelia-sok-apo-ton-paikti-pou-eixe-ti-syrraksi-me-vezenkof/",
-          "pubDate": "Sun, 25 Jan 2026 17:47:45 +0000",
-          "description": "Σοκαριστική καταγγελία από τον παίκτη του Κολοσσού που είχε διένεξη με τον Σάσα Βεζένκοφ!",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6789876.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Live η δύσκολη έξοδος του τριφυλλιού στο Περιστέρι: Aτρόμητος-Παναθηναϊκός",
-          "link": "https://panathinaikos24.gr/2026/01/25/617643/live-i-dyskoli-eksodos-tou-trifylliou-sto-peristeri-atromitos-panathinaikos/",
-          "pubDate": "Sun, 25 Jan 2026 17:10:16 +0000",
-          "description": "Παρακολουθήστε live από το Panathinaikos24.gr την εξέλιξη της αναμέτρησης του Παναθηναϊκού στην έδρα του Ατρομήτου στο Περιστέρι για την 18η αγωνιστική της Stoiximan Super League.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6825404.jpg?fit=900%2C548&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
@@ -1238,6 +1238,14 @@
       "title": "ΤΕΧΝΟΛΟΓΙΑ & SCIENCE",
       "color": "pink",
       "articles": [
+        {
+          "title": "OpenMC: Ο «ψηφιακός αρχιτέκτονας» που επαναπροσδιορίζει την πυρηνική ενέργεια και τη σύντηξη",
+          "link": "https://www.techgear.gr/openmc-o-psifiakos-architektonas-poy-epanaprosdiorizei-tin-pyriniki-energeia-kai-ti-syntixi-47321",
+          "pubDate": "Mon, 26 Jan 2026 12:59:00 +0200",
+          "description": "Το OpenMC, δημιουργία του Εθνικού Εργαστηρίου Argonne (ANL) των ΗΠΑ και του MIT, αναδεικνύεται σε κρίσιμο σύμμαχο για την ανάπτυξη της επόμενης γενιάς...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/argonne-flux.jpg",
+          "source": "Techgear"
+        },
         {
           "title": "Super Mario Galaxy Movie: Νέο trailer και πρώτη ματιά σε Yoshi και Birdo",
           "link": "https://www.techgear.gr/super-mario-galaxy-movie-neo-trailer-kai-proti-matia-se-yoshi-kai-birdo-47320",
@@ -1468,14 +1476,6 @@
           "pubDate": "Sun, 25 Jan 2026 14:43:00 +0200",
           "description": "Η Meta αποφάσισε να παγώσει προσωρινά την πρόσβαση των εφήβων στους χαρακτήρες τεχνητής νοημοσύνης (AI characters) στις πλατφόρμες της. Η ανακοίνωση, ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/meta-ai-characters-teens.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Τέλος στο μύθο της ιδιωτικότητας: Η Microsoft παραδίδει τα κλειδιά κρυπτογράφησης στο FBI",
-          "link": "https://www.techgear.gr/telos-sto-mytho-tis-idiotikotitas-i-microsoft-paradidei-ta-kleidia-kryptografisis-sto-fbi-47307",
-          "pubDate": "Sun, 25 Jan 2026 14:36:00 +0200",
-          "description": "Μια νέα πραγματικότητα διαμορφώνεται για εκατομμύρια χρήστες Windows παγκοσμίως, καθώς πρόσφατες αποκαλύψεις φέρνουν στο φως τη συνεργασία της ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/microsoft-bitlocker-keys-fbi.jpg",
           "source": "Techgear"
         }
       ]
