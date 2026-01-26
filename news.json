@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T03:00:42.501Z",
+  "lastUpdated": "2026-01-26T03:05:25.159Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Φιλιππίνες: Πολύνεκρο ναυάγιο πορθμείου στη νήσο Μπασίλαν",
+          "link": "https://www.in.gr/2026/01/26/world/filippines-polynekro-nayagio-porthmeiou-sti-niso-mpasilan/",
+          "pubDate": "Mon, 26 Jan 2026 05:00:53 +0300",
+          "description": "Ναυάγιο πορθμείου στις Φιλιππίνες οδήγησε στον θάνατο τουλάχιστον 8 ανθρώπους, ενώ έγινε γνωστό ότι από τους 342 επιβαίνοντες σε αυτό τουλάχιστον 138 έχουν διασωθεί.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ferry-srink-768x532.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Καιρός σήμερα: Βροχές, καταιγίδες και άνεμοι έως 9 μποφόρ – Αναλυτική πρόγνωση",
           "link": "https://www.newsit.gr/ellada/kairos-simera-vroxes-kataigides-kai-anemoi-eos-9-mpofor-analytiki-prognosi/4583136/",
@@ -239,14 +247,6 @@
           "description": "Βίντεο που δείχνει τους ομοσπονδιακούς πράκτορες να παλεύουν με τον Άλεξ Πρέτι, δείχνει πως περισσότερο δολοφονήθηκε παρά σκοτώθηκε αποτελώντας απειλή προς τις αρχές.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T203636Z_1146812914_RC2B8JAU7DCT_RTRMADP_5_USA-TRUMP-MINNESOTA-768x513.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Ο Εμμανουήλ Καραλής ξεκίνησε εντυπωσιακά και το 2026 με άλμα στα 5,93 μέτρα στην Πολωνία",
-          "link": "https://www.newsit.gr/athlitika/o-emmanouil-karalis-ksekinise-entyposiaka-kai-to-2026-me-alma-sta-5-93-metra-stin-polonia/4583303/",
-          "pubDate": "Sun, 25 Jan 2026 20:47:48 +0000",
-          "description": "Ο Εμμανουήλ Καραλής μπήκε με το… δεξί και στο 2026, αφού πέτυχε με το… καλημέρα την καλύτερη επίδοση στον κόσμο στο άλμα επί κοντώ, παίρνοντας τη ...  \nTo άρθρο Ο Εμμανουήλ Καραλής ξεκίνησε εντυπωσιακά και το 2026 με άλμα στα 5,93 μέτρα στην Πολωνία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/karalis-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
