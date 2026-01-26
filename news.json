@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T19:35:31.798Z",
+  "lastUpdated": "2026-01-26T19:40:35.391Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πάνω από 800 κλήσεις για μη χρήση κράνους σε μια εβδομάδα",
+          "link": "https://www.protothema.gr/greece/article/1763809/pano-apo-800-kliseis-gia-mi-hrisi-kranous-se-mia-evdomada/?utm_source=rss",
+          "pubDate": "Mon, 26 Jan 2026 21:37:00 +0200",
+          "description": "Το διάστημα 19/01/2026-25/01/2026 πραγματοποιήθηκαν 13.720 έλεγχοι από την ΕΛΑΣ στο πλαίσιο της εκστρατείας «Μηδενική ανοχή στη μη χρήση κράνους»",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/5033553.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "«O Παναθηναϊκός ανάμεσα στις ομάδες που ενδιαφέρονται για τον Ουλίσες Γκαρσία» σύμφωνα με γερμανικό δημοσίευμα",
           "link": "https://www.newsit.gr/athlitika/o-panathinaikos-anamesa-stis-omades-pou-endiaferontai-gia-ton-oulises-gkarsia-symfona-me-germaniko-dimosieyma/4584197/",
@@ -121,6 +129,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Η προσπάθεια της Σαουδικής Αραβίας για δημιουργία «Ισλαμικού ΝΑΤΟ», ο ρόλος της Τουρκίας και η Αθήνα",
+          "link": "https://www.in.gr/2026/01/26/politics/prospatheia-tis-saoudikis-aravias-gia-dimiourgia-islamikou-nato-o-rolos-tis-tourkias-kai-athina/",
+          "pubDate": "Mon, 26 Jan 2026 21:36:14 +0300",
+          "description": "Οι ανακατατάξεις στην ευρύτερη περιοχή της Μέσης Ανατολής κάνουν τη Σαουδική Αραβία να αναζητά αναβαθμισμένο ρόλο επιδιώκοντας νέες συμμαχίες.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/h0519074-e1732912663343-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "«Δεν ήξερα καν πώς να πυροβολώ»: Πώς νεαροί Αφρικανοί εξαπατήθηκαν για να πολεμήσουν για τη Ρωσία",
+          "link": "https://www.in.gr/2026/01/26/world/den-iksera-kan-pos-na-pyrovolo-pos-nearoi-afrikanoi-eksapatithikan-gia-na-polemisoun-gia-ti-rosia/",
+          "pubDate": "Mon, 26 Jan 2026 21:36:00 +0300",
+          "description": "Προσελκύονται από ψευδείς αγγελίες εργασίας, κατατάσσονται εν αγνοία τους κατά την άφιξή τους στη Ρωσία και τίθενται σε θανάσιμο κίνδυνο",
+          "thumbnail": null,
+          "source": "In.gr"
+        },
+        {
           "title": "Τραγωδία στην Κύπρο: 4χρονο κορίτσι πέθανε από γρίπη Α",
           "link": "https://www.newsit.gr/kosmos/tragodia-stin-kypro-4xrono-koritsi-pethane-apo-gripi-a/4584174/",
           "pubDate": "Mon, 26 Jan 2026 18:35:30 +0000",
@@ -223,30 +247,6 @@
           "description": "Προβλήματα στις πτήσεις του αεροδρομίου Ηρακλείου «Νίκος Καζαντζάκης» δημιούργησαν τα έντονα φαινόμενα του καιρού, με έντονες βροχές και καταιγίδες.  Σύμφωνα με τα όσα είπε στο ...  \nTo άρθρο Ηράκλειο: Καθυστερήσεις και ακυρώσεις πτήσεων στο αεροδρόμιο λόγω της κακοκαιρίας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kazantzakis-1200x745.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Πορτογαλία: Βίντεο από την κατάσχεση 9 τόνων κοκαΐνης από «ναρκο-υποβρύχιο» στο αρχιπέλαγος των Αζορών",
-          "link": "https://www.newsit.gr/kosmos/portogalia-vinteo-apo-tin-katasxesi-9-tonon-kokainis-apo-narko-ypovryxio-sto-arxipelagos-ton-azoron/4584154/",
-          "pubDate": "Mon, 26 Jan 2026 18:01:52 +0000",
-          "description": "Περίπου εννέα τόνους κοκαΐνη από ένα «ναρκο-υποβρύχιο» κατάσχεσαν οι αρχές στην Πορτογαλία σε μία εντυπωσιακή θαλάσσια επιχείρηση στα ανοικτά του αρχιπελάγους των Αζορών. Το «ναρκο-υποβρύχιο» ...  \nTo άρθρο Πορτογαλία: Βίντεο από την κατάσχεση 9 τόνων κοκαΐνης από «ναρκο-υποβρύχιο» στο αρχιπέλαγος των Αζορών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/portugal-cocaine-26012026.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τάνια Τσανακλίδου: Όταν τραγούδησα το «Μαμά γερνάω», πήρα ένα κασετόφωνο και πήγα στο μνήμα της μητέρας μου",
-          "link": "https://www.newsit.gr/lifestyle/tania-tsanaklidou-otan-tragoudisa-to-mama-gernao-pira-ena-kasetofono-kai-piga-sto-mnima-tis-miteras-mou/4584140/",
-          "pubDate": "Mon, 26 Jan 2026 18:01:20 +0000",
-          "description": "Παρόλο που όπως δηλώνει δε συμπαθεί την τηλεόραση και την αποφεύγει όσο μπορεί, η Τάνια Τσανακλίδου έκανε μία εξαίρεση και έδωσε μία σπάνια και άκρως ...  \nTo άρθρο Τάνια Τσανακλίδου: Όταν τραγούδησα το «Μαμά γερνάω», πήρα ένα κασετόφωνο και πήγα στο μνήμα της μητέρας μου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tania-tsanaklidoy-ndp-1200x722.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγνοια και εθνικιστικές κορώνες από τη Μαρία Καρυστιανού στην παρθενική παρέμβασή της για τα ελληνοτουρκικά",
-          "link": "https://www.in.gr/2026/01/26/politics/politiki-grammateia/agnoia-kai-ethnikistikes-korones-apo-ti-maria-karystianou-stin-partheniki-paremvasi-tis-gia-ta-ellinotourkika/",
-          "pubDate": "Mon, 26 Jan 2026 21:00:18 +0300",
-          "description": "«Να κρίνουν οι Έλληνες», λίγο διεθνές δίκαιο και καρφί για «εθνική προδοσία»: φράσεις ατάκτως ερριμμένες στην επικίνδυνα απλοϊκή παρθενική παρέμβαση από τη Μαρία Καρυστιανού για τα ελληνοτουρκικά",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6GK47429-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -763,14 +763,6 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Ο Μπενίτεθ έχει σανίδα σωτηρίας το Κύπελλο",
-          "link": "https://www.gazzetta.gr/football/superleague/2510379/panathinaikos-o-mpeniteth-ehei-sanida-sotirias-kypello",
-          "pubDate": "Mon, 26 Jan 2026 21:30:54 +0200",
-          "description": "Ο Γιώργος Σακελλαρίου εξηγεί στο blog του γιατί το Κύπελλο μοιάζει να είναι το τελευταίο στήριγμα για τον Παναθηναϊκό του Μπενίτεθ και πόσο σημαντική είναι η τετράδα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mpeniteth_3.jpg?itok=qXXIxWY0",
-          "source": "Gazzetta"
-        },
-        {
           "title": "«O Παναθηναϊκός ανάμεσα στις ομάδες που ενδιαφέρονται για τον Ουλίσες Γκαρσία» σύμφωνα με γερμανικό δημοσίευμα",
           "link": "https://www.newsit.gr/athlitika/o-panathinaikos-anamesa-stis-omades-pou-endiaferontai-gia-ton-oulises-gkarsia-symfona-me-germaniko-dimosieyma/4584197/",
           "pubDate": "Mon, 26 Jan 2026 19:30:52 +0000",
@@ -984,6 +976,14 @@
           "pubDate": "Mon, 26 Jan 2026 19:15:01 +0200",
           "description": "Ο Λεβαδειακός γνωστοποίησε με κάθε επισημότητα την μεταγραφή του Γιώργου Νίκα πίσω στην ομάδα της καρδιάς του.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/welcome_nikas-696x522.jpg?itok=m1tyOp6w",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΟΦΗ: «Βαρύ» πρόστιμο για το Super Cup",
+          "link": "https://www.gazzetta.gr/football/super-cup-elladas/2510383/ofi-bary-prostimo-gia-super-cup",
+          "pubDate": "Mon, 26 Jan 2026 19:14:03 +0200",
+          "description": "Ο ΟΦΗ τιμωρήθηκε με πρόστιμο της τάξης των 12.500 ευρώ για το Super Cup με τον Ολυπιακό στο Πακγρήτιο Στάδιο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ofi-ejedra.jpg?itok=YmZRWZ03",
           "source": "Gazzetta"
         }
       ]
