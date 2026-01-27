@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-27T20:35:28.486Z",
-  "totalArticles": 180,
+  "lastUpdated": "2026-01-27T20:40:36.565Z",
+  "totalArticles": 178,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
@@ -97,12 +97,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Θερμοκήπια: Πώς μπορούν να αλλάξουν το παιχνίδι στη Γεωργία",
+          "link": "https://www.in.gr/2026/01/27/economy/agro-in/thermokipia-pos-mporoun-na-allaksoun-paixnidi-sti-georgia/",
+          "pubDate": "Tue, 27 Jan 2026 22:38:24 +0300",
+          "description": "Το στοίχημα των 3.500 στρεμμάτων και των 10.202 θέσεων εργασίας για τα θερμοκήπια υδροπονίας  – Τι δείχνει μελέτη του ΙΟΒΕ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ΜΑΝΩΛΑΔΑ-768x511.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Άγιαξ – Ολυμπιακός: Η τελευταία προπόνηση των Πειραιωτών πριν τον «τελικό» πρόκρισης στα νοκ άουτ του Champions League",
           "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-i-teleytaia-proponisi-ton-peiraioton-prin-ton-teliko-prokrisis-sta-nok-aout-tou-champions-league/4585141/",
           "pubDate": "Tue, 27 Jan 2026 19:37:02 +0000",
           "description": "Ο Ολυμπιακός θα αντιμετωπίσει τον Άγιαξ για την τελευταία αγωνιστική του Champions League (28/01/26, 22:00) και ολοκλήρωσε την προετοιμασία του με την τελευταία προπόνηση στη ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Η τελευταία προπόνηση των Πειραιωτών πριν τον «τελικό» πρόκρισης στα νοκ άουτ του Champions League δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olumpiacos-4-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Συγκλονιστικό βίντεο με οπαδό του ΠΑΟΚ μέσα στο νοσοκομείο: «Το όνομά σου σε παρακαλώ; – Μάριος»",
+          "link": "https://www.in.gr/2026/01/27/sports/football/sygklonistiko-vinteo-opado-tou-paok-mesa-sto-nosokomeio-onoma-sou-se-parakalo-marios/",
+          "pubDate": "Tue, 27 Jan 2026 22:35:46 +0300",
+          "description": "Δείτε το βίντεο του STAR από το νοσοκομείο όπου διακομίστηκαν οι τραυματίες οπαδοί του ΠΑΟΚ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/untitled_161307-768x466.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Τρύπα σε σωλήνες προπανίου εντοπίστηκε στο υπόγειο του εργοστασίου Βιολάντα",
@@ -231,22 +247,6 @@
           "description": "Σύμφωνα με πληροφορίες οι έρευνες των έμπειρων αξιωματικών της ΔΑΕΕ έχουν εντοπίσει σοβαρές αστοχίες στις σωληνώσεις αλλά και στο σύστημα ανίχνευσης διαρροής στο εργοστάσιο Βιολάντα",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/PYRKAGIA-VIOLANTA-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Συλλυπητήρια Νίκου Γκάλη: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι» (pic)",
-          "link": "https://www.in.gr/2026/01/27/sports/football/syllypitiria-nikou-gkali-einai-eksairetika-lypiro-na-xanoun-ti-zoi-tous-neoi-anthropoi-pic/",
-          "pubDate": "Tue, 27 Jan 2026 22:00:23 +0300",
-          "description": "Στο τραγικό δυστύχημα στη Ρουμανία, στο οποίο έχασαν τη ζωή τους φίλαθλοι του ΠΑΟΚ, αναφέρθηκε με ανάρτησή του ο Νίκος Γκάλης",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Gkalis-1-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Λουτσέσκου για το δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία: «Είναι μία τραγωδία, η θλίψη είναι τεράστια»",
-          "link": "https://www.newsit.gr/athlitika/loutseskou-gia-to-dystyxima-ton-opadon-tou-paok-sti-roumania-einai-mia-tragodia-i-thlipsi-einai-terastia/4585109/",
-          "pubDate": "Tue, 27 Jan 2026 18:59:24 +0000",
-          "description": "Η οικογένεια του ΠΑΟΚ θρηνεί την απώλεια επτά οπαδών της, μετά το τραγικό δυστύχημα στη Ρουμανία και ο Λουτσέσκου μίλησε σε ρουμάνικο μέσο για το ...  \nTo άρθρο Λουτσέσκου για το δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία: «Είναι μία τραγωδία, η θλίψη είναι τεράστια» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lucescu-1-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,12 +501,12 @@
       "color": "blue",
       "articles": [
         {
-          "title": "Μείωση αιτήσεων ασύλου και απονομών ιθαγένειας στη Γαλλία το 2025",
-          "link": "http://gr.euronews.com/my-europe/2026/01/27/meiwsh-aithsewn-asyloy-kai-aponomwn-i8ageneias-sth-gallia-to-2025",
-          "pubDate": "Tue, 27 Jan 2026 21:28:28 +0100",
-          "description": "Αυστηρότερα κριτήρια παραμονής και πολιτογράφησης μετά τις εγκυκλίους Ρεταγιό",
-          "thumbnail": null,
-          "source": "Euronews"
+          "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
+          "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 20:39:46 GMT",
+          "description": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fb/live/714cbd90-fb9c-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
         },
         {
           "title": "TikTok US pushes back on claims it is censoring content",
@@ -555,14 +555,6 @@
           "description": "Οι αναλυτές συμφωνούν ότι το καθεστώς του Ιράν αποφάσισε μαζικές δολοφονίες για να επιβιώσει των διαδηλώσεων που προκλήθηκαν από την οικονομική κατάρρευση, με σαφείς εντολές για θανατηφόρα βία εναντίον άοπλων διαδηλωτών.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
-          "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 17:38:09 GMT",
-          "description": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fb/live/714cbd90-fb9c-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
         },
         {
           "title": "Γαλλίδα βουλευτής ζητά «να λάμψει η αλήθεια» στη δίκη πρώην γερουσιαστή",
@@ -739,6 +731,14 @@
           "description": "Το Αμερικανικό Ναυτικό χαρακτηρίζει το USS Abraham Lincoln ως «το μεγαλύτερο πολεμικό πλοίο στον κόσμο», ικανό να μεταφέρει πάνω από 65 αεροσκάφη και 97.000 τόνους εξοπλισμού.",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "Εκατοντάδες Μπαγκλαντεσιανοί εξαπατήθηκαν και στάλθηκαν ως στρατιώτες στη Ρωσία",
+          "link": "http://gr.euronews.com/2026/01/27/ekatontades-mpagklantesianoi-e3apath8hkan-kai-stal8hkan-ws-stratiwtes-sth-rwsia",
+          "pubDate": "Tue, 27 Jan 2026 15:40:24 +0100",
+          "description": "Υποσχέσεις για δουλειά μετατράπηκαν σε στρατιωτικά καθήκοντα στο μέτωπο – τουλάχιστον 40 αγνοούμενοι ή νεκροί",
+          "thumbnail": null,
+          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Εμμανουηλίδου: «Τα συλλυπητήριά στην οικογένεια του ΠΑΟΚ»",
+          "link": "https://www.gazzetta.gr/volleyball/volleyball-champions-league/2510758/emmanoyilidoy-ta-syllypitiria-stin-oikogeneia-toy",
+          "pubDate": "Tue, 27 Jan 2026 22:39:19 +0200",
+          "description": "Η αρχηγός του Ολυμπιακού, Μελίνα Εμμανουηλίδου μετά τον αγώνα με την Μιλάνο στάθηκε στον χαμό των 7 φίλων του ΠΑΟΚ εκφράζοντας τα συλλυπητήριά της.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/5006436_1.jpg?itok=-QH5lm5u",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ολυμπιακός - Βέρο Μιλάνο 1-3: Πάλεψαν με το θηρίο οι «ερυθρόλευκες»",
           "link": "https://www.gazzetta.gr/diskovolia/volleyball-champions-league/2510757/olympiakos-bero-milano-1-3-palepsan-me-thirio-oi",
@@ -977,14 +985,6 @@
           "description": "Ο ΠΑΟΚ ζήτησε από την UEFA την αναβολή του αγώνα με τη Λιόν (29/01/26, 22:00), όμως αυτή δεν σκέφτηκε καν την πιθανότητα, με αποτέλεσμα ο ...  \nTo άρθρο Λιόν – ΠΑΟΚ: Κλειστή η κερκίδα των οπαδών του ΠΑΟΚ στη Γαλλία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-opadoi-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Οι παίκτες του ΠΑΟΚ άφησαν λουλούδια στην Τούμπα για τα θύματα του δυστυχήματος στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/oi-paiktes-tou-paok-afisan-louloudia-stin-toumpa-gia-ta-thymata-tou-dystyximatos-sti-roumania/4585031/",
-          "pubDate": "Tue, 27 Jan 2026 18:44:17 +0000",
-          "description": "Ο Ραζβάν Λουτσέσκου, ο Αντελίνο Βιεϊρίνια και οι παίκτες του ΠΑΟΚ με λουλούδια στα χέρια έφτασαν στην Τούμπα για να τιμήσουν τους αδικοχαμένους οπαδούς του ...  \nTo άρθρο Οι παίκτες του ΠΑΟΚ άφησαν λουλούδια στην Τούμπα για τα θύματα του δυστυχήματος στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lucescu-2-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -993,20 +993,12 @@
       "color": "lime",
       "articles": [
         {
-          "title": "Γκούμας: «Η Ριζούπολη κατέστρεψε τον Παναθηναϊκό – Θα πάρει πρωτάθλημα ο Αλαφούζος» (vid)",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/gkoumas-h-rizoupolh-katestrepse-ton-panathinaiko-tha-parei-prwtathlima-o-alafouzos-vid/?utm_source=rss&utm_medium=rss&utm_campaign=gkoumas-h-rizoupolh-katestrepse-ton-panathinaiko-tha-parei-prwtathlima-o-alafouzos-vid",
-          "pubDate": "Tue, 27 Jan 2026 20:33:11 +0000",
-          "description": "Ο Γιάννης Γκούμας έδωσε μια μεγάλη συνέντευξη μιλώντας για αρκετά θέματα μεταξύ αυτών, τη Ριζούπολη, την οικογένεια Βαρδινογιάννη αλλά κι τον Γίαννη Αλαφούζο. Αναλυτικά όσα είπε στο Football-talk: Για την απόφαση του να αποσυρθεί από την ενεργό δράση:«Δε συμβαίνει συχνά ένας ποδοσφαιριστής να φοράει μία και μόνο φανέλα. Προς τα τέλη της καριέρας μου ήθελα […]\nThe post Γκούμας: «Η Ριζούπολη κατέστρεψε τον Παναθηναϊκό – Θα πάρει πρωτάθλημα ο Αλαφούζος» (vid) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Gkoumas-full.webp",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Ξεκαθάρισμα στον Παναθηναϊκό: Τέσσερις παίκτες φεύγουν άμεσα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/ksekatharisma-ston-panathinaiko-tesseris-paiktes-feugoun-amesa/?utm_source=rss&utm_medium=rss&utm_campaign=ksekatharisma-ston-panathinaiko-tesseris-paiktes-feugoun-amesa",
-          "pubDate": "Tue, 27 Jan 2026 19:58:36 +0000",
-          "description": "Εκτός από τις μεταγραφικές προσθήκες, το «τριφύλλι» μπαίνει σε φάση ξεκαθαρίσματος του ρόστερ με τέσσερις παίκτες στο επίκεντρο. Σε πλήρη εξέλιξη βρίσκεται ο μεταγραφικός σχεδιασμός του Παναθηναϊκού, με τους ανθρώπους της ομάδας να κινούνται ταυτόχρονα τόσο για ενίσχυση όσο και για αποσυμφόρηση του ρόστερ. Μέχρι την ολοκλήρωση της χειμερινής περιόδου μεταγραφών στις 6 Φεβρουαρίου, πέρα […]\nThe post Ξεκαθάρισμα στον Παναθηναϊκό: Τέσσερις παίκτες φεύγουν άμεσα! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez.jpg",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/ksekatharisma-ston-panathinaiko-tesseris-paiktes-feugoun-amesa/?utm_source=rss&utm_medium=rss&utm_campaign=ksekatharisma-ston-panathinaiko-tesseris-paiktes-feugoun-amesa",
+          "pubDate": "Tue, 27 Jan 2026 20:05:40 +0000",
+          "description": "Εκτός από τις μεταγραφικές προσθήκες, το «τριφύλλι» μπαίνει σε φάση ξεκαθαρίσματος του ρόστερ με τέσσερις παίκτες στο επίκεντρο.\nThe post Ξεκαθάρισμα στον Παναθηναϊκό: Τέσσερις παίκτες φεύγουν άμεσα! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Το μήνυμα του Μητσοτάκη για την τραγωδία στη Ρουμανία: «Βαθιά συγκλονισμένος…» – Η πρώτη κίνηση της Κυβέρνησης",
@@ -1018,11 +1010,11 @@
         },
         {
           "title": "Ούτε… 20άδα δεν συμπληρώνει με Ρόμα ο Παναθηναϊκός!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/oute-eikosada-den-sumplhrwnei-me-roma-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=oute-eikosada-den-sumplhrwnei-me-roma-o-panathinaikos",
-          "pubDate": "Tue, 27 Jan 2026 18:45:36 +0000",
-          "description": "Με περιορισμένες επιλογές και μόλις 16 διαθέσιμους παίκτες ενδέχεται να παραταχθεί το «τριφύλλι» απέναντι στους Ιταλούς. Υπό ιδιαίτερα δύσκολες συνθήκες προετοιμάζεται ο Παναθηναϊκός για την αναμέτρηση με τη Ρόμα, καθώς ο Ράφα Μπενίτεθ αντιμετωπίζει σοβαρά αγωνιστικά προβλήματα. Παρά το γεγονός ότι οι «πράσινοι» έχουν ήδη εξασφαλίσει και μαθηματικά την πρόκρισή τους στην επόμενη φάση του […]\nThe post Ούτε… 20άδα δεν συμπληρώνει με Ρόμα ο Παναθηναϊκός! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-4-1.jpg",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/oute-eikosada-den-sumplhrwnei-me-roma-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=oute-eikosada-den-sumplhrwnei-me-roma-o-panathinaikos",
+          "pubDate": "Tue, 27 Jan 2026 18:51:24 +0000",
+          "description": "Με περιορισμένες επιλογές και μόλις 16 διαθέσιμους παίκτες ενδέχεται να παραταχθεί το «τριφύλλι» απέναντι στους Ιταλούς.\nThe post Ούτε… 20άδα δεν συμπληρώνει με Ρόμα ο Παναθηναϊκός! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Καιρός: Ισχυρές βροχές θα χτυπήσουν την Αττική Πέμπτη, Σάββατο και Κυριακή",
@@ -1041,20 +1033,20 @@
           "source": "Panathinaikos24"
         },
         {
+          "title": "Δυναμική απάντηση Παναθηναϊκού σε Μακάμπι!",
+          "link": "https://trifilara.gr/dunamikh-apanthsh-panathinaikou-se-maccabi/?utm_source=rss&utm_medium=rss&utm_campaign=dunamikh-apanthsh-panathinaikou-se-maccabi",
+          "pubDate": "Tue, 27 Jan 2026 18:14:43 +0000",
+          "description": "Το «τριφύλλι» πήρε θέση απέναντι στις δηλώσεις του CEO της Μακάμπι Τελ Αβίβ, κάνοντας λόγο για ανεπαρκή ασφάλεια.\nThe post Δυναμική απάντηση Παναθηναϊκού σε Μακάμπι! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Βιολάντα: Συνελήφθη ο ιδιοκτήτης του εργοστασίου και δύο στελέχη",
           "link": "https://panathinaikos24.gr/2026/01/27/618009/violanta-synelifthi-o-idioktitis-tou-ergostasiou-kai-dyo-stelexi/",
           "pubDate": "Tue, 27 Jan 2026 18:01:42 +0000",
           "description": "Ο ιδιοκτήτης της «Βιολάντα» κατηγορείται για ανθρωποκτονία από αμέλεια, έκρηξη, εμπρησμό από αμέλεια και σωματικές βλάβες.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/violanta2-reuters-1200x675-1.webp?fit=1200%2C675&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Δυναμική απάντηση Παναθηναϊκού σε Μακάμπι!",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/dunamikh-apanthsh-panathinaikou-se-maccabi/?utm_source=rss&utm_medium=rss&utm_campaign=dunamikh-apanthsh-panathinaikou-se-maccabi",
-          "pubDate": "Tue, 27 Jan 2026 17:57:19 +0000",
-          "description": "Το «τριφύλλι» πήρε θέση απέναντι στις δηλώσεις του CEO της Μακάμπι Τελ Αβίβ, κάνοντας λόγο για ανεπαρκή ασφάλεια. Ο Παναθηναϊκός AKTOR απάντησε επίσημα στα όσα υποστήριξε ο CEO της Μακάμπι Τελ Αβίβ, μετά τα γεγονότα που σημειώθηκαν στο παιχνίδι των δύο ομάδων. Οι «πράσινοι» τόνισαν ότι τα μέτρα ασφαλείας δεν ήταν τα προβλεπόμενα, διαψεύδοντας παράλληλα […]\nThe post Δυναμική απάντηση Παναθηναϊκού σε Μακάμπι! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/sima.webp",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Οδύνη για τους επτά νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία – Το χρονικό της τραγωδίας",
@@ -1074,11 +1066,11 @@
         },
         {
           "title": "Λεσόρ: Το μήνυμά του για την τραγωδία στη Ρουμανία! (pic)",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/lessort-to-mhnuma-tou-gia-thn-tragwdia-sth-roumania-pic/?utm_source=rss&utm_medium=rss&utm_campaign=lessort-to-mhnuma-tou-gia-thn-tragwdia-sth-roumania-pic",
-          "pubDate": "Tue, 27 Jan 2026 17:25:55 +0000",
-          "description": "Ο Ματίας Λεσόρ εξέφρασε τη θλίψη του μέσω Instagram για τον άδικο χαμό επτά οπαδών του ΠΑΟΚ. Ο Ματίας Λεσόρ θέλησε να στείλει το δικό του μήνυμα συμπαράστασης μετά το τραγικό τροχαίο δυστύχημα στη Ρουμανία, που στοίχισε τη ζωή σε επτά φιλάθλους του ΠΑΟΚ. Ο παίκτης του Παναθηναϊκού χρησιμοποίησε τα social media για να εκφράσει […]\nThe post Λεσόρ: Το μήνυμά του για την τραγωδία στη Ρουμανία! (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/08/lessort-2.jpg",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/lessort-to-mhnuma-tou-gia-thn-tragwdia-sth-roumania-pic/?utm_source=rss&utm_medium=rss&utm_campaign=lessort-to-mhnuma-tou-gia-thn-tragwdia-sth-roumania-pic",
+          "pubDate": "Tue, 27 Jan 2026 17:29:59 +0000",
+          "description": "Ο Ματίας Λεσόρ εξέφρασε τη θλίψη του μέσω Instagram για τον άδικο χαμό επτά οπαδών του ΠΑΟΚ.\nThe post Λεσόρ: Το μήνυμά του για την τραγωδία στη Ρουμανία! (pic) appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Συγκλονίζει αδερφός θύματος του δυστυχήματος στην Ρουμανία: «Μου επιβεβαίωσαν ότι είναι νεκρός» (video)",
@@ -1121,20 +1113,12 @@
           "source": "Trifilara"
         },
         {
-          "title": "Παναθηναϊκός: Ξεκαθάρισε για Οσμάν – Μήτογλου ενόψει Βιλερμπάν – Θέμα με Ναν – Γιούρτσεβεν!",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-xekatharise-gia-osman-mi/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-xekatharise-gia-osman-mi",
-          "pubDate": "Tue, 27 Jan 2026 15:57:23 +0000",
-          "description": "Με προπόνηση στο Telekom Center Athens ξεκίνησε σήμερα η προετοιμασία του Παναθηναϊκού AKTOR ενόψει του εκτός έδρας αγώνα με τη Βιλερμπάν. Με προπόνηση στο Telekom Center Athens ξεκίνησε σήμερα η προετοιμασία του Παναθηναϊκού AKTOR ενόψει του εκτός έδρας αγώνα με τη Βιλερμπάν, σε μια εβδομάδα που κρίνεται κομβική τόσο αγωνιστικά όσο και βαθμολογικά. Συγκεκριμένα, οι […]\nThe post Παναθηναϊκός: Ξεκαθάρισε για Οσμάν – Μήτογλου ενόψει Βιλερμπάν – Θέμα με Ναν – Γιούρτσεβεν! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/10/mitoglou-osman.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!»",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/ceo-maccabi-tel-aviv-o-ataman-einai-provokatoras/?utm_source=rss&utm_medium=rss&utm_campaign=ceo-maccabi-tel-aviv-o-ataman-einai-provokatoras",
-          "pubDate": "Tue, 27 Jan 2026 15:51:57 +0000",
-          "description": "Ο CEO της Μακάμπι, Αβί Μπεν Ταν, σε δηλώσεις του στο «BasketNews» αναφέρθηκε στην επίθεση που δέχθηκε ο Εργκίν Αταμάν. Ο Αβί Μπεν Ταλ αναφέρει αναλυτικά στο «BasketNews»: «Η Μακάμπι Τελ Αβίβ είναι ένας σεβαστός σύλλογος που ιδρύθηκε το 1932. Ο σύλλογος είναι γνωστός για την παράδοσή του και για τους οπαδούς του, οι οποίοι […]\nThe post CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!» appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Ataman-3.jpg",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/ceo-maccabi-tel-aviv-o-ataman-einai-provokataros/?utm_source=rss&utm_medium=rss&utm_campaign=ceo-maccabi-tel-aviv-o-ataman-einai-provokataros",
+          "pubDate": "Tue, 27 Jan 2026 15:59:24 +0000",
+          "description": "Ο CEO της Μακάμπι, Αβί Μπεν Ταν, σε δηλώσεις του στο «BasketNews» αναφέρθηκε στην επίθεση που δέχθηκε ο Εργκίν Αταμάν.\nThe post CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!» appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Η Θύρα 13 αποχαιρέτησε τους αδικοχαμένους οπαδούς του ΠΑΟΚ: «Καλό ταξίδι αετοί»",
@@ -1145,20 +1129,12 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Στρέφεται ξανά σε Σλάγκερ ο Παναθηναϊκός! – Προσπάθεια να πειστεί για Ελλάδα",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/strefetai-xana-se-slagker-o-panathinai/?utm_source=rss&utm_medium=rss&utm_campaign=strefetai-xana-se-slagker-o-panathinai",
-          "pubDate": "Tue, 27 Jan 2026 15:39:27 +0000",
-          "description": "Σύμφωνα με πληροφορίες του «Όλα Πράσινα», ο Παναθηναϊκός επανέρχεται σε μια υπόθεση που μέχρι πρότινος θεωρούνταν ουσιαστικά χαμένη, αυτή του Ξαβέρ Σλάγκερ. Οι «πράσινοι» επιχειρούν εκ νέου να πείσουν τον Αυστριακό χαφ να κάνει το βήμα και να έρθει στην Ελλάδα, γνωρίζοντας όμως απόλυτα ότι πρόκειται για μια από τις πιο δύσκολες μεταγραφικές αποστολές του […]\nThe post Στρέφεται ξανά σε Σλάγκερ ο Παναθηναϊκός! – Προσπάθεια να πειστεί για Ελλάδα appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/schlager-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Η ανάρτηση της Θύρας 13 για το δυστύχημα με τους οπαδούς του ΠΑΟΚ! (pic)",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/h-anarthsh-ths-thuras-dekatria-gia-to-dustuxhma-me-tous-opadous-tou-paok-pic/?utm_source=rss&utm_medium=rss&utm_campaign=h-anarthsh-ths-thuras-dekatria-gia-to-dustuxhma-me-tous-opadous-tou-paok-pic",
-          "pubDate": "Tue, 27 Jan 2026 15:24:03 +0000",
-          "description": "Οι οργανωμένοι φίλοι του Παναθηναϊκού εξέφρασαν τη συμπαράστασή τους για τον άδικο χαμό επτά οπαδών του ΠΑΟΚ. Οι οργανωμένοι οπαδοί του Παναθηναϊκού προχώρησαν σε ανάρτηση το μεσημέρι της Τρίτης (27/1), στέλνοντας μήνυμα συμπαράστασης μετά το θανατηφόρο τροχαίο δυστύχημα στη Ρουμανία, που είχε ως αποτέλεσμα τον θάνατο επτά φιλάθλων του ΠΑΟΚ. Η Θύρα 13, με μια […]\nThe post Η ανάρτηση της Θύρας 13 για το δυστύχημα με τους οπαδούς του ΠΑΟΚ! (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/oaka-opadoi-panathinaikos-1200x800-1.webp",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/h-anarthsh-ths-thuras-dekatria-gia-to-dustuxhma-me-tous-opadous-tou-paok-pic/?utm_source=rss&utm_medium=rss&utm_campaign=h-anarthsh-ths-thuras-dekatria-gia-to-dustuxhma-me-tous-opadous-tou-paok-pic",
+          "pubDate": "Tue, 27 Jan 2026 15:27:34 +0000",
+          "description": "Οι οργανωμένοι φίλοι του Παναθηναϊκού εξέφρασαν τη συμπαράστασή τους για τον άδικο χαμό επτά οπαδών του ΠΑΟΚ.\nThe post Η ανάρτηση της Θύρας 13 για το δυστύχημα με τους οπαδούς του ΠΑΟΚ! (pic) appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "ΚΑΕ Παναθηναϊκός: «Βαθιά οδύνη για την απώλεια των φίλων του ΠΑΟΚ»",
@@ -1167,14 +1143,6 @@
           "description": "Η ΚΑΕ Παναθηναϊκός θέλησε να στείλει τα συλλυπητήριά της στην οικογένεια του ΠΑΟΚ.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/paobc.jpg?fit=719%2C448&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Παναθηναϊκός: «Έκοψε» τη μεταγραφή Νιάς και όχι μόνο, επειδή… διέρρευσαν τα ονόματα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ekopse-ti-metagrafi-ni/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ekopse-ti-metagrafi-ni",
-          "pubDate": "Tue, 27 Jan 2026 15:21:16 +0000",
-          "description": "Η αντίδραση Αλαφούζου, το «κόψιμο» ονομάτων και τα μηνύματα προς όλες τις κατευθύνσεις. Ασχημα ξεκίνησε το τριήμερο της Παρασκευής για τον Παναθηναϊκό, καθώς στο εσωτερικό της ΠΑΕ προέκυψε σοβαρή ενόχληση από τον Γιάννη Αλαφούζο με αφορμή τις διαρροές γύρω από μεταγραφικούς στόχους. Η σταγόνα που ξεχείλισε το ποτήρι ήταν η δημοσιοποίηση του ονόματος του Σεχ […]\nThe post Παναθηναϊκός: «Έκοψε» τη μεταγραφή Νιάς και όχι μόνο, επειδή… διέρρευσαν τα ονόματα! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/11/alafouzos-2-3.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Νέες ενοχλήσεις ο Πελίστρι πριν τη Ρόμα!",
@@ -1230,6 +1198,22 @@
           "pubDate": "Tue, 27 Jan 2026 13:47:19 +0000",
           "description": "Τι δείχνει η πρώτη δημοσκόπηση μετά τη συνέντευξη περί αμβλώσεων.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-23_08-27-22_855823-scaled-1.jpg?fit=1024%2C698&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Αδιανόητη τραγωδία στην άσφαλτο με οπαδούς του ΠΑΟΚ – Τουλάχιστον 7 νεκροί και 3 τραυματίες στη Ρουμανία",
+          "link": "https://panathinaikos24.gr/2026/01/27/617953/adianoiti-tragodia-stin-asfalto-me-opadous-tou-paok-toulaxiston-6-nekroi-kai-3-traymaties-sti-roumania/",
+          "pubDate": "Tue, 27 Jan 2026 13:17:58 +0000",
+          "description": "Τι αναφέρουν οι πρώτες πληροφορίες.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/cc341d68-troxaio-roumania.jpg?fit=1000%2C601&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Το «αντίο» του Φικάι: «Για πάντα κομμάτι της ζωής μου ο Παναθηναϊκός»",
+          "link": "https://panathinaikos24.gr/2026/01/27/617945/to-antio-tou-fikai-gia-panta-kommati-tis-zois-mou-o-panathinaikos/",
+          "pubDate": "Tue, 27 Jan 2026 13:01:49 +0000",
+          "description": "Το μήνυμα του Έλτον Φικάι μετά την οριστικοποίηση της μεταγραφής του.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4917958.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
