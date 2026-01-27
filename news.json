@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T07:40:32.904Z",
+  "lastUpdated": "2026-01-27T07:45:30.121Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Χειμερινές εκπτώσεις 2026 στη LA VIE EN ROSE: Οδηγός για έξυπνες επιλογές ομορφιάς",
+          "link": "https://www.protothema.gr/greece/article/1763527/heimerines-ekptoseis-2026-sti-la-vie-en-rose-odigos-gia-exupnes-epiloges-omorfias/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 09:41:02 +0200",
+          "description": "Επωφεληθείτε τώρα από τις μεγάλες εκπτώσεις της LA VIE EN ROSE για να αποκτήσετε μοναδικές φόρμουλες που μετατρέπουν την καθημερινή ρουτίνα σε μια μοναδική εμπειρία προσωπικής περιποίησης.",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/main_lavieproto_thema_1168x656_copy.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Από την αβεβαιότητα στον έλεγχο: Πώς η ορατότητα κρατά το ψηφιακό ρίσκο… Under Control",
           "link": "https://www.protothema.gr/greece/article/1763421/apo-tin-avevaiotita-ston-elegho-pos-i-oratotita-krata-to-psifiako-risko-under-control/?utm_source=rss",
@@ -19,7 +27,7 @@
         {
           "title": "Εντοπίστηκε η πέμπτη σορός από τη φωτιά στο εργοστάσιο Βιολάντα",
           "link": "https://www.protothema.gr/greece/article/1763982/edopistike-i-pebti-soros-apo-ti-fotia-sto-ergostasio-violada/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 09:37:42 +0200",
+          "pubDate": "Tue, 27 Jan 2026 09:37:00 +0200",
           "description": "",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpeg/files/2024-12-11/xrvma_ektakth_epikairothta_1012242.jpeg",
           "source": "Πρώτο Θέμα"
@@ -161,6 +169,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Το Total Eclipse of the Heart της Μπόνι Τάιλερ ξεπέρασε το ένα δισ. streams – «Σχεδόν τίποτα» τα έσοδα δηλώνει η ίδια",
+          "link": "https://www.in.gr/2026/01/27/life/music/total-eclipse-heart-tis-mponi-tailer-kseperase-ena-dis-streams-sxedon-tipota-ta-esoda-dilonei-idia/",
+          "pubDate": "Tue, 27 Jan 2026 09:45:00 +0300",
+          "description": "«Ο κόσμος ανυπομονεί να το τραγουδήσει μαζί μου — κι αυτό είναι που μετράει», σχολίασε η Μπόνι Τάιλερ για το Total Eclipse of the Heart",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/totaleclipse-768x463.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Εργατικό δυστύχημα στα Τρίκαλα: Εντοπίστηκε η σορός της πέμπτης εργάτριας στο εργοστάσιο της Βιολάντα",
+          "link": "https://www.in.gr/2026/01/27/greece/ergatiko-dystyxima-sta-trikala-entopistike-soros-tis-pemptis-ergatrias-sto-ergostasio-tis-violanta/",
+          "pubDate": "Tue, 27 Jan 2026 09:40:58 +0300",
+          "description": "Περισσότερα σε λίγο...",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kokkino-neo-1-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ο Φώτης Ιωαννίδης επιστρέφει στη δράση με τη Σπόρτινγκ Λισαβόνας",
           "link": "https://www.newsit.gr/athlitika/o-fotis-ioannidis-epistrefei-sti-drasi-me-ti-sportingk-lisavonas/4584358/",
           "pubDate": "Tue, 27 Jan 2026 06:39:29 +0000",
@@ -223,30 +247,6 @@
           "description": "Η αναμέτρηση της Ελλάδας με τη Γαλλία για τη δεύτερη αγωνιστική του ευρωπαϊκού πρωταθλήματος πόλο των γυναικών ξεχωρίζει από τις αθλητικές μεταδόσεις της ημέρας (27/1/2026). ...  \nTo άρθρο Ελλάδα – Γαλλία στο πόλο γυναικών, Euroleague και Basketball Champions League στις αθλητικές μεταδόσεις της ημέρας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/polo-ginaikwn-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Η αποστολή του Ολυμπιακού για το ματς με το Άγιαξ (pic)",
-          "link": "https://www.in.gr/2026/01/27/sports/football/champions-league/apostoli-tou-olympiakou-gia-mats-agiaks-pic/",
-          "pubDate": "Tue, 27 Jan 2026 09:19:44 +0300",
-          "description": "Αυτή είναι η αποστολή του Ολυμπιακού για τον «τελικό» με τον Άγιαξ στο Άμστερνταμ την Τετάρτη (28/1, 22:00) στο πλαίσιο της 8ης αγωνιστικής της League Phase του Champions League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823368-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Η τριπλή παρέμβαση για να σταματήσει το οικολογικό έγκλημα στη Μήλο",
-          "link": "https://www.protothema.gr/greece/article/1763897/i-tripli-paremvasi-gia-na-stamatisei-to-oikologiko-eglima-sti-milo-balaki-apo-ton-dimo-oi-euthunes-gia-to-white-coast/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 08:19:41 +0200",
-          "description": "Δικηγόρος Δήμου Μήλου: «Η πολεοδομία ευθύνεται για τη μη διακοπή των εργασιών στο White Coast - Σε 20 ημέρες περιμένουμε απόφαση αναστολής από το ΣτΕ»",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-milos2.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Θρήνος για τις 5 εργάτριες που χάθηκαν στο εργοστάσιο της Βιολάντα, οι τελευταίες φωτογραφίες από την κοπή της πίτας λίγες ώρες πριν",
-          "link": "https://www.protothema.gr/greece/article/1763918/thrinos-gia-tis-5-ergatries-pou-hathikan-sto-ergostasio-tis-violada-/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 08:19:00 +0200",
-          "description": "Η Έλενα, η Βασιλική, η Βούλα, η Αναστασία και η Αγάπη έχασαν τη ζωή τους με τραγικό τρόπο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/ergostasio_ginaikes_xrm2.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -501,19 +501,19 @@
       "color": "blue",
       "articles": [
         {
-          "title": "Philippines' Duterte fit to stand trial, ICC judges say",
+          "title": "India and EU announce landmark trade deal",
+          "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 07:43:20 GMT",
+          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Philippines' Duterte fit to face ICC proceedings, judges say",
           "link": "https://www.bbc.com/news/articles/c0lx2pj84l4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 07:12:55 GMT",
           "description": "The 80-year-old is accused of crimes of humanity over his bloody war on drugs that left thousands killed.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/801b/live/07d9eec0-fb4a-11f0-8a3f-efae3b17f55b.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "India and EU set to announce landmark trade deal",
-          "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 06:29:31 GMT",
-          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aee/live/869ba2e0-fb44-11f0-a0e0-496c391d5d58.jpg",
           "source": "BBC News"
         },
         {
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Η αναβάθμιση της Siri με το Gemini της Google θα παρουσιαστεί τον επόμενο μήνα",
+          "link": "https://www.gazzetta.gr/plus/2510259/i-anabathmisi-tis-siri-me-gemini-tis-google-tha-paroysiastei-ton-epomeno-mina",
+          "pubDate": "Tue, 27 Jan 2026 09:41:00 +0200",
+          "description": "Μέσα στον Φεβρουάριο θα δούμε την αναβαθμισμένη Siri της Apple",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/f428e370-fa0b-11f0-bfce-5a0cae24b562.jpg?itok=GSc6V4V5",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Τρίκαλα: Τα δύο σενάρια της φονικής έκρηξης και οι καταθέσεις των μαρτύρων",
           "link": "https://www.gazzetta.gr/plus/2510530/trikala-ta-dyo-senaria-tis-fonikis-ekrixis-kai-oi-katatheseis-ton-martyron",
           "pubDate": "Tue, 27 Jan 2026 09:34:10 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 08:00:46 +0200",
           "description": "Συγκλονιστικό βίντεο έχει καταγράψει τη στιγμή που σπάει αγωγός της ΕΥΑΘ, τραυματίζοντας τέσσερα άτομα που πραγματοποιούσαν εργασίες.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/agogos-thess.jpg?itok=mayGwwqL",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Καβαλίερς - Μάτζικ 114-98: Τράβηξε 45άρι ο τρομερός Μίτσελ",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510512/kabaliers-matzik-114-98-trabixe-45ari-o-tromeros-mitsel",
-          "pubDate": "Tue, 27 Jan 2026 07:58:00 +0200",
-          "description": "Με τον Ντόνοβαν Μίτσελ να παίρνει... φωτιά, οι Κλίβελαντ Καβαλίερς επικράτησαν των Ορλάντο Μάτζικ εντός έδρας με 114-98.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mitchell_getty_1.jpg?itok=xiQOfpMf",
           "source": "Gazzetta"
         }
       ]
