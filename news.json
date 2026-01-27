@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T01:10:30.838Z",
+  "lastUpdated": "2026-01-27T01:15:29.904Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "'Major step': French MPs vote in favour of bill to ban social media for under-15s",
+          "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 01:12:19 GMT",
+          "description": "If the bill passes the upper house it could take effect by the start of France's new school year in September.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/4c7fd700-fab0-11f0-91f4-a739ab96be22.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Trump raises US tariffs on South Korea imports to 25%",
           "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 00:52:19 GMT",
@@ -555,14 +563,6 @@
           "description": "Η Ιταλία προετοιμάζεται για εκτεταμένα μέτρα ασφαλείας, με χιλιάδες αστυνομικούς και περιορισμούς κυκλοφορίας, εν μέσω αμφιλεγόμενων δηλώσεων για την παρουσία Αμερικανών πρακτόρων",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "French MPs take first step to ban social media for under-15s",
-          "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 21:46:41 GMT",
-          "description": "Prime Minister Sébastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/4c7fd700-fab0-11f0-91f4-a739ab96be22.jpg",
-          "source": "BBC News"
         },
         {
           "title": "Φινλανδία: Σχέδιο παρακολούθησης για την πρόληψη ζημιών στα υποθαλάσσια καλώδια ",
