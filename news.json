@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T14:25:25.796Z",
+  "lastUpdated": "2026-01-27T14:30:37.843Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΙΟΒΕ: Η ελληνική οικονομία σε θετική τροχιά, με προκλήσεις στο διεθνές περιβάλλον",
+          "link": "https://www.newsit.gr/oikonomia/finance/iove-i-elliniki-oikonomia-se-thetiki-troxia-me-prokliseis-sto-diethnes-perivallon/4584819/",
+          "pubDate": "Tue, 27 Jan 2026 14:26:19 +0000",
+          "description": "Τις ανησυχίες του για το διεθνές περιβάλλον, όπως τις διατύπωσε κατά την παρουσίαση της τριμηνιαίας έκθεσης του ΙΟΒΕ για την ελληνική οικονομία, ανέπτυξε ο πρόεδρος ...  \nTo άρθρο ΙΟΒΕ: Η ελληνική οικονομία σε θετική τροχιά, με προκλήσεις στο διεθνές περιβάλλον δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-468044606-1-1200x675-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΠΑΟΚ για το δυστύχημα με τους οπαδούς στη Ρουμανία: «Θα ενημερώσουμε υπεύθυνα αποφεύγοντας κάθε βιαστική ή ανεπιβεβαίωτη αναφορά»",
           "link": "https://www.newsit.gr/athlitika/paok-gia-to-dystyxima-me-tous-opadous-sti-roumania-tha-enimerosoume-ypeythyna-apofeygontas-kathe-viastiki-i-anepivevaioti-anafora/4584837/",
@@ -52,14 +60,14 @@
           "title": "ΥΠΑΑΤ κατά ΠΑΣΟΚ για ευλογιά των προβάτων: «Γίνεστε ουρά του Βελόπουλου και της Λατινοπούλου»",
           "link": "https://www.newsit.gr/politikh/ypaat-kata-pasok-gia-eylogia-ton-provaton-gineste-oura-tou-velopoulou-kai-tis-latinopoulou/4584826/",
           "pubDate": "Tue, 27 Jan 2026 14:11:49 +0000",
-          "description": "Σε υψηλούς τόνους απάντησε το Υπουργείο Αγροτικής Ανάπτυξης και Τροφίμων στις τοποθετήσεις του ΠΑΣΟΚ για τη διαχείριση της ευλογιάς των αιγοπροβάτων, κατηγορώντας το κόμμα της ...  \nTo άρθρο ΥΠΑΑΤ κατά ΠΑΣΟΚ για ευλογιά των προβάτων: «Γίνεστε ουρά του Βελόπουλου και της Λατινοπούλου» δημοσιεύτηκε στο NewsIT .",
+          "description": "Σε υψηλούς τόνους απάντησε το υπουργείο Αγροτικής Ανάπτυξης και Τροφίμων στις τοποθετήσεις του ΠΑΣΟΚ για τη διαχείριση της ευλογιάς των προβάτων, κατηγορώντας το κόμμα της ...  \nTo άρθρο ΥΠΑΑΤ κατά ΠΑΣΟΚ για ευλογιά των προβάτων: «Γίνεστε ουρά του Βελόπουλου και της Λατινοπούλου» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/provata1-1.jpg",
           "source": "NewsIT"
         },
         {
-          "title": "Με κρανιοεγκεφαλικές κακώσεις 17χρονη μετά από άγριο ξυλοδαρμό από ανήλικες, κατέθεσαν μήνυση οι γονείς",
+          "title": "Με κρανιοεγκεφαλικές κακώσεις 17χρονη μετά από άγριο ξυλοδαρμό από ανήλικες στη Θεσσαλονίκη, κατέθεσαν μήνυση οι γονείς",
           "link": "https://www.protothema.gr/greece/article/1764235/me-kranioegefalikes-kakoseis-17hroni-meta-apo-agrio-xulodarmo-apo-anilikes-katethesan-minusi-oi-goneis/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 16:10:47 +0200",
+          "pubDate": "Tue, 27 Jan 2026 16:10:00 +0200",
           "description": "Σύμφωνα με την καταγγελία, δύο ανήλικες χτυπούσαν με γροθιές την 17χρονη και δύο βιντεοσκοπούσαν την επίθεση",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-peripoliko.jpg",
           "source": "Πρώτο Θέμα"
@@ -169,6 +177,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Η Αστυνομία απαγόρευσε την οργανωμένη μετακίνηση των οπαδών του Πανιωνίου στο Μαρούσι",
+          "link": "https://www.in.gr/2026/01/27/sports/basketball/astynomia-apagoreyse-tin-organomeni-metakinisi-ton-opadon-tou-panioniou-sto-marousi/",
+          "pubDate": "Tue, 27 Jan 2026 16:26:14 +0300",
+          "description": "Stop της Αστυνομίας στην μετακίνιση των οπαδών του Πανιωνίου στο εκτός έδρας ματς των «κυανέρυθρων» με το Μαρούσι.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6823640-768x513.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Πολύνεκρο τροχαίο στη Ρουμανία με οπαδούς του ΠΑΟΚ που ταξίδευαν στη Γαλλία – 7 νεκροί και 3 τραυματίες",
           "link": "https://www.newsit.gr/athlitika/polynekro-troxaio-sti-roumania-me-opadous-tou-paok-pou-taksideyan-sti-gallia-7-nekroi-kai-3-traymaties/4584768/",
           "pubDate": "Tue, 27 Jan 2026 13:19:18 +0000",
@@ -230,22 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 16:02:32 +0300",
           "description": "Πώς μετέφερε η τηλεόραση της Ρουμανίας το τροχαίο που στέρησε την ζωή στους φίλους του ΠΑΟΚ που πήγαιναν στη Γαλλία για το ματς με τη Λιόν",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5805780578057-768x409.png",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ιράν: Εκρήξεις κοντά στον πυρηνικό σταθμό Παρτσίν – Για προγραμματισμένες ασκήσεις και δοκιμές μιλάει η Τεχεράνη",
-          "link": "https://www.newsit.gr/kosmos/iran-ekrikseis-konta-ston-pyriniko-stathmo-partsin-gia-programmatismenes-askiseis-kai-dokimes-milaei-i-texerani/4584734/",
-          "pubDate": "Tue, 27 Jan 2026 13:00:16 +0000",
-          "description": "Συναγερμός σήμανε σήμερα (27.01.2026) στο Ιράν, με αναφορές να κάνουν λόγο για εκρήξεις κοντά στον πυρηνικό σταθμό Παρτσίν, σε μια κρίσιμη χρονική συγκυρία κατά την ...  \nTo άρθρο Ιράν: Εκρήξεις κοντά στον πυρηνικό σταθμό Παρτσίν – Για προγραμματισμένες ασκήσεις και δοκιμές μιλάει η Τεχεράνη δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iran-military-reuters-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Βιολάντα: Ανατριχιαστικές οι εικόνες από τα Τρίκαλα μετά την έκρηξη – Η επόμενη ημέρα στο μοιραίο εργοστάσιο",
-          "link": "https://www.in.gr/2026/01/27/greece/violanta-anatrixiastikes-oi-eikones-apo-ta-trikala-meta-tin-ekriksi-epomeni-imera-sto-moiraio-ergostasio/",
-          "pubDate": "Tue, 27 Jan 2026 15:54:41 +0300",
-          "description": "Σοκάρουν οι εικόνες που έρχονται από το εργοστάσιο Βιολάντα μία ημέρα μετά την έκρηξη",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EV1_270126_TRIKALA_VIOLANDA-11-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Θερμή υποδοχή στο ξενοδοχείο της αποστολής (vid)",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510630/olympiakos-thermi-ypodohi-sto-xenodoheio-tis-apostolis-vid",
+          "pubDate": "Tue, 27 Jan 2026 16:28:41 +0200",
+          "description": "Η αποστολή του Ολυμπιακού έτυχε θερμής υποδοχής από δεκάδες φίλους της ομάδας που είναι ήδη στο Άμστερνταμ για τον «τελικό» με τον Άγιαξ. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/apostoli.jpg?itok=GeiglXB8",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ για το δυστύχημα με τους οπαδούς στη Ρουμανία: «Θα ενημερώσουμε υπεύθυνα αποφεύγοντας κάθε βιαστική ή ανεπιβεβαίωτη αναφορά»",
           "link": "https://www.newsit.gr/athlitika/paok-gia-to-dystyxima-me-tous-opadous-sti-roumania-tha-enimerosoume-ypeythyna-apofeygontas-kathe-viastiki-i-anepivevaioti-anafora/4584837/",
           "pubDate": "Tue, 27 Jan 2026 14:23:21 +0000",
@@ -977,14 +985,6 @@
           "description": "Δύο ακόμη ομάδες του MotoGP έκαναν τα επίσημα αποκαλυπτήρια για την πολλά υποσχόμενη νέα αγωνιστική σεζόν.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/g_qcsdibuaakax71.jpg?itok=C8c7d8Hl",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Μανδάς: Το ελληνικό αντίο της Λάτσιο και η αποθέωση από τον Πέδρο",
-          "link": "https://www.gazzetta.gr/football/premier-league/2510605/mandas-elliniko-antio-tis-latsio-kai-i-apotheosi-apo-ton-pedro",
-          "pubDate": "Tue, 27 Jan 2026 14:34:26 +0200",
-          "description": "Η Λάτσιο αποχαιρέτησε τον Χρήστο Μανδά με ένα βίντεο με τις καλύτερες στιγμές του και από κάτω σχολίασε ο Πέδρο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/mandas.jpg?itok=gEOcyqrV",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Οι πρώτες στιγμές μετά το σοκαριστικό τροχαίο με οπαδούς του ΠΑΟΚ στη Ρουμανία (VIDEO)",
+          "link": "https://panathinaikos24.gr/2026/01/27/617966/oi-protes-stigmes-meta-to-sokaristiko-troxaio-me-opadous-tou-paok-sti-roumania-video/",
+          "pubDate": "Tue, 27 Jan 2026 14:30:14 +0000",
+          "description": "«Πάγωσε» η Ελλάδα με το σοκαριστικό τροχαίο στη Ρουμανία με επτά οπαδούς του ΠΑΟΚ νεκρούς.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/kataghrafi-Cp8jk.webp?fit=1300%2C700&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Βίντεο – σοκ από το σοκαριστικό τροχαίο!",
           "link": "https://panathinaikos24.gr/2026/01/27/617960/vinteo-sok-apo-to-sokaristiko-troxaio/",
@@ -1223,14 +1231,6 @@
           "description": "Το διάστημα των 5-6 εβδομάδων τον θέτει εκτός από ένα εξαιρετικά πυκνό και απαιτητικό κομμάτι της σεζόν, το οποίο περιλαμβάνει Ευρώπη, ντέρμπι πρωταθλήματος και τους ημιτελικούς του Κυπέλλου.\nThe post Τσιριβέγια: Το χρονοδιάγραμμα της απουσίας και τα ματς που χάνει appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Παναθηναϊκός: Τα παιχνίδια που χάνει ο Τσιριβέγια και το πρώτο ρεαλιστικό ματς για comeback",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ta-paichnidia-pou-chanei-o/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ta-paichnidia-pou-chanei-o",
-          "pubDate": "Tue, 27 Jan 2026 09:46:12 +0000",
-          "description": "Η τελική διάγνωση για τον Πέδρο Τσιριβέγια βάζει ξεκάθαρα χρονικά όρια στο πότε μπορεί και πότε δεν μπορεί να υπολογίζεται από τον Παναθηναϊκό. Η τελική διάγνωση για τον Πέδρο Τσιριβέγια, με θλάση στη γαστροκνημία και εκτιμώμενη απουσία περίπου ενάμιση μήνα, βάζει ξεκάθαρα χρονικά όρια στο πότε μπορεί και πότε δεν μπορεί να υπολογίζεται από τον […]\nThe post Παναθηναϊκός: Τα παιχνίδια που χάνει ο Τσιριβέγια και το πρώτο ρεαλιστικό ματς για comeback appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/Chirivella.jpg",
-          "source": "Όλα Πράσινα"
         }
       ]
     },
@@ -1238,6 +1238,14 @@
       "title": "ΤΕΧΝΟΛΟΓΙΑ & SCIENCE",
       "color": "pink",
       "articles": [
+        {
+          "title": "iOS 26.3: Η νέα λειτουργία απορρήτου που «κρύβει» την τοποθεσία σας από τους παρόχους",
+          "link": "https://gr.pcmag.com/operating-systems/51137/ios-263-e-nea-leitourgia-aporretou-pou-krubei-ten-topothesia-sas-apo-tous-parokhous",
+          "pubDate": "Tue, 27 Jan 2026 14:21:47 +0000",
+          "description": "Πώς το Limit Precise Location ενισχύει την ιδιωτικότητα στα iPhone Air και iPad Pro M5, περιορίζοντας τα δεδομένα που βλέπουν τα δίκτυα κινητής τηλεφωνίας.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/i/ios-263-wi/ios-263-will-introduce-a-privacy-feature-most-iphone-owners_wavv.jpg",
+          "source": "PC Magazine"
+        },
         {
           "title": "Typosquatting: Η οπτική απάτη που «μεταμορφώνει» το rn σε m για να κλέψει τους κωδικούς σας",
           "link": "https://gr.pcmag.com/security/51136/typosquatting-e-optike-apate-pou-metamorphonei-to-rn-se-m-gia-na-klepsei-tous-kodikous-sas",
@@ -1468,14 +1476,6 @@
           "pubDate": "Mon, 26 Jan 2026 14:47:00 +0200",
           "description": "Έπειτα από έξι χρόνια εντατικών παρατηρήσεων και σάρωσης του ενός ογδόου του ουρανού, οι επιστήμονες του προγράμματος Dark Energy Survey (DES) ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/des-universe.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Ιατρική επανάσταση: Η Τεχνητή Νοημοσύνη πετυχαίνει τετραπλάσια ακρίβεια στη διάγνωση από τους γιατρούς",
-          "link": "https://www.techgear.gr/iatriki-epanastasi-i-techniti-noimosyni-petychainei-tetraplasia-akriveia-sti-diagnosi-apo-toys-giatroys-47329",
-          "pubDate": "Mon, 26 Jan 2026 14:35:00 +0200",
-          "description": "Σε μια κομβική στιγμή για την εξέλιξη της ιατρικής επιστήμης, τα δεδομένα αλλάζουν ραγδαία. Η συζήτηση για τον ρόλο της Τεχνητής Νοημοσύνης (AI) στα ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/ai-doctor.jpg",
           "source": "Techgear"
         }
       ]
