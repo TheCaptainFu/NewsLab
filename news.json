@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T22:30:32.951Z",
+  "lastUpdated": "2026-01-27T22:35:25.790Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κρήτη: Εφιάλτης για 43χρονη σε χωριό του Ηρακλείου – Kατήγγειλε σύζυγο και πεθερά ότι την είχαν φυλακισμένη",
+          "link": "https://www.newsit.gr/ellada/kriti-efialtis-gia-43xroni-se-xorio-tou-irakleiou-katiggeile-syzygo-kai-pethera-oti-tin-eixan-fylakismeni/4585220/",
+          "pubDate": "Tue, 27 Jan 2026 22:31:55 +0000",
+          "description": "Ένα καθημερινό μαρτύριο καταγγέλλει ότι περνούσε μία 43χρονη στην Κρήτη. Η γυναίκα πήγε στην αστυνομία και κατήγγειλε τον σύζυγο και την πεθερά της, για εγκλεισμό ...  \nTo άρθρο Κρήτη: Εφιάλτης για 43χρονη σε χωριό του Ηρακλείου – Kατήγγειλε σύζυγο και πεθερά ότι την είχαν φυλακισμένη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1468704844-1200x675.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ο ΑΣ ΠΑΟΚ ζήτησε την αναβολή όλων των αγώνων των τμημάτων του, λόγω του τραγικού δυστυχήματος στη Ρουμανία",
           "link": "https://www.newsit.gr/athlitika/o-as-paok-zitise-tin-anavoli-olon-ton-agonon-ton-tmimaton-tou-logo-tou-tragikou-dystyximatos-sti-roumania/4585210/",
@@ -239,14 +247,6 @@
           "description": "Η δανή πρωθυπουργός Μέτε Φρεντέρικσεν ξεκαθάρισε πως μπορεί να συζητήσει τα πάντα με τις ΗΠΑ σε σχέση με τη Γροιλανδία, αλλά η «παραχώρηση» αποτελεί «κόκκινη γραμμή»",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-27T092952Z_1620584357_RC2K9JA1CCJV_RTRMADP_5_USA-TRUMP-GREENLAND-768x513.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Ντακάρ 2026: Εντυπωσιακές στιγμές της Οδύσσειας στη Σαουδική Αραβία",
-          "link": "https://www.newsit.gr/auto/ntakar-2026-entyposiakes-stigmes-tis-odysseias-sti-saoudiki-aravia/4583938/",
-          "pubDate": "Tue, 27 Jan 2026 20:20:00 +0000",
-          "description": "Το Ράλι Ντακάρ του 2026 ολοκληρώθηκε προ ημερών στη Σαουδική Αραβία, ωστόσο η σκόνη που σηκώθηκε στην έρημο δεν έχει καθίσει ακόμα, Στις μοτοσυκλέτες, ο ...  \nTo άρθρο Ντακάρ 2026: Εντυπωσιακές στιγμές της Οδύσσειας στη Σαουδική Αραβία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/rally-dakar-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
