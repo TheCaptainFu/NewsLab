@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T18:10:26.715Z",
+  "lastUpdated": "2026-01-27T18:15:29.445Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Σεισμός μεγέθους 4,7 Ρίχτερ στη Ζάκυνθο",
+          "link": "https://www.newsit.gr/ellada/seismos-megethous-4-7-rixter-sti-zakyntho/4585027/",
+          "pubDate": "Tue, 27 Jan 2026 18:10:52 +0000",
+          "description": "Σεισμός μεγέθους 4,7 Ρίχτερ σημειώθηκε το βράδυ της Τρίτης (27.01.2026) στη Ζάκυνθο. Σύμφωνα με την αναθεωρημένη λύση του Γεωδυναμικού Ινστιτούτου, ο σεισμός των 4,7 Ρίχτερ ...  \nTo άρθρο Σεισμός μεγέθους 4,7 Ρίχτερ στη Ζάκυνθο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektaktieidisi-newsit-15-1200x675.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Οι τραυματίες οπαδοί του ΠΑΟΚ είναι πάρα πολύ καλά, τους κοιτάνε οι γιατροί, λέει Έλληνας που πήγε να βοηθήσει στο τροχαίο",
           "link": "https://www.protothema.gr/greece/article/1764398/traumaties-opadoi-tou-paok-einai-para-polu-kala-tous-koitane-oi-giatroi-leei-ellinas-pou-pige-na-voithisei-sto-trohaio/?utm_source=rss",
@@ -181,7 +189,7 @@
           "link": "https://www.in.gr/2026/01/27/greece/seismos-tora-stin-zakyntho/",
           "pubDate": "Tue, 27 Jan 2026 20:06:06 +0300",
           "description": "Το εστιακό βάθος του σεισμού είναι στα 9,7 χιλιόμετρα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/IN_1920_ΕΚΤΑΚΤΑ-9-768x432.jpg",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1440x810_cmsv2_9bfed42b-8e5c-517b-90f5-99483181189b-6991670-1-768x432.jpg",
           "source": "In.gr"
         },
         {
@@ -239,14 +247,6 @@
           "description": "Δείτε live την κίνηση στους δρόμους",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-kinisi-brady.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ένας 60χρονος Γάλλος στο Βέλγιο διώκεται για τον φόνο της  συντρόφου του 17 χρόνια μετά την εξαφάνισή της",
-          "link": "https://www.newsit.gr/kosmos/enas-60xronos-gallos-sto-velgio-dioketai-gia-ton-fono-tis-syntrofou-tou-17-xronia-meta-tin-eksafanisi-tis/4584966/",
-          "pubDate": "Tue, 27 Jan 2026 16:52:35 +0000",
-          "description": "Για φόνο κατηγορείται ένας 60χρονος Γάλλος, σχεδόν 17 χρόνια μετά την εξαφάνιση της συντρόφου του και μητέρας των δύο παιδιών τους με καταγωγή από το ...  \nTo άρθρο Ένας 60χρονος Γάλλος στο Βέλγιο διώκεται για τον φόνο της  συντρόφου του 17 χρόνια μετά την εξαφάνισή της δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/police-belgium.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ελλάδα - Γαλλία 23-5: Με νέο περίπατο η εθνική γυναικών στην επόμενη φάση του ευρωπαϊκού",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510726/ellada-gallia-23-5-me-neo-peripato-i-ethniki-gynaikon-stin",
+          "pubDate": "Tue, 27 Jan 2026 20:13:24 +0200",
+          "description": "Η εθνική ομάδα μετέτρεψε σε προπόνηση και τον αγώνα της με τη Γαλλία στο ευρωπαϊκό πρωτάθλημα του Φούντσαλ με 23-5  και εξασφάλισε την παρουσία της στην επόμενη φάση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vasiliki_plevritou.jpg?itok=fPNTh_CZ",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άρης: Έτοιμος για έναν ακόμη «τελικό» απέναντι στην Μπαχτσεσεχίρ",
+          "link": "https://www.gazzetta.gr/basketball/eurocup/2510725/aris-etoimos-gia-enan-akomi-teliko-apenanti-stin-mpahtsesehir",
+          "pubDate": "Tue, 27 Jan 2026 20:11:08 +0200",
+          "description": "Ο Άρης ολοκλήρωσε την προετοιμασία του ενόψει του αγώνα (28/01,19:00) με την Μπαχτσεσεχίρ στην Κωνσταντινούπολη για την 16η αγωνιστική του Eurocup.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4991354_1_1.jpg?itok=sdJ-EaHI",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η ανακοίνωση της ΚΑΕ Περιστερίου",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510724/paok-dystyhima-sti-roymania-i-anakoinosi-tis-kae-peristerioy",
           "pubDate": "Tue, 27 Jan 2026 20:01:47 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 18:49:42 +0200",
           "description": "Το παιχνίδι κόντρα στην Άλμπα και την τραγωδία με τους οπαδούς του ΠΑΟΚ, σχολίασε ο Ντράγκαν Σάκοτα στις δηλώσεις του, ενόψει της αυριανής αναμέτρησης.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/sakota_3.jpg?itok=E_dp6xZc",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: «Ο αδερφός μου είναι στους νεκρούς»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510703/paok-dystyhima-sti-roymania-o-aderfos-moy-einai-stoys-nekroys",
-          "pubDate": "Tue, 27 Jan 2026 18:45:59 +0200",
-          "description": "Η δήλωση του αδερφού ενός εκ των αδικοχαμένων οπαδών του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_3.jpg?itok=W2i79ag5",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ, Δυστύχημα στη Ρουμανία: Οπαδοί της Τιμισοάρα συγκεντρώνουν χρήματα και δίνουν αίμα",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510702/paok-dystyhima-sti-roymania-opadoi-tis-timisoara-sygkentronoyn",
-          "pubDate": "Tue, 27 Jan 2026 18:45:37 +0200",
-          "description": "Οι οπαδοί της Τιμισοάρα στέκονται δίπλα στους φιλάθλους του ΠΑΟΚ και τις οικογένειές τους, μετά το θανατηφόρο τροχαίο στη Ρουμανία που στοίχισε τη ζωή σε επτά οπαδούς.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/distihima1_0.jpg?itok=1Mi36hN2",
           "source": "Gazzetta"
         }
       ]
