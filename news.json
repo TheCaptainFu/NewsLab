@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T19:05:43.149Z",
+  "lastUpdated": "2026-01-27T19:10:29.581Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Video: Η Κυβέρνηση φέρνει και τα ναρκοτέστ",
+          "link": "https://www.protothema.gr/greece/article/1763981/video-i-kuvernisi-fernei-kai-ta-narkotest/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 21:06:56 +0200",
+          "description": "Σύμφωνα με τις πληροφορίες του newsauto, η εφαρμογή ναρκοτέστ στους ελέγχους της Τροχαίας δεν βρίσκεται πλέον στο επίπεδο της συζήτησης ή των σεναρίων.",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-27/narcotest_alkotest_shutterstock_2610767169.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Λουτσέσκου για το δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία: «Είναι μία τραγωδία, η θλίψη είναι τεράστια»",
           "link": "https://www.newsit.gr/athlitika/loutseskou-gia-to-dystyxima-ton-opadon-tou-paok-sti-roumania-einai-mia-tragodia-i-thlipsi-einai-terastia/4585109/",
@@ -33,7 +41,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "«Σωθήκαμε από θαύμα»: Εργαζόμενοι στη Βιολάντα περιγράφουν τα όσα συνέβησαν στο εργοστάσιο",
+          "title": "«Έσβησαν τα πάντα μετά από έναν κρότο, η φωτιά εξελισσόταν ραγδαία στο δευτερόλεπτο»: Συγκλονιστικές μαρτυρίες από τη Βιολάντα για το μοιραίο ξημέρωμα",
           "link": "https://www.protothema.gr/greece/article/1764421/sothikame-apo-thauma-ergazomenoi-sti-violada-perigrafoun-ta-osa-sunevisan-sto-ergostasio/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 20:58:00 +0200",
           "description": "Η φωτιά «ερχόταν καταπάνω μου» περιέγραψε εργαζόμενoς - Η κυρία Ελένη θυμάται πως άκουσαν ένα δυνατό κρότο και μετά σβήσανε τα πάντα",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 20:28:26 +0300",
           "description": "Μια αναδρομή από το in στις πρόσφατες αγροτικές κινητοποιήσεις, που έληξαν πριν από λίγες μέρες. Το αποτύπωμα του αγώνα του αγροτικού κόσμου με τα μπλόκα να παραμένουν στο δρόμο για 55 ημέρες, το μεγαλύτερο διάστημα στην ιστορία.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/agrotes-10-1200x800-2-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ρωσία: Συνάντηση του Βλαντιμίρ Πούτιν με τον μεταβατικό πρόεδρο της Συρίας, Αλ-Σάρα",
-          "link": "https://www.in.gr/2026/01/27/world/rosia-synantisi-tou-vlantimir-poutin-ton-metavatiko-proedro-tis-syrias-al-sara/",
-          "pubDate": "Tue, 27 Jan 2026 20:27:59 +0300",
-          "description": "Τη δεύτερη συνάντησή τους θα έχουν ο πρόεδρος της Ρωσίας, Άχμεντ Αλ-Σάρα, με τον Ρώσο ομόλογό του, Βλαντιμίρ Πούτιν. Η Δαμασκός ελπίζει ότι θα πετύχει έκδοση του Άσαντ, που διέφυγε στη Ρωσία.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/al-sharaa-1-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -854,7 +854,7 @@
           "title": "Α.Σ. ΠΑΟΚ μετά το δυστύχημα στη Ρουμανία: Αίτημα για αναβολή του ματς με τον Ολυμπιακό για την Α1 Γυναικών",
           "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2510729/paok-meta-dystyhima-sti-roymania-aitima-gia-anaboli-toy-mats",
           "pubDate": "Tue, 27 Jan 2026 20:24:45 +0200",
-          "description": "Ο Α.Σ. ΠΑΟΚ υπέβαλε αίτημα αναβολής του αγώνα με τον Ολυμπιακό στην Α1 μπάσκετ Γυναικών το Σάββατο (01/02, 14:30).",
+          "description": "Ο Α.Σ. ΠΑΟΚ υπέβαλε αίτημα αναβολής του αγώνα με τον Ολυμπιακό στην Α1 μπάσκετ Γυναικών το Σάββατο (31/01, 14:30).",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_1_1.jpg?itok=KVIvW3Hz",
           "source": "Gazzetta"
         },
