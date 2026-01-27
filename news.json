@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T12:35:27.764Z",
+  "lastUpdated": "2026-01-27T12:40:27.153Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Οδύνη στην κηδεία του 19χρονου που σκοτώθηκε σε τροχαίο στη Πάτρα",
+          "link": "https://www.protothema.gr/greece/article/1764197/oduni-stin-kideia-tou-19hronou-pou-skotothike-se-trohaio-sti-patra/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 14:37:00 +0200",
+          "description": "Συγγενείς, φίλοι και πλήθος κόσμου, με λευκά τριαντάφυλλα, αποχαιρέτησαν τον άτυχο νέo",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/kideia-patra__2_.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Grand Hotel – επόμενο επεισόδιο: Αλέξανδρος και Σοφία βλέπουν τον Πέτρο και χάνουν τη γη κάτω από τα πόδια τους",
           "link": "https://www.newsit.gr/media/grand-hotel-epomeno-epeisodio-aleksandros-kai-sofia-vlepoun-ton-petro-kai-xanoun-ti-gi-kato-apo-ta-podia-tous/4584724/",
@@ -233,20 +241,12 @@
           "source": "NewsIT"
         },
         {
-          "title": "Ουκρανία: 3 νεκροί και πάνω από 20 τραυματίες από τις ρωσικές επιθέσεις – Χωρίς ρεύμα το Χάρκοβο",
-          "link": "https://www.newsit.gr/kosmos/oukrania-3-nekroi-kai-pano-apo-20-traymaties-apo-tis-rosikes-epitheseis-xoris-reyma-to-xarkovo/4584616/",
-          "pubDate": "Tue, 27 Jan 2026 11:33:09 +0000",
-          "description": "Τρεις νεκροί και περισσότεροι από 20 τραυματίες είναι ο τραγικός απολογισμός των ρωσικών επιθέσεων στη νότια Ουκρανία, όπως ανακοίνωσαν σήμερα Τρίτη (27.1.26) οι τοπικές αρχές, ...  \nTo άρθρο Ουκρανία: 3 νεκροί και πάνω από 20 τραυματίες από τις ρωσικές επιθέσεις – Χωρίς ρεύμα το Χάρκοβο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ukraine-odesa.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γιώργος Καράβας: «Δεν με απασχολεί η κριτική των άλλων, ας με πουν ψώνιο και αλαζόνα»",
-          "link": "https://www.newsit.gr/lifestyle/giorgos-karavas-den-me-apasxolei-i-kritiki-ton-allon-as-me-poun-psonio-kai-alazona/4584563/",
-          "pubDate": "Tue, 27 Jan 2026 11:28:00 +0000",
-          "description": "«Την περσινή χρονιά υλοποιήθηκαν κάποιοι στόχοι που κυνηγούσα αρκετό καιρό και αυτό με έκανε χαρούμενο», εξομολογήθηκε ο Γιώργος Καράβας σε νέα συνέντευξή του. Ο Γιώργος ...  \nTo άρθρο Γιώργος Καράβας: «Δεν με απασχολεί η κριτική των άλλων, ας με πουν ψώνιο και αλαζόνα» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-karavas-ndp-1200x669.jpg",
-          "source": "NewsIT"
+          "title": "Φυλακές Κασσαβέτειας: 34 κρατούμενοι και ένας φύλακας θετικοί στο τεστ Mantoux",
+          "link": "https://www.in.gr/2026/01/27/greece/fylakes-kassaveteias-34-kratoumenoi-kai-enas-fylakas-thetikoi-sto-test-mantoux/",
+          "pubDate": "Tue, 27 Jan 2026 14:35:41 +0300",
+          "description": "Όσοι βρέθηκαν θετικοί στο Mantoux θα υποβληθούν σε ακτινογραφία θώρακος,",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/fylake-1-1-1.jpg",
+          "source": "In.gr"
         }
       ]
     },
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Το ποσοστό ανεργίας στην Ισπανία πέφτει κάτω από το 10% για πρώτη φορά μετά από σχεδόν δύο δεκαετίες",
+          "link": "http://gr.euronews.com/business/2026/01/27/anergia-stin-ispania-epese-katw-apo-10-tois-ekato-gia-proti-fora",
+          "pubDate": "Tue, 27 Jan 2026 13:33:56 +0100",
+          "description": "Το ποσοστό ανεργίας στην Ισπανία μειώθηκε στο 9,93% το τέταρτο τρίμηνο του 2025, σηματοδοτώντας την πρώτη φορά μετά από 17 χρόνια που η ανεργία έπεσε κάτω από το όριο του 10% χάρη στη δημιουργία 605.400 νέων θέσεων εργασίας κατά το προηγούμενο έτος.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Έξι ευρωπαϊκές χώρες χάνουν το καθεστώς χωρίς ιλαρά, καθώς τα κρούσματα εκτοξεύονται πανευρωπαϊκά",
+          "link": "http://gr.euronews.com/health/2026/01/27/six-european-countries-have-lost-their-measles-free-status-as-cases-surge-across-the-conti",
+          "pubDate": "Tue, 27 Jan 2026 13:30:12 +0100",
+          "description": "Αρμενία, Αυστρία, Αζερμπαϊτζάν, Ισπανία, Ηνωμένο Βασίλειο και Ουζμπεκιστάν δεν αναγνωρίζονται πλέον ως ελεύθερες από ιλαρά, μετά την έξαρση κρουσμάτων το 2024.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "India and EU announce landmark trade deal",
           "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 12:23:54 GMT",
@@ -723,22 +739,6 @@
           "description": "Η Επιτροπή της ΕΕ σφράγισε την Τρίτη συμφωνία ελεύθερου εμπορίου με την Ινδία, μειώνοντας τους δασμούς για τα προϊόντα της ΕΕ, εξαιρώντας τη γεωργία για να κατευνάσει τις ινδικές αρχές - Οι κερδισμένοι της συμφωνίας",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
-          "link": "https://www.bbc.com/news/articles/cpqyp9w84eeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 07:30:12 GMT",
-          "description": "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc12/live/bdf0fa00-fb4f-11f0-8a3f-efae3b17f55b.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Philippines' Duterte fit to face ICC proceedings, judges say",
-          "link": "https://www.bbc.com/news/articles/c0lx2pj84l4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 07:12:55 GMT",
-          "description": "The 80-year-old is accused of crimes of humanity over his bloody war on drugs that left thousands killed.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/801b/live/07d9eec0-fb4a-11f0-8a3f-efae3b17f55b.jpg",
-          "source": "BBC News"
         }
       ]
     },
