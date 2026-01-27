@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T19:55:32.783Z",
+  "lastUpdated": "2026-01-27T20:05:33.077Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Συγγενείς και φίλοι των αδικοχαμένων οπαδών του ΠΑΟΚ από το νοσοκομείο στην Ρουμανία",
+          "link": "https://www.newsit.gr/athlitika/syggeneis-kai-filoi-ton-adikoxamenon-opadon-tou-paok-apo-to-nosokomeio-stin-roumania/4585152/",
+          "pubDate": "Tue, 27 Jan 2026 20:01:56 +0000",
+          "description": "Έξω από το νοσοκομείο στη Ρουμανία βρίσκονται συγγενείς και φίλοι των θυμάτων του τραγικού δυστυχήματος των οπαδών του ΠΑΟΚ, που στέρησε τη ζωή σε επτά ...  \nTo άρθρο Συγγενείς και φίλοι των αδικοχαμένων οπαδών του ΠΑΟΚ από το νοσοκομείο στην Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok20-26012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "UEFA: «Στεκόμαστε στο πλευρό του ΠΑΟΚ για το τραγικό δυστύχημα στη Ρουμανία»",
           "link": "https://www.newsit.gr/athlitika/uefa-stekomaste-sto-pleyro-tou-paok-gia-to-tragiko-dystyxima-sti-roumania/4585148/",
@@ -97,6 +105,22 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Βιολάντα: Σοβαρές παραλείψεις στα συστήματα ασφάλειας οδήγησαν στη φονική έκρηξη – Σοκάρουν οι τρύπιοι σωλήνες προπανίου",
+          "link": "https://www.in.gr/2026/01/27/greece/violanta-sovares-paraleipseis-sta-systimata-asfaleias-odigisan-sti-foniki-ekriksi-sokaroun-oi-trypioi-solines-propaniou/",
+          "pubDate": "Tue, 27 Jan 2026 22:03:31 +0300",
+          "description": "Σύμφωνα με πληροφορίες οι έρευνες των έμπειρων αξιωματικών της ΔΑΕΕ έχουν εντοπίσει σοβαρές αστοχίες στις σωληνώσεις αλλά και στο σύστημα ανίχνευσης διαρροής στο εργοστάσιο Βιολάντα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/PYRKAGIA-VIOLANTA-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Συλλυπητήρια Νίκου Γκάλη: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι» (pic)",
+          "link": "https://www.in.gr/2026/01/27/sports/football/syllypitiria-nikou-gkali-einai-eksairetika-lypiro-na-xanoun-ti-zoi-tous-neoi-anthropoi-pic/",
+          "pubDate": "Tue, 27 Jan 2026 22:00:23 +0300",
+          "description": "Στο τραγικό δυστύχημα στη Ρουμανία, στο οποίο έχασαν τη ζωή τους φίλαθλοι του ΠΑΟΚ, αναφέρθηκε με ανάρτησή του ο Νίκος Γκάλης",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Gkalis-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Λουτσέσκου για το δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία: «Είναι μία τραγωδία, η θλίψη είναι τεράστια»",
           "link": "https://www.newsit.gr/athlitika/loutseskou-gia-to-dystyxima-ton-opadon-tou-paok-sti-roumania-einai-mia-tragodia-i-thlipsi-einai-terastia/4585109/",
           "pubDate": "Tue, 27 Jan 2026 18:59:24 +0000",
@@ -154,10 +178,10 @@
         },
         {
           "title": "Ολυμπιακός: Προπόνηση υπό βροχή στο «Johan Cruyff Arena»  (pics+vids)",
-          "link": "https://www.in.gr/2026/01/27/sports/proponithike-sto-thryliko-johan-cruyff-arena-o-olympiakos-pics/",
+          "link": "https://www.in.gr/2026/01/27/sports/football/proponithike-sto-thryliko-johan-cruyff-arena-o-olympiakos-pics/",
           "pubDate": "Tue, 27 Jan 2026 21:41:56 +0300",
           "description": "Ο Ολυμπιακός προπονήθηκε στο γήπεδο του Άγιαξ, ενόψει του αυριανού (28/1) πολύ μεγάλου παιχνιδιού του Champions League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827178-768x512.jpg",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827163-768x512.jpg",
           "source": "In.gr"
         },
         {
@@ -223,30 +247,6 @@
           "description": "Το ΠΑΣΟΚ τονίζει πως δεν θα επιτρέψει να χαθεί η αλήθεια «ούτε να στηθεί ένα βολικό αφήγημα συμψηφισμού και διαχρονικών ευθυνών» για το σκάνδαλο του ΟΠΕΚΕΠΕ",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pasok_2-1-768x432.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Νέο επεισόδιο στις ΗΠΑ: Ένα άτομο σε κρίσιμη κατάσταση μετά από πυροβολισμούς με τη συνοριοφυλακή στην Αριζόνα",
-          "link": "https://www.in.gr/2026/01/27/world/neo-epeisodio-stis-ipa-ena-atomo-se-krisimi-katastasi-meta-apo-pyrovolismous-ti-synoriofylaki-stin-arizona/",
-          "pubDate": "Tue, 27 Jan 2026 21:11:17 +0300",
-          "description": "Μετά από δύο δολοφονίες της ICE στην Μινεάπολη, ένα νέο περιστατικό στην Αριζόνα προκαλεί θύελλα αντιδράσεων στις ΗΠΑ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/3464-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Σεισμός μεγέθους 4,7 Ρίχτερ στη Ζάκυνθο",
-          "link": "https://www.newsit.gr/ellada/seismos-megethous-4-7-rixter-sti-zakyntho/4585027/",
-          "pubDate": "Tue, 27 Jan 2026 18:10:52 +0000",
-          "description": "Σεισμός μεγέθους 4,7 Ρίχτερ σημειώθηκε το βράδυ της Τρίτης (27.01.2026) στη Ζάκυνθο. Σύμφωνα με την αναθεωρημένη λύση του Γεωδυναμικού Ινστιτούτου, ο σεισμός των 4,7 Ρίχτερ ...  \nTo άρθρο Σεισμός μεγέθους 4,7 Ρίχτερ στη Ζάκυνθο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/seismos-zakunthos-1200x754.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Οι τραυματίες οπαδοί του ΠΑΟΚ είναι πάρα πολύ καλά, τους κοιτάνε οι γιατροί, λέει Έλληνας που πήγε να βοηθήσει στο τροχαίο",
-          "link": "https://www.protothema.gr/greece/article/1764398/traumaties-opadoi-tou-paok-einai-para-polu-kala-tous-koitane-oi-giatroi-leei-ellinas-pou-pige-na-voithisei-sto-trohaio/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 20:08:29 +0200",
-          "description": "Από την πρώτη στιγμή είμαστε εδώ για να βοηθήσουμε, είπε ο Γιώργος Καραμήτρος",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/troxaio-roumania__1_.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Συγγενείς και φίλοι των αδικοχαμένων οπαδών του ΠΑΟΚ από το νοσοκομείο στην Ρουμανία",
+          "link": "https://www.newsit.gr/athlitika/syggeneis-kai-filoi-ton-adikoxamenon-opadon-tou-paok-apo-to-nosokomeio-stin-roumania/4585152/",
+          "pubDate": "Tue, 27 Jan 2026 20:01:56 +0000",
+          "description": "Έξω από το νοσοκομείο στη Ρουμανία βρίσκονται συγγενείς και φίλοι των θυμάτων του τραγικού δυστυχήματος των οπαδών του ΠΑΟΚ, που στέρησε τη ζωή σε επτά ...  \nTo άρθρο Συγγενείς και φίλοι των αδικοχαμένων οπαδών του ΠΑΟΚ από το νοσοκομείο στην Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok20-26012026.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "F1 - Πώς λειτουργεί η ενεργή αεροδυναμική στα νέα μονοθέσια (vid)",
+          "link": "https://www.gazzetta.gr/gmotion/2510627/f1-pos-leitoyrgoyn-ta-energa-aerodynamika-sta-monothesia-tis-f1-vid",
+          "pubDate": "Tue, 27 Jan 2026 22:00:00 +0200",
+          "description": "Αυτό είναι το πρώτο δείγμα σχετικά με το τη λειτουργία μιας από τις μεγαλύτερες φετινές καινοτομίες, τον ενεργών αεροδυναμικών βοηθημάτων, στα μονοθέσια της Formula 1.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/2601barcelonad1-31.jpg?itok=wNlxIBfA",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: «... να σε λέω πως σ’ αγαπώ και για σένανε να σκοτωθώ»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510735/paok-dystyhima-sti-roymania-na-se-leo-pos-s-agapo-kai-gia-senane-na",
+          "pubDate": "Tue, 27 Jan 2026 21:58:44 +0200",
+          "description": "Ο Μιχάλης Τσαμπάς γράφει στο Gazzetta για την Ελλάδα που συγκλονισμένη παρακολουθεί ακόμη μια τραγωδία με νέα παιδιά που... έφυγαν σε μια παγωμένη άσφαλτο ακολουθώντας την ομάδα τους!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paokk_16.jpg?itok=XKdlV4Fy",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Άρης: «Ο Γκαρέ δανεικός από τη Βάσκο»",
           "link": "https://www.gazzetta.gr/football/superleague/2510750/aris-o-gkare-daneikos-apo-ti-basko",
           "pubDate": "Tue, 27 Jan 2026 21:51:24 +0200",
@@ -961,30 +985,6 @@
           "description": "Ο Ραζβάν Λουτσέσκου μίλησε σε ρουμανικό Μέσο για το τραγικό δυστύχημα που συνέβη στη Ρουμανία με τους οπαδούς του ΠΑΟΚ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lucescu_1.jpg?itok=68AsN3Yq",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Α.Σ. ΠΑΟΚ μετά το δυστύχημα στη Ρουμανία: Αίτημα για αναβολή του ματς με τον Ολυμπιακό για την Α1 Γυναικών",
-          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2510729/paok-meta-dystyhima-sti-roymania-aitima-gia-anaboli-toy-mats",
-          "pubDate": "Tue, 27 Jan 2026 20:24:45 +0200",
-          "description": "Ο Α.Σ. ΠΑΟΚ υπέβαλε αίτημα αναβολής του αγώνα με τον Ολυμπιακό στην Α1 μπάσκετ Γυναικών το Σάββατο (31/01, 14:30).",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_1_1.jpg?itok=KVIvW3Hz",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Βιολάντα: Συνελήφθη ο ιδιοκτήτης και δύο στελέχη μετά την τραγωδία με τις 5 νεκρές στα Τρίκαλα",
-          "link": "https://www.gazzetta.gr/plus/2510728/biolanta-synelifthi-o-idioktitis-kai-dyo-stelehi-meta-tin-tragodia-me-tis-5-nekres-sta",
-          "pubDate": "Tue, 27 Jan 2026 20:15:56 +0200",
-          "description": "Ραγδαίες εξελίξεις στην υπόθεση της Βιολάντα. Συνελήφθη ο ιδιοκτήτης και δύο στελέχη του εργοστασίου στα Τρίκαλα για την έκρηξη που κόστισε τη ζωή σε πέντε εργαζόμενες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/biolanta.jpg?itok=FbzywUj-",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Δυστύχημα στη Ρουμανία: Αναβλήθηκε το ντέρμπι της ΑΕΚ με τον ΠΑΟΚ για την Α1 Γυναικών",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510727/dystyhima-sti-roymania-anablithike-ntermpi-tis-aek-me-ton-paok-gia",
-          "pubDate": "Tue, 27 Jan 2026 20:14:38 +0200",
-          "description": "Η ΟΧΕ ανέβαλε το ντέρμπι πρωτιάς ανάμεσα σε ΑΕΚ και ΠΑΟΚ για την Α1 Γυναικών και εξέφρασε την θλίψη της για τον χαμό των 7 φίλων του «δικεφάλου του βορρά».",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4879112_1.jpg?itok=drLahDqX",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Ξεκαθάρισμα στον Παναθηναϊκό: Τέσσερις παίκτες φεύγουν άμεσα!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/ksekatharisma-ston-panathinaiko-tesseris-paiktes-feugoun-amesa/?utm_source=rss&utm_medium=rss&utm_campaign=ksekatharisma-ston-panathinaiko-tesseris-paiktes-feugoun-amesa",
+          "pubDate": "Tue, 27 Jan 2026 19:58:36 +0000",
+          "description": "Εκτός από τις μεταγραφικές προσθήκες, το «τριφύλλι» μπαίνει σε φάση ξεκαθαρίσματος του ρόστερ με τέσσερις παίκτες στο επίκεντρο. Σε πλήρη εξέλιξη βρίσκεται ο μεταγραφικός σχεδιασμός του Παναθηναϊκού, με τους ανθρώπους της ομάδας να κινούνται ταυτόχρονα τόσο για ενίσχυση όσο και για αποσυμφόρηση του ρόστερ. Μέχρι την ολοκλήρωση της χειμερινής περιόδου μεταγραφών στις 6 Φεβρουαρίου, πέρα […]\nThe post Ξεκαθάρισμα στον Παναθηναϊκό: Τέσσερις παίκτες φεύγουν άμεσα! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Το μήνυμα του Μητσοτάκη για την τραγωδία στη Ρουμανία: «Βαθιά συγκλονισμένος…» – Η πρώτη κίνηση της Κυβέρνησης",
           "link": "https://panathinaikos24.gr/2026/01/27/617981/to-minyma-tou-mitsotaki-gia-tin-tragodia-sti-roumania-vathia-sygklonismenos-i-proti-kinisi-tis-kyvernisis/",
@@ -1201,14 +1209,6 @@
           "source": "Trifilara"
         },
         {
-          "title": "ΠΑΕ Παναθηναϊκός: «Είμαστε συγκλονισμένοι!»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/pae-panathinaikos-eimaste-sygklonis/?utm_source=rss&utm_medium=rss&utm_campaign=pae-panathinaikos-eimaste-sygklonis",
-          "pubDate": "Tue, 27 Jan 2026 15:01:50 +0000",
-          "description": "Με ανακοίνωση που εξέδωσε, η ΠΑΕ Παναθηναϊκός εξέφρασε τη θλίψη της για τον χαμό των οπαδών του ΠΑΟΚ στη Ρουμανία. Ένα σοκαριστικό τροχαίο δυστύχημα σημειώθηκε την Τρίτη 27 Ιανουαρίου 2026 στη Ρουμανία, όταν ένα μίνι βαν που μετέφερε οπαδούς του ΠΑΟΚ συγκρούστηκε με βυτιοφόρο και στη συνέχεια με φορτηγό στον αυτοκινητόδρομο DN6 – E70, στην […]\nThe post ΠΑΕ Παναθηναϊκός: «Είμαστε συγκλονισμένοι!» appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/sima-penthos.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "«Καλό ταξίδι Αετόπουλα»: Το συγκινητικό μήνυμα του Ερασιτέχνη Παναθηναϊκού για τους αδικοχαμένους οπαδούς του ΠΑΟΚ",
           "link": "https://panathinaikos24.gr/2026/01/27/617969/kalo-taksidi-aetopoula-to-sygkinitiko-minyma-tou-erasitexni-panathinaikou-gia-tous-adikoxamenous-opadous-tou-paok/",
           "pubDate": "Tue, 27 Jan 2026 14:42:06 +0000",
@@ -1238,6 +1238,14 @@
       "title": "ΤΕΧΝΟΛΟΓΙΑ & SCIENCE",
       "color": "pink",
       "articles": [
+        {
+          "title": "Από το Search στο Chat: Η νέα μεγάλη αναβάθμιση της Google",
+          "link": "https://www.techgear.gr/apo-to-search-sto-chat-i-nea-megali-anavathmisi-tis-google-47349",
+          "pubDate": "Tue, 27 Jan 2026 22:03:00 +0200",
+          "description": "Η Google ανακοίνωσε μια σειρά από καίριες αλλαγές στην πλατφόρμα του Google Search. Στο επίκεντρο αυτών των εξελίξεων βρίσκεται η φιλοσοφία του «Just ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/google-ask-anything.jpg",
+          "source": "Techgear"
+        },
         {
           "title": "Η ΕΕ βάζει οριστικό «λουκέτο» στο ρωσικό αέριο μέχρι το 2027",
           "link": "https://www.techgear.gr/i-ee-vazei-oristiko-loyketo-sto-rosiko-aerio-mechri-to-2027-47348",
@@ -1468,14 +1476,6 @@
           "pubDate": "Mon, 26 Jan 2026 15:53:13 +0000",
           "description": "Υπό την πίεση αγωγών και πολιτικών αντιδράσεων, η εταιρεία αναστέλλει την πρόσβαση ανηλίκων στα chatbots της μέχρι να δημιουργήσει ασφαλείς δικλείδες ελέγχου για τους γονείς.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/m/meta-block/meta-blocks-teens-from-chatting-with-its-ai-characters_fb22.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Apple Watch: Ανιχνεύει έως και 4 φορές πιο αποτελεσματικά την κολπική μαρμαρυγή σύμφωνα με νέα έρευνα",
-          "link": "https://gr.pcmag.com/smartwatches/51126/apple-watch-anikhneuei-eos-kai-4-phores-pio-apotelesmatika-ten-kolpike-marmaruge-sumphona-me-nea-ere",
-          "pubDate": "Mon, 26 Jan 2026 15:36:20 +0000",
-          "description": "Μελέτη σε άτομα υψηλού κινδύνου έδειξε ότι το έξυπνο ρολόι της Apple εντοπίζει σημαντικά περισσότερες περιπτώσεις αρρυθμίας σε σχέση με τις παραδοσιακές μεθόδους, σώζοντας ζωές από πιθανά εγκεφαλικά.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/a/apple-watc/apple-watch-can-enhance-the-detection-of-heart-arrhythmias-s_p5hu.jpg",
           "source": "PC Magazine"
         }
       ]
