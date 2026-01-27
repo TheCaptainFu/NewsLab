@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T18:52:56.198Z",
+  "lastUpdated": "2026-01-27T18:55:24.971Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ιράν: Φόβοι για δεκάδες χιλιάδες νεκρούς στις διαδηλώσεις",
+          "link": "http://gr.euronews.com/2026/01/27/iran-foboi-gia-dekades-xiliades-nekroys-stis-diadhlwseis",
+          "pubDate": "Tue, 27 Jan 2026 19:51:29 +0100",
+          "description": "Μπλακ άουτ επικοινωνιών, αντικρουόμενες εκτιμήσεις και καταγγελίες για συστηματική εξόντωση τραυματιών",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Ανάλυση: Οι διαμαρτυρίες του Ιράν και η παγκόσμια ευθύνη",
           "link": "http://gr.euronews.com/2026/01/27/analysh-oi-diamartyries-toy-iran-kai-h-pagkosmia-ey8ynh",
           "pubDate": "Tue, 27 Jan 2026 19:11:43 +0100",
@@ -731,14 +739,6 @@
           "description": "Shop owners say the frowning toys - originally made in error - are resonating with young workers.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a78/live/e6b6c3b0-fb78-11f0-9fd1-99e08ea50909.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Ρουμανία: Νεκροί 7 φίλαθλοι του ΠΑΟΚ που ταξίδευαν για την Λυών της Γαλλίας",
-          "link": "http://gr.euronews.com/2026/01/27/romania-nekroi-7-ellines-to-moiraio-oxima-tous-metefere-sti-gallia",
-          "pubDate": "Tue, 27 Jan 2026 14:49:37 +0100",
-          "description": "Η μοιραία προσπέραση και οι εκτιμήσεις της αστυνομίας",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
