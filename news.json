@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T09:55:26.886Z",
+  "lastUpdated": "2026-01-27T10:00:04.047Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,18 @@
       "color": "red",
       "articles": [
         {
+          "title": "Καιρός: Διαδοχικά κύματα κακοκαιρίας βλέπουν Μαρουσάκης, Κολυδάς και Τσατραφύλλιας - Το ένα θα είναι αρκετά έντονο και θα επηρεαστεί η Αττική",
+          "link": "https://www.protothema.gr/greece/article/1764086/kairos-diadohika-kumata-kakokairias-vlepoun-marousakis-koludas-kai-tsatrafullias-tha-epireastei-i-attiki/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 11:59:49 +0200",
+          "description": "Δείτε τις προγνώσεις των τριών μετεωρολόγων για τον καιρό των επόμενων ημερών",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/vroxi_attiki_xr.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
           "title": "Τα πρώτα ευρήματα για την έκρηξη στο εργοστάσιο της Βιολάντα δείχνουν διαρροή αερίου\n",
           "link": "https://www.protothema.gr/greece/article/1764082/ta-prota-eurimata-gia-tin-ekrixi-sto-ergostasio-tis-violada-deihnoun-diarroi-aeriou/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 11:52:27 +0200",
-          "description": "Πέντε γυναίκες έχασαν τη ζωή τους από τη φονική έκρηξη, που προκάλεσε μεγάλη πυρκαγιά - Συνεχίζονται οι έρευνες στο σημείο",
+          "pubDate": "Tue, 27 Jan 2026 11:52:00 +0200",
+          "description": "Πέντε γυναίκες έχασαν τη ζωή τους από τη φονική έκρηξη - Συνεχίζονται οι έρευνες στο σημείο της τραγωδίας",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/maketa-trikala.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 09:00:40 +0000",
           "description": "Ένα διαφορετικό στιγμιότυπο της Τζόρτζια Μελόνι κάνει τον γύρο των social media, με την Ιταλίδα πρωθυπουργό να μαθαίνει πώς φτιάχνονται τα παραδοσιακά τορτελίνια. Μακριά από ...  \nTo άρθρο Η Τζόρτζια Μελόνι μαθαίνει πώς να φτιάχνει τορτελίνια δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/georgia-meloni.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Φειδίας Παναγιώτου: Θύελλα αντιδράσεων μετά από σχόλιο του ευρωβουλευτή για αθλητές με νοητική αναπηρία",
-          "link": "https://www.newsit.gr/kosmos/feidias-panagiotou-thyella-antidraseon-meta-apo-sxolio-tou-eyrovouleyti-gia-athlites-me-noitiki-anapiria/4584472/",
-          "pubDate": "Tue, 27 Jan 2026 08:58:15 +0000",
-          "description": "Ο Φειδίας Παναγιώτου έγινε για ακόμα μια φορά αρνητικός πρωταγωνιστής σε συζήτηση που είχε προ ημερών για αθλητές με νοητική αναπηρία. Οι αντιδράσεις ξεκίνησαν από ...  \nTo άρθρο Φειδίας Παναγιώτου: Θύελλα αντιδράσεων μετά από σχόλιο του ευρωβουλευτή για αθλητές με νοητική αναπηρία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/feidiaspanagiotou.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Trump raises US tariffs on South Korea imports to 25%",
+          "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 09:56:04 GMT",
+          "description": "Trump has accused Seoul of \"not living up\" to a trade deal that was reached last year.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5081/live/22f93670-fb18-11f0-a2c0-71839ce781f8.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "India and EU announce landmark trade deal",
           "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 09:37:58 GMT",
@@ -688,7 +696,7 @@
           "title": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
           "link": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 05:37:52 GMT",
-          "description": "Under the plan, access to Meta platforms' core services would remain free to use.",
+          "description": "Under the plan, access to the Meta platforms' core services would remain free to use.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa4/live/f5a13ad0-fb38-11f0-9ffe-0d55f5bffcbe.jpg",
           "source": "BBC News"
         },
@@ -714,14 +722,6 @@
           "pubDate": "Tue, 27 Jan 2026 04:39:24 GMT",
           "description": "He has been described as an avid outdoorsman who loved mountain biking.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/fc00db50-fb52-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump raises US tariffs on South Korea imports to 25%",
-          "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 03:06:18 GMT",
-          "description": "Trump has accused Seoul of \"not living up\" to a trade deal that was reached last year.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5081/live/22f93670-fb18-11f0-a2c0-71839ce781f8.jpg",
           "source": "BBC News"
         },
         {
@@ -784,6 +784,14 @@
           "pubDate": "Tue, 27 Jan 2026 11:35:25 +0200",
           "description": "Άσχημα νέα προέκυψαν για τον Παναθηναϊκό απο τα αποτελέσματα της μαγνητικής στην οποία υποβλήθηκε ο Πέδρο Τσιριβέγια.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/chirivella_eurokinisi.jpg?itok=_VQdU78B",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πώς η ανακάλυψη αξίας 4,5 τρισεκατομμυρίων λιρών στην Αυστραλία μπορεί να αλλάξει την παγκόσμια οικονομία",
+          "link": "https://www.gazzetta.gr/plus/2510562/pos-i-anakalypsi-axias-45-trisekatommyrion-liron-stin-aystralia-mporei-na-allaxei-tin",
+          "pubDate": "Tue, 27 Jan 2026 11:33:58 +0200",
+          "description": "Ένας σημαντικός φυσικός πόρος ανακαλύφθηκε στην Αυστραλία που είναι ικανός να αλλάξει όλη την παγκόσμια οικονομία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/joey-csunyo-2eguir00utk-unsplash.jpg?itok=yZIXfBFm",
           "source": "Gazzetta"
         },
         {
@@ -977,14 +985,6 @@
           "description": "Φήμες ήθελαν τον Κώστα Τσιμίκα να φεύγει από τη Ρόμα και να επιστρέφει στη Λίβερπουλ. Τις τελευταίες ημέρες υπήρξε σενάριο επιστροφής του Κώστα Τσιμίκα στη ...  \nTo άρθρο Ανατροπή με Κώστα Τσιμίκα: Προς παραμονή στη Ρόμα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tsimikas-3-1200x768.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Μέχρι πότε μπορείτε να εκδώσετε διαβατήριο με την παλιά ταυτότητα",
-          "link": "https://www.gazzetta.gr/plus/2510531/mehri-pote-mporeite-na-ekdosete-diabatirio-me-tin-palia-taytotita",
-          "pubDate": "Tue, 27 Jan 2026 09:57:00 +0200",
-          "description": "Η ψηφιοποίηση της διαδικασίας φέρνει πολλαπλά πλεονεκτήματα για τους πολίτες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/751ecfc4-1767987379475-443991122-diavatirio.jpg?itok=82hnceFg",
-          "source": "Gazzetta"
         }
       ]
     },
