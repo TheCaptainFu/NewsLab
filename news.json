@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T05:20:29.650Z",
+  "lastUpdated": "2026-01-27T05:25:25.314Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τραγωδία στα Τρίκαλα: Έλιωσε μέχρι και ο χάλυβας από τη φωτιά στο εργοστάσιο της Βιολάντα - Τα ερωτήματα για την τραγωδία",
+          "link": "https://www.protothema.gr/greece/article/1763882/tragodia-sta-trikala-oi-ereunes-gia-tin-ekrixi-sti-violada-kai-oi-pithanes-aities-tis-katastrofis/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 07:20:51 +0200",
+          "description": "Βασικό σενάριο που εξετάζεται αυτό της «βίαιης έκρηξης» - Η Διεύθυνση Αντιμετώπισης Εγκλημάτων Εμπρησμού έχει ήδη μεταβεί στο σημείο και συλλέγει καταθέσεις",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/violanta_ergostasio.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Πόσο λείπει μια ρεζέρβα από το αυτοκίνητο",
           "link": "https://www.newsit.gr/auto/poso-leipei-mia-rezerva-apo-to-aytokinito/4582569/",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 05:30:11 +0300",
           "description": "Ο αρχηγός των επιχειρήσεων στην Μινεάπολη, Γκρεγκ Μποβίνο, αναμένεται να αναχωρήσει μαζί με ορισμένους πράκτορές του, σε αυτό που φαίνεται ως η πρώτη μεγάλη ήττα του Τραμπ στο εσωτερικό της χώρας.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/bovino-reuters-768x519.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τα αεροπλανοφόρα των ΗΠΑ πλησιάζουν το Ιράν, αλλά ο Παχλαβί δεν θα το κυβερνήσει ποτέ",
-          "link": "https://www.in.gr/2026/01/27/world/ta-aeroplanofora-ton-ipa-plisiazoun-iran-alla-o-paxlavi-den-tha-kyvernisei-pote/",
-          "pubDate": "Tue, 27 Jan 2026 05:00:47 +0300",
-          "description": "Ιρανοί ειδικοί στις ΗΠΑ εξηγούν γιατί στην πραγματικότητα ο βασιλόπαις Παχλαβί βλάπτει τους αντικυβερνητικούς του Ιράν.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pahlevi-iran-in.gr_-768x548.jpg",
           "source": "In.gr"
         }
       ]
@@ -533,6 +533,14 @@
           "source": "BBC News"
         },
         {
+          "title": "Japan court orders compensation for migrants lured to North Korea",
+          "link": "https://www.bbc.com/news/articles/c23r2l81708o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 02:23:45 GMT",
+          "description": "The plaintiffs said North Korea was marketed to them as \"paradise on Earth\".",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b5/live/2716d0d0-fb1f-11f0-95a7-23b039032098.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "'Major step': French MPs vote in favour of bill to ban social media for under-15s",
           "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 01:12:19 GMT",
@@ -731,14 +739,6 @@
           "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 26 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Private jet carrying eight people crashes in Maine",
-          "link": "https://www.bbc.com/news/articles/cddgqqd0peno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 16:51:52 GMT",
-          "description": "Poor visibility was reported at the airport during a winter storm that has affected a large swathe of the US.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86af/live/f61d1ca0-faab-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
         }
       ]
     },
