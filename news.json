@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T22:05:27.369Z",
+  "lastUpdated": "2026-01-27T22:10:31.346Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Former French senator found guilty of drugging MP",
+          "link": "https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 22:04:40 GMT",
+          "description": "Joel Guerriau received a four-year prison sentence, 18 months of which are to be served behind bars.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f8f/live/fb2a9ef0-fba7-11f0-b852-153f64f31c74.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Ο Ρούτε αντιμετωπίζει αντιδράσεις επειδή είπε στους Ευρωπαίους να \"συνεχίσουν να ονειρεύονται\" την ανεξαρτησία από την ασφάλεια των ΗΠΑ",
           "link": "http://gr.euronews.com/my-europe/2026/01/27/o-royte-antimetwpizei-antidraseis-epeidh-eipe-stoys-eyrwpaioys-na-synexisoyn-na-oneireyon",
           "pubDate": "Tue, 27 Jan 2026 22:52:17 +0100",
@@ -731,14 +739,6 @@
           "description": "Συνέντευξη στο Euronews: η επίτροπος ΕΕ για τεχνολογική κυριαρχία Χέννα Βίρκουνεν: ΤΝ, έρευνα στο Grok του X και πιθανό μπλόκο στα social media σε παιδιά.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Η Μπίλι Άιλις καλεί τους διάσημους να μιλήσουν εναντίον της υπηρεσίας ICE ",
-          "link": "http://gr.euronews.com/culture/2026/01/27/billie-eilisi-kalei-celebrities-se-antidrasi-kata-tis-ice",
-          "pubDate": "Tue, 27 Jan 2026 17:02:46 +0100",
-          "description": "Η δολοφονία του 37χρονου νοσηλευτή Alex Pretti προκάλεσε μαζικές διαμαρτυρίες και η ποπ σταρ Billie Eilish καλεί περισσότερους να μιλήσουν κατά των ενεργειών της ICE.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -747,11 +747,27 @@
       "color": "green",
       "articles": [
         {
+          "title": "Coppa Italia: Στους «8» η τρομερή Κόμο, τραυματίστηκε ο Δουβίκας",
+          "link": "https://www.gazzetta.gr/football/kypello-italias/2510772/coppa-italia-stoys-8-i-tromeri-komo-traymatistike-o-doybikas",
+          "pubDate": "Wed, 28 Jan 2026 00:05:51 +0200",
+          "description": "Η Κόμο πέρασε νικηφόρα (3-1) από το «Αρτέμιο Φράνκι», απέκλεισε τη Φιορεντίνα στη φάση των «16» και συνεχίζει ακάθεκτη. Τραυματίστηκε ο Δουβίκας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2258548229_1.jpg?itok=hxIfJmKn",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παρί - Ρεάλ Μαδρίτης 98-92: Της «έκλεψε» το στέμμα",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510771/pari-real-madritis-98-92-tis-eklepse-stemma",
+          "pubDate": "Wed, 28 Jan 2026 00:05:21 +0200",
+          "description": "Η Παρί διατήρησε την ψυχραιμία της και ακόμη κι αν απειλήθηκε από τη Ρεάλ επέστρεψε στις νίκες με το 98-92 βάζοντας τέλος στο σερί 6 νικών της «βασίλισσας».",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hifi_real_paris_getty_1.jpg?itok=shKNLBEl",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Συλλυπητήρια του πρωθυπουργού της Ρουμανίας για τον χαμό των επτά οπαδών του ΠΑΟΚ",
-          "link": "https://www.newsit.gr/uncategorized/syllypitiria-tou-prothypourgou-tis-roumanias-gia-ton-xamo-ton-epta-opadon-tou-paok/4585214/",
+          "link": "https://www.newsit.gr/athlitika/syllypitiria-tou-prothypourgou-tis-roumanias-gia-ton-xamo-ton-epta-opadon-tou-paok/4585214/",
           "pubDate": "Tue, 27 Jan 2026 22:04:27 +0000",
           "description": "Συλλυπητήρια του πρωθυπουργού της Ρουμανίας, Ίλιε Μπολοζάν για τον τραγικό θάνατο των επτά οπαδών του ΠΑΟΚ σε τροχαίο δυστύχημα έξω από την Τιμισοάρα την Τρίτη ...  \nTo άρθρο Συλλυπητήρια του πρωθυπουργού της Ρουμανίας για τον χαμό των επτά οπαδών του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": null,
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok21-26012026.jpg",
           "source": "NewsIT"
         },
         {
@@ -968,22 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 21:47:05 +0200",
           "description": "Μετά την ήττα της Καρδίτσας από την Τόφας (79-93), η θεσσαλική ομάδα υπέπεσε στο 0-2  στον όμιλό της, με ματς περισσότερο.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-01/papanikolopoulos.jpg?itok=3e9mSHUj",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "UEFA: «Στεκόμαστε στο πλευρό του ΠΑΟΚ για το τραγικό δυστύχημα στη Ρουμανία»",
-          "link": "https://www.newsit.gr/athlitika/uefa-stekomaste-sto-pleyro-tou-paok-gia-to-tragiko-dystyxima-sti-roumania/4585148/",
-          "pubDate": "Tue, 27 Jan 2026 19:46:39 +0000",
-          "description": "Η UEFA προχώρησε σε ανακοίνωση υποστήριξης στον ΠΑΟΚ, μετά το τραγικό δυστύχημα στη Ρουμανία, που στοίχισε τη ζωή σε επτά οπαδούς της ομάδας της Θεσσαλονίκης. ...  \nTo άρθρο UEFA: «Στεκόμαστε στο πλευρό του ΠΑΟΚ για το τραγικό δυστύχημα στη Ρουμανία» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/screenshot-2026-01-27-214333.png",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Καντζούρης για Τζόσεφ: «Πρόκειται για έναν πολύ καλό και έξυπνο παίκτη, είναι παίκτης ομάδας»",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2510743/kantzoyris-gia-tzosef-prokeitai-gia-enan-poly-kalo-kai-exypno-paikti",
-          "pubDate": "Tue, 27 Jan 2026 21:45:00 +0200",
-          "description": "Για τη σεζόν που διανύει στη Μονακό, αλλά και για τον Κόρι Τζόσεφ μίλησε ο Ηλίας Καντζούρης, στο WEB Radio της ΕΟΚ, όπου βρέθηκε καλεσμένος την Τρίτη (27/01).",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-08/katzouris_1.jpg?itok=5nmFW8sc",
           "source": "Gazzetta"
         }
       ]
