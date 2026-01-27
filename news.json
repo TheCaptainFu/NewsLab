@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T08:54:24.835Z",
+  "lastUpdated": "2026-01-27T08:55:26.119Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -17,10 +17,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Κακοκαιρία στις ΗΠΑ: Στους 20 οι νεκροί από το πολικό ψύχος και τη χιονοθύελλα – Εκατομμύρια πολίτες έμειναν χωρίς ρεύμα",
-          "link": "https://www.newsit.gr/kosmos/kakokairia-stis-ipa-stous-20-oi-nekroi-apo-to-poliko-psyxos-kai-ti-xionothyella-ekatommyria-polites-emeinan-xoris-reyma/4584449/",
+          "title": "Κακοκαιρία στις ΗΠΑ: Πάνω από 20 οι νεκροί από το πολικό ψύχος και τη χιονοθύελλα – Εκατομμύρια πολίτες έμειναν χωρίς ρεύμα",
+          "link": "https://www.newsit.gr/kosmos/kakokairia-stis-ipa-pano-apo-20-oi-nekroi-apo-to-poliko-psyxos-kai-ti-xionothyella-ekatommyria-polites-emeinan-xoris-reyma/4584449/",
           "pubDate": "Tue, 27 Jan 2026 08:47:20 +0000",
-          "description": "Καταστροφικό το πέρασμα της κακοκαιρίας από τις ΗΠΑ το οποίο έφερε σφοδρή χιονόπτωση και πολικό ψύχος με αποτέλεσμα να πεθάνουν πάνω από 20 άνθρωποι και ...  \nTo άρθρο Κακοκαιρία στις ΗΠΑ: Στους 20 οι νεκροί από το πολικό ψύχος και τη χιονοθύελλα – Εκατομμύρια πολίτες έμειναν χωρίς ρεύμα δημοσιεύτηκε στο NewsIT .",
+          "description": "Καταστροφικό το πέρασμα της κακοκαιρίας από τις ΗΠΑ το οποίο έφερε σφοδρή χιονόπτωση και πολικό ψύχος με αποτέλεσμα να πεθάνουν πάνω από 20 άνθρωποι και ...  \nTo άρθρο Κακοκαιρία στις ΗΠΑ: Πάνω από 20 οι νεκροί από το πολικό ψύχος και τη χιονοθύελλα – Εκατομμύρια πολίτες έμειναν χωρίς ρεύμα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kakokairia-usa-r6-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Η Γαλλία εγκαταλείπει Microsoft Teams και Zoom για «κυρίαρχη πλατφόρμα» εν μέσω ανησυχιών ασφάλειας",
+          "link": "http://gr.euronews.com/next/2026/01/27/france-plans-to-abandon-us-platforms-such-as-microsoft-teams-and-zoom-in-favour-of-a-sover",
+          "pubDate": "Tue, 27 Jan 2026 09:48:57 +0100",
+          "description": "Η Γαλλία ανακοίνωσε ότι έως το 2027 θα εφαρμόσει την πλατφόρμα Visio σε όλα τα υπουργεία και τις κρατικές υπηρεσίες.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Οι πυρκαγιές στην Παταγονία της Αργεντινής αναζωπυρώνονται, καίνε πάνω από 30.000 εκτάρια",
           "link": "http://gr.euronews.com/video/2026/01/27/wildfires-in-argentinas-patagonia-have-reignited-burning-more-than-30000-hectares",
           "pubDate": "Tue, 27 Jan 2026 09:31:47 +0100",
@@ -730,14 +738,6 @@
           "pubDate": "Mon, 26 Jan 2026 22:49:39 GMT",
           "description": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d26f/live/90590740-fb04-11f0-8d99-4d63080b9583.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Former Olympian Ryan Wedding pleads not guilty to drug kingpin charges",
-          "link": "https://www.bbc.com/news/articles/cedweq4lj25o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 22:46:49 GMT",
-          "description": "The ex-Olympic snowboarder and accused cartel leader was taken into custody in Mexico last week by the FBI.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/776c/live/a8f41aa0-fb0a-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
         }
       ]
