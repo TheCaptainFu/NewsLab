@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T13:55:25.877Z",
+  "lastUpdated": "2026-01-27T13:58:11.733Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "METLEN: Επεκτείνει το διεθνές της αποτύπωμα με νέα έργα ΑΠΕ και αποθήκευσης ενέργειας",
+          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/metlen-epekteinei-to-diethnes-tis-apotypoma-me-nea-erga-ape-kai-apothikeysis-energeias/4584800/",
+          "pubDate": "Tue, 27 Jan 2026 13:56:01 +0000",
+          "description": "Νέες αναθέσεις έργων και στρατηγικές συνεργασίες σε κομβικές διεθνείς αγορές ανακοίνωσε η METLEN, ενισχύοντας περαιτέρω το αποτύπωμά της στον τομέα των Ανανεώσιμων Πηγών Ενέργειας (ΑΠΕ). ...  \nTo άρθρο METLEN: Επεκτείνει το διεθνές της αποτύπωμα με νέα έργα ΑΠΕ και αποθήκευσης ενέργειας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mytilinaios-metlen-energy-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "MotoGP: Αυτές είναι οι νέες μοτοσυκλέτες των Red Bull KTM και Tech3",
           "link": "https://www.newsit.gr/auto/motogp-aytes-einai-oi-nees-motosykletes-ton-red-bull-ktm-kai-tech3/4584680/",
@@ -239,14 +247,6 @@
           "description": "Ιδιαίτερη στιγμή του συνεδρίου αποτέλεσε η προβολή ειδικού βίντεο, στο οποίο καταξιωμένοι ηθοποιοί απηύθυναν προσωπικά μηνύματα υπέρ της προστασίας της παιδικής αθωότητας, μεταφέροντας με συγκίνηση και αλήθεια ένα μήνυμα που αγγίζει ολόκληρη την κοινωνία",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/maketa-sunedrio.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "BAFTA 2026: Πέντε υποψηφιότητες η Bugonia του Γιώργου Λάνθιμου – Σαρώνουν τα One Battle After Another και Sinners",
-          "link": "https://www.in.gr/2026/01/27/life/culture-live/bafta-2026-pente-ypopsifiotites-bugonia-tou-giorgou-lanthimou-saronoun-ta-one-battle-another-kai-sinners/",
-          "pubDate": "Tue, 27 Jan 2026 15:34:22 +0300",
-          "description": "Λίγες ημέρες μετά την ανακοίνωση των υποψηφιοτήτων για τα βραβεία Όσκαρ, ήταν η σειρά των BAFTA - και ήμασταν στο ίδιο έργο θεατές.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2015-02-07T153336Z_1841854520_GM1EB271T6701_RTRMADP_3_BRITAIN-BAFTA-768x466.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "ΝΔ: Παραπομπή της Ζωής Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας της Βουλής",
+          "link": "https://www.naftemporiki.gr/politics/2064564/nd-parapompi-tis-zois-konstantopoyloy-stin-epitropi-deontologias-tis-voylis/?utm_source=rss&utm_medium=rss&utm_campaign=nd-parapompi-tis-zois-konstantopoyloy-stin-epitropi-deontologias-tis-voylis",
+          "pubDate": "Tue, 27 Jan 2026 13:55:25 +0000",
+          "description": "Στην παραπομπή της Ζωή Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας προχωρά η Νέα Δημοκρατία, σύμφωνα με κομματικές πηγές, μετά τη στάση και τις εκφράσεις που αποδίδονται στην πρόεδρο της Πλεύσης Ελευθερίας κατά…\nΝΔ: Παραπομπή της Ζωής Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας της Βουλής - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Πηγές ΝΔ: Ο Γ. Καρασμάνης επιβεβαίωσε τη θέση της ΝΔ για χειρισμούς και παραλείψεις δεκαετιών με αποτέλεσμα τη σημερινή κατάσταση στον ΟΠΕΚΕΠΕ",
           "link": "https://www.naftemporiki.gr/politics/2064550/piges-nd-o-g-karasmanis-epivevaiose-ti-thesi-tis-nd-gia-cheirismoys-kai-paraleipseis-dekaetion-me-apotelesma-ti-simerini-katastasi-ston-opekepe/?utm_source=rss&utm_medium=rss&utm_campaign=piges-nd-o-g-karasmanis-epivevaiose-ti-thesi-tis-nd-gia-cheirismoys-kai-paraleipseis-dekaetion-me-apotelesma-ti-simerini-katastasi-ston-opekepe",
@@ -485,14 +493,6 @@
           "description": "Πλήγμα στην εικόνα της Μαρίας Καρυστιανού, αλλά χωρίς ουσιαστικό αντίκτυπο στη δυνητική ψήφο προς το πρόσωπό της, επέφεραν η πρόσφατη συνέντευξή της και οι επίμαχες δηλώσεις της για τις αμβλώσεις,…\nΔημοσκόπηση Interview: Ενισχύει το προβάδισμά της η Ν.Δ. – Πόσο έπληξαν τη Μ. Καρυστιανού οι δηλώσεις για τις αμβλώσεις - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Δημοσκόπηση Interview: Ανέτοιμη η Καρυστιανού για την πολιτική – Δεν αλλάζει το σκηνικό το κόμμα Τσίπρα",
-          "link": "https://www.tovima.gr/2026/01/27/politics/dimoskopisi-interview-anetoimi-i-karystianou-gia-tin-politiki-den-allazei-to-skiniko-to-komma-tsipra/",
-          "pubDate": "Tue, 27 Jan 2026 10:38:13 +0300",
-          "description": "Δυσπιστία απέναντι σε νέα πολιτικά εγχειρήματα και σταθερό προβάδισμα της ΝΔ καταγράφει η νέα δημοσκόπηση της Interview",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/19/kalpi-1024x683.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Ρουμανία: Νεκροί 7 Έλληνες σε σοκαριστικό τροχαίο - Το μοιραίο όχημα τους μετέφερε στη Γαλλία",
+          "link": "http://gr.euronews.com/2026/01/27/romania-nekroi-7-ellines-to-moiraio-oxima-tous-metefere-sti-gallia",
+          "pubDate": "Tue, 27 Jan 2026 14:49:37 +0100",
+          "description": "Σύμφωνα με τη ρουμανική αστυνομία οι επιβάτες ήταν φίλαθλοι του ΠΑΟΚ που πήγαιναν στη Λυών",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
         {
           "title": "Meta, TikTok και YouTube αντιμέτωπες με δίκη-ορόσημο για τον εθισμό των νέων στα social media",
           "link": "http://gr.euronews.com/next/2026/01/27/meta-tiktok-and-youtube-are-facing-a-landmark-trial-regarding-claims-of-youth-social-media",
@@ -731,14 +739,6 @@
           "description": "Οι μεταφορείς από τέσσερις χώρες των Δυτικών Βαλκανίων έχουν αποκλείσει τα συνοριακά περάσματα στη Βοσνία, τη Σερβία, το Μαυροβούνιο και τη Βόρεια Μακεδονία σε ένδειξη διαμαρτυρίας για το αυστηρότερο καθεστώς εισόδου στην ΕΕ",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Κύπρος: Νεκρό 4χρονο κοριτσάκι από γρίπη Α",
-          "link": "http://gr.euronews.com/2026/01/27/kypros-nekro-4xrono-koritsaki-griph-a",
-          "pubDate": "Tue, 27 Jan 2026 09:20:17 +0100",
-          "description": "Αύξηση νοσηλειών ασθενών με γρίπη και κορωνοϊό καταγράφεται στις τελευταίες ημέρες στην Κύπρο",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Γιατί το σώμα σου δεν αλλάζει; Τα 5 λάθη που κάνει σχεδόν κάθε άντρας",
+          "link": "https://www.gazzetta.gr/plus/2510624/giati-soma-soy-den-allazei-ta-5-lathi-poy-kanei-shedon-kathe-antras",
+          "pubDate": "Tue, 27 Jan 2026 15:55:10 +0200",
+          "description": "Αν είσαι άντρας και νιώθεις ότι το σώμα σου δεν σε ακολουθεί πια, δεν είσαι μόνος.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/11_8.jpg?itok=lrNqvcJy",
+          "source": "Gazzetta"
+        },
         {
           "title": "Η πρώτη αντίδραση του ΠΑΟΚ για το δυστύχημα στη Ρουμανία",
           "link": "https://www.gazzetta.gr/football/europa-league/2510623/i-proti-antidrasi-toy-paok-gia-dystyhima-sti-roymania",
@@ -806,7 +814,7 @@
           "title": "Σοκ: Επτά νεκροί Έλληνες σε τροχαίο στη Ρουμανία που ταξίδευαν στη Γαλλία!",
           "link": "https://www.gazzetta.gr/football/2510615/sok-epta-nekroi-ellines-se-trohaio-sti-roymania-poy-taxideyan-sti-gallia",
           "pubDate": "Tue, 27 Jan 2026 15:26:58 +0200",
-          "description": "Σε τραγωδία μετατράπηκε η εκδρομή δέκα οπαδών του ΠΑΟΚ που ξεκινήσαν από την Ελλάδα με mini bus με κατεύθυνση τη Γαλλία, καθώς επτά εξ αυτών σκοτώθηκαν στη Ρουμανία σε αυτοκινητικό δυστύχημα. Τρεις τραυματίες και ένας σε κρίσιμη κατάσταση.",
+          "description": "Σε τραγωδία μετατράπηκε η εκδρομή δέκα οπαδών του ΠΑΟΚ που ξεκίνησαν από την Ελλάδα με mini bus με κατεύθυνση τη Γαλλία, καθώς επτά εξ αυτών σκοτώθηκαν στη Ρουμανία σε αυτοκινητικό δυστύχημα. Τρεις τραυματίες και ένας σε κρίσιμη κατάσταση.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/crash.jpg?itok=CLSQBSa-",
           "source": "Gazzetta"
         },
@@ -977,14 +985,6 @@
           "description": "Ο Ρόμαν Γιάρεμτσουκ έχει συλλέξει αρκετό ενδιαφέρον από το εξωτερικό και στον Ολυμπιακό βλέπουν στο πρόσωπο του Κλέιτον της Ρίο Άβε την ιδανική εναλλακτική.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/cleyton.jpg?itok=MKEpwIEk",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Κάρλος Αλκαράθ έκανε επίδειξη δύναμης κόντρα στον Άλεξ Ντε Μινόρ και πέρασε για πρώτη φορά στα ημιτελικά του Australian Open",
-          "link": "https://www.newsit.gr/athlitika/o-karlos-alkarath-ekane-epideiksi-dynamis-kontra-ston-aleks-nte-minor-kai-perase-gia-proti-fora-sta-imitelika-tou-australian-open/4584690/",
-          "pubDate": "Tue, 27 Jan 2026 12:10:25 +0000",
-          "description": "Ο Κάρλος Αλκαράθ πήρε για πρώτη φορά στην καριέρα του το εισιτήριο για τα ημιτελικά του Australian Open. Ο κορυφαίος Ισπανός τενίστας επικράτησε άνετα του ...  \nTo άρθρο Ο Κάρλος Αλκαράθ έκανε επίδειξη δύναμης κόντρα στον Άλεξ Ντε Μινόρ και πέρασε για πρώτη φορά στα ημιτελικά του Australian Open δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alcaraz-1200x842.jpg",
-          "source": "NewsIT"
         }
       ]
     },
