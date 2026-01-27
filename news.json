@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T23:25:27.617Z",
+  "lastUpdated": "2026-01-27T23:30:34.813Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ, δυστύχημα στη Ρουμανία: Η ανακοίνωση του Δικέφαλου για την κλειστή κερκίδα στη Λιόν",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510776/paok-dystyhima-sti-roymania-i-anakoinosi-toy-dikefaloy-gia-tin",
+          "pubDate": "Wed, 28 Jan 2026 01:25:19 +0200",
+          "description": "Σε  ένδειξη πένθους για την τραγωδία στη Ρουμανία οι οργανωμένοι οπαδοί του ΠΑΟΚ ακύρωσαν όλες τις εκδρομές για τη Λιόν και καλούν τον κόσμο της ομάδας, την Τετάρτη, στη Θύρα 4 της Τούμπας!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_toumba_kerakia.jpg?itok=5BQr6ESl",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Συγκλονιστικές εικόνες στην Τούμπα: Αναμμένα κεριά και πανό για τους αδικοχαμένους φίλους του ΠΑΟΚ",
           "link": "https://www.newsit.gr/athlitika/sygklonistikes-eikones-stin-toumpa-anammena-keria-kai-pano-gia-tous-adikoxamenous-filous-tou-paok/4585244/",
           "pubDate": "Tue, 27 Jan 2026 23:13:39 +0000",
@@ -977,14 +985,6 @@
           "description": "Έξω από το νοσοκομείο στη Ρουμανία βρίσκονται συγγενείς και φίλοι των θυμάτων του τραγικού δυστυχήματος των οπαδών του ΠΑΟΚ, που στέρησε τη ζωή σε επτά ...  \nTo άρθρο Σκηνές αρχαίας τραγωδίας από συγγενείς και φίλους των αδικοχαμένων οπαδών του ΠΑΟΚ έξω από το νοσοκομείο στην Ρουμανία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok20-26012026.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "F1 - Πώς λειτουργεί η ενεργή αεροδυναμική στα νέα μονοθέσια (vid)",
-          "link": "https://www.gazzetta.gr/gmotion/2510627/f1-pos-leitoyrgoyn-ta-energa-aerodynamika-sta-monothesia-tis-f1-vid",
-          "pubDate": "Tue, 27 Jan 2026 22:00:00 +0200",
-          "description": "Αυτό είναι το πρώτο δείγμα σχετικά με το τη λειτουργία μιας από τις μεγαλύτερες φετινές καινοτομίες, τον ενεργών αεροδυναμικών βοηθημάτων, στα μονοθέσια της Formula 1.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/2601barcelonad1-31.jpg?itok=wNlxIBfA",
-          "source": "Gazzetta"
         }
       ]
     },
