@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T10:45:01.712Z",
+  "lastUpdated": "2026-01-27T10:45:32.509Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Άγιαξ – Ολυμπιακός: Μέσα στη Johan Cruyff Arena, το γήπεδο που θα φιλοξενήσει τον τελικό πρόκρισης των Πειραιωτών",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-mesa-sti-johan-cruyff-arena-to-gipedo-pou-tha-filoksenisei-ton-teliko-prokrisis-ton-peiraioton/4584548/",
+          "pubDate": "Tue, 27 Jan 2026 10:43:59 +0000",
+          "description": "Δείτε φωτογραφίες από το εσωτερικό της Johan Cruyff Arena, μία μέρα πριν τη μεγάλη μάχη του Ολυμπιακού με τον Άγιαξ για την τελευταία αγωνιστική της ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Μέσα στη Johan Cruyff Arena, το γήπεδο που θα φιλοξενήσει τον τελικό πρόκρισης των Πειραιωτών δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-gipedo-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Μαρία Καρυστιανού: Η παρέμβαση για τα εθνικά θέματα και το λάθος timing",
+          "link": "https://www.newsit.gr/politikh/maria-karystianou-i-paremvasi-gia-ta-ethnika-themata-kai-to-lathos-timing/4584522/",
+          "pubDate": "Tue, 27 Jan 2026 10:43:21 +0000",
+          "description": "Η Μαρία Καρυστιανού έχει εδώ και ημέρες απεκδυθεί τον ρόλο της χαροκαμένης μητέρας και έχει βουτήξει για τα καλά στα νερά της πολιτικής. Ωστόσο, οι ...  \nTo άρθρο Μαρία Καρυστιανού: Η παρέμβαση για τα εθνικά θέματα και το λάθος timing δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/karystianou-1-1200x799.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Έκρηξη στη Βιολάντα: Οι πέντε γυναίκες θύματα της τραγωδίας και οι προσωπικές ιστορίες τους – Η μετανάστρια, η μάνα, η γιαγιά και ο αγώνας για το μεροκάματο",
           "link": "https://www.newsit.gr/ellada/ekriksi-sti-violanta-oi-pente-gynaikes-thymata-tis-tragodias-kai-oi-prosopikes-istories-tous-i-metanastria-i-mana-i-giagia-kai-o-agonas-gia-to-merokamato/4584532/",
@@ -231,22 +247,6 @@
           "description": "Δύο ασθενείς αναμένεται να υποβληθούν σε μεταμόσχευση νεφρού εντός των επόμενων ωρών, ενώ δύο έως τέσσερις ακόμη ασθενείς θα υποβληθούν τις προσεχείς ημέρες σε μεταμόσχευση κερατοειδούς",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2022-10-30/nosokomeio_papanikolaou.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Το γύρισμα του «One Battle After Another» σταμάτησε και περίμεναν τον Μπενίτσιο ντελ Τόρο – «Υπήρχαν εμπόδια»",
-          "link": "https://www.in.gr/2026/01/27/go-fun/fizz/o-mpenitsio-ntel-toro-paraligo-na-min-protagonistisei-stin-tainia-one-battle-another-ypirxan-polla-empodia/",
-          "pubDate": "Tue, 27 Jan 2026 12:35:43 +0300",
-          "description": "Ο Μπενίτσιο ντελ Τόρο υποδύεται τον συγκλονιστικό ρόλο του δάσκαλου καράτε Σένσεϊ Σέρτζιο Στ. Κάρλος στην ταινία «One Battle After Another» κι όσο εκπληκτικό και αν ακούγεται παραλίγο να μην εμφανιστεί στην ταινία - ωστόσο, κάποιοι επέμεναν.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet-1-5-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Πού βρίσκεται η σκοτεινή ύλη; Το τηλεσκόπιο James Webb προσφέρει τον λεπτομερέστο μέχρι σήμερα χάρτη",
-          "link": "https://www.in.gr/2026/01/27/in-science/space/pou-vrisketai-skoteini-yli-tileskopio-james-webb-prosferei-ton-leptomeresto-mexri-simera-xarti/",
-          "pubDate": "Tue, 27 Jan 2026 12:35:31 +0300",
-          "description": "Ο νέος χάρτης βρίσκεται σε συμφωνία με το στάνταρτ μοντέλο της Κοσμολογίας, σύμφωνα με το οποίο η σκοτεινή ύλη ηταν αυτό που επέτρεψε τον σχηματισμό γαλαξιών και πλανητών.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/118666319_darkenergymap.jpg-768x510.jpg",
-          "source": "In.gr"
         }
       ]
     },
