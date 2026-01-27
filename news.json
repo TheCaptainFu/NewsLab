@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:40:29.709Z",
+  "lastUpdated": "2026-01-27T21:45:28.799Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Διευθυντής νοσοκομείου Τιμισοάρα: «Με πολλαπλά κατάγματα, αλλά εκτός κινδύνου ο ένας τραυματίας οπαδός του ΠΑΟΚ»",
+          "link": "https://www.newsit.gr/athlitika/dieythyntis-nosokomeiou-timisoara-me-pollapla-katagmata-alla-ektos-kindynou-o-enas-traymatias-opados-tou-paok/4585195/",
+          "pubDate": "Tue, 27 Jan 2026 21:40:57 +0000",
+          "description": "Ο Διευθυντής του νοσοκομείου της Τιμισοράρα μίλησε στο Mega News και αναφέρθηκε στους τρεις τραυματίες οπαδούς του ΠΑΟΚ, δίνοντας θετικά νέα σχετικά με την υγεία ...  \nTo άρθρο Διευθυντής νοσοκομείου Τιμισοάρα: «Με πολλαπλά κατάγματα, αλλά εκτός κινδύνου ο ένας τραυματίας οπαδός του ΠΑΟΚ» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Λάρισα: «Έφυγε» από τη ζωή 55χρονος όταν έμαθε για το τροχαίο στη Ρουμανία",
           "link": "https://www.protothema.gr/greece/article/1764495/larisa-efuge-apo-ti-zoi-55hronos-otan-emathe-gia-to-trohaio-sti-roumania/?utm_source=rss",
@@ -239,14 +247,6 @@
           "description": "Γροθιά στο στομάχι είναι τα λόγια ενός Έλληνα οδηγού νταλίκας που περνάει από το σημείο της τραγωδίας στη Ρουμανία, όπου επτά φίλαθλοι του ΠΑΟΚ έχασαν τη ζωή τους",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5805780578057-768x409.png",
           "source": "In.gr"
-        },
-        {
-          "title": "UEFA: «Στεκόμαστε στο πλευρό του ΠΑΟΚ για το τραγικό δυστύχημα στη Ρουμανία»",
-          "link": "https://www.newsit.gr/athlitika/uefa-stekomaste-sto-pleyro-tou-paok-gia-to-tragiko-dystyxima-sti-roumania/4585148/",
-          "pubDate": "Tue, 27 Jan 2026 19:46:39 +0000",
-          "description": "Η UEFA προχώρησε σε ανακοίνωση υποστήριξης στον ΠΑΟΚ, μετά το τραγικό δυστύχημα στη Ρουμανία, που στοίχισε τη ζωή σε επτά οπαδούς της ομάδας της Θεσσαλονίκης. ...  \nTo άρθρο UEFA: «Στεκόμαστε στο πλευρό του ΠΑΟΚ για το τραγικό δυστύχημα στη Ρουμανία» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/screenshot-2026-01-27-214333.png",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Βαθμολογία Michelin και στα οινοποιεία",
+          "link": "http://gr.euronews.com/culture/2026/01/27/ba8mologia-michelin-kai-sta-oinopoieia",
+          "pubDate": "Tue, 27 Jan 2026 22:39:20 +0100",
+          "description": "Οι δύο πρώτες τοποθεσίες που μελετήθηκαν είναι η Βουργουνδία και το Μπορντό. Οι Ούγγροι οινοπαραγωγοί ελπίζουν ότι θα μπορέσουν να βγουν στην επιφάνεια. Το κράτος υποστηρίζει την παρουσία του οδηγού Michelin στην Ουγγαρία.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Κλιμακώνεται η ένταση για τη συμμετοχή του Ισραήλ στη Eurovision 2026",
           "link": "http://gr.euronews.com/culture/2026/01/27/klimakwnetai-h-entash-gia-th-symmetoxh-toy-israhl-sth-eurovision-2026",
           "pubDate": "Tue, 27 Jan 2026 22:23:47 +0100",
@@ -731,14 +739,6 @@
           "description": "Η εξέλιξη έρχεται μετά τις διαμαρτυρίες κατοίκων για την κίνηση και τους τουρίστες που καταλαμβάνουν τις θέσεις στάθμευσης και παραβιάζουν ιδιωτική περιουσία.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Το TikTok ερευνά μπλοκάρισμα βίντεο για «Έπσταϊν» και κατά του Τραμπ, με καταγγελίες για λογοκρισία",
-          "link": "http://gr.euronews.com/next/2026/01/27/tiktok-is-investigating-reports-of-blocking-videos-related-to-epstein-and-those-critical-o",
-          "pubDate": "Tue, 27 Jan 2026 16:22:33 +0100",
-          "description": "Η αντιπαράθεση έρχεται στον απόηχο μιας ευρείας κλίμακας αναδιάρθρωσης των δραστηριοτήτων της TikTok στις Ηνωμένες Πολιτείες.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -747,10 +747,18 @@
       "color": "green",
       "articles": [
         {
+          "title": "Διευθυντής νοσοκομείου Τιμισοάρα: «Με πολλαπλά κατάγματα, αλλά εκτός κινδύνου ο ένας τραυματίας οπαδός του ΠΑΟΚ»",
+          "link": "https://www.newsit.gr/athlitika/dieythyntis-nosokomeiou-timisoara-me-pollapla-katagmata-alla-ektos-kindynou-o-enas-traymatias-opados-tou-paok/4585195/",
+          "pubDate": "Tue, 27 Jan 2026 21:40:57 +0000",
+          "description": "Ο Διευθυντής του νοσοκομείου της Τιμισοράρα μίλησε στο Mega News και αναφέρθηκε στους τρεις τραυματίες οπαδούς του ΠΑΟΚ, δίνοντας θετικά νέα σχετικά με την υγεία ...  \nTo άρθρο Διευθυντής νοσοκομείου Τιμισοάρα: «Με πολλαπλά κατάγματα, αλλά εκτός κινδύνου ο ένας τραυματίας οπαδός του ΠΑΟΚ» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ελλάδα: Με Ιταλία και μια εκ των Σερβίας ή Κροατίας στη β' φάση στο ευρωπαϊκό πόλο",
           "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510768/ellada-me-italia-kai-mia-ek-ton-serbias-i-kroatias-sti-b",
           "pubDate": "Tue, 27 Jan 2026 23:40:07 +0200",
-          "description": "Η Ιταλία και η νικήτρια του αγώνα Σερβία-Κροατία θα είναι οι αντίπαλοι της εθνικής ομάδας πόλο γυναικών στο ευρωπαϊκό πρωτάθλημα στο Φούντσαλ.",
+          "description": "Η Ιταλία και η νικήτρια του αγώνα Σερβίας-Κροατίας θα είναι οι αντίπαλοι της εθνικής ομάδας πόλο γυναικών στη 2η φάση των ομίλων στο ευρωπαϊκό πρωτάθλημα στο Φούντσαλ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hellas_women_water_polo.jpg?itok=zaaqhBcZ",
           "source": "Gazzetta"
         },
@@ -977,14 +985,6 @@
           "description": "Παράνομες κεραίες, απειλές απαγχονισμού και δορυφορικό ίντερνετ: πώς το Starlink έγινε το πιο επικίνδυνο όπλο αντίστασης στο Ιράν.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/starlink.jpg?itok=qe9y4iSj",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Καρδίτσα - Τόφας 79-93: Δεν μπόρεσε να ακολουθήσει τους Τούρκους",
-          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510745/karditsa-tofas-79-93-den-mporese-na-akoloythisei",
-          "pubDate": "Tue, 27 Jan 2026 21:27:11 +0200",
-          "description": "Η Καρδίτσα πάλεψε για περίπου ένα ημίχρονο απέναντι στην Τόφας, όμως δεν μπόρεσε να ακολουθήσει στην συνέχεια την άκρος ποιοτική αντίπαλό της, γνωρίζοντας την ήττα με 79-93.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/korkmaz_eurokinissi.jpg?itok=Nh3LiE7E",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -1193,14 +1193,6 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Το συγκινητικό μήνυμα του Παναθηναϊκού για την τραγωδία με τους νεκρούς του ΠΑΟΚ! (pic)",
-          "link": "https://trifilara.gr/to-sugkinitiko-mhnuma-tou-panathinaikou-gia-thn-tragwdia-me-tous-nekrous-tou-paok-pic/?utm_source=rss&utm_medium=rss&utm_campaign=to-sugkinitiko-mhnuma-tou-panathinaikou-gia-thn-tragwdia-me-tous-nekrous-tou-paok-pic",
-          "pubDate": "Tue, 27 Jan 2026 15:06:05 +0000",
-          "description": "Ο Ερασιτέχνης Παναθηναϊκός με ανάρτηση εξέφρασε τη συμπαράστασή του για το τραγικό δυστύχημα στη Ρουμανία.\nThe post Το συγκινητικό μήνυμα του Παναθηναϊκού για την τραγωδία με τους νεκρούς του ΠΑΟΚ! (pic) appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
           "title": "«Καλό ταξίδι Αετόπουλα»: Το συγκινητικό μήνυμα του Ερασιτέχνη Παναθηναϊκού για τους αδικοχαμένους οπαδούς του ΠΑΟΚ",
           "link": "https://panathinaikos24.gr/2026/01/27/617969/kalo-taksidi-aetopoula-to-sygkinitiko-minyma-tou-erasitexni-panathinaikou-gia-tous-adikoxamenous-opadous-tou-paok/",
           "pubDate": "Tue, 27 Jan 2026 14:42:06 +0000",
@@ -1230,6 +1222,14 @@
           "pubDate": "Tue, 27 Jan 2026 13:17:58 +0000",
           "description": "Τι αναφέρουν οι πρώτες πληροφορίες.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/cc341d68-troxaio-roumania.jpg?fit=1000%2C601&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Το «αντίο» του Φικάι: «Για πάντα κομμάτι της ζωής μου ο Παναθηναϊκός»",
+          "link": "https://panathinaikos24.gr/2026/01/27/617945/to-antio-tou-fikai-gia-panta-kommati-tis-zois-mou-o-panathinaikos/",
+          "pubDate": "Tue, 27 Jan 2026 13:01:49 +0000",
+          "description": "Το μήνυμα του Έλτον Φικάι μετά την οριστικοποίηση της μεταγραφής του.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4917958.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
