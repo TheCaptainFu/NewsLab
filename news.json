@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T05:55:33.462Z",
+  "lastUpdated": "2026-01-27T06:00:40.313Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -79,6 +79,14 @@
           "description": "Παλιά vs νεόδμητα σπίτια Στο μπρα-ντε-φερ με τα νεόδμητα, τα παλιά κερδίζουν. Αυτό δεν το υπαγορεύει μόνο η πρακτική, αλλά προκύπτει και το 5ο βαρόμετρο ...  \nTo άρθρο Παλιά vs νεόδμητα σπίτια ^ τέλος χρόνου για Πόθεν Έσχες ^ οι έμμεσοι φόροι τροφοδοτούν την ακρίβεια ^ το ομόλογο της ΤΙΤΑΝ ^ και με τη (γερμανική) βούλα η άνοδος της ελληνικής οικονομίας ^ πισωγύρισμα στις ΑΠΕ ^ υπόθεση για 5 τα δυναμικά τιμολόγια δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1187179171.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Σέρρες: «Υπουργείο Παιδείας και Περιφερειακή Διεύθυνση γνώριζαν και δεν έκαναν τίποτα» για την καθηγήτρια",
+          "link": "https://www.in.gr/2026/01/27/greece/serres-ypourgeio-paideias-kai-perifereiaki-dieythynsi-gnorizan-kai-den-ekanan-tipota-gia-tin-kathigitria/",
+          "pubDate": "Tue, 27 Jan 2026 07:57:50 +0300",
+          "description": "Η Ομοσπονδία Γονέων Κεντρικής Μακεδονίας σημειώνει ότι είχαν γίνει έγγραφες καταγγελίες στην αρμόδια διεύθυνση για τη συμπεριφορά της καθηγήτριας που φίμωσε μαθητή στις Σέρρες",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Capture-196-768x568.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Καιρός: Red code για έντονα φαινόμενα σήμερα στην Κρήτη, ακολουθούν ακόμα δύο κύματα κακοκαιρίας",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 06:01:52 +0300",
           "description": "Μετά από έναν δύσκολο χωρισμό όλοι θέλουν να πάρουν το... αίμα τους πίσω. Ωστόσο τι γνώμη έχει η επιστήμη για την εκδίκηση;",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/vince-fleming-Vmr8bGURExo-unsplash-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Εισιτηριοδιαφυγή: Σφίγγει ο κλοιός στις συγκοινωνίες",
-          "link": "https://www.in.gr/2026/01/27/greece/eisitiriodiafygi-sfiggei-o-kloios-stis-sygkoinonies/",
-          "pubDate": "Tue, 27 Jan 2026 06:00:57 +0300",
-          "description": "Το πρόστιμο για το κανονικό εισιτήριο των 90 λεπτών αυξάνεται στα 100 ευρώ, ενώ για το μειωμένο στα 50 ευρώ, καταγράφοντας αυξήσεις έως και 67% σε σχέση με το ισχύον καθεστώς",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6432011-768x576.jpg",
           "source": "In.gr"
         }
       ]
@@ -504,7 +504,7 @@
           "title": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
           "link": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 05:37:52 GMT",
-          "description": "Under the plan, access to the platforms' core services would remain free to use.",
+          "description": "Under the plan, access to Meta platforms' core services would remain free to use.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa4/live/f5a13ad0-fb38-11f0-9ffe-0d55f5bffcbe.jpg",
           "source": "BBC News"
         },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παρί Σεν Ζερμέν, μεταγραφές: Δικός της ο Ντρο Φερνάντεθ έως το 2030",
+          "link": "https://www.gazzetta.gr/football/ligue-1/2510509/pari-sen-zermen-metagrafes-dikos-tis-o-ntro-fernanteth-eos-2030",
+          "pubDate": "Tue, 27 Jan 2026 07:57:44 +0200",
+          "description": "Η πρωταθλήτρια Ευρώπης γνωστοποίησε την απόκτηση του 18χρονου ταλέντου από την Μπαρτσελόνα, έως το 2030.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dro_psg.jpg?itok=Yx_bk7e0",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Σέλτικς - Μπλέιζερς 102-94: Επιστροφή στις νίκες με τρομερό 12λεπτο! ",
           "link": "https://www.gazzetta.gr/basketball/nba/2510508/seltiks-mpleizers-102-94-epistrofi-stis-nikes-me-tromero-12lepto",
           "pubDate": "Tue, 27 Jan 2026 07:42:52 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 21:41:35 +0200",
           "description": "Ο Ντεβόντε Γκράχαμ φαίνεται πως δεν θα συνεχίσει την καριέρα του στον Ερυθρό Αστέρα, καθώς δεν τον εμπιστεύεται καθόλου ο Σάσα Ομπράντοβιτς.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/graham_intime.jpg?itok=YOvKVPnR",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ντοκ Ρίβερς για Αντετοκούνμπο: «Δεν υπάρχει χρονοδιάγραμμα επιστροφής»",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510420/ntok-ribers-gia-antetokoynmpo-den-yparhei-hronodiagramma-epistrofis",
-          "pubDate": "Mon, 26 Jan 2026 21:40:30 +0200",
-          "description": "Στον τραυματισμό του Γιάννη Αντετοκούνμπο, αναφέρθηκε ο τεχνικός των Μπακς, Ντοκ Ρίβερς, αναφέροντας πως δεν υπάρχει χρονοδιάγραμμα επιστροφής.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/antetokounmpo.jpg?itok=n6k6SFgY",
           "source": "Gazzetta"
         }
       ]
