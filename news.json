@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T22:15:28.319Z",
+  "lastUpdated": "2026-01-27T22:20:30.340Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο ΑΣ ΠΑΟΚ ζήτησε την αναβολή όλων των αγώνων των τμημάτων του, λόγω του τραγικού δυστυχήματος στη Ρουμανία",
+          "link": "https://www.newsit.gr/athlitika/o-as-paok-zitise-tin-anavoli-olon-ton-agonon-ton-tmimaton-tou-logo-tou-tragikou-dystyximatos-sti-roumania/4585210/",
+          "pubDate": "Tue, 27 Jan 2026 22:18:09 +0000",
+          "description": "Η οικογένεια του ΠΑΟΚ θρηνεί τα θύματα του σοκαριστικού τροχαίου δυστυχήματος στη Ρουμανία και ο Ερασιτέχνης ζήτησε να μην διεξαχθεί κανένα παιχνίδι των τμημάτων μέσα ...  \nTo άρθρο Ο ΑΣ ΠΑΟΚ ζήτησε την αναβολή όλων των αγώνων των τμημάτων του, λόγω του τραγικού δυστυχήματος στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-10-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ρουμανία: Ατέλειωτος θρήνος για τους 7 φιλάθλους του ΠΑΟΚ που σκοτώθηκαν στο «δρόμο του θανάτου» – Σε σοκ οι συγγενείς και η «οικογένεια» του Δικεφάλου",
           "link": "https://www.newsit.gr/ellada/roumania-ateleiotos-thrinos-gia-tous-7-filathlous-tou-paok-pou-skotothikan-sto-dromo-tou-thanatou-se-sok-oi-syggeneis-kai-i-oikogeneia-tou-dikefalou/4585140/",
@@ -239,14 +247,6 @@
           "description": "Όλοι στον ΠΑΟΚ είναι συγκλονισμένοι για το τραγικό δυστύχημα στη Ρουμανία και μερικοί από τους παίκτες του Δικεφάλου έκαναν αναρτήσεις στα social media για να ...  \nTo άρθρο Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς – «Αδέρφια μας εκεί ψηλά που ζείτε» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zivkovic-2-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "ΗΠΑ: «Πολυήμερη αεροπορική άσκηση» στη Μέση Ανατολή την ώρα που κορυφώνονται οι εντάσεις με το Ιράν",
-          "link": "https://www.in.gr/2026/01/27/world/ipa-polyimeri-aeroporiki-askisi-sti-mesi-anatoli-tin-ora-pou-koryfonontai-oi-entaseis-iran/",
-          "pubDate": "Tue, 27 Jan 2026 23:10:13 +0300",
-          "description": "Οι ΗΠΑ έχουν ενισχύσει τη στρατιωτική παρουσία τους στη Μέση Ανατολή. Ο Αμερικανός πρόεδρος απείλησε να επιτεθεί στο Ιράν εάν η χώρα πραγματοποιήσει μαζικές εκτελέσεις ή δολοφονίες διαδηλωτών.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_rAsy8WAAAbaXD-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ο ΑΣ ΠΑΟΚ ζήτησε την αναβολή όλων των αγώνων των τμημάτων του, λόγω του τραγικού δυστυχήματος στη Ρουμανία",
+          "link": "https://www.newsit.gr/uncategorized/o-as-paok-zitise-tin-anavoli-olon-ton-agonon-ton-tmimaton-tou-logo-tou-tragikou-dystyximatos-sti-roumania/4585210/",
+          "pubDate": "Tue, 27 Jan 2026 22:18:09 +0000",
+          "description": "Η οικογένεια του ΠΑΟΚ θρηνεί τα θύματα του σοκαριστικού τροχαίου δυστυχήματος στη Ρουμανία και ο Ερασιτέχνης ζήτησε να μην διεξαχθεί κανένα παιχνίδι των τμημάτων μέσα ...  \nTo άρθρο Ο ΑΣ ΠΑΟΚ ζήτησε την αναβολή όλων των αγώνων των τμημάτων του, λόγω του τραγικού δυστυχήματος στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": null,
+          "source": "NewsIT"
+        },
+        {
           "title": "Βαθμολογία Euroleague: Η κατάταξη μετά το Παρί - Ρεάλ ",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510773/bathmologia-euroleague-i-katataxi-meta-pari-real",
           "pubDate": "Wed, 28 Jan 2026 00:13:02 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 21:58:44 +0200",
           "description": "Ο Μιχάλης Τσαμπάς γράφει στο Gazzetta για την Ελλάδα που συγκλονισμένη παρακολουθεί ακόμη μια τραγωδία με νέα παιδιά που... έφυγαν σε μια παγωμένη άσφαλτο ακολουθώντας την ομάδα τους!",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paokk_16.jpg?itok=XKdlV4Fy",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άρης: «Ο Γκαρέ δανεικός από τη Βάσκο»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510750/aris-o-gkare-daneikos-apo-ti-basko",
-          "pubDate": "Tue, 27 Jan 2026 21:51:24 +0200",
-          "description": "Τον επιθετικό Μπενχαμίν Γκαρέ με τη μορφή δανεισμού από τη Βάσκο παίρνει ο Άρης, σύμφωνα με τους Βραζιλιάνους.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benjamin_garre.jpg?itok=_IgY1AzZ",
           "source": "Gazzetta"
         }
       ]
