@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T08:05:28.945Z",
+  "lastUpdated": "2026-01-27T08:10:30.370Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Αγγελική Ηλιάδη για αμβλώσεις: Για μένα είναι η μεγαλύτερη αμαρτία που μπορεί να κάνει μια γυναίκα",
+          "link": "https://www.newsit.gr/lifestyle/aggeliki-iliadi-gia-amvloseis-gia-mena-einai-i-megalyteri-amartia-pou-mporei-na-kanei-mia-gynaika/4584427/",
+          "pubDate": "Tue, 27 Jan 2026 08:08:21 +0000",
+          "description": "Η Αγγελική Ηλιάδη παραχώρησε μια εφ’ όλης της ύλης συνέντευξη στην εκπομπή «Happy Day» και μίλησε για τις αμβλώσεις, τα εμβόλια και τα δύο ξεχωριστά ...  \nTo άρθρο Αγγελική Ηλιάδη για αμβλώσεις: Για μένα είναι η μεγαλύτερη αμαρτία που μπορεί να κάνει μια γυναίκα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iliadi-ndp-1200x1015.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ανατροπή με Κώστα Τσιμίκα: Προς παραμονή στη Ρόμα",
           "link": "https://www.newsit.gr/athlitika/anatropi-me-kosta-tsimika-pros-paramoni-sti-roma/4584421/",
@@ -239,14 +247,6 @@
           "description": "«Ο κόσμος ανυπομονεί να το τραγουδήσει μαζί μου — κι αυτό είναι που μετράει», σχολίασε η Μπόνι Τάιλερ για το Total Eclipse of the Heart",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/totaleclipse-768x463.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Εργατικό δυστύχημα στα Τρίκαλα: Ανέσυραν την πέμπτη σορό από το εργοστάσιο Βιολάντα οι πυροσβέστες",
-          "link": "https://www.in.gr/2026/01/27/greece/ergatiko-dystyxima-sta-trikala-entopistike-soros-tis-pemptis-ergatrias-sto-ergostasio-tis-violanta/",
-          "pubDate": "Tue, 27 Jan 2026 09:40:58 +0300",
-          "description": "Αυλαία στο σοκαριστικό εργατικό δυστύχημα με την μεγάλη έκρηξη και φωτιά στις εγκαταστάσεις της μπισκοτοβιομηχανίας «Βιολάντα» στα Τρίκαλα. Βρέθηκε και η σορός της πέμπτης εργάτριας που αναζητείτο",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/DJI_20260127083304_0023_D_VERVE-768x576.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Γεωργιάδης: «Ακροδεξιά» η θέση της Καρυστιανού τα εθνικά θέματα – Στην ίδια γραμμή και ο Καρανίκας",
+          "link": "https://www.tovima.gr/2026/01/27/politics/georgiadis-akrodeksia-i-thesi-tis-karystianou-ta-ethnika-themata-stin-idia-grammi-kai-o-karanikas/",
+          "pubDate": "Tue, 27 Jan 2026 10:10:02 +0300",
+          "description": "Κοινή γραμμή στις επιθέσεις κατά της Καρυστιανού από δύο πρόσωπα που βρίσκονται σε αντίπαλα πολιτικά στρατόπεδα",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2024/06/18/KARISTIANOU-1024x682.jpg",
+          "source": "Το Βήμα"
+        },
         {
           "title": "Μέγαρο Μαξίμου: Σύσκεψη για την ευλογιά των αιγοπροβάτων",
           "link": "https://www.tovima.gr/2026/01/27/politics/megaro-maksimou-syskepsi-gia-tin-eylogia-ton-aigoprovaton/",
@@ -485,14 +493,6 @@
           "description": "Νέες αιχμές άφησε με σημερινή του συνέντευξη ο δήμαρχος Αθηναίων και μέλος της Πολιτικής Γραμματείας της ΚΟΕΣ του ΠΑΣΟΚ, κ. Χάρης Δούκας, αναφορικά με τη στρατηγική του κόμματος της αξιωματικής…\nΝέες αιχμές Χ. Δούκα: Δεν θα γίνουμε συμπλήρωμα – Αν κάποιος βουλευτής από άλλο κόμμα θέλει να έρθει, να παραδώσει την έδρα του - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Νέα Αριστερά: Μια ρήξη που πήρε αναβολή",
-          "link": "https://www.tanea.gr/print/2026/01/26/politics/mia-riksi-lfpou-pire-anavoli/",
-          "pubDate": "Mon, 26 Jan 2026 13:09:00 +0000",
-          "description": "Στελέχη είχαν από καιρό περιγράψει πως το διαρκές προγραμματικό συνέδριο της Νέας Αριστεράς δεν θα οδηγούσε σε ρήξη. Ενα συνέδριο με ίδια σύνθεση με το ιδρυτικό – ως διαρκές – και που δεν θα είχε στην ατζέντα θέμα νέας ηγεσίας και εκλογής νέων οργάνων. Ολοκληρώθηκε χθες λοιπόν έπειτα από τέσσερις ημέρες διεργασιών. Και κατέληξε σε […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/xaritsis-nea-aristera-1024x683.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "ΗΠΑ: Ιστορική χιονοθύελλα στις ΗΠΑ - Στους 30 οι νεκροί",
+          "link": "http://gr.euronews.com/2026/01/27/hpa-istorikh-xionothyellla-hpa-30-nekroi",
+          "pubDate": "Tue, 27 Jan 2026 09:03:43 +0100",
+          "description": "Μαζικές ακυρώσεις πτήσεων και διακοπές στην ηλεκτροδότηση στις ΗΠΑ - Νέο κύμα χιονιά το Σαββατοκύριακο",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
         {
           "title": "Τρίκαλα: Εντοπίστηκε η σορός και της πέμπτης αγνοούμενης - Σε εξέλιξη οι έρευνες για τα αίτια",
           "link": "http://gr.euronews.com/2026/01/27/trikala-entopistike-i-soros-tis-pemptis-agnooumenis",
@@ -731,14 +739,6 @@
           "description": "Footage from a hospital in Tehran shows at least 31 bodies piled inside and seven body bags outside.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f7d/live/4b963ab0-fafa-11f0-a47f-d352a7d9988a.png",
           "source": "BBC News"
-        },
-        {
-          "title": "Ουγγαρία-Ουκρανία: Ένταση για φερόμενη ανάμειξη στις ουγγρικές εκλογές",
-          "link": "http://gr.euronews.com/2026/01/26/oyggaria-oykrania-entash-gia-feromenh-anamei3h-stis-oyggrikes-ekloges",
-          "pubDate": "Mon, 26 Jan 2026 22:27:39 +0100",
-          "description": "Ο Βίκτορ Όρμπαν καταγγέλλει «συντονισμένες ουκρανικές ενέργειες», ενώ το Κίεβο απαντά με αιχμηρά μηνύματα στο Facebook",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Βιολάντα: Πώς αλεύρι και ζάχαρη μπορούν να γίνουν εκρηκτικά μέσα σε εργοστάσια",
+          "link": "https://www.gazzetta.gr/plus/2510534/biolanta-pos-aleyri-kai-zahari-mporoyn-na-ginoyn-ekriktika-mesa-se-ergostasia",
+          "pubDate": "Tue, 27 Jan 2026 10:06:04 +0200",
+          "description": "Μπορεί να φαίνεται απίθανο όμως ένα χημικό φαινόμενο μπορεί να προκαλέσει έκρηξη από ζάχαρη και αλεύρι!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/29f3fcae-trikala-fotia-violanta-6.jpg?itok=7rdvrg15",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ντόντσιτς για το κάρφωμα του Χέις: «Το έκανα στα 13 μου»",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510539/ntontsits-gia-karfoma-toy-heis-ekana-sta-13-moy",
+          "pubDate": "Tue, 27 Jan 2026 10:04:48 +0200",
+          "description": "Ο Λούκα Ντόντσιτς ναι μεν ξετρελάθηκε με το τρομερό κάρφωμα του Τζάκσον Χέις, αλλά έσπευσε να υπενθυμίσει ότι το είχε κάνει όταν ήταν 13 ετών!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/luka_13_1.jpg?itok=DGg16J8z",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ανατροπή με Κώστα Τσιμίκα: Προς παραμονή στη Ρόμα",
           "link": "https://www.newsit.gr/athlitika/anatropi-me-kosta-tsimika-pros-paramoni-sti-roma/4584421/",
@@ -969,22 +985,6 @@
           "description": "Νίκες με μεγάλες διαφορές σημείωσαν οι Χόρνετς επί των Σίξερς, οι Χοκς επί των Πέισερς και οι Τίμπεργουλβς επί των Γκόλντεν Στέιτ Γουόριορς.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/timberwolves_gobert_getty.jpg?itok=9wlLX5Pj",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Έκρηξη στη Βιολάντα: Τι προσφέρει η εταιρεία στις οικογένειες",
-          "link": "https://www.gazzetta.gr/2436947/boyliazoyn-10-ipeirotikoi-proorismoi-gia-pasha",
-          "pubDate": "Tue, 27 Jan 2026 08:18:00 +0200",
-          "description": "Η Βιολάντα ανακοινώνει άμεσα δέσμη συγκεκριμένων μέτρων στήριξης προς τις οικογένειες που επλήγησαν και προς τους εργαζομένους της.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/eurokinissi-violanta.jpg?itok=v1QNaLxo",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γιάννης Αντετοκούνμπο: «Έπαιξε το τελευταίο του παιχνίδι με τους Μπακς, έφτασε κοντά στο να απολύσει τον ατζέντη του», αναφέρουν οι Αμερικανοί",
-          "link": "https://www.newsit.gr/athlitika/giannis-antetokounmpo-epaikse-to-teleytaio-tou-paixnidi-me-tous-mpaks-eftase-konta-sto-na-apolysei-ton-atzenti-tou-anaferoun-oi-amerikanoi/4584340/",
-          "pubDate": "Tue, 27 Jan 2026 06:15:14 +0000",
-          "description": "Τα σενάρια για το μέλλον του Γιάννη Αντετοκούνμπο έχουν φουντώσει για τα καλά στις ΗΠΑ, λίγες μέρες πριν εκπνεύσει η προθεσμία για ανταλλαγές στο ΝΒΑ ...  \nTo άρθρο Γιάννης Αντετοκούνμπο: «Έπαιξε το τελευταίο του παιχνίδι με τους Μπακς, έφτασε κοντά στο να απολύσει τον ατζέντη του», αναφέρουν οι Αμερικανοί δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/antetokounmpo-6-1200x675.jpg",
-          "source": "NewsIT"
         }
       ]
     },
