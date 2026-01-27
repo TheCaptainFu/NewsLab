@@ -1,19 +1,35 @@
 {
-  "lastUpdated": "2026-01-27T17:50:29.187Z",
-  "totalArticles": 180,
+  "lastUpdated": "2026-01-27T17:55:35.493Z",
+  "totalArticles": 178,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
         {
+          "title": "ΠΑΟΚ για το πολύνεκρο τροχαίο στη Ρουμανία: «Η θλίψη σε κυριεύει, σε γονατίζει, σε διαλύει – Καλό ταξίδι στα παιδιά μας»",
+          "link": "https://www.newsit.gr/athlitika/paok-gia-to-polynekro-troxaio-sti-roumania-i-thlipsi-se-kyrieyei-se-gonatizei-se-dialyei-kalo-taksidi-sta-paidia-mas/4585034/",
+          "pubDate": "Tue, 27 Jan 2026 17:53:13 +0000",
+          "description": "Ο ΠΑΟΚ εξέδωσε μία ανακοίνωση στην οποία αποτυπώνεται ο πόνος και η θλίψη για την ανείπωτη τραγωδία με τους φιλάθλους της ομάδας στη Ρουμανία. Επτά ...  \nTo άρθρο ΠΑΟΚ για το πολύνεκρο τροχαίο στη Ρουμανία: «Η θλίψη σε κυριεύει, σε γονατίζει, σε διαλύει – Καλό ταξίδι στα παιδιά μας» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-4-1-1200x801.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Βιολάντα: Συνελήφθη ο ιδιοκτήτης του εργοστασίου και δύο στελέχη",
+          "link": "https://www.newsit.gr/ellada/violanta-synelifthi-o-idioktitis-tou-ergostasiou-kai-dyo-stelexi/4585033/",
+          "pubDate": "Tue, 27 Jan 2026 17:50:18 +0000",
+          "description": "Συνελήφθη λίγο πριν τις 8 το βράδυ της Τρίτης (27.01.2026) ο ιδιοκτήτης του εργοστασίου «Βιολάντα» στα Τρίκαλα μετά την τραγωδία με τις πέντε νεκρές εργάτριες. ...  \nTo άρθρο Βιολάντα: Συνελήφθη ο ιδιοκτήτης του εργοστασίου και δύο στελέχη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektakto-3-1200x675.jpeg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Συνελήφθη ο ιδιοκτήτης του εργοστασίου Βιολάντα και ακόμη δύο στελέχη μετά την τραγωδία στα Τρίκαλα",
           "link": "https://www.protothema.gr/greece/article/1764387/sunelifthi-o-idioktitis-tou-ergostasiou-violada-kai-akomi-duo-stelehi-meta-tin-tragodia-sta-trikala/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 19:47:00 +0200",
           "description": "Ο ιδιοκτήτης κατηγορείται για ανθρωποκτονία από αμέλεια, έκρηξη, εμπρησμό από αμέλεια και σωματικές βλάβες",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpeg/files/2024-12-11/xrvma_ektakth_epikairothta_1012242.jpeg",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-biolanta.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -177,6 +193,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Συνελήφθη ο ιδιοκτήτης του εργοστασίου «Βιολάντα»",
+          "link": "https://www.in.gr/2026/01/27/greece/synelifthi-o-idioktitis-tou-ergostasiou-violanta/",
+          "pubDate": "Tue, 27 Jan 2026 19:52:02 +0300",
+          "description": "Κατηγορείται για ανθρωποκτονία απο αμέλεια, έκρηξη, εμπρησμό από αμέλεια και σωματικές βλάβες.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/new_alert-7-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Νεκρό βρέφος τριών μηνών στη Θεσσαλονίκη",
           "link": "https://www.protothema.gr/greece/article/1764350/nekro-vrefos-trion-minon-sti-thessaloniki/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 18:52:00 +0200",
@@ -191,6 +215,14 @@
           "description": "Στην Τούμπα κυματίζουν μεσίστιες σημαίες του ΠΑΟΚ για τους επτά αδικοχαμένους φίλους της ομάδας που έχασαν τη ζωή τους στο τραγικό δυστύχημα στη Ρουμανία. Στο ...  \nTo άρθρο Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία – Φίλοι του Δικεφάλου αφήνουν λουλούδια δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-2-3-1200x801.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Μεντιλίμπαρ για την τραγωδία με τους οπαδούς του ΠΑΟΚ: «Είναι λυπηρό»",
+          "link": "https://www.in.gr/2026/01/27/sports/football/mentilimpar-gia-tin-tragodia-tous-opadous-tou-paok-einai-lypiro/",
+          "pubDate": "Tue, 27 Jan 2026 19:49:40 +0300",
+          "description": "Ο τεχνικός του Ολυμπιακού Χοσέ Λουίς Μεντιλίμπαρ ενημερώθηκε για την τραγωδία και εξέφρασε τη θλίψη του, στη Συνέντευξη Τύπου πριν τον αγώνα με τον Αγιαξ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/menti-2-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "«Ένας από τους επιζώντες μας ενημέρωσε, ένας πατέρας φώναζε πέστε μου αν ζει ο γιος μου»: Πένθος στην Αλεξάνδρεια για τους οπαδούς του ΠΑΟΚ",
@@ -214,38 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 19:47:23 +0300",
           "description": "Η Χαμάς προσπαθεί να εντάξει στην Εθνική Επιτροπή για τη Γάζα τόσο τους αστυνομικούς της όσο και τους δημόσιους υπαλλήλους της κυβέρνησής της. Και δηλώνει ανοιχτή στον αφοπλισμό.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2025-10-16T102659Z_22245955_RC2VCHAE6V6D_RTRMADP_5_ISRAEL-PALESTINIANS-GAZA_med.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Βιολάντα: «Η κόρη μου άλλαξε πόστο τελευταία στιγμή» λέει μητέρα εργάτριας  – «Θα είχε σκοτωθεί αν ήταν λίγα μέτρα πιο πέρα»",
-          "link": "https://www.newsit.gr/ellada/violanta-i-kori-mou-allakse-posto-teleytaia-stigmi-leei-mitera-ergatrias-tha-eixe-skotothei-an-itan-liga-metra-pio-pera/4584957/",
-          "pubDate": "Tue, 27 Jan 2026 16:44:11 +0000",
-          "description": "Πέντε γυναίκες, πέντε μητέρες, πέντε ψυχές που χάθηκαν στα συντρίμμια του εργοστασίου «Βιολάντα», βυθίζοντας στον θρήνο στα Τρίκαλα. Είχαν επιλέξει τη νυχτερινή βάρδια για να ...  \nTo άρθρο Βιολάντα: «Η κόρη μου άλλαξε πόστο τελευταία στιγμή» λέει μητέρα εργάτριας  – «Θα είχε σκοτωθεί αν ήταν λίγα μέτρα πιο πέρα» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-3-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συμμορία έκλεβε αυτοκίνητα τα παραποιούσε και τα μεταπωλούσε – Συνελήφθησαν τρία άτομα",
-          "link": "https://www.in.gr/2026/01/27/greece/symmoria-ekleve-aytokinita-ta-parapoiouse-kai-ta-metapolouse-synelifthisan-tria-atoma/",
-          "pubDate": "Tue, 27 Jan 2026 19:44:02 +0300",
-          "description": "Κατασχέθηκαν σε αυτοσχέδιο συνεργείο της εγκληματικής ομάδας, μεταξύ άλλων, -4- κλεμμένα οχήματα και πλήθος εξαρτημάτων αυτοκινήτων και πινακίδων κυκλοφορίας",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/thiefs-2-768x426.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Σοβαρή καταγγελία για Βιολάντα: «Τους λέγαμε μυρίζει υγραέριο, δεν έκαναν τίποτα»  δήλωσε η μητέρα της Έλενας που σκοτώθηκε ",
-          "link": "https://www.protothema.gr/greece/article/1764309/sovares-kataggelies-gia-ti-violada-tous-legame-murizei-ugraerio-mas-anatinaxan-leei-i-mitera-tis-elenas-pou-skotothike/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 18:41:00 +0200",
-          "description": "H γυναίκα εργάζεται και η ίδια στην πρωινή βάρδια του εργοστασίου - Συνεχίζονται οι έρευνες για να διαπιστωθούν τα αίτια της φονικής έκρηξης  - Υπεύθυνη βάρδιας  δηλώνει πως στο εργοστάσιο «τέλεια, πιο τέλεια δεν γίνεται»",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/ergostasio_ginaikes_xrm2.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "«Κόκκινη κάρτα» του ΣτΕ για την επέκταση ξενοδοχείου στη Μήλο – Παγώνουν τα έργα",
-          "link": "https://www.in.gr/2026/01/27/greece/kokkini-karta-tou-ste-gia-tin-epektasi-ksenodoxeiou-sti-milo-pagonoun-ta-erga/",
-          "pubDate": "Tue, 27 Jan 2026 19:38:42 +0300",
-          "description": "ε προσωρινή διαταγή που εξέδωσε ο Πρόεδρος του Ε΄ Τμήματος του Συμβουλίου της Επικρατείας Χρήστος Ντουχάνης ...παγώνουν τα έργα για την επέκταση της ξενοδοχειακής μονάδας.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EVJ_STE_NOSOKOMEIAKOI_GIATROI-1-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "TikTok US pushes back on claims it is censoring content",
+          "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 17:53:26 GMT",
+          "description": "Thousands of people claim political content is being suppressed after the US operation was spun off.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d0c/live/05b02900-fade-11f0-8165-918f1a8ba904.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
           "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 17:38:09 GMT",
@@ -521,7 +529,7 @@
           "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 17:31:54 GMT",
           "description": "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac9b/live/0f1a52c0-faea-11f0-a47f-d352a7d9988a.jpg",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5753/live/bfdc78e0-fba8-11f0-b852-153f64f31c74.jpg",
           "source": "BBC News"
         },
         {
@@ -731,14 +739,6 @@
           "description": "Η KGM, 19χρονη από τις ΗΠΑ, ισχυρίζεται ότι η εξάρτησή της από τις πλατφόρμες των Meta, Google και ByteDance από νεαρή ηλικία την οδήγησε σε αυτοκτονικές σκέψεις και κατάθλιψη.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Γερμανία: Επικήρυξε αυτούς που επιτέθηκαν στο δίκτυο ηλεκτροδότησης του Βερολίνου έναντι 1 εκ. ευρώ",
-          "link": "http://gr.euronews.com/2026/01/27/germania-epikirikixthikan-aftoi-po8-prokalesan-diakopi-revmatos-sto-berlin",
-          "pubDate": "Tue, 27 Jan 2026 14:08:10 +0100",
-          "description": "Η αστυνομία αναζητά μέλη της ακροαριστερής \"Vulkangruppe\" ή ομάδας \"Ηφαίστειο\", η οποία ανέλαβε την ευθύνη για τη διακοπή ρεύματος στις αρχές Ιανουαρίου.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,30 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Δοκιμές Βαρκελώνης 2η Ημέρα: Η βροχή εμφανίστηκε, οι ομάδες εξαφανίστηκαν",
+          "link": "https://www.gazzetta.gr/gmotion/2510723/dokimes-barkelonis-2i-imera-i-brohi-emfanistike-oi-omades-exafanistikan",
+          "pubDate": "Tue, 27 Jan 2026 19:54:51 +0200",
+          "description": "Η δεύτερη ημέρα του τεστ της Βαρκελώνης επηρεάστηκε από τη βροχή, όμως έκαναν την εμφάνισή τους στην πίστα δύο πολυπρωταθλητές της Formula 1.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/g_rc4fuxwaiuxdw1.jpg?itok=0biXI-vm",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΕΟΠΕ για δυστύχημα στη Ρουμανία: «Υπάρχει μόνο σιωπή, σεβασμός και ειλικρινής συμπαράσταση»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510721/eope-gia-dystyhima-sti-roymania-yparhei-mono-siopi-sebasmos-kai",
+          "pubDate": "Tue, 27 Jan 2026 19:50:08 +0200",
+          "description": "Με ανακοίνωσή της η ΕΟΠΕ ανέφερε πως οι σκέψεις όλων βρίσκεται στις οικογένειες των θυμάτων και στους οικείους τους. Την θλίψη για τον χαμό των 7 φίλων του ΠΑΟΚ εξέφρασε και ο ΣΕΓΑΣ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/639050338341148074.jpg?itok=iUHTtxjS",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πασαρέλες και αλγόριθμοι: Πώς επηρεάζουν τον τρόπο που ντυνόμαστε",
+          "link": "https://www.gazzetta.gr/plus/2510716/pasareles-kai-algorithmoi-pos-epireazoyn-ton-tropo-poy-ntynomaste",
+          "pubDate": "Tue, 27 Jan 2026 19:49:09 +0200",
+          "description": "Η βιομηχανία της μόδας λειτουργούσε επί δεκαετίες με σχετικά προβλέψιμους κύκλους: σεζόν, συλλογές, τάσεις. Σήμερα, όλα ξεκινούν από τις ψηφιακές πλατφόρμες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pasarela.jpg?itok=D9RRq0Hw",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ζενίτ Αγίας Πετρούπολης: Τα «κλειδιά» στον Ράντονιτς",
           "link": "https://www.gazzetta.gr/basketball/vtb-league/2510720/zenit-agias-petroypolis-ta-kleidia-ston-rantonits",
@@ -961,30 +985,6 @@
           "description": "Ο ιδιοκτήτης της ΚΑΕ ΠΑΟΚ, Τέλη Μυστακίδη, εξέφρασε τη θλίψη του αλλά και τη συμπαράστασή του στις οικογένειες των φίλων του ΠΑΟΚ που έχασαν τη ζωή τους στη Ρουμανία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4992602_1.jpg?itok=5cw2-48w",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Η Λιόν θα τιμήσει τους φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο πολύνεκρο δυστύχημα στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/i-lion-tha-timisei-tous-filous-tou-paok-pou-exasan-ti-zoi-tous-sto-polynekro-dystyxima-sti-roumania/4584967/",
-          "pubDate": "Tue, 27 Jan 2026 16:35:15 +0000",
-          "description": "Ο αγώνας του ΠΑΟΚ με τη Λιόν στη Γαλλία θα διεξαχθεί κανονικά (29/01/26, 22:00) παρά το αίτημα του Δικεφάλου για αναβολή, λόγω του τραγικού δυστυχήματος ...  \nTo άρθρο Η Λιόν θα τιμήσει τους φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο πολύνεκρο δυστύχημα στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lyon-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ερασιτέχνης Ολυμπιακός: «Τα συλλυπητήριά μας σε ολόκληρη την οικογένεια του ΠΑΟΚ»",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510697/erasitehnis-olympiakos-ta-syllypitiria-mas-se-olokliri-tin",
-          "pubDate": "Tue, 27 Jan 2026 18:25:06 +0200",
-          "description": "Με ανακοίνωσή του ο Ερασιτέχνης Ολυμπιακός εξέφρασε την θλίψη του για το τραγικό δυστύχημα στην Ρουμανία και ευχήθηκε ταχεία ανάρρωση στους τραυματίες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/logo-black-c070c451.jpg?itok=lJ2Nun7V",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΕΟΕ: «Στεκόμαστε με σεβασμό και συμπαράσταση δίπλα στις οικογένειες των θυμάτων»",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510696/eoe-stekomaste-me-sebasmo-kai-symparastasi-dipla-stis-oikogeneies",
-          "pubDate": "Tue, 27 Jan 2026 18:24:37 +0200",
-          "description": "Η Ελληνική Ολυμπιακή Επιτροπή με ανακοίνωσή της εξέφρασε τον σεβασμό και τη συμπαράστασή της στις οικογένειες των οπαδών του ΠΑΟΚ, μετά τον αδόκητο χαμό τους σε τροχαίο στη Ρουμανία.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_eoe.jpg?itok=KeHUBSp5",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -1002,11 +1002,11 @@
         },
         {
           "title": "Λεσόρ: Το μήνυμά του για την τραγωδία στη Ρουμανία! (pic)",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/lessort-to-mhnuma-tou-gia-thn-tragwdia-sth-roumania-pic/?utm_source=rss&utm_medium=rss&utm_campaign=lessort-to-mhnuma-tou-gia-thn-tragwdia-sth-roumania-pic",
-          "pubDate": "Tue, 27 Jan 2026 17:25:55 +0000",
-          "description": "Ο Ματίας Λεσόρ εξέφρασε τη θλίψη του μέσω Instagram για τον άδικο χαμό επτά οπαδών του ΠΑΟΚ. Ο Ματίας Λεσόρ θέλησε να στείλει το δικό του μήνυμα συμπαράστασης μετά το τραγικό τροχαίο δυστύχημα στη Ρουμανία, που στοίχισε τη ζωή σε επτά φιλάθλους του ΠΑΟΚ. Ο παίκτης του Παναθηναϊκού χρησιμοποίησε τα social media για να εκφράσει […]\nThe post Λεσόρ: Το μήνυμά του για την τραγωδία στη Ρουμανία! (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/08/lessort-2.jpg",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/lessort-to-mhnuma-tou-gia-thn-tragwdia-sth-roumania-pic/?utm_source=rss&utm_medium=rss&utm_campaign=lessort-to-mhnuma-tou-gia-thn-tragwdia-sth-roumania-pic",
+          "pubDate": "Tue, 27 Jan 2026 17:29:59 +0000",
+          "description": "Ο Ματίας Λεσόρ εξέφρασε τη θλίψη του μέσω Instagram για τον άδικο χαμό επτά οπαδών του ΠΑΟΚ.\nThe post Λεσόρ: Το μήνυμά του για την τραγωδία στη Ρουμανία! (pic) appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Συγκλονίζει αδερφός θύματος του δυστυχήματος στην Ρουμανία: «Μου επιβεβαίωσαν ότι είναι νεκρός» (video)",
@@ -1049,12 +1049,12 @@
           "source": "Trifilara"
         },
         {
-          "title": "Παναθηναϊκός: Ξεκαθάρισε για Οσμάν – Μήτογλου ενόψει Βιλερμπάν – Θέμα με Ναν – Γιούρτσεβεν!",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-xekatharise-gia-osman-mi/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-xekatharise-gia-osman-mi",
-          "pubDate": "Tue, 27 Jan 2026 15:57:23 +0000",
-          "description": "Με προπόνηση στο Telekom Center Athens ξεκίνησε σήμερα η προετοιμασία του Παναθηναϊκού AKTOR ενόψει του εκτός έδρας αγώνα με τη Βιλερμπάν. Με προπόνηση στο Telekom Center Athens ξεκίνησε σήμερα η προετοιμασία του Παναθηναϊκού AKTOR ενόψει του εκτός έδρας αγώνα με τη Βιλερμπάν, σε μια εβδομάδα που κρίνεται κομβική τόσο αγωνιστικά όσο και βαθμολογικά. Συγκεκριμένα, οι […]\nThe post Παναθηναϊκός: Ξεκαθάρισε για Οσμάν – Μήτογλου ενόψει Βιλερμπάν – Θέμα με Ναν – Γιούρτσεβεν! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/10/mitoglou-osman.jpg",
-          "source": "Όλα Πράσινα"
+          "title": "CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!»",
+          "link": "https://trifilara.gr/ceo-maccabi-tel-aviv-o-ataman-einai-provokataros/?utm_source=rss&utm_medium=rss&utm_campaign=ceo-maccabi-tel-aviv-o-ataman-einai-provokataros",
+          "pubDate": "Tue, 27 Jan 2026 15:59:24 +0000",
+          "description": "Ο CEO της Μακάμπι, Αβί Μπεν Ταν, σε δηλώσεις του στο «BasketNews» αναφέρθηκε στην επίθεση που δέχθηκε ο Εργκίν Αταμάν.\nThe post CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!» appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Το μήνυμα του Μητσοτάκη για την τραγωδία στη Ρουμανία: «Βαθιά συγκλονισμένος…» – Η πρώτη κίνηση της Κυβέρνησης",
@@ -1065,14 +1065,6 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!»",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/ceo-maccabi-tel-aviv-o-ataman-einai-provokatoras/?utm_source=rss&utm_medium=rss&utm_campaign=ceo-maccabi-tel-aviv-o-ataman-einai-provokatoras",
-          "pubDate": "Tue, 27 Jan 2026 15:51:57 +0000",
-          "description": "Ο CEO της Μακάμπι, Αβί Μπεν Ταν, σε δηλώσεις του στο «BasketNews» αναφέρθηκε στην επίθεση που δέχθηκε ο Εργκίν Αταμάν. Ο Αβί Μπεν Ταλ αναφέρει αναλυτικά στο «BasketNews»: «Η Μακάμπι Τελ Αβίβ είναι ένας σεβαστός σύλλογος που ιδρύθηκε το 1932. Ο σύλλογος είναι γνωστός για την παράδοσή του και για τους οπαδούς του, οι οποίοι […]\nThe post CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!» appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Ataman-3.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Η Θύρα 13 αποχαιρέτησε τους αδικοχαμένους οπαδούς του ΠΑΟΚ: «Καλό ταξίδι αετοί»",
           "link": "https://panathinaikos24.gr/2026/01/27/617978/i-thyra-13-apoxairetise-tous-adikoxamenous-opadous-tou-paok-kalo-taksidi-aetoi/",
           "pubDate": "Tue, 27 Jan 2026 15:44:12 +0000",
@@ -1081,20 +1073,12 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Στρέφεται ξανά σε Σλάγκερ ο Παναθηναϊκός! – Προσπάθεια να πειστεί για Ελλάδα",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/strefetai-xana-se-slagker-o-panathinai/?utm_source=rss&utm_medium=rss&utm_campaign=strefetai-xana-se-slagker-o-panathinai",
-          "pubDate": "Tue, 27 Jan 2026 15:39:27 +0000",
-          "description": "Σύμφωνα με πληροφορίες του «Όλα Πράσινα», ο Παναθηναϊκός επανέρχεται σε μια υπόθεση που μέχρι πρότινος θεωρούνταν ουσιαστικά χαμένη, αυτή του Ξαβέρ Σλάγκερ. Οι «πράσινοι» επιχειρούν εκ νέου να πείσουν τον Αυστριακό χαφ να κάνει το βήμα και να έρθει στην Ελλάδα, γνωρίζοντας όμως απόλυτα ότι πρόκειται για μια από τις πιο δύσκολες μεταγραφικές αποστολές του […]\nThe post Στρέφεται ξανά σε Σλάγκερ ο Παναθηναϊκός! – Προσπάθεια να πειστεί για Ελλάδα appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/schlager-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Η ανάρτηση της Θύρας 13 για το δυστύχημα με τους οπαδούς του ΠΑΟΚ! (pic)",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/h-anarthsh-ths-thuras-dekatria-gia-to-dustuxhma-me-tous-opadous-tou-paok-pic/?utm_source=rss&utm_medium=rss&utm_campaign=h-anarthsh-ths-thuras-dekatria-gia-to-dustuxhma-me-tous-opadous-tou-paok-pic",
-          "pubDate": "Tue, 27 Jan 2026 15:24:03 +0000",
-          "description": "Οι οργανωμένοι φίλοι του Παναθηναϊκού εξέφρασαν τη συμπαράστασή τους για τον άδικο χαμό επτά οπαδών του ΠΑΟΚ. Οι οργανωμένοι οπαδοί του Παναθηναϊκού προχώρησαν σε ανάρτηση το μεσημέρι της Τρίτης (27/1), στέλνοντας μήνυμα συμπαράστασης μετά το θανατηφόρο τροχαίο δυστύχημα στη Ρουμανία, που είχε ως αποτέλεσμα τον θάνατο επτά φιλάθλων του ΠΑΟΚ. Η Θύρα 13, με μια […]\nThe post Η ανάρτηση της Θύρας 13 για το δυστύχημα με τους οπαδούς του ΠΑΟΚ! (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/oaka-opadoi-panathinaikos-1200x800-1.webp",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/h-anarthsh-ths-thuras-dekatria-gia-to-dustuxhma-me-tous-opadous-tou-paok-pic/?utm_source=rss&utm_medium=rss&utm_campaign=h-anarthsh-ths-thuras-dekatria-gia-to-dustuxhma-me-tous-opadous-tou-paok-pic",
+          "pubDate": "Tue, 27 Jan 2026 15:27:34 +0000",
+          "description": "Οι οργανωμένοι φίλοι του Παναθηναϊκού εξέφρασαν τη συμπαράστασή τους για τον άδικο χαμό επτά οπαδών του ΠΑΟΚ.\nThe post Η ανάρτηση της Θύρας 13 για το δυστύχημα με τους οπαδούς του ΠΑΟΚ! (pic) appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "ΚΑΕ Παναθηναϊκός: «Βαθιά οδύνη για την απώλεια των φίλων του ΠΑΟΚ»",
@@ -1105,28 +1089,12 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Παναθηναϊκός: «Έκοψε» τη μεταγραφή Νιάς και όχι μόνο, επειδή… διέρρευσαν τα ονόματα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ekopse-ti-metagrafi-ni/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ekopse-ti-metagrafi-ni",
-          "pubDate": "Tue, 27 Jan 2026 15:21:16 +0000",
-          "description": "Η αντίδραση Αλαφούζου, το «κόψιμο» ονομάτων και τα μηνύματα προς όλες τις κατευθύνσεις. Ασχημα ξεκίνησε το τριήμερο της Παρασκευής για τον Παναθηναϊκό, καθώς στο εσωτερικό της ΠΑΕ προέκυψε σοβαρή ενόχληση από τον Γιάννη Αλαφούζο με αφορμή τις διαρροές γύρω από μεταγραφικούς στόχους. Η σταγόνα που ξεχείλισε το ποτήρι ήταν η δημοσιοποίηση του ονόματος του Σεχ […]\nThe post Παναθηναϊκός: «Έκοψε» τη μεταγραφή Νιάς και όχι μόνο, επειδή… διέρρευσαν τα ονόματα! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/11/alafouzos-2-3.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Νέες ενοχλήσεις ο Πελίστρι πριν τη Ρόμα!",
           "link": "https://trifilara.gr/nees-enochliseis-o-pelistri-prin-ti-roma/?utm_source=rss&utm_medium=rss&utm_campaign=nees-enochliseis-o-pelistri-prin-ti-roma",
           "pubDate": "Tue, 27 Jan 2026 15:12:58 +0000",
           "description": "Με φόντο τη Ρόμα συνεχίζεται η προετοιμασία στο Κορωπί – Προβλήματα και διαχείριση από Μπενίτεθ.\nThe post Νέες ενοχλήσεις ο Πελίστρι πριν τη Ρόμα! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Παναθηναϊκός: Ξανά ενοχλήσεις ο Πελίστρι! – Με πολλές απουσίες ξεκίνησε για Ρόμα",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-xana-enochliseis-o-pelis/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-xana-enochliseis-o-pelis",
-          "pubDate": "Tue, 27 Jan 2026 15:10:01 +0000",
-          "description": "Με πρωινή προπόνηση στο «Γ. Καλαφάτης» συνεχίστηκε την Τρίτη η προετοιμασία του Παναθηναϊκού ενόψει της εντός έδρας αναμέτρησης με τη Ρόμα, την Τετάρτη 29 Ιανουαρίου στις 22:00, για τη League Phase του Europa League. Το πρόγραμμα ξεκίνησε με προθέρμανση και ασκήσεις rondo, συνεχίστηκε με κυκλοφορία μπάλας και πρέσινγκ και ολοκληρώθηκε με ασκήσεις φυσικής κατάστασης, σε […]\nThe post Παναθηναϊκός: Ξανά ενοχλήσεις ο Πελίστρι! – Με πολλές απουσίες ξεκίνησε για Ρόμα appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/pellistri-4.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Παναθηναϊκός: «Ανείπωτη θλίψη για τους αδικοχαμένους φιλάθλους του ΠΑΟΚ»",
@@ -1137,28 +1105,20 @@
           "source": "Panathinaikos24"
         },
         {
+          "title": "Το συγκινητικό μήνυμα του Παναθηναϊκού για την τραγωδία με τους νεκρούς του ΠΑΟΚ! (pic)",
+          "link": "https://trifilara.gr/to-sugkinitiko-mhnuma-tou-panathinaikou-gia-thn-tragwdia-me-tous-nekrous-tou-paok-pic/?utm_source=rss&utm_medium=rss&utm_campaign=to-sugkinitiko-mhnuma-tou-panathinaikou-gia-thn-tragwdia-me-tous-nekrous-tou-paok-pic",
+          "pubDate": "Tue, 27 Jan 2026 15:06:05 +0000",
+          "description": "Ο Ερασιτέχνης Παναθηναϊκός με ανάρτηση εξέφρασε τη συμπαράστασή του για το τραγικό δυστύχημα στη Ρουμανία.\nThe post Το συγκινητικό μήνυμα του Παναθηναϊκού για την τραγωδία με τους νεκρούς του ΠΑΟΚ! (pic) appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Η ανακοίνωση της ΠΑΕ Παναθηναϊκός για τον χαμό των οπαδών του ΠΑΟΚ!",
           "link": "https://trifilara.gr/i-anakoinosi-tis-pae-panathinaikos-gia-ton-chamo-ton-opadon-tou-paok/?utm_source=rss&utm_medium=rss&utm_campaign=i-anakoinosi-tis-pae-panathinaikos-gia-ton-chamo-ton-opadon-tou-paok",
           "pubDate": "Tue, 27 Jan 2026 15:05:14 +0000",
           "description": "Η ΠΑΕ Παναθηναϊκός εξέδωσε συλλυπητήρια ανακοίνωση.\nThe post Η ανακοίνωση της ΠΑΕ Παναθηναϊκός για τον χαμό των οπαδών του ΠΑΟΚ! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "ΠΑΕ Παναθηναϊκός: «Είμαστε συγκλονισμένοι!»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/pae-panathinaikos-eimaste-sygklonis/?utm_source=rss&utm_medium=rss&utm_campaign=pae-panathinaikos-eimaste-sygklonis",
-          "pubDate": "Tue, 27 Jan 2026 15:01:50 +0000",
-          "description": "Με ανακοίνωση που εξέδωσε, η ΠΑΕ Παναθηναϊκός εξέφρασε τη θλίψη της για τον χαμό των οπαδών του ΠΑΟΚ στη Ρουμανία. Ένα σοκαριστικό τροχαίο δυστύχημα σημειώθηκε την Τρίτη 27 Ιανουαρίου 2026 στη Ρουμανία, όταν ένα μίνι βαν που μετέφερε οπαδούς του ΠΑΟΚ συγκρούστηκε με βυτιοφόρο και στη συνέχεια με φορτηγό στον αυτοκινητόδρομο DN6 – E70, στην […]\nThe post ΠΑΕ Παναθηναϊκός: «Είμαστε συγκλονισμένοι!» appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/sima-penthos.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Το συγκινητικό μήνυμα του Παναθηναϊκού για την τραγωδία με τους νεκρούς του ΠΑΟΚ! (pic)",
-          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/to-sugkinhtiko-mhnuma-tou-panathinaikou-gia-tous-nekrous-tou-paok-pic/?utm_source=rss&utm_medium=rss&utm_campaign=to-sugkinhtiko-mhnuma-tou-panathinaikou-gia-tous-nekrous-tou-paok-pic",
-          "pubDate": "Tue, 27 Jan 2026 14:59:53 +0000",
-          "description": "Ο Ερασιτέχνης Παναθηναϊκός με ανάρτηση εξέφρασε τη συμπαράστασή του για το τραγικό δυστύχημα στη Ρουμανία. Ο Ερασιτέχνης Παναθηναϊκός πήρε θέση με μια λιτή αλλά φορτισμένη συναισθηματικά ανάρτηση, μετά την ασύλληπτη τραγωδία που συγκλόνισε τον ΠΑΟΚ, καθώς επτά άνθρωποι έχασαν τη ζωή τους σε τροχαίο δυστύχημα στη Ρουμανία. Το «τριφύλλι» στάθηκε στο πλευρό της ασπρόμαυρης οικογένειας, […]\nThe post Το συγκινητικό μήνυμα του Παναθηναϊκού για την τραγωδία με τους νεκρούς του ΠΑΟΚ! (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/pao-2-1200x800-1.webp",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "«Καλό ταξίδι Αετόπουλα»: Το συγκινητικό μήνυμα του Ερασιτέχνη Παναθηναϊκού για τους αδικοχαμένους οπαδούς του ΠΑΟΚ",
@@ -1231,6 +1191,30 @@
           "description": "Τι αναμένεται να συζητηθεί στη συνέντευξη.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5%CF%85%CE%BC%CE%BD%CE%B5%CF%84%CE%B8%CF%81%CF%85%CE%BD%CE%BC%CF%85%CF%86%CE%B3.jpg?fit=895%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
+        },
+        {
+          "title": "Ακυρώνει και τη μεταγραφή του Καμπίνι ο Παναθηναϊκός!",
+          "link": "https://trifilara.gr/akyronei-kai-ti-metagrafi-tou-kabini-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=akyronei-kai-ti-metagrafi-tou-kabini-o-panathinaikos",
+          "pubDate": "Tue, 27 Jan 2026 11:32:21 +0000",
+          "description": "Ανατροπές και ένταση στον Παναθηναϊκό - στον «αέρα» και του Καμπινί μετά τον Κραλ.\nThe post Ακυρώνει και τη μεταγραφή του Καμπίνι ο Παναθηναϊκός! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Επίσημο: Παρελθόν ο Φικάι από τον Παναθηναϊκό! – Ο όρος στη μεταγραφή",
+          "link": "https://trifilara.gr/episimo-parelthon-o-fikai-apo-ton-panathinaiko-o-oros-sti-metagrafi/?utm_source=rss&utm_medium=rss&utm_campaign=episimo-parelthon-o-fikai-apo-ton-panathinaiko-o-oros-sti-metagrafi",
+          "pubDate": "Tue, 27 Jan 2026 11:17:27 +0000",
+          "description": "Παρελθόν και επίσημα αποτελεί ο Έλτον Φικάι από τον Παναθηναϊκό.\nThe post Επίσημο: Παρελθόν ο Φικάι από τον Παναθηναϊκό! – Ο όρος στη μεταγραφή appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Απόφαση Γιαννακόπουλου για οικονομική υπέρβαση με στόχο τον εκλεκτό στο «4»!",
+          "link": "https://trifilara.gr/apofasi-giannakopoulou-gia-oikonomiki-ypervasi-me-stocho-ton-eklekto-sto-4/?utm_source=rss&utm_medium=rss&utm_campaign=apofasi-giannakopoulou-gia-oikonomiki-ypervasi-me-stocho-ton-eklekto-sto-4",
+          "pubDate": "Tue, 27 Jan 2026 11:05:48 +0000",
+          "description": "Σε πλήρη εγρήγορση βρίσκεται ο Παναθηναϊκός, παρακολουθώντας στενά τις εξελίξεις στην αγορά του NBA, έχοντας ολοκληρώσει την απαραίτητη προεργασία και εμφανιζόμενος έτοιμος να κινηθεί άμεσα, εφόσον παρουσιαστεί η κατάλληλη περίπτωση.\nThe post Απόφαση Γιαννακόπουλου για οικονομική υπέρβαση με στόχο τον εκλεκτό στο «4»! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         }
       ]
     },
