@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:25:28.904Z",
+  "lastUpdated": "2026-01-27T21:29:11.988Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Κλιμακώνεται η ένταση για τη συμμετοχή του Ισραήλ στη Eurovision 2026",
+          "link": "http://gr.euronews.com/culture/2026/01/27/klimakwnetai-h-entash-gia-th-symmetoxh-toy-israhl-sth-eurovision-2026",
+          "pubDate": "Tue, 27 Jan 2026 22:23:47 +0100",
+          "description": "Η RAI ζητά εμφάνιση Παλαιστίνιου καλλιτέχνη «εκτός διαγωνισμού» στη Βιέννη",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Ενισχύεται η δυναμική στην ΕΕ για χαρακτηρισμό των Φρουρών της Ισλαμικής Επανάστασης ως τρομοκρατικής οργάνωσης",
           "link": "http://gr.euronews.com/my-europe/2026/01/27/enisxyetai-h-dynamikh-sthn-ee-gia-xarakthrismo-twn-froyrwn-ths-islamikhs-epanastashs-ws-tr",
           "pubDate": "Tue, 27 Jan 2026 21:47:56 +0100",
@@ -731,14 +739,6 @@
           "description": "Η αντιπαράθεση έρχεται στον απόηχο μιας ευρείας κλίμακας αναδιάρθρωσης των δραστηριοτήτων της TikTok στις Ηνωμένες Πολιτείες.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Rwanda takes legal action against UK over axed migrant deal",
-          "link": "https://www.bbc.com/news/articles/czx32yxnvzro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 15:17:38 GMT",
-          "description": "The African nation argues it is owed payments but Downing Street says it will fight the case.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8177/live/7b11f3e0-fb8d-11f0-bd4c-9d8c48f8eab8.png",
-          "source": "BBC News"
         }
       ]
     },
