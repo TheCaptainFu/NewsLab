@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T17:20:31.403Z",
+  "lastUpdated": "2026-01-27T17:25:28.465Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τροχαίο με νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία: Τα βίντεο της τραγωδίας",
+          "link": "https://www.newsit.gr/athlitika/troxaio-me-nekrous-opadous-tou-paok-sti-roumania-ta-vinteo-tis-tragodias/4584988/",
+          "pubDate": "Tue, 27 Jan 2026 17:21:37 +0000",
+          "description": "Επτά φίλοι του ΠΑΟΚ έχασαν τη ζωή τους μετά από ένα τραγικό τροχαίο στη Ρουμανία, ενώ ταξίδευαν για να δουν το παιχνίδι του ΠΑΟΚ στη ...  \nTo άρθρο Τροχαίο με νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία: Τα βίντεο της τραγωδίας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-fans-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Από την Έδεσσα και χωρίς επαγγελματία οδηγό νοίκιασαν το μοιραίο βαν οι οπαδοί του ΠΑΟΚ ",
+          "link": "https://www.protothema.gr/greece/article/1764360/apo-tin-edessa-kai-horis-epaggelmatia-odigo-noikiasan-to-moiraio-van-oi-opadoi-tou-paok/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 19:20:00 +0200",
+          "description": "«Είμαστε σε κατάσταση σοκ» είπε στο protothema.gr ο ιδιοκτήτης της εταιρείας ενοικιάσεως αυτοκινήτων",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-poulman.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Θάνος Πλεύρης: Επιδόματα σε μετανάστες τέλος, λάθος η λογική τον ταΐζω, τον ποτίζω",
           "link": "https://www.newsit.gr/politikh/thanos-pleyris-epidomata-se-metanastes-telos-lathos-i-logiki-ton-taizo-ton-potizo/4584994/",
@@ -231,22 +247,6 @@
           "description": "«Η βία και η τρομοκρατία δεν έχουν θέση στις Ηνωμένες Πολιτείες Αμερικής, ειδικά όταν η ίδια μας η κυβέρνηση στοχεύει Αμερικανούς πολίτες», τόνισε χαρακτηριστικά ο Τζο Μπάιντεν",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2025-10-11T135059Z_1180025005_RC29DCAKS2KW_RTRMADP_5_USA-BIDEN-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Στρασβούργο: Θερμές ευχαριστίες του Ευρωπαϊκού Δικαστηρίου Δικαιωμάτων του Ανθρώπου προς την Ελλάδα και τον Γιώργο Φλωρίδη",
-          "link": "https://www.protothema.gr/greece/article/1764326/strasvourgo-thermes-euharisties-tou-europaikou-dikastiriou-dikaiomaton-tou-anthropou-/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 18:14:25 +0200",
-          "description": "Η αταλάντευτη στάση της Ελλάδας υπέρ του Δικαστηρίου, της νομιμότητας και του διεθνούς δικαίου κρίνεται εξόχως σημαντική, σημείωσε ο πρόεδρος του Δικαστηρίου",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-strasvourgo.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ο πρόεδρος της Νιγηρίας σκόνταψε σε χαλί κι έπεσε κατά την επίσκεψή του στην Τουρκία",
-          "link": "https://www.newsit.gr/kosmos/o-proedros-tis-nigirias-skontapse-se-xali-ki-epese-kata-tin-episkepsi-tou-stin-tourkia/4584948/",
-          "pubDate": "Tue, 27 Jan 2026 16:13:26 +0000",
-          "description": "Ατύχημα για τον πρόεδρο της Νιγηρίας, Μπόλα Αχμέτ Τινούμπου, κατά την επίσκεψή του στην Τουρκία καλεσμένος του τούρκου προέδρου Ρετζέπ Ταγίπ Ερντογάν. Όπως φαίνεται στο ...  \nTo άρθρο Ο πρόεδρος της Νιγηρίας σκόνταψε σε χαλί κι έπεσε κατά την επίσκεψή του στην Τουρκία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bola-ahmed-tinubu-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Μεντιλίμπαρ: «Οι σκέψεις μας στους οπαδούς του ΠΑΟΚ, είμαστε εδώ μόνο για τη νίκη»",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510710/mentilimpar-oi-skepseis-mas-stoys-opadoys-toy-paok-eimaste-edo",
+          "pubDate": "Tue, 27 Jan 2026 19:21:38 +0200",
+          "description": "Ο Χοσέ Λουίς Μεντιλίμπαρ στάθηκε στην τραγωδία με τους οπαδούς του ΠΑΟΚ και τόνισε ότι η ομάδα του είναι στο Άμστερνταμ μόνο για τη νίκη! ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/medilibar_0.jpg?itok=2FHcihYf",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τροχαίο με νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία: Τα βίντεο της τραγωδίας",
+          "link": "https://www.newsit.gr/athlitika/troxaio-me-nekrous-opadous-tou-paok-sti-roumania-ta-vinteo-tis-tragodias/4584988/",
+          "pubDate": "Tue, 27 Jan 2026 17:21:37 +0000",
+          "description": "Επτά φίλοι του ΠΑΟΚ έχασαν τη ζωή τους μετά από ένα τραγικό τροχαίο στη Ρουμανία, ενώ ταξίδευαν για να δουν το παιχνίδι του ΠΑΟΚ στη ...  \nTo άρθρο Τροχαίο με νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία: Τα βίντεο της τραγωδίας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-fans-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Γκάλης για το δυστύχημα στη Ρουμανία: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι»",
           "link": "https://www.gazzetta.gr/basketball/2510708/gkalis-gia-dystyhima-sti-roymania-einai-exairetika-lypiro-na-hanoyn-ti-zoi-toys",
           "pubDate": "Tue, 27 Jan 2026 19:09:26 +0200",
@@ -969,22 +985,6 @@
           "description": "Οι σημαίες στην Τούμπα κυματίζουν μεσίστιες για τα επτά αετόπουλα του ΠΑΟΚ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_0.jpg?itok=epSh1uFx",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Και πάλι single η Μπέλα Χαντίντ: Χώρισε από τον επί 2 χρόνια σύντροφό της, Αντάν Μπανουέλος",
-          "link": "https://www.gazzetta.gr/plus/2510611/kai-pali-single-i-mpela-hantint-horise-apo-ton-epi-2-hronia-syntrofo-tis-antan",
-          "pubDate": "Tue, 27 Jan 2026 18:00:00 +0200",
-          "description": "Η Μπέλα Χαντίντ και ο Αντάν Μπανουέλος έδωσαν τέλος στο τρυφερό ειδύλλιό τους, διαψεύδοντας όσους υποστήριζαν πως αυτή η σχέση θα έχει happy end.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/belll.jpg?itok=On2OUo94",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η ενημέρωση από τον Αδωνι Γεωργιάδη για τους τρεις τραυματίες",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510684/paok-dystyhima-sti-roymania-i-enimerosi-apo-ton-adoni-georgiadi-gia",
-          "pubDate": "Tue, 27 Jan 2026 17:58:00 +0200",
-          "description": "Νεότερα για τους τρεις τραυματίες οπαδούς του ΠΑΟΚ στο θανατηφόρο τροχαίο στη Ρουμανία έδωσε ο υπουργός Υγείας, Άδωνις Γεωργιάδης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2025-12/geordiadis-adonis.jpg%2520%25281%2529.png?itok=pfJjqmYc",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Συγκλονίζει αδερφός θύματος του δυστυχήματος στην Ρουμανία: «Μου επιβεβαίωσαν ότι είναι νεκρός» (video)",
+          "link": "https://panathinaikos24.gr/2026/01/27/617994/sygklonizei-aderfos-thymatos-tou-dystyximatos-stin-roumania-mou-epivevaiosan-oti-einai-nekros-video/",
+          "pubDate": "Tue, 27 Jan 2026 17:20:30 +0000",
+          "description": "Ο αδερφός του 30χρονου φιλάθλου του ΠΑΟΚ που σκοτώθηκε στο τροχαίο αναφέρθηκε στην επικοινωνία που είχε με την πρεσβεία στην Ρουμανία.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/distixima-paok-troxaio.webp?fit=1300%2C700&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Αποφόρτιση λόγω ενοχλήσεων ο Πελίστρι στον Παναθηναϊκό – Παραμένει εκτός ο Καλάμπρια",
           "link": "https://panathinaikos24.gr/2026/01/27/617991/apofortisi-logo-enoxliseon-o-pelistri-ston-panathinaiko-paramenei-ektos-o-kalampria/",
@@ -1214,14 +1222,6 @@
           "pubDate": "Tue, 27 Jan 2026 12:23:52 +0000",
           "description": "Τζόγος, American Football, απληστία, φιλοδοξία άνευ όρων και 2 ηθοποιάρες – πώς να το προσπεράσεις αδιάφορα;",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/two-for-the-money-1200x747-1.jpg?fit=1200%2C747&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Βέρντερ Βρέμης – Χόφενχαϊμ με «Ενίσχυση» σε γκολ και παράδοση",
-          "link": "https://panathinaikos24.gr/2026/01/27/617930/vernter-vremis-xofenxaim-me-enisxysi-se-gkol-kai-paradosi/",
-          "pubDate": "Tue, 27 Jan 2026 12:09:53 +0000",
-          "description": "Η Χόφενχαϊμ ταξιδεύει στη Βρέμη για να αντιμετωπίσει τη Βέρντερ με το ηθικό στα ύψη.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Bremen.jpg?fit=1400%2C960&amp;ssl=1",
           "source": "Panathinaikos24"
         },
         {
