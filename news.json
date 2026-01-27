@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:45:28.799Z",
+  "lastUpdated": "2026-01-27T21:48:14.300Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Bundesliga: «Αστεράτη» νίκη για τη Χόφενχαϊμ, γκέλαρε στο 90΄+3΄η Λειψία ",
+          "link": "https://www.gazzetta.gr/football/bundesliga/2510769/bundesliga-asterati-niki-gia-ti-hofenhaim-gkelare-sto-903i-leipsia",
+          "pubDate": "Tue, 27 Jan 2026 23:46:14 +0200",
+          "description": "Σε τροχιά Champions League παρέμεινε η Χόφενχαϊμ που λύγισε με 2-0 τη Βέρντερ Βρέμης. Οριακά εντός τετράδας η Λειψία που ισοφαρίστηκε στο 90΄+3΄από τη Ζανκτ Πάουλι.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hoffenheim_fc_1.jpg?itok=ifjYrnj7",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Διευθυντής νοσοκομείου Τιμισοάρα: «Με πολλαπλά κατάγματα, αλλά εκτός κινδύνου ο ένας τραυματίας οπαδός του ΠΑΟΚ»",
           "link": "https://www.newsit.gr/athlitika/dieythyntis-nosokomeiou-timisoara-me-pollapla-katagmata-alla-ektos-kindynou-o-enas-traymatias-opados-tou-paok/4585195/",
           "pubDate": "Tue, 27 Jan 2026 21:40:57 +0000",
@@ -823,7 +831,7 @@
           "link": "https://www.gazzetta.gr/football/europa-league/2510761/paok-dystyhima-sti-roymania-oi-syndesmoi-akyrosan-oles-tis-ekdromes",
           "pubDate": "Tue, 27 Jan 2026 23:04:23 +0200",
           "description": "Όπως αναμένονταν σε ένδειξη πένθους για την τραγωδία της Ρουμανίας, οι οργανωμένοι οπαδοί του ΠΑΟΚ ακύρωσαν όλες τις εκδρομές για τη Λιόν και καλούν τον κόσμο της ομάδας, την Τετάρτη, στη Θύρα 4 της Τούμπας!",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/thy4.jpg?itok=titH0uk-",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/f8bac3f9-e4e2-4103-af33-bba4a5cc81ad.jpg?itok=Lu7Mr2xK",
           "source": "Gazzetta"
         },
         {
@@ -907,10 +915,10 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Συγγενείς και φίλοι των αδικοχαμένων οπαδών του ΠΑΟΚ έξω από το νοσοκομείο στην Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/syggeneis-kai-filoi-ton-adikoxamenon-opadon-tou-paok-ekso-apo-to-nosokomeio-stin-roumania/4585152/",
+          "title": "Σκηνές αρχαίας τραγωδίας από συγγενείς και φίλους των αδικοχαμένων οπαδών του ΠΑΟΚ έξω από το νοσοκομείο στην Ρουμανία",
+          "link": "https://www.newsit.gr/athlitika/skines-arxaias-tragodias-apo-syggeneis-kai-filous-ton-adikoxamenon-opadon-tou-paok-ekso-apo-to-nosokomeio-stin-roumania/4585152/",
           "pubDate": "Tue, 27 Jan 2026 20:01:56 +0000",
-          "description": "Έξω από το νοσοκομείο στη Ρουμανία βρίσκονται συγγενείς και φίλοι των θυμάτων του τραγικού δυστυχήματος των οπαδών του ΠΑΟΚ, που στέρησε τη ζωή σε επτά ...  \nTo άρθρο Συγγενείς και φίλοι των αδικοχαμένων οπαδών του ΠΑΟΚ έξω από το νοσοκομείο στην Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "description": "Έξω από το νοσοκομείο στη Ρουμανία βρίσκονται συγγενείς και φίλοι των θυμάτων του τραγικού δυστυχήματος των οπαδών του ΠΑΟΚ, που στέρησε τη ζωή σε επτά ...  \nTo άρθρο Σκηνές αρχαίας τραγωδίας από συγγενείς και φίλους των αδικοχαμένων οπαδών του ΠΑΟΚ έξω από το νοσοκομείο στην Ρουμανία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok20-26012026.jpg",
           "source": "NewsIT"
         },
@@ -977,14 +985,6 @@
           "description": "Ο Ολυμπιακός θα αντιμετωπίσει τον Άγιαξ για την τελευταία αγωνιστική του Champions League (28/01/26, 22:00) και ολοκλήρωσε την προετοιμασία του με την τελευταία προπόνηση στη ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Η τελευταία προπόνηση των Πειραιωτών πριν τον «τελικό» πρόκρισης στα νοκ άουτ του Champions League δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olumpiacos-4-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Starlink στο Ιράν: Πώς ο Έλον Μασκ έσπασε το ψηφιακό μπλακάουτ της Τεχεράνης",
-          "link": "https://www.gazzetta.gr/plus/2510746/starlink-sto-iran-pos-o-elon-mask-espase-psifiako-mplakaoyt-tis-teheranis",
-          "pubDate": "Tue, 27 Jan 2026 21:34:27 +0200",
-          "description": "Παράνομες κεραίες, απειλές απαγχονισμού και δορυφορικό ίντερνετ: πώς το Starlink έγινε το πιο επικίνδυνο όπλο αντίστασης στο Ιράν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/starlink.jpg?itok=qe9y4iSj",
-          "source": "Gazzetta"
         }
       ]
     },
