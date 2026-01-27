@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:30:36.039Z",
+  "lastUpdated": "2026-01-27T21:35:29.380Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βιολάντα: «Οι συλλήψεις πραγματοποιήθηκαν βάσει της προβλεπόμενης από τον νόμο διαδικασίας» – Νέα ανακοίνωση της εταιρείας",
+          "link": "https://www.newsit.gr/ellada/violanta-oi-syllipseis-pragmatopoiithikan-vasei-tis-provlepomenis-apo-ton-nomo-diadikasias-nea-anakoinosi-tis-etaireias/4585196/",
+          "pubDate": "Tue, 27 Jan 2026 21:29:26 +0000",
+          "description": "Διευκρινίσεις για τη σύλληψη του ιδιοκτήτη και των δύο στελεχών της εταιρείας στο πλαίσιο των ερευνών για τα αίτια της τραγωδίας με τις 5 νεκρές ...  \nTo άρθρο Βιολάντα: «Οι συλλήψεις πραγματοποιήθηκαν βάσει της προβλεπόμενης από τον νόμο διαδικασίας» – Νέα ανακοίνωση της εταιρείας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio-3.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Σύνδεσμοι Φίλων ΠΑΟΚ: «Ακυρώνονται όλες οι εκδρομές στη Γαλλία λόγω του σοκαριστικού δυστυχήματος στη Ρουμανία»",
           "link": "https://www.newsit.gr/athlitika/syndesmoi-filon-paok-akyronontai-oles-oi-ekdromes-sti-gallia-logo-tou-sokaristikou-dystyximatos-sti-roumania/4585192/",
@@ -97,12 +105,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "ΣΦ ΠΑΟΚ: «Ακυρώνονται όλες οι εκδρομές για τη Λυών σε ένδειξη σεβασμού στα αδέρφια μας»",
+          "link": "https://www.in.gr/2026/01/27/sports/football/sf-paok-akyronontai-oles-oi-ekdromes-gia-ti-lyon-se-endeiksi-sevasmou-sta-aderfia-mas/",
+          "pubDate": "Tue, 27 Jan 2026 23:32:26 +0300",
+          "description": "Ο ΣΦ ΠΑΟΚ εξέδωσε ανακοίνωση και αναφέρει ότι ακυρώνονται οι εκδρομές για τη Λυών, ενώ η θύρα 4 θα είναι ανοιχτή από Τετάρτη (28/1) για όποιον επιθυμεί να αποδώσει φόρο τιμής στους αδικοχαμένους φιλάθλους.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6826970-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Να το κάνουν και άλλες μανάδες όσο δύσκολο και αν είναι, λέει η μητέρα του Χριστόφορου που δώρισε τα όργανα μετά από τροχαίο",
           "link": "https://www.protothema.gr/greece/article/1764472/na-to-kanoun-alles-manades-oso-duskolo-kai-an-einai-leei-i-mitera-tou-hristoforou-pou-dorise-ta-organa-meta-apo-trohaio/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 22:31:22 +0200",
           "description": "Ο 40χρονος σεφ παρασύρθηκε από αυτοκίνητο την Τετάρτη (21/1) στη Νίκαια ενώ περπατούσε με τη σύντροφό του - Τραυματίστηκε βαρύτατα στο κεφάλι, διακομίστηκε στο ΚΑΤ αλλά δυστυχώς η κατάσταση της υγείας του ήταν μη αναστρέψιμη",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2023-04-28/dorea-organon.jpg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Η Gen Z ετοιμάζεται να κατακλύσει τις κινηματογραφικές αίθουσες για να δει την ταινία «The Moment» της Charli xcx",
+          "link": "https://www.in.gr/2026/01/27/life/culture-live/gen-z-etoimazetai-na-kataklysei-tis-kinimatografikes-aithouses-gia-na-dei-tin-tainia-moment-tis-charli-xcx/",
+          "pubDate": "Tue, 27 Jan 2026 23:30:51 +0300",
+          "description": "Μετά την πρεμιέρα του «The Moment» στο Φεστιβάλ Κινηματογράφου του Sundance την περασμένη εβδομάδα, περισσότερες από 50 προβολές εξαντλήθηκαν σε βασικές αγορές.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/CHARLI-768x461.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Καντζούρης για Τζόσεφ: «Παίκτης ομάδας, με βαθιά γνώση του μπάσκετ»",
@@ -223,30 +247,6 @@
           "description": "Οι ΗΠΑ διαμήνυσαν στην Ουκρανία πως για να τεθούν σε ισχύ οι εγγυήσεις ασφαλείας, η τελευταία οφείλει να υπογράψει συνθήκη ειρήνης με τη Ρωσία",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-27T150035Z_148498765_RC2PWEA8HQKH_RTRMADP_5_SCIENCE-DOOMSDAYCLOCK-768x519.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Θρίλερ στη Θεσσαλονίκη με δύο νεκρές γυναίκες σε υπόγειο 52χρονου, ομολόγησε πως έπνιξε τη μία και την πέταξε σε κάδο",
-          "link": "https://www.protothema.gr/greece/article/1764450/eglima-i-exafanisi-46hronis-sti-thessaloniki-tin-epnixan-kai-tin-petaxan-sta-skoupidia/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 21:45:00 +0200",
-          "description": "Η μία γυναίκα είχε εξαφανιστεί από τον Σεπτέμβριο του 2024 και η άλλη από το καλοκαίρι του 2025",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/thessaloniki-xrwma.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Θεσσαλονίκη: Ένας 52χρονος ομολόγησε τη δολοφονία 46χρονης που αγνοούταν – Φόβοι για κατά συρροή εγκλήματα",
-          "link": "https://www.in.gr/2026/01/27/greece/thessaloniki-enas-52xronos-omologise-ti-dolofonia-46xronis-pou-agnooutan-fovoi-gia-kata-syrroi-egklimata/",
-          "pubDate": "Tue, 27 Jan 2026 22:43:12 +0300",
-          "description": "Δεύτερη σορός γυναίκας βρέθηκε στο ίδιο κτίριο στην Θεσσαλονίκη",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/4996034-2-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Εξαφάνιση 35χρονης από τους Αμπελόκηπους – Τι αναφέρει το «Χαμόγελο του Παιδιού»",
-          "link": "https://www.newsit.gr/ellada/eksafanisi-35xronis-apo-tous-ampelokipous-ti-anaferei-to-xamogelo-tou-paidiou/4585138/",
-          "pubDate": "Tue, 27 Jan 2026 19:40:45 +0000",
-          "description": "Την εξαφάνιση της Κατερίνας Μπούμη, ηλικίας 35 ετών, από την περιοχή των Αμπελοκήπων στην Αθήνα, κάνει γνωστή το «Χαμόγελο του Παιδιού» με ανακοίνωση που έδωσε ...  \nTo άρθρο Εξαφάνιση 35χρονης από τους Αμπελόκηπους – Τι αναφέρει το «Χαμόγελο του Παιδιού» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/exafanisi-26012026-1200x630.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οδύνη στην Αλεξάνδρεια",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510766/paok-dystyhima-sti-roymania-odyni-stin-alexandreia",
+          "pubDate": "Tue, 27 Jan 2026 23:33:54 +0200",
+          "description": "Πένθος και οδύνη στην Αλεξάνδρεια για τους οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_5.jpg?itok=oc8PXhbm",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Champions League: Τροχαίο για τον Μουάνι, αλλά χωρίς τραυματισμό",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510765/champions-league-trohaio-gia-ton-moyani-alla-horis-traymatismo",
+          "pubDate": "Tue, 27 Jan 2026 23:32:54 +0200",
+          "description": "Μουανί και Οντομπέρ είχαν ατύχημα παραμονές της σημαντικής αναμέτρησης με την Άιντραχτ για το Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ferrari_tottenham.jpg?itok=tvUpLgS1",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Δολοφονία Λυγγερίδη: «Μου διέλυσαν την οικογένεια» – H συγκλονιστική κατάθεση του πατέρα",
+          "link": "https://www.gazzetta.gr/plus/2510764/dolofonia-lyggeridi-moy-dielysan-tin-oikogeneia-h-sygklonistiki-katathesi-toy-patera",
+          "pubDate": "Tue, 27 Jan 2026 23:31:39 +0200",
+          "description": "Συγκλονίζει η μαρτυρία του πατέρα του Γιώργου Λυγγερίδη στη δίκη για την φονική επίθεση έξω από το κλειστό γυμναστήριο του Ρέντη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/liggeridis.jpg?itok=QQ1Q9Onr",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Σύνδεσμοι Φίλων ΠΑΟΚ: «Ακυρώνονται όλες οι εκδρομές στη Γαλλία λόγω του σοκαριστικού δυστυχήματος στη Ρουμανία»",
           "link": "https://www.newsit.gr/athlitika/syndesmoi-filon-paok-akyronontai-oles-oi-ekdromes-sti-gallia-logo-tou-sokaristikou-dystyximatos-sti-roumania/4585192/",
           "pubDate": "Tue, 27 Jan 2026 21:19:33 +0000",
@@ -960,30 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 21:21:19 +0200",
           "description": "Ο ΑΣ ΠΑΟΚ μετά από απόφαση του ΔΣ ζήτησε την αναβολή των αγώνων όλων των τμημάτων την τρέχουσα βδομάδα ως ελάχιστο φόρο τιμής στους 7 φίλους της ομάδας που έχασαν την ζωή τους σε δυστύχημα στη Ρουμανία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4989479_1.jpg?itok=-y3lQPPl",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Με κατάγματα και τραύματα στην σπονδυλική στήλη οι επιζώντες οπαδοί του ΠΑΟΚ» – Τα λόγια του μάνατζερ του νοσοκομείου",
-          "link": "https://www.newsit.gr/athlitika/me-katagmata-kai-traymata-stin-spondyliki-stili-oi-epizontes-opadoi-tou-paok-ta-logia-tou-manatzer-tou-nosokomeiou/4585125/",
-          "pubDate": "Tue, 27 Jan 2026 19:19:30 +0000",
-          "description": "Οι τρεις οπαδοί του ΠΑΟΚ που επέζησαν από το φρικτό τροχαίο δυστύχημα στην Ρουμανία βρίσκονται στο νοσοκομείο της Τιμισοάρα σοβαρά τραυματίες, αλλά εκτός κινδύνου. «Τρεις ...  \nTo άρθρο «Με κατάγματα και τραύματα στην σπονδυλική στήλη οι επιζώντες οπαδοί του ΠΑΟΚ» – Τα λόγια του μάνατζερ του νοσοκομείου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-fans-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "UEFA για το δυστύχημα στη Ρουμανία: «Στεκόμαστε δίπλα στην οικογένεια του ΠΑΟΚ»",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510741/uefa-gia-dystyhima-sti-roymania-stekomaste-dipla-stin-oikogeneia-toy",
-          "pubDate": "Tue, 27 Jan 2026 21:16:48 +0200",
-          "description": "Με ανάρτησή της στα social media η UEFA εξέφρασε τη στήριξή της στην οικογένεια του ΠΑΟΚ έπειτα από το τραγικό δυστύχημα με τους οπαδούς των ασπρόμαυρων στη Ρουμανία.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_shma.jpg?itok=ulNpsbOe",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η κατάσταση των τριών τραυματιών ",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510740/paok-dystyhima-sti-roymania-i-katastasi-ton-trion-traymation",
-          "pubDate": "Tue, 27 Jan 2026 21:16:27 +0200",
-          "description": "Την κατάσταση των τριών τραυματιών που επέζησαν από το θανατηφόρο τροχαίο αποκάλυψε ρουμάνικο Μέσο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/distihima1_0.jpg?itok=1Mi36hN2",
           "source": "Gazzetta"
         }
       ]
