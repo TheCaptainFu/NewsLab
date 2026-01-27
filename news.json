@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T10:15:31.468Z",
+  "lastUpdated": "2026-01-27T10:20:26.211Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Το φυσικό αέριο ανεβάζει ταχύτητα – Πώς επηρεάζονται οι τιμές από την πλήρη απεξάρτηση της ΕΕ από το ρωσικό αέριο",
+          "link": "https://www.newsit.gr/oikonomia/agores/to-fysiko-aerio-anevazei-taxytita-pos-epireazontai-oi-times-apo-tin-pliri-apeksartisi-tis-ee-apo-to-rosiko-aerio/4584531/",
+          "pubDate": "Tue, 27 Jan 2026 10:17:53 +0000",
+          "description": "Σταθερά ανοδικά κινούνται οι τιμές του φυσικού αερίου, με τα ευρωπαϊκά συμβόλαια να σταθεροποιούνται πάνω από τα 40 ευρώ/MWh έχοντας δοκιμάσει να αναρριχηθούν και υψηλότερα, ...  \nTo άρθρο Το φυσικό αέριο ανεβάζει ταχύτητα – Πώς επηρεάζονται οι τιμές από την πλήρη απεξάρτηση της ΕΕ από το ρωσικό αέριο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/natural-gas-europe-reuters-1200x801.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Χαλάνδρι: 55χρονος επιτέθηκε στην 49χρονη αδελφή του και την τραυμάτισε σοβαρά στα μάτια",
           "link": "https://www.newsit.gr/ellada/xalandri-55xronos-epitethike-stin-49xroni-adelfi-tou-kai-tin-traymatise-sovara-sta-matia/4584536/",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 09:24:04 +0000",
           "description": "Ο Μάκης Χριστοδουλόπουλος παρακολουθεί όλες τις εξελίξεις, λίγες ώρες πριν βγουν σε πλειστηριασμό ακίνητα που είχε αποκτήσει, για χρέη μόλις 10.000 ευρώ, όπως αναφέρεται στη ...  \nTo άρθρο Μάκης Χριστοδουλόπουλος: Σε πλειστηριασμό ακίνητα του τραγουδιστή με τιμή εκκίνησης 593.100 ευρώ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xristodoulopoulos-ndp-1200x745.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η Ελίνα Σβιτολίνα ισοπέδωσε την Κόκο Γκοφ και προκρίθηκε στα ημιτελικά του Australian Open",
-          "link": "https://www.newsit.gr/athlitika/i-elina-svitolina-isopedose-tin-koko-gkof-kai-prokrithike-sta-imitelika-tou-australian-open/4584485/",
-          "pubDate": "Tue, 27 Jan 2026 09:20:21 +0000",
-          "description": "Η Ελίνα Σβιτολίνα πήρε για πρώτη φορά στην καριέρα της το εισιτήριο για τα ημιτελικά του Australian Open. Η Ουκρανή τενίστρια διέλυσε την Κόκο Γκοφ ...  \nTo άρθρο Η Ελίνα Σβιτολίνα ισοπέδωσε την Κόκο Γκοφ και προκρίθηκε στα ημιτελικά του Australian Open δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/svitolina-1200x781.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Πρόοδο στα Μέτρα Οικοδόμησης Εμπιστοσύνης, ζήτησε η Ολγκίν μετά την συνάντηση με Χριστοδουλίδη",
+          "link": "http://gr.euronews.com/2026/01/27/proodo-sta-metra-oikodomisis-empistosynis-zitise-i-olgkin",
+          "pubDate": "Tue, 27 Jan 2026 10:59:02 +0100",
+          "description": "Ολοκληρώθηκε η συνάντηση του προέδρου της Κυπριακής Προεδρίας, Νίκου Χριστοδουλίδη με την Προσωπική Απεσταλμένη του ΟΗΕ, Μαρία Άνχελα Ολγκίν στο Προεδρικό Μέγαρο στη Λευκωσία η οποία διήρκεσε περίπου 50 λεπτά",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Trump raises US tariffs on South Korea imports to 25%",
           "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 09:56:04 GMT",
@@ -731,14 +739,6 @@
           "description": "The plaintiffs said North Korea was marketed to them as \"paradise on Earth\".",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b5/live/2716d0d0-fb1f-11f0-95a7-23b039032098.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "'Major step': French MPs vote in favour of bill to ban social media for under-15s",
-          "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 01:12:19 GMT",
-          "description": "If the bill passes the upper house it could take effect by the start of France's new school year in September.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/4c7fd700-fab0-11f0-91f4-a739ab96be22.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Τσιμίκας: Ενδιαφέρον από την Μπεσίκτας για τον Έλληνα μπακ",
+          "link": "https://www.gazzetta.gr/football/super-league-toyrkias/2510568/tsimikas-endiaferon-apo-tin-mpesiktas-gia-ton-ellina-mpak",
+          "pubDate": "Tue, 27 Jan 2026 12:17:18 +0200",
+          "description": "Ο έγκριτος ρεπόρτερ Μπεν Τζέικομπς αποκάλυψε το ενδιαφέρον της Μπεσίκτας για τον Κώστα Τσιμίκα. Ποια η στάση του Έλληνα αμυντικού.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/tsimikas_roma.jpg?itok=YY_vnNA4",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ισπανοί διαιτητές για Παναθηναϊκό και ΠΑΟΚ στο Europa League",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510567/ispanoi-diaitites-gia-panathinaiko-kai-paok-sto-europa-league",
+          "pubDate": "Tue, 27 Jan 2026 12:16:46 +0200",
+          "description": "Η UEFA όρισε τους διαιτητές που θα σφυρίξουν τον ΠΑΟΚ και τον Παναθηναϊκό στα ευρωπαϊκά τους παιχνίδια την ερχόμενη Πέμπτη (29/01).",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/konstantelias_eurokinisi.jpg?itok=2IlzlD6k",
+          "source": "Gazzetta"
+        },
         {
           "title": "Άρης: Η χαμένη δύναμης (της έδρας) και τα γκολ στις καθυστερήσεις",
           "link": "https://www.gazzetta.gr/football/superleague/2510565/aris-i-hameni-dynamis-tis-edras-kai-ta-gkol-stis-kathysteriseis",
@@ -968,22 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 10:30:00 +0200",
           "description": "Το λιπαντικό είναι το «αίμα» του κινητήρα και η ποιότητά του καθορίζει πολλά. Αναγνωρίστε εγκαίρως τα προειδοποιητικά σημάδια πριν προκληθεί ανεπανόρθωτη ζημιά.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/car_oil_gauge.jpg?itok=qA_HlIVI",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός, Champions League: Οι πιθανότεροι αντίπαλοι αν προκριθεί στα νοκ-άουτ",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510541/olympiakos-champions-league-oi-pithanoteroi-antipaloi-prokrithei",
-          "pubDate": "Tue, 27 Jan 2026 10:29:49 +0200",
-          "description": "Ο Ολυμπιακός ετοιμάζεται για τον τελικό πρόκρισης με τον Άγιαξ (28/1, 22:00) και ο υπερυπολογιστής Football Meets Data παρουσιάζει τους πιθανότερους αντιπάλους στα νοκ-άουτ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_2_0.jpg?itok=GbFVzVrE",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Η αναβάθμιση της Siri με το Gemini της Google θα παρουσιαστεί τον επόμενο μήνα",
-          "link": "https://www.gazzetta.gr/plus/2510259/i-anabathmisi-tis-siri-me-gemini-tis-google-tha-paroysiastei-ton-epomeno-mina",
-          "pubDate": "Tue, 27 Jan 2026 10:18:16 +0200",
-          "description": "Μέσα στον Φεβρουάριο θα δούμε την αναβαθμισμένη Siri της Apple",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/f428e370-fa0b-11f0-bfce-5a0cae24b562.jpg?itok=GSc6V4V5",
           "source": "Gazzetta"
         }
       ]
