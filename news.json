@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T14:42:08.356Z",
+  "lastUpdated": "2026-01-27T14:45:27.461Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Μπλόκο από το ΣτΕ στο ξενοδοχείο White Coast της Μήλου",
+          "link": "https://www.protothema.gr/greece/article/1764253/stop-sto-oikologiko-eglima-sti-milo-anastellodai-oi-ergasies-me-apofasi-tou-ste/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 16:42:00 +0200",
+          "description": "",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/mylos2-xrm.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Η Κατερίνα Παπουτσάκη χώρισε από τον Θάνο Χατζόπουλο μετά από 1,5 χρόνο σχέσης",
           "link": "https://www.newsit.gr/lifestyle/i-katerina-papoutsaki-xorise-apo-ton-thano-xatzopoulo-meta-apo-1-5-xrono-sxesis/4584842/",
@@ -185,12 +193,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Σοκ στον ΠΑΟΚ, σε ανοιχτή γραμμή με τις αρχές",
+          "link": "https://www.in.gr/2026/01/27/world/sok-ston-paok-se-anoixti-grammi-tis-arxes/",
+          "pubDate": "Tue, 27 Jan 2026 16:44:06 +0300",
+          "description": "Η πρώτη αντίδραση από την ΠΑΕ ΠΑΟΚ για το τραγικό δυστύχημα στη Ρουμανία",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/paok-1-768x513.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ζελένσκι: Η Ουκρανία πρέπει να έχει ενταχθεί στην ΕΕ μέχρι το 2027 ως εγγύηση ασφαλείας της Ευρώπης",
           "link": "https://www.newsit.gr/kosmos/zelenski-i-oukrania-prepei-na-exei-entaxthei-stin-ee-mexri-to-2027-os-eggyisi-asfaleias-tis-eyropis/4584778/",
           "pubDate": "Tue, 27 Jan 2026 13:44:04 +0000",
           "description": "Με κατηγορηματικό τρόπο ο Βολοντίμιρ Ζελένσκι επανέλαβε σήμερα (27.01.2026) ότι η Ουκρανία παίζει καθοριστικό ρόλο στην αρχιτεκτονική ασφαλείας και άμυνας της Ευρώπης και πρέπει μέσα ...  \nTo άρθρο Ζελένσκι: Η Ουκρανία πρέπει να έχει ενταχθεί στην ΕΕ μέχρι το 2027 ως εγγύηση ασφαλείας της Ευρώπης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zelensky-reuters-5-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Βουλή: Η ΝΔ παραπέμπει τη Ζωή Κωνσταντοπούλου στην επιτροπή δεοντολογίας για αντικοινοβουλευτική και «αντεθνική» συμπεριφορά",
+          "link": "https://www.in.gr/2026/01/27/politics/politiki-grammateia/vouli-nd-parapempei-ti-zoi-konstantopoulou-stin-epitropi-deontologias-gia-antikoinovouleytiki-kai-antethniki-symperifora/",
+          "pubDate": "Tue, 27 Jan 2026 16:41:35 +0300",
+          "description": "Οι βουλευτές πάντως της αντιπολίτευσης αν και δεν επικροτούν τη συμπεριφορά της Ζωής Κωνσταντοπούλου δεν συμφώνησαν με την πρόταση της πλειοψηφίας, την οποία και κατηγόρησαν πως επιχειρεί να συγκαλύψει τον σκάνδαλο του ΟΠΕΚΕΠΕ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/NX3_1400-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "«Η αξία του σοκ, πουλάει» – Η πρώτη επίδειξη Haute Couture του Τζόναθαν Άντερσον για τον Dior",
@@ -222,30 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 16:38:30 +0300",
           "description": "Το Mukaab είναι το τελευταίο υπερφιλόδοξο έργο που ακυρώνει η Σαουδική Αραβία καθώς αναγκάζεται να θέσει προτεραιότητες στις δαπάνες της.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2560px-Mukaab_Illustration-768x433.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Η Μελάνια Τραμπ βγαίνει μπροστά και καλεί σε ενότητα και ειρήνη μετά τις ταραχές στη Μινεσότα",
-          "link": "https://www.newsit.gr/kosmos/i-melania-tramp-vgainei-mprosta-kai-kalei-se-enotita-kai-eirini-meta-tis-taraxes-sti-minesota/4584784/",
-          "pubDate": "Tue, 27 Jan 2026 13:37:28 +0000",
-          "description": "Σε μια σπάνια πολιτική δήλωση προχώρησε η Μελάνια Τραμπ καλώντας σε «ενότητα», έπειτα από εβδομάδες αναταραχών στη Μινεσότα αφού στελέχη της ICE σκότωσαν δύο Αμερικανούς ...  \nTo άρθρο Η Μελάνια Τραμπ βγαίνει μπροστά και καλεί σε ενότητα και ειρήνη μετά τις ταραχές στη Μινεσότα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/melania-trump-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ανάρτηση Modi (και στα Ελληνικά): Η συμφωνία ΕΕ – Ινδίας θα δημιουργήσει ευκαιρίες για τους λαούς μας",
-          "link": "https://www.newsit.gr/oikonomia/diethni/anartisi-modi-kai-sta-ellinika-i-symfonia-ee-indias-tha-dimiourgisei-eykairies-gia-tous-laous-mas/4584772/",
-          "pubDate": "Tue, 27 Jan 2026 13:36:52 +0000",
-          "description": "Με ενθουσιώδη δήλωση στα social media o Ινδός πρωθυπουργός Ναρέντρα Μόντι τόνισε ότι η μεγάλη εμπορική συμφωνία ελεύθερων συναλλαγών που επισημοποίησαν σήμερα (27.1.2026) η Ινδία ...  \nTo άρθρο Ανάρτηση Modi (και στα Ελληνικά): Η συμφωνία ΕΕ – Ινδίας θα δημιουργήσει ευκαιρίες για τους λαούς μας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/modi-india-1200x768.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Στα Τρίκαλα ο Χαρίτσης: Είναι το χρονικό ενός προαναγγελθέντος εγκλήματος",
-          "link": "https://www.in.gr/2026/01/27/politics/politiki-grammateia/sta-trikala-o-xaritsis-einai-xroniko-enos-proanaggelthentos-egklimatos/",
-          "pubDate": "Tue, 27 Jan 2026 16:32:43 +0300",
-          "description": "Ο Αλέξης Χαρίτσης ανακοίνωσε ότι «σήμερα η Κοινοβουλευτική Ομάδα της Νέας Αριστεράς, με έκτακτο αίτημα, ζητά από τη Βουλή τη σύγκληση της Επιτροπής Κοινωνικών Υποθέσεων για τα εργατικά ατυχήματα»",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/344-768x525.jpg",
           "source": "In.gr"
         }
       ]
@@ -309,6 +309,14 @@
           "description": "Στην παραπομπή της Ζωή Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας προχωρά η Νέα Δημοκρατία, σύμφωνα με κομματικές πηγές, μετά τη στάση και τις εκφράσεις που αποδίδονται στην πρόεδρο της Πλεύσης Ελευθερίας κατά…\nΝΔ: Παραπομπή της Ζωής Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας της Βουλής - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Η ΝΔ στέλνει στην επιτροπή Δεοντολογίας την Κωνσταντοπούλου – Οι αναφορές στα Ίμια",
+          "link": "https://www.tovima.gr/2026/01/27/politics/i-nd-stelnei-stin-epitropi-deontologias-tin-konstantopoulou-oi-anafores-sta-imia/",
+          "pubDate": "Tue, 27 Jan 2026 16:41:43 +0300",
+          "description": "Παραπέμπεται στην επιτροπή Δεοντολογίας η Ζωή Κωνσταντοπούλου για αντικοινοβουλευτική συμπεριφορά - «Αυτό που είπε με αυτό τον απαράδεκτο τρόπο το ψάξε να βρεις τι έγινε στα Ίμια, είναι προσβολή στο πρόσωπο του ήρωα».",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/KONSTANTOPOYLOY-1024x681.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Ταμείο Καινοτομίας Φαρμάκου: «Πράσινο φως» για ταχύτερη πρόσβαση σε νέα θεραπείες",
@@ -485,14 +493,6 @@
           "description": "Την ανάγκη της συνεχούς εγρήγορση απέναντι στις δυνάμεις του μίσους και του διχασμού επισημαίνει ο πρωθυπουργός Κυριάκος Μητσοτάκης σε ανάρτησή του για τη σημερινή Ημέρα Μνήμης των θυμάτων του Ολοκαυτώματος.…\nΚ. Μητσοτάκης για Ημέρα Μνήμης θυμάτων του Ολοκαυτώματος: Η μισαλλοδοξία και ο αντισημιτισμός δεν έχουν θέση στις κοινωνίες μας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "ΠΑΣΟΚ: Ασύστολα ψεύδη της κυβέρνησης για την ευλογιά των αιγοπροβάτων",
-          "link": "https://www.naftemporiki.gr/politics/2064428/pasok-asystola-pseydi-tis-kyvernisis-gia-tin-eylogia-ton-aigoprovaton/?utm_source=rss&utm_medium=rss&utm_campaign=pasok-asystola-pseydi-tis-kyvernisis-gia-tin-eylogia-ton-aigoprovaton",
-          "pubDate": "Tue, 27 Jan 2026 10:09:08 +0000",
-          "description": "Για καθυστέρηση στη διαχείριση της ευλογιάς των αιγοπροβάτων κατηγορεί την κυβέρνηση το ΠΑΣΟΚ–Κίνημα Αλλαγής, με ανακοίνωσή του.\nΠΑΣΟΚ: Ασύστολα ψεύδη της κυβέρνησης για την ευλογιά των αιγοπροβάτων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Εκατοντάδες Μπαγκλαντεσιανοί εξαπατήθηκαν και στάλθηκαν ως στρατιώτες στη Ρωσία",
+          "link": "http://gr.euronews.com/2026/01/27/ekatontades-mpagklantesianoi-e3apath8hkan-kai-stal8hkan-ws-stratiwtes-sth-rwsia",
+          "pubDate": "Tue, 27 Jan 2026 15:40:24 +0100",
+          "description": "Υποσχέσεις για δουλειά μετατράπηκαν σε στρατιωτικά καθήκοντα στο μέτωπο – τουλάχιστον 40 αγνοούμενοι ή νεκροί",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
         {
           "title": "Σκωτσέζοι Βίκινγκ παρελαύνουν στους δρόμους για τις εκδηλώσεις του Up Helly Aa",
           "link": "http://gr.euronews.com/video/2026/01/27/scottish-vikings-march-through-the-streets-for-up-helly-aa-festivities",
@@ -731,14 +739,6 @@
           "description": "Ειδικοί προτρέπουν τα ευρωπαϊκά σούπερ μάρκετ να στραφούν σε διατροφή πλούσια σε φυτικές τροφές, ώστε να μειώσουν τις εκπομπές και να περιορίσουν το κόστος.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Η Ελλάδα δανείζεται ευκολότερα και προσελκύει επενδύσεις, αλλά οι κίνδυνοι παραμένουν ",
-          "link": "http://gr.euronews.com/business/2026/01/27/h-ellada-daneizetai-eykolotera-alla-oi-kindynoi-paramenoyn",
-          "pubDate": "Tue, 27 Jan 2026 09:55:21 +0100",
-          "description": "Η οικονομία δείχνει σημάδια σταθερής βελτίωσης, με χαμηλότερο κόστος δανεισμού και αυξημένο επενδυτικό ενδιαφέρον. Ο ESM και ο MSCI αναγνωρίζουν την πρόοδο, προειδοποιώντας όμως για κινδύνους από ένα πιο αβέβαιο διεθνές περιβάλλον.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Χέιζ-Ντέιβις: «Οι Σανς θέλουν να ξεφορτωθούν το συμβόλαιό του»",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510638/heiz-nteibis-oi-sans-theloyn-na-xefortothoyn-symbolaio-toy",
+          "pubDate": "Tue, 27 Jan 2026 16:43:56 +0200",
+          "description": "Tούρκος δημοσιογράφος μετέφερε σενάριο ανταλλαγής στο NBA, που εμπλέκει τον Νάιτζελ Χέιζ-Ντέιβις με τον Γκερσόν Γιαμπουσέλε.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-hayesdavis.jpg?itok=LfEFSZcd",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΠΑΟΚ - Δυστύχημα στην Ρουμανία: Η ανάρτηση του Πάμπλο Γκαρσία",
           "link": "https://www.gazzetta.gr/football/europa-league/2510634/paok-dystyhima-stin-roymania-i-anartisi-toy-pamplo-gkarsia",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 15:05:06 +0200",
           "description": "Συνεχίζει να είναι πιθανό ο Γκουστάβο Μάνσα να δοθεί δανεικός στην τρέχουσα μεταγραφική περίοδο.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/manca.jpg?itok=AvjazV9c",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "WEC - Η Porsche «μαγειρεύει» ήδη την επιστροφή της ",
-          "link": "https://www.gazzetta.gr/gmotion/2509694/wec-i-porsche-mageireyei-idi-tin-epistrofi-tis",
-          "pubDate": "Tue, 27 Jan 2026 15:03:00 +0200",
-          "description": "H γερμανική μάρκα φαίνεται πως μετάνιωσε ήδη την αποχώρησή της από το κορυφαίο πρωτάθλημα αντοχής και θέλει να επιστρέψει, όμως υπό όρους.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gtarggtwmaemev81.jpg?itok=oW5AeaYh",
           "source": "Gazzetta"
         }
       ]
