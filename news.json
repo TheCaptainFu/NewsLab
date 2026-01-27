@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T04:35:29.900Z",
+  "lastUpdated": "2026-01-27T04:40:30.637Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -46,6 +46,14 @@
           "pubDate": "Tue, 27 Jan 2026 06:30:38 +0300",
           "description": "Οι περισσότεροι από εμάς, κατά την διάρκεια του χειμώνα, έχουμε μεγαλύτερη όρεξη. Γιατί συμβαίνει αυτό;",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/louis-hansel-7qeQXRppR9o-unsplash-1-768x596.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Καιρός – Κακοκαιρία: Έρχονται νέες ισχυρές βροχές και καταιγίδες – Πού χρειάζεται προσοχή",
+          "link": "https://www.in.gr/2026/01/27/greece/kairos-kakokairia-erxontai-nees-isxyres-vroxes-kai-kataigides-pou-xreiazetai-prosoxi/",
+          "pubDate": "Tue, 27 Jan 2026 06:16:45 +0300",
+          "description": "Επιμένει η κακοκαιρία με ισχυρές βροχές και καταιγίδες συνοδευόμενες από τοπικές χαλαζοπτώσεις - Έκτακτο δελτίο με την ένδειξη πορτοκαλί προειδοποίηση από την ΕΜΥ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kategida-1-1.jpg",
           "source": "In.gr"
         },
         {
@@ -239,14 +247,6 @@
           "description": "Στην περιοχή κλιμάκιο της Διεύθυνσης Αντιμετώπισης Εγκλημάτων Εμπρησμού για τη διερεύνηση των αιτίων της έκρηξης και της πυρκαγιάς στο εργοστάσιο Βιολάντα",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/kefalogiannis_giannis.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ο Τραμπ ανακοίνωσε πως οι ΗΠΑ προχωρούν σε στοχευμένους δασμούς στη Νότια Κορέα",
-          "link": "https://www.in.gr/2026/01/27/world/o-tramp-anakoinose-pos-oi-ipa-proxoroun-se-stoxeymenous-dasmous-sti-notia-korea/",
-          "pubDate": "Tue, 27 Jan 2026 01:29:23 +0300",
-          "description": "Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ, ανακοίνωσε πως αυξάνει στο 25% τους δασμούς στις εισαγωγές αυτοκινήτων, ξυλείας και φαρμακευτικών προϊόντων από τη Νότια Κορέα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T093638Z_2099064647_RC29HHABFS6W_RTRMADP_5_USA-TRUMP-AFGHANISTAN-GERMANY-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -501,19 +501,19 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
+          "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 04:39:24 GMT",
+          "description": "He has been described as an avid outdoorsman who loved mountain biking.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1751/live/9fd14180-f9ea-11f0-811c-ad0579c12ce2.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene",
           "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 04:31:59 GMT",
           "description": "The decision may indicate that the administration is walking back more aggressive immigration enforcement.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7253/live/7b78e7f0-fb1d-11f0-a47f-d352a7d9988a.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
-          "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 03:47:51 GMT",
-          "description": "He has been described as an avid outdoorsman who loved mountain biking.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1751/live/9fd14180-f9ea-11f0-811c-ad0579c12ce2.jpg",
           "source": "BBC News"
         },
         {
