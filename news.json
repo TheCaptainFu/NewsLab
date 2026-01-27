@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T07:55:24.259Z",
+  "lastUpdated": "2026-01-27T08:00:36.003Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ανατροπή με Κώστα Τσιμίκα: Προς παραμονή στη Ρόμα",
+          "link": "https://www.newsit.gr/athlitika/anatropi-me-kosta-tsimika-pros-paramoni-sti-roma/4584421/",
+          "pubDate": "Tue, 27 Jan 2026 07:58:23 +0000",
+          "description": "Φήμες ήθελαν τον Κώστα Τσιμίκα να φεύγει από τη Ρόμα και να επιστρέφει στη Λίβερπουλ. Τις τελευταίες ημέρες υπήρξε σενάριο επιστροφής του Κώστα Τσιμίκα στη ...  \nTo άρθρο Ανατροπή με Κώστα Τσιμίκα: Προς παραμονή στη Ρόμα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tsimikas-3-1200x768.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τριπλή παρέμβαση για να σταματήσει το οικολογικό έγκλημα στη Μήλο - Παπασταύρου: Οι εργασίες αναστέλλονται μέχρι να αποφασίσει το ΣτΕ και η Αρχή Διαφάνειας",
+          "link": "https://www.protothema.gr/greece/article/1763897/i-tripli-paremvasi-gia-na-stamatisei-to-oikologiko-eglima-sti-milo-balaki-apo-ton-dimo-oi-euthunes-gia-to-white-coast/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 09:57:30 +0200",
+          "description": "Δικηγόρος Δήμου Μήλου: «Η πολεοδομία ευθύνεται για τη μη διακοπή των εργασιών στο White Coast - Σε 20 ημέρες περιμένουμε απόφαση αναστολής από το ΣτΕ»",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-milos2.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Σπύρος Μαρτίκας για Βρισηίδα Ανδριώτου: Κάθε εβδομάδα της δίνω χρήματα για να την εξοφλήσω",
           "link": "https://www.newsit.gr/lifestyle/spyros-martikas-gia-vrisiida-andriotou-kathe-evdomada-tis-dino-xrimata-gia-na-tin-eksofliso/4584418/",
@@ -145,6 +161,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Αναχώρησε για την Ολλανδία ο Ολυμπιακός (pics)",
+          "link": "https://www.in.gr/2026/01/27/sports/football/champions-league/anaxorise-gia-ton-teliko-me-ton-agiaks-o-olympiakos-pics/",
+          "pubDate": "Tue, 27 Jan 2026 09:55:25 +0300",
+          "description": "Πέταξε για την Ολλανδία και τον «τελικό» της Τετάρτης κόντρα στον Άγιαξ ο Ολυμπιακός.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6826660-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Australian Open: Στα ημιτελικά Σαμπαλένκα και Ζβέρεφ",
           "link": "https://www.newsit.gr/athlitika/australian-open-sta-imitelika-sampalenka-kai-zveref/4584364/",
           "pubDate": "Tue, 27 Jan 2026 06:52:30 +0000",
@@ -196,7 +220,7 @@
           "title": "Εργατικό δυστύχημα στα Τρίκαλα: Ανέσυραν την πέμπτη σορό από το εργοστάσιο Βιολάντα οι πυροσβέστες",
           "link": "https://www.in.gr/2026/01/27/greece/ergatiko-dystyxima-sta-trikala-entopistike-soros-tis-pemptis-ergatrias-sto-ergostasio-tis-violanta/",
           "pubDate": "Tue, 27 Jan 2026 09:40:58 +0300",
-          "description": "Περισσότερα σε λίγο...",
+          "description": "Αυλαία στο σοκαριστικό εργατικό δυστύχημα με την μεγάλη έκρηξη και φωτιά στις εγκαταστάσεις της μπισκοτοβιομηχανίας «Βιολάντα» στα Τρίκαλα. Βρέθηκε και η σορός της πέμπτης εργάτριας που αναζητείτο",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/DJI_20260127083304_0023_D_VERVE-768x576.jpg",
           "source": "In.gr"
         },
@@ -223,30 +247,6 @@
           "description": "Αισιόδοξη ότι η αλλαγή που προτείνει στον εκλογικό νόμο για επέκταση της επιστολικής ψήφου των αποδήμων και στις εθνικές εκλογές, και εκπροσώπηση τους στο Ελληνικό ...  \nTo άρθρο Το Μέγαρο Μαξίμου αναζητά 200 ψήφους ώστε οι αλλαγές για τους απόδημους να ισχύσουν το 2027 – Σε ποια κόμματα «ποντάρει» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekloges-kalpi.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Κατερίνα Ζαρίφη: Δέχθηκα πρόταση γάμου όταν ήμουν 16 – 17 ετών, ήταν ένας ήρωας της επανάστασης",
-          "link": "https://www.newsit.gr/media/katerina-zarifi-dexthika-protasi-gamou-otan-imoun-16-17-eton-itan-enas-iroas-tis-epanastasis/4584349/",
-          "pubDate": "Tue, 27 Jan 2026 06:30:51 +0000",
-          "description": "Η Κατερίνα Ζαρίφη βρέθηκε καλεσμένη στην εκπομπή «The 2night Show», στο επεισόδιο που μεταδόθηκε από τον ΑΝΤ1 τα μεσάνυχτα της Δευτέρας (26-01-2026) και μίλησε για ...  \nTo άρθρο Κατερίνα Ζαρίφη: Δέχθηκα πρόταση γάμου όταν ήμουν 16 – 17 ετών, ήταν ένας ήρωας της επανάστασης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zarifi-arxiki-1-1200x791.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ιστορική εμφάνιση Λούκα Ντόντσιτς στο Μπουλς – Λέικερς: Τα αποτελέσματα της βραδιάς στο NBA",
-          "link": "https://www.newsit.gr/athlitika/istoriki-emfanisi-louka-ntontsits-sto-mpouls-leikers-ta-apotelesmata-tis-vradias-sto-nba/4584354/",
-          "pubDate": "Tue, 27 Jan 2026 06:29:34 +0000",
-          "description": "Με τον Λούκα Ντόντσιτς να πραγματοποιεί μία μυθική εμφάνιση, οι Λέικερς πέρασαν από το Σικάγο, επικρατώντας των Μπουλς με 129-118. Ο Λούκα Ντόντσιτς οδήγησε τους ...  \nTo άρθρο Ιστορική εμφάνιση Λούκα Ντόντσιτς στο Μπουλς – Λέικερς: Τα αποτελέσματα της βραδιάς στο NBA δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/doncic-1-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Δέντρο έπεσε πάνω σε τρένο που εκτελούσε το δρομολόγιο Πύργος – Κατάκολο – Στο νοσοκομείο ο μηχανοδηγός",
-          "link": "https://www.in.gr/2026/01/27/greece/dentro-epese-pano-se-treno-pou-ektelouse-dromologio-pyrgos-katakolo-sto-nosokomeio-o-mixanodigos/",
-          "pubDate": "Tue, 27 Jan 2026 09:26:44 +0300",
-          "description": "Ο τραυματίας μηχανοδηγός διακομίσθηκε με ιδιωτικό όχημα στο Γενικό Νοσοκομείο Πύργου.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/619226483_898704782532076_4337487511655829097_n-768x576.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Τρίκαλα: Εντοπίστηκε η σορός και της πέμπτης αγνοούμενης - Σε εξέλιξη οι έρευνες για τα αίτια",
+          "link": "http://gr.euronews.com/2026/01/27/trikala-entopistike-i-soros-tis-pemptis-agnooumenis",
+          "pubDate": "Tue, 27 Jan 2026 08:50:13 +0100",
+          "description": "Κινητοποιήσεις στα Τρίκαλα ανακοίνωσε το εργατικό κέντρο - Νέα ανακοίνωση της εταιρείας Βιολάντα για τα μέτρα στήριξης των οικογενειών",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "India and EU announce landmark trade deal",
           "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 07:43:20 GMT",
@@ -731,14 +739,6 @@
           "description": "Ο Βίκτορ Όρμπαν καταγγέλλει «συντονισμένες ουκρανικές ενέργειες», ενώ το Κίεβο απαντά με αιχμηρά μηνύματα στο Facebook",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Η Ευρωπαϊκή Ένωση προγραμματίζει επενδυτικό συνέδριο στην Ιορδανία τον Απρίλιο",
-          "link": "http://gr.euronews.com/my-europe/2026/01/26/i-eyropaiki-enosi-programmatizei-ependitiko-sinedrio-stinn-iordania-ton-aprilio",
-          "pubDate": "Mon, 26 Jan 2026 22:24:17 +0100",
-          "description": "Η πρόεδρος της Κομισιόν θα επισκεφθεί το Αμμάν, καθώς η ΕΕ επενδύει στην οικονομική διπλωματία",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Μέχρι πότε μπορείτε να εκδώσετε διαβατήριο με την παλιά ταυτότητα",
+          "link": "https://www.gazzetta.gr/plus/2510531/mehri-pote-mporeite-na-ekdosete-diabatirio-me-tin-palia-taytotita",
+          "pubDate": "Tue, 27 Jan 2026 09:57:00 +0200",
+          "description": "Η ψηφιοποίηση της διαδικασίας φέρνει πολλαπλά πλεονεκτήματα για τους πολίτες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/751ecfc4-1767987379475-443991122-diavatirio.jpg?itok=82hnceFg",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ντόντσιτς: Ο Χέις έκανε το κάρφωμα της χρονιάς και ο Λούκα έπαθε την πλάκα του!",
           "link": "https://www.gazzetta.gr/basketball/nba/2510536/ntontsits-o-heis-ekane-karfoma-tis-hronias-kai-o-loyka-epathe-tin-plaka-toy",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 08:11:57 +0200",
           "description": "Ενόχληση, θυμός, απορία: αν έρχεσαι συχνά αντιμέτωπος με αυτά τα συναισθήματα λόγω της συμπεριφοράς των άλλων, μάλλον διαθέτεις υψηλότερο IQ από τους περισσότερους ανθρώπους εκεί έξω.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jjj1-27-1-26.jpg?itok=bHPe4eLp",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ελλάς Σύρου: «Μια ανάσα» από την απόκτηση του Μάριου Όγκμποε",
-          "link": "https://www.gazzetta.gr/football/superleague-2/2510511/ellas-syroy-mia-anasa-apo-tin-apoktisi-toy-marioy-ogkmpoe",
-          "pubDate": "Tue, 27 Jan 2026 08:05:08 +0200",
-          "description": "Η Συριανή ομάδα βρίσκεται πολύ κοντά στην ολοκλήρωση της απόκτησης του Μάριου Όγκμποε.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ogboe.jpg?itok=9iAa4ef_",
           "source": "Gazzetta"
         }
       ]
