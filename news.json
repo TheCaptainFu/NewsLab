@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T05:40:27.948Z",
+  "lastUpdated": "2026-01-27T05:45:26.940Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ελευσίνα: Επίθεση σε 11χρονο από συμμαθητές του – Κατήγγειλε πως τον έσπρωξαν και έσπασε το χέρι του",
+          "link": "https://www.newsit.gr/ellada/eleysina-epithesi-se-11xrono-apo-symmathites-tou-katiggeile-pos-ton-esproksan-kai-espase-to-xeri-tou/4584329/",
+          "pubDate": "Tue, 27 Jan 2026 05:42:20 +0000",
+          "description": "Στο Νοσοκομείο Παίδων «Αγλαΐα Κυριακού» και με κάταγμα στο χέρι, μεταφέρθηκε το απόγευμα της Δευτέρας (26.01.2026) ένας 11χρονος από την Ελευσίνα, μετά από επίθεση που ...  \nTo άρθρο Ελευσίνα: Επίθεση σε 11χρονο από συμμαθητές του – Κατήγγειλε πως τον έσπρωξαν και έσπασε το χέρι του δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-487032382-1-1200x675.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Οριστικό: Δεν αλλάζει ούτε το 3% ούτε το μπόνους στον εκλογικό νόμο ^ ποιοι κερδίζουν, ποιοι χάνουν από την τριεδρική περιφέρεια για αποδήμους και επιστολική ψήφο ^ η Καρυστιανού μιλάει τώρα και «για εθνική προδοσία» ^ ανοιχτή μια υποψηφιότητα της Πατουλίδου στη Θεσσαλονίκη ^ ποιος υπουργός δηλώνει κατηγορηματικά όχι",
           "link": "https://www.newsit.gr/blogs/me-to-ganti/oristiko-den-allazei-oute-to-3-oute-to-mponous-ston-eklogiko-nomo-poioi-kerdizoun-poioi-xanoun-apo-tin-triedriki-perifereia-gia-apodimous-kai-epistoliki-psifo-i-karystianou-milaei-tora-kai-gia-ethniki/4584322/",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 06:00:52 +0300",
           "description": "Ο πρέσβης ε.τ. και πρώην Βοηθός ΓΓ του ΝΑΤΟ, Θρασύβουλος Σταματόπουλος εξηγεί στο in τις επιπτώσεις της πολιτικής Τραμπ σε σχέση με το ΝΑΤΟ, αλλά και τη δραστική αλλαγή στις σχέσεις ΗΠΑ - ΕΕ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2020-01-22-_DAVOS-MEETING-REUTERSJonathan-Ernst-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μισθοί: Οι αυξήσεις που θα δουν οι μισθωτοί του ιδιωτικού τομέα",
-          "link": "https://www.in.gr/2026/01/27/economy/oikonomikes-eidiseis/misthoi-oi-ayksiseis-pou-tha-doun-oi-misthotoi-tou-idiotikou-tomea/",
-          "pubDate": "Tue, 27 Jan 2026 06:00:51 +0300",
-          "description": "Τα εισοδηματικά οφέλη με τη νέα φορολογική κλίμακα και τη μειωμένη παρακράτηση φόρου",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/euros-3-1024x683-1-1-768x512.jpg",
           "source": "In.gr"
         }
       ]
