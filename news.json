@@ -1,13 +1,37 @@
 {
-  "lastUpdated": "2026-01-27T18:30:49.514Z",
+  "lastUpdated": "2026-01-27T18:35:28.194Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο Άρης Μουγκοπέτρος έκοψε τα μαλλιά του και τα χάρισε σε καρκινοπαθείς",
+          "link": "https://www.newsit.gr/lifestyle/o-aris-mougkopetros-ekopse-ta-mallia-tou-kai-ta-xarise-se-karkinopatheis/4585081/",
+          "pubDate": "Tue, 27 Jan 2026 18:34:52 +0000",
+          "description": "Μία άκρως συγκινητική κίνηση έκανε ο Άρης Μουγκοπέτρος, προκειμένου να χαρίσει χαμόγελα σε ανθρώπους που δίνουν μεγάλες μάχες ζωής. Ο γνωστός μουσικός την Τρίτη (27.01.2026) ...  \nTo άρθρο Ο Άρης Μουγκοπέτρος έκοψε τα μαλλιά του και τα χάρισε σε καρκινοπαθείς δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-mougkopetros-1200x761.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ελλάδα – Γαλλία 23-5: «Περίπατος» για την Εθνική πόλο γυναικών στο ευρωπαϊκό πρωτάθλημα",
+          "link": "https://www.newsit.gr/athlitika/ellada-gallia-23-5-peripatos-gia-tin-ethniki-polo-gynaikon-sto-eyropaiko-protathlima/4585085/",
+          "pubDate": "Tue, 27 Jan 2026 18:31:37 +0000",
+          "description": "Η Εθνική πόλο γυναικών δεν αντιμετώπισε κανένα πρόβλημα κόντρα στη Γαλλία και κέρδισε με 23-5 για να πάρει την πρόκριση για τη Β’ φάση του ...  \nTo άρθρο Ελλάδα – Γαλλία 23-5: «Περίπατος» για την Εθνική πόλο γυναικών στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pleuritou-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Με λουλούδια στα χέρια έξω από την Τούμπα ο Λουτσέσκου και οι παίκτες του ΠΑΟΚ",
+          "link": "https://www.protothema.gr/greece/article/1764330/keria-kai-louloudia-stin-touba-sti-mnimi-ton-adikohamenon-opadon-tou-paok/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 20:30:00 +0200",
+          "description": "Έξω από το γήπεδο του Δικέφαλου του Βορρά έχουν συγκεντρωθεί οπαδοί του ΠΑΟΚ για να αποτίσουν φόρο τιμής στη μνήμη των φιλάθλων που σκοτώθηκαν στη Ρουμανία",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/paok_people-xrwma.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Σεισμός μεγέθους 4,7 Ρίχτερ στη Ζάκυνθο",
           "link": "https://www.newsit.gr/ellada/seismos-megethous-4-7-rixter-sti-zakyntho/4585027/",
@@ -223,30 +247,6 @@
           "description": "Το εστιακό βάθος του σεισμού είναι στα 9,7 χιλιόμετρα",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1440x810_cmsv2_9bfed42b-8e5c-517b-90f5-99483181189b-6991670-1-768x432.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Ρουμανία: Η μοιραία σύμπτωση στο πολύνεκρο τροχαίο με Έλληνες φιλάθλους του ΠΑΟΚ – Τι θα γίνει με τον επαναπατρισμό των σορών και τους τραυματίες",
-          "link": "https://www.newsit.gr/ellada/roumania-i-moiraia-symptosi-sto-polynekro-troxaio-me-ellines-filathlous-tou-paok-ti-tha-ginei-me-ton-epanapatrismo-ton-soron-kai-tous-traymaties/4584960/",
-          "pubDate": "Tue, 27 Jan 2026 17:05:47 +0000",
-          "description": "Η χαρά για την αγαπημένη τους ομάδα, μετατράπηκε σε τραγωδία. Μέσα σε δευτερόλεπτα, το βαν που μετέφερε τους οπαδούς του ΠΑΟΚ στη Γαλλία, μετατράπηκε σε ...  \nTo άρθρο Ρουμανία: Η μοιραία σύμπτωση στο πολύνεκρο τροχαίο με Έλληνες φιλάθλους του ΠΑΟΚ – Τι θα γίνει με τον επαναπατρισμό των σορών και τους τραυματίες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-4.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Καιρός αύριο: Καταιγίδες στα δυτικά, Ανατολικό Αιγαίο και Δωδεκάνησα – Αναλυτική πρόγνωση",
-          "link": "https://www.newsit.gr/ellada/kairos-ayrio-kataigides-sta-dytika-anatoliko-aigaio-kai-dodekanisa-analytiki-prognosi/4584983/",
-          "pubDate": "Tue, 27 Jan 2026 17:04:13 +0000",
-          "description": "Άστατος θα είναι ο καιρός αύριο Τετάρτη, 28 Ιανουαρίου σε αρκετές περιοχές της χώρας. Τοπικά θα εκδηλωθούν βροχές και καταιγίδες. Η θερμοκρασία θα σημειώσει μικρή ...  \nTo άρθρο Καιρός αύριο: Καταιγίδες στα δυτικά, Ανατολικό Αιγαίο και Δωδεκάνησα – Αναλυτική πρόγνωση δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos-1-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Βιολάντα: Τι απαντά το ΥΠΑΝ για τις υπηρεσίες που έχουν αρμοδιότητα για τους ελέγχους",
-          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/violanta-ti-apanta-to-ypan-gia-tis-ypiresies-pou-exoun-armodiotita-gia-tous-elegxous/4584979/",
-          "pubDate": "Tue, 27 Jan 2026 17:02:00 +0000",
-          "description": "Αρμόδια αρχή για την αδειοδότηση του εργοστασίου Βιολάντα ορίζεται η Περιφέρεια Θεσσαλίας, και συγκεκριμένα η Διεύθυνση Ανάπτυξης της Περιφερειακής Ενότητας Τρικάλων, όπως επισημαίνεται από τη ...  \nTo άρθρο Βιολάντα: Τι απαντά το ΥΠΑΝ για τις υπηρεσίες που έχουν αρμοδιότητα για τους ελέγχους δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio-3.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,12 +747,92 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οι οργανωμένοι οπαδοί δεν θα βρεθούν στο γήπεδο",
+          "link": "https://www.gazzetta.gr/2510731/paok-dystyhima-sti-roymania-oi-organomenoi-opadoi-den-tha-brethoyn-sto-gipedo",
+          "pubDate": "Tue, 27 Jan 2026 20:32:21 +0200",
+          "description": "Οι οργανωμένοι οπαδοί του ΠΑΟΚ ζήτησαν να μείνει κλειστή η θύρα των φιλοξενούμενων στο ματς με τη Λυών.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_2.jpg?itok=O6LolwLf",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ελλάδα – Γαλλία 23-5: «Περίπατος» για την Εθνική πόλο γυναικών στο ευρωπαϊκό πρωτάθλημα",
+          "link": "https://www.newsit.gr/athlitika/ellada-gallia-23-5-peripatos-gia-tin-ethniki-polo-gynaikon-sto-eyropaiko-protathlima/4585085/",
+          "pubDate": "Tue, 27 Jan 2026 18:31:37 +0000",
+          "description": "Η Εθνική πόλο γυναικών δεν αντιμετώπισε κανένα πρόβλημα κόντρα στη Γαλλία και κέρδισε με 23-5 για να πάρει την πρόκριση για τη Β’ φάση του ...  \nTo άρθρο Ελλάδα – Γαλλία 23-5: «Περίπατος» για την Εθνική πόλο γυναικών στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pleuritou-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Λουτσέσκου: «Τεράστια τραγωδία, απέραντη θλίψη, οι καρδιές μας είναι μαζί με τις οικογένειές τους»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510730/loytseskoy-terastia-tragodia-aperanti-thlipsi-oi-kardies-mas-einai",
+          "pubDate": "Tue, 27 Jan 2026 20:30:17 +0200",
+          "description": "Ο Ραζβάν Λουτσέσκου μίλησε σε ρουμανικό Μέσο για το τραγικό δυστύχημα που συνέβη στη Ρουμανία με τους οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lucescu_1.jpg?itok=68AsN3Yq",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Α.Σ. ΠΑΟΚ μετά το δυστύχημα στη Ρουμανία: Αίτημα για αναβολή του ματς με τον Ολυμπιακό για την Α1 Γυναικών",
+          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2510729/paok-meta-dystyhima-sti-roymania-aitima-gia-anaboli-toy-mats",
+          "pubDate": "Tue, 27 Jan 2026 20:24:45 +0200",
+          "description": "Ο Α.Σ. ΠΑΟΚ υπέβαλε αίτημα αναβολής του αγώνα με τον Ολυμπιακό στην Α1 μπάσκετ Γυναικών το Σάββατο (01/02, 14:30).",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_1_1.jpg?itok=KVIvW3Hz",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Βιολάντα: Συνελήφθη ο ιδιοκτήτης και δύο στελέχη μετά την τραγωδία με τις 5 νεκρές στα Τρίκαλα",
+          "link": "https://www.gazzetta.gr/plus/2510728/biolanta-synelifthi-o-idioktitis-kai-dyo-stelehi-meta-tin-tragodia-me-tis-5-nekres-sta",
+          "pubDate": "Tue, 27 Jan 2026 20:15:56 +0200",
+          "description": "Ραγδαίες εξελίξεις στην υπόθεση της Βιολάντα. Συνελήφθη ο ιδιοκτήτης και δύο στελέχη του εργοστασίου στα Τρίκαλα για την έκρηξη που κόστισε τη ζωή σε πέντε εργαζόμενες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/biolanta.jpg?itok=FbzywUj-",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Δυστύχημα στη Ρουμανία: Αναβλήθηκε το ντέρμπι της ΑΕΚ με τον ΠΑΟΚ για την Α1 Γυναικών",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510727/dystyhima-sti-roymania-anablithike-ntermpi-tis-aek-me-ton-paok-gia",
+          "pubDate": "Tue, 27 Jan 2026 20:14:38 +0200",
+          "description": "Η ΟΧΕ ανέβαλε το ντέρμπι πρωτιάς ανάμεσα σε ΑΕΚ και ΠΑΟΚ για την Α1 Γυναικών και εξέφρασε την θλίψη της για τον χαμό των 7 φίλων του «δικεφάλου του βορρά».",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4879112_1.jpg?itok=drLahDqX",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ελλάδα - Γαλλία 23-5: Με νέο περίπατο η εθνική γυναικών στην επόμενη φάση του ευρωπαϊκού",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510726/ellada-gallia-23-5-me-neo-peripato-i-ethniki-gynaikon-stin",
+          "pubDate": "Tue, 27 Jan 2026 20:13:24 +0200",
+          "description": "Η εθνική ομάδα μετέτρεψε σε προπόνηση και τον αγώνα της με τη Γαλλία στο ευρωπαϊκό πρωτάθλημα του Φούντσαλ με 23-5  και εξασφάλισε την παρουσία της στην επόμενη φάση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vasiliki_plevritou.jpg?itok=fPNTh_CZ",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άρης: Έτοιμος για έναν ακόμη «τελικό» απέναντι στην Μπαχτσεσεχίρ",
+          "link": "https://www.gazzetta.gr/basketball/eurocup/2510725/aris-etoimos-gia-enan-akomi-teliko-apenanti-stin-mpahtsesehir",
+          "pubDate": "Tue, 27 Jan 2026 20:11:08 +0200",
+          "description": "Ο Άρης ολοκλήρωσε την προετοιμασία του ενόψει του αγώνα (28/01,19:00) με την Μπαχτσεσεχίρ στην Κωνσταντινούπολη για την 16η αγωνιστική του Eurocup.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4991354_1_1.jpg?itok=sdJ-EaHI",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η ανακοίνωση της ΚΑΕ Περιστερίου",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510724/paok-dystyhima-sti-roymania-i-anakoinosi-tis-kae-peristerioy",
+          "pubDate": "Tue, 27 Jan 2026 20:01:47 +0200",
+          "description": "Η ΚΑΕ Περιστερίου μέσω ανακοίνωσης, εξέφρασε τα συλλυπητήρια στις οικογένειες των θυμάτων των οπαδών του ΠΑΟΚ, που σκοτώθηκαν στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/peristeri_bc_0.jpg?itok=8tiNM1iy",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Γκάλης για το δυστύχημα των φίλων του ΠΑΟΚ: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι»",
           "link": "https://www.newsit.gr/athlitika/gkalis-gia-to-dystyxima-ton-filon-tou-paok-einai-eksairetika-lypiro-na-xanoun-ti-zoi-tous-neoi-anthropoi/4585044/",
           "pubDate": "Tue, 27 Jan 2026 18:01:21 +0000",
           "description": "Ο Νίκος Γκάλης προχώρησε σε μία ανάρτηση στο Facebook στην οποία αναφέρθηκε στο τραγικό δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία. Από το πολύνεκρο τροχαίο ...  \nTo άρθρο Γκάλης για το δυστύχημα των φίλων του ΠΑΟΚ: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gkalis-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Δοκιμές Βαρκελώνης 2η Ημέρα: Η βροχή εμφανίστηκε, οι ομάδες εξαφανίστηκαν",
+          "link": "https://www.gazzetta.gr/gmotion/2510723/dokimes-barkelonis-2i-imera-i-brohi-emfanistike-oi-omades-exafanistikan",
+          "pubDate": "Tue, 27 Jan 2026 19:54:51 +0200",
+          "description": "Η δεύτερη ημέρα του τεστ της Βαρκελώνης επηρεάστηκε από τη βροχή, όμως έκαναν την εμφάνισή τους στην πίστα δύο πολυπρωταθλητές της Formula 1.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/g_rc4fuxwaiuxdw1.jpg?itok=0biXI-vm",
+          "source": "Gazzetta"
         },
         {
           "title": "ΠΑΟΚ για το πολύνεκρο τροχαίο στη Ρουμανία: «Η θλίψη σε κυριεύει, σε γονατίζει, σε διαλύει – Καλό ταξίδι στα παιδιά μας»",
@@ -763,12 +843,100 @@
           "source": "NewsIT"
         },
         {
+          "title": "ΕΟΠΕ για δυστύχημα στη Ρουμανία: «Υπάρχει μόνο σιωπή, σεβασμός και ειλικρινής συμπαράσταση»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510721/eope-gia-dystyhima-sti-roymania-yparhei-mono-siopi-sebasmos-kai",
+          "pubDate": "Tue, 27 Jan 2026 19:50:08 +0200",
+          "description": "Με ανακοίνωσή της η ΕΟΠΕ ανέφερε πως οι σκέψεις όλων βρίσκεται στις οικογένειες των θυμάτων και στους οικείους τους. Την θλίψη για τον χαμό των 7 φίλων του ΠΑΟΚ εξέφρασε και ο ΣΕΓΑΣ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/639050338341148074.jpg?itok=iUHTtxjS",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πασαρέλες και αλγόριθμοι: Πώς επηρεάζουν τον τρόπο που ντυνόμαστε",
+          "link": "https://www.gazzetta.gr/plus/2510716/pasareles-kai-algorithmoi-pos-epireazoyn-ton-tropo-poy-ntynomaste",
+          "pubDate": "Tue, 27 Jan 2026 19:49:09 +0200",
+          "description": "Η βιομηχανία της μόδας λειτουργούσε επί δεκαετίες με σχετικά προβλέψιμους κύκλους: σεζόν, συλλογές, τάσεις. Σήμερα, όλα ξεκινούν από τις ψηφιακές πλατφόρμες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pasarela.jpg?itok=D9RRq0Hw",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ζενίτ Αγίας Πετρούπολης: Τα «κλειδιά» στον Ράντονιτς",
+          "link": "https://www.gazzetta.gr/basketball/vtb-league/2510720/zenit-agias-petroypolis-ta-kleidia-ston-rantonits",
+          "pubDate": "Tue, 27 Jan 2026 19:47:59 +0200",
+          "description": "Ο Ντέγιαν Ράντονιτς αναλαμβάνει τα ηνία της Ζενίτ Αγίας Πετρούπολης μετά την αποχώρηση του Αλεξάνταρ Σέκουλιτς.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-01/radonjic.jpg?itok=OKUkmd4W",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός προς Μακάμπι: «Ανεπαρκή μέτρα ασφαλείας - Καμία πρόκληση από την πλευρά μας»",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510719/panathinaikos-pros-makampi-aneparki-metra-asfaleias-kamia-proklisi",
+          "pubDate": "Tue, 27 Jan 2026 19:47:08 +0200",
+          "description": "Η ΚΑΕ Παναθηναϊκός απάντησε στους ισχυρισμούς από πλευράς της Μακάμπι Τελ Αβίβ μέσω του BasketNews κάνοντας λόγο για ανεπαρκή μέτρα ασφαλείας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ataman_eurokinissi_7.jpg?itok=DmhU8BG2",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΕ ΠΑΟΚ: «Μια ακόμα μαύρη μέρα για την οικογένεια μας! Ποτέ ξανά…»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510718/pae-paok-mia-akoma-mayri-mera-gia-tin-oikogeneia-mas-pote-xana",
+          "pubDate": "Tue, 27 Jan 2026 19:43:33 +0200",
+          "description": "Με λόγια που αποτυπώνουν τον ανείπωτο πόνο, η ΠΑΕ ΠΑΟΚ τοποθετήθηκε επίσημα για την τραγωδία στη Ρουμανία, εκφράζοντας τη θλίψη ολόκληρης της ασπρόμαυρης οικογένειας και τη στήριξη στις οικογένειες των θυμάτων και στους τραυματίες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok1_0.jpg?itok=8BJVT3-e",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: «Ο Μαρτίνες του Βόλου στη λίστα του»",
+          "link": "https://www.gazzetta.gr/football/superleague/2510717/olympiakos-o-martines-toy-boloy-sti-lista-toy",
+          "pubDate": "Tue, 27 Jan 2026 19:41:32 +0200",
+          "description": "Ο Ολυμπιακός ενδιαφέρεται, σύμφωνα με Αργεντινό ρεπόρτερ, για τον Νταβίντ Μαρτίνες του Βόλου, ο οποίος ανήκει στην Ιντεπεντιέντε.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/martines.jpg?itok=AZK2RL-J",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μεντιλίμπαρ για το Άγιαξ – Ολυμπιακός: «Μοναδικός στόχος η νίκη, μεγάλη τιμή η πρόκριση στα νοκ άουτ»",
           "link": "https://www.newsit.gr/athlitika/mentilimpar-gia-to-agiaks-olympiakos-monadikos-stoxos-i-niki-megali-timi-i-prokrisi-sta-nok-aout/4585024/",
           "pubDate": "Tue, 27 Jan 2026 17:41:12 +0000",
           "description": "Ο Ολυμπιακός θα αντιμετωπίσει τον Άγιαξ στο Άμστερνταμ (28/01/26, 22:00) στην τελευταία αγωνιστική του Champions League με μοναδικό στόχο τη νίκη και την πρόκριση στην ...  \nTo άρθρο Μεντιλίμπαρ για το Άγιαξ – Ολυμπιακός: «Μοναδικός στόχος η νίκη, μεγάλη τιμή η πρόκριση στα νοκ άουτ» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mendilibar-5-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΟΚ: «Με πήραν και μου είπαν ότι ήταν νεκρός» - Αδελφός θύματος για τα λεπτά μετά την τραγωδία",
+          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
+          "pubDate": "Tue, 27 Jan 2026 19:40:00 +0200",
+          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/troxaio-roymania-opadoi-paok_2.jpg?itok=GsX9X5ST",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ορτέγα: «Ναι, είναι τελικός με τον Άγιαξ»",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510715/ortega-nai-einai-telikos-me-ton-agiax",
+          "pubDate": "Tue, 27 Jan 2026 19:35:41 +0200",
+          "description": "Ο Φρανσίσκο Ορτέγα αναφέρθηκε στη σπουδαιότητα του ματς με τον Άγιαξ και σε όσο διακυβεύονται στο αυριανό ματς. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/rtega.jpg?itok=4A-dUR0d",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Για αυτό το λόγο οι startups αποτυγχάνουν τα πρώτα 2 χρόνια",
+          "link": "https://www.gazzetta.gr/plus/2510714/gia-ayto-logo-oi-startups-apotyghanoyn-ta-prota-2-hronia",
+          "pubDate": "Tue, 27 Jan 2026 19:32:51 +0200",
+          "description": "Τι είναι αυτό που καθορίζει την τύχη μιας startup και γιατί μόνο 1 στις 10 καταφέρνει να επιβιώσει και να θεωρηθεί επιτυχημένη;",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/startup.jpg?itok=ZJ-hD6NV",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άρης: Πρόστιμο 10.000 ευρώ από την ΔΕΑΒ",
+          "link": "https://www.gazzetta.gr/football/superleague/2510713/aris-prostimo-10000-eyro-apo-tin-deab",
+          "pubDate": "Tue, 27 Jan 2026 19:28:59 +0200",
+          "description": "Με 10.000 ευρώ πρόστιμο τιμωρήθηκε από την ΔΕΑΒ ο Άρης για όσα έκαναν οι οπαδοί στο εκτός έδρας παιχνίδι με την ΑΕΛ Novibet.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4992735_1.jpg?itok=XzZRy6EE",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Το μήνυμα της Μπαρτσελόνα",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510712/paok-dystyhima-sti-roymania-minyma-tis-mpartselona",
+          "pubDate": "Tue, 27 Jan 2026 19:28:48 +0200",
+          "description": "Η Μπαρτσελόνα έστειλε το μήνυμά της για τον τραγικό χαμό των φίλων του ΠΑΟΚ στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-barcelona.jpg?itok=uskuZ12I",
+          "source": "Gazzetta"
         },
         {
           "title": "Μυστακίδης για το πολύνεκρο δυστύχημα στη Ρουμανία: «Τα παιδιά ταξίδευαν να δουν τον ΠΑΟΚ, όμως δεν έφτασαν ποτέ»",
@@ -779,6 +947,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Σύλλογος Άλκη Καμπανού: Αναβολή δράσεων μετά τον θάνατο 7 οπαδών του ΠΑΟΚ",
+          "link": "https://www.gazzetta.gr/plus/2510711/syllogos-alki-kampanoy-anaboli-draseon-meta-ton-thanato-7-opadon-toy-paok",
+          "pubDate": "Tue, 27 Jan 2026 19:24:56 +0200",
+          "description": "Σε κλίμα οδύνης, ο Σύλλογος «Εις το όνομα του Άλκη» αναβάλλει δράσεις και εκδηλώσεις μετά το πολύνεκρο τροχαίο στη Ρουμανία, όπου επτά οπαδοί του ΠΑΟΚ έχασαν τη ζωή τους.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/alkis.jpg?itok=K_ZeLvVs",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μεντιλίμπαρ: «Οι σκέψεις μας στους οπαδούς του ΠΑΟΚ, είμαστε εδώ μόνο για τη νίκη» (vid)",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510710/mentilimpar-oi-skepseis-mas-stoys-opadoys-toy-paok-eimaste-edo",
+          "pubDate": "Tue, 27 Jan 2026 19:21:38 +0200",
+          "description": "Ο Χοσέ Λουίς Μεντιλίμπαρ στάθηκε στην τραγωδία με τους οπαδούς του ΠΑΟΚ και τόνισε ότι η ομάδα του είναι στο Άμστερνταμ μόνο για τη νίκη! ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/medilibar12.jpg?itok=er6mVSIp",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Τροχαίο με νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία: Τα βίντεο της τραγωδίας",
           "link": "https://www.newsit.gr/athlitika/troxaio-me-nekrous-opadous-tou-paok-sti-roumania-ta-vinteo-tis-tragodias/4584988/",
           "pubDate": "Tue, 27 Jan 2026 17:21:37 +0000",
@@ -787,204 +971,20 @@
           "source": "NewsIT"
         },
         {
-          "title": "Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία – Φίλοι του Δικεφάλου αφήνουν λουλούδια",
-          "link": "https://www.newsit.gr/athlitika/mesisties-simaies-tou-paok-stin-toumpa-gia-to-tragiko-dystyxima-sti-roumania-filoi-tou-dikefalou-afinoun-louloudia/4584974/",
-          "pubDate": "Tue, 27 Jan 2026 16:51:37 +0000",
-          "description": "Στην Τούμπα κυματίζουν μεσίστιες σημαίες του ΠΑΟΚ για τους επτά αδικοχαμένους φίλους της ομάδας που έχασαν τη ζωή τους στο τραγικό δυστύχημα στη Ρουμανία. Στο ...  \nTo άρθρο Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία – Φίλοι του Δικεφάλου αφήνουν λουλούδια δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-2-3-1200x801.jpg",
-          "source": "NewsIT"
+          "title": "Γκάλης για το δυστύχημα στη Ρουμανία: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι»",
+          "link": "https://www.gazzetta.gr/basketball/2510708/gkalis-gia-dystyhima-sti-roymania-einai-exairetika-lypiro-na-hanoyn-ti-zoi-toys",
+          "pubDate": "Tue, 27 Jan 2026 19:09:26 +0200",
+          "description": "Ο θρυλικός Νίκος Γκάλης εξέφρασε και αυτός με τη σειρά του τα συλλυπητήρια στις οικογένειες των οπαδών του ΠΑΟΚ, που έχασαν τη ζωή τους σε τραγικό δυστύχημα στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-05/nick_gkalis_eurokinissi_giorgos_matthaios.jpg?itok=Eq1QKCVo",
+          "source": "Gazzetta"
         },
         {
-          "title": "Η Λιόν θα τιμήσει τους φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο πολύνεκρο δυστύχημα στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/i-lion-tha-timisei-tous-filous-tou-paok-pou-exasan-ti-zoi-tous-sto-polynekro-dystyxima-sti-roumania/4584967/",
-          "pubDate": "Tue, 27 Jan 2026 16:35:15 +0000",
-          "description": "Ο αγώνας του ΠΑΟΚ με τη Λιόν στη Γαλλία θα διεξαχθεί κανονικά (29/01/26, 22:00) παρά το αίτημα του Δικεφάλου για αναβολή, λόγω του τραγικού δυστυχήματος ...  \nTo άρθρο Η Λιόν θα τιμήσει τους φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο πολύνεκρο δυστύχημα στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lyon-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Λιόν – ΠΑΟΚ: Κανονικά θα διεξαχθεί η αναμέτρηση, παρά το τραγικό δυστύχημα στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/lion-paok-kanonika-tha-dieksaxthei-i-anametrisi-para-to-tragiko-dystyxima-sti-roumania/4584953/",
-          "pubDate": "Tue, 27 Jan 2026 16:20:04 +0000",
-          "description": "Ο ΠΑΟΚ ζήτησε από την UEFA την αναβολή του αγώνα με τη Λιόν για την τελευταία αγωνιστική του Europa League (29/01/26, 22:00), λόγω του τραγικού ...  \nTo άρθρο Λιόν – ΠΑΟΚ: Κανονικά θα διεξαχθεί η αναμέτρηση, παρά το τραγικό δυστύχημα στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/taison-1-1200x801.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΠΑΟΚ: «Θα κάνουμε τα πάντα για τη διαλεύκανση των αιτιών του τραγικού δυστυχήματος»",
-          "link": "https://www.newsit.gr/athlitika/paok-tha-kanoume-ta-panta-gia-ti-dialeykansi-ton-aition-tou-tragikou-dystyximatos/4584927/",
-          "pubDate": "Tue, 27 Jan 2026 16:01:45 +0000",
-          "description": "Ο ΠΑΟΚ προχώρησε σε επίσημη ενημέρωση για το τραγικό δυστύχημα με τους οπαδούς της ομάδας από τη Θεσσαλονίκη στη Ρουμανία. Στο τραγικό αυτό δυστύχημα στη ...  \nTo άρθρο ΠΑΟΚ: «Θα κάνουμε τα πάντα για τη διαλεύκανση των αιτιών του τραγικού δυστυχήματος» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-6-1200x798.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΕΠΟ: Η συλλυπητήρια ανακοίνωση για το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/epo-i-syllypitiria-anakoinosi-gia-to-tragiko-dystyxima-me-tous-opadous-tou-paok-sti-roumania/4584919/",
-          "pubDate": "Tue, 27 Jan 2026 15:49:32 +0000",
-          "description": "Η 27η Ιανουαρίου του 2026 θα μείνει για πάντα με αρνητικό πρόσημο στις μνήμες όλων στην Ελλάδα, καθώς το τραγικό δυστύχημα των οπαδών του ΠΑΟΚ ...  \nTo άρθρο ΕΠΟ: Η συλλυπητήρια ανακοίνωση για το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/epo-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός για το τραγικό δυστύχημα στη Ρουμανία: «Δεν υπάρχουν λόγια, συλλυπητήρια στην οικογένεια του ΠΑΟΚ»",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-gia-to-tragiko-dystyxima-sti-roumania-den-yparxoun-logia-syllypitiria-stin-oikogeneia-tou-paok/4584911/",
-          "pubDate": "Tue, 27 Jan 2026 15:39:38 +0000",
-          "description": "Ο Ολυμπιακός εξέδωσε ανακοίνωση για το τραγικό δυστύχημα στη Ρουμανία με επτά οπαδούς του ΠΑΟΚ να χάνουν τη ζωή τους. Οι 10 οπαδοί του ΠΑΟΚ ...  \nTo άρθρο Ολυμπιακός για το τραγικό δυστύχημα στη Ρουμανία: «Δεν υπάρχουν λόγια, συλλυπητήρια στην οικογένεια του ΠΑΟΚ» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-12-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σαββίδης για το τραγικό δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία: «Είμαι συντετριμμένος, θρηνώ μαζί με τις οικογένειες»",
-          "link": "https://www.newsit.gr/athlitika/savvidis-gia-to-tragiko-dystyxima-ton-opadon-tou-paok-sti-roumania-eimai-syntetrimmenos-thrino-mazi-me-tis-oikogeneies/4584904/",
-          "pubDate": "Tue, 27 Jan 2026 15:28:50 +0000",
-          "description": "Το τραγικό δυστύχημα στη Ρουμανία έχει πλήξει την οικογένεια του ΠΑΟΚ με τον Ιβάν Σαββίδη να δηλώνει συντετριμμένος με την απώλεια επτά ανθρώπων. Ο Ιβάν ...  \nTo άρθρο Σαββίδης για το τραγικό δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία: «Είμαι συντετριμμένος, θρηνώ μαζί με τις οικογένειες» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/08/savvidis-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τροχαίο με 7 νεκρούς φιλάθλους του ΠΑΟΚ στη Ρουμανία: Διαλύθηκαν τα πάντα – Εικόνες καταστροφής",
-          "link": "https://www.newsit.gr/athlitika/troxaio-me-7-nekrous-filathlous-tou-paok-sti-roumania-dialythikan-ta-panta-eikones-katastrofis/4584767/",
-          "pubDate": "Tue, 27 Jan 2026 15:26:07 +0000",
-          "description": "Το τραγικό τροχαίο που έγινε στη Ρουμανία με θύματα 7 νέα παιδιά, φιλάθλους του ΠΑΟΚ που πήγαιναν στην Γαλλία οδικώς για να δουν την αγαπημένη ...  \nTo άρθρο Τροχαίο με 7 νεκρούς φιλάθλους του ΠΑΟΚ στη Ρουμανία: Διαλύθηκαν τα πάντα – Εικόνες καταστροφής δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-cover.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Οι τραγωδίες που σημάδευσαν τον ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας",
-          "link": "https://www.newsit.gr/athlitika/oi-tragodies-pou-simadeysan-ton-paok-apo-ta-tempi-sti-roumania-oi-tragikes-apoleies-tis-aspromayris-oikogeneias/4584849/",
-          "pubDate": "Tue, 27 Jan 2026 15:20:03 +0000",
-          "description": "Το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία έχει συγκλονίσει όλη την Ελλάδα και επανέφερε στις μνήμες όλων το τροχαίο στα Τέμπη το ...  \nTo άρθρο Οι τραγωδίες που σημάδευσαν τον ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-tempi-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΠΑΟΚ για το δυστύχημα με τους οπαδούς στη Ρουμανία: «Θα ενημερώσουμε υπεύθυνα αποφεύγοντας κάθε βιαστική ή ανεπιβεβαίωτη αναφορά»",
-          "link": "https://www.newsit.gr/athlitika/paok-gia-to-dystyxima-me-tous-opadous-sti-roumania-tha-enimerosoume-ypeythyna-apofeygontas-kathe-viastiki-i-anepivevaioti-anafora/4584837/",
-          "pubDate": "Tue, 27 Jan 2026 14:23:21 +0000",
-          "description": "Η ΠΑΕ ΠΑΟΚ τοποθετήθηκε για το τραγικό δυστύχημα με τους οπαδούς της ομάδας της Θεσσαλονίκης στη Ρουμανία. Επτά νεκροί, 3 τραυματίες, 2 πολύ σοβαρά και ...  \nTo άρθρο ΠΑΟΚ για το δυστύχημα με τους οπαδούς στη Ρουμανία: «Θα ενημερώσουμε υπεύθυνα αποφεύγοντας κάθε βιαστική ή ανεπιβεβαίωτη αναφορά» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-distixima-roumania-1200x637.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Πολύνεκρο τροχαίο στη Ρουμανία με οπαδούς του ΠΑΟΚ που ταξίδευαν στη Γαλλία – 7 νεκροί και 3 τραυματίες",
-          "link": "https://www.newsit.gr/athlitika/polynekro-troxaio-sti-roumania-me-opadous-tou-paok-pou-taksideyan-sti-gallia-7-nekroi-kai-3-traymaties/4584768/",
-          "pubDate": "Tue, 27 Jan 2026 13:19:18 +0000",
-          "description": "Ένα τρομακτικό τροχαίο σημειώθηκε σε αυτοκινητόδρομο της Ρουμανίας με θύματα Έλληνες φιλάθλους του ΠΑΟΚ που ταξίδευαν στη Γαλλία για να δουν την αγαπημένη τους ομάδα. ...  \nTo άρθρο Πολύνεκρο τροχαίο στη Ρουμανία με οπαδούς του ΠΑΟΚ που ταξίδευαν στη Γαλλία – 7 νεκροί και 3 τραυματίες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-roumania-1200x620.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Προειδοποίηση Άγιαξ στους φίλους του Ολυμπιακού: «Μην αγοράζετε εισιτήρια από ιστοσελίδες μεταπώλησης»",
-          "link": "https://www.newsit.gr/athlitika/proeidopoiisi-agiaks-stous-filous-tou-olympiakou-min-agorazete-eisitiria-apo-istoselides-metapolisis/4584763/",
-          "pubDate": "Tue, 27 Jan 2026 13:10:48 +0000",
-          "description": "Ο Ολυμπιακός παίζει την πρόκριση του στα πλέι οφ του Champions League κόντρα στον Άγιαξ στο Άμστερνταμ. Η δίψα του κόσμου του Ολυμπιακού για να ...  \nTo άρθρο Προειδοποίηση Άγιαξ στους φίλους του Ολυμπιακού: «Μην αγοράζετε εισιτήρια από ιστοσελίδες μεταπώλησης» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-gipedo2-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Παναθηναϊκός εξετάζει τον Κοστιαντίν Βιβτσαρένκο",
-          "link": "https://www.newsit.gr/athlitika/o-panathinaikos-eksetazei-ton-kostiantin-vivtsarenko/4584742/",
-          "pubDate": "Tue, 27 Jan 2026 12:50:38 +0000",
-          "description": "Η περίπτωση του Σαμουκέλε Καμπίνι για την ενίσχυση του αριστερού άκρου της άμυνας δεν προχώρησε για τον Παναθηναϊκό, ο οποίος εξετάζει πλέον τον Κοστιαντίν Βιβτσαρένκο. ...  \nTo άρθρο Ο Παναθηναϊκός εξετάζει τον Κοστιαντίν Βιβτσαρένκο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kostyantyn-vivcharenko-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Πρώτη προπόνηση για Κόρι Τζόσεφ, προπονήθηκε ο Ταϊρίκ Τζόουνς",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-proti-proponisi-gia-kori-tzosef-proponithike-o-tairik-tzoouns/4584717/",
-          "pubDate": "Tue, 27 Jan 2026 12:22:58 +0000",
-          "description": "Ευχάριστα ήταν τα νέα για τον Γιώργο Μπαρτζώκα από την προπόνηση του Ολυμπιακού τη Δευτέρα (27/1/2026). Ο Ολυμπιακός ξεκίνησε την προετοιμασία του για την αναμέτρηση ...  \nTo άρθρο Ολυμπιακός: Πρώτη προπόνηση για Κόρι Τζόσεφ, προπονήθηκε ο Ταϊρίκ Τζόουνς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/joseph-3-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Κάρλος Αλκαράθ έκανε επίδειξη δύναμης κόντρα στον Άλεξ Ντε Μινόρ και πέρασε για πρώτη φορά στα ημιτελικά του Australian Open",
-          "link": "https://www.newsit.gr/athlitika/o-karlos-alkarath-ekane-epideiksi-dynamis-kontra-ston-aleks-nte-minor-kai-perase-gia-proti-fora-sta-imitelika-tou-australian-open/4584690/",
-          "pubDate": "Tue, 27 Jan 2026 12:10:25 +0000",
-          "description": "Ο Κάρλος Αλκαράθ πήρε για πρώτη φορά στην καριέρα του το εισιτήριο για τα ημιτελικά του Australian Open. Ο κορυφαίος Ισπανός τενίστας επικράτησε άνετα του ...  \nTo άρθρο Ο Κάρλος Αλκαράθ έκανε επίδειξη δύναμης κόντρα στον Άλεξ Ντε Μινόρ και πέρασε για πρώτη φορά στα ημιτελικά του Australian Open δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alcaraz-1200x842.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τέλος ο Έλτον Φικάι από τον Παναθηναϊκό",
-          "link": "https://www.newsit.gr/athlitika/telos-o-elton-fikai-apo-ton-panathinaiko/4584675/",
-          "pubDate": "Tue, 27 Jan 2026 11:54:39 +0000",
-          "description": "Παρελθόν από τον Παναθηναϊκό αποτελεί ο Έλτον Φικάι. Ο Αλβανός αμυντικός θα συνεχίσει την καριέρα του στην Πολωνία. Ο διεθνής με την εθνική Ελπίδων της ...  \nTo άρθρο Τέλος ο Έλτον Φικάι από τον Παναθηναϊκό δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fikai-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "11ος Δρόμος Εκεχειρίας στις 26 Απριλίου – Οι εγγραφές ξεκίνησαν",
-          "link": "https://www.newsit.gr/athlitika/11os-dromos-ekexeirias-stis-26-apriliou-oi-eggrafes-ksekinisan/4584622/",
-          "pubDate": "Tue, 27 Jan 2026 11:23:29 +0000",
-          "description": "Για 11η συνεχή χρονιά, η Συμπολιτεία Ολυμπίας διοργανώνει τον «Δρόμο Εκεχειρίας 2026», μια μοναδική πορεία συμβολισμού και ενότητας, την Κυριακή 26 Απριλίου 2026, στην Ιερή ...  \nTo άρθρο 11ος Δρόμος Εκεχειρίας στις 26 Απριλίου – Οι εγγραφές ξεκίνησαν δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakis-ekexeiria.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Χρήστος Μανδάς ανακοινώθηκε από την Μπόρνμουθ με μία τεράστια ελληνική σημαία στο γήπεδό της",
-          "link": "https://www.newsit.gr/athlitika/o-xristos-mandas-anakoinothike-apo-tin-mpornmouth-me-mia-terastia-elliniki-simaia-sto-gipedo-tis/4584602/",
-          "pubDate": "Tue, 27 Jan 2026 11:02:29 +0000",
-          "description": "Η ελληνική παροικία στην Premier League μεγαλώνει, με τον Χρήστο Μανδά να είναι και επίσημα παίκτης της Μπόρνμουθ. Η Μπόρνμουθ ανακοίνωσε την απόκτηση του Χρήστου ...  \nTo άρθρο Ο Χρήστος Μανδάς ανακοινώθηκε από την Μπόρνμουθ με μία τεράστια ελληνική σημαία στο γήπεδό της δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/mandas-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός: Μέσα στη Johan Cruyff Arena, το γήπεδο που θα φιλοξενήσει τον τελικό πρόκρισης των Πειραιωτών",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-mesa-sti-johan-cruyff-arena-to-gipedo-pou-tha-filoksenisei-ton-teliko-prokrisis-ton-peiraioton/4584548/",
-          "pubDate": "Tue, 27 Jan 2026 10:43:59 +0000",
-          "description": "Δείτε φωτογραφίες από το εσωτερικό της Johan Cruyff Arena, μία μέρα πριν τη μεγάλη μάχη του Ολυμπιακού με τον Άγιαξ για την τελευταία αγωνιστική της ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Μέσα στη Johan Cruyff Arena, το γήπεδο που θα φιλοξενήσει τον τελικό πρόκρισης των Πειραιωτών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-gipedo7-2-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Europa League: Οι διαιτητές των αγώνων των Παναθηναϊκού και ΠΑΟΚ στο φινάλε της League Phase",
-          "link": "https://www.newsit.gr/athlitika/europa-league-oi-diaitites-ton-agonon-ton-panathinaikou-kai-paok-sto-finale-tis-league-phase/4584534/",
-          "pubDate": "Tue, 27 Jan 2026 10:06:37 +0000",
-          "description": "Γνωστά έγιναν τα ονόματα των διαιτητών που θα σφυρίξουν τις αναμετρήσεις του Παναθηναϊκού και του ΠΑΟΚ στην τελευταία αγωνιστική της League Phase του Europa League. ...  \nTo άρθρο Europa League: Οι διαιτητές των αγώνων των Παναθηναϊκού και ΠΑΟΚ στο φινάλε της League Phase δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/munuera-1200x798.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Πλήγμα στον Παναθηναϊκό με Τσιριβέγια: Νοκ άουτ για 1,5 μήνα ο Ισπανός μέσος",
-          "link": "https://www.newsit.gr/athlitika/pligma-ston-panathinaiko-me-tsirivegia-nok-aout-gia-1-5-mina-o-ispanos-mesos/4584506/",
-          "pubDate": "Tue, 27 Jan 2026 09:33:40 +0000",
-          "description": "Ο Πέδρο Τσιριβέγια θα χάσει όλα τα σημαντικά παιχνίδια του Παναθηναϊκού το επόμενο διάστημα σε πρωτάθλημα, κύπελλο και Europa League. Χειρότερα δεν θα μπορούσαν να ...  \nTo άρθρο Πλήγμα στον Παναθηναϊκό με Τσιριβέγια: Νοκ άουτ για 1,5 μήνα ο Ισπανός μέσος δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/chirivella-2-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η Ελίνα Σβιτολίνα ισοπέδωσε την Κόκο Γκοφ και προκρίθηκε στα ημιτελικά του Australian Open",
-          "link": "https://www.newsit.gr/athlitika/i-elina-svitolina-isopedose-tin-koko-gkof-kai-prokrithike-sta-imitelika-tou-australian-open/4584485/",
-          "pubDate": "Tue, 27 Jan 2026 09:20:21 +0000",
-          "description": "Η Ελίνα Σβιτολίνα πήρε για πρώτη φορά στην καριέρα της το εισιτήριο για τα ημιτελικά του Australian Open. Η Ουκρανή τενίστρια διέλυσε την Κόκο Γκοφ ...  \nTo άρθρο Η Ελίνα Σβιτολίνα ισοπέδωσε την Κόκο Γκοφ και προκρίθηκε στα ημιτελικά του Australian Open δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/svitolina-1200x781.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Μάικ Τζέιμς μένει ελεύθερος από τη Μονακό το καλοκαίρι",
-          "link": "https://www.newsit.gr/athlitika/o-maik-tzeims-menei-eleytheros-apo-ti-monako-to-kalokairi/4584480/",
-          "pubDate": "Tue, 27 Jan 2026 08:54:05 +0000",
-          "description": "Οι δρόμοι του Μάικ Τζέιμς και της Μονακό αναμένεται να χωρίσουν το προσεχές καλοκαίρι. Αυτό υποστηρίζει τουλάχιστον το Basketnews, το οποίο αναφέρει ότι ο Μάικ ...  \nTo άρθρο Ο Μάικ Τζέιμς μένει ελεύθερος από τη Μονακό το καλοκαίρι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mike-james-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγγελος Ποστέκογλου: Σενάριο επιστροφής του ομογενή προπονητή στη Σέλτικ",
-          "link": "https://www.newsit.gr/athlitika/aggelos-postekoglou-senario-epistrofis-tou-omogeni-proponiti-sti-seltik/4584455/",
-          "pubDate": "Tue, 27 Jan 2026 08:30:48 +0000",
-          "description": "Ο Άγγελος Ποστέκογλου βρίσκεται χωρίς ομάδα μετά την απόλυση του από τη Νότιγχαμ, με τον ομογενή προπονητή να σκέφτεται σοβαρά το ενδεχόμενο επιστροφής του στη ...  \nTo άρθρο Άγγελος Ποστέκογλου: Σενάριο επιστροφής του ομογενή προπονητή στη Σέλτικ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/03/postekoglou-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Οι πιθανότεροι αντίπαλοι εάν προκριθεί στα πλέι οφ του Champions League",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-oi-pithanoteroi-antipaloi-ean-prokrithei-sta-plei-of-tou-champions-league/4584433/",
-          "pubDate": "Tue, 27 Jan 2026 08:16:29 +0000",
-          "description": "Ποιοι είναι οι πιο πιθανοί αντίπαλοι του Ολυμπιακού στα πλέι οφ του Champions League, βάσει του μοντέλου του Football Meets Data. Ο Ολυμπιακός αντιμετωπίζει τον ...  \nTo άρθρο Ολυμπιακός: Οι πιθανότεροι αντίπαλοι εάν προκριθεί στα πλέι οφ του Champions League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/taremi-olympiakos-eurokinissi.jpg",
-          "source": "NewsIT"
+          "title": "Λειψυδρία: Γιατί ενώ βρέχει στην Ελλάδα δεν έχουμε αρκετό νερό",
+          "link": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
+          "pubDate": "Tue, 27 Jan 2026 19:07:00 +0200",
+          "description": "Τα αποθέματα νερού παραμένουν χαμηλά, αποκαλύπτοντας το χάσμα ανάμεσα στο «πόσο βρέχει» και στο «πόσο νερό τελικά αποθηκεύεται».",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/eurokinissi_nero_leipsidria_0.jpg?itok=c-6N-PSZ",
+          "source": "Gazzetta"
         }
       ]
     },
