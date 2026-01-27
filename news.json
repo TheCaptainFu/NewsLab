@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T23:35:24.934Z",
+  "lastUpdated": "2026-01-27T23:40:32.730Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Φωταγωγήθηκε η Βουλή στη μνήμη του Ολοκαυτώματος",
+          "link": "https://www.newsit.gr/politikh/fotagogithike-i-vouli-sti-mnimi-tou-olokaytomatos-2/4585250/",
+          "pubDate": "Tue, 27 Jan 2026 23:38:08 +0000",
+          "description": "Φωταγωγήθηκε η πρόσοψη του Μεγάρου της Βουλής των Ελλήνων στο πλαίσιο της Διεθνούς Ημέρας Μνήμης του Ολοκαυτώματος, με το θεματικό λογότυπο της διεθνούς εκστρατείας #WE ...  \nTo άρθρο Φωταγωγήθηκε η Βουλή στη μνήμη του Ολοκαυτώματος δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vouli-fotagogisi-28012026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ο Τραμπ «χαλαρώνει» τον κλοιό των πρακτόρων της ICE στη Μινεσότα μετά τους θανάτους διαδηλωτών",
           "link": "https://www.newsit.gr/kosmos/o-tramp-xalaronei-ton-kloio-ton-praktoron-tis-ice-sti-minesota-meta-tous-thanatous-diadiloton/4585223/",
@@ -239,14 +247,6 @@
           "description": "Η Χόφενχαϊμ επικράτησε της Βέρντερ στη Βρέμη με 2-0, ενώ το Ζανκτ Πάουλι – Λειψία έληξε ισόπαλο 1-1.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/xofenssss-768x482.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Δανία: «Η Γροιλανδία δεν παραχωρείται στις ΗΠΑ – Θα κάνουμε ό,τι μπορούμε για να επέλθει συμφωνία»",
-          "link": "https://www.newsit.gr/kosmos/dania-i-groilandia-den-paraxoreitai-stis-ipa-tha-kanoume-o-ti-mporoume-gia-na-epelthei-symfonia/4585163/",
-          "pubDate": "Tue, 27 Jan 2026 20:47:52 +0000",
-          "description": "Η Δανία σκοπεύει «να κάνει ό,τι μπορεί» για να καταλήξει σε συμφωνία με τις ΗΠΑ σχετικά με τη Γροιλανδία, εκτός από την παραχώρηση του νησιού, ...  \nTo άρθρο Δανία: «Η Γροιλανδία δεν παραχωρείται στις ΗΠΑ – Θα κάνουμε ό,τι μπορούμε για να επέλθει συμφωνία» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mette-frederikensen.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Το NBA LIVE στο Gazzetta",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510682/nba-live-sto-gazzetta",
+          "pubDate": "Wed, 28 Jan 2026 01:40:00 +0200",
+          "description": "Παρακολουθήστε LIVE την εξέλιξη των επτά αναμετρήσεων του NBA, μέσα από το Gazzetta.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-06/shai_gilgeous_alexander_thunder_getty.jpg?itok=l9oVl2fg",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ, δυστύχημα στη Ρουμανία: Η ανακοίνωση του Δικέφαλου για την κλειστή κερκίδα στη Λιόν",
           "link": "https://www.gazzetta.gr/football/europa-league/2510776/paok-dystyhima-sti-roymania-i-anakoinosi-toy-dikefaloy-gia-tin",
           "pubDate": "Wed, 28 Jan 2026 01:25:19 +0200",
@@ -977,14 +985,6 @@
           "description": "Συντετριμμένος περιγράφει ο Έλληνας οδηγός νταλίκας την εικόνα του δυστυχήματος και τις συνθήκες στο σημείο του τροχαίου στη Ρουμανία, όπου έχασαν τη ζωή τους επτά φίλοι του ΠΑΟΚ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/troxaio-roymania-opadoi-paok_2.jpg?itok=GsX9X5ST",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Σκηνές αρχαίας τραγωδίας από συγγενείς και φίλους των αδικοχαμένων οπαδών του ΠΑΟΚ έξω από το νοσοκομείο στην Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/skines-arxaias-tragodias-apo-syggeneis-kai-filous-ton-adikoxamenon-opadon-tou-paok-ekso-apo-to-nosokomeio-stin-roumania/4585152/",
-          "pubDate": "Tue, 27 Jan 2026 20:01:56 +0000",
-          "description": "Έξω από το νοσοκομείο στη Ρουμανία βρίσκονται συγγενείς και φίλοι των θυμάτων του τραγικού δυστυχήματος των οπαδών του ΠΑΟΚ, που στέρησε τη ζωή σε επτά ...  \nTo άρθρο Σκηνές αρχαίας τραγωδίας από συγγενείς και φίλους των αδικοχαμένων οπαδών του ΠΑΟΚ έξω από το νοσοκομείο στην Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok20-26012026.jpg",
-          "source": "NewsIT"
         }
       ]
     },
