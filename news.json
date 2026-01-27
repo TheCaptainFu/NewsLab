@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T16:55:28.093Z",
+  "lastUpdated": "2026-01-27T17:00:43.281Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πατέρας οπαδού που ήταν στο δυστύχημα του ΠΑΟΚ στη Ρουμανία: Ένα από τα παιδιά που γλίτωσε μου είπε για τον γιο μου",
+          "link": "https://www.protothema.gr/greece/article/1764338/pateras-opadou-pou-itan-sto-dustuhima-tou-paok-sti-roumania-ena-apo-ta-paidia-pou-glitose-mou-eipe-gia-ton-gio-mou/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 18:59:00 +0200",
+          "description": "Ο ίδιος επισήμως δεν έχει ενημερωθεί αν ο γιος του είναι ανάμεσα στους νεκρούς αλλά ένας φίλος του, ο οποίος επέζησε τους τηλεφώνησε και τους είπε πως το παιδί του ανασύρθηκε νεκρό",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/troxaio-roumania__1_.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Ουρές χιλιομέτρων στην Κηφισίας και στον Κηφισό μετά από τροχαία και φωτιά σε όχημα",
+          "link": "https://www.protothema.gr/greece/article/1764286/fotia-se-autokinito-stin-kifisias-prokalese-haos-stin-kukloforia/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 18:54:00 +0200",
+          "description": "Δείτε live την κίνηση στους δρόμους",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-19/kifisias-kinisi.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ένας 60χρονος Γάλλος στο Βέλγιο διώκεται για τον φόνο της  συντρόφου του 17 χρόνια μετά την εξαφάνισή της",
           "link": "https://www.newsit.gr/kosmos/enas-60xronos-gallos-sto-velgio-dioketai-gia-ton-fono-tis-syntrofou-tou-17-xronia-meta-tin-eksafanisi-tis/4584966/",
@@ -25,10 +41,10 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/mesisties-simaies-tou-paok-stin-toumpa-gia-to-tragiko-dystyxima-sti-roumania/4584974/",
+          "title": "Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία – Φίλοι του Δικεφάλου αφήνουν λουλούδια",
+          "link": "https://www.newsit.gr/athlitika/mesisties-simaies-tou-paok-stin-toumpa-gia-to-tragiko-dystyxima-sti-roumania-filoi-tou-dikefalou-afinoun-louloudia/4584974/",
           "pubDate": "Tue, 27 Jan 2026 16:51:37 +0000",
-          "description": "Στην Τούμπα κυματίζουν μεσίστιες σημαίες του ΠΑΟΚ για τους επτά αδικοχαμένους φίλους της ομάδας που έχασαν τη ζωή τους στο τραγικό δυστύχημα στη Ρουμανία. Στο ...  \nTo άρθρο Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "description": "Στην Τούμπα κυματίζουν μεσίστιες σημαίες του ΠΑΟΚ για τους επτά αδικοχαμένους φίλους της ομάδας που έχασαν τη ζωή τους στο τραγικό δυστύχημα στη Ρουμανία. Στο ...  \nTo άρθρο Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία – Φίλοι του Δικεφάλου αφήνουν λουλούδια δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-2-3-1200x801.jpg",
           "source": "NewsIT"
         },
@@ -185,12 +201,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Βενεζουέλα: Οι ΗΠΑ σχεδιάζουν μόνιμη εγκατάσταση της CIA στο Καράκας μετά την ανατροπή Μαδούρο",
+          "link": "https://www.in.gr/2026/01/27/world/venezouela-oi-ipa-sxediazoun-monimi-egkatastasi-tis-cia-sto-karakas-meta-tin-anatropi-madouro/",
+          "pubDate": "Tue, 27 Jan 2026 18:59:11 +0300",
+          "description": "Η CIA εργάζεται αθόρυβα και μεθοδικά για να εδραιώσει μια μόνιμη αμερικανική παρουσία στη Βενεζουέλα, σύμφωνα με αποκλειστικό ρεπορτάζ του CNN. Θα ηγηθεί των σχεδίων Τραμπ να ασκήσει επιρροή στη χώρα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-23T235121Z_1289655627_RC2T6JAA5TYM_RTRMADP_5_USA-VENEZUELA-MARCH-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Μανώλης Μητσιάς: Είμαι οπαδός του ΠΑΟΚ από μικρό παιδί, έχω κάνει ταξίδια με φίλους",
           "link": "https://www.newsit.gr/ellada/manolis-mitsias-eimai-opados-tou-paok-apo-mikro-paidi-exo-kanei-taksidia-me-filous/4584915/",
           "pubDate": "Tue, 27 Jan 2026 15:57:43 +0000",
           "description": "Λίγη ώρα  μετά την πολύνεκρη τραγωδία στη Ρουμανία με τους οπαδούς του ΠΑΟΚ, ο σπουδαίος ερμηνευτής, Μανώλης Μητσιάς, εξέφρασε τη λύπη του για αυτό που ...  \nTo άρθρο Μανώλης Μητσιάς: Είμαι οπαδός του ΠΑΟΚ από μικρό παιδί, έχω κάνει ταξίδια με φίλους δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/manolis-mitsias-ndp-1200x675.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Εργοστάσιο «Βιολάντα»: Συγκλονιστικές μαρτυρίες από εργαζόμενους που σώθηκαν – «Η κόρη μου είναι σε σοκ»",
+          "link": "https://www.in.gr/2026/01/27/greece/ergostasio-violanta-sygklonistikes-martyries-apo-ergazomenous-pou-sothikan-kori-mou-einai-se-sok/",
+          "pubDate": "Tue, 27 Jan 2026 18:55:27 +0300",
+          "description": "Σοκαρισμένοι παραμένουν οι εργαζόμενοι που είδαν τις πέντε συναδέλφους τους να χάνονται μετά την έκρηξη στο εργοστάσιο Βιολάντα και οι ίδιοι να σώζονται από καθαρή τύχη",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/viol_jj-768x456.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Χρυσοχοΐδης: Πρώτος μας στόχος και για το 2026 είναι η μείωση της μεσαίας εγκληματικότητας",
@@ -215,38 +247,6 @@
           "description": "LIVE: Ολυμπιακός – Μιλάνο. Παρακολουθήστε live στις 19:00 την αναμέτρηση Ολυμπιακός – Μιλάνο για την 5η αγωνιστική της φάσης των ομίλων του CEV Champions League γυναικών. Τηλεοπτικά από το COSMOTE SPORT 6HD.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6822840-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "ΕΠΟ: Η συλλυπητήρια ανακοίνωση για το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/epo-i-syllypitiria-anakoinosi-gia-to-tragiko-dystyxima-me-tous-opadous-tou-paok-sti-roumania/4584919/",
-          "pubDate": "Tue, 27 Jan 2026 15:49:32 +0000",
-          "description": "Η 27η Ιανουαρίου του 2026 θα μείνει για πάντα με αρνητικό πρόσημο στις μνήμες όλων στην Ελλάδα, καθώς το τραγικό δυστύχημα των οπαδών του ΠΑΟΚ ...  \nTo άρθρο ΕΠΟ: Η συλλυπητήρια ανακοίνωση για το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/epo-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Live streaming: Ελλάδα – Γαλλία",
-          "link": "https://www.in.gr/2026/01/27/sports/othersports/live-streaming-ellada-gallia-4/",
-          "pubDate": "Tue, 27 Jan 2026 18:47:50 +0300",
-          "description": "Live streaming: Ελλάδα – Γαλλία. Παρακολουθήστε σε live streaming στις 19:00 την εξέλιξη της αναμέτρησης Ελλάδα – Γαλλία για τη 2η αγωνιστική των ομίλων του ευρωπαϊκού πρωταθλήματος πόλο γυναικών.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/myrio-3fd68-768x501.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Η Ιταλία θέλει οι Φρουροί της Επανάστασης του Ιράν να ενταχθούν στη λίστα τρομοκρατικών οργανώσεων της ΕΕ",
-          "link": "https://www.newsit.gr/kosmos/i-italia-thelei-oi-frouroi-tis-epanastasis-tou-iran-na-entaxthoun-sti-lista-tromokratikon-organoseon-tis-ee/4584909/",
-          "pubDate": "Tue, 27 Jan 2026 15:47:18 +0000",
-          "description": "Η βίαιη και αιματηρή καταστολή των αντικυβερνητικών διαδηλώσεων στο Ιράν, κυρίως από δυνάμεις των παραστρατιωτικών Φρουρών της Επανάστασης, έχει προκαλέσει την οργισμένη αντίδραση αρκετών χωρών ...  \nTo άρθρο Η Ιταλία θέλει οι Φρουροί της Επανάστασης του Ιράν να ενταχθούν στη λίστα τρομοκρατικών οργανώσεων της ΕΕ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/irgc-iran-reuters-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Πολύνεκρο τροχαίο στη Ρουμανία με Έλληνες οπαδούς του ΠΑΟΚ: «Οι τρεις τραυματίες έχουν συνείδηση» λέει ο Άδωνις Γεωργιάδης",
-          "link": "https://www.newsit.gr/politikh/polynekro-troxaio-sti-roumania-me-ellines-opadous-tou-paok-oi-treis-traymaties-exoun-syneidisi-leei-o-adonis-georgiadis/4584903/",
-          "pubDate": "Tue, 27 Jan 2026 15:45:53 +0000",
-          "description": "«Οι τρεις τραυματίες έχουν συνείδηση και αυτή την στιγμή μεταφέρονται στο Πανεπιστημιακό Νοσοκομείο της Τιμισοάρα» ανέφερε ο υπουργός Υγείας, Άδωνις Γεωργιάδης, για το σοκαριστικό τροχαίο ...  \nTo άρθρο Πολύνεκρο τροχαίο στη Ρουμανία με Έλληνες οπαδούς του ΠΑΟΚ: «Οι τρεις τραυματίες έχουν συνείδηση» λέει ο Άδωνις Γεωργιάδης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok4-1200x900.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,10 +747,26 @@
       "color": "green",
       "articles": [
         {
-          "title": "Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/mesisties-simaies-tou-paok-stin-toumpa-gia-to-tragiko-dystyxima-sti-roumania/4584974/",
+          "title": "ΕΟΚ για το δυστύχημα στη Ρουμανία: «Θα τηρηθει ενός λεπτού σιγή σε όλες τις Εθνικές κατηγορίες»",
+          "link": "https://www.gazzetta.gr/basketball/a2-mpasket-elite-league/2510706/eok-gia-dystyhima-sti-roymania-tha-tirithei-enos-leptoy",
+          "pubDate": "Tue, 27 Jan 2026 18:59:31 +0200",
+          "description": "Η ΕΟΚ εξέδωσε ανακοίνωση με την οποία εκφράζει την οδύνη της για το τραγικό δυστύχημα που προκάλεσε τον θάνατο 7  φίλων του ΠΑΟΚ και τονίζει πως στις Εθνικές κατηγορίς θα τηρηθεί ενός λεπτού",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/eok.jpg?itok=IpeR-lEo",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νέα μαρτυρία για τη μπισκοτοβιομηχανία Βιολάντα: «Μύριζε υγραέριο για κανένα μήνα»",
+          "link": "https://www.gazzetta.gr/plus/2510705/nea-martyria-gia-ti-mpiskotobiomihania-biolanta-myrize-ygraerio-gia-kanena-mina",
+          "pubDate": "Tue, 27 Jan 2026 18:55:36 +0200",
+          "description": "Νέα μαρτυρία ήρθε στο φως από την αδελφή της Ελένης Κατσαρού, για τη μπισκοτοβιομηχανία «Βιολάντα». Τι ανέφεραν εργαζόμενοι, μέρες πριν τη φωτιά.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/violanta-trikala01.jpg?itok=5BFsO9FU",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία – Φίλοι του Δικεφάλου αφήνουν λουλούδια",
+          "link": "https://www.newsit.gr/athlitika/mesisties-simaies-tou-paok-stin-toumpa-gia-to-tragiko-dystyxima-sti-roumania-filoi-tou-dikefalou-afinoun-louloudia/4584974/",
           "pubDate": "Tue, 27 Jan 2026 16:51:37 +0000",
-          "description": "Στην Τούμπα κυματίζουν μεσίστιες σημαίες του ΠΑΟΚ για τους επτά αδικοχαμένους φίλους της ομάδας που έχασαν τη ζωή τους στο τραγικό δυστύχημα στη Ρουμανία. Στο ...  \nTo άρθρο Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "description": "Στην Τούμπα κυματίζουν μεσίστιες σημαίες του ΠΑΟΚ για τους επτά αδικοχαμένους φίλους της ομάδας που έχασαν τη ζωή τους στο τραγικό δυστύχημα στη Ρουμανία. Στο ...  \nTo άρθρο Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία – Φίλοι του Δικεφάλου αφήνουν λουλούδια δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-2-3-1200x801.jpg",
           "source": "NewsIT"
         },
@@ -968,22 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 17:51:56 +0200",
           "description": "Ο ΕΣΑΚΕ εξέφρασε την βαθιά του θλίψη μέσω ανακοίνωσης για το τραγικό δυστύχημα στη Ρουμανία που στέρησε τη ζωή σε φιλάθλους του ΠΑΟΚ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/g_rk4juwsaazbgb.jpg?itok=TloEBm9A",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΕΠΟ: Η συλλυπητήρια ανακοίνωση για το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/epo-i-syllypitiria-anakoinosi-gia-to-tragiko-dystyxima-me-tous-opadous-tou-paok-sti-roumania/4584919/",
-          "pubDate": "Tue, 27 Jan 2026 15:49:32 +0000",
-          "description": "Η 27η Ιανουαρίου του 2026 θα μείνει για πάντα με αρνητικό πρόσημο στις μνήμες όλων στην Ελλάδα, καθώς το τραγικό δυστύχημα των οπαδών του ΠΑΟΚ ...  \nTo άρθρο ΕΠΟ: Η συλλυπητήρια ανακοίνωση για το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/epo-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΠΑΟΚ, Δυστύχημα στη Ρουμανία: Σοκάρει το νέο video με τους 7 νεκρούς φιλάθλους",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510679/paok-dystyhima-sti-roymania-sokarei-neo-video-me-toys-7-nekroys",
-          "pubDate": "Tue, 27 Jan 2026 17:47:41 +0200",
-          "description": "Νέο video από τον τόπο του δυστυχήματος στη Ρουμανία δείχνει τη σφοδρότητα της σύγκρουσης, όπου επτά φίλοι του ΠΑΟΚ έχασαν τη ζωή τους.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_troxaio_2.jpg?itok=rHMbRB6U",
           "source": "Gazzetta"
         }
       ]
