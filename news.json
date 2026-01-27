@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T05:34:14.278Z",
+  "lastUpdated": "2026-01-27T05:35:27.929Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Επικαιροποίηση ΚΑΔ πριν τις φορολογικές δηλώσεις: Οι λογιστές προειδοποιούν για λάθη, καθυστερήσεις και επιπτώσεις",
+          "link": "https://www.newsit.gr/oikonomia/xristika/epikairopoiisi-kad-prin-tis-forologikes-diloseis-oi-logistes-proeidopoioun-gia-lathi-kathysteriseis-kai-epiptoseis/4584323/",
+          "pubDate": "Tue, 27 Jan 2026 05:32:38 +0000",
+          "description": "Η προγραμματισμένη επικαιροποίηση των Κωδικών Αριθμών Δραστηριότητας (ΚΑΔ), στο πλαίσιο της πλήρους προσαρμογής με τα αναθεωρημένα ευρωπαϊκά στατιστικά πρότυπα, ενδέχεται να δημιουργήσει προβλήματα τόσο στα ...  \nTo άρθρο Επικαιροποίηση ΚΑΔ πριν τις φορολογικές δηλώσεις: Οι λογιστές προειδοποιούν για λάθη, καθυστερήσεις και επιπτώσεις δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1129810557-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Τι λένε τα ζώδια για σήμερα Τρίτη 27 Ιανουαρίου 2026",
           "link": "https://www.newsit.gr/lifestyle/ti-lene-ta-zodia-gia-simera-triti-27-ianouariou-2026/4583923/",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 06:00:42 +0300",
           "description": "Η θεωρία του τρελού δεν είναι καθόλου μια νέα στρατηγική. Οι άγριες απειλές, οι ξαφνικές ανατροπές πολιτικής και η σκόπιμα συγκεχυμένη γλώσσα χρησιμοποιούνται εδώ και δεκαετίες",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/700961-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ταμείο Καινοτομίας: Στην «κόψη του ξυραφιού» για τις νέες προηγμένες θεραπείες",
-          "link": "https://www.in.gr/2026/01/27/economy/tameio-kainotomias-stin-kopsi-tou-ksyrafiou-gia-tis-nees-proigmenes-therapeies/",
-          "pubDate": "Tue, 27 Jan 2026 06:00:35 +0300",
-          "description": "Νέος γύρος διαπραγματεύσεων Κυβέρνησης – φαρμακοβιομηχανίας για το Ταμείο Καινοτομίας και τις προηγμένες θεραπείες που έρχονται",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/dna-pill-768x429.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Η ΕΕ επανεξοπλίζεται: Eγκρίθηκαν νέα αμυντικά σχέδια 74 δισ. ευρώ, στο πρόγραμμα και η Ελλάδα",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/i-ee-epanexoplizetai-egkrithike-safe-ellada",
+          "pubDate": "Tue, 27 Jan 2026 06:31:45 +0100",
+          "description": "Η SAFE είναι ένα από τα μεγαλύτερα τμήματα της δέσμης μέτρων της ΕΕ για την ετοιμότητα 2030, η οποία στοχεύει στην εισφορά εκατοντάδων δισεκατομμυρίων ευρώ για την άμυνα πριν από το τέλος της δεκαετίας",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "East Med Gateway Act: Οι ΗΠΑ αναβαθμίζουν την Αν. Μεσόγειο- Ελλάδα και Κύπρος στο επίκεντρο του IMEC",
           "link": "http://gr.euronews.com/2026/01/27/east-med-gateway-act-hpa-ellada-india-kypros",
           "pubDate": "Tue, 27 Jan 2026 06:00:15 +0100",
@@ -731,14 +739,6 @@
           "description": "Israeli Prime Minister Benjamin Netanyahu called Ran Gvili’s return \"an extraordinary achievement\".",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccaa/live/8e6eb450-fac0-11f0-b5f7-49f0357294ff.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "«Η Ουκρανία θα είναι μέρος της συζήτησης στην Ινδία» δήλωσε ο Ιρλανδός υπουργός Ευρωπαϊκών Υποθέσεων",
-          "link": "http://gr.euronews.com/my-europe/2026/01/26/oykrania-tha-einai-meros-tis-sizitisis-stin-india-dilose-irlandos-ipoyrgos-eyropaikon",
-          "pubDate": "Mon, 26 Jan 2026 18:19:40 +0100",
-          "description": "Ο Τόμας Μπερν δήλωσε στην πρωινή εκπομπή «Europe Today» του Euronews ότι «είναι πολύ, πολύ σημαντικό να συνάψουμε εμπορική συμφωνία με την Ινδία»",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ρόκετς - Γκρίζλις 108-99: Σένγκουν και Ντουράντ πέτυχαν 66 πόντους και έκαναν τη δουλειά!",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510507/rokets-gkrizlis-108-99-sengkoyn-kai-ntoyrant-petyhan-66-pontoys-kai-ekanan",
+          "pubDate": "Tue, 27 Jan 2026 07:29:00 +0200",
+          "description": "Το δίδυμο των Αλπερέν Σενγκούν και Κέβιν Ντουράντ έκανε την... δουλειά για τους Ρόκετς, οι οποίοι «καθάρισαν» στην τελευταία περίοδο κερδίζοντας τους Γκρίζλις (108-99).",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sengun_getty_1.jpg?itok=O9T4ms2V",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μπουλς - Λέικερς 118-129: Πέρασαν από το Σικάγο με «46άρη» Ντόντσιτς",
           "link": "https://www.gazzetta.gr/basketball/nba/2510506/mpoyls-leikers-118-129-perasan-apo-sikago-me-46ari-ntontsits",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 21:40:07 +0200",
           "description": "Η Ουγγαρία πήρε το ντέρμπι της πρώτης αγωνιστικής στη φάση των ομίλων του Ευρωπαϊκού πρωταθλήματος κόντρα στην Ισπανία. Νίκη για τη Γαλλία στον όμιλο της Εθνικής ομάδας..",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hungary_waterpolo.jpg?itok=A30J1R0v",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τον νου σου: Αν δεις κέρμα στο χερούλι του αυτοκινήτου σου, δεν είναι η τυχερή σου μέρα",
-          "link": "https://www.gazzetta.gr/plus/2510418/ton-noy-soy-deis-kerma-sto-heroyli-toy-aytokinitoy-soy-den-einai-i-tyheri-soy-mera",
-          "pubDate": "Mon, 26 Jan 2026 21:39:35 +0200",
-          "description": "Οι διαρρήκτες χρησιμοποιούν μικρά τεχνάσματα που περνούν απαρατήρητα και μπορούν να αφήσουν το αυτοκίνητό σου ξεκλείδωτο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kerma.jpg?itok=VTpKL2Oy",
           "source": "Gazzetta"
         }
       ]
