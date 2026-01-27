@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T10:20:26.211Z",
+  "lastUpdated": "2026-01-27T10:25:24.459Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΤΕΧΑΝ: Το 1ο Πανελλήνιο σχολικό πρωτάθλημα ανακύκλωσης Δευτεροβάθμιας Εκπαίδευσης σε πλήρη εξέλιξη",
+          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/texan-to-1o-panellinio-sxoliko-protathlima-anakyklosis-deyterovathmias-ekpaideysis-se-pliri-ekseliksi/4584525/",
+          "pubDate": "Tue, 27 Jan 2026 10:23:15 +0000",
+          "description": "Σε πλήρη εξέλιξη βρίσκεται το «1ο Πανελλήνιο Σχολικό Πρωτάθλημα Ανακύκλωσης» που διοργανώνει η ΤΕΧΑΝ ΑΒΕΕ, πρωτοπόρος στον τομέα της κυκλικής οικονομίας και της ανακύκλωσης. Η ...  \nTo άρθρο ΤΕΧΑΝ: Το 1ο Πανελλήνιο σχολικό πρωτάθλημα ανακύκλωσης Δευτεροβάθμιας Εκπαίδευσης σε πλήρη εξέλιξη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/texan-mathites-anakiklosi.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Το φυσικό αέριο ανεβάζει ταχύτητα – Πώς επηρεάζονται οι τιμές από την πλήρη απεξάρτηση της ΕΕ από το ρωσικό αέριο",
           "link": "https://www.newsit.gr/oikonomia/agores/to-fysiko-aerio-anevazei-taxytita-pos-epireazontai-oi-times-apo-tin-pliri-apeksartisi-tis-ee-apo-to-rosiko-aerio/4584531/",
@@ -239,14 +247,6 @@
           "description": "Επιχείρησαν να μεταφέρουν με αυτοκίνητα 15 παράνομους μετανάστες στο εσωτερικό της χώρας",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-24/astynomia-eparxia-mak.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Μάκης Χριστοδουλόπουλος: Σε πλειστηριασμό ακίνητα του τραγουδιστή με τιμή εκκίνησης 593.100 ευρώ",
-          "link": "https://www.newsit.gr/lifestyle/makis-xristodoulopoulos-se-pleistiriasmo-akinita-tou-tragoudisti-me-timi-ekkinisis-593-100-eyro/4584494/",
-          "pubDate": "Tue, 27 Jan 2026 09:24:04 +0000",
-          "description": "Ο Μάκης Χριστοδουλόπουλος παρακολουθεί όλες τις εξελίξεις, λίγες ώρες πριν βγουν σε πλειστηριασμό ακίνητα που είχε αποκτήσει, για χρέη μόλις 10.000 ευρώ, όπως αναφέρεται στη ...  \nTo άρθρο Μάκης Χριστοδουλόπουλος: Σε πλειστηριασμό ακίνητα του τραγουδιστή με τιμή εκκίνησης 593.100 ευρώ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xristodoulopoulos-ndp-1200x745.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Deadly US winter storm leaves flights delayed and thousands without power",
+          "link": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 10:20:58 GMT",
+          "description": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d26f/live/90590740-fb04-11f0-8d99-4d63080b9583.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Πρόοδο στα Μέτρα Οικοδόμησης Εμπιστοσύνης, ζήτησε η Ολγκίν μετά την συνάντηση με Χριστοδουλίδη",
           "link": "http://gr.euronews.com/2026/01/27/proodo-sta-metra-oikodomisis-empistosynis-zitise-i-olgkin",
           "pubDate": "Tue, 27 Jan 2026 10:59:02 +0100",
@@ -730,14 +738,6 @@
           "pubDate": "Tue, 27 Jan 2026 04:39:24 GMT",
           "description": "He has been described as an avid outdoorsman who loved mountain biking.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/fc00db50-fb52-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Japan court orders compensation for migrants lured to North Korea",
-          "link": "https://www.bbc.com/news/articles/c23r2l81708o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 02:23:45 GMT",
-          "description": "The plaintiffs said North Korea was marketed to them as \"paradise on Earth\".",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b5/live/2716d0d0-fb1f-11f0-95a7-23b039032098.jpg",
           "source": "BBC News"
         }
       ]
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Τα εισιτήρια του αγώνα Παναθηναϊκός – Κηφισιά",
+          "link": "https://panathinaikos24.gr/2026/01/27/617900/ta-eisitiria-tou-agona-panathinaikos-kifisia/",
+          "pubDate": "Tue, 27 Jan 2026 10:23:04 +0000",
+          "description": "Διαθέσιμα από την Τρίτη 27/1 στις 16:00",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/10/4865264.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Τα παιχνίδια του Παναθηναϊκού που χάνει ο Τσιριβέγια",
           "link": "https://panathinaikos24.gr/2026/01/27/617893/ta-paixnidia-tou-panathinaikou-pou-xanei-o-tsirivegia/",
           "pubDate": "Tue, 27 Jan 2026 10:11:40 +0000",
@@ -1222,14 +1230,6 @@
           "pubDate": "Mon, 26 Jan 2026 16:45:27 +0000",
           "description": "Η Έβερτον υποδέχεται τη Λιντς στο ματς που ρίχνει την αυλαία της 23ης «στροφής» της Premier League, με τις δυο ομάδες να έρχονται... φουριόζες από την προηγούμενη αγωνιστική.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Everton1.jpg?fit=350%2C235&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Στον «αέρα» τα εισιτήρια για το Final 8 του Κυπέλλου Ελλάδας Ανδρών",
-          "link": "https://panathinaikos24.gr/2026/01/26/617845/ston-aera-ta-eisitiria-gia-to-final-8-tou-kypellou-elladas-andron/",
-          "pubDate": "Mon, 26 Jan 2026 16:26:46 +0000",
-          "description": "Το Final 8 θα διοργανωθεί στο Ηράκλειο Κρήτης από τις 17, έως τις 21 Φεβρουαρίου και η ΕΟΚ ανακοίνωσε πως το κοινό μπορεί να προμηθευτεί τα διαθέσιμα εισιτήρια.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/10/4842039.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
