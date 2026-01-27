@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T10:50:30.984Z",
+  "lastUpdated": "2026-01-27T10:55:28.328Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τριήμερο πένθος στη Θεσσαλία για την τραγωδία στη Βιολάντα\n",
+          "link": "https://www.protothema.gr/greece/article/1764130/triimero-penthos-sti-thessalia-gia-tin-tragodia-sti-violada/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 12:55:18 +0200",
+          "description": "Κατά τη διάρκεια του τριήμερου πένθους οι σημαίες στα κτίρια που στεγάζονται οι υπηρεσίες της Περιφέρειας Θεσσαλίας θα κυματίζουν μεσίστιες, ενώ αναστέλλονται όλες οι εκδηλώσεις",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/louloudia12.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "«Μακάρι να μπορούσα να φύγω εγώ και να είχε ζήσει η γυναίκα μου»: Ραγίζει καρδιές ο σύζυγος της Βασιλικής που σκοτώθηκε στη Βιολάντα",
+          "link": "https://www.protothema.gr/greece/article/1764128/ragizei-kardies-o-suzugos-tis-vasilikis-pou-skotothike-sti-violada-makari-na-borousa-na-fugo-ego/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 12:53:00 +0200",
+          "description": "«Έχω δύο ψυχούλες πρέπει να σταθώ δίπλα στα παιδιά μου και αυτό θα κάνω» είπε με ραγισμένη φωνή",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/maketa-thuma.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ευλογιά προβάτων: Στο επίκεντρο η αυστηρή εφαρμογή των μέτρων στη σύσκεψη υπό τον πρωθυπουργό, Κυριάκο Μητσοτάκη",
           "link": "https://www.newsit.gr/politikh/eylogia-provaton-sto-epikentro-i-aystiri-efarmogi-ton-metron-sti-syskepsi-ypo-ton-prothypourgo-kyriako-mitsotaki/4584595/",
@@ -231,22 +247,6 @@
           "description": "Στο «κλαμπ» των ισχυρών της Ευρωζώνης τοποθετεί τα ελληνικά κρατικά ομόλογα ο ESM (Εuropean Stability Mechanism), ο μεγαλύτερος δανειστής της χώρας. Σε έκθεση που δημοσιεύει ...  \nTo άρθρο ESM για το ελληνικό χρέος: Ισχυρότερα θεμελιώδη μεγέθη αλλά και νέες προκλήσεις δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1254992899-1200x775.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Στήνονται πυρήνες αυτοοργάνωσης υπέρ Τσίπρα – καταλύτης το νέο κόμμα – στάση αναμονής απο κορυφαία στελέχη",
-          "link": "https://www.in.gr/2026/01/27/politics/politiki-grammateia/stinontai-pyrines-aytoorganosis-yper-tsipra-katalytis-neo-komma-stasi-anamonis-apo-koryfaia-stelexi/",
-          "pubDate": "Tue, 27 Jan 2026 12:47:34 +0300",
-          "description": "Ο ένας περιμένει τον άλλο στο προοδευτικό μπλοκ για να κάνει το επόμενο βήμα, η βάση κινείται αυτόνομα, η «Ιθάκη» συνεχίζει το ταξίδι.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6813274-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Απάντηση του ΔΕΔΔΗΕ στον Δήμο Γλυφάδας: Το έργο είναι απολύτως νόμιμο και βασίζεται σε εγκεκριμένες τεχνικές και περιβαλλοντικές μελέτες",
-          "link": "https://www.protothema.gr/greece/article/1764080/apadisi-deddie-dimo-glufadas-ergo-einai-apolutos-nomimo-kai-vasizetai-se-egekrimenes-tehnikes-kai-perivallodikes-meletes/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 11:47:30 +0200",
-          "description": "«Καλοδεχούμενη η νομική οδός που επιλέγει ο Δήμος Γλυφάδας, ώστε να λάμψει η αλήθεια μακριά από μάχες εντυπώσεων και άγονες ρήξεις» αναφέρεται στην ανακοίνωση",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/deddhe.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Μαρία Καρυστιανού: Τι δείχνουν πέντε δημοσκοπήσεις για το κόμμα της – Πού κινείται ο Αλέξης Τσίπρας",
+          "link": "https://www.tanea.gr/2026/01/27/politics/maria-karystianou-ti-deixnoun-pente-dimoskopiseis-gia-to-komma-tis-pou-kineitai-o-aleksis-tsipras/",
+          "pubDate": "Tue, 27 Jan 2026 10:53:06 +0000",
+          "description": "Το μυστικό στην ανάγνωση των δημοσκοπήσεων είναι η σταθερότητα και σύμφωνα με τα πρώτα στοιχεία, ένα κόμμα από τη Μαρία Καρυστιανού δείχνει να παγιώνει τη θέση και τα ποσοστά της. Χαρτογραφώντας πέντε δημοσκοπήσεις που έχουν διεξαχθεί τον Ιανουάριο, το ποσοστό που καταγράφεται στην ερώτηση «πόσο πιθανό είναι να ψηφίσετε ένα κόμμα από την Μαρία Καρυστιάνου», […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Karystianou-2-1.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Παύλος Γερουλάνος: Οικογενειακή «περιουσία» του το Μέγαρο Μαξίμου – Η άγνωστη ιστορία",
           "link": "https://www.tanea.gr/2026/01/27/politics/paylos-geroulanos-oikogeneiaki-periousia-tou-to-megaro-maksimou-i-agnosti-istoria/",
@@ -483,14 +491,6 @@
           "link": "https://www.naftemporiki.gr/politics/2064055/ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy/?utm_source=rss&utm_medium=rss&utm_campaign=ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy",
           "pubDate": "Mon, 26 Jan 2026 15:03:01 +0000",
           "description": "Τη νομοθετική πρωτοβουλία για την επιστολική ψήφο στους εκτός Ελλάδας εκλογείς κατά τις βουλευτικές εκλογές και τον ορισμό τριεδρικής εκλογικής περιφέρειας Απόδημου Ελληνισμού παρουσίασε τη Δευτέρα στο πρώτο υπουργικό συμβούλιο…\nΕθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "ΟΠΕΚΕΠΕ: 1.199.149,87 ευρώ «πίσω»,  για αχρεωστήτως καταβληθείσες ενισχύσεις σε παραγωγούς",
-          "link": "https://www.naftemporiki.gr/politics/2064049/opekepe-1-199-14987-eyro-piso-gia-achreostitos-katavlitheises-enischyseis-se-paragogoys/?utm_source=rss&utm_medium=rss&utm_campaign=opekepe-1-199-14987-eyro-piso-gia-achreostitos-katavlitheises-enischyseis-se-paragogoys",
-          "pubDate": "Mon, 26 Jan 2026 14:58:37 +0000",
-          "description": "Στα 1.199.149,87 ευρώ ανέρχεται το ποσό που είχε ανακτηθεί μέχρι το τέλος του 2025, για αχρεωστήτως καταβληθείσες ενισχύσεις σε παραγωγούς, μετά την ολοκλήρωση των απαιτούμενων διασταυρωτικών ελέγχων και διαδικασιών, οι…\nΟΠΕΚΕΠΕ: 1.199.149,87 ευρώ «πίσω»,  για αχρεωστήτως καταβληθείσες ενισχύσεις σε παραγωγούς - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
