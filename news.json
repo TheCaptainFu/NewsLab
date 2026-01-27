@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-01-27T19:15:46.063Z",
+  "lastUpdated": "2026-01-27T19:20:31.607Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Η κατάσταση της υγείας των τριών τραυματιών οπαδών του ΠΑΟΚ μετά το τραγικό δυστύχημα στη Ρουμανία",
+          "link": "https://www.newsit.gr/athlitika/i-katastasi-tis-ygeias-ton-trion-traymation-opadon-tou-paok-meta-to-tragiko-dystyxima-sti-roumania/4585125/",
+          "pubDate": "Tue, 27 Jan 2026 19:19:30 +0000",
+          "description": "Οι τρεις οπαδοί του ΠΑΟΚ που επέζησαν από το φρικτό τροχαίο δυστύχημα στην Ρουμανία βρίσκονται στο νοσοκομείο της Τιμισοάρα σοβαρά τραυματίες, αλλά εκτός κινδύνου. «Τρεις ...  \nTo άρθρο Η κατάσταση της υγείας των τριών τραυματιών οπαδών του ΠΑΟΚ μετά το τραγικό δυστύχημα στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-fans-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΗΠΑ: Νέο περιστατικό με πυροβολισμούς από πράκτορες της ICE κατά πολιτών – Ένας σοβαρά τραυματίας στην Αριζόνα",
+          "link": "https://www.newsit.gr/kosmos/ipa-neo-peristatiko-me-pyrovolismous-apo-praktores-tis-ice-kata-politon-enas-sovara-traymatias-stin-arizona/4585126/",
+          "pubDate": "Tue, 27 Jan 2026 19:14:32 +0000",
+          "description": "Ένα άτομο πυροβολήθηκε το πρωί της Τρίτης κατά τη διάρκεια ενός περιστατικού στο οποίο εμπλέκεται η Αμερικανική Συνοριακή Φρουρά στο νότιο τμήμα της Αριζόνα, σύμφωνα ...  \nTo άρθρο ΗΠΑ: Νέο περιστατικό με πυροβολισμούς από πράκτορες της ICE κατά πολιτών – Ένας σοβαρά τραυματίας στην Αριζόνα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ice-usa-arizona.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "HSBC για το deal ΕΕ – Ινδίας: Ιστορική συμφωνία που αντιπροσωπεύει το 25% του παγκόσμιου ΑΕΠ",
           "link": "https://www.newsit.gr/oikonomia/diethni/hsbc-gia-to-deal-ee-indias-istoriki-symfonia-pou-antiprosopeyei-to-25-tou-pagkosmiou-aep/4585047/",
@@ -61,7 +77,7 @@
           "link": "https://www.protothema.gr/greece/article/1764421/sothikame-apo-thauma-ergazomenoi-sti-violada-perigrafoun-ta-osa-sunevisan-sto-ergostasio/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 20:58:00 +0200",
           "description": "Η φωτιά «ερχόταν καταπάνω μου» περιέγραψε εργαζόμενoς - Η κυρία Ελένη θυμάται πως άκουσαν ένα δυνατό κρότο και μετά σβήσανε τα πάντα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/maketa-violanta1.jpg",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/violanda_woman-xrwma.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -231,22 +247,6 @@
           "description": "Συνελήφθησαν ο τεχνικός ασφαλείας και ο υπεύθυνος βάρδιας - Όλοι κατηγορούνται για ανθρωποκτονία από αμέλεια, έκρηξη, εμπρησμό από αμέλεια και σωματικές βλάβες - Την Τετάρτη (28/1) θα οδηγηθούν στον εισαγγελέα",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-biolanta.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Από διαρροή προπανίου η φονική έκρηξη στο εργοστάσιο Βιολάντα – Το πρόβλημα στις σωληνώσεις",
-          "link": "https://www.in.gr/2026/01/27/greece/apo-diarroi-propaniou-foniki-ekriksi-sto-ergostasio-violanta-provlima-stis-solinoseis/",
-          "pubDate": "Tue, 27 Jan 2026 20:45:30 +0300",
-          "description": "Τι έχουν διαπιστώσει μέχρι τώρα οι αξιωματικοί της Πυροσβεστικής και οι ειδικοί πραγματογνώμονες που ερευνούν τα αίτια της έκρηξης στο εργοστάσιο Βιολάντα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trikala-ergoastasio-fvtia-2-696x464.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μεντιλίμπαρ για το Άγιαξ – Ολυμπιακός: «Μοναδικός στόχος η νίκη, μεγάλη τιμή η πρόκριση στα νοκ άουτ»",
-          "link": "https://www.newsit.gr/athlitika/mentilimpar-gia-to-agiaks-olympiakos-monadikos-stoxos-i-niki-megali-timi-i-prokrisi-sta-nok-aout/4585024/",
-          "pubDate": "Tue, 27 Jan 2026 17:41:12 +0000",
-          "description": "Ο Ολυμπιακός θα αντιμετωπίσει τον Άγιαξ στο Άμστερνταμ (28/01/26, 22:00) στην τελευταία αγωνιστική του Champions League με μοναδικό στόχο τη νίκη και την πρόκριση στην ...  \nTo άρθρο Μεντιλίμπαρ για το Άγιαξ – Ολυμπιακός: «Μοναδικός στόχος η νίκη, μεγάλη τιμή η πρόκριση στα νοκ άουτ» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mendilibar-5-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -311,14 +311,6 @@
           "source": "Τα Νέα"
         },
         {
-          "title": "Γεωργιάδης για τροχαίο στη Ρουμανία: «Οι τρεις τραυματίες έχουν συνείδηση»",
-          "link": "https://www.tovima.gr/2026/01/27/society/georgiadis-gia-troxaio-sti-roumania-oi-treis-traymaties-exoun-syneidisi/",
-          "pubDate": "Tue, 27 Jan 2026 17:37:44 +0300",
-          "description": "«Είμαστε έτοιμοι να παράσχουμε κάθε είδους βοήθεια που θα χρειαστεί ή να τους μεταφέρουμε στην Ελλάδα εάν αυτό κρίνουν οι γιατροί», σημείωσε σε ανάρτησή του ο υπουργός Υγείας για το τροχαίο στη Ρουμανία.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/01/21/Adonis-Georgiadis-1024x678.jpg",
-          "source": "Το Βήμα"
-        },
-        {
           "title": "Ν. Βλαχάκος: Δέχθηκα προσωπική προσβολή από τη Ζωή Κωνσταντοπούλου",
           "link": "https://www.naftemporiki.gr/politics/2064593/n-vlachakos-dechthika-prosopiki-prosvoli-apo-ti-zoi-konstantopoyloy/?utm_source=rss&utm_medium=rss&utm_campaign=n-vlachakos-dechthika-prosopiki-prosvoli-apo-ti-zoi-konstantopoyloy",
           "pubDate": "Tue, 27 Jan 2026 14:32:59 +0000",
@@ -367,28 +359,12 @@
           "source": "Ναυτεμπορική"
         },
         {
-          "title": "Μητσοτάκης: «Βαθιά συγκλονισμένος για το τραγικό δυστύχημα στη Ρουμανία»",
-          "link": "https://www.tovima.gr/2026/01/27/politics/mitsotakis-vathia-sygklonismenos-gia-to-tragiko-dystyxima-sti-roumania/",
-          "pubDate": "Tue, 27 Jan 2026 16:58:29 +0300",
-          "description": "«Τούτες τις δύσκολες στιγμές, μαζί με όλες τις Ελληνίδες και όλους τους Έλληνες, εκφράζω τα πιο ειλικρινή συλλυπητήριά μου στους συγγενείς των θυμάτων και στην οικογένεια του ΠΑΟΚ» έγραψε ο πρωθυπουργός στο μήνυμα συμπαράστασης.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/kyriakos2-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
           "title": "ΝΔ: Παραπομπή της Ζωής Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας της Βουλής",
           "link": "https://www.naftemporiki.gr/politics/2064564/nd-parapompi-tis-zois-konstantopoyloy-stin-epitropi-deontologias-tis-voylis/?utm_source=rss&utm_medium=rss&utm_campaign=nd-parapompi-tis-zois-konstantopoyloy-stin-epitropi-deontologias-tis-voylis",
           "pubDate": "Tue, 27 Jan 2026 13:55:25 +0000",
           "description": "Στην παραπομπή της Ζωή Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας προχωρά η Νέα Δημοκρατία, σύμφωνα με κομματικές πηγές, μετά τη στάση και τις εκφράσεις που αποδίδονται στην πρόεδρο της Πλεύσης Ελευθερίας κατά…\nΝΔ: Παραπομπή της Ζωής Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας της Βουλής - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Η ΝΔ στέλνει στην επιτροπή Δεοντολογίας την Κωνσταντοπούλου – Οι αναφορές στα Ίμια",
-          "link": "https://www.tovima.gr/2026/01/27/politics/i-nd-stelnei-stin-epitropi-deontologias-tin-konstantopoulou-oi-anafores-sta-imia/",
-          "pubDate": "Tue, 27 Jan 2026 16:41:43 +0300",
-          "description": "Παραπέμπεται στην επιτροπή Δεοντολογίας η Ζωή Κωνσταντοπούλου για αντικοινοβουλευτική συμπεριφορά - «Αυτό που είπε με αυτό τον απαράδεκτο τρόπο το ψάξε να βρεις τι έγινε στα Ίμια, είναι προσβολή στο πρόσωπο του ήρωα».",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/KONSTANTOPOYLOY-1024x681.jpg",
-          "source": "Το Βήμα"
         },
         {
           "title": "Ταμείο Καινοτομίας Φαρμάκου: «Πράσινο φως» για ταχύτερη πρόσβαση σε νέα θεραπείες",
@@ -493,6 +469,30 @@
           "description": "Την ανάγκη διατήρησης της συλλογικής μνήμης ώστε το «δεν ξεχνώ» να αποτελεί «έναν θώρακα απέναντι στο κακό που πάντα ελλοχεύει» τονίζει ο Πρόεδρος της Δημοκρατίας Κωνσταντίνος Αν. Τασούλας,  με αφορμή…\nΚ. Τασούλας για Ημέρα Μνήμης θυμάτων του Ολοκαυτώματος: Στοιχειώδες χρέος μας να θυμόμαστε - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Η Κομισιόν ενέκρινε το ελληνικό αμυντικό σχέδιο μέσω του προγράμματος SAFE της ΕΕ",
+          "link": "https://www.tanea.gr/2026/01/27/politics/i-komision-enekrine-to-elliniko-amyntiko-sxedio-meso-toy-programmatos-safe-tis-ee/",
+          "pubDate": "Tue, 27 Jan 2026 11:22:18 +0000",
+          "description": "Η Ευρωπαϊκή Επιτροπή ενέκρινε τα εθνικά αμυντικά σχέδια οχτώ χωρών, συμπεριλαμβανομένης της Ελλάδας, στο πλαίσιο του προγράμματος SAFE. Το Συμβούλιο της ΕΕ θα τα εξετάσει εντός τεσσάρων εβδομάδων για έγκριση και χρηματοδότηση.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/12/Europi.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Ευλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού",
+          "link": "https://www.naftemporiki.gr/politics/2064454/eylogia-aigoprovaton-krisimo-to-epomeno-trimino-k-mitsotakis-den-syzitame-katholoy-zitimata-emvoliasmoy/?utm_source=rss&utm_medium=rss&utm_campaign=eylogia-aigoprovaton-krisimo-to-epomeno-trimino-k-mitsotakis-den-syzitame-katholoy-zitimata-emvoliasmoy",
+          "pubDate": "Tue, 27 Jan 2026 11:09:02 +0000",
+          "description": "Η κρισιμότητα του επόμενου τριμήνου για την πορεία της ευλογιάς των αιγοπροβάτων και η ανάγκη οριζόντιας και αυστηρής εφαρμογής των μέτρων βιοασφάλειας, ώστε να αξιοποιηθεί η αποκλιμάκωση των κρουσμάτων, τονίστηκε…\nΕυλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Μητσοτάκης: Αυστηρή βιοασφάλεια και όχι εμβολιασμός για την εκρίζωση της ευλογιάς των αιγοπροβάτων",
+          "link": "https://www.tanea.gr/2026/01/27/politics/mitsotakis-aystiri-vioasfaleia-kai-oxi-emvoliasmos-gia-tin-ekrizosi-tis-eylogias-ton-aigop/",
+          "pubDate": "Tue, 27 Jan 2026 11:05:19 +0000",
+          "description": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης προήδρευσε το πρωί σε σύσκεψη στο Μέγαρο Μαξίμου.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/mitsotakis-1024x668.jpg",
+          "source": "Τα Νέα"
         }
       ]
     },
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Η κατάσταση της υγείας των τριών τραυματιών οπαδών του ΠΑΟΚ μετά το τραγικό δυστύχημα στη Ρουμανία",
+          "link": "https://www.newsit.gr/athlitika/i-katastasi-tis-ygeias-ton-trion-traymation-opadon-tou-paok-meta-to-tragiko-dystyxima-sti-roumania/4585125/",
+          "pubDate": "Tue, 27 Jan 2026 19:19:30 +0000",
+          "description": "Οι τρεις οπαδοί του ΠΑΟΚ που επέζησαν από το φρικτό τροχαίο δυστύχημα στην Ρουμανία βρίσκονται στο νοσοκομείο της Τιμισοάρα σοβαρά τραυματίες, αλλά εκτός κινδύνου. «Τρεις ...  \nTo άρθρο Η κατάσταση της υγείας των τριών τραυματιών οπαδών του ΠΑΟΚ μετά το τραγικό δυστύχημα στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-fans-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "UEFA για το δυστύχημα στη Ρουμανία: «Στεκόμαστε δίπλα στην οικογένεια του ΠΑΟΚ»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510741/uefa-gia-dystyhima-sti-roymania-stekomaste-dipla-stin-oikogeneia-toy",
+          "pubDate": "Tue, 27 Jan 2026 21:16:48 +0200",
+          "description": "Με ανάρτησή της στα social media η UEFA εξέφρασε τη στήριξή της στην οικογένεια του ΠΑΟΚ έπειτα από το τραγικό δυστύχημα με τους οπαδούς των ασπρόμαυρων στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_shma.jpg?itok=ulNpsbOe",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η κατάσταση των τριών τραυματιών ",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510740/paok-dystyhima-sti-roymania-i-katastasi-ton-trion-traymation",
+          "pubDate": "Tue, 27 Jan 2026 21:16:27 +0200",
+          "description": "Την κατάσταση των τριών τραυματιών που επέζησαν από το θανατηφόρο τροχαίο αποκάλυψε ρουμάνικο Μέσο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/distihima1_0.jpg?itok=1Mi36hN2",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η ανακοίνωση των παλαίμαχων ",
           "link": "https://www.gazzetta.gr/football/europa-league/2510739/paok-dystyhima-sti-roymania-i-anakoinosi-ton-palaimahon",
           "pubDate": "Tue, 27 Jan 2026 21:12:01 +0200",
@@ -807,7 +831,7 @@
           "link": "https://www.newsit.gr/athlitika/oi-paiktes-tou-paok-afisan-louloudia-stin-toumpa-gia-ta-thymata-tou-dystyximatos-sti-roumania/4585031/",
           "pubDate": "Tue, 27 Jan 2026 18:44:17 +0000",
           "description": "Ο Ραζβάν Λουτσέσκου, ο Αντελίνο Βιεϊρίνια και οι παίκτες του ΠΑΟΚ με λουλούδια στα χέρια έφτασαν στην Τούμπα για να τιμήσουν τους αδικοχαμένους οπαδούς του ...  \nTo άρθρο Οι παίκτες του ΠΑΟΚ άφησαν λουλούδια στην Τούμπα για τα θύματα του δυστυχήματος στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-7-1200x800.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lucescu-2-1200x800.jpg",
           "source": "NewsIT"
         },
         {
@@ -823,7 +847,7 @@
           "link": "https://www.gazzetta.gr/football/europa-league/2510733/paok-dystyhima-sti-roymania-sti-toympa-loytseskoy-bieirinia-kai",
           "pubDate": "Tue, 27 Jan 2026 20:39:03 +0200",
           "description": "Μαζί με τον κόσμο στην Τούμπα για να αποτίσουν φόρο τιμής στους αδικοχαμένους 7 φίλους της ομάδας βρίσκονται οι Λουτσέσκου, Βιεϊρίνια, Καρυπίδης και παίκτης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lucescu-vierinia.jpg?itok=dQen5jH6",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/razvan_1.jpg?itok=WmreTSxp",
           "source": "Gazzetta"
         },
         {
@@ -961,30 +985,6 @@
           "description": "Η ΚΑΕ Παναθηναϊκός απάντησε στους ισχυρισμούς από πλευράς της Μακάμπι Τελ Αβίβ μέσω του BasketNews κάνοντας λόγο για ανεπαρκή μέτρα ασφαλείας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ataman_eurokinissi_7.jpg?itok=DmhU8BG2",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΕ ΠΑΟΚ: «Μια ακόμα μαύρη μέρα για την οικογένεια μας! Ποτέ ξανά…»",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510718/pae-paok-mia-akoma-mayri-mera-gia-tin-oikogeneia-mas-pote-xana",
-          "pubDate": "Tue, 27 Jan 2026 19:43:33 +0200",
-          "description": "Με λόγια που αποτυπώνουν τον ανείπωτο πόνο, η ΠΑΕ ΠΑΟΚ τοποθετήθηκε επίσημα για την τραγωδία στη Ρουμανία, εκφράζοντας τη θλίψη ολόκληρης της ασπρόμαυρης οικογένειας και τη στήριξη στις οικογένειες των θυμάτων και στους τραυματίες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok1_0.jpg?itok=8BJVT3-e",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: «Ο Μαρτίνες του Βόλου στη λίστα του»",
-          "link": "https://www.gazzetta.gr/football/superleague/2510717/olympiakos-o-martines-toy-boloy-sti-lista-toy",
-          "pubDate": "Tue, 27 Jan 2026 19:41:32 +0200",
-          "description": "Ο Ολυμπιακός ενδιαφέρεται, σύμφωνα με Αργεντινό ρεπόρτερ, για τον Νταβίντ Μαρτίνες του Βόλου, ο οποίος ανήκει στην Ιντεπεντιέντε.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/martines.jpg?itok=AZK2RL-J",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μεντιλίμπαρ για το Άγιαξ – Ολυμπιακός: «Μοναδικός στόχος η νίκη, μεγάλη τιμή η πρόκριση στα νοκ άουτ»",
-          "link": "https://www.newsit.gr/athlitika/mentilimpar-gia-to-agiaks-olympiakos-monadikos-stoxos-i-niki-megali-timi-i-prokrisi-sta-nok-aout/4585024/",
-          "pubDate": "Tue, 27 Jan 2026 17:41:12 +0000",
-          "description": "Ο Ολυμπιακός θα αντιμετωπίσει τον Άγιαξ στο Άμστερνταμ (28/01/26, 22:00) στην τελευταία αγωνιστική του Champions League με μοναδικό στόχο τη νίκη και την πρόκριση στην ...  \nTo άρθρο Μεντιλίμπαρ για το Άγιαξ – Ολυμπιακός: «Μοναδικός στόχος η νίκη, μεγάλη τιμή η πρόκριση στα νοκ άουτ» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mendilibar-5-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Το μήνυμα του Μητσοτάκη για την τραγωδία στη Ρουμανία: «Βαθιά συγκλονισμένος…» – Η πρώτη κίνηση της Κυβέρνησης",
+          "link": "https://panathinaikos24.gr/2026/01/27/617981/to-minyma-tou-mitsotaki-gia-tin-tragodia-sti-roumania-vathia-sygklonismenos-i-proti-kinisi-tis-kyvernisis/",
+          "pubDate": "Tue, 27 Jan 2026 18:56:39 +0000",
+          "description": "Ο Κυριάκος Μητσοτάκης έστειλε το μήνυμά του για την τραγωδία που έλαβε χώρα στη Ρουμανία με θύματα οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2024/04/Mitsotakis-3-scaled-1.jpg?fit=1024%2C614&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Ούτε… 20άδα δεν συμπληρώνει με Ρόμα ο Παναθηναϊκός!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/oute-eikosada-den-sumplhrwnei-me-roma-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=oute-eikosada-den-sumplhrwnei-me-roma-o-panathinaikos",
@@ -1103,14 +1111,6 @@
           "description": "Με προπόνηση στο Telekom Center Athens ξεκίνησε σήμερα η προετοιμασία του Παναθηναϊκού AKTOR ενόψει του εκτός έδρας αγώνα με τη Βιλερμπάν. Με προπόνηση στο Telekom Center Athens ξεκίνησε σήμερα η προετοιμασία του Παναθηναϊκού AKTOR ενόψει του εκτός έδρας αγώνα με τη Βιλερμπάν, σε μια εβδομάδα που κρίνεται κομβική τόσο αγωνιστικά όσο και βαθμολογικά. Συγκεκριμένα, οι […]\nThe post Παναθηναϊκός: Ξεκαθάρισε για Οσμάν – Μήτογλου ενόψει Βιλερμπάν – Θέμα με Ναν – Γιούρτσεβεν! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/10/mitoglou-osman.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Το μήνυμα του Μητσοτάκη για την τραγωδία στη Ρουμανία: «Βαθιά συγκλονισμένος…» – Η πρώτη κίνηση της Κυβέρνησης",
-          "link": "https://panathinaikos24.gr/2026/01/27/617981/to-minyma-tou-mitsotaki-gia-tin-tragodia-sti-roumania-vathia-sygklonismenos-i-proti-kinisi-tis-kyvernisis/",
-          "pubDate": "Tue, 27 Jan 2026 15:56:39 +0000",
-          "description": "Ο Κυριάκος Μητσοτάκης έστειλε το μήνυμά του για την τραγωδία που έλαβε χώρα στη Ρουμανία με θύματα οπαδούς του ΠΑΟΚ.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2024/04/Mitsotakis-3-scaled-1.jpg?fit=1024%2C614&amp;ssl=1",
-          "source": "Panathinaikos24"
         },
         {
           "title": "CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!»",
