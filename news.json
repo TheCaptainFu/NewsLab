@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T04:15:31.040Z",
+  "lastUpdated": "2026-01-27T04:20:27.285Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΕΝΑΟΝ EDA: Ομαλά προχωρούν πλέον οι διαδικασίες για το φυσικό αέριο στη Φλώρινα",
+          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/enaon-eda-omala-proxoroun-pleon-oi-diadikasies-gia-to-fysiko-aerio-sti-florina/4584071/",
+          "pubDate": "Tue, 27 Jan 2026 04:17:00 +0000",
+          "description": "Λεπτομερή στοιχεία σχετικά με τις νέες συνδέσεις φυσικού αερίου στη Φλώρινα παρείχε η ΕΝΑΟΝ EDA, με αφορμή ερώτηση που κατατέθηκε στη Βουλή. Όπως προκύπτει, στις ...  \nTo άρθρο ΕΝΑΟΝ EDA: Ομαλά προχωρούν πλέον οι διαδικασίες για το φυσικό αέριο στη Φλώρινα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/italgas-enaon-logo-ape-mpe-1200x782.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Θεσσαλονίκη: Η στιγμή που έσπασε αγωγός της ΕΥΑΘ και τραυμάτισε 4 εργάτες, τον έναν τον πέταξε στον αέρα",
           "link": "https://www.protothema.gr/greece/article/1763894/thessaloniki-i-stigmi-pou-espase-agogos-tis-euath-kai-traumatise-4-ergates-ton-enan-ton-petaxe-ston-aera/?utm_source=rss",
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 21:57:10 +0000",
           "description": "Viral έγινε το… κοίταγμα του Βενσάν Κασέλ στα πόδια της Κάρλα Μπρούνι στην επίδειξη του γαλλικού οίκου μόδας Schiaparelli. Η στιγμή αποτυπώθηκε σε βίντεο και ...  \nTo άρθρο Το βλέμμα του Βενσάν Κασέλ στην Κάρλα Μπρούνι που έγινε viral δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/carla-bruni-vincent-cassel-26012026.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γη της ελιάς – επόμενο επεισόδιο: Ο Κουράκος στριμώχνει τον Βαγιάκο για να ανακαλύψει αν ήταν το τσιράκι του Δημοσθένη",
-          "link": "https://www.newsit.gr/media/gi-tis-elias-epomeno-epeisodio-o-kourakos-strimoxnei-ton-vagiako-gia-na-anakalypsei-an-itan-to-tsiraki-tou-dimostheni/4583781/",
-          "pubDate": "Mon, 26 Jan 2026 21:57:00 +0000",
-          "description": "Έντονες συγκρούσεις, συγκλονιστικές αποκαλύψεις και ξαφνικές αποφάσεις αλλάζουν τις ισορροπίες στη «Γη της ελιάς». Το παρελθόν επιστρέφει απειλητικό στα επόμενα επεισόδια. Τι θα δούμε στο ...  \nTo άρθρο Γη της ελιάς – επόμενο επεισόδιο: Ο Κουράκος στριμώχνει τον Βαγιάκο για να ανακαλύψει αν ήταν το τσιράκι του Δημοσθένη δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/04/gi_tis_elias-1200x675.jpg",
           "source": "NewsIT"
         }
       ]
