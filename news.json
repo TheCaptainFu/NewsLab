@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T02:00:44.608Z",
+  "lastUpdated": "2026-01-27T02:05:25.045Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Δασμοί Τραμπ – Η Νότια Κορέα θέλει συνομιλίες με τις ΗΠΑ «το συντομότερο δυνατόν»",
+          "link": "https://www.in.gr/2026/01/27/world/dasmoi-tramp-notia-korea-thelei-synomilies-tis-ipa-syntomotero-dynaton/",
+          "pubDate": "Tue, 27 Jan 2026 04:04:20 +0300",
+          "description": "Άμεση η αντίδραση της Νότιας Κορέας καθώς ανακοίνωσε πως θέλει συνομιλίες με τις ΗΠΑ, αναφέροντας πως δεν είχε προειδοποιηθεί από την κυβέρνηση Τραμπ για επικείμενη αύξηση δασμών",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-23T042845Z_1148935396_RC2HVEA9NXGI_RTRMADP_5_COUPANG-DATA-SOUTHKOREA-768x512.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Η ΕΕ… κοπιάρει τους Κινέζους για να γίνει υπερδύναμη",
           "link": "https://www.in.gr/2026/01/27/economy/diethnis-oikonomia/ee-kopiarei-tous-kinezous-gia-na-ginei-yperdynami/",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 00:01:09 +0300",
           "description": "Ισόπαλο με σκορ 1-1 ήρθε το παιχνίδι της Έβερτον – Λιντς στο κλείσιμο της αυλαίας της 23ης αγωνιστικής της Premier League.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_nfrW0XMAAyaJj-768x499.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Συνελήφθη 48χρονος για αρχαιοκαπηλία στον Πειραιά – Είχε στην κατοχή του μαρμάρινη αρχαιότητα του 4ου π.Χ. αιώνα",
-          "link": "https://www.in.gr/2026/01/26/greece/synelifthi-48xronos-gia-arxaiokapilia-ston-peiraia-eixe-stin-katoxi-tou-marmarini-arxaiotita-tou-4ou-p-x-aiona/",
-          "pubDate": "Mon, 26 Jan 2026 23:57:38 +0300",
-          "description": "Μετά από καταγγελία και εισαγγελική παραγγελία έγινε έρευνα στο σπίτι του 48χρονου στον Πειραιά εντοπίστηκε κρυμμένη στο πατάρι μια μαρμάρινη ναόσχημη αναθηματική στήλη",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/marmar_00-768x554.jpg",
           "source": "In.gr"
         }
       ]
