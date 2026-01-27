@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T13:58:11.733Z",
+  "lastUpdated": "2026-01-27T14:00:40.206Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τραγωδία Κραν Μοντανά: Οι ιδιοκτήτες του μπαρ κατηγορούν τη σερβιτόρα με το κράνος για τη φονική πυρκαγιά – «Ήταν το σόου της, της άρεσε»",
+          "link": "https://www.newsit.gr/kosmos/tragodia-kran-montana-oi-idioktites-tou-mpar-katigoroun-ti-servitora-me-to-kranos-gia-ti-foniki-pyrkagia-itan-to-soou-tis-tis-arese/4584799/",
+          "pubDate": "Tue, 27 Jan 2026 13:57:58 +0000",
+          "description": "Να ρίξουν την ευθύνηγια την πολύνεκρη πυρκαγιά στη νεαρή σερβιτόρα, γνωστή πλέον ως το «κορίτσι με το κράνος», που βρέθηκε νεκρή μαζί με ακόμα 39 ...  \nTo άρθρο Τραγωδία Κραν Μοντανά: Οι ιδιοκτήτες του μπαρ κατηγορούν τη σερβιτόρα με το κράνος για τη φονική πυρκαγιά – «Ήταν το σόου της, της άρεσε» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/jacques-and-jessica-moretti-1200x764.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "METLEN: Επεκτείνει το διεθνές της αποτύπωμα με νέα έργα ΑΠΕ και αποθήκευσης ενέργειας",
           "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/metlen-epekteinei-to-diethnes-tis-apotypoma-me-nea-erga-ape-kai-apothikeysis-energeias/4584800/",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 14:37:00 +0200",
           "description": "Συγγενείς, φίλοι και πλήθος κόσμου, με λευκά τριαντάφυλλα, αποχαιρέτησαν τον άτυχο νέo",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/kideia-patra__2_.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "«Όταν οι Παιδικές Κραυγές πνίγονται… Εμείς Δεν Σιωπούμε»: Συνέδριο για την Υπεράσπιση της Παιδικής Αθωότητας",
-          "link": "https://www.protothema.gr/greece/article/1764196/otan-oi-paidikes-krauges-pnigodai-emeis-den-siopoume-sunedrio-gia-tin-uperaspisi-tis-paidikis-athootitas/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 14:36:00 +0200",
-          "description": "Ιδιαίτερη στιγμή του συνεδρίου αποτέλεσε η προβολή ειδικού βίντεο, στο οποίο καταξιωμένοι ηθοποιοί απηύθυναν προσωπικά μηνύματα υπέρ της προστασίας της παιδικής αθωότητας, μεταφέροντας με συγκίνηση και αλήθεια ένα μήνυμα που αγγίζει ολόκληρη την κοινωνία",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/maketa-sunedrio.jpg",
           "source": "Πρώτο Θέμα"
         }
       ]
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Δύο κύματα κακοκαιρίας έρχονται στην Αττική: Πότε θα επηρεαστεί με ισχυρές βροχές και καταιγίδες",
+          "link": "https://www.gazzetta.gr/plus/2510626/dyo-kymata-kakokairias-erhontai-stin-attiki-pote-tha-epireastei-me-ishyres-brohes-kai",
+          "pubDate": "Tue, 27 Jan 2026 15:59:25 +0200",
+          "description": "Για δύο νέα κύματα κακοκαιρίας που θα πλήξουν τη χώρα και μεταξύ άλλων και την Αττική, προειδοποιούν οι μετεωρολόγοι.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vrohi_-_athina_6.jpg?itok=CqorZWV8",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Γιατί το σώμα σου δεν αλλάζει; Τα 5 λάθη που κάνει σχεδόν κάθε άντρας",
           "link": "https://www.gazzetta.gr/plus/2510624/giati-soma-soy-den-allazei-ta-5-lathi-poy-kanei-shedon-kathe-antras",
           "pubDate": "Tue, 27 Jan 2026 15:55:10 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 14:15:15 +0200",
           "description": "Σε ολλανδικό έδαφος πάτησε η αποστολή του Ολυμπιακού ενόψει του σπουδαίου αγώνα κόντρα στον Άγιαξ για την τελευταία αγωνιστική του Champions League. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/apostoli-dala.jpg?itok=7kY4kZt0",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Η βασική εναλλακτική σε περίπτωση αποχώρησης του Γιάρεμτσουκ",
-          "link": "https://www.gazzetta.gr/football/superleague/2510600/olympiakos-i-basiki-enallaktiki-se-periptosi-apohorisis-toy",
-          "pubDate": "Tue, 27 Jan 2026 14:11:51 +0200",
-          "description": "Ο Ρόμαν Γιάρεμτσουκ έχει συλλέξει αρκετό ενδιαφέρον από το εξωτερικό και στον Ολυμπιακό βλέπουν στο πρόσωπο του Κλέιτον της Ρίο Άβε την ιδανική εναλλακτική.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/cleyton.jpg?itok=MKEpwIEk",
           "source": "Gazzetta"
         }
       ]
