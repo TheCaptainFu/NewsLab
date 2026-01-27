@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T15:55:26.024Z",
+  "lastUpdated": "2026-01-27T16:00:39.292Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Μανώλης Μητσιάς: Είμαι οπαδός του ΠΑΟΚ από μικρό παιδί, έχω κάνει ταξίδια με φίλους",
+          "link": "https://www.newsit.gr/ellada/manolis-mitsias-eimai-opados-tou-paok-apo-mikro-paidi-exo-kanei-taksidia-me-filous/4584915/",
+          "pubDate": "Tue, 27 Jan 2026 15:57:43 +0000",
+          "description": "Λίγη ώρα  μετά την πολύνεκρη τραγωδία στη Ρουμανία με τους οπαδούς του ΠΑΟΚ, ο σπουδαίος ερμηνευτής, Μανώλης Μητσιάς, εξέφρασε τη λύπη του για αυτό που ...  \nTo άρθρο Μανώλης Μητσιάς: Είμαι οπαδός του ΠΑΟΚ από μικρό παιδί, έχω κάνει ταξίδια με φίλους δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/manolis-mitsias-ndp-1200x675.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Χρυσοχοΐδης: Πρώτος μας στόχος και για το 2026 είναι η μείωση της μεσαίας εγκληματικότητας",
+          "link": "https://www.protothema.gr/greece/article/1764317/hrusohoidis-protos-mas-stohos-kai-gia-to-2026-einai-i-meiosi-tis-mesaias-eglimatikotitas/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 17:55:00 +0200",
+          "description": "H μεσαία εγκληματικότητα ταλαιπωρεί τους πολίτες τόνισε ο υπουργός Προστασίας του Πολίτη και κάλεσε τα στελέχη της ΕΛ.ΑΣ να παραμείνουν σε εγρήγορση, για ακόμη μεγαλύτερη αποτελεσματικότητα στο έργο τους",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/31199140.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Βιολάντα: «Οι 5 συναδέλφισσές μας ήταν 50 μέτρα μακριά μας» λέει διασωθείσα εργάτρια – «Πεταχτήκαμε κάτω από την έκρηξη»",
           "link": "https://www.newsit.gr/ellada/violanta-oi-5-synadelfisses-mas-itan-50-metra-makria-mas-leei-diasotheisa-ergatria-petaxtikame-kato-apo-tin-ekriksi/4584908/",
@@ -145,10 +161,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Οι τραγωδίες του ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας",
-          "link": "https://www.newsit.gr/athlitika/oi-tragodies-tou-paok-apo-ta-tempi-sti-roumania-oi-tragikes-apoleies-tis-aspromayris-oikogeneias/4584849/",
+          "title": "Οι τραγωδίες που σημάδευσαν τον ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας",
+          "link": "https://www.newsit.gr/athlitika/oi-tragodies-pou-simadeysan-ton-paok-apo-ta-tempi-sti-roumania-oi-tragikes-apoleies-tis-aspromayris-oikogeneias/4584849/",
           "pubDate": "Tue, 27 Jan 2026 15:20:03 +0000",
-          "description": "Το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία έχει συγκλονίσει όλη την Ελλάδα και επανέφερε στις μνήμες όλων το τροχαίο στα Τέμπη το ...  \nTo άρθρο Οι τραγωδίες του ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας δημοσιεύτηκε στο NewsIT .",
+          "description": "Το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία έχει συγκλονίσει όλη την Ελλάδα και επανέφερε στις μνήμες όλων το τροχαίο στα Τέμπη το ...  \nTo άρθρο Οι τραγωδίες που σημάδευσαν τον ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-tempi-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -217,35 +233,19 @@
           "source": "NewsIT"
         },
         {
-          "title": "Κυριάκος Μητσοτάκης για το τροχαίο στη Ρουμανία με τους οπαδούς του ΠΑΟΚ: Βαθιά συγκλονισμένος, ειλικρινή συλλυπητήρια στους συγγενείς των θυμάτων",
-          "link": "https://www.newsit.gr/politikh/kyriakos-mitsotakis-gia-to-troxaio-sti-roumania-me-tous-opadous-tou-paok-vathia-sygklonismenos-eilikrini-syllypitiria-stous-syggeneis-ton-thymaton/4584866/",
-          "pubDate": "Tue, 27 Jan 2026 14:54:42 +0000",
-          "description": "Βαθιά συγκλονισμένος δηλώνει ο πρωθυπουργός Κυριάκος Μητσοτάκης για το τροχαίο δυστύχημα με τους 7 νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία το μεσημέρι της Τρίτης (27.1.26). ...  \nTo άρθρο Κυριάκος Μητσοτάκης για το τροχαίο στη Ρουμανία με τους οπαδούς του ΠΑΟΚ: Βαθιά συγκλονισμένος, ειλικρινή συλλυπητήρια στους συγγενείς των θυμάτων δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paoktzides-1200x686.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "UEFA: Απέρριψε αίτημα του ΠΑΟΚ για αναβολή του ματς με την Λιόν",
-          "link": "https://www.in.gr/2026/01/27/sports/football/uefa-aperripse-aitima-tou-paok-gia-anavoli-tou-mats-tin-lion/",
-          "pubDate": "Tue, 27 Jan 2026 17:53:10 +0300",
-          "description": "Αρνητική απάντηση είναι η απάντηση της UEFA για αναβολή του ματς της Πέμπτης (29/1) με τη Λιόν, λόγω του τραγικού δυστυχημάτος στη Ρουμανία",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/uefa.jpg",
+          "title": "Δημοσκόπηση: «Ταβάνι» στο 27% για Μητσοτάκη – «Δεν είναι έτοιμη η Καρυστιανού για την πολιτική»",
+          "link": "https://www.in.gr/2026/01/27/politics/politiki-grammateia/dimoskopisi-tavani-sto-27-gia-mitsotaki-den-einai-etoimi-karystianou-gia-tin-politiki/",
+          "pubDate": "Tue, 27 Jan 2026 17:59:39 +0300",
+          "description": "Με τον «Κανένα» κονταροχτυπιέτσι ο Μητσοτάκης στην αξιοπιστία, στη δημοσκόπηση - «Όχι έτοιμη ακόμη η Μαρία Καρυστιανού για την πολιτική», λένε επτά στους 10 πολίτες",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_180287291--768x768.jpg",
           "source": "In.gr"
         },
         {
-          "title": "Survivor: Στο αποψινό συμβούλιο του νησιού θα ολοκληρωθεί η λίστα των υποψήφιων προς αποχώρηση",
-          "link": "https://www.newsit.gr/media/survivor-sto-apopsino-symvoulio-tou-nisiou-tha-oloklirothei-i-lista-ton-ypopsifion-pros-apoxorisi/4584864/",
-          "pubDate": "Tue, 27 Jan 2026 14:52:36 +0000",
-          "description": "Στο «Survivor» η χθεσινή υποψηφιότητα της Φανής Παντελάκη έδειξε ξεκάθαρα τις προθέσεις των Επαρχιωτών απέναντί της. Οι Επαρχιώτες βρίσκονται πλέον σε αναβρασμό και οι ανθρώπινες ...  \nTo άρθρο Survivor: Στο αποψινό συμβούλιο του νησιού θα ολοκληρωθεί η λίστα των υποψήφιων προς αποχώρηση δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/survivor11-1-1200x736.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τρίκαλα: Τα σενάρια για τα αίτια της έκρηξης στη «Βιολάντα» και τα αναπάντητα «γιατί» – Νέο βίντεο ντοκουμέντο",
-          "link": "https://www.in.gr/2026/01/27/greece/trikala-ta-senaria-gia-ta-aitia-tis-ekriksis-sti-violanta-kai-ta-anapantita-giati-neo-vinteo-ntokoumento/",
-          "pubDate": "Tue, 27 Jan 2026 17:51:12 +0300",
-          "description": "Το μεγάλο ερώτημα είναι πώς έγινε τόσο μεγάλη έκρηξη - Από τη φωτιά αναπτύχθηκε θερμοκρασία πάνω από 1.000 βαθμοί στο εργοστάσιο - Είναι ενδεικτικό ότι έλιωσε ο χάλυβας.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/violanta_ekr-768x480.jpg",
+          "title": "Νέα Αριστερά: Ποινικός λαϊκισμός Φλωρίδη για την πατροκτονία στη Γλυφάδα",
+          "link": "https://www.in.gr/2026/01/27/politics/epikairotita/nea-aristera-poinikos-laikismos-floridi-gia-tin-patroktonia-sti-glyfada/",
+          "pubDate": "Tue, 27 Jan 2026 17:56:07 +0300",
+          "description": "«Κατά τον κύριο Φλωρίδη, το αν ο δράστης επί 8 χρόνια είχε ή δεν είχε κατάλληλη ψυχιατρική υποστήριξη δεν ασκεί καμία ουσιαστική επιρροή στο έγκλημα που διαπράχθηκε», σημειώνει η Νέα Αριστερά",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6824355-1-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η ενημέρωση από τον Αδωνι Γεωργιάδη για τους τρεις τραυματίες",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510684/paok-dystyhima-sti-roymania-i-enimerosi-apo-ton-adoni-georgiadi-gia",
+          "pubDate": "Tue, 27 Jan 2026 17:58:00 +0200",
+          "description": "Νεότερα για τους τρεις τραυματίες οπαδούς του ΠΑΟΚ στο θανατηφόρο τροχαίο στη Ρουμανία έδωσε ο υπουργός Υγείας, Άδωνις Γεωργιάδης.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2025-12/geordiadis-adonis.jpg%2520%25281%2529.png?itok=pfJjqmYc",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η ΚΑΕ Ολυμπιακός εξέδωσε ανακοίνωση",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510683/paok-dystyhima-sti-roymania-i-kae-olympiakos-exedose-anakoinosi",
+          "pubDate": "Tue, 27 Jan 2026 17:56:57 +0200",
+          "description": "Η ΚΑΕ Ολυμπιακός εξέφρασε και εκείνη την οδύνη της και τα ειλικρινή της συλλυπητήρια στις οικογένειες και στους ανθρώπους των φιλάθλων του ΠΑΟΚ που έχασαν τη ζωή τους σε τραγικό αυτοκινητιστικό δυστύχημα",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dark-logo-site-52a3879b-60b59167.jpeg?itok=riBWFa2e",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Δυστύχημα στη Ρουμανία: Ο χάρτης της μοιραίας διαδρομής του βαν με τους οπαδούς του ΠΑΟΚ",
+          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
+          "pubDate": "Tue, 27 Jan 2026 17:56:00 +0200",
+          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/roymania.png.png?itok=oLNO09gM",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΑΣ ΠΑΟΚ: «Ανείπωτη οδύνη, θα σταθούμε δίπλα στις οικογένειες των θυμάτων»",
           "link": "https://www.gazzetta.gr/football/europa-league/2510681/paok-aneipoti-odyni-tha-stathoyme-dipla-stis-oikogeneies-ton",
           "pubDate": "Tue, 27 Jan 2026 17:53:21 +0200",
@@ -923,10 +947,10 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Οι τραγωδίες του ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας",
-          "link": "https://www.newsit.gr/athlitika/oi-tragodies-tou-paok-apo-ta-tempi-sti-roumania-oi-tragikes-apoleies-tis-aspromayris-oikogeneias/4584849/",
+          "title": "Οι τραγωδίες που σημάδευσαν τον ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας",
+          "link": "https://www.newsit.gr/athlitika/oi-tragodies-pou-simadeysan-ton-paok-apo-ta-tempi-sti-roumania-oi-tragikes-apoleies-tis-aspromayris-oikogeneias/4584849/",
           "pubDate": "Tue, 27 Jan 2026 15:20:03 +0000",
-          "description": "Το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία έχει συγκλονίσει όλη την Ελλάδα και επανέφερε στις μνήμες όλων το τροχαίο στα Τέμπη το ...  \nTo άρθρο Οι τραγωδίες του ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας δημοσιεύτηκε στο NewsIT .",
+          "description": "Το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία έχει συγκλονίσει όλη την Ελλάδα και επανέφερε στις μνήμες όλων το τροχαίο στα Τέμπη το ...  \nTo άρθρο Οι τραγωδίες που σημάδευσαν τον ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-tempi-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -961,30 +985,6 @@
           "description": "Οι οδηγοί της Formula 1 μοιράστηκαν τις πρώτες τους εντυπώσεις για το πώς είναι οδήγηση της νέας γενιάς μονοθεσίων.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/m560543.jpg?itok=mxpowlAV",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: «Καλό ταξίδι Αετόπουλα», οι αναρτήσεις Παναθηναϊκού ΑΟ, Ερασιτεχνικής ΑΕΚ και Πανιωνίου",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510657/panathinaikos-ao-kalo-taxidi-aetopoyla-panionios-eilikrini",
-          "pubDate": "Tue, 27 Jan 2026 17:12:15 +0200",
-          "description": "Ο Ερασιτέχνης Παναθηναϊκός, η Ερασιτεχνική ΑΕΚ και ο Πανιώνιος αναφέρθηκαν στο τραγικό δυστύχημα στην Ρουμανία εκφράζοντας τα συλλυπητήριά τους για τον χαμό των 7 φίλων του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_troxaio_3_1.jpg?itok=8jUtxpFI",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Σοκαρισμένος ο Γιάννης Βρούτσης",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510655/paok-dystyhima-sti-roymania-sokarismenos-o-giannis-broytsis",
-          "pubDate": "Tue, 27 Jan 2026 17:09:08 +0200",
-          "description": "Ο Υπουργός Αθλητισμού, Γιάννης Βρούτσης, πληροφορήθηκε σοκαρισμένος το τραγικό γεγονός, με το δυστύχημα των φιλάθλων του ΠΑΟΚ, καθώς βρισκόταν καθ’ οδόν για την Πάτρα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/broutsis_1_5.jpg?itok=sGOtojJv",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: To μήνυμα του Κυριάκου Μητσοτάκη",
-          "link": "https://www.gazzetta.gr/plus/2510654/paok-dystyhima-sti-roymania-minyma-toy-kyriakoy-mitsotaki",
-          "pubDate": "Tue, 27 Jan 2026 17:06:19 +0200",
-          "description": "Τη θλίψη του για το τραγικό δυστύχημα στη Ρουμανία, με θύματα 7 οπαδούς του ΠΑΟΚ, εξέφρασε ο Κυριάκος Μητσοτάκης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mitsotakis.jpg?itok=QNBE5LTW",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,30 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Τα νεότερα για Οσμάν, Μήτογλου, Ναν και Γιούρτσεβεν με Βιλερμπάν!",
+          "link": "https://trifilara.gr/panathinaikos-ta-neotera-gia-osman-mitoglou-nan-kai-giourtseven-me-vilerban/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ta-neotera-gia-osman-mitoglou-nan-kai-giourtseven-me-vilerban",
+          "pubDate": "Tue, 27 Jan 2026 16:00:04 +0000",
+          "description": "Με προπόνηση στο Telekom Center Athens ξεκίνησε σήμερα η προετοιμασία του Παναθηναϊκού AKTOR ενόψει της εκτός έδρας αναμέτρησης με τη Βιλερμπάν για τη συνέχεια της Euroleague, με το ιατρικό δελτίο να παρουσιάζει μικρές αλλά ουσιαστικές εξελίξεις.\nThe post Παναθηναϊκός: Τα νεότερα για Οσμάν, Μήτογλου, Ναν και Γιούρτσεβεν με Βιλερμπάν! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Παναθηναϊκός: Ξεκαθάρισε για Οσμάν – Μήτογλου ενόψει Βιλερμπάν – Θέμα με Ναν – Γιούρτσεβεν!",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-xekatharise-gia-osman-mi/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-xekatharise-gia-osman-mi",
+          "pubDate": "Tue, 27 Jan 2026 15:57:23 +0000",
+          "description": "Με προπόνηση στο Telekom Center Athens ξεκίνησε σήμερα η προετοιμασία του Παναθηναϊκού AKTOR ενόψει του εκτός έδρας αγώνα με τη Βιλερμπάν. Με προπόνηση στο Telekom Center Athens ξεκίνησε σήμερα η προετοιμασία του Παναθηναϊκού AKTOR ενόψει του εκτός έδρας αγώνα με τη Βιλερμπάν, σε μια εβδομάδα που κρίνεται κομβική τόσο αγωνιστικά όσο και βαθμολογικά. Συγκεκριμένα, οι […]\nThe post Παναθηναϊκός: Ξεκαθάρισε για Οσμάν – Μήτογλου ενόψει Βιλερμπάν – Θέμα με Ναν – Γιούρτσεβεν! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/10/mitoglou-osman.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Το μήνυμα του Μητσοτάκη για την τραγωδία στη Ρουμανία: «Βαθιά συγκλονισμένος…» – Η πρώτη κίνηση της Κυβέρνησης",
+          "link": "https://panathinaikos24.gr/2026/01/27/617981/to-minyma-tou-mitsotaki-gia-tin-tragodia-sti-roumania-vathia-sygklonismenos-i-proti-kinisi-tis-kyvernisis/",
+          "pubDate": "Tue, 27 Jan 2026 15:56:39 +0000",
+          "description": "Ο Κυριάκος Μητσοτάκης έστειλε το μήνυμά του για την τραγωδία που έλαβε χώρα στη Ρουμανία με θύματα οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2024/04/Mitsotakis-3-scaled-1.jpg?fit=1024%2C614&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!»",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/ceo-maccabi-tel-aviv-o-ataman-einai-provokatoras/?utm_source=rss&utm_medium=rss&utm_campaign=ceo-maccabi-tel-aviv-o-ataman-einai-provokatoras",
@@ -1206,30 +1230,6 @@
           "pubDate": "Tue, 27 Jan 2026 11:28:59 +0000",
           "description": "Έντονη αναστάτωση επικρατεί στον Παναθηναϊκό, καθώς μετά την απόφαση να μην προχωρήσει η υπόθεση του Άλεξ Κραλ, όλα δείχνουν πως μπαίνει «στον πάγο» και η μεταγραφή του Σαμουκέλε Καμπίνι. Έντονη αναστάτωση επικρατεί στον Παναθηναϊκό, καθώς μετά την απόφαση να μην προχωρήσει η υπόθεση του Άλεξ Κραλ, όλα δείχνουν πως μπαίνει «στον πάγο» και η μεταγραφή […]\nThe post Έτοιμος να ακυρώσει και τη μεταγραφή Καμπίνι ο Παναθηναϊκός! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/kabini-cover.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Επίσημο: Παρελθόν ο Φικάι από τον Παναθηναϊκό! – Ο όρος στη μεταγραφή",
-          "link": "https://trifilara.gr/episimo-parelthon-o-fikai-apo-ton-panathinaiko-o-oros-sti-metagrafi/?utm_source=rss&utm_medium=rss&utm_campaign=episimo-parelthon-o-fikai-apo-ton-panathinaiko-o-oros-sti-metagrafi",
-          "pubDate": "Tue, 27 Jan 2026 11:17:27 +0000",
-          "description": "Παρελθόν και επίσημα αποτελεί ο Έλτον Φικάι από τον Παναθηναϊκό.\nThe post Επίσημο: Παρελθόν ο Φικάι από τον Παναθηναϊκό! – Ο όρος στη μεταγραφή appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Επίσημο το «διαζύγιο» με Φικάι – Διατηρεί ποσοστό μεταπώλησης ο Παναθηναϊκός",
-          "link": "https://panathinaikos24.gr/2026/01/27/617916/episimo-to-diazygio-me-fikai/",
-          "pubDate": "Tue, 27 Jan 2026 11:17:00 +0000",
-          "description": "Η ΠΑΕ Παναθηναϊκός ευχαρίστησε τον Έλτον Φικάι, ο οποίος συνεχίζει την καριέρα του στην πολωνική Πιάστ Γκλίβιτσε.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/thank-you-fikaj-web-copy-1024x683-1.jpg?fit=1024%2C683&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Παναθηναϊκός: Τέλος και επίσημα ο Φικάι! – Η επόμενη ομάδα του και ο όρος – κλειδί (pic)",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-telos-kai-episima-o-fika/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-telos-kai-episima-o-fika",
-          "pubDate": "Tue, 27 Jan 2026 11:14:49 +0000",
-          "description": "Με ανακοίνωση που εξέδωσε, η ΠΑΕ Παναθηναϊκός επισημοποίησε την παραχώρηση του Έλτον Φικάι. Όπως επισημαίνεται από την ΠΑΕ, οι «πράσινοι» διατήρησαν ποσοστό μεταπώλησης, καθώς ο παίκτης παραχωρήθηκε άνευ αντιτίμου. Αναλυτικά η ανακοίνωση: H ΠΑΕ Παναθηναϊκός ανακοινώνει την παραχώρηση του Έλτον Φικάι στην πολωνική Πιάστ Γκλίβιτσε. Ο Έλτον εντάχθηκε στις ακαδημίες του συλλόγου το 2018 και […]\nThe post Παναθηναϊκός: Τέλος και επίσημα ο Φικάι! – Η επόμενη ομάδα του και ο όρος – κλειδί (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2024/07/Fikaj.jpg",
           "source": "Όλα Πράσινα"
         }
       ]
