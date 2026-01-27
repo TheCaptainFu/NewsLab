@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T07:35:23.869Z",
+  "lastUpdated": "2026-01-27T07:40:32.904Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,46 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Από την αβεβαιότητα στον έλεγχο: Πώς η ορατότητα κρατά το ψηφιακό ρίσκο… Under Control",
+          "link": "https://www.protothema.gr/greece/article/1763421/apo-tin-avevaiotita-ston-elegho-pos-i-oratotita-krata-to-psifiako-risko-under-control/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 09:40:02 +0200",
+          "description": "H κυβερνοασφάλεια εντάσσεται στο πεδίο της διαχείρισης ρίσκου, της επιχειρησιακής συνέχειας και της θεσμικής ευθύνης σε επίπεδο αποφάσεων.",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/main_odyssey_underctrl__1_.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Εντοπίστηκε η πέμπτη σορός από τη φωτιά στο εργοστάσιο Βιολάντα",
+          "link": "https://www.protothema.gr/greece/article/1763982/edopistike-i-pebti-soros-apo-ti-fotia-sto-ergostasio-violada/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 09:37:42 +0200",
+          "description": "",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpeg/files/2024-12-11/xrvma_ektakth_epikairothta_1012242.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Video: Η Κυβέρνηση φέρνει και τα ναρκοτέστ",
+          "link": "https://www.protothema.gr/greece/article/1763981/video-i-kuvernisi-fernei-kai-ta-narkotest/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 09:35:08 +0200",
+          "description": "Σύμφωνα με τις πληροφορίες του newsauto, η εφαρμογή ναρκοτέστ στους ελέγχους της Τροχαίας δεν βρίσκεται πλέον στο επίπεδο της συζήτησης ή των σεναρίων.",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-27/narcotest_alkotest_shutterstock_2610767169.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Αγγελική Κανελλοπούλου: «Τα παιδιά είναι χαρούμενα» δηλώνει για την Μαρία Σάκκαρη και τον Κωνσταντίνο Μητσοτάκη που ετοιμάζονται να παντρευτούν",
+          "link": "https://www.newsit.gr/lifestyle/aggeliki-kanellopoulou-ta-paidia-einai-xaroumena-dilonei-gia-tin-maria-sakkari-kai-ton-konstantino-mitsotaki-pou-etoimazontai-na-pantreytoun/4584395/",
+          "pubDate": "Tue, 27 Jan 2026 07:35:05 +0000",
+          "description": "Η Αγγελική Κανελλοπούλου παραχώρησε δηλώσεις στην κάμερα της εκπομπής «Happy Day» και μίλησε για τον γάμο της κόρης της, που βρίσκεται προ των πυλών. Όπως ...  \nTo άρθρο Αγγελική Κανελλοπούλου: «Τα παιδιά είναι χαρούμενα» δηλώνει για την Μαρία Σάκκαρη και τον Κωνσταντίνο Μητσοτάκη που ετοιμάζονται να παντρευτούν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kanellopoulou-ndp-1200x911.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία στη βιομηχανία Βιολάντα: Βρέθηκε και η 5η σορός εργαζομένης",
+          "link": "https://www.newsit.gr/ellada/tragodia-sti-viomixania-violanta-vrethike-kai-i-5i-soros-ergazomenis/4584384/",
+          "pubDate": "Tue, 27 Jan 2026 07:34:40 +0000",
+          "description": "Βρέθηκε η σορός και της 5ης αγνοούμενης γυναίκας, που εργαζόταν στο εργοστάσιο της Βιολάντα στα Τρίκαλα, τη στιγμή της ισχυρής έκρηξης που προκάλεσε και τη ...  \nTo άρθρο Τραγωδία στη βιομηχανία Βιολάντα: Βρέθηκε και η 5η σορός εργαζομένης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-r-17-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Θοδωρής Βλάχος: «Επόμενος στόχος το χρυσό μετάλλιο σε μια μεγάλη διοργάνωση»",
           "link": "https://www.newsit.gr/athlitika/thodoris-vlaxos-epomenos-stoxos-to-xryso-metallio-se-mia-megali-diorganosi/4584392/",
@@ -129,6 +169,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Ο Ιωαννίδης ξεπέρασε τον τραυματισμό του και επιστρέφει",
+          "link": "https://www.in.gr/2026/01/27/sports/football/o-ioannidis-kseperase-ton-traymatismo-tou-kai-epistrefei/",
+          "pubDate": "Tue, 27 Jan 2026 09:39:10 +0300",
+          "description": "Έτοιμος για την επιστροφή του στη δράση με τη Σπόρτινγκ Λισαβόνας είναι ο Φώτης Ιωαννίδης ο οποίος ξεέρασε τον πρόσφατο τραυματισμό του.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ioannidis-27126-768x478.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Το Μέγαρο Μαξίμου αναζητά 200 ψήφους ώστε οι αλλαγές για τους απόδημους να ισχύσουν το 2027 – Σε ποια κόμματα «ποντάρει»",
           "link": "https://www.newsit.gr/politikh/to-megaro-maksimou-anazita-200-psifous-oste-oi-allages-gia-tous-apodimous-na-isxysoun-to-2027-se-poia-kommata-pontarei/4584347/",
           "pubDate": "Tue, 27 Jan 2026 06:34:21 +0000",
@@ -199,54 +247,6 @@
           "description": "Η Έλενα, η Βασιλική, η Βούλα, η Αναστασία και η Αγάπη έχασαν τη ζωή τους με τραγικό τρόπο",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/ergostasio_ginaikes_xrm2.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Γιάννης Αντετοκούνμπο: «Έπαιξε το τελευταίο του παιχνίδι με τους Μπακς, έφτασε κοντά στο να απολύσει τον ατζέντη του», αναφέρουν οι Αμερικανοί",
-          "link": "https://www.newsit.gr/athlitika/giannis-antetokounmpo-epaikse-to-teleytaio-tou-paixnidi-me-tous-mpaks-eftase-konta-sto-na-apolysei-ton-atzenti-tou-anaferoun-oi-amerikanoi/4584340/",
-          "pubDate": "Tue, 27 Jan 2026 06:15:14 +0000",
-          "description": "Τα σενάρια για το μέλλον του Γιάννη Αντετοκούνμπο έχουν φουντώσει για τα καλά στις ΗΠΑ, λίγες μέρες πριν εκπνεύσει η προθεσμία για ανταλλαγές στο ΝΒΑ ...  \nTo άρθρο Γιάννης Αντετοκούνμπο: «Έπαιξε το τελευταίο του παιχνίδι με τους Μπακς, έφτασε κοντά στο να απολύσει τον ατζέντη του», αναφέρουν οι Αμερικανοί δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/antetokounmpo-6-1200x675.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Βιολάντα: Θρηνούμε 5 δικούς μας ανθρώπους, άμεση οικονομική βοήθεια στις οικογένειες – «Εφαρμόζουμε αυστηρά πρωτόκολλα ασφαλείας»",
-          "link": "https://www.newsit.gr/ellada/violanta-thrinoume-5-dikous-mas-anthropous-amesi-oikonomiki-voitheia-stis-oikogeneies-efarmozoume-aystira-protokolla-asfaleias/4584339/",
-          "pubDate": "Tue, 27 Jan 2026 06:08:55 +0000",
-          "description": "Νέα ανακοίνωση έβγαλε σήμερα (27.01.2026) η βιομηχανία «Βιολάντα» για το τραγικό δυστύχημα με τις 5 νεκρές εργαζόμενες που προκλήθηκε από την έκρηξη στις εγκαταστάσεις στα ...  \nTo άρθρο Βιολάντα: Θρηνούμε 5 δικούς μας ανθρώπους, άμεση οικονομική βοήθεια στις οικογένειες – «Εφαρμόζουμε αυστηρά πρωτόκολλα ασφαλείας» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta2-reuters-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γιατί κάποια πολυτελή ακίνητα πωλούνται και άλλα μένουν στα αζήτητα",
-          "link": "https://www.newsit.gr/oikonomia/finance/giati-kapoia-polyteli-akinita-polountai-kai-alla-menoun-sta-azitita/4584333/",
-          "pubDate": "Tue, 27 Jan 2026 06:05:14 +0000",
-          "description": "Η αγορά πολυτελών ακινήτων τα τελευταία χρόνια παρουσιάζει σταθερή κινητικότητα, με συναλλαγές να καταγράφονται κυρίως σε περιοχές υψηλής ζήτησης, όπως η Αθηναϊκή Ριβιέρα και τα ...  \nTo άρθρο Γιατί κάποια πολυτελή ακίνητα πωλούνται και άλλα μένουν στα αζήτητα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/premium-akinita-ape-mpe.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γιώργος Καρατζαφέρης για τον θάνατο του Σπύρου Καρατζαφέρη: «Αν δεν ήταν ο αδελφός μου, δεν θα γινόμουν αυτό που έγινα»",
-          "link": "https://www.newsit.gr/ellada/giorgos-karatzaferis-gia-ton-thanato-tou-spyrou-karatzaferi-an-den-itan-o-adelfos-mou-den-tha-ginomoun-ayto-pou-egina/4584334/",
-          "pubDate": "Tue, 27 Jan 2026 06:03:23 +0000",
-          "description": "Βαθιά συγκινημένος έκανε την πρώτη του δημόσια τοποθέτηση για τον θάνατο του αδελφού του, Σπύρου Καρατζαφέρη, ο Γιώργος Καρατζαφέρης. Ο πρώην πρόεδρος του ΛΑ.Ο.Σ. μίλησε ...  \nTo άρθρο Γιώργος Καρατζαφέρης για τον θάνατο του Σπύρου Καρατζαφέρη: «Αν δεν ήταν ο αδελφός μου, δεν θα γινόμουν αυτό που έγινα» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giwrgos-karatzaferis-eurok-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συντάξεις – επιδόματα: Από σήμερα οι πληρωμές  – Ποιοι θα δουν χρήματα στους λογαριασμούς τους",
-          "link": "https://www.in.gr/2026/01/27/economy/oikonomikes-eidiseis/syntakseis-epidomata-apo-simera-oi-pliromes-poioi-tha-doun-xrimata-stous-logariasmous-tous/",
-          "pubDate": "Tue, 27 Jan 2026 09:02:58 +0300",
-          "description": "Όλες οι ημερομηνίες πληρωμών και οι δικαιούχοι",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EV_ATM_TRAPEZES_PERIORISMOS_ANALHPSHS9-1200x800-1-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τα δεδομένα για Γιαμπουσέλε – Τι γράφουν στις ΗΠΑ για το μέλλον του…",
-          "link": "https://www.in.gr/2026/01/27/sports/basketball/euroleague/ta-dedomena-gia-giampousele-ti-grafoun-stis-ipa-gia-mellon-tou/",
-          "pubDate": "Tue, 27 Jan 2026 09:01:02 +0300",
-          "description": "Ο Γκέρσον Γιαμπουσέλε μετράει αντίστροφα για να αποχωρήσει από τους Νικς και όλα δείχνουν ότι υπάρχει ένα μεγάλο φαβορί για να τον αποκτήσει – Όλα τα δεδομένα για τον Γάλλο φόργουορντ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/USATSI_27349017_168397841_lowres-2-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -593,7 +593,7 @@
           "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 04:39:24 GMT",
           "description": "He has been described as an avid outdoorsman who loved mountain biking.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1751/live/9fd14180-f9ea-11f0-811c-ad0579c12ce2.jpg",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/fc00db50-fb52-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
         },
         {
@@ -753,6 +753,14 @@
           "description": "Σήμερα αναμένεται να ξεκινήσει η απομάκρυνση τμημάτων των εγκαταστάσεων που κατέρρευσαν, ώστε να εντοπιστούν κρίσιμα στοιχεία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/biolanta-trikala.jpg?itok=1VMi_Kz4",
           "source": "Gazzetta"
+        },
+        {
+          "title": "Θοδωρής Βλάχος: «Επόμενος στόχος το χρυσό μετάλλιο σε μια μεγάλη διοργάνωση»",
+          "link": "https://www.newsit.gr/athlitika/thodoris-vlaxos-epomenos-stoxos-to-xryso-metallio-se-mia-megali-diorganosi/4584392/",
+          "pubDate": "Tue, 27 Jan 2026 07:33:42 +0000",
+          "description": "Ο Θοδωρής Βλάχος έθεσε τον επόμενο μεγάλο στόχο της πλέον επιτυχημένης εθνικής ομάδας πόλο των ανδρών. Η Εθνική πόλο των ανδρών έγραψε ιστορία στο ευρωπαϊκό ...  \nTo άρθρο Θοδωρής Βλάχος: «Επόμενος στόχος το χρυσό μετάλλιο σε μια μεγάλη διοργάνωση» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vlachos-2-1200x800.jpg",
+          "source": "NewsIT"
         },
         {
           "title": "Παναθηναϊκός: «Πάγωσε» του Καμπίνι, κοιτάζει άλλη περίπτωση το «τριφύλλι»",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 07:58:00 +0200",
           "description": "Με τον Ντόνοβαν Μίτσελ να παίρνει... φωτιά, οι Κλίβελαντ Καβαλίερς επικράτησαν των Ορλάντο Μάτζικ εντός έδρας με 114-98.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mitchell_getty_1.jpg?itok=xiQOfpMf",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παρί Σεν Ζερμέν, μεταγραφές: Δικός της ο Ντρο Φερνάντεθ έως το 2030",
-          "link": "https://www.gazzetta.gr/football/ligue-1/2510509/pari-sen-zermen-metagrafes-dikos-tis-o-ntro-fernanteth-eos-2030",
-          "pubDate": "Tue, 27 Jan 2026 07:57:44 +0200",
-          "description": "Η πρωταθλήτρια Ευρώπης γνωστοποίησε την απόκτηση του 18χρονου ταλέντου από την Μπαρτσελόνα, έως το 2030.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dro_psg.jpg?itok=Yx_bk7e0",
           "source": "Gazzetta"
         }
       ]
