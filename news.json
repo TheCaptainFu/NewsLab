@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T04:00:36.098Z",
+  "lastUpdated": "2026-01-27T04:05:28.186Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,12 +9,108 @@
       "color": "red",
       "articles": [
         {
+          "title": "Θεσσαλονίκη: Η στιγμή που έσπασε αγωγός της ΕΥΑΘ και τραυμάτισε 4 εργάτες, τον έναν τον πέταξε στον αέρα",
+          "link": "https://www.protothema.gr/greece/article/1763894/thessaloniki-i-stigmi-pou-espase-agogos-tis-euath-kai-traumatise-4-ergates-ton-enan-ton-petaxe-ston-aera/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 06:04:00 +0200",
+          "description": "Ο υπάλληλος που εκτοξεύτηκε στον αέρα μεταφέρθηκε στο νοσοκομείο με κάταγμα στο πόδι",
+          "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-27/eyath.png",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Γόνατο: Και τα φλατ παπούτσια μεταβάλλουν την ευθυγράμμιση, αλλά με διαφορετικό τρόπο σε σχέση με τα ψηλοτάκουνα",
+          "link": "https://www.newsit.gr/ygeia/gonato-kai-ta-flat-papoutsia-metavalloun-tin-eythygrammisi-alla-me-diaforetiko-tropo-se-sxesi-me-ta-psilotakouna/4583968/",
+          "pubDate": "Tue, 27 Jan 2026 04:00:00 +0000",
+          "description": "Στον κόσμο της μόδας όσο πιο εκκεντρικό είναι ένα παπούτσι τόσο το καλύτερο. Τα τελευταία χρόνια οι σχεδιαστές λανσάρουν υβριδικές δημιουργίες που συνδυάζουν διαφορετικά στυλ, ...  \nTo άρθρο Γόνατο: Και τα φλατ παπούτσια μεταβάλλουν την ευθυγράμμιση, αλλά με διαφορετικό τρόπο σε σχέση με τα ψηλοτάκουνα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1790894057.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Καιρός σήμερα: Ισχυρά φαινόμενα σε πολλές περιοχές της χώρας μέχρι το απόγευμα – Θυελλώδεις άνεμοι στο Αιγαίο",
           "link": "https://www.newsit.gr/ellada/kairos-simera-isxyra-fainomena-se-polles-perioxes-tis-xoras-mexri-to-apogeyma-thyellodeis-anemoi-sto-aigaio/4583897/",
           "pubDate": "Tue, 27 Jan 2026 03:05:00 +0000",
           "description": "Βροχές και καταιγίδες θα συνεχίσουν να «βασανίζουν» τη χώρα μας και σήμερα (27/1/2026), σύμφωνα με την ΕΜΥ, αφού τα έντονα φαινόμενα θα επικρατούν μέχρι και ...  \nTo άρθρο Καιρός σήμερα: Ισχυρά φαινόμενα σε πολλές περιοχές της χώρας μέχρι το απόγευμα – Θυελλώδεις άνεμοι στο Αιγαίο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos-93-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Παραιτήσεις στην Πινακοθήκη του Οντάριο μετά την απόρριψη έργου της Ναν Γκόλντιν λόγω κατηγοριών περί «αντισημιτισμού»",
+          "link": "https://www.in.gr/2026/01/27/life/texni/paraitiseis-stin-pinakothiki-tou-ontario-meta-tin-aporripsi-ergou-tis-nan-gkolntin-logo-katigorion-peri-antisimitismou/",
+          "pubDate": "Tue, 27 Jan 2026 06:02:30 +0300",
+          "description": "Η Ναν Γκόλτιν δήλωσε μεταξύ άλλων για το γεγονός πως είναι «τρελό» το ότι συνεχίζει να συγχέεται ο αντισιωνισμός με τον αντισημιτισμό",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Nan_Goldin_Berlin_2023-2-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Η επιστήμη ξέρει αν η εκδίκηση είναι «ένα πιάτο που τρώγεται κρύο»",
+          "link": "https://www.in.gr/2026/01/27/plus/vita/epistimi-kserei-ekdikisi-einai-ena-piato-pou-trogetai-kryo/",
+          "pubDate": "Tue, 27 Jan 2026 06:01:52 +0300",
+          "description": "Μετά από έναν δύσκολο χωρισμό όλοι θέλουν να πάρουν το... αίμα τους πίσω. Ωστόσο τι γνώμη έχει η επιστήμη για την εκδίκηση;",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/vince-fleming-Vmr8bGURExo-unsplash-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Εισιτηριοδιαφυγή: Σφίγγει ο κλοιός στις συγκοινωνίες",
+          "link": "https://www.in.gr/2026/01/27/greece/eisitiriodiafygi-sfiggei-o-kloios-stis-sygkoinonies/",
+          "pubDate": "Tue, 27 Jan 2026 06:00:57 +0300",
+          "description": "Το πρόστιμο για το κανονικό εισιτήριο των 90 λεπτών αυξάνεται στα 100 ευρώ, ενώ για το μειωμένο στα 50 ευρώ, καταγράφοντας αυξήσεις έως και 67% σε σχέση με το ισχύον καθεστώς",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6432011-768x576.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Τράπεζες: Συνδρομές… με το ζόρι",
+          "link": "https://www.in.gr/2026/01/27/economy/oikonomikes-eidiseis/trapezes-syndromes-zori/",
+          "pubDate": "Tue, 27 Jan 2026 06:00:54 +0300",
+          "description": "Αντικαθιστούν λογαριασμούς ταμιευτηρίου σε προνομίων, έναντι μηνιαίας χρέωσης 0,50-0,80 ευρώ n Αντιδράσεις από πελάτες και ενώσεις καταναλωτών",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5183099-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Πρέσβης Σταματόπουλος στο in: Ο Τραμπ αποδυναμώνει την αποτρεπτική ισχύ του ΝΑΤΟ – Βλέπει το Συμβούλιο Ειρήνης σαν όχημα προσωπικής καταξίωσης",
+          "link": "https://www.in.gr/2026/01/27/politics/diplomatia/presvis-stamatopoulos-sto-o-tramp-apodynamonei-tin-apotreptiki-isxy-tou-nato-vlepei-symvoulio-eirinis-san-oxima-prosopikis-kataksiosis/",
+          "pubDate": "Tue, 27 Jan 2026 06:00:52 +0300",
+          "description": "Ο πρέσβης ε.τ. και πρώην Βοηθός ΓΓ του ΝΑΤΟ, Θρασύβουλος Σταματόπουλος εξηγεί στο in τις επιπτώσεις της πολιτικής Τραμπ σε σχέση με το ΝΑΤΟ, αλλά και τη δραστική αλλαγή στις σχέσεις ΗΠΑ - ΕΕ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2020-01-22-_DAVOS-MEETING-REUTERSJonathan-Ernst-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Μισθοί: Οι αυξήσεις που θα δουν οι μισθωτοί του ιδιωτικού τομέα",
+          "link": "https://www.in.gr/2026/01/27/economy/oikonomikes-eidiseis/misthoi-oi-ayksiseis-pou-tha-doun-oi-misthotoi-tou-idiotikou-tomea/",
+          "pubDate": "Tue, 27 Jan 2026 06:00:51 +0300",
+          "description": "Τα εισοδηματικά οφέλη με τη νέα φορολογική κλίμακα και τη μειωμένη παρακράτηση φόρου",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/euros-3-1024x683-1-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "«Η θεωρία του τρελού»: Η αλλοπρόσαλλή συμπεριφορά του Τραμπ και άλλων ηγετών – Στρατηγική υπεροχή ή αδυναμία;",
+          "link": "https://www.in.gr/2026/01/27/world/theoria-tou-trelou-alloprosalli-symperifora-tou-tramp-kai-allon-igeton-stratigiki-yperoxi-adynamia/",
+          "pubDate": "Tue, 27 Jan 2026 06:00:42 +0300",
+          "description": "Η θεωρία του τρελού δεν είναι καθόλου μια νέα στρατηγική. Οι άγριες απειλές, οι ξαφνικές ανατροπές πολιτικής και η σκόπιμα συγκεχυμένη γλώσσα χρησιμοποιούνται εδώ και δεκαετίες",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/700961-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ταμείο Καινοτομίας: Στην «κόψη του ξυραφιού» για τις νέες προηγμένες θεραπείες",
+          "link": "https://www.in.gr/2026/01/27/economy/tameio-kainotomias-stin-kopsi-tou-ksyrafiou-gia-tis-nees-proigmenes-therapeies/",
+          "pubDate": "Tue, 27 Jan 2026 06:00:35 +0300",
+          "description": "Νέος γύρος διαπραγματεύσεων Κυβέρνησης – φαρμακοβιομηχανίας για το Ταμείο Καινοτομίας και τις προηγμένες θεραπείες που έρχονται",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/dna-pill-768x429.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Τζέσι Μπάκλεϊ: Αυτό είναι το μυστικό της επιτυχίας της σταρ του Hamnet;",
+          "link": "https://www.in.gr/2026/01/27/go-fun/fizz/tzesi-mpaklei-ayto-einai-mystiko-tis-epityxias-tis-star-tou-hamnet/",
+          "pubDate": "Tue, 27 Jan 2026 06:00:16 +0300",
+          "description": "Στα 36 της χρόνια, η ηθοποιός Τζέσι Μπάκλεϊ είναι για δεύτερη φορά υποψήφια για το βραβείο Όσκαρ - και φέτος είναι το μεγάλο φαβορί για να κερδίσει το χρυσό αγαλματάκι.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-12T050530Z_380960769_HP1EM1C0E53TU_RTRMADP_5_AWARDS-GOLDEN-GLOBES-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Τρίκαλα: Η μαύρη λίστα των εργατικών ατυχημάτων – «Είχαμε κάνει παρατηρήσεις για την ασφάλεια» λέει το Εργατικό Κέντρο",
+          "link": "https://www.in.gr/2026/01/27/greece/trikala-mayri-lista-ton-ergatikon-atyximaton-eixame-kanei-paratiriseis-gia-tin-asfaleia-leei-ergatiko-kentro/",
+          "pubDate": "Tue, 27 Jan 2026 06:00:08 +0300",
+          "description": "Του δυστυχήματος που κόστισε τη ζωή σε πέντε εργαζόμενες, έχουν προηγηθεί εκατοντάδες εργατικά ατυχήματα στη Θεσσαλία - Μιλούν στο in o πρόεδρος του Εργατικού Κέντρου Τρικάλων και ο πρόεδρος του Συλλόγου Ιδιωτικών Υπαλλήλων «Η ΕΝΩΣΗ»",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Capture-185-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Σημάδια υποχώρησης Τραμπ στη Μινεάπολη – Αποχωρούν «ορισμένοι ομοσπονδιακοί πράκτορες»",
@@ -151,102 +247,6 @@
           "description": "Έντονες συγκρούσεις, συγκλονιστικές αποκαλύψεις και ξαφνικές αποφάσεις αλλάζουν τις ισορροπίες στη «Γη της ελιάς». Το παρελθόν επιστρέφει απειλητικό στα επόμενα επεισόδια. Τι θα δούμε στο ...  \nTo άρθρο Γη της ελιάς – επόμενο επεισόδιο: Ο Κουράκος στριμώχνει τον Βαγιάκο για να ανακαλύψει αν ήταν το τσιράκι του Δημοσθένη δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/04/gi_tis_elias-1200x675.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ζελένσκι: Οι διαπραγματεύσεις με την Ρωσία να διεξαχθούν πριν την Κυριακή",
-          "link": "https://www.newsit.gr/kosmos/zelenski-oi-diapragmateyseis-me-tin-rosia-na-dieksaxthoun-prin-tin-kyriaki/4584254/",
-          "pubDate": "Mon, 26 Jan 2026 21:46:53 +0000",
-          "description": "Οι συνομιλίες ανάμεσα σε Ουκρανία και Ρωσία, υπό την αιγίδα των ΗΠΑ, αναμένεται να συνεχιστούν την Κυριακή 1η Φεβρουαρίου, τόνισε ο Βολοντίμιρ Ζελένσκι. Ωστόσο ο ...  \nTo άρθρο Ζελένσκι: Οι διαπραγματεύσεις με την Ρωσία να διεξαχθούν πριν την Κυριακή δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/volodymyr-zelenskiy-3-1200x810.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγιος έρωτας – επόμενα επεισόδια: Ο Αντρέας αποκαλύπτει στον Χάρη την πρόταση της Χριστίνας σχετικά την υιοθεσία του μωρού της Ρίτας",
-          "link": "https://www.newsit.gr/media/agios-erotas-epomena-epeisodia-o-antreas-apokalyptei-ston-xari-tin-protasi-tis-xristinas-sxetika-tin-yiothesia-tou-morou-tis-ritas/4583787/",
-          "pubDate": "Mon, 26 Jan 2026 21:31:00 +0000",
-          "description": "Η επιτυχημένη δραματική σειρά εποχής «Άγιος έρωτας» επιστρέφει στον ALPHA, με εξελίξεις που κόβουν την ανάσα. Τι θα δούμε στα επεισόδια που θα προβληθούν από ...  \nTo άρθρο Άγιος έρωτας – επόμενα επεισόδια: Ο Αντρέας αποκαλύπτει στον Χάρη την πρόταση της Χριστίνας σχετικά την υιοθεσία του μωρού της Ρίτας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/10/agios-erotas2-1-1200x684.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Πράσινο φως» της Κομισιόν για την χρηματοδότηση οκτώ κρατών μέσω SAFE",
-          "link": "https://www.in.gr/2026/01/27/inbox/ee-deytero-kyma-xrimatodotisis-safe-gia-okto-krati-meli-74-dis-eyro/",
-          "pubDate": "Tue, 27 Jan 2026 00:30:16 +0300",
-          "description": "H EE ενέκρινε τα αμυντικά σχέδια 8 κρατών, μεταξύ αυτών και η Ελλάδα, στο πλαίσιο της πρωτοβουλίας «Δράση για την ασφάλεια στην Ευρώπη» (SAFE)",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alexey-larionov-1X3li7TGf6o-unsplash-768x576.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Έντι Ράμα στην Κνεσέτ: Είμαι Καθολικός,  τα δύο μεγαλύτερα παιδιά μου Ορθόδοξα και το μικρότερο μπορεί να γίνει Ιουδαίος",
-          "link": "https://www.newsit.gr/kosmos/enti-rama-stin-kneset-eimai-katholikos-ta-dyo-megalytera-paidia-mou-orthodoksa-kai-to-mikrotero-mporei-na-ginei-ioudaios/4584250/",
-          "pubDate": "Mon, 26 Jan 2026 21:29:56 +0000",
-          "description": "Στην Κνεσέτ στην Ιερουσαλήμ μίλησε ο πρωθυπουργός της Αλβανίας, Έντι Ράμα τη Δευτέρα (26.01.2026), επαινώντας τον Μπέντζαμιν Νετανιάχου. «Μπορώ να σας ενημερώσω ότι τα γόνατά ...  \nTo άρθρο Έντι Ράμα στην Κνεσέτ: Είμαι Καθολικός,  τα δύο μεγαλύτερα παιδιά μου Ορθόδοξα και το μικρότερο μπορεί να γίνει Ιουδαίος δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/edi-rama-26012026.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Wall Street: Με κέρδη έκλεισαν οι δείκτες λόγω ανόδου Apple και Meta",
-          "link": "https://www.newsit.gr/oikonomia/agores/wall-street-me-kerdi-ekleisan-oi-deiktes-logo-anodou-apple-kai-meta/4584236/",
-          "pubDate": "Mon, 26 Jan 2026 21:29:24 +0000",
-          "description": "Ηπία ανοδικά έκλεισαν σήμερα (26.1.2026) οι αμερικανικοί δείκτες στη Wall Street καθώς οι επενδυτές παρακολουθούν τις πολιτικές εξελίξεις και προετοιμάζονται για μια σημαντική -γεμάτη εβδομάδα ...  \nTo άρθρο Wall Street: Με κέρδη έκλεισαν οι δείκτες λόγω ανόδου Apple και Meta δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/us-stock-market-reuters-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ισπανός σκιέρ σκοτώθηκε από χιονοστιβάδα στις γαλλικές Άλπεις",
-          "link": "https://www.newsit.gr/kosmos/ispanos-skier-skotothike-apo-xionostivada-stis-gallikes-alpeis/4584252/",
-          "pubDate": "Mon, 26 Jan 2026 21:24:31 +0000",
-          "description": "Ένας Ισπανός που έκανε σκι εκτός πίστας παρασύρθηκε σήμερα (26/01/2026) από χιονοστιβάδα στην περιοχή Τίνιε στις γαλλικές Άλπεις, με αποτέλεσμα να βρει τον θάνατο. Ελικόπτερο ...  \nTo άρθρο Ισπανός σκιέρ σκοτώθηκε από χιονοστιβάδα στις γαλλικές Άλπεις δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/skier-1200x900.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Από το γλέντι, στην τραγωδία, η Βασιλική, η Έλενα, η Σταυρούλα λίγες ώρες πριν την έκρηξη ήταν στην κοπή της πρωτοχρονιάτικης πίτας της Βιολάντα",
-          "link": "https://www.protothema.gr/greece/article/1763845/apo-to-gledi-stin-tragodia-i-vasiliki-i-elena-i-stauroula-liges-ores-prin-tin-ekrixi-itan-stin-kopi-pitas-tis-violada/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 23:22:00 +0200",
-          "description": "Η τελευταία φωτογραφία των γυναικών που έχασαν τη ζωή τους από τη φονική έκρηξη - Ο θόρυβος από την έκρηξη ήταν τόσο ισχυρός που ακούστηκε ακόμα και σε γειτονικά χωριά",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/xroma-tripli-violanta.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Η ΑΕΛ Novibet ανακοίνωσε την απόκτηση του Ντιλάν Μπατουμπινσικά από τη Σεντ Ετιέν",
-          "link": "https://www.newsit.gr/athlitika/i-ael-novibet-anakoinose-tin-apoktisi-tou-ntilan-mpatoumpinsika-apo-ti-sent-etien/4584242/",
-          "pubDate": "Mon, 26 Jan 2026 21:20:22 +0000",
-          "description": "Παίκτης της AΕΛ Novibet είναι με κάθε επισημότητα ο Ντιλάν Μπατουμπινσικά, με τους «βυσσινί» να ανακοινώνουν την απόκτηση του Κογκολέζου στόπερ με συμβόλαιο ως το ...  \nTo άρθρο Η ΑΕΛ Novibet ανακοίνωσε την απόκτηση του Ντιλάν Μπατουμπινσικά από τη Σεντ Ετιέν δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/dylan-batubinsika-ael-fc.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Ολυμπιακός Πειραιώς: Ο Θρύλος που διεκδικεί την ευρωπαϊκή του δόξα κόντρα στον Άγιαξ»",
-          "link": "https://www.in.gr/2026/01/27/sports/football/olympiakos-peiraios-o-thrylos-pou-diekdikei-tin-eyropaiki-tou-doksa-kontra-ston-agiaks/",
-          "pubDate": "Tue, 27 Jan 2026 00:16:51 +0300",
-          "description": "«Ο Θρύλος έρχεται για να αποδείξει γιατί είναι legenda. Ο Άγιαξ; Για να ζωντανέψει το όνειρο. Ποιος θα φύγει νικητής;», το όμορφο αφιέρωμα των οπαδών του Άγιαξ για τον Ολυμπιακό.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6819725-1-768x550.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ένας νεκρός από ουκρανικό χτύπημα στη ρωσική περιφέρεια Μπέλγκοροντ",
-          "link": "https://www.newsit.gr/kosmos/enas-nekros-apo-oukraniko-xtypima-sti-rosiki-perifereia-mpelgkoront/4584249/",
-          "pubDate": "Mon, 26 Jan 2026 21:15:32 +0000",
-          "description": "Ένας νεκρός, ένας τραυματίας και ζημιές σε κτίρια είναι ο μέχρι στιγμής απολογισμός των επιθέσεων με drones που εξαπέλυσε σήμερα (26/01/2026) η Ουκρανία εναντίον της ...  \nTo άρθρο Ένας νεκρός από ουκρανικό χτύπημα στη ρωσική περιφέρεια Μπέλγκοροντ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ukraine-war-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Οι συνάδελφοί νοσηλευτές του Άλεξ Πρέτι τον τίμησαν με τον πιο συγκινητικό τρόπο",
-          "link": "https://www.in.gr/2026/01/27/world/oi-synadelfoi-nosileytes-tou-aleks-preti-ton-timisan-ton-pio-sygkinitiko-tropo/",
-          "pubDate": "Tue, 27 Jan 2026 00:15:06 +0300",
-          "description": "Ο φακός συναδέλφου του νοσηλευτή Άλεξ Πρέτι που δολοφονήθηκε στην Μινεάπολη, έπιασε την στιγμή που όλοι οι νοσηλευτές κράτησαν ενός λεπτού σιγή",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alex-pretty-768x415.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "«Άνοιξε την πόρτα του αυτοκινήτου μου και με χτύπησε»: Οδηγός στην Πάτρα καταγγέλλει ότι δέχτηκε επίθεση με σιδερολοστό ",
-          "link": "https://www.protothema.gr/greece/article/1763847/anoixe-tin-porta-tou-autokinitou-mou-kai-me-htupise-odigos-stin-patra-kataggelei-oti-dehtike-epithesi-me-siderolosto/?utm_source=rss",
-          "pubDate": "Mon, 26 Jan 2026 23:11:00 +0200",
-          "description": "Σύμφωνα με την καταγγελία, ο φερόμενος ως δράστης καταδίωξε το θύμα επειδή θεώρησε ότι τον... έκλεισε με το αυτοκίνητό του και του έσπασε τον αγκώνα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-04-29/peripoliko_maketa.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -501,19 +501,19 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene",
+          "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 04:04:03 GMT",
+          "description": "The decision may indicate that the administration is walking back more aggressive immigration enforcement.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7253/live/7b78e7f0-fb1d-11f0-a47f-d352a7d9988a.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
           "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 03:47:51 GMT",
           "description": "He has been described as an avid outdoorsman who loved mountain biking.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1751/live/9fd14180-f9ea-11f0-811c-ad0579c12ce2.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene",
-          "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 03:06:52 GMT",
-          "description": "The decision may indicate that the administration is walking back more aggressive immigration enforcement.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7253/live/7b78e7f0-fb1d-11f0-a47f-d352a7d9988a.jpg",
           "source": "BBC News"
         },
         {
