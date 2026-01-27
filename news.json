@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T14:45:27.461Z",
+  "lastUpdated": "2026-01-27T14:50:30.528Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Συγκλονίζει η μαρτυρία του μηχανοδηγού στον Πύργο, «το δέντρο έπεφτε πάνω μου, σώθηκα από θαύμα», δείτε βίντεο",
+          "link": "https://www.protothema.gr/greece/article/1764251/suglonizei-i-marturia-tou-mihanodigou-ston-purgo-to-dedro-epefte-pano-mou-sothika-apo-thauma/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 16:46:46 +0200",
+          "description": "Παρά τον εγκλωβισμό του και τους τραυματισμούς, κατάφερε να απεγκλωβιστεί και να καλέσει βοήθεια",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/pefko-exo.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Μπλόκο από το ΣτΕ στο ξενοδοχείο White Coast της Μήλου",
           "link": "https://www.protothema.gr/greece/article/1764253/stop-sto-oikologiko-eglima-sti-milo-anastellodai-oi-ergasies-me-apofasi-tou-ste/?utm_source=rss",
@@ -177,6 +185,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Από την Αλεξάνδρεια Ημαθίας τρεις από τους νεκρούς οπαδούς του ΠΑΟΚ",
+          "link": "https://www.in.gr/2026/01/27/world/apo-tin-aleksandreia-imathias-treis-apo-tous-nekrous-opadous-tou-paok/",
+          "pubDate": "Tue, 27 Jan 2026 16:47:54 +0300",
+          "description": "Ο δήμαρχος Αλεξάνδρειας, Παναγιώτης Γκυρίνης, ανέφερε ότι τρεις από τους νεκρούς οπαδούς του ΠΑΟΚ έχουν καταγωγή από τη συγκεκριμένη περιοχή.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/timisoaraa_163635-768x460.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Άρπαξαν εκβιαστικά περιουσία 90χρονου ΑμεΑ – Τώρα καλείται να αντιμετωπίσει και τις εισπρακτικές εταιρείες",
           "link": "https://www.newsit.gr/ellada/arpaksan-ekviastika-periousia-90xronou-amea-tora-kaleitai-na-antimetopisei-kai-tis-eispraktikes-etaireies/4584758/",
           "pubDate": "Tue, 27 Jan 2026 13:47:40 +0000",
@@ -231,22 +247,6 @@
           "description": "Εύχομαι δύναμη και αγάπη στους ανθρώπους που μένουν πίσω, για να αντέξουν τον πόνο και το ατελείωτο κενό, καταλήγει στην ανάρτησή της",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/karistianou.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Τραμπ: Έκρηξη οργής στη Μινεσότα και ρήγματα στους Ρεπουμπλικανούς για την ICE – Αποχωρεί ο διαβόητος Μποβίνο",
-          "link": "https://www.in.gr/2026/01/27/world/tramp-ekriksi-orgis-sti-minesota-kai-rigmata-stous-repoumplikanous-gia-tin-ice-apoxorei-o-diavoitos-mpovino/",
-          "pubDate": "Tue, 27 Jan 2026 16:39:14 +0300",
-          "description": "Βήματα πίσω από τον Τραμπ εν μέσω κατακραυγής - H ICE λέει ότι πάει στους Ολυμπιακούς της Ιταλίας - «Είστε ανεπιθύμητοι», απαντά ο δήμαρχος του Μιλάνο",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-27T000428Z_1911099885_RC2A9JA9D4LW_RTRMADP_5_USA-TRUMP-MINNESOTA-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Η Σαουδική Αραβία παγώνει την κατασκευή του κύβου Mukaab, του μεγαλύτερου κτηρίου στον κόσμο",
-          "link": "https://www.in.gr/2026/01/27/in-science/technology/saoudiki-aravia-pagonei-tin-kataskeyi-tou-kyvou-mukaab-tou-megalyterou-ktiriou-ston-kosmo/",
-          "pubDate": "Tue, 27 Jan 2026 16:38:30 +0300",
-          "description": "Το Mukaab είναι το τελευταίο υπερφιλόδοξο έργο που ακυρώνει η Σαουδική Αραβία καθώς αναγκάζεται να θέσει προτεραιότητες στις δαπάνες της.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2560px-Mukaab_Illustration-768x433.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -291,7 +291,7 @@
           "link": "https://www.tanea.gr/2026/01/27/politics/elliniko-ypeks-vriskomaste-se-synexi-epafi-me-tis-roymanikes-arxes-meta-to-troxaio-me-thym/",
           "pubDate": "Tue, 27 Jan 2026 14:07:20 +0000",
           "description": "Το ελληνικό ΥΠΕΞ βρίσκεται σε στενή συνεργασία με τις ρουμανικές αρχές μετά το τραγικό τροχαίο στη Ρουμανία, όπου έχασαν τη ζωή τους επτά φίλαθλοι",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Bus-CRASH-in-romania.jpg",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/YPEX-scaled-e1755013438981-1024x678.jpg",
           "source": "Τα Νέα"
         },
         {
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
+          "link": "https://www.bbc.com/news/articles/cpqyp9w84eeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 14:49:44 GMT",
+          "description": "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc12/live/bdf0fa00-fb4f-11f0-8a3f-efae3b17f55b.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Εκατοντάδες Μπαγκλαντεσιανοί εξαπατήθηκαν και στάλθηκαν ως στρατιώτες στη Ρωσία",
           "link": "http://gr.euronews.com/2026/01/27/ekatontades-mpagklantesianoi-e3apath8hkan-kai-stal8hkan-ws-stratiwtes-sth-rwsia",
           "pubDate": "Tue, 27 Jan 2026 15:40:24 +0100",
@@ -523,6 +531,14 @@
           "description": "Η Τουρκάλα ακαδημαϊκός που καταγράφει την ιστορία των αδέσποτων σκυλιών της Κωνσταντινούπολης από το 1910 έως τις μέρες μας, δίνει μια ομιλία στο ΕΜΣΤ την Πέμπτη 29/1  με θέμα «Μεταξύ φροντίδας και βίας: τα σκυλιά της Κωνσταντινούπολης».",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "'Crying horse' toys go viral in China ahead of Lunar New Year",
+          "link": "https://www.bbc.com/news/articles/c70l7zndy3jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 14:05:17 GMT",
+          "description": "Shop owners say the frowning toys - originally made in error - are resonating with young workers.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a78/live/e6b6c3b0-fb78-11f0-9fd1-99e08ea50909.jpg",
+          "source": "BBC News"
         },
         {
           "title": "Ρουμανία: Νεκροί 7 φίλαθλοι του ΠΑΟΚ που ταξίδευαν για την Λυών της Γαλλίας",
@@ -709,14 +725,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Immigration chief at centre of Trump's crackdown set to leave Minneapolis",
-          "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 09:30:21 GMT",
-          "description": "The US president is sending border tsar Tom Homan to the city in an apparent shift in tone from the White House.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf2e/live/dd6e7ad0-fb61-11f0-b385-5f48925de19a.jpg",
-          "source": "BBC News"
-        },
-        {
           "title": "Σπουδαία αρχαιολογικά ευρήματα στην Κύπρο που ενισχύουν το εμπορικό dna της χώρας",
           "link": "http://gr.euronews.com/culture/2026/01/27/culture-arcahelogy-evrimata-stin-cyprus",
           "pubDate": "Tue, 27 Jan 2026 10:26:44 +0100",
@@ -731,14 +739,6 @@
           "description": "Δεν έχουν μέχρι στιγμής αναφερθεί θάνατοι ή τραυματισμοί από την κατολίσθηση που σημειώθηκε την Κυριακή.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Πόσο φιλικό στο κλίμα είναι το σούπερ μάρκετ σας; Αυτή είναι η κατάταξη των μεγάλων αλυσίδων της ΕΕ",
-          "link": "http://gr.euronews.com/green/2026/01/27/how-climate-friendly-is-your-local-supermarket-a-new-study-ranks-europes-biggest-chains",
-          "pubDate": "Tue, 27 Jan 2026 10:00:14 +0100",
-          "description": "Ειδικοί προτρέπουν τα ευρωπαϊκά σούπερ μάρκετ να στραφούν σε διατροφή πλούσια σε φυτικές τροφές, ώστε να μειώσουν τις εκπομπές και να περιορίσουν το κόστος.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,30 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Βλαχάκης για την τραγωδία: «Μας ενημέρωσε ένας από τους τρεις διασωθέντες για το δυστύχημα»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510642/blahakis-gia-tin-tragodia-mas-enimerose-enas-apo-toys-treis",
+          "pubDate": "Tue, 27 Jan 2026 16:49:29 +0200",
+          "description": "Ο  υπεύθυνος διπλωματίας της ελληνικής πρεσβείας στη Ρουμανία, Νικόλαος Βλαχάκης, μίλησε για το τραγικό δυστύχημα όπου έχασαν την ζωή τους 7 φίλοι του ΠΑΟΚ ανέφερε πως η αρχική ενημέρωση ήταν από έναν από τους τρεις διασωθέντες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/image_7_0.jpg?itok=KTEf_hIv",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Γιατί οι οπαδοί επελέξαν την διαδρομή μέσω Ρουμανίας",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510640/paok-dystyhima-sti-roymania-giati-oi-opadoi-epelexan-tin-diadromi",
+          "pubDate": "Tue, 27 Jan 2026 16:48:08 +0200",
+          "description": "Πραγματικό σοκ έχει προκαλέσει το τραγικό δυστύχημα που σημειώθηκε στη Ρουμανία, και συγκεκριμένα στην περιοχή Τίμις, όπου επτά Έλληνες εκδρομείς έχασαν τη ζωή τους και τρεις ακόμη τραυματίστηκαν σοβαρά, ύστερα από σύγκρουση ενός mini bus με βυτιοφόρο και στη συνέχεια με φορτηγό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_troxaio_2.jpg?itok=rHMbRB6U",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Τι εξετάζουν οι αρχές της Ρουμανίας",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510639/paok-dystyhima-sti-roymania-ti-exetazoyn-oi-arhes-tis-roymanias",
+          "pubDate": "Tue, 27 Jan 2026 16:45:44 +0200",
+          "description": "Ο Ρουμάνος ειδικός αμυντικής οδήγησης, Τίτι Άουρ μίλησε στα ρουμανικά ΜΜΕ και στάθηκε στις πιθανές αιτίες του δυστυχήματος.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/distihima1.jpg?itok=NGW-h6ZX",
+          "source": "Gazzetta"
+        },
         {
           "title": "Χέιζ-Ντέιβις: «Οι Σανς θέλουν να ξεφορτωθούν το συμβόλαιό του»",
           "link": "https://www.gazzetta.gr/basketball/nba/2510638/heiz-nteibis-oi-sans-theloyn-na-xefortothoyn-symbolaio-toy",
@@ -961,30 +985,6 @@
           "description": "Ο Ολυμπιακός παίζει την πρόκριση του στα πλέι οφ του Champions League κόντρα στον Άγιαξ στο Άμστερνταμ. Η δίψα του κόσμου του Ολυμπιακού για να ...  \nTo άρθρο Προειδοποίηση Άγιαξ στους φίλους του Ολυμπιακού: «Μην αγοράζετε εισιτήρια από ιστοσελίδες μεταπώλησης» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-gipedo2-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ποιο εμφιαλωμένο νερό πίνουμε περισσότερο στην Ελλάδα",
-          "link": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
-          "pubDate": "Tue, 27 Jan 2026 15:06:00 +0200",
-          "description": "Ένα στα πέντε εμφιαλωμένα νερά που πωλούνται στην Ελλάδα είναι Βίκος.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2024-05/nero-mpoukali.jpg?itok=RNVjQNq8",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κολοσσός Ρόδου: «Έκλεισε» τον Κιόντρε Κένεντι",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510610/kolossos-rodoy-ekleise-ton-kiontre-kenenti",
-          "pubDate": "Tue, 27 Jan 2026 15:05:47 +0200",
-          "description": "Παίκτης του Κολοσσού είναι ο Κιόντρε Κένεντι ο οποίος συμφώνησε με την ομάδα της Ρόδου έως και το τέλος της αγωνιστικής σεζόν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/keondre_kennedy.jpg?itok=c-wpmJWa",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός, μεταγραφές: Παραμένει ανοιχτή η αποχώρηση του Μάνσα",
-          "link": "https://www.gazzetta.gr/football/superleague/2510609/olympiakos-metagrafes-paramenei-anoihti-i-apohorisi-toy-mansa",
-          "pubDate": "Tue, 27 Jan 2026 15:05:06 +0200",
-          "description": "Συνεχίζει να είναι πιθανό ο Γκουστάβο Μάνσα να δοθεί δανεικός στην τρέχουσα μεταγραφική περίοδο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/manca.jpg?itok=AvjazV9c",
-          "source": "Gazzetta"
         }
       ]
     },
