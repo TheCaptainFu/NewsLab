@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T19:27:44.371Z",
+  "lastUpdated": "2026-01-27T19:30:36.032Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Καρδίτσα - Τόφας 79-93: Δεν μπόρεσε να ακολουθήσει τους Τούρκους",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510745/karditsa-tofas-79-93-den-mporese-na-akoloythisei",
+          "pubDate": "Tue, 27 Jan 2026 21:27:11 +0200",
+          "description": "Η Καρδίτσα πάλεψε για περίπου ένα ημίχρονο απέναντι στην Τόφας, όμως δεν μπόρεσε να ακολουθήσει στην συνέχεια την άκρος ποιοτική αντίπαλό της, γνωρίζοντας την ήττα με 79-93.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/korkmaz_eurokinissi.jpg?itok=Nh3LiE7E",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Παυλίδης: «Οι άλλες ομάδες έχουν υιοθετήσει το δικό μας σύστημα, η άμυνα είναι το κλειδί»",
           "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510744/paylidis-oi-alles-omades-ehoyn-yiothetisei-diko-mas-systima",
           "pubDate": "Tue, 27 Jan 2026 21:25:06 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 19:50:08 +0200",
           "description": "Με ανακοίνωσή της η ΕΟΠΕ ανέφερε πως οι σκέψεις όλων βρίσκεται στις οικογένειες των θυμάτων και στους οικείους τους. Την θλίψη για τον χαμό των 7 φίλων του ΠΑΟΚ εξέφρασε και ο ΣΕΓΑΣ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/639050338341148074.jpg?itok=iUHTtxjS",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πασαρέλες και αλγόριθμοι: Πώς επηρεάζουν τον τρόπο που ντυνόμαστε",
-          "link": "https://www.gazzetta.gr/plus/2510716/pasareles-kai-algorithmoi-pos-epireazoyn-ton-tropo-poy-ntynomaste",
-          "pubDate": "Tue, 27 Jan 2026 19:49:09 +0200",
-          "description": "Η βιομηχανία της μόδας λειτουργούσε επί δεκαετίες με σχετικά προβλέψιμους κύκλους: σεζόν, συλλογές, τάσεις. Σήμερα, όλα ξεκινούν από τις ψηφιακές πλατφόρμες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pasarela.jpg?itok=D9RRq0Hw",
           "source": "Gazzetta"
         }
       ]
