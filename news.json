@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T14:00:40.206Z",
+  "lastUpdated": "2026-01-27T14:05:29.518Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "MasterChef: Ακόμα ένας διαγωνιζόμενος αποχωρεί απόψε από τον διαγωνισμό",
+          "link": "https://www.newsit.gr/media/masterchef-akoma-enas-diagonizomenos-apoxorei-apopse-apo-ton-diagonismo/4584812/",
+          "pubDate": "Tue, 27 Jan 2026 13:59:48 +0000",
+          "description": "Δεκαεπτά διαγωνιζόμενοι, από την πρώτη μπριγάδα, που κατάφεραν να ξεχωρίσουν στη διαδικασία των auditions, βρέθηκαν χθες (Δευτέρα 26/1) στην κουζίνα του «MasterChef». Ωστόσο, για δύο ...  \nTo άρθρο MasterChef: Ακόμα ένας διαγωνιζόμενος αποχωρεί απόψε από τον διαγωνισμό δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/masterchef2-1200x691.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Τραγωδία Κραν Μοντανά: Οι ιδιοκτήτες του μπαρ κατηγορούν τη σερβιτόρα με το κράνος για τη φονική πυρκαγιά – «Ήταν το σόου της, της άρεσε»",
           "link": "https://www.newsit.gr/kosmos/tragodia-kran-montana-oi-idioktites-tou-mpar-katigoroun-ti-servitora-me-to-kranos-gia-ti-foniki-pyrkagia-itan-to-soou-tis-tis-arese/4584799/",
@@ -137,6 +145,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "ΣΥΡΙΖΑ: Ο Μητσοτάκης φέρει ακέραια την ευθύνη για την εξόντωση της ελληνικής κτηνοτροφίας",
+          "link": "https://www.in.gr/2026/01/27/politics/epikairotita/syriza-o-mitsotakis-ferei-akeraia-tin-eythyni-gia-tin-eksontosi-tis-ellinikis-ktinotrofias/",
+          "pubDate": "Tue, 27 Jan 2026 16:03:18 +0300",
+          "description": "«Η κυβέρνηση επιλέγει επικοινωνιακές συσκέψεις στο Μέγαρο Μαξίμου, παρόντος του κ. Μητσοτάκη και γενικόλογες ανακοινώσεις, μεταθέτοντας την ευθύνη στους κτηνοτρόφους και στις Περιφέρειες», λέει ο ΣΥΡΙΖΑ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/TSD_1_KOD-2-768x672.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Το έκτακτο δελτίο της ρουμανικής τηλεόρασης για το δυστύχημα με οπαδούς του ΠΑΟΚ (vid)",
+          "link": "https://www.in.gr/2026/01/27/world/to-ektakto-deltio-tis-roumanikis-tileorasis-gia-to-dystyxima-me-opadous-tou-paok-vid/",
+          "pubDate": "Tue, 27 Jan 2026 16:02:32 +0300",
+          "description": "Πώς μετέφερε η τηλεόραση της Ρουμανίας το τροχαίο που στέρησε την ζωή στους φίλους του ΠΑΟΚ που πήγαιναν στη Γαλλία για το ματς με τη Λιόν",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5805780578057-768x409.png",
+          "source": "In.gr"
+        },
+        {
           "title": "Ιράν: Εκρήξεις κοντά στον πυρηνικό σταθμό Παρτσίν – Για προγραμματισμένες ασκήσεις και δοκιμές μιλάει η Τεχεράνη",
           "link": "https://www.newsit.gr/kosmos/iran-ekrikseis-konta-ston-pyriniko-stathmo-partsin-gia-programmatismenes-askiseis-kai-dokimes-milaei-i-texerani/4584734/",
           "pubDate": "Tue, 27 Jan 2026 13:00:16 +0000",
@@ -223,30 +247,6 @@
           "description": "Tέλος στο πολεοδομικό αλαλούμ με τον Κώδικα Πολεοδομίας - Τι ανέφερε ο Σταύρος Παπασταύρου - Τι είπε για το καλώδιο Ελλάδας - Κύπρου και τις γεωπολιτικές εξελίξεις",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Sarakiniko_Milos_03-1-768x432.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Βιολάντα: Το προπάνιο, οι αισθητήρες ανίχνευσης και τα τρία ερωτήματα πίσω από τη φονική έκρηξη στο εργοστάσιο ",
-          "link": "https://www.newsit.gr/ellada/violanta-to-propanio-oi-aisthitires-anixneysis-kai-ta-tria-erotimata-piso-apo-ti-foniki-ekriksi-sto-ergostasio/4584728/",
-          "pubDate": "Tue, 27 Jan 2026 12:40:48 +0000",
-          "description": "Τα κομμάτια του παζλ που θα συνθέσουν τα αίτια και τις συνθήκες της έκρηξης κάτω από τις οποίες βρήκαν τραγικό θάνατο πέντε εργαζόμενες στο εργοστάσιο ...  \nTo άρθρο Βιολάντα: Το προπάνιο, οι αισθητήρες ανίχνευσης και τα τρία ερωτήματα πίσω από τη φονική έκρηξη στο εργοστάσιο  δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio3.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Με Μιλουτίνοφ κόντρα στη Μπαρτσελόνα ο Ολυμπιακός",
-          "link": "https://www.in.gr/2026/01/27/sports/basketball/euroleague/miloutinof-kontra-sti-mpartselona-o-olympiakos/",
-          "pubDate": "Tue, 27 Jan 2026 15:40:46 +0300",
-          "description": "Κανονικά πήρε μέρος στην προπόνηση του Ολυμπιακού ο Νίκολα Μιλουτίνοφ και έτσι τέθηκε στη διάθεση του Γιώργου Μπαρτζώκα για το ματς με τη Μπαρτσελόνα. «Πρώτη» και για τον Κόρι Τζόσεφ με τα «ερυθρόλευκα».",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/4996330-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Οδύνη στην κηδεία του 19χρονου που σκοτώθηκε σε τροχαίο στη Πάτρα",
-          "link": "https://www.protothema.gr/greece/article/1764197/oduni-stin-kideia-tou-19hronou-pou-skotothike-se-trohaio-sti-patra/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 14:37:00 +0200",
-          "description": "Συγγενείς, φίλοι και πλήθος κόσμου, με λευκά τριαντάφυλλα, αποχαιρέτησαν τον άτυχο νέo",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/kideia-patra__2_.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -261,6 +261,14 @@
           "description": "Στην παραπομπή της Ζωή Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας προχωρά η Νέα Δημοκρατία, σύμφωνα με κομματικές πηγές, μετά τη στάση και τις εκφράσεις που αποδίδονται στην πρόεδρο της Πλεύσης Ελευθερίας κατά…\nΝΔ: Παραπομπή της Ζωής Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας της Βουλής - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Ταμείο Καινοτομίας Φαρμάκου: «Πράσινο φως» για ταχύτερη πρόσβαση σε νέα θεραπείες",
+          "link": "https://www.tanea.gr/print/2026/01/27/politics/taxyteri-prosvasi-asthenon-se-nees-therapeies/",
+          "pubDate": "Tue, 27 Jan 2026 13:39:00 +0000",
+          "description": "Το νομοσχέδιο για τη σύσταση του Ταμείου Καινοτομίας Φαρμάκου παρουσίασαν στο Υπουργικό Συμβούλιο ο υπουργός Υγείας Αδωνις Γεωργιάδης και ο υφυπουργός Δημήτρης Βαρτζόπουλος. Σκοπός του Ταμείου Καινοτομίας, ως μια διακριτής κατηγορίας φαρμακευτικής δαπάνης, είναι να αλλάξει την πρόσβαση σε καινοτόμα φάρμακα, μειώνοντας καθυστερήσεις και ενισχύοντας τη φαρμακευτική καινοτομία. Ετσι, σύμφωνα με το υπουργείο Υγείας, θα […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/nosokomeio-1024x683.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "Πηγές ΝΔ: Ο Γ. Καρασμάνης επιβεβαίωσε τη θέση της ΝΔ για χειρισμούς και παραλείψεις δεκαετιών με αποτέλεσμα τη σημερινή κατάσταση στον ΟΠΕΚΕΠΕ",
@@ -485,14 +493,6 @@
           "description": "Συνέντευξη εφ΄όλης της ύλης παραχώρησε στη δημόσια ραδιοτηλεόραση ο υπουργός Υγείας Άδωνις Γεωργιάδης κατά τη διάρκεια της οποίας αναφέρθηκε μεταξύ άλλων στη Μαρία Καρυστιανού. Ειδικότερα ερωτηθείς σχετικά με την πρόσφατη ανάρτησή της για τα ελληνοτουρκικά, στην οποία –όπως αναφέρεται– ζητά να ενημερωθεί ο λαός για την ατζέντα της συνάντησης Μητσοτάκη–Ερντογάν και να κρίνουν οι πολίτες […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6821940-1024x683.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Δημοσκόπηση Interview: Ενισχύει το προβάδισμά της η Ν.Δ. – Πόσο έπληξαν τη Μ. Καρυστιανού οι δηλώσεις για τις αμβλώσεις",
-          "link": "https://www.naftemporiki.gr/politics/2064323/dimoskopisi-interview-enischyei-to-provadisma-tis-i-n-d-poso-eplixan-ti-m-karystianoy-oi-diloseis-gia-tis-amvloseis/?utm_source=rss&utm_medium=rss&utm_campaign=dimoskopisi-interview-enischyei-to-provadisma-tis-i-n-d-poso-eplixan-ti-m-karystianoy-oi-diloseis-gia-tis-amvloseis",
-          "pubDate": "Tue, 27 Jan 2026 08:15:05 +0000",
-          "description": "Πλήγμα στην εικόνα της Μαρίας Καρυστιανού, αλλά χωρίς ουσιαστικό αντίκτυπο στη δυνητική ψήφο προς το πρόσωπό της, επέφεραν η πρόσφατη συνέντευξή της και οι επίμαχες δηλώσεις της για τις αμβλώσεις,…\nΔημοσκόπηση Interview: Ενισχύει το προβάδισμά της η Ν.Δ. – Πόσο έπληξαν τη Μ. Καρυστιανού οι δηλώσεις για τις αμβλώσεις - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -525,6 +525,14 @@
           "source": "Euronews"
         },
         {
+          "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
+          "link": "https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 12:59:26 GMT",
+          "description": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/322a/live/92240d60-fb7f-11f0-bbb4-c5bf37339933.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Watch: Huge landslide in Sicily after Storm Harry",
           "link": "https://www.bbc.com/news/videos/cql4p6w2gl5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 12:42:09 GMT",
@@ -547,6 +555,14 @@
           "description": "Αρμενία, Αυστρία, Αζερμπαϊτζάν, Ισπανία, Ηνωμένο Βασίλειο και Ουζμπεκιστάν δεν αναγνωρίζονται πλέον ως ελεύθερες από ιλαρά, μετά την έξαρση κρουσμάτων το 2024.",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
+          "link": "https://www.bbc.com/news/articles/c4gw49gk13xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 12:26:00 GMT",
+          "description": "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9095/live/97688110-fb71-11f0-b7fd-f5e7f9ed0815.jpg",
+          "source": "BBC News"
         },
         {
           "title": "India and EU announce 'mother of all trade deals'",
@@ -723,22 +739,6 @@
           "description": "Πυροσβέστες δίνουν μάχη με μεγάλη δασική πυρκαγιά στην Παταγονία της Αργεντινής, με πάνω από 30.000 εκτάρια γης να έχουν γίνει στάχτη.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Τραμπ απειλεί τη Νότια Κορέα με αύξηση δασμών λόγω καθυστέρησης επένδυσης",
-          "link": "http://gr.euronews.com/business/2026/01/27/trump-has-threatened-south-korea-with-an-increase-in-tariffs-due-to-a-delay-in-investments",
-          "pubDate": "Tue, 27 Jan 2026 09:31:32 +0100",
-          "description": "Ο πρόεδρος των ΗΠΑ ανακοίνωσε αύξηση δασμών στις εξαγωγές της Νότιας Κορέας από 15% σε 25%, κατηγορώντας τη Σεούλ για μη πρόοδο στην περσινή εμπορική συμφωνία.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Μεταφορείς από τα Δυτικά Βαλκάνια μπλοκάρουν σύνορα, απαιτώντας παράταση παραμονής στην Ε.Ε.",
-          "link": "http://gr.euronews.com/my-europe/2026/01/27/metaforeis-apo-ta-dytika-valkania-blokaroun-synora",
-          "pubDate": "Tue, 27 Jan 2026 09:21:50 +0100",
-          "description": "Οι μεταφορείς από τέσσερις χώρες των Δυτικών Βαλκανίων έχουν αποκλείσει τα συνοριακά περάσματα στη Βοσνία, τη Σερβία, το Μαυροβούνιο και τη Βόρεια Μακεδονία σε ένδειξη διαμαρτυρίας για το αυστηρότερο καθεστώς εισόδου στην ΕΕ",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Nissan Micra: Η ηλεκτρική αναγέννηση ενός θρύλου των πόλεων",
+          "link": "https://www.gazzetta.gr/gmotion/2510557/nissan-micra-i-ilektriki-anagennisi-enos-thryloy-ton-poleon",
+          "pubDate": "Tue, 27 Jan 2026 16:00:00 +0200",
+          "description": "Το εμβληματικό μοντέλο επιστρέφει ως αμιγώς ηλεκτρικό, προσφέροντας SUV σχεδίαση, τεχνολογία Google και ταχεία φόρτιση 100kW για τις σύγχρονες ανάγκες της πόλης.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/5.jpg?itok=a2ZWAWfU",
+          "source": "Gazzetta"
+        },
         {
           "title": "Δύο κύματα κακοκαιρίας έρχονται στην Αττική: Πότε θα επηρεαστεί με ισχυρές βροχές και καταιγίδες",
           "link": "https://www.gazzetta.gr/plus/2510626/dyo-kymata-kakokairias-erhontai-stin-attiki-pote-tha-epireastei-me-ishyres-brohes-kai",
@@ -775,7 +783,7 @@
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510622/aris-epekteine-o-noya-mehri-2029",
           "pubDate": "Tue, 27 Jan 2026 15:52:35 +0200",
           "description": "Ο Αμίν Νούα θα παραμείνει κάτοικος Θεσσαλονίκης για τα επόμενα τρία χρόνια, αφού επέκτεινε το συμβόλαιό του με τον Άρη.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/noua.jpg?itok=tiyyJ0iD",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/noua_aris.jpg?itok=F6uu_Zts",
           "source": "Gazzetta"
         },
         {
@@ -819,7 +827,7 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Σοκ: Επτά νεκροί Έλληνες σε τροχαίο στη Ρουμανία που ταξίδευαν στη Γαλλία!",
+          "title": "Σοκ: Επτά νεκροί οπαδοί του ΠΑΟΚ σε τροχαίο στη Ρουμανία - Τρεις τραυματίες, ένας σε κρίσιμη κατάσταση",
           "link": "https://www.gazzetta.gr/football/2510615/sok-epta-nekroi-ellines-se-trohaio-sti-roymania-poy-taxideyan-sti-gallia",
           "pubDate": "Tue, 27 Jan 2026 15:26:58 +0200",
           "description": "Σε τραγωδία μετατράπηκε η εκδρομή δέκα οπαδών του ΠΑΟΚ που ξεκίνησαν από την Ελλάδα με mini bus με κατεύθυνση τη Γαλλία, καθώς επτά εξ αυτών σκοτώθηκαν στη Ρουμανία σε αυτοκινητικό δυστύχημα. Τρεις τραυματίες και ένας σε κρίσιμη κατάσταση.",
@@ -977,14 +985,6 @@
           "description": "Ευχάριστα ήταν τα νέα για τον Γιώργο Μπαρτζώκα από την προπόνηση του Ολυμπιακού τη Δευτέρα (27/1/2026). Ο Ολυμπιακός ξεκίνησε την προετοιμασία του για την αναμέτρηση ...  \nTo άρθρο Ολυμπιακός: Πρώτη προπόνηση για Κόρι Τζόσεφ, προπονήθηκε ο Ταϊρίκ Τζόουνς δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/joseph-3-1200x799.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Προσγείωση στους σχεδόν μηδέν βαθμούς και η... μαγκιά του πιλότου!",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510602/olympiakos-prosgeiosi-stoys-shedon-miden-bathmoys-kai-i-magkia",
-          "pubDate": "Tue, 27 Jan 2026 14:15:15 +0200",
-          "description": "Σε ολλανδικό έδαφος πάτησε η αποστολή του Ολυμπιακού ενόψει του σπουδαίου αγώνα κόντρα στον Άγιαξ για την τελευταία αγωνιστική του Champions League. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/apostoli-dala.jpg?itok=7kY4kZt0",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Βίντεο – σοκ από το σοκαριστικό τροχαίο!",
+          "link": "https://panathinaikos24.gr/2026/01/27/617960/vinteo-sok-apo-to-sokaristiko-troxaio/",
+          "pubDate": "Tue, 27 Jan 2026 14:02:27 +0000",
+          "description": "Κόβει την ανάσα το βίντεο.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/paok.webp?fit=1300%2C700&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Δημοσκόπηση Metron Analysis: Η πρώτη πραγματική αναμέτρηση Καρυστιανού – Κωνσταντοπούλου έχει ξεκάθαρο νικητή",
           "link": "https://panathinaikos24.gr/2026/01/27/617432/dimoskopisi-metron-analysis-i-proti-pragmatiki-anametrisi-karystianou-konstantopoulou-exei-ksekatharo-nikiti/",
@@ -1223,14 +1231,6 @@
           "description": "Η τελική διάγνωση για τον Πέδρο Τσιριβέγια βάζει ξεκάθαρα χρονικά όρια στο πότε μπορεί και πότε δεν μπορεί να υπολογίζεται από τον Παναθηναϊκό. Η τελική διάγνωση για τον Πέδρο Τσιριβέγια, με θλάση στη γαστροκνημία και εκτιμώμενη απουσία περίπου ενάμιση μήνα, βάζει ξεκάθαρα χρονικά όρια στο πότε μπορεί και πότε δεν μπορεί να υπολογίζεται από τον […]\nThe post Παναθηναϊκός: Τα παιχνίδια που χάνει ο Τσιριβέγια και το πρώτο ρεαλιστικό ματς για comeback appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/Chirivella.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Ο Μουνουέρα σφυρίζει στο ΟΑΚΑ!",
-          "link": "https://panathinaikos24.gr/2026/01/27/617887/o-mounouera-sfyrizei-sto-oaka/",
-          "pubDate": "Tue, 27 Jan 2026 09:36:27 +0000",
-          "description": "Αυτός θα διευθύνει την αναμέτρηση του Παναθηναϊκού με την Ρόμα στο ΟΑΚΑ.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Munuera-referee.jpg?fit=680%2C460&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
