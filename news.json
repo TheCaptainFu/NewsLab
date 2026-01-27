@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T18:00:44.251Z",
+  "lastUpdated": "2026-01-27T18:05:40.923Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γκάλης για το δυστύχημα των φίλων του ΠΑΟΚ: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι»",
+          "link": "https://www.newsit.gr/athlitika/gkalis-gia-to-dystyxima-ton-filon-tou-paok-einai-eksairetika-lypiro-na-xanoun-ti-zoi-tous-neoi-anthropoi/4585044/",
+          "pubDate": "Tue, 27 Jan 2026 18:01:21 +0000",
+          "description": "Ο Νίκος Γκάλης προχώρησε σε μία ανάρτηση στο Facebook στην οποία αναφέρθηκε στο τραγικό δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία. Από το πολύνεκρο τροχαίο ...  \nTo άρθρο Γκάλης για το δυστύχημα των φίλων του ΠΑΟΚ: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gkalis-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ουκρανία: Ο Ζελένσκι δηλώνει έτοιμος να συναντηθεί με τον Πούτιν – Στο τραπέζι εδαφικό και Ζαπορίζια",
           "link": "https://www.newsit.gr/kosmos/oukrania-o-zelenski-dilonei-etoimos-na-synantithei-me-ton-poutin-sto-trapezi-edafiko-kai-zaporizia/4585015/",
@@ -177,6 +185,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Γροιλανδία: Ο Τραμπ προσπαθεί να ξαναγράψει την ιστορία, αλλά η αλήθεια δεν είναι με το μέρος του",
+          "link": "https://www.in.gr/2026/01/27/world/groilandia-o-tramp-prospathei-na-ksanagrapsei-tin-istoria-alla-alitheia-den-einai-meros-tou/",
+          "pubDate": "Tue, 27 Jan 2026 20:00:40 +0300",
+          "description": "Μιλώντας για τις φιλοδοξίες του να αποκτήσει η Αμερική τη Γροιλανδία, ο Ντόναλντ Τραμπ έχει παρουσιάσει μια ιστορία όπου οι ΗΠΑ «έσωσαν» τη Γροιλανδία και έκαναν το «ηλίθιο» λάθος να την επιστρέψουν",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-25T204134Z_1958955766_RC2J8JA370HD_RTRMADP_5_USA-TRUMP-GREENLAND-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Η Κρίστεν Στιούαρτ σκέφτεται να εγκαταλείψει τις ΗΠΑ λόγω Τραμπ – «Δεν μπορώ να δουλέψω ελεύθερα»",
+          "link": "https://www.in.gr/2026/01/27/go-fun/fizz/kristen-stiouart-skeftetai-na-egkataleipsei-tis-ipa-logo-tramp-den-mporo-na-doulepso-eleythera/",
+          "pubDate": "Tue, 27 Jan 2026 20:00:12 +0300",
+          "description": "Η Κρίστεν Στιούαρτ δεν είναι η μόνη που σκέφτεται να εγκαταλείψει τις ΗΠΑ λόγω Τραμπ - Αρκετοί διάσημοι έχου φύγει ήδη από τη χώρα εξαιτίας της πολιτικής που ακολουθεί ο πρόεδρος της χώρας.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-11T025025Z_934760340_RC2MYIA3FUXS_RTRMADP_5_AWARDS-BAFTA-TEA-PARTY-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Πατέρας οπαδού που ήταν στο δυστύχημα του ΠΑΟΚ στη Ρουμανία: Ένα από τα παιδιά που γλίτωσε μου είπε για τον γιο μου και το τροχαίο",
           "link": "https://www.protothema.gr/greece/article/1764338/pateras-opadou-pou-itan-sto-dustuhima-tou-paok-sti-roumania-ena-apo-ta-paidia-pou-glitose-mou-eipe-gia-ton-gio-mou/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 18:59:00 +0200",
@@ -204,7 +228,7 @@
           "title": "Συνελήφθη ο ιδιοκτήτης του εργοστασίου «Βιολάντα»",
           "link": "https://www.in.gr/2026/01/27/greece/synelifthi-o-idioktitis-tou-ergostasiou-violanta/",
           "pubDate": "Tue, 27 Jan 2026 19:52:02 +0300",
-          "description": "Κατηγορείται για ανθρωποκτονία απο αμέλεια, έκρηξη, εμπρησμό από αμέλεια και σωματικές βλάβες",
+          "description": "Συνελήφθησαν και δύο στελέχη της διοίκησης - Και οι τρεις συλληφθέντες κατηγορούνται για ανθρωποκτονία από αμέλεια, έκρηξη, εμπρησμό από αμέλεια και σωματικές βλάβες",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trikala-violanta1-scaled-768x512.jpg",
           "source": "In.gr"
         },
@@ -222,30 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 16:51:37 +0000",
           "description": "Στην Τούμπα κυματίζουν μεσίστιες σημαίες του ΠΑΟΚ για τους επτά αδικοχαμένους φίλους της ομάδας που έχασαν τη ζωή τους στο τραγικό δυστύχημα στη Ρουμανία. Στο ...  \nTo άρθρο Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία – Φίλοι του Δικεφάλου αφήνουν λουλούδια δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-2-3-1200x801.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μεντιλίμπαρ για την τραγωδία με τους οπαδούς του ΠΑΟΚ: «Είναι λυπηρό»",
-          "link": "https://www.in.gr/2026/01/27/sports/football/mentilimpar-gia-tin-tragodia-tous-opadous-tou-paok-einai-lypiro/",
-          "pubDate": "Tue, 27 Jan 2026 19:49:40 +0300",
-          "description": "Ο τεχνικός του Ολυμπιακού Χοσέ Λουίς Μεντιλίμπαρ ενημερώθηκε για την τραγωδία και εξέφρασε τη θλίψη του, στη Συνέντευξη Τύπου πριν τον αγώνα με τον Αγιαξ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/menti-2-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "«Ένας από τους επιζώντες μας ενημέρωσε, ένας πατέρας φώναζε πέστε μου αν ζει ο γιος μου»: Πένθος στην Αλεξάνδρεια για τους οπαδούς του ΠΑΟΚ",
-          "link": "https://www.protothema.gr/greece/article/1764342/thrinos-stin-alexandreia-gia-opadous-tou-paok-mas-enimerose-enas-apo-epizodes-pateras-fonaze-peste-mou-an-zei-o-gios-mou/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 18:48:00 +0200",
-          "description": "Ο Στέφανος Δελιόπουλος, πρώην αντιδήμαρχος μίλησε για τους νεαρούς οπαδούς του ΠΑΟΚ που ενεπλάκησαν στο τραγικό τροχαίο δυστύχημα στη Ρουμανία",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/troxaio-roumania_2.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "CIA: Η κυβέρνηση Τραμπ θέλει μόνιμη παρουσία στην Βενεζουέλα μετά την «εξουδετέρωση» του Μαδούρο",
-          "link": "https://www.newsit.gr/kosmos/cia-i-kyvernisi-tramp-thelei-monimi-parousia-stin-venezouela-meta-tin-eksoudeterosi-tou-madouro/4584950/",
-          "pubDate": "Tue, 27 Jan 2026 16:47:47 +0000",
-          "description": "Η στρατιωτική επιχείρηση των ΗΠΑ στην Βενεζουέλα με την κωδική ονομασία «Absolute Resolve» για την σύλληψη του Νικολάς Μαδούρο έχει προκαλέσει σοβαρή πολιτική κρίση στο ...  \nTo άρθρο CIA: Η κυβέρνηση Τραμπ θέλει μόνιμη παρουσία στην Βενεζουέλα μετά την «εξουδετέρωση» του Μαδούρο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/trump-cia-director-reuters-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η ανακοίνωση της ΚΑΕ Περιστερίου",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510724/paok-dystyhima-sti-roymania-i-anakoinosi-tis-kae-peristerioy",
+          "pubDate": "Tue, 27 Jan 2026 20:01:47 +0200",
+          "description": "Η ΚΑΕ Περιστερίου μέσω ανακοίνωσης, εξέφρασε τα συλλυπητήρια στις οικογένειες των θυμάτων των οπαδών του ΠΑΟΚ, που σκοτώθηκαν στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/peristeri_bc_0.jpg?itok=8tiNM1iy",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γκάλης για το δυστύχημα των φίλων του ΠΑΟΚ: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι»",
+          "link": "https://www.newsit.gr/athlitika/gkalis-gia-to-dystyxima-ton-filon-tou-paok-einai-eksairetika-lypiro-na-xanoun-ti-zoi-tous-neoi-anthropoi/4585044/",
+          "pubDate": "Tue, 27 Jan 2026 18:01:21 +0000",
+          "description": "Ο Νίκος Γκάλης προχώρησε σε μία ανάρτηση στο Facebook στην οποία αναφέρθηκε στο τραγικό δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία. Από το πολύνεκρο τροχαίο ...  \nTo άρθρο Γκάλης για το δυστύχημα των φίλων του ΠΑΟΚ: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gkalis-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Δοκιμές Βαρκελώνης 2η Ημέρα: Η βροχή εμφανίστηκε, οι ομάδες εξαφανίστηκαν",
           "link": "https://www.gazzetta.gr/gmotion/2510723/dokimes-barkelonis-2i-imera-i-brohi-emfanistike-oi-omades-exafanistikan",
           "pubDate": "Tue, 27 Jan 2026 19:54:51 +0200",
@@ -969,22 +985,6 @@
           "description": "Οι οπαδοί της Τιμισοάρα στέκονται δίπλα στους φιλάθλους του ΠΑΟΚ και τις οικογένειές τους, μετά το θανατηφόρο τροχαίο στη Ρουμανία που στοίχισε τη ζωή σε επτά οπαδούς.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/distihima1_0.jpg?itok=1Mi36hN2",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Πένθος έξω από την Τούμπα για τα 7 αετόπουλα",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510701/paok-dystyhima-sti-roymania-penthos-exo-apo-tin-toympa-gia-ta-7",
-          "pubDate": "Tue, 27 Jan 2026 18:42:04 +0200",
-          "description": "Φίλοι του ΠΑΟΚ έσπευσαν έξω από την Τούμπα όπου και άναψαν κεράκια στη μνήμη των 7 φίλων της ομάδας που έχασαν την ζωή τους στο τροχαίο δυστύχημα στη Ρουμανία.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_tragodia_3.jpg?itok=Dw9Kn3H6",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Περιστέρι: Το μήνυμα του Βαν Τούμπεργκεν για τη Σαραγόσα",
-          "link": "https://www.gazzetta.gr/basketball/fiba-europe-cup/2510700/peristeri-minyma-toy-ban-toympergken-gia-ti-saragosa",
-          "pubDate": "Tue, 27 Jan 2026 18:41:51 +0200",
-          "description": "Το Περιστέρι υποδέχεται την Τετάρτη (28/1, 20:30, ΕΡΤ 2) τη Σαραγόσα και ο Τζέικ Βαν Τούμπεργκεν δείχνει τον δρόμο της πρόκρισης στα προημιτελικά του FIBA Europe Cup.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/5002459.jpg?itok=hTe88h_I",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Βιολάντα: Συνελήφθη ο ιδιοκτήτης του εργοστασίου και δύο στελέχη",
+          "link": "https://panathinaikos24.gr/2026/01/27/618009/violanta-synelifthi-o-idioktitis-tou-ergostasiou-kai-dyo-stelexi/",
+          "pubDate": "Tue, 27 Jan 2026 18:01:42 +0000",
+          "description": "Ο ιδιοκτήτης της «Βιολάντα» κατηγορείται για ανθρωποκτονία από αμέλεια, έκρηξη, εμπρησμό από αμέλεια και σωματικές βλάβες.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/violanta2-reuters-1200x675-1.webp?fit=1200%2C675&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "ΚΑΕ Παναθηναϊκός AKTOR σε Μακάμπι: «Τα μέτρα ασφαλείας ήταν ανεπαρκή»",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/kae-panathinaikos-aktor-se-maccabi-ta-metra-asfaleias-htan-aneparkh/?utm_source=rss&utm_medium=rss&utm_campaign=kae-panathinaikos-aktor-se-maccabi-ta-metra-asfaleias-htan-aneparkh",
@@ -1222,14 +1230,6 @@
           "pubDate": "Tue, 27 Jan 2026 13:17:58 +0000",
           "description": "Τι αναφέρουν οι πρώτες πληροφορίες.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/cc341d68-troxaio-roumania.jpg?fit=1000%2C601&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Το «αντίο» του Φικάι: «Για πάντα κομμάτι της ζωής μου ο Παναθηναϊκός»",
-          "link": "https://panathinaikos24.gr/2026/01/27/617945/to-antio-tou-fikai-gia-panta-kommati-tis-zois-mou-o-panathinaikos/",
-          "pubDate": "Tue, 27 Jan 2026 13:01:49 +0000",
-          "description": "Το μήνυμα του Έλτον Φικάι μετά την οριστικοποίηση της μεταγραφής του.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4917958.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
