@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T12:20:31.659Z",
+  "lastUpdated": "2026-01-27T12:25:25.426Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,38 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΗΠΑ: Τους 30 έφτασαν οι νεκροί από το «κύμα» πολικού ψύχους – Χωρίς ρεύμα χιλιάδες νοικοκυριά",
+          "link": "https://www.newsit.gr/kosmos/ipa-tous-30-eftasan-oi-nekroi-apo-to-kyma-polikou-psyxous-xoris-reyma-xiliades-noikokyria/4584692/",
+          "pubDate": "Tue, 27 Jan 2026 12:24:03 +0000",
+          "description": "Οι ΗΠΑ βρίσκονται στο «έλεος» ακραίων καιρικών φαινομένων τις τελευταίες ημέρες, με τις σφοδρές χιονοπτώσεις – περισσότερα από 30 εκατοστά σε περίπου 20 πολιτείες – ...  \nTo άρθρο ΗΠΑ: Τους 30 έφτασαν οι νεκροί από το «κύμα» πολικού ψύχους – Χωρίς ρεύμα χιλιάδες νοικοκυριά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-bad-weather-reuters-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ολυμπιακός: Πρώτη προπόνηση για Κόρι Τζόσεφ, προπονήθηκε ο Ταϊρίκ Τζόουνς",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-proti-proponisi-gia-kori-tzosef-proponithike-o-tairik-tzoouns/4584717/",
+          "pubDate": "Tue, 27 Jan 2026 12:22:58 +0000",
+          "description": "Ευχάριστα ήταν τα νέα για τον Γιώργο Μπαρτζώκα από την προπόνηση του Ολυμπιακού τη Δευτέρα (27/1/2026). Ο Ολυμπιακός ξεκίνησε την προετοιμασία του για την αναμέτρηση ...  \nTo άρθρο Ολυμπιακός: Πρώτη προπόνηση για Κόρι Τζόσεφ, προπονήθηκε ο Ταϊρίκ Τζόουνς δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/joseph-3-1200x799.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Η ιστορική εμπορική συμφωνία ΕΕ – Ινδίας σε φωτογραφικά καρέ: Χαμόγελα και σφιχτές χειραψίες",
+          "link": "https://www.newsit.gr/oikonomia/i-istoriki-emporiki-symfonia-ee-indias-se-fotografika-kare-xamogela-kai-sfixtes-xeirapsies/4584699/",
+          "pubDate": "Tue, 27 Jan 2026 12:21:06 +0000",
+          "description": "Ιδιαίτερα πανηγυρικό το κλίμα στην Ινδία με την υπογραφη Συμφωνία Ελεύθερων Συναλλαγών ΕΕ – Ινδίας σε μια εποχή αυξανόμενων γεωπολιτικών εντάσεων και παγκόσμιων οικονομικών προκλήσεων. ...  \nTo άρθρο Η ιστορική εμπορική συμφωνία ΕΕ – Ινδίας σε φωτογραφικά καρέ: Χαμόγελα και σφιχτές χειραψίες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/india-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Κατερίνα Στανίση: Όταν ήμουν μικρή είχα δει την Παναγία, το έχω γράψει στο βιβλίο μου",
+          "link": "https://www.newsit.gr/lifestyle/katerina-stanisi-otan-imoun-mikri-eixa-dei-tin-panagia-to-exo-grapsei-sto-vivlio-mou/4584684/",
+          "pubDate": "Tue, 27 Jan 2026 12:20:04 +0000",
+          "description": "H Κατερίνα Στανίση έδωσε μία σπάνια τηλεοπτική συνέντευξη και μίλησε για την απόφασή της να πορεύεται μόνη στη ζωή της, ενώ ταυτόχρονα εξομολογήθηκε ότι έχει ...  \nTo άρθρο Κατερίνα Στανίση: Όταν ήμουν μικρή είχα δει την Παναγία, το έχω γράψει στο βιβλίο μου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/katerina-stanisi-ndp-1200x717.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Σύλληψη 49χρονου για κλοπή υλικών αξίας 10.000 ευρώ στην Κέρκυρα",
           "link": "https://www.protothema.gr/greece/article/1764179/sullipsi-49hronou-gia-klopi-ulikon-axias-10000-euro-stin-kerkura/?utm_source=rss",
@@ -215,38 +247,6 @@
           "description": "Δικογραφία αυτόφωρης διαδικασίας σχηματίστηκε και σε βάρος της συνοδηγού του δράστη, για το αδίκημα της εξύβρισης, καθώς με ενέργειές της δυσχέρανε το έργο των αστυνομικών",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-18/astynomia-mak2.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "11ος Δρόμος Εκεχειρίας στις 26 Απριλίου – Οι εγγραφές ξεκίνησαν",
-          "link": "https://www.newsit.gr/athlitika/11os-dromos-ekexeirias-stis-26-apriliou-oi-eggrafes-ksekinisan/4584622/",
-          "pubDate": "Tue, 27 Jan 2026 11:23:29 +0000",
-          "description": "Για 11η συνεχή χρονιά, η Συμπολιτεία Ολυμπίας διοργανώνει τον «Δρόμο Εκεχειρίας 2026», μια μοναδική πορεία συμβολισμού και ενότητας, την Κυριακή 26 Απριλίου 2026, στην Ιερή ...  \nTo άρθρο 11ος Δρόμος Εκεχειρίας στις 26 Απριλίου – Οι εγγραφές ξεκίνησαν δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakis-ekexeiria.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η ΕΚΤ πρέπει να διατηρήσει όλες τις επιλογές ανοιχτές όσον αφορά τα επιτόκια,",
-          "link": "https://www.newsit.gr/oikonomia/diethni/i-ekt-prepei-na-diatirisei-oles-tis-epiloges-anoixtes-oson-afora-ta-epitokia/4584564/",
-          "pubDate": "Tue, 27 Jan 2026 11:23:25 +0000",
-          "description": "«Η Ευρωπαϊκή Κεντρική Τράπεζα (ΕΚΤ) θα πρέπει να διατηρήσει όλες τις επιλογές ανοιχτές με τα επιτόκια λόγω του ασταθούς παγκόσμιου πλαισίου, ιδίως στον τομέα του ...  \nTo άρθρο Η ΕΚΤ πρέπει να διατηρήσει όλες τις επιλογές ανοιχτές όσον αφορά τα επιτόκια, δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ecb-reuters-scaled-1-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Το 29% της Puma αγοράζει η Anta Sports, η μεγαλύτερη μάρκα αθλητικών ειδών της Κίνας",
-          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/to-29-tis-puma-agorazei-i-anta-sports-i-megalyteri-marka-athlitikon-eidon-tis-kinas/4584612/",
-          "pubDate": "Tue, 27 Jan 2026 11:20:13 +0000",
-          "description": "H Anta Sports, η μεγαλύτερη μάρκα αθλητικών ειδών της Κίνας ανακοίνωσε ότι θα αγοράσει το 29,06% των μετοχών της Puma από την οικογένεια Πινό (Pinault) ...  \nTo άρθρο Το 29% της Puma αγοράζει η Anta Sports, η μεγαλύτερη μάρκα αθλητικών ειδών της Κίνας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/puma-shoes-reuters-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κατερίνα Γκαγκάκη: «Ήταν στενάχωρο αυτό που έγινε με την Ελένη Τσολάκη»",
-          "link": "https://www.newsit.gr/media/katerina-gkagkaki-itan-stenaxoro-ayto-pou-egine-me-tin-eleni-tsolaki/4584538/",
-          "pubDate": "Tue, 27 Jan 2026 11:15:53 +0000",
-          "description": "Για το πρόωρο και ξαφνικό τέλος της εκπομπής που παρουσίαζε η Ελένη Τσολάκη στον ΑΝΤ1 μίλησε η Κατερίνα Γκαγκάκη και ταυτόχρονα αναφέρθηκε στα νέα projects ...  \nTo άρθρο Κατερίνα Γκαγκάκη: «Ήταν στενάχωρο αυτό που έγινε με την Ελένη Τσολάκη» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/katerina-gkagkaki-ndp-1200x683.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "India and EU announce landmark trade deal",
+          "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 12:23:54 GMT",
+          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Η Βιρκούνεν προειδοποιεί το X για «σαφείς υποχρεώσεις» εν μέσω της έρευνας της ΕΕ για το Grok",
           "link": "http://gr.euronews.com/my-europe/2026/01/27/virkounen-grok-europe-today",
           "pubDate": "Tue, 27 Jan 2026 13:06:07 +0100",
@@ -602,14 +610,6 @@
           "pubDate": "Tue, 27 Jan 2026 09:56:04 GMT",
           "description": "Trump has accused Seoul of \"not living up\" to a trade deal that was reached last year.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5081/live/22f93670-fb18-11f0-a2c0-71839ce781f8.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "India and EU announce landmark trade deal",
-          "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 09:37:58 GMT",
-          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
           "source": "BBC News"
         },
         {
@@ -747,11 +747,27 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Πρώτη προπόνηση για Κόρι Τζόσεφ",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510603/olympiakos-proti-proponisi-gia-kori-tzosef",
+          "pubDate": "Tue, 27 Jan 2026 14:23:28 +0200",
+          "description": "Ο Κόρι Τζόσεφ έπιασε ήδη δουλειά καθώς την Τρίτη (27/1) πραγματοποίησε την πρώτη του προπόνηση με τα «ερυθρόλευκα».",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/joseph_45.jpg?itok=HeLL6P8v",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Πρώτη προπόνηση για Κόρι Τζόσεφ, προπονήθηκε ο Ταϊρίκ Τζόουνς",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-proti-proponisi-gia-kori-tzosef-proponithike-o-tairik-tzoouns/4584717/",
+          "pubDate": "Tue, 27 Jan 2026 12:22:58 +0000",
+          "description": "Ευχάριστα ήταν τα νέα για τον Γιώργο Μπαρτζώκα από την προπόνηση του Ολυμπιακού τη Δευτέρα (27/1/2026). Ο Ολυμπιακός ξεκίνησε την προετοιμασία του για την αναμέτρηση ...  \nTo άρθρο Ολυμπιακός: Πρώτη προπόνηση για Κόρι Τζόσεφ, προπονήθηκε ο Ταϊρίκ Τζόουνς δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/joseph-3-1200x799.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ολυμπιακός: Προσγείωση στους σχεδόν μηδέν βαθμούς και η... μαγκιά του πιλότου!",
           "link": "https://www.gazzetta.gr/football/champions-league/2510602/olympiakos-prosgeiosi-stoys-shedon-miden-bathmoys-kai-i-magkia",
           "pubDate": "Tue, 27 Jan 2026 14:15:15 +0200",
           "description": "Σε ολλανδικό έδαφος πάτησε η αποστολή του Ολυμπιακού ενόψει του σπουδαίου αγώνα κόντρα στον Άγιαξ για την τελευταία αγωνιστική του Champions League. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_8.jpg?itok=3Dn4kHGo",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/apostoli-dala.jpg?itok=7kY4kZt0",
           "source": "Gazzetta"
         },
         {
@@ -803,7 +819,7 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Πόσα χρήματα μπορούν να πάρουν οι χρήστες της Apple από τα 95.000.000 αποζημίωσης: Ποιοι τα δικαιούνται ",
+          "title": "Πόσα χρήματα μπορούν να πάρουν οι χρήστες της Apple από τα 95 εκατ. αποζημίωσης: Ποιοι τα δικαιούνται ",
           "link": "https://www.gazzetta.gr/plus/2510601/posa-hrimata-mporoyn-na-paroyn-oi-hristes-tis-apple-apo-ta-95000000-apozimiosis-poioi",
           "pubDate": "Tue, 27 Jan 2026 13:44:28 +0200",
           "description": "Αν κάποιος διάθετε μια συσκευή Apple την τελευταία δεκαετία, μπορεί να δικαιούται ένα μέρος από την αγωγή μαζικής αποζημίωσης της εταιρείας, ύψους 95 εκατομμυρίων δολαρίων.",
@@ -969,22 +985,6 @@
           "description": "Η μετακίνηση του Χρήστου Μανδά στην Μπόρνμουθ προσθέτει ακόμα έναν Έλληνα ποδοσφαιριστή στην Premier League.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4898536.jpg?itok=9IkwsIby",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Γκρέι-Μπάρτλεϊ αποθεώνουν τον κόσμο της ΑΕΚ: «Οι καλύτεροι οπαδοί στην Ελλάδα»",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510573/gkrei-mpartlei-apotheonoyn-ton-kosmo-tis-aek-oi-kalyteroi-opadoi",
-          "pubDate": "Tue, 27 Jan 2026 12:32:47 +0200",
-          "description": "Με ένα τρομερό video, οι Ραϊκουάν Γκρέι και Φρανκ Μπάρτλεϊ αποθέωσαν τον κόσμο της ΑΕΚ παρακολουθώντας μεταξύ άλλων την περσινή αναμέτρηση όταν ήταν... αντίπαλοι.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gray_bartley_1.jpg?itok=XNRlzp90",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Επίσημο: Και τη... βούλα στην Μπόρνμουθ ο Μανδάς",
-          "link": "https://www.gazzetta.gr/football/premier-league/2510571/episimo-kai-ti-boyla-stin-mpornmoyth-o-mandas",
-          "pubDate": "Tue, 27 Jan 2026 12:30:39 +0200",
-          "description": "Στην Premier League και τη Μπόρνμουθ ανήκει με κάθε επισημότητα ο Χρήστος Μανδάς καθώς ανακοινώθηκε από τον αγγλικό σύλλογο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mandas.jpg?itok=opGCH43N",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Ελάχιστοι την θυμούνται: Η υποτιμημένη ταινία του Ertflix με Πατσίνο και ΜακΚόναχι αξίζει μια δεύτερη ευκαιρία",
+          "link": "https://panathinaikos24.gr/2026/01/27/617936/elaxistoi-tin-thymountai-i-ypotimimeni-tainia-tou-ertflix-me-patsino-kai-makkonaxi-aksizei-mia-deyteri-eykairia/",
+          "pubDate": "Tue, 27 Jan 2026 12:23:52 +0000",
+          "description": "Τζόγος, American Football, απληστία, φιλοδοξία άνευ όρων και 2 ηθοποιάρες – πώς να το προσπεράσεις αδιάφορα;",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/two-for-the-money-1200x747-1.jpg?fit=1200%2C747&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Βέρντερ Βρέμης – Χόφενχαϊμ με «Ενίσχυση» σε γκολ και παράδοση",
           "link": "https://panathinaikos24.gr/2026/01/27/617930/vernter-vremis-xofenxaim-me-enisxysi-se-gkol-kai-paradosi/",
@@ -1223,14 +1231,6 @@
           "description": "Σύμφωνα με πληροφορίες του Άρη Αντωνόπουλου που παρουσιάστηκαν στην εκπομπή «Green Monday» του «Όλα Πράσινα» το βράδυ της Δευτέρας, στον Παναθηναϊκό καταγράφεται έντονη κινητικότητα το τελευταίο διάστημα για την απόκτηση κεντρικού αμυντικού. Σύμφωνα με πληροφορίες του Άρη Αντωνόπουλου που παρουσιάστηκαν στην εκπομπή «Green Monday» του «Όλα Πράσινα» το βράδυ της Δευτέρας, στον Παναθηναϊκό καταγράφεται έντονη […]\nThe post Παναθηναϊκός: Έντονο ψάξιμο για μεταγραφή στόπερ – Πού κοιτούν οι «πράσινοι! (vid) appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/11/benitez-cover-1.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Ενός κακού, μεταγραφές έπονται: Η γκέλα στο Περιστέρι φέρνει 10άρι…",
-          "link": "https://panathinaikos24.gr/2026/01/27/617834/enos-kakou-metagrafes-epontai-i-gkela-sto-peristeri-fernei-10ari/",
-          "pubDate": "Tue, 27 Jan 2026 08:50:42 +0000",
-          "description": "Ο Παναθηναϊκός καλείται άμεσα να λύσει ένα από τα πιο σημαντικά του αγωνιστικά ζητήματα, το πράγμα «φωνάζει»…",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/benitez_1_4.webp?fit=1000%2C500&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
