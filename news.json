@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T11:30:36.790Z",
+  "lastUpdated": "2026-01-27T11:35:24.922Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ουκρανία: 3 νεκροί και πάνω από 20 τραυματίες από τις ρωσικές επιθέσεις – Χωρίς ρεύμα το Χάρκοβο",
+          "link": "https://www.newsit.gr/kosmos/oukrania-3-nekroi-kai-pano-apo-20-traymaties-apo-tis-rosikes-epitheseis-xoris-reyma-to-xarkovo/4584616/",
+          "pubDate": "Tue, 27 Jan 2026 11:33:09 +0000",
+          "description": "Τρεις νεκροί και περισσότεροι από 20 τραυματίες είναι ο τραγικός απολογισμός των ρωσικών επιθέσεων στη νότια Ουκρανία, όπως ανακοίνωσαν σήμερα Τρίτη (27.1.26) οι τοπικές αρχές, ...  \nTo άρθρο Ουκρανία: 3 νεκροί και πάνω από 20 τραυματίες από τις ρωσικές επιθέσεις – Χωρίς ρεύμα το Χάρκοβο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ukraine-odesa.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Γιώργος Καράβας: «Δεν με απασχολεί η κριτική των άλλων, ας με πουν ψώνιο και αλαζόνα»",
           "link": "https://www.newsit.gr/lifestyle/giorgos-karavas-den-me-apasxolei-i-kritiki-ton-allon-as-me-poun-psonio-kai-alazona/4584563/",
@@ -209,6 +217,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Γλυφάδα: Κόντεψαν να πνιγούν μέσα στο σπίτι τους – «Το νερό έφτασε το 1,60 – Δεν έχουμε ούτε ρούχα»",
+          "link": "https://www.in.gr/2026/01/27/greece/glyfada-kontepsan-na-pnigoun-mesa-sto-spiti-tous-nero-eftase-160-den-exoume-oute-rouxa/",
+          "pubDate": "Tue, 27 Jan 2026 13:31:08 +0300",
+          "description": "Η κακοκαιρία στη Γλυφάδα στοίχισε τη ζωή σε μία γυναίκα αλλά κι άλλοι κινδύνευσαν - Η δραματική μαρτυρία κατοίκου που έχει χάσει τα πάντα από την πλημμύρα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/glyfada-768x446.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Γαλλία: «Non, cher Mark Rutte» – «Οι Ευρωπαίοι μπορούν και πρέπει να αναλάβουν την ευθύνη της ασφάλειάς τους»",
+          "link": "https://www.in.gr/2026/01/27/world/gallia-non-cher-mark-rutte-oi-eyropaioi-mporoun-kai-prepei-na-analavoun-tin-eythyni-tis-asfaleias-tous/",
+          "pubDate": "Tue, 27 Jan 2026 13:30:27 +0300",
+          "description": "Ο επικεφαλής του ΝΑΤΟ είπε ότι χωρίς τις Ηνωμένες Πολιτείες, η Ευρώπη δεν μπορεί - Σε Βερολίνο και Παρίσι σήμερα και αύριο οι πρωθυπουργοί της Δανίας και της Γροιλανδίας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-21T182934Z_917272143_RC2U5JAVXTYM_RTRMADP_5_DAVOS-MEETING-TRUMP-1200x800-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Παπασταύρου: Tέλος στο πολεοδομικό αλαλούμ με τον Κώδικα Πολεοδομίας – Αναστολή οικοδομικών εργασιών στη Μήλο",
           "link": "https://www.newsit.gr/oikonomia/finance/papastayrou-telos-sto-poleodomiko-alaloum-me-ton-kodika-poleodomias-anastoli-oikodomikon-ergasion-sti-milo/4584545/",
           "pubDate": "Tue, 27 Jan 2026 10:29:18 +0000",
@@ -223,30 +247,6 @@
           "description": "Σύμφωνα με τις πρώτες εκτιμήσεις, το έδαφος εμφανίζεται ιδιαίτερα ασταθές",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/katolisthisi-kanaria-varkizas.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Νέα ημερομηνία πρεμιέρας για την ταινία «Hit Me Hard and Soft» σε σκηνοθεσία Μπίλι Άιλις και Τζέιμς Κάμερον",
-          "link": "https://www.newsit.gr/lifestyle/nea-imerominia-premieras-gia-tin-tainia-hit-me-hard-and-soft-se-skinothesia-mpili-ailis-kai-tzeims-kameron/4584542/",
-          "pubDate": "Tue, 27 Jan 2026 10:24:37 +0000",
-          "description": "Η 3D συναυλιακή ταινία «Hit Me Hard and Soft», η οποία καταγράφει την πρόσφατη περιοδεία της Μπίλι Άιλις (Billie Eilish) για το τρίτο της άλμπουμ, ...  \nTo άρθρο Νέα ημερομηνία πρεμιέρας για την ταινία «Hit Me Hard and Soft» σε σκηνοθεσία Μπίλι Άιλις και Τζέιμς Κάμερον δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/billieeilish-apempe-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Είχε πρόγραμμα: Έβαλε γκολ, του πέταξαν μπύρα, ήπιε… τζούρα και πανηγύρισε! (vid)",
-          "link": "https://www.in.gr/2026/01/27/sports/football/eixe-programma-evale-gkol-tou-petaksan-mpyra-ipie-tzoura-kai-panigyrise-vid/",
-          "pubDate": "Tue, 27 Jan 2026 13:23:28 +0300",
-          "description": "Απίθανο περιστατικό σε ποδοσφαιρικό ντέρμπι στη Βραζιλία, όταν ο Κάιο Ζόρζε της Κρουζέιρο έπιασε ποτήρι μπύρα στον αέρα και πανηγύρισε δεόντως το γκολ που έβαλε...",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/cruzeiro-27126-768x488.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "ΤΕΧΑΝ: Το 1ο Πανελλήνιο σχολικό πρωτάθλημα ανακύκλωσης Δευτεροβάθμιας Εκπαίδευσης σε πλήρη εξέλιξη",
-          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/texan-to-1o-panellinio-sxoliko-protathlima-anakyklosis-deyterovathmias-ekpaideysis-se-pliri-ekseliksi/4584525/",
-          "pubDate": "Tue, 27 Jan 2026 10:23:15 +0000",
-          "description": "Σε πλήρη εξέλιξη βρίσκεται το «1ο Πανελλήνιο Σχολικό Πρωτάθλημα Ανακύκλωσης» που διοργανώνει η ΤΕΧΑΝ ΑΒΕΕ, πρωτοπόρος στον τομέα της κυκλικής οικονομίας και της ανακύκλωσης. Η ...  \nTo άρθρο ΤΕΧΑΝ: Το 1ο Πανελλήνιο σχολικό πρωτάθλημα ανακύκλωσης Δευτεροβάθμιας Εκπαίδευσης σε πλήρη εξέλιξη δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/texan-mathites-anakiklosi.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παναθηναϊκός: Κυκλοφορούν το απόγευμα της Τρίτης (27/01) τα εισιτήρια με την Κηφισιά",
+          "link": "https://www.gazzetta.gr/football/superleague/2510588/panathinaikos-kykloforoyn-apogeyma-tis-tritis-2701-ta-eisitiria-me-tin",
+          "pubDate": "Tue, 27 Jan 2026 13:32:14 +0200",
+          "description": "Ο Παναθηναϊκός ενημέρωσε πως το απόγευμα της Τρίτης (27/01) στις 16:00 θα τεθούν στην διάθεση των οπαδών του τα εισιτήρια του αγώνα με την Κηφισιά.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/panathinaikos_kosmos_intime_0.jpg?itok=5_mQo4Wo",
+          "source": "Gazzetta"
+        },
+        {
           "title": "11ος Δρόμος Εκεχειρίας στις 26 Απριλίου – Οι εγγραφές ξεκίνησαν",
           "link": "https://www.newsit.gr/athlitika/11os-dromos-ekexeirias-stis-26-apriliou-oi-eggrafes-ksekinisan/4584622/",
           "pubDate": "Tue, 27 Jan 2026 11:23:29 +0000",
@@ -977,14 +985,6 @@
           "description": "Η βρετανική ομάδα της Formula 1 τρέχει να προλάβει ώστε να γράψει έστω και λίγα χιλιόμετρα στην πίστα της Βαρκελώνης αυτή την εβδομάδα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/2249642362_1.jpg?itok=XsjSWVCq",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΝΒΑ Europe: Οι πέντε ευρωπαϊκές χώρες που έχει εστιάσει ",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510556/nba-europe-oi-pente-eyropaikes-hores-poy-ehei-estiasei",
-          "pubDate": "Tue, 27 Jan 2026 11:37:48 +0200",
-          "description": "Πέντε είναι οι χώρες που έχει «κυκλώσει» το NBA ενόψει της δημιουργίας του NBA Europe οι οποίες θα έχουν από δύο εκπροσώπους.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2021-08/silver.jpg?itok=8hlL-7Vu",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Ακυρώνει και τη μεταγραφή του Καμπίνι ο Παναθηναϊκός!",
+          "link": "https://trifilara.gr/akyronei-kai-ti-metagrafi-tou-kabini-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=akyronei-kai-ti-metagrafi-tou-kabini-o-panathinaikos",
+          "pubDate": "Tue, 27 Jan 2026 11:32:21 +0000",
+          "description": "Ανατροπές και ένταση στον Παναθηναϊκό - στον «αέρα» και του Καμπινί μετά τον Κραλ.\nThe post Ακυρώνει και τη μεταγραφή του Καμπίνι ο Παναθηναϊκός! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
         {
           "title": "Έτοιμος να ακυρώσει και τη μεταγραφή Καμπίνι ο Παναθηναϊκός!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/etoimos-na-akyrosei-kai-ti-metagrafi-k/?utm_source=rss&utm_medium=rss&utm_campaign=etoimos-na-akyrosei-kai-ti-metagrafi-k",
@@ -1223,14 +1231,6 @@
           "description": "Η ομοσπονδία γνωστοποίησε τα ζευγάρια και την ημερομηνία που θα διεξαχθούν οι προημιτελικοί αγώνες του Κυπέλλου Ελλάδας Γυναικών.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/haylie-bennett-panathinaikos-volley-intime-5002760.webp?fit=1300%2C700&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Όνομα-έκπληξη: Σε ποιον δημοσιογράφο θα δώσει συνέντευξη ο Μητσοτάκης",
-          "link": "https://panathinaikos24.gr/2026/01/27/617863/onoma-ekpliksi-se-poion-dimosiografo-tha-dosei-synenteyksi-o-mitsotakis/",
-          "pubDate": "Tue, 27 Jan 2026 07:11:18 +0000",
-          "description": "Τι αναμένεται να συζητηθεί στη συνέντευξη.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5%CF%85%CE%BC%CE%BD%CE%B5%CF%84%CE%B8%CF%81%CF%85%CE%BD%CE%BC%CF%85%CF%86%CE%B3.jpg?fit=895%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
@@ -1238,6 +1238,22 @@
       "title": "ΤΕΧΝΟΛΟΓΙΑ & SCIENCE",
       "color": "pink",
       "articles": [
+        {
+          "title": "Πως η ψηφιακή καθημερινότητα επηρεάζει την οικογενειακή ζωή",
+          "link": "https://www.techgear.gr/pos-i-psifiaki-kathimerinotita-epireazei-tin-oikogeneiaki-zoi-47344",
+          "pubDate": "Tue, 27 Jan 2026 13:33:00 +0200",
+          "description": "Η πιο πρόσφατη έρευνα της Kaspersky δείχνει ότι το 97% των ανθρώπων αλληλεπιδρούν με τα μέλη της οικογένειάς τους ψηφιακά. Η μελέτη αποκαλύπτει ότι το...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/kaspersky-home.jpg",
+          "source": "Techgear"
+        },
+        {
+          "title": "AMD Ryzen 7 9850X3D: Έρχεται σε πανίσχυρο \"all-in-one\" bundle με RAM και ψύκτρα",
+          "link": "https://gr.pcmag.com/processors/51133/amd-ryzen-7-9850x3d-erkhetai-se-paniskhuro-all-in-one-bundle-me-ram-kai-psuktra",
+          "pubDate": "Tue, 27 Jan 2026 11:31:16 +0000",
+          "description": "Η απάντηση της AMD στην έλλειψη μνημών DDR5 και το στρατηγικό πακέτο με V-Color και Cooler Master που στοχεύει την κορυφή του gaming.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/l/leak-tips-/leak-tips-bundle-with-amd-ryzen-7-9850x3d-ram-and-cooler_373w.jpg",
+          "source": "PC Magazine"
+        },
         {
           "title": "80 φορές πιο ισχυρό: Το αέριο που θερμαίνει τον πλανήτη ταχύτερα από το CO2",
           "link": "https://www.techgear.gr/80-fores-pio-ischyro-to-aerio-poy-thermainei-ton-planiti-tachytera-apo-to-co2-47343",
@@ -1460,22 +1476,6 @@
           "pubDate": "Mon, 26 Jan 2026 14:19:00 +0200",
           "description": "Μια νέα σελίδα στην αντιμετώπιση των καρδιαγγειακών παθήσεων ετοιμάζεται να γυρίσει η βιοτεχνολογία, με την Scribe Therapeutics να ανακοινώνει ένα ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/scribe-therapeutics-cholesterol.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "OPPO Reno15 Series: Παρουσιάστηκε επίσημα η νέα mid-range γενιά με 4 μοντέλα",
-          "link": "https://www.techgear.gr/oppo-reno15-series-paroysiastike-episima-i-nea-mid-range-genia-me-4-montela-47326",
-          "pubDate": "Mon, 26 Jan 2026 14:07:00 +0200",
-          "description": "Η OPPO ανακοίνωσε σήμερα την κυκλοφορία της σειράς Reno15, η οποία περιλαμβάνει  τα Reno15 Pro Max 5G, Reno15 Pro 5G, Reno15 5G και Reno15 F 5G. ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/oppo-reno-15-fs-15-pro-kv.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Ανεπανάληπτο: Η πρώτη καταγραφή ηλεκτρονίων να σπάνε χημικούς δεσμούς σε πραγματικό χρόνο",
-          "link": "https://www.techgear.gr/anepanalipto-i-proti-katagrafi-ilektronion-na-spane-chimikoys-desmoys-se-pragmatiko-chrono-47325",
-          "pubDate": "Mon, 26 Jan 2026 13:35:00 +0200",
-          "description": "Τα εγχειρίδια Χημείας και Φυσικής διδάσκουν στους φοιτητές πώς σχηματίζονται και πώς σπάνε οι χημικοί δεσμοί. Χρησιμοποιούμε διαγράμματα, εξισώσεις ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/electrons-breaking-atoms.jpg",
           "source": "Techgear"
         }
       ]
