@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T03:45:31.076Z",
+  "lastUpdated": "2026-01-27T03:50:27.442Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
+          "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 03:47:51 GMT",
+          "description": "He has been described as an avid outdoorsman who loved mountain biking.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1751/live/9fd14180-f9ea-11f0-811c-ad0579c12ce2.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene",
           "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 03:06:52 GMT",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/my-europe/2026/01/26/greenlandic-minister-says-that-us-interests-are-unclear-with-no-deal-yet-on-the-table",
           "pubDate": "Mon, 26 Jan 2026 17:46:16 +0100",
           "description": "Η υπουργός ορυκτών πόρων σημείωσε ότι η Γροιλανδία ζητεί σαφήνεια για τις απαιτήσεις του Τραμπ και προειδοποίεί ότι «πλήρης πρόσβαση» στους ορυκτούς πόρους παραβιάζει τις κόκκινες γραμμές της κυβέρνησης της",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Η Ιταλία καλεί την ΕΕ να κατατάξει το Σώμα Φρουρών της Επανάστασης του Ιράν στον κατάλογο των «τρομοκρατικών οργανώσεων»",
-          "link": "http://gr.euronews.com/2026/01/26/h-italia-kalei-thn-ee-na-katata3ei-to-swma-froyrwn-ths-epanastashs-toy-iran-ston-katalogo",
-          "pubDate": "Mon, 26 Jan 2026 17:33:47 +0100",
-          "description": "Η τοποθέτηση του ισχυρότερου κλάδου των ενόπλων δυνάμεων του Ιράν στον κατάλογο τρομοκρατών της ΕΕ θα τοποθετούσε το IRGC δίπλα σε ομάδες όπως το λεγόμενο ΙΚ, η Αλ Κάιντα, η Χαμάς και η Παλαιστινιακή Ισλαμική Τζιχάντ.",
           "thumbnail": null,
           "source": "Euronews"
         }
