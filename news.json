@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T05:50:26.508Z",
+  "lastUpdated": "2026-01-27T05:55:33.462Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Σέλτικς - Μπλέιζερς 102-94: Επιστροφή στις νίκες με τρομερό 12λεπτο! ",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510508/seltiks-mpleizers-102-94-epistrofi-stis-nikes-me-tromero-12lepto",
+          "pubDate": "Tue, 27 Jan 2026 07:42:52 +0200",
+          "description": "Η πρώτη περίοδος ήταν αρκετή για τους Μπόστον Σέλτικς προκειμένου να φτάσουν στη νίκη επί των Πόρτλαντ Τρέιλ Μπλέιζερς με 102-94!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/brown_protchard_celtics_x.jpg?itok=o5bljhOT",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ρόκετς - Γκρίζλις 108-99: Σένγκουν και Ντουράντ πέτυχαν 66 πόντους και έκαναν τη δουλειά!",
           "link": "https://www.gazzetta.gr/basketball/nba/2510507/rokets-gkrizlis-108-99-sengkoyn-kai-ntoyrant-petyhan-66-pontoys-kai-ekanan",
           "pubDate": "Tue, 27 Jan 2026 07:29:00 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Mon, 26 Jan 2026 21:40:30 +0200",
           "description": "Στον τραυματισμό του Γιάννη Αντετοκούνμπο, αναφέρθηκε ο τεχνικός των Μπακς, Ντοκ Ρίβερς, αναφέροντας πως δεν υπάρχει χρονοδιάγραμμα επιστροφής.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/antetokounmpo.jpg?itok=n6k6SFgY",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ευρωπαϊκό πρωτάθλημα: Νίκη στο ντέρμπι της πρεμιέρας για την Ουγγαρία",
-          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510419/eyropaiko-protathlima-niki-sto-ntermpi-tis-premieras-gia",
-          "pubDate": "Mon, 26 Jan 2026 21:40:07 +0200",
-          "description": "Η Ουγγαρία πήρε το ντέρμπι της πρώτης αγωνιστικής στη φάση των ομίλων του Ευρωπαϊκού πρωταθλήματος κόντρα στην Ισπανία. Νίκη για τη Γαλλία στον όμιλο της Εθνικής ομάδας..",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hungary_waterpolo.jpg?itok=A30J1R0v",
           "source": "Gazzetta"
         }
       ]
