@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T01:30:31.829Z",
+  "lastUpdated": "2026-01-27T01:35:25.059Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Η ΕΕ… κοπιάρει τους Κινέζους για να γίνει υπερδύναμη",
+          "link": "https://www.in.gr/2026/01/27/economy/diethnis-oikonomia/ee-kopiarei-tous-kinezous-gia-na-ginei-yperdynami/",
+          "pubDate": "Tue, 27 Jan 2026 03:33:26 +0300",
+          "description": "Η ΕΕ κινδυνεύει να αποτρέψει τους επενδυτές με νέα γραφειοκρατία και απαιτήσεις τύπου Πεκίνου για τις ξένες εταιρείες",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ant-rozetsky-_qWeqqmpBpU-unsplash-768x510.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Αποκαταστάθηκε η κυκλοφορία στη Λεωφόρο Δημοκρατίας στα Μελίσσια μετά την καθίζηση του οδοστρώματος",
           "link": "https://www.protothema.gr/greece/article/1763880/apokatastathike-i-kukloforia-sti-leoforo-dimokratias-sta-melissia-meta-tin-kathizisi-tou-odostromatos/?utm_source=rss",
@@ -239,14 +247,6 @@
           "description": "Μετά από καταγγελία και εισαγγελική παραγγελία έγινε έρευνα στο σπίτι του 48χρονου στον Πειραιά εντοπίστηκε κρυμμένη στο πατάρι μια μαρμάρινη ναόσχημη αναθηματική στήλη",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/marmar_00-768x554.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Εξαφανίστηκε 16χρονη από τον Κορυδαλλό – Η ανακοίνωση από το «Χαμόγελο του Παιδιού»",
-          "link": "https://www.newsit.gr/ellada/eksafanistike-16xroni-apo-ton-korydallo-i-anakoinosi-apo-to-xamogelo-tou-paidiou/4584239/",
-          "pubDate": "Mon, 26 Jan 2026 20:56:56 +0000",
-          "description": "Συναγερμός σήμανε την Δευτέρα (26.01.2026) για την εξαφάνιση μιας 16χρονης από την περιοχή του Κορυδαλλού. Η εξαφάνιση της 16χρονης Ελένης Α. από την περιοχή του ...  \nTo άρθρο Εξαφανίστηκε 16χρονη από τον Κορυδαλλό – Η ανακοίνωση από το «Χαμόγελο του Παιδιού» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/exafanisi-1-1-1200x630.jpg",
-          "source": "NewsIT"
         }
       ]
     },
