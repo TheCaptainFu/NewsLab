@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:35:29.380Z",
+  "lastUpdated": "2026-01-27T21:40:29.709Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Λάρισα: «Έφυγε» από τη ζωή 55χρονος όταν έμαθε για το τροχαίο στη Ρουμανία",
+          "link": "https://www.protothema.gr/greece/article/1764495/larisa-efuge-apo-ti-zoi-55hronos-otan-emathe-gia-to-trohaio-sti-roumania/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 23:35:00 +0200",
+          "description": "Ο 55χρονος πιθανότατα είχε πρόβλημα με την καρδιά του και φέρεται να είχε προγραμματίσει επέμβαση",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/6826977.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Βιολάντα: «Οι συλλήψεις πραγματοποιήθηκαν βάσει της προβλεπόμενης από τον νόμο διαδικασίας» – Νέα ανακοίνωση της εταιρείας",
           "link": "https://www.newsit.gr/ellada/violanta-oi-syllipseis-pragmatopoiithikan-vasei-tis-provlepomenis-apo-ton-nomo-diadikasias-nea-anakoinosi-tis-etaireias/4585196/",
@@ -239,14 +247,6 @@
           "description": "Η UEFA προχώρησε σε ανακοίνωση υποστήριξης στον ΠΑΟΚ, μετά το τραγικό δυστύχημα στη Ρουμανία, που στοίχισε τη ζωή σε επτά οπαδούς της ομάδας της Θεσσαλονίκης. ...  \nTo άρθρο UEFA: «Στεκόμαστε στο πλευρό του ΠΑΟΚ για το τραγικό δυστύχημα στη Ρουμανία» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/screenshot-2026-01-27-214333.png",
           "source": "NewsIT"
-        },
-        {
-          "title": "Η Ουκρανία πρέπει να υπογράψει τη συνθήκη ειρήνης με την Ρωσία για να ισχύσουν οι εγγυήσεις ασφαλείας των ΗΠΑ",
-          "link": "https://www.in.gr/2026/01/27/world/oukrania-prepei-na-ypograpsei-ti-synthiki-eirinis-tin-rosia-gia-na-isxysoun-oi-eggyiseis-asfaleias-ton-ipa/",
-          "pubDate": "Tue, 27 Jan 2026 22:46:20 +0300",
-          "description": "Οι ΗΠΑ διαμήνυσαν στην Ουκρανία πως για να τεθούν σε ισχύ οι εγγυήσεις ασφαλείας, η τελευταία οφείλει να υπογράψει συνθήκη ειρήνης με τη Ρωσία",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-27T150035Z_148498765_RC2PWEA8HQKH_RTRMADP_5_SCIENCE-DOOMSDAYCLOCK-768x519.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -641,7 +641,7 @@
           "link": "https://www.bbc.com/news/articles/c9qp3x5x2jpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 17:09:26 GMT",
           "description": "The Canadian prime minister confirmed that he and the US president spoke by phone after Trump threatened 100% tariffs on Canada.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a971/live/c3b99460-fb9a-11f0-bb99-e9cf31cf2a39.jpg",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c777/live/1a55ffc0-fbc8-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
         },
         {
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ελλάδα: Με Ιταλία και μια εκ των Σερβίας ή Κροατίας στη β' φάση στο ευρωπαϊκό πόλο",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510768/ellada-me-italia-kai-mia-ek-ton-serbias-i-kroatias-sti-b",
+          "pubDate": "Tue, 27 Jan 2026 23:40:07 +0200",
+          "description": "Η Ιταλία και η νικήτρια του αγώνα Σερβία-Κροατία θα είναι οι αντίπαλοι της εθνικής ομάδας πόλο γυναικών στο ευρωπαϊκό πρωτάθλημα στο Φούντσαλ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hellas_women_water_polo.jpg?itok=zaaqhBcZ",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Καρδίτσα - Τόφας 79-93: Τα highlights",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510767/karditsa-tofas-79-93-ta-highlights",
+          "pubDate": "Tue, 27 Jan 2026 23:37:25 +0200",
+          "description": "Η Καρδίτσα δεν τα κατάφερε απέναντι στην Τόφας και γνώρισε την ήττα με 79-93. Δείτε τα highlights της αναμέτρησης.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jeferson_eurokinissi.jpg?itok=iPvKrX21",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οδύνη στην Αλεξάνδρεια",
           "link": "https://www.gazzetta.gr/football/europa-league/2510766/paok-dystyhima-sti-roymania-odyni-stin-alexandreia",
@@ -969,22 +985,6 @@
           "description": "Η Καρδίτσα πάλεψε για περίπου ένα ημίχρονο απέναντι στην Τόφας, όμως δεν μπόρεσε να ακολουθήσει στην συνέχεια την άκρος ποιοτική αντίπαλό της, γνωρίζοντας την ήττα με 79-93.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/korkmaz_eurokinissi.jpg?itok=Nh3LiE7E",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Παυλίδης: «Οι άλλες ομάδες έχουν υιοθετήσει το δικό μας σύστημα, η άμυνα είναι το κλειδί»",
-          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510744/paylidis-oi-alles-omades-ehoyn-yiothetisei-diko-mas-systima",
-          "pubDate": "Tue, 27 Jan 2026 21:25:06 +0200",
-          "description": "Τι δήλωσε ο Χάρης Παυλίδης μετά τη νίκη επί της Γαλλίας και κυρίως για τα σημεία που θα κρίνουν την πορεία της Ελλάδας στο ευρωπαϊκό πρωτάθλημα γυναικών στο Φούντσαλ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pavlidis_vlodakis.jpg?itok=XTdOkAQV",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Ζήτησε αναβολή για όλους τους αγώνες ο Ερασιτέχνης",
-          "link": "https://www.gazzetta.gr/volleyball/a1-andron/2510742/paok-dystyhima-sti-roymania-zitise-anaboli-gia-oloys-toys-agones-o",
-          "pubDate": "Tue, 27 Jan 2026 21:21:19 +0200",
-          "description": "Ο ΑΣ ΠΑΟΚ μετά από απόφαση του ΔΣ ζήτησε την αναβολή των αγώνων όλων των τμημάτων την τρέχουσα βδομάδα ως ελάχιστο φόρο τιμής στους 7 φίλους της ομάδας που έχασαν την ζωή τους σε δυστύχημα στη Ρουμανία.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4989479_1.jpg?itok=-y3lQPPl",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Ερντέμ: «Οικογένεια ο Παναθηναϊκός, όταν είδα στην TV έναν αγώνα του ονειρεύτηκα να καθίσω στον πάγκο του»",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/erdem-oikogeneia-o-panathinaikos-otan-eida-sthn-tv-enan-agwna-tou-oneireuthka-na-kathisw-ston-pagko-tou/?utm_source=rss&utm_medium=rss&utm_campaign=erdem-oikogeneia-o-panathinaikos-otan-eida-sthn-tv-enan-agwna-tou-oneireuthka-na-kathisw-ston-pagko-tou",
+          "pubDate": "Tue, 27 Jan 2026 21:36:50 +0000",
+          "description": "Η Σελέν Ερντέμ παραχώρησε συνέντευξη στην Cosmote tv και τον Βασίλη Σκουντή μιλώντας για πάρα πολλά πράγματα. Αναλυτικά τα όσα δήλωσε: Για την τελευταία φορά που πήγε στην Μερσίνη: «Πέρσι είχα πάει. 12 Φεβρουαρίου θα είμαστε εκεί. Πρώτα θα τους υποδεχθούμε εδώ». Για το τι άποψη έχει για την Μερσίν: «Είναι από τις μεγαλύτερες ομάδες […]\nThe post Ερντέμ: «Οικογένεια ο Παναθηναϊκός, όταν είδα στην TV έναν αγώνα του ονειρεύτηκα να καθίσω στον πάγκο του» appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/erdem.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Γκούμας: «Η Ριζούπολη κατέστρεψε τον Παναθηναϊκό – Θα πάρει πρωτάθλημα ο Αλαφούζος» (vid)",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/gkoumas-h-rizoupolh-katestrepse-ton-panathinaiko-tha-parei-prwtathlima-o-alafouzos-vid/?utm_source=rss&utm_medium=rss&utm_campaign=gkoumas-h-rizoupolh-katestrepse-ton-panathinaiko-tha-parei-prwtathlima-o-alafouzos-vid",
@@ -1167,14 +1175,6 @@
           "description": "Η ΚΑΕ Παναθηναϊκός θέλησε να στείλει τα συλλυπητήριά της στην οικογένεια του ΠΑΟΚ.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/paobc.jpg?fit=719%2C448&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Παναθηναϊκός: «Έκοψε» τη μεταγραφή Νιάς και όχι μόνο, επειδή… διέρρευσαν τα ονόματα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ekopse-ti-metagrafi-ni/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ekopse-ti-metagrafi-ni",
-          "pubDate": "Tue, 27 Jan 2026 15:21:16 +0000",
-          "description": "Η αντίδραση Αλαφούζου, το «κόψιμο» ονομάτων και τα μηνύματα προς όλες τις κατευθύνσεις. Ασχημα ξεκίνησε το τριήμερο της Παρασκευής για τον Παναθηναϊκό, καθώς στο εσωτερικό της ΠΑΕ προέκυψε σοβαρή ενόχληση από τον Γιάννη Αλαφούζο με αφορμή τις διαρροές γύρω από μεταγραφικούς στόχους. Η σταγόνα που ξεχείλισε το ποτήρι ήταν η δημοσιοποίηση του ονόματος του Σεχ […]\nThe post Παναθηναϊκός: «Έκοψε» τη μεταγραφή Νιάς και όχι μόνο, επειδή… διέρρευσαν τα ονόματα! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/11/alafouzos-2-3.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Νέες ενοχλήσεις ο Πελίστρι πριν τη Ρόμα!",
