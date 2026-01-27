@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-27T08:50:31.275Z",
+  "lastUpdated": "2026-01-27T08:54:24.835Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Η Σίντνεϊ Σουίνι κρέμασε σουτιέν της στην πινακίδα του Χόλιγουντ και κινδυνεύει με σύλληψη – Δείτε το βίντεο",
+          "link": "https://www.newsit.gr/lifestyle/i-sintnei-souini-kremase-soutien-tis-stin-pinakida-tou-xoligount-kai-kindyneyei-me-syllipsi-deite-to-vinteo/4584475/",
+          "pubDate": "Tue, 27 Jan 2026 08:51:48 +0000",
+          "description": "Η Αμερικανίδα ηθοποιός Σίντνεϊ Σουίνι κινδυνεύει να συλληφθεί για βανδαλισμό, αφού σκαρφάλωσε στην πινακίδα του Χόλιγουντ και κρέμασε τα σουτιέν της σε αυτήν για να ...  \nTo άρθρο Η Σίντνεϊ Σουίνι κρέμασε σουτιέν της στην πινακίδα του Χόλιγουντ και κινδυνεύει με σύλληψη – Δείτε το βίντεο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sydney-sweeney-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Κακοκαιρία στις ΗΠΑ: Στους 20 οι νεκροί από το πολικό ψύχος και τη χιονοθύελλα – Εκατομμύρια πολίτες έμειναν χωρίς ρεύμα",
           "link": "https://www.newsit.gr/kosmos/kakokairia-stis-ipa-stous-20-oi-nekroi-apo-to-poliko-psyxos-kai-ti-xionothyella-ekatommyria-polites-emeinan-xoris-reyma/4584449/",
@@ -65,7 +73,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Τροχαίο στη Λεωφόρο Αθηνών στο Περιστέρι, πού έχει καθυστερήσεις\n",
+          "title": "Τροχαία σε Λεωφόρο Αθηνών και Κηφισό, πού έχει καθυστερήσεις\n",
           "link": "https://www.protothema.gr/greece/article/1764021/trohaio-sti-leoforo-athinon-sto-peristeri-pou-ehei-kathusteriseis/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 10:35:00 +0200",
           "description": "Δεν υπάρχουν αναφορές για τραυματίες",
@@ -239,14 +247,6 @@
           "description": "Σύμφωνα με τις πληροφορίες του newsauto, η εφαρμογή ναρκοτέστ στους ελέγχους της Τροχαίας δεν βρίσκεται πλέον στο επίπεδο της συζήτησης ή των σεναρίων.",
           "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-27/narcotest_alkotest_shutterstock_2610767169.jpeg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Αγγελική Κανελλοπούλου: «Τα παιδιά είναι χαρούμενα» δηλώνει για την Μαρία Σάκκαρη και τον Κωνσταντίνο Μητσοτάκη που ετοιμάζονται να παντρευτούν",
-          "link": "https://www.newsit.gr/lifestyle/aggeliki-kanellopoulou-ta-paidia-einai-xaroumena-dilonei-gia-tin-maria-sakkari-kai-ton-konstantino-mitsotaki-pou-etoimazontai-na-pantreytoun/4584395/",
-          "pubDate": "Tue, 27 Jan 2026 07:35:05 +0000",
-          "description": "Η Αγγελική Κανελλοπούλου παραχώρησε δηλώσεις στην κάμερα της εκπομπής «Happy Day» και μίλησε για τον γάμο της κόρης της, που βρίσκεται προ των πυλών. Όπως ...  \nTo άρθρο Αγγελική Κανελλοπούλου: «Τα παιδιά είναι χαρούμενα» δηλώνει για την Μαρία Σάκκαρη και τον Κωνσταντίνο Μητσοτάκη που ετοιμάζονται να παντρευτούν δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kanellopoulou-ndp-1200x911.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -287,6 +287,22 @@
           "source": "Το Βήμα"
         },
         {
+          "title": "Στην τελική ευθεία για ανακοίνωση ημερομηνίας ελληνοτουρκικού Ανώτατου Συμβουλίου Συνεργασίας",
+          "link": "https://www.tanea.gr/2026/01/27/politics/stin-teliki-eytheia-gia-anakoinosi-imerominias-ellinotourkikou-anotatou-symvouliou-synergasias/",
+          "pubDate": "Tue, 27 Jan 2026 05:41:04 +0000",
+          "description": "Σε διαρκή επαφή βρίσκονται όλο αυτό το διάστημα οι αντιπροσωπείες σε Αθήνα και Άγκυρα με στόχο την οριστικοποίηση της ημερομηνίας διεξαγωγής του 6ου Ανώτατου Συμβουλίου Συνεργασίας των δύο χωρών στην Τουρκία. Έως και εχθές αργά, οι διμερείς επικοινωνίες που στο επίκεντρό τους έχουν την αντιπαραβολή των προγραμμάτων των δύο ηγετών δεν είχαν καταλήξει σε κάποιο […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2024/12/6394317-1.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Οι κτηνοτρόφοι αγωνιούν, ο Μητσοτάκης συγκαλεί νέα σύσκεψη για την ευλογιά – Στο Μαξίμου σήμερα 4 περιφερειάρχες",
+          "link": "https://www.tanea.gr/2026/01/27/politics/oi-ktinotrofoi-agonioun-o-mitsotakis-sygkalei-nea-syskepsi-gia-tin-eylogia-sto-maksimou-simera-4-perifereiarxes/",
+          "pubDate": "Tue, 27 Jan 2026 05:32:43 +0000",
+          "description": "Επί τάπητος τα μέτρα βιοασφάλειας στις περιφέρειες Κεντρικής Μακεδονίας, Θεσσαλίας, Δυτικής Ελλάδας και Ανατολικής Μακεδονίας και Θράκης. Αντιπαράθεση για τα εμβόλια.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/11/Maximou-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "ΠαΣοΚ: Σκληραίνει τη στάση του ο Ανδρουλάκης – Επίθεση σε Δούκα, Διαμαντοπούλου",
           "link": "https://www.tovima.gr/2026/01/27/politics/pasok-sklirainei-ti-stasi-tou-o-androulakis-epithesi-se-douka-diamantopoulou/",
           "pubDate": "Tue, 27 Jan 2026 08:25:12 +0300",
@@ -311,12 +327,28 @@
           "source": "Το Βήμα"
         },
         {
+          "title": "Τραγωδία στα Τρίκαλα: Συλλυπητήριο μήνυμα της Κίμπερλι Γκίλφοϊλ για την φονική έκρηξη στη «Βιολάντα»",
+          "link": "https://www.tanea.gr/2026/01/26/greece/tragodia-sta-trikala-syllypitirio-minyma-tis-kimperli-gkilfoil-gia-tin-foniki-ekriksi-sti-violanta/",
+          "pubDate": "Mon, 26 Jan 2026 20:04:02 +0000",
+          "description": "Οι αναρτήσεις της αμερικανικής πρεσβείας και της πρέσβειρας",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6786294-1024x684.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Η συζήτηση για την ενότητα διχάζει την ευρύτερη κεντροαριστερά",
           "link": "https://www.naftemporiki.gr/politics/2064215/i-syzitisi-gia-tin-enotita-dichazei-tin-eyryteri-kentroaristera/?utm_source=rss&utm_medium=rss&utm_campaign=i-syzitisi-gia-tin-enotita-dichazei-tin-eyryteri-kentroaristera",
           "pubDate": "Mon, 26 Jan 2026 19:17:40 +0000",
           "description": "Είναι από τα παράδοξα της Αριστεράς ότι η συζήτηση για την απαιτούμενη ενότητα της Αριστεράς προκειμένου να προκύψει αξιόπιστη εναλλακτική στην κυβέρνηση Μητσοτάκη προκαλεί νέους διχασμούς.\nΗ συζήτηση για την ενότητα διχάζει την ευρύτερη κεντροαριστερά - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Τι κρύβει η συζήτηση για επέκταση χωρικών υδάτων",
+          "link": "https://www.tanea.gr/print/2026/01/26/politics/ti-kryvei-i-syzitisi-gia-epektasi-xorikon-ydaton/",
+          "pubDate": "Mon, 26 Jan 2026 18:00:00 +0000",
+          "description": "Η στρατηγική της Αθήνας και ο εκνευρισμός της Αγκυρας",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/kimon-2-1024x683.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "SAFE: Εγκρίθηκε από την Κομισιόν το δεύτερο πακέτο 74 δισ. ευρώ – Η Ελλάδα μεταξύ των 8 νέων χωρών",
@@ -399,6 +431,22 @@
           "source": "Το Βήμα"
         },
         {
+          "title": "Τριβές στο ΠΑΣΟΚ: Οι συνεργασίες είναι μόνο η αφορμή",
+          "link": "https://www.tanea.gr/print/2026/01/26/politics/oi-synergasies-einai-mono-lfi-aformi/",
+          "pubDate": "Mon, 26 Jan 2026 14:07:00 +0000",
+          "description": "Το ΠΑΣΟΚ οδεύει προς το συνέδριο του Μαρτίου όχι απλώς με ανοικτές εκκρεμότητες, αλλά με μια ορατή εσωκομματική κρίση, η οποία βαθαίνει όσο πλησιάζει η ώρα των αποφάσεων. Δεν πρόκειται για ιδεολογική ζύμωση ούτε για δημιουργική πολυφωνία. Πρόκειται για σύγκρουση στρατηγικών, φιλοδοξιών και κατευθύνσεων, που εκδηλώνεται πλέον δημόσια και χωρίς φίλτρα. Η εικόνα αποτυπώθηκε καθαρά […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/pasok-2-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Καρυστιανού: Ζητά ενημέρωση από Μητσοτάκη για τη συνάντηση με Ερντογάν «για να κρίνουν οι πολίτες αν πρέπει να γίνει»",
+          "link": "https://www.tanea.gr/2026/01/26/politics/karystianou-zita-enimerosi-apo-mitsotaki-gia-ti-synantisi-me-erntogan-gia-na-krinoun-oi-polites-an-prepei-na-ginei/",
+          "pubDate": "Mon, 26 Jan 2026 14:04:20 +0000",
+          "description": "Την πρώτη της δημόσια παρέμβαση στα ελληνοτουρκικά πραγματοποίησε η Μαρία Καρυστιανού, ζητώντας από τον πρωθυπουργό Κυριάκο Μητσοτάκη να προχωρήσει σε επίσημη ενημέρωση σχετικά με την ατζέντα της επικείμενης συνάντησής του με τον Ρετζέπ Ταγίπ Ερντογάν. Σε ανάρτησή της στην πλατφόρμα X, και ενώ βρίσκονται σε εξέλιξη οι διεργασίες για την ίδρυση του πολιτικού της φορέα, […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Maria-Karystianou-1-1.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Καρυστιανού για ελληνοτουρκικά: «Οποιαδήποτε απεμπόληση της εθνικής κυριαρχίας είναι εθνική προδοσία»",
           "link": "https://www.tovima.gr/2026/01/26/politics/karystianou-gia-ellinotourkika-opoiadipote-apempolisi-tis-ethnikis-kyriarxias-einai-ethniki-prodosia/",
           "pubDate": "Mon, 26 Jan 2026 17:04:09 +0300",
@@ -443,54 +491,6 @@
           "link": "https://www.naftemporiki.gr/politics/2063998/syriza-anavallontai-oles-oi-programmatismenes-ekdiloseis-tis-epomenes-treis-imeres/?utm_source=rss&utm_medium=rss&utm_campaign=syriza-anavallontai-oles-oi-programmatismenes-ekdiloseis-tis-epomenes-treis-imeres",
           "pubDate": "Mon, 26 Jan 2026 13:32:27 +0000",
           "description": "Μετά τη Νέα Δημοκρατία και το ΠΑΣΟΚ, ο ΣΥΡΙΖΑ ανακοίνωσε και αυτός με τη σειρά του την αναβολή όλων των προγραμματισμένων εκδήλωσεων για τρεις ημέρες λόγω της τραγωδίας στη «Βιολάντα».…\nΣΥΡΙΖΑ: Αναβάλλονται όλες οι προγραμματισμένες εκδηλώσεις τις επόμενες τρεις ημέρες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Νέες αιχμές Χ. Δούκα: Δεν θα γίνουμε συμπλήρωμα – Αν κάποιος βουλευτής από άλλο κόμμα θέλει να έρθει, να παραδώσει την έδρα του",
-          "link": "https://www.naftemporiki.gr/politics/2063982/nees-aichmes-ch-doyka-den-tha-ginoyme-sympliroma-an-kapoios-voyleytis-apo-allo-komma-thelei-na-erthei-na-paradosei-tin-edra-toy/?utm_source=rss&utm_medium=rss&utm_campaign=nees-aichmes-ch-doyka-den-tha-ginoyme-sympliroma-an-kapoios-voyleytis-apo-allo-komma-thelei-na-erthei-na-paradosei-tin-edra-toy",
-          "pubDate": "Mon, 26 Jan 2026 13:25:07 +0000",
-          "description": "Νέες αιχμές άφησε με σημερινή του συνέντευξη ο δήμαρχος Αθηναίων και μέλος της Πολιτικής Γραμματείας της ΚΟΕΣ του ΠΑΣΟΚ, κ. Χάρης Δούκας, αναφορικά με τη στρατηγική του κόμματος της αξιωματικής…\nΝέες αιχμές Χ. Δούκα: Δεν θα γίνουμε συμπλήρωμα – Αν κάποιος βουλευτής από άλλο κόμμα θέλει να έρθει, να παραδώσει την έδρα του - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "ΠΑΣΟΚ: Τριήμερη αναβολή όλων των κομματικών εκδηλώσεων λόγω της τραγωδίας στη «Βιολάντα»",
-          "link": "https://www.naftemporiki.gr/politics/2063955/pasok-triimeri-anavoli-olon-ton-kommatikon-ekdiloseon-logo-tis-tragodias-sti-violanta/?utm_source=rss&utm_medium=rss&utm_campaign=pasok-triimeri-anavoli-olon-ton-kommatikon-ekdiloseon-logo-tis-tragodias-sti-violanta",
-          "pubDate": "Mon, 26 Jan 2026 12:39:06 +0000",
-          "description": "Την αναβολή όλων των προγραμματικών εκδηλώσεων ανακοίνωσε το ΠΑΣΟΚ λόγω της τραγωδίας στη «Βιολάντα».\nΠΑΣΟΚ: Τριήμερη αναβολή όλων των κομματικών εκδηλώσεων λόγω της τραγωδίας στη «Βιολάντα» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "ΝΔ: Αναβάλλονται όλες οι εκδηλώσεις του κόμματος έως την Τετάρτη λόγω της τραγωδίας στη «Βιολάντα»",
-          "link": "https://www.naftemporiki.gr/politics/2063925/nd-anavallontai-oles-oi-ekdiloseis-toy-kommatos-eos-tin-tetarti-logo-tis-tragodias-sti-violanta/?utm_source=rss&utm_medium=rss&utm_campaign=nd-anavallontai-oles-oi-ekdiloseis-toy-kommatos-eos-tin-tetarti-logo-tis-tragodias-sti-violanta",
-          "pubDate": "Mon, 26 Jan 2026 11:53:00 +0000",
-          "description": "Στην αναβολή όλων των προγραμματισμένων εκδηλώσεων προχωρά η Νέα Δημοκρατία, μέχρι και την Τετάρτη 28 Ιανουαρίου.\nΝΔ: Αναβάλλονται όλες οι εκδηλώσεις του κόμματος έως την Τετάρτη λόγω της τραγωδίας στη «Βιολάντα» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Βιολάντα: Οδύνη στα Τρίκαλα – Μητσοτάκης και κόμματα ζητούν απαντήσεις για τη φονική έκρηξη",
-          "link": "https://www.tovima.gr/2026/01/26/politics/violanta-odyni-sta-trikala-mitsotakis-kai-kommata-zitoun-apantiseis-gia-ti-foniki-ekriksi/",
-          "pubDate": "Mon, 26 Jan 2026 14:43:23 +0300",
-          "description": "Συλλυπητήρια και αιχμές από την αντιπολίτευση μετά την τραγωδία με την έκρηξη στο εργαστάσιο της Βιολάντα στα Τρίκαλα που κόστισε τη ζωή σε τέσσερις εργαζόμενες",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/fire-violanda3-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Στη Λιβύη ο Φαραντούρης – Τα ραντεβού με τον Πρωθυπουργό και τον Υπουργό Πετρελαίου",
-          "link": "https://www.tovima.gr/2026/01/26/politics/sti-livyi-o-farantouris-ta-rantevou-me-ton-prothypourgo-kai-ton-ypourgo-petrelaiou/",
-          "pubDate": "Mon, 26 Jan 2026 14:33:34 +0300",
-          "description": "Σύμφωνα με τον Έλληνα ευρωβουλευτή, η πρόοδος στις ευρωλιβυκές σχέσεις προϋποθέτει την απόσυρση απ' το τραπέζι του παράνομου τουρκολιβυκού μνημόνιο για τις θαλάσσιες ζώνες.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/farantouris_libya-1024x708.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Ν. Ανδρουλάκης για «Βιολάντα»: Η σκέψη μου στις οικογένειες των θυμάτων – Να σταματήσει η αδράνεια απέναντι στα εργατικά δυστυχήματα",
-          "link": "https://www.naftemporiki.gr/politics/2063896/n-androylakis-gia-violanta-i-skepsi-moy-stis-oikogeneies-ton-thymaton-na-stamatisei-i-adraneia-apenanti-sta-ergatika-dystychimata/?utm_source=rss&utm_medium=rss&utm_campaign=n-androylakis-gia-violanta-i-skepsi-moy-stis-oikogeneies-ton-thymaton-na-stamatisei-i-adraneia-apenanti-sta-ergatika-dystychimata",
-          "pubDate": "Mon, 26 Jan 2026 11:09:14 +0000",
-          "description": "Τα ειλικρινή του συλλυπητήρια στους οικείους των θυμάτων και ταχεία ανάρρωση στους τραυματίες, εκφράζει ο πρόεδρος του ΠΑΣΟΚ-Κινήματος Αλλαγής, Νίκος Ανδρουλάκης, σε δήλωσή του για την τραγωδία στο εργοστάσιο της…\nΝ. Ανδρουλάκης για «Βιολάντα»: Η σκέψη μου στις οικογένειες των θυμάτων – Να σταματήσει η αδράνεια απέναντι στα εργατικά δυστυχήματα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
