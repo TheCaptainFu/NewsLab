@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T13:25:27.333Z",
+  "lastUpdated": "2026-01-27T13:30:36.771Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,10 @@
       "color": "red",
       "articles": [
         {
-          "title": "Πολύνεκρο τροχαίο στη Ρουμανία με Έλληνες οπαδούς που ταξίδευαν στη Γαλλία – Πληροφορίες για 6 νεκρούς",
-          "link": "https://www.newsit.gr/athlitika/polynekro-troxaio-sti-roumania-me-ellines-opadous-pou-taksideyan-sti-gallia-plirofories-gia-6-nekrous/4584768/",
+          "title": "Πολύνεκρο τροχαίο στη Ρουμανία με οπαδούς του ΠΑΟΚ που ταξίδευαν στη Γαλλία – Πληροφορίες για 6 νεκρούς",
+          "link": "https://www.newsit.gr/athlitika/polynekro-troxaio-sti-roumania-me-opadous-tou-paok-pou-taksideyan-sti-gallia-plirofories-gia-6-nekrous/4584768/",
           "pubDate": "Tue, 27 Jan 2026 13:19:18 +0000",
-          "description": "Έξι Έλληνες οπαδοί έχασαν τη ζωή τους σε τροχαίο δυστύχημα που σημειώθηκε στην κομητεία Τίμις της Ρουμανίας και άλλοι τρεις τραυματίστηκαν και νοσηλεύονται σε κρίσιμη ...  \nTo άρθρο Πολύνεκρο τροχαίο στη Ρουμανία με Έλληνες οπαδούς που ταξίδευαν στη Γαλλία – Πληροφορίες για 6 νεκρούς δημοσιεύτηκε στο NewsIT .",
+          "description": "Πέντε Έλληνες οπαδοί έχασαν τη ζωή τους σε τροχαίο δυστύχημα που σημειώθηκε στην κομητεία Τίμις της Ρουμανίας και άλλοι τρεις τραυματίστηκαν και νοσηλεύονται σε κρίσιμη ...  \nTo άρθρο Πολύνεκρο τροχαίο στη Ρουμανία με οπαδούς του ΠΑΟΚ που ταξίδευαν στη Γαλλία – Πληροφορίες για 6 νεκρούς δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-roumania-1200x620.jpg",
           "source": "NewsIT"
         },
@@ -153,6 +153,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "«Κατασκευάζω-Νοικιάζω»: Έρχεται νέο στεγαστικό πρόγραμμα",
+          "link": "https://www.in.gr/2026/01/27/economy/oikonomikes-eidiseis/kataskeyazo-noikiazo-erxetai-neo-stegastiko-programma/",
+          "pubDate": "Tue, 27 Jan 2026 15:26:02 +0300",
+          "description": "Πώς θα πέσουν νέα ακίνητα στην αγορά - Τι περιλαμβάνει το πρόγραμμα «Κατασκευάζω-Νοικιάζω»",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/9310--768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "ΗΠΑ: Τους 30 έφτασαν οι νεκροί από το «κύμα» πολικού ψύχους – Χωρίς ρεύμα χιλιάδες νοικοκυριά",
           "link": "https://www.newsit.gr/kosmos/ipa-tous-30-eftasan-oi-nekroi-apo-to-kyma-polikou-psyxous-xoris-reyma-xiliades-noikokyria/4584692/",
           "pubDate": "Tue, 27 Jan 2026 12:24:03 +0000",
@@ -161,11 +169,11 @@
           "source": "NewsIT"
         },
         {
-          "title": "Πολύνεκρο τροχαίο στη Ρουμανία – Πληροφορίες με εκδρομείς από Ελλάδα",
+          "title": "Σοκαριστικό δυστύχημα στη Ρουμανία με επτά νεκρούς – Πληροφορίες για οπαδούς του ΠΑΟΚ",
           "link": "https://www.in.gr/2026/01/27/world/polynekro-troxaio-sti-roumania-plirofories-ekdromeis-apo-ellada/",
           "pubDate": "Tue, 27 Jan 2026 15:23:08 +0300",
-          "description": "",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/photo_6035051714223738034_y-768x432.jpg",
+          "description": "Φέρεται να ήταν οπαδοί του ΠΑΟΚ από την Ελλάδα όπου μετέβαιναν στη Γαλλία για τον αγώνα του Δικεφάλου του Βορρά με τη Λιόν.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/photo_2026-01-27_15-27-04-768x476.jpg",
           "source": "In.gr"
         },
         {
@@ -239,14 +247,6 @@
           "description": "Ο Κάρλος Αλκαράθ πήρε για πρώτη φορά στην καριέρα του το εισιτήριο για τα ημιτελικά του Australian Open. Ο κορυφαίος Ισπανός τενίστας επικράτησε άνετα του ...  \nTo άρθρο Ο Κάρλος Αλκαράθ έκανε επίδειξη δύναμης κόντρα στον Άλεξ Ντε Μινόρ και πέρασε για πρώτη φορά στα ημιτελικά του Australian Open δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alcaraz-1200x842.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Bafta 2026: Τέσσερις υποψηφιότητες για την Bugonia του Γιώργου Λάνθιμου, 15 για το «Sinners», 14 για το «One Battle After Another»",
-          "link": "https://www.newsit.gr/politismos/bafta-2026-tesseris-ypopsifiotites-gia-tin-bugonia-tou-giorgou-lanthimou-15-gia-to-sinners-14-gia-to-one-battle-after-another/4584694/",
-          "pubDate": "Tue, 27 Jan 2026 12:10:01 +0000",
-          "description": "Ανακοινώθηκαν οι υποψηφιότητες για τα βραβεία Bafta τα οποία θα απονεμηθούν με παρουσιαστή, Άλαν Κάμινγκ, στο Λονδίνο, την Κυριακή 22 Φεβρουαρίου. Οι υποψηφιότητες για τα ...  \nTo άρθρο Bafta 2026: Τέσσερις υποψηφιότητες για την Bugonia του Γιώργου Λάνθιμου, 15 για το «Sinners», 14 για το «One Battle After Another» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bafta-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Μάχη για την ψήφο των αποδήμων: Επιστολική κάλπη και νέα περιφέρεια στο τραπέζι",
+          "link": "https://www.tanea.gr/print/2026/01/27/politics/skiniko-kaxypopsias-gia-tin-psifo-ton-apodimon/",
+          "pubDate": "Tue, 27 Jan 2026 13:15:00 +0000",
+          "description": "Η επιστολική, η τριεδρική περιφέρεια και η αντίδραση της αντιπολίτευσης - Τα μηνύματα Μητσοτάκη στο Υπουργικό Συμβούλιο",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/11/maximou-1.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Ο Δήμαρχος Πειραιά Γιάννης Μώραλης στις εκδηλώσεις κοπής πίτας συλλόγων και φορέων",
           "link": "https://www.tanea.gr/2026/01/27/politics/o-dimarxos-peiraia-giannis-moralis-stis-ekdiloseis-kopis-pitas-syllogon-kai-foreon/",
@@ -484,14 +492,6 @@
           "pubDate": "Tue, 27 Jan 2026 10:10:02 +0300",
           "description": "Κοινή γραμμή στις επιθέσεις κατά της Καρυστιανού από δύο πρόσωπα που βρίσκονται σε αντίπαλα πολιτικά στρατόπεδα",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2024/06/18/KARISTIANOU-1024x682.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Μέγαρο Μαξίμου: Σύσκεψη για την ευλογιά των αιγοπροβάτων",
-          "link": "https://www.tovima.gr/2026/01/27/politics/megaro-maksimou-syskepsi-gia-tin-eylogia-ton-aigoprovaton/",
-          "pubDate": "Tue, 27 Jan 2026 09:16:57 +0300",
-          "description": "Μετέχει ο περιφερειάρχης Ηπείρου μιας Περιφέρειας με βασική απασχόληση την κτηνοτροφία, στην οποία η ζωονόσος έχει αντιμετωπιστεί.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/12/megaro-maximou-1024x683.jpg",
           "source": "Το Βήμα"
         }
       ]
@@ -747,11 +747,27 @@
       "color": "green",
       "articles": [
         {
-          "title": "Πολύνεκρο τροχαίο με Έλληνες οπαδούς στη Ρουμανία που ταξίδευαν στη Γαλλία",
-          "link": "https://www.newsit.gr/athlitika/polynekro-troxaio-me-ellines-opadous-sti-roumania-pou-taksideyan-sti-gallia/4584768/",
+          "title": "Σοκ: Επτά νεκροί Έλληνες σε τροχαίο στη Ρουμανία που ταξίδευαν στη Γαλλία!",
+          "link": "https://www.gazzetta.gr/football/2510615/sok-epta-nekroi-ellines-se-trohaio-sti-roymania-poy-taxideyan-sti-gallia",
+          "pubDate": "Tue, 27 Jan 2026 15:26:58 +0200",
+          "description": "Σε τραγωδία μετατράπηκε η εκδρομή επτά Ελλήνων που ξεκινήσαν από την Ελλάδα με mini bus με κατεύθυνση τη Γαλλία καθώς σκοτώθηκαν στη Ρουμανία σε αυτοκινητικό δυστύχημα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/8c633dda-54fb-4100-b974-5b4237375c0d.jpg?itok=F9lpISNt",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Ανταποκρίνεται στο κάλεσμα ο κόσμος, άνοιξε και το πάνω διάζωμα ενόψει Άλμπα",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510614/aek-antapokrinetai-sto-kalesma-o-kosmos-anoixe-kai",
+          "pubDate": "Tue, 27 Jan 2026 15:25:01 +0200",
+          "description": "Ο κόσμος της ΑΕΚ, φαίνεται πως ανταποκρίνεται στο κάλεσμα που έχει κάνει η ομάδα τους, με την Ένωση να ανοίγει το πάνω διάζωμα της Sunel Arena, ενόψει Άλμπα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-04/sunel_arena.jpg?itok=DpafQdZD",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πολύνεκρο τροχαίο στη Ρουμανία με οπαδούς του ΠΑΟΚ που ταξίδευαν στη Γαλλία – Πληροφορίες για 6 νεκρούς",
+          "link": "https://www.newsit.gr/athlitika/polynekro-troxaio-sti-roumania-me-opadous-tou-paok-pou-taksideyan-sti-gallia-plirofories-gia-6-nekrous/4584768/",
           "pubDate": "Tue, 27 Jan 2026 13:19:18 +0000",
-          "description": "To άρθρο Πολύνεκρο τροχαίο με Έλληνες οπαδούς στη Ρουμανία που ταξίδευαν στη Γαλλία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektakto-4-1200x675.jpeg",
+          "description": "Έξι Έλληνες οπαδοί έχασαν τη ζωή τους σε τροχαίο δυστύχημα που σημειώθηκε στην κομητεία Τίμις της Ρουμανίας και άλλοι τρεις τραυματίστηκαν και νοσηλεύονται σε κρίσιμη ...  \nTo άρθρο Πολύνεκρο τροχαίο στη Ρουμανία με οπαδούς του ΠΑΟΚ που ταξίδευαν στη Γαλλία – Πληροφορίες για 6 νεκρούς δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-roumania-1200x620.jpg",
           "source": "NewsIT"
         },
         {
@@ -969,22 +985,6 @@
           "description": "Ο Πανιώνιος δοκιμάζεται στο Μαρούσι, με την «κυανέρυθρη» ΚΑΕ να ξεκαθαρίζει ότι απαγορεύτηκε οποιαδήποτε μετακίνηση φιλάθλων.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/macon_gikas_intime.jpg?itok=7ywuuOQY",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Κυκλοφορούν το απόγευμα της Τρίτης (27/01) τα εισιτήρια με την Κηφισιά",
-          "link": "https://www.gazzetta.gr/football/superleague/2510588/panathinaikos-kykloforoyn-apogeyma-tis-tritis-2701-ta-eisitiria-me-tin",
-          "pubDate": "Tue, 27 Jan 2026 13:32:14 +0200",
-          "description": "Ο Παναθηναϊκός ενημέρωσε πως το απόγευμα της Τρίτης (27/01) στις 16:00 θα τεθούν στην διάθεση των οπαδών του τα εισιτήρια του αγώνα με την Κηφισιά.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/panathinaikos_kosmos_intime_0.jpg?itok=5_mQo4Wo",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "11ος Δρόμος Εκεχειρίας στις 26 Απριλίου – Οι εγγραφές ξεκίνησαν",
-          "link": "https://www.newsit.gr/athlitika/11os-dromos-ekexeirias-stis-26-apriliou-oi-eggrafes-ksekinisan/4584622/",
-          "pubDate": "Tue, 27 Jan 2026 11:23:29 +0000",
-          "description": "Για 11η συνεχή χρονιά, η Συμπολιτεία Ολυμπίας διοργανώνει τον «Δρόμο Εκεχειρίας 2026», μια μοναδική πορεία συμβολισμού και ενότητας, την Κυριακή 26 Απριλίου 2026, στην Ιερή ...  \nTo άρθρο 11ος Δρόμος Εκεχειρίας στις 26 Απριλίου – Οι εγγραφές ξεκίνησαν δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakis-ekexeiria.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Καιρός: Ισχυρές βροχές θα χτυπήσουν την Αττική Πέμπτη, Σάββατο και Κυριακή",
+          "link": "https://panathinaikos24.gr/2026/01/27/617941/kairos-isxyres-vroxes-tha-xtypisoun-tin-attiki-pempti-savvato-kai-kyriaki/",
+          "pubDate": "Tue, 27 Jan 2026 13:25:33 +0000",
+          "description": "Σύμφωνα με τον μετεωρολόγο Γιώργο Τσατραφύλλια, το νέο αυτό κύμα κακοκαιρίας θα χτυπήσει την Αττική το μεσημέρι της Πέμπτης, το πρωί του Σαββάτου και από το απόγευμα της Κυριακής και μετά.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/4917629.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Αδιανόητη τραγωδία στην άσφαλτο με οπαδούς του ΠΑΟΚ – Τουλάχιστον 6 νεκροί και 3 τραυματίες στη Ρουμανία",
           "link": "https://panathinaikos24.gr/2026/01/27/617953/adianoiti-tragodia-stin-asfalto-me-opadous-tou-paok-toulaxiston-6-nekroi-kai-3-traymaties-sti-roumania/",
@@ -1223,14 +1231,6 @@
           "description": "Δυσάρεστα είναι τα νέα για τον Παναθηναϊκό και τον Πέδρο Τσιριβέγια, καθώς επιβεβαιώθηκαν οι φόβοι μετά τον τραυματισμό του στο παιχνίδι με τον Ατρόμητο.\nThe post Μεγάλο πλήγμα με Τσιριβέγια! – Τα αποτελέσματα της μαγνητικής appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Σοκ με Τσιριβέγια στον Παναθηναϊκό! – Η τελική διάγνωση",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/sok-me-tsirivegia-ston-panathinaiko-i/?utm_source=rss&utm_medium=rss&utm_campaign=sok-me-tsirivegia-ston-panathinaiko-i",
-          "pubDate": "Tue, 27 Jan 2026 09:29:45 +0000",
-          "description": "Σοβαρό πλήγμα δέχθηκε ο Παναθηναϊκός, καθώς επιβεβαιώθηκαν οι χειρότεροι φόβοι για την κατάσταση του Πέδρο Τσιριβέγια. Ο τραυματισμός του Τσιριβέγια, που αποκόμισε στο παιχνίδι με τον Ατρόμητο μπαίνοντας ως αλλαγή, αποδεικνύεται τελικά πιο σοβαρός από τις αρχικές εκτιμήσεις και τον θέτει εκτός πλάνων για ένα κρίσιμο κομμάτι της σεζόν. Η μαγνητική τομογραφία στην οποία υποβλήθηκε […]\nThe post Σοκ με Τσιριβέγια στον Παναθηναϊκό! – Η τελική διάγνωση appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/11/chirivella-travmatismos.jpg",
-          "source": "Όλα Πράσινα"
         }
       ]
     },
@@ -1238,6 +1238,14 @@
       "title": "ΤΕΧΝΟΛΟΓΙΑ & SCIENCE",
       "color": "pink",
       "articles": [
+        {
+          "title": "Typosquatting: Η οπτική απάτη που «μεταμορφώνει» το rn σε m για να κλέψει τους κωδικούς σας",
+          "link": "https://gr.pcmag.com/security/51136/typosquatting-e-optike-apate-pou-metamorphonei-to-rn-se-m-gia-na-klepsei-tous-kodikous-sas",
+          "pubDate": "Tue, 27 Jan 2026 13:18:45 +0000",
+          "description": "Microsoft και Marriott στο στόχαστρο των hackers με μια πανέξυπνη τεχνική typosquatting που παραπλανά ακόμα και το πιο έμπειρο μάτι.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/w/watch-out-/watch-out-scammers-are-using-this-url-typo-to-mimic-microsof_6kf6.jpg",
+          "source": "PC Magazine"
+        },
         {
           "title": "Έκτακτο patch από τη Microsoft: Χάκερς εκμεταλλεύονται κενό ασφαλείας στο Office",
           "link": "https://gr.pcmag.com/security/51135/ektakto-patch-apo-te-microsoft-khakers-ekmetalleuontai-keno-asphaleias-sto-office",
@@ -1469,14 +1477,6 @@
           "description": "Σε μια κομβική στιγμή για την εξέλιξη της ιατρικής επιστήμης, τα δεδομένα αλλάζουν ραγδαία. Η συζήτηση για τον ρόλο της Τεχνητής Νοημοσύνης (AI) στα ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/ai-doctor.jpg",
           "source": "Techgear"
-        },
-        {
-          "title": "Tormented Souls 2 Review",
-          "link": "https://gr.pcmag.com/games-reviews/51122/tormented-souls-2-review",
-          "pubDate": "Mon, 26 Jan 2026 12:27:06 +0000",
-          "description": "Ένα νοσταλγικό ταξίδι στον τρόμο που αναβιώνει τη χρυσή εποχή των Resident Evil.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/photo/default/tormented-souls-2-review-pcmag-greece_e6n9.jpg",
-          "source": "PC Magazine"
         }
       ]
     }
