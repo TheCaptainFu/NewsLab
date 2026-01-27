@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:05:27.716Z",
+  "lastUpdated": "2026-01-27T21:10:31.187Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Εξαφανίστηκε 35χρονη στους Αμπελόκηπους",
+          "link": "https://www.protothema.gr/greece/article/1764484/exafanisi-35hronis-stous-abelokipous/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 23:10:04 +0200",
+          "description": "Η Κατερίνα Μπόυμη, 35 ετών, εξαφανίστηκε την 1 Ιουνίου του 2025,  ενδέχεται να συντρέχουν λόγοι οι οποίοι θέτουν τη ζωή της σε κίνδυνο",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/exafanisi_ampelokhpoi.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Σύνδεσμοι Φίλων ΠΑΟΚ: «Οι εκδρομές ακυρώνονται, ανοιχτή αύριο η Τούμπα»",
           "link": "https://www.protothema.gr/greece/article/1764481/sundesmoi-filon-paok-oi-ekdromes-akuronodai-anoihti-aurio-i-touba/?utm_source=rss",
@@ -239,14 +247,6 @@
           "description": "Υπενθυμίζεται πως η μητέρα της Ελένης Κατσαρού, μίας εκ των εργαζομένων που έχασε τη ζωή της, μιλώντας στο protothema.gr κατήγγειλε πως «εδώ και ένα μήνα και παραπάνω τους λέγαμε μυρίζει υγραέριο, μυρίζει υγραέριο αλλά δεν έδινε κανένας σημασία»",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/violanda_syntrimia-mak.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Τραγωδία δίχως τέλος στον ΠΑΟΚ – Πέθανε 55χρονος οπαδός του «δικέφαλου», μόλις έμαθε για το δυστύχημα στην Ρουμανία",
-          "link": "https://www.in.gr/2026/01/27/sports/football/tragodia-dixos-telos-ston-paok-pethane-55xronos-opados-tou-dikefalou-molis-emathe-gia-dystyxima-stin-roumania/",
-          "pubDate": "Tue, 27 Jan 2026 22:31:13 +0300",
-          "description": "Η τραγωδία συνεχίζεται καθώς 55χρονος προδόθηκε από την καρδιά του μαθαίνοντας τα νέα από τη Ρουμανία – «Μαύρη» μέρα για τον ΠΑΟΚ και την Ελλάδα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827015-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -982,7 +982,7 @@
           "title": "Ολυμπιακός: «Γκάζια» Μεντιλίμπαρ και ένταση πριν τον «τελικό» με τον Άγιαξ",
           "link": "https://www.gazzetta.gr/football/champions-league/2510737/olympiakos-gkazia-mentilimpar-kai-entasi-prin-ton-teliko-me-ton",
           "pubDate": "Tue, 27 Jan 2026 21:00:24 +0200",
-          "description": "Με τον Μεντιλίμπαρ να είναι απαιτητικός στην τελευταία προπόνηση του Ολυμπιακού πριν το κομβικό ματς με τον Άγιαξ, πραγματοποιήθηκε η πρόβα τζενεράλε των ερυθρόλευκων στην επιβλητική Johan Cruijff Arena. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "description": "Με τον Μεντιλίμπαρ να είναι απαιτητικός στην τελευταία προπόνηση του Ολυμπιακού πριν το ματς με τον Άγιαξ, πραγματοποιήθηκε η πρόβα τζενεράλε των ερυθρόλευκων. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/prop-apostoli.jpg?itok=c7b_E9wu",
           "source": "Gazzetta"
         }
