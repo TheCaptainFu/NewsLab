@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T03:10:30.984Z",
+  "lastUpdated": "2026-01-27T03:15:29.585Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Καιρός σήμερα: Ισχυρά φαινόμενα σε πολλές περιοχές της χώρας μέχρι το απόγευμα – Θυελλώδεις άνεμοι στο Αιγαίο",
+          "link": "https://www.newsit.gr/ellada/kairos-simera-isxyra-fainomena-se-polles-perioxes-tis-xoras-mexri-to-apogeyma-thyellodeis-anemoi-sto-aigaio/4583897/",
+          "pubDate": "Tue, 27 Jan 2026 03:05:00 +0000",
+          "description": "Βροχές και καταιγίδες θα συνεχίσουν να «βασανίζουν» τη χώρα μας και σήμερα (27/1/2026), σύμφωνα με την ΕΜΥ, αφού τα έντονα φαινόμενα θα επικρατούν μέχρι και ...  \nTo άρθρο Καιρός σήμερα: Ισχυρά φαινόμενα σε πολλές περιοχές της χώρας μέχρι το απόγευμα – Θυελλώδεις άνεμοι στο Αιγαίο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos-93-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Τα αεροπλανοφόρα των ΗΠΑ πλησιάζουν το Ιράν, αλλά ο Παχλαβί δεν θα το κυβερνήσει ποτέ",
           "link": "https://www.in.gr/2026/01/27/world/ta-aeroplanofora-ton-ipa-plisiazoun-iran-alla-o-paxlavi-den-tha-kyvernisei-pote/",
@@ -238,14 +246,6 @@
           "pubDate": "Mon, 26 Jan 2026 21:02:45 +0000",
           "description": "Συλλυπητήρια στις οικογένειες των θυμάτων από τη φωτιά στις εγκαταστάσεις της βιομηχανίας μπισκότων «Βιολάντα» στα Τρίκαλα εξέφρασε η πρέσβης των ΗΠΑ στην Ελλάδα, Κίμπερλι Γκιλφόιλ ...  \nTo άρθρο Κίμπερλι Γκιλφόιλ για την τραγωδία στη βιομηχανία «Βιολάντα»: Τα πιο ειλικρινή μας συλλυπητήρια στις οικογένειες δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta11-26012026.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μάνος Ιωάννου: Δεν νιώθω ότι θέλω να παντρευτώ και να κάνω παιδιά",
-          "link": "https://www.newsit.gr/lifestyle/manos-ioannou-den-niotho-oti-thelo-na-pantreyto-kai-na-kano-paidia/4584115/",
-          "pubDate": "Mon, 26 Jan 2026 21:02:00 +0000",
-          "description": "Ο Μάνος Ιωάννου μίλησε για το «κεφάλαιο» των σχέσεων και παραδέχτηκε ότι ο γάμος και η απόκτηση παιδιών δεν είναι στα προσωπικά του πλάνα. Ο ...  \nTo άρθρο Μάνος Ιωάννου: Δεν νιώθω ότι θέλω να παντρευτώ και να κάνω παιδιά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/manos-ioanoy-ndp-1-1200x704.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene",
+          "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 03:06:52 GMT",
+          "description": "The decision may indicate that the administration is walking back more aggressive immigration enforcement.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7253/live/7b78e7f0-fb1d-11f0-a47f-d352a7d9988a.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Trump raises US tariffs on South Korea imports to 25%",
           "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 03:06:18 GMT",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/2026/01/26/h-italia-kalei-thn-ee-na-katata3ei-to-swma-froyrwn-ths-epanastashs-toy-iran-ston-katalogo",
           "pubDate": "Mon, 26 Jan 2026 17:33:47 +0100",
           "description": "Η τοποθέτηση του ισχυρότερου κλάδου των ενόπλων δυνάμεων του Ιράν στον κατάλογο τρομοκρατών της ΕΕ θα τοποθετούσε το IRGC δίπλα σε ομάδες όπως το λεγόμενο ΙΚ, η Αλ Κάιντα, η Χαμάς και η Παλαιστινιακή Ισλαμική Τζιχάντ.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Γιατί ανακαλείται βρεφικό γάλα πανευρωπαϊκά: επιμόλυνση με τοξίνες θέτει τις εταιρείες σε συναγερμό",
-          "link": "http://gr.euronews.com/health/2026/01/26/why-baby-formula-is-being-recalled-across-europe-toxin-contamination-puts-companies-on-ale",
-          "pubDate": "Mon, 26 Jan 2026 17:02:11 +0100",
-          "description": "Οι παγκόσμιοι γαλακτοκομικοί κολοσσοί συνεχίζουν την ανάκληση βρεφικού γάλακτος εν μέσω σκανδάλου μόλυνσης με σερουλίδη, ενώ η Γαλλία ερευνά δύο θανάτους βρεφών.",
           "thumbnail": null,
           "source": "Euronews"
         }
