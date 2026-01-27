@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T12:00:41.900Z",
+  "lastUpdated": "2026-01-27T12:05:26.911Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,9 +9,25 @@
       "color": "red",
       "articles": [
         {
+          "title": "Δίπλωσε νταλίκα στον Περιφερειακό της Θεσσαλονίκης: Έκλεισε το ρεύμα προς τα δυτικά",
+          "link": "https://www.protothema.gr/greece/article/1764177/diplose-dalika-ston-perifereiako-tis-thessalonikis-ekleise-to-reuma-pros-ta-dutika/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 14:02:29 +0200",
+          "description": "Από μία λωρίδα κυκλοφορίας διεξάγεται η κίνηση και προς τα ανατολικά",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/ntalika-thessaloniki.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Τρεις νεκροί και πάνω από 20 τραυματίες στην Ουκρανία από ρωσικές επιθέσεις\n",
+          "link": "https://www.protothema.gr/greece/article/1764167/treis-nekroi-kai-pano-apo-20-traumaties-stin-oukrania-apo-rosikes-epitheseis/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 14:01:39 +0200",
+          "description": "Οι ρωσικές επιθέσεις σε ενεργειακές υποδομές συνεχίζονται - Χωρίς ρεύμα περίπου το 80% της πόλης και της περιφέρειας του Χαρκόβου",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/oukrania-epithesi-rosia.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
           "title": "Τρίκαλα: Σε εξέλιξη οι καταθέσεις των εργαζομένων που επέζησαν από την φωτιά στο εργοστάσιο «Βιολάντα»",
           "link": "https://www.protothema.gr/greece/article/1764175/trikala-se-exelixi-oi-katatheseis-ton-ergazomenon-pou-epezisan-apo-tin-fotia-sto-ergostasio-violada/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 13:58:49 +0200",
+          "pubDate": "Tue, 27 Jan 2026 13:58:00 +0200",
           "description": "Θα ληφθούν καταθέσεις από επτά εργαζόμενους που επέζησαν και από τα άλλα 18 άτομα που ήταν στην βάρδια τους και δεν βρίσκονταν εκεί",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/pyrosvestiki-trikala-_2_.jpg",
           "source": "Πρώτο Θέμα"
@@ -148,7 +164,7 @@
           "title": "Το 29% της Puma αγοράζει η Anta Sports, η μεγαλύτερη μάρκα αθλητικών ειδών της Κίνας",
           "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/to-29-tis-puma-agorazei-i-anta-sports-i-megalyteri-marka-athlitikon-eidon-tis-kinas/4584612/",
           "pubDate": "Tue, 27 Jan 2026 11:20:13 +0000",
-          "description": "H Anta Sports, η μεγαλύτερη μάρκα αθλητικών ειδών της Κίνας ανακοίνωσε ότι θα αγοράσει το 29,06% των μετοχών της Puma από την οικογένεια Pinault έναντι ...  \nTo άρθρο Το 29% της Puma αγοράζει η Anta Sports, η μεγαλύτερη μάρκα αθλητικών ειδών της Κίνας δημοσιεύτηκε στο NewsIT .",
+          "description": "H Anta Sports, η μεγαλύτερη μάρκα αθλητικών ειδών της Κίνας ανακοίνωσε ότι θα αγοράσει το 29,06% των μετοχών της Puma από την οικογένεια Πινό (Pinault) ...  \nTo άρθρο Το 29% της Puma αγοράζει η Anta Sports, η μεγαλύτερη μάρκα αθλητικών ειδών της Κίνας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/puma-shoes-reuters-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -175,6 +191,14 @@
           "description": "Τι περιλαμβάνει η εθνική εκστρατεία ψηφιακής εκπαίδευσης στη δευτεροβάθμια – Η νέα εγκύκλιος του Υπουργείου Παιδείας",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-03-21/mathites.jpg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Χρηματοδότηση για την αποκατάσταση των καταστροφών από φυσικά φαινόμενα αιτείται ο Δήμος Β. Τζουμέρκων",
+          "link": "https://www.in.gr/2026/01/27/politics/aftodioikisi/xrimatodotisi-gia-tin-apokatastasi-ton-katastrofon-apo-fysika-fainomena-aiteitai-o-dimos-v-tzoumerkon/",
+          "pubDate": "Tue, 27 Jan 2026 14:03:11 +0300",
+          "description": "Προτείνονται έργα αποκατάστασης του εσωτερικού οδικού δικτύου, έργα αποκατάστασης και αντικατάστασης τμημάτων του δικτύου ύδρευσης, καθώς και καθαρισμούς ρεμάτων με στόχο την αντιμετώπιση και τον περιορισμό πλημμυρικών φαινομένων.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/kathizisi-Xouliarades-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Βιολάντα: Συγκλονίζει η μαρτυρία τραυματία από την έκρηξη – «Xάθηκαν όλα σε λίγα δευτερόλεπτα, έκανα τον σταυρό μου όταν βγήκα από το εργοστάσιο»",
@@ -222,30 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 13:52:26 +0300",
           "description": "Όλα όσα θα διαβάσουμε στο νέο HELLO!, το πιο glamorous περιοδικό.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/HELLO_Article_Image_1300x800-3-768x473.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ανδρουλάκης για ημέρα μνήμης του Ολοκαυτώματος: Η μνήμη είναι φρουρός για τη θωράκιση της δημοκρατίας",
-          "link": "https://www.in.gr/2026/01/27/politics/epikairotita/androulakis-gia-imera-mnimis-tou-olokaytomatos-mnimi-einai-frouros-gia-ti-thorakisi-tis-dimokratias/",
-          "pubDate": "Tue, 27 Jan 2026 13:52:19 +0300",
-          "description": "«Τιμούμε τη μνήμη των εκατομμυρίων θυμάτων του Ολοκαυτώματος, των χιλιάδων Ελλήνων Εβραίων, οι οποίοι εξοντώθηκαν στα ναζιστικά στρατόπεδα συγκέντρωσης», υπογράμμισε ο πρόεδρος του ΠΑΣΟΚ - ΚΙΝΑΛ, Νίκος Ανδρουλάκης",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6817762-1-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Για πρώτη φορά οι πωλήσεις ηλεκτρικών αυτοκινήτων ξεπέρασαν τη βενζίνη στην ΕΕ",
-          "link": "https://www.in.gr/2026/01/27/in-science/technology/gia-proti-fora-oi-poliseis-ilektrikon-aytokiniton-kseperasan-ti-venzini-stin-ee/",
-          "pubDate": "Tue, 27 Jan 2026 13:51:11 +0300",
-          "description": "Οι ταξινομήσεις ηλεκτρικών αυτοκινήτων μπαταρίας αυξήθηκαν τον Δεκέμβριο κατά 51%, ενώ των υβριδικών κατά 5,8% και των απλών υβριδικών κατά 36,7%.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/chuttersnap-xJLsHl0hIik-unsplash-1-1200x798-768x511.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Επίσημο: Ο Ολυμπιακός ανακοίνωσε και τη μεταγραφή του Ίβιτς",
-          "link": "https://www.in.gr/2026/01/27/sports/othersports/episimo-o-olympiakos-anakoinose-kai-ti-metagrafi-tou-ivits/",
-          "pubDate": "Tue, 27 Jan 2026 13:50:05 +0300",
-          "description": "Ο Ολυμπιακός ανακοίνωσε επίσημα και την μεταγραφή  του Κροάτη ίντερ, Σίμε Ίβιτς.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ivic-768x443.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Australian Open: Στους «4» χωρίς να χάσει σετ ο Αλκαράθ",
+          "link": "https://www.gazzetta.gr/football/australian-open/2510596/australian-open-stoys-4-horis-na-hasei-set-o-alkarath",
+          "pubDate": "Tue, 27 Jan 2026 14:01:12 +0200",
+          "description": "Με μεγάλη άνεση προκρίθηκε στα ημιτελικά του Australian Open ο Κάρλος Αλκαράθ, επικρατώντας στους «8» του Ντε Μινόρ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/carlos_alcaraz_gettyimages-2256874362.jpg?itok=m51e8mU-",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Τέλος ο Έλτον Φικάι από τον Παναθηναϊκό",
           "link": "https://www.newsit.gr/athlitika/telos-o-elton-fikai-apo-ton-panathinaiko/4584675/",
           "pubDate": "Tue, 27 Jan 2026 11:54:39 +0000",
@@ -923,7 +931,7 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Αυτούς Έλληνες θα συναντήσει στην Premier League ο Μανδάς",
+          "title": "Αυτούς τους Έλληνες θα συναντήσει στην Premier League ο Μανδάς",
           "link": "https://www.gazzetta.gr/football/premier-league/2510574/aytoys-ellines-tha-synantisei-stin-premier-league-o-mandas",
           "pubDate": "Tue, 27 Jan 2026 12:35:44 +0200",
           "description": "Η μετακίνηση του Χρήστου Μανδά στην Μπόρνμουθ προσθέτει ακόμα έναν Έλληνα ποδοσφαιριστή στην Premier League.",
@@ -977,14 +985,6 @@
           "description": "Η UEFA όρισε τους διαιτητές που θα σφυρίξουν τον ΠΑΟΚ και τον Παναθηναϊκό στα ευρωπαϊκά τους παιχνίδια την ερχόμενη Πέμπτη (29/01).",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/konstantelias_eurokinisi.jpg?itok=2IlzlD6k",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Άρης: Η χαμένη δύναμης (της έδρας) και τα γκολ στις καθυστερήσεις",
-          "link": "https://www.gazzetta.gr/football/superleague/2510565/aris-i-hameni-dynamis-tis-edras-kai-ta-gkol-stis-kathysteriseis",
-          "pubDate": "Tue, 27 Jan 2026 12:10:18 +0200",
-          "description": "Η αποτελεσματικότητα στο «Κλ. Βικελίδης» ήταν ένα από τα ισχυρά όπλα του Άρη στα προηγούμενα χρόνια και φέτος έχει εξελιχθεί σε μία εκ των βασικών αδυναμιών του.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4934664_1.jpg?itok=8D0QzmX1",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Η Elabet αποκαλύπτει το απόλυτα «Ενισχυμένο» Sportsbook περιβάλλον",
+          "link": "https://panathinaikos24.gr/2026/01/27/617927/i-elabet-apokalyptei-to-apolyta-enisxymeno-sportsbook-perivallon-2/",
+          "pubDate": "Tue, 27 Jan 2026 12:01:04 +0000",
+          "description": "Η Elabet συνεχίζει να ανεβάζει τον πήχη στο online στοίχημα, παρουσιάζοντας ένα πλήρως αναβαθμισμένο Sportsbook, δημιουργημένο για να οδηγήσει τη νέα εποχή στο pregame και το live παιχνίδι.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/12/ElabetLogoArticles-2-1.png?fit=1200%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Τα εισιτήρια του Σαββατοκύριακου για τον Ερασιτέχνη Παναθηναϊκό",
           "link": "https://panathinaikos24.gr/2026/01/27/617922/ta-eisitiria-tou-savvatokyriakou-gia-ton-erasitexni-panathinaiko/",
@@ -1222,14 +1230,6 @@
           "pubDate": "Tue, 27 Jan 2026 08:30:19 +0000",
           "description": "Τι δείχνει η πρώτη δημοσκόπηση μετά τη συνέντευξη περί αμβλώσεων.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-23_08-27-22_855823-scaled-1.jpg?fit=1024%2C698&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Χάνει διαρκώς έδαφος: Σε ποια περιοχή η ΝΔ είναι πλέον δεύτερο κόμμα",
-          "link": "https://panathinaikos24.gr/2026/01/27/617751/xanei-diarkos-edafos-se-poia-perioxi-i-nd-einai-pleon-deytero-komma/",
-          "pubDate": "Tue, 27 Jan 2026 08:10:14 +0000",
-          "description": "«Καμπανάκι» για το κυβερνών κόμμα",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-26_09-41-57_606886-scaled-1.jpg?fit=1024%2C597&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
