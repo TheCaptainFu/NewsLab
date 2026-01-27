@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T09:00:39.812Z",
+  "lastUpdated": "2026-01-27T09:05:27.941Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,11 +9,19 @@
       "color": "red",
       "articles": [
         {
+          "title": "Η Τζόρτζια Μελόνι μαθαίνει πώς να φτιάχνει τορτελίνια",
+          "link": "https://www.newsit.gr/kosmos/i-tzortzia-meloni-mathainei-pos-na-ftiaxnei-tortelinia/4584482/",
+          "pubDate": "Tue, 27 Jan 2026 09:00:40 +0000",
+          "description": "Ένα διαφορετικό στιγμιότυπο της Τζόρτζια Μελόνι κάνει τον γύρο των social media, με την Ιταλίδα πρωθυπουργό να μαθαίνει πώς φτιάχνονται τα παραδοσιακά τορτελίνια. Μακριά από ...  \nTo άρθρο Η Τζόρτζια Μελόνι μαθαίνει πώς να φτιάχνει τορτελίνια δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/georgia-meloni.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Φειδίας Παναγιώτου: Θύελλα αντιδράσεων μετά από σχόλιο του ευρωβουλευτή για αθλητές με νοητική αναπηρία",
           "link": "https://www.newsit.gr/kosmos/feidias-panagiotou-thyella-antidraseon-meta-apo-sxolio-tou-eyrovouleyti-gia-athlites-me-noitiki-anapiria/4584472/",
           "pubDate": "Tue, 27 Jan 2026 08:58:15 +0000",
           "description": "Ο Φειδίας Παναγιώτου έγινε για ακόμα μια φορά αρνητικός πρωταγωνιστής σε συζήτηση που είχε προ ημερών για αθλητές με νοητική αναπηρία. Οι αντιδράσεις ξεκίνησαν από ...  \nTo άρθρο Φειδίας Παναγιώτου: Θύελλα αντιδράσεων μετά από σχόλιο του ευρωβουλευτή για αθλητές με νοητική αναπηρία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panagiotou-arxiki-1200x876.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/feidiaspanagiotou.jpg",
           "source": "NewsIT"
         },
         {
@@ -185,6 +193,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Αδριάνειο Υδραγωγείο: Αναβιώνει το ρωμαϊκό έργο που φέρνει νερό από την Πάρνηθα στο Κολωνάκι",
+          "link": "https://www.in.gr/2026/01/27/in-science/perivallon-b-science/adrianeio-ydragogeio-anavionei-romaiko-ergo-pou-fernei-nero-apo-tin-parnitha-sto-kolonaki/",
+          "pubDate": "Tue, 27 Jan 2026 11:01:24 +0300",
+          "description": "ΕΥΔΑΠ και Περιφέρεια Αττικής συμφώνησαν για την υλοποίηση του εγχείρηματος που αφορά στο Αδριάνειο Υδραγωγείο.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ADRIANEIO-768x461.png",
+          "source": "In.gr"
+        },
+        {
+          "title": "Τρίκαλα: Στο μικροσκόπιο τα σενάρια για την έκρηξη στο εργοστάσιο Βιολάντα – Η περίεργη μυρωδιά και",
+          "link": "https://www.in.gr/2026/01/27/greece/trikala-sto-mikroskopio-ta-senaria-gia-tin-ekriksi-sto-ergostasio-violanta-periergi-myrodia-kai/",
+          "pubDate": "Tue, 27 Jan 2026 11:00:35 +0300",
+          "description": "Από τα μέχρι στιγμής στοιχεία που έχουν συλλέξει οι αρχές προκύπτει ότι η έκρηξη στο εργοστάσιο Βιολάντα προηγήθηκε της φωτιάς",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EV15_260126_THK_PYRKAGIA-35-1200x800-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ανατροπή με Κώστα Τσιμίκα: Προς παραμονή στη Ρόμα",
           "link": "https://www.newsit.gr/athlitika/anatropi-me-kosta-tsimika-pros-paramoni-sti-roma/4584421/",
           "pubDate": "Tue, 27 Jan 2026 07:58:23 +0000",
@@ -223,30 +247,6 @@
           "description": "Ο δράστης συνελήφθη από ομάδα Δίας και οδηγήθηκε στο Γραφείο Ενδοοικογενειακής Βίας Αγίας Παρασκευής.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5860169-1200x800-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "SOS για τους νέους ΚΑΔ – Τι πρέπει να προσέξουν οι επαγγελματίες",
-          "link": "https://www.in.gr/2026/01/27/economy/oikonomikes-eidiseis/sos-gia-tous-neous-kad-ti-prepei-na-proseksoun-oi-epaggelmaties/",
-          "pubDate": "Tue, 27 Jan 2026 10:41:06 +0300",
-          "description": "Κίνδυνος για λάθη και καθυστερήσεις στις φορολογικές δηλώσεις - Καμπανάκι από λογιστές",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/aade-768x431.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Χειμερινές εκπτώσεις 2026 στη LA VIE EN ROSE: Οδηγός για έξυπνες επιλογές ομορφιάς",
-          "link": "https://www.protothema.gr/greece/article/1763527/heimerines-ekptoseis-2026-sti-la-vie-en-rose-odigos-gia-exupnes-epiloges-omorfias/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 09:41:02 +0200",
-          "description": "Επωφεληθείτε τώρα από τις μεγάλες εκπτώσεις της LA VIE EN ROSE για να αποκτήσετε μοναδικές φόρμουλες που μετατρέπουν την καθημερινή ρουτίνα σε μια μοναδική εμπειρία προσωπικής περιποίησης.",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/main_lavieproto_thema_1168x656_copy.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Από την αβεβαιότητα στον έλεγχο: Πώς η ορατότητα κρατά το ψηφιακό ρίσκο… Under Control",
-          "link": "https://www.protothema.gr/greece/article/1763421/apo-tin-avevaiotita-ston-elegho-pos-i-oratotita-krata-to-psifiako-risko-under-control/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 09:40:02 +0200",
-          "description": "H κυβερνοασφάλεια εντάσσεται στο πεδίο της διαχείρισης ρίσκου, της επιχειρησιακής συνέχειας και της θεσμικής ευθύνης σε επίπεδο αποφάσεων.",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-26/main_odyssey_underctrl__1_.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Η Ελλάδα δανείζεται ευκολότερα και προσελκύει επενδύσεις, αλλά οι κίνδυνοι παραμένουν ",
+          "link": "http://gr.euronews.com/business/2026/01/27/h-ellada-daneizetai-eykolotera-alla-oi-kindynoi-paramenoyn",
+          "pubDate": "Tue, 27 Jan 2026 09:55:21 +0100",
+          "description": "Η οικονομία δείχνει σημάδια σταθερής βελτίωσης, με χαμηλότερο κόστος δανεισμού και αυξημένο επενδυτικό ενδιαφέρον. Ο ESM και ο MSCI αναγνωρίζουν την πρόοδο, προειδοποιώντας όμως για κινδύνους από ένα πιο αβέβαιο διεθνές περιβάλλον.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Η Γαλλία εγκαταλείπει Microsoft Teams και Zoom για «κυρίαρχη πλατφόρμα» εν μέσω ανησυχιών ασφάλειας",
           "link": "http://gr.euronews.com/next/2026/01/27/france-plans-to-abandon-us-platforms-such-as-microsoft-teams-and-zoom-in-favour-of-a-sover",
           "pubDate": "Tue, 27 Jan 2026 09:48:57 +0100",
@@ -730,14 +738,6 @@
           "pubDate": "Mon, 26 Jan 2026 23:19:47 GMT",
           "description": "Zhang Youxia had been seen as a close ally of China's leader, Xi Jinping.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089d/live/38fd3230-fa84-11f0-8536-010c68f74629.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Deadly US winter storm leaves flights delayed and thousands without power",
-          "link": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 22:49:39 GMT",
-          "description": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d26f/live/90590740-fb04-11f0-8d99-4d63080b9583.jpg",
           "source": "BBC News"
         }
       ]
