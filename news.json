@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T19:25:24.326Z",
+  "lastUpdated": "2026-01-27T19:27:44.371Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -84,7 +84,7 @@
           "title": "«Έσβησαν τα πάντα μετά από έναν κρότο, η φωτιά εξελισσόταν ραγδαία στο δευτερόλεπτο»: Συγκλονιστικές μαρτυρίες από τη Βιολάντα για το μοιραίο ξημέρωμα",
           "link": "https://www.protothema.gr/greece/article/1764421/sothikame-apo-thauma-ergazomenoi-sti-violada-perigrafoun-ta-osa-sunevisan-sto-ergostasio/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 20:58:00 +0200",
-          "description": "Η φωτιά «ερχόταν καταπάνω μου» περιέγραψε εργαζόμενoς - Η κυρία Ελένη θυμάται πως άκουσαν ένα δυνατό κρότο και μετά σβήσανε τα πάντα",
+          "description": "Η φωτιά «ερχόταν καταπάνω μου» περιέγραψε εργαζόμενoς - «Ακόμα είμαι στα χαμένα. Δεν μπορώ να σκεφτώ τίποτα, δεν ξέρω. Ακόμα δεν έχουμε συνειδητοποιήσει» είπε άλλη εργαζόμενη",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/violanda_woman-xrwma.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παυλίδης: «Οι άλλες ομάδες έχουν υιοθετήσει το δικό μας σύστημα, η άμυνα είναι το κλειδί»",
+          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510744/paylidis-oi-alles-omades-ehoyn-yiothetisei-diko-mas-systima",
+          "pubDate": "Tue, 27 Jan 2026 21:25:06 +0200",
+          "description": "Τι δήλωσε ο Χάρης Παυλίδης μετά τη νίκη επί της Γαλλίας και κυρίως για τα σημεία που θα κρίνουν την πορεία της Ελλάδας στο ευρωπαϊκό πρωτάθλημα γυναικών στο Φούντσαλ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pavlidis_vlodakis.jpg?itok=XTdOkAQV",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Ζήτησε αναβολή για όλους τους αγώνες ο Ερασιτέχνης",
           "link": "https://www.gazzetta.gr/volleyball/a1-andron/2510742/paok-dystyhima-sti-roymania-zitise-anaboli-gia-oloys-toys-agones-o",
           "pubDate": "Tue, 27 Jan 2026 21:21:19 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 19:49:09 +0200",
           "description": "Η βιομηχανία της μόδας λειτουργούσε επί δεκαετίες με σχετικά προβλέψιμους κύκλους: σεζόν, συλλογές, τάσεις. Σήμερα, όλα ξεκινούν από τις ψηφιακές πλατφόρμες.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pasarela.jpg?itok=D9RRq0Hw",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ζενίτ Αγίας Πετρούπολης: Τα «κλειδιά» στον Ράντονιτς",
-          "link": "https://www.gazzetta.gr/basketball/vtb-league/2510720/zenit-agias-petroypolis-ta-kleidia-ston-rantonits",
-          "pubDate": "Tue, 27 Jan 2026 19:47:59 +0200",
-          "description": "Ο Ντέγιαν Ράντονιτς αναλαμβάνει τα ηνία της Ζενίτ Αγίας Πετρούπολης μετά την αποχώρηση του Αλεξάνταρ Σέκουλιτς.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-01/radonjic.jpg?itok=OKUkmd4W",
           "source": "Gazzetta"
         }
       ]
