@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:00:39.727Z",
+  "lastUpdated": "2026-01-27T21:05:27.716Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,42 @@
       "color": "red",
       "articles": [
         {
-          "title": "Τραγωδία στην Εύβοια: 41χρονη εντοπίστηκε νεκρή μέσα στο σπίτι της",
-          "link": "https://www.newsit.gr/ellada/tragodia-stin-eyvoia-41xroni-entopistike-nekri-mesa-sto-spiti-tis/4585185/",
+          "title": "Σύνδεσμοι Φίλων ΠΑΟΚ: «Οι εκδρομές ακυρώνονται, ανοιχτή αύριο η Τούμπα»",
+          "link": "https://www.protothema.gr/greece/article/1764481/sundesmoi-filon-paok-oi-ekdromes-akuronodai-anoihti-aurio-i-touba/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 23:04:11 +0200",
+          "description": "Διαβάστε τι αναφέρουν σε κοινή τους ανακοίνωση οι οργανωμένοι φίλαθλοι του ΠΑΟΚ  μετά την τραγωδία στη Ρουμανία",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/paok_people-xrwma.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Μεσίστιες οι σημαίες στο Καυταντζόγλειο και στα ΕΑΚ σε ένδειξη πένθους για το τροχαίο με οπαδούς του ΠΑΟΚ",
+          "link": "https://www.protothema.gr/greece/article/1764480/mesisties-oi-simaies-sto-kautadzogleio-kai-sta-eak-se-endeixi-penthous-gia-to-trohaio-me-opadous-tou-paok/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 23:02:41 +0200",
+          "description": "Στην ανάρτησή του, ο Γιάννης Βρούτσης εξέφρασε τη βαθιά του οδύνη και τα συλλυπητήρια στις οικογένειες και στον σύλλογο, τονίζοντας ότι ο ελληνικός αθλητισμός πενθεί για την τραγική απώλεια",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/paok-touba-eurokinissi-2-xrwma.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Άγιος έρωτας – επόμενα επεισόδια: Η Χλόη συγκρούεται με τον Αργύρη και τον Πέτρο",
+          "link": "https://www.newsit.gr/media/agios-erotas-epomena-epeisodia-i-xloi-sygkrouetai-me-ton-argyri-kai-ton-petro/4583795/",
+          "pubDate": "Tue, 27 Jan 2026 21:01:00 +0000",
+          "description": "Η επιτυχημένη δραματική σειρά εποχής «Άγιος έρωτας» επιστρέφει στον ALPHA, με εξελίξεις που κόβουν την ανάσα. Τι θα δούμε στα επεισόδια που θα προβληθούν από ...  \nTo άρθρο Άγιος έρωτας – επόμενα επεισόδια: Η Χλόη συγκρούεται με τον Αργύρη και τον Πέτρο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/agios-erotas-1200x754.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία στον ΠΑΟΚ: Νεκρός 55χρονος οπαδός από ανακοπή – Άκουσε ότι φίλος του σκοτώθηκε στη Ρουμανία και κατέληξε",
+          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-nekros-55xronos-opados-apo-anakopi-akouse-oti-filos-tou-skotothike-sti-roumania-kai-katelikse/4585171/",
+          "pubDate": "Tue, 27 Jan 2026 21:00:37 +0000",
+          "description": "Ακόμη έναν οπαδό θρηνεί η ομάδα του ΠΑΟΚ, μετά την ανείπωτη τραγωδία που σημειώθηκε το μεσημέρι της Τρίτης (27.01.2026), όταν επτά Έλληνες οπαδοί σκοτώθηκαν σε ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Νεκρός 55χρονος οπαδός από ανακοπή – Άκουσε ότι φίλος του σκοτώθηκε στη Ρουμανία και κατέληξε δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-trgodia.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Σοκ στην Εύβοια: 41χρονη εντοπίστηκε νεκρή μέσα στο σπίτι της",
+          "link": "https://www.newsit.gr/ellada/sok-stin-eyvoia-41xroni-entopistike-nekri-mesa-sto-spiti-tis/4585185/",
           "pubDate": "Tue, 27 Jan 2026 20:56:32 +0000",
-          "description": "Σε σοκ βρίσκεται η τοπική κοινωνία των Ψαχνών στην Εύβοια, από τον αιφνίδιο θάνατο μιας 41χρονης γυναίκας, η οποία βρέθηκε νεκρή μέσα στο σπίτι της. ...  \nTo άρθρο Τραγωδία στην Εύβοια: 41χρονη εντοπίστηκε νεκρή μέσα στο σπίτι της δημοσιεύτηκε στο NewsIT .",
+          "description": "Σε σοκ βρίσκεται η τοπική κοινωνία των Ψαχνών στην Εύβοια, από τον αιφνίδιο θάνατο μιας 41χρονης γυναίκας, η οποία βρέθηκε νεκρή μέσα στο σπίτι της. ...  \nTo άρθρο Σοκ στην Εύβοια: 41χρονη εντοπίστηκε νεκρή μέσα στο σπίτι της δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/asthenoforo.jpg",
           "source": "NewsIT"
         },
@@ -103,6 +135,22 @@
           "description": "Έξω από το νοσοκομείο στη Ρουμανία βρίσκονται συγγενείς και φίλοι των θυμάτων του τραγικού δυστυχήματος των οπαδών του ΠΑΟΚ, που στέρησε τη ζωή σε επτά ...  \nTo άρθρο Συγγενείς και φίλοι των αδικοχαμένων οπαδών του ΠΑΟΚ έξω από το νοσοκομείο στην Ρουμανία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok20-26012026.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΟΚ: Τι είπε ο διευθυντής του νοσοκομείου της Τιμισοάρα για την κατάσταση των τραυματιών",
+          "link": "https://www.in.gr/2026/01/27/sports/football/paok-ti-eipe-o-dieythyntis-tou-nosokomeiou-tis-timisoara-gia-tin-katastasi-ton-traymation/",
+          "pubDate": "Tue, 27 Jan 2026 23:01:46 +0300",
+          "description": "Ο διευθυντής του νοσοκομείου της Τιμισοάρα μίλησε σε ρουμανικό μέσο για την κατάσταση της υγείας των τριών τραυματιών οπαδών του ΠΑΟΚ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/untitled_161307-768x466.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ρατσιστής ένας στους δύο μεσίτες ακινήτων στη Γαλλία",
+          "link": "https://www.in.gr/2026/01/27/world/ratsistis-enas-stous-dyo-mesites-akiniton-sti-gallia/",
+          "pubDate": "Tue, 27 Jan 2026 23:00:40 +0300",
+          "description": "Η αρμόδια υπουργός στη Γαλλία καταδικάζει το φαινόμενο και στέλνει όλους τους μεσίτες ακινήτων στα θρανία για… πολιτική επιμόρφωση",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/francois-xavier-chamoulaud-GHb1u9oiuL0-unsplash-768x432.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Σοκάρει Έλληνας οδηγός την ώρα που περνά από το σημείο της τραγωδίας (vid)",
@@ -199,54 +247,6 @@
           "description": "Η τραγωδία συνεχίζεται καθώς 55χρονος προδόθηκε από την καρδιά του μαθαίνοντας τα νέα από τη Ρουμανία – «Μαύρη» μέρα για τον ΠΑΟΚ και την Ελλάδα",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827015-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Η σπάνια δημόσια εμφάνιση των Σάρα Τζέσικα Πάρκερ και Μάθιου Μπρόντερικ μαζί με τα 3 παιδιά τους στη Νέα Υόρκη",
-          "link": "https://www.in.gr/2026/01/27/go-fun/fizz/spania-dimosia-emfanisi-ton-sara-tzesika-parker-kai-mathiou-mpronterik-mazi-ta-3-paidia-tous-sti-nea-yorki/",
-          "pubDate": "Tue, 27 Jan 2026 22:30:02 +0300",
-          "description": "Αξίζει να σημειωθεί ότι η Σάρα Τζέσικα Πάρκερ και ο Μάθιου Μπρόντερικ έχουν κρατήσει τα παιδιά τους μακριά από τα φώτα της δημοσιότητας και σπάνια εμφανίζονται μαζί τους σε δημόσιες εκδηλώσεις.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-07T031831Z_93307204_RC21WIAIIN92_RTRMADP_5_AWARDS-GOLDEN-GLOBES-GOLDEN-EVE-768x531.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Γαλλία: Η σεξουαλική σχέση δεν συνιστά «συζυγικό καθήκον», σύμφωνα με τον αναμορφωμένο γαλλικό αστικό κώδικα",
-          "link": "https://www.in.gr/2026/01/27/world/gallia-seksoualiki-sxesi-den-synista-syzygiko-kathikon-symfona-ton-anamorfomeno-galliko-astiko-kodika/",
-          "pubDate": "Tue, 27 Jan 2026 22:26:00 +0300",
-          "description": "Η άρνηση της σεξουαλικής σχέσης από έναν ή μία σύζυγο δεν είναι επαρκής λόγος έκδοσης μη συναινετικού διαζυγίου στην Γαλλία, αποφάνθηκε η Εθνοσυνέλευση",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/3433-768x480.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "ΗΠΑ: Τους 42 έφτασαν οι νεκροί από την κακοκαιρία – Μισό εκατομμύριο νοικοκυριά χωρίς ρεύμα",
-          "link": "https://www.in.gr/2026/01/27/world/ipa-tous-42-eftasan-oi-nekroi-apo-tin-kakokairia-miso-ekatommyrio-noikokyria-xoris-reyma/",
-          "pubDate": "Tue, 27 Jan 2026 22:23:33 +0300",
-          "description": "Ακόμη και εβδομάδες μπορεί να χρειαστούν για να αποκατασταθεί η ηλεκτροδότηση στις περιοχές που επλήγησαν από τη χιονοκαταιγίδα Fern. Οι μετεωρολόγοι προβλέπουν νέα κακοκαιρία το Σαββατοκύριακο.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T195047Z_76989752_RC279JAC6GOG_RTRMADP_5_USA-WEATHER-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Πύργος: «Ο Θεός με γλίτωσε» λέει ο μηχανοδηγός του τρένου που το καταπλάκωσε μεγάλο δέντρο",
-          "link": "https://www.newsit.gr/ellada/pyrgos-o-theos-me-glitose-leei-o-mixanodigos-tou-trenou-pou-to-kataplakose-megalo-dentro/4585116/",
-          "pubDate": "Tue, 27 Jan 2026 19:21:11 +0000",
-          "description": "Παραλίγο τραγωδία στον Πύργο. Ένα μεγάλο πεύκο έπεσε και καταπλάκωσε τρένο τη στιγμή που εκτελούσε το δρομολόγιο προς το Κατάκολο. Το δέντρο «έλιωσε» στην κυριολεξία ...  \nTo άρθρο Πύργος: «Ο Θεός με γλίτωσε» λέει ο μηχανοδηγός του τρένου που το καταπλάκωσε μεγάλο δέντρο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/treno-ileia.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σαουδική Αραβία: Ο «Κύβος»… μένει ημιτελής – Σταματούν τα έργα για τον μεγαλύτερο ουρανοξύστη στον κόσμο",
-          "link": "https://www.in.gr/2026/01/27/economy/oikonomikes-eidiseis/saoudiki-aravia-o-kyvos-menei-imitelis-stamatoun-ta-erga-gia-ton-megalytero-ouranoksysti-ston-kosmo/",
-          "pubDate": "Tue, 27 Jan 2026 22:19:43 +0300",
-          "description": "Η Σαουδική Αραβία αναθεωρεί τα φιλόδοξα σχέδιά της, αφήνοντας ημιτελή τον μεγαλύτερο ουρανοξύστη-κύβο στον κόσμο",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-27T070532Z_660303334_RC249JA3KSSE_RTRMADP_5_SAUDI-ECONONOMY-MURABBA-768x513.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "«Με κατάγματα και τραύματα στην σπονδυλική στήλη οι επιζώντες οπαδοί του ΠΑΟΚ» – Τα λόγια του μάνατζερ του νοσοκομείου",
-          "link": "https://www.newsit.gr/athlitika/me-katagmata-kai-traymata-stin-spondyliki-stili-oi-epizontes-opadoi-tou-paok-ta-logia-tou-manatzer-tou-nosokomeiou/4585125/",
-          "pubDate": "Tue, 27 Jan 2026 19:19:30 +0000",
-          "description": "Οι τρεις οπαδοί του ΠΑΟΚ που επέζησαν από το φρικτό τροχαίο δυστύχημα στην Ρουμανία βρίσκονται στο νοσοκομείο της Τιμισοάρα σοβαρά τραυματίες, αλλά εκτός κινδύνου. «Τρεις ...  \nTo άρθρο «Με κατάγματα και τραύματα στην σπονδυλική στήλη οι επιζώντες οπαδοί του ΠΑΟΚ» – Τα λόγια του μάνατζερ του νοσοκομείου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-fans-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ, δυστύχημα στη Ρουμανία: Οι σύνδεσμοι ακύρωσαν όλες τις εκδρομές!",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510761/paok-dystyhima-sti-roymania-oi-syndesmoi-akyrosan-oles-tis-ekdromes",
+          "pubDate": "Tue, 27 Jan 2026 23:04:23 +0200",
+          "description": "Όπως αναμένονταν σε ένδειξη πένθους για την τραγωδία της Ρουμανίας, οι οργανωμένοι οπαδοί του ΠΑΟΚ ακύρωσαν όλες τις εκδρομές για τη Λιόν και καλούν τον κόσμο της ομάδας, την Τετάρτη, στη Θύρα 4 της Τούμπας!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/thy4.jpg?itok=titH0uk-",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τραγωδία στον ΠΑΟΚ: Νεκρός 55χρονος οπαδός από ανακοπή – Άκουσε ότι φίλος του σκοτώθηκε στη Ρουμανία και κατέληξε",
+          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-nekros-55xronos-opados-apo-anakopi-akouse-oti-filos-tou-skotothike-sti-roumania-kai-katelikse/4585171/",
+          "pubDate": "Tue, 27 Jan 2026 21:00:37 +0000",
+          "description": "Ακόμη έναν οπαδό θρηνεί η ομάδα του ΠΑΟΚ, μετά την ανείπωτη τραγωδία που σημειώθηκε το μεσημέρι της Τρίτης (27.01.2026), όταν επτά Έλληνες οπαδοί σκοτώθηκαν σε ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Νεκρός 55χρονος οπαδός από ανακοπή – Άκουσε ότι φίλος του σκοτώθηκε στη Ρουμανία και κατέληξε δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-trgodia.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ορειβάτης ρίσκαρε τη ζωή του στο Mont Blanc για να σώσει πατέρα και γιο",
           "link": "https://www.gazzetta.gr/plus/2510759/oreibatis-riskare-ti-zoi-toy-sto-mont-blanc-gia-na-sosei-patera-kai-gio",
           "pubDate": "Tue, 27 Jan 2026 22:50:39 +0200",
@@ -967,24 +983,8 @@
           "link": "https://www.gazzetta.gr/football/champions-league/2510737/olympiakos-gkazia-mentilimpar-kai-entasi-prin-ton-teliko-me-ton",
           "pubDate": "Tue, 27 Jan 2026 21:00:24 +0200",
           "description": "Με τον Μεντιλίμπαρ να είναι απαιτητικός στην τελευταία προπόνηση του Ολυμπιακού πριν το κομβικό ματς με τον Άγιαξ, πραγματοποιήθηκε η πρόβα τζενεράλε των ερυθρόλευκων στην επιβλητική Johan Cruijff Arena. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mendilibar_0.jpg?itok=eoK0V9TL",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/prop-apostoli.jpg?itok=c7b_E9wu",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Honda: Στο προσκήνιο τα εμβληματικά Monkey, Dax και Super Cub 125 (vid)",
-          "link": "https://www.gazzetta.gr/gmotion/2510554/honda-sto-proskinio-ta-emblimatika-monkey-dax-kai-super-cub-125-vid",
-          "pubDate": "Tue, 27 Jan 2026 21:00:00 +0200",
-          "description": "Αξιολάτρευτα, πολυαγαπημένα, μοσχοπουλημένα και με τα χρώματα του 2026 να αποπνέουν περισσότερη διάθεση ρετρό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/570461_new_26ym_colours_for_iconic_monkey_125_st125_dax_and_super_cub_c125.jpg?itok=yyqK7sgw",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λουτσέσκου για το δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία: «Είναι μία τραγωδία, η θλίψη είναι τεράστια»",
-          "link": "https://www.newsit.gr/athlitika/loutseskou-gia-to-dystyxima-ton-opadon-tou-paok-sti-roumania-einai-mia-tragodia-i-thlipsi-einai-terastia/4585109/",
-          "pubDate": "Tue, 27 Jan 2026 18:59:24 +0000",
-          "description": "Η οικογένεια του ΠΑΟΚ θρηνεί την απώλεια επτά οπαδών της, μετά το τραγικό δυστύχημα στη Ρουμανία και ο Λουτσέσκου μίλησε σε ρουμάνικο μέσο για το ...  \nTo άρθρο Λουτσέσκου για το δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία: «Είναι μία τραγωδία, η θλίψη είναι τεράστια» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lucescu-1-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
