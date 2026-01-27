@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T08:15:26.016Z",
+  "lastUpdated": "2026-01-27T08:18:33.345Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ολυμπιακός: Οι πιθανότεροι αντίπαλοι εάν προκριθεί στα πλέι οφ του Champions League",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-oi-pithanoteroi-antipaloi-ean-prokrithei-sta-plei-of-tou-champions-league/4584433/",
+          "pubDate": "Tue, 27 Jan 2026 08:16:29 +0000",
+          "description": "Ποιοι είναι οι πιο πιθανοί αντίπαλοι του Ολυμπιακού στα πλέι οφ του Champions League, βάσει του μοντέλου του Football Meets Data. Ο Ολυμπιακός αντιμετωπίζει τον ...  \nTo άρθρο Ολυμπιακός: Οι πιθανότεροι αντίπαλοι εάν προκριθεί στα πλέι οφ του Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/taremi-olympiakos-eurokinissi.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Κυριάκος Μητσοτάκης για Ολοκαύτωμα: Η μισαλλοδοξία, ο ρατσισμός και ο αντισημιτισμός δεν έχουν θέση στις κοινωνίες μας",
           "link": "https://www.newsit.gr/politikh/kyriakos-mitsotakis-gia-olokaytoma-i-misallodoksia-o-ratsismos-kai-o-antisimitismos-den-exoun-thesi-stis-koinonies-mas/4584416/",
@@ -65,10 +73,10 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "Εντοπίστηκε η πέμπτη σορός από τη φωτιά στο εργοστάσιο Βιολάντα στα Τρίκαλα - Τα σενάρια για το πώς προκλήθηκε η έκρηξη",
+          "title": "Εντοπίστηκε η πέμπτη σορός από τη φωτιά στο εργοστάσιο Βιολάντα στα Τρίκαλα - Τα σενάρια για το πώς προκλήθηκε η μεγάλη έκρηξη",
           "link": "https://www.protothema.gr/greece/article/1763982/edopistike-i-pebti-soros-apo-ti-fotia-sto-ergostasio-violada/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 09:37:00 +0200",
-          "description": "Η σορός της άτυχης γυναίκας εντοπίστηκε κοντά στις σορούς των άλλων τριών γυναικών που είχαν βρεθεί πρώτες - Πώς έγινε η τραγωδία, πάνω από 1.000 βαθμοί στο εργοστάσιο",
+          "description": "Η σορός της άτυχης γυναίκας εντοπίστηκε κοντά στις σορούς των άλλων τριών γυναικών που είχαν βρεθεί πρώτες - Συνεχίζονται οι έρευνες για την αιτία που προκάλεσε την τραγωδία",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/trikala21.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -239,14 +247,6 @@
           "description": "Σταθερά στην πρώτη θέση των διαδικτυακών Μέσων Ενημέρωσης",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/26012026-noumera-xrwma.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Λουκία Γκάτσου για Μαρία Καρυστιανού: Είναι δυναμική και γλυκύτατη, έχει ανακατέψει την πολιτική τράπουλα",
-          "link": "https://www.newsit.gr/media/loukia-gkatsou-gia-maria-karystianou-einai-dynamiki-kai-glykytati-exei-anakatepsei-tin-politiki-trapoula/4584360/",
-          "pubDate": "Tue, 27 Jan 2026 06:47:06 +0000",
-          "description": "Η Λουκία Γκάτσου παραχώρησε συνέντευξη στην εκπομπή «The 2night Show» και μίλησε για την επαγγελματική πορεία της και τη συνέντευξη που της παραχώρησε προ ημερών ...  \nTo άρθρο Λουκία Γκάτσου για Μαρία Καρυστιανού: Είναι δυναμική και γλυκύτατη, έχει ανακατέψει την πολιτική τράπουλα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gatsou-arxiki-1200x885.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "India and EU announce landmark trade deal",
+          "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 08:16:58 GMT",
+          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "ΗΠΑ: Ιστορική χιονοθύελλα στις ΗΠΑ - Στους 30 οι νεκροί",
           "link": "http://gr.euronews.com/2026/01/27/hpa-istorikh-xionothyellla-hpa-30-nekroi",
           "pubDate": "Tue, 27 Jan 2026 09:03:43 +0100",
@@ -523,14 +531,6 @@
           "description": "Κινητοποιήσεις στα Τρίκαλα ανακοίνωσε το εργατικό κέντρο - Νέα ανακοίνωση της εταιρείας Βιολάντα για τα μέτρα στήριξης των οικογενειών",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "India and EU announce landmark trade deal",
-          "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 07:43:20 GMT",
-          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
-          "source": "BBC News"
         },
         {
           "title": "«Η μητέρα όλων των συμφωνιών»: Νέα εποχή στις εμπορικές σχέσεις Ινδίας-ΕΕ",
