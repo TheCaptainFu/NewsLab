@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T04:55:27.645Z",
+  "lastUpdated": "2026-01-27T05:00:40.458Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Καιρός: Red code για έντονα φαινόμενα σήμερα στην Κρήτη, ακολουθούν ακόμα δύο κύματα κακοκαιρίας",
+          "link": "https://www.protothema.gr/greece/article/1763887/kairos-edona-fainomena-simera-stin-kriti-kai-anatolika-akolouthoun-akoma-duo-kumata-kakokairias/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 06:56:44 +0200",
+          "description": "Ισχυρές βροχές και άνεμοι αναμένονται σε πολλές περιοχές, με την Κρήτη σε «Red Code» για πλημμυρικά φαινόμενα - Περισσότερες από 43.000 ηλεκτρικές εκκενώσεις τη Δευτέρα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-vroxi.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Λαθρεμπόριο καπνού και αλκοόλ: Το «κρυφό» κόστος για τα δημόσια έσοδα και το νέο πλάνο ελέγχων",
           "link": "https://www.newsit.gr/oikonomia/finance/lathremporio-kapnou-kai-alkool-to-kryfo-kostos-gia-ta-dimosia-esoda-kai-to-neo-plano-elegxon/4584080/",
@@ -55,6 +63,14 @@
           "description": "Στον κόσμο της μόδας όσο πιο εκκεντρικό είναι ένα παπούτσι τόσο το καλύτερο. Τα τελευταία χρόνια οι σχεδιαστές λανσάρουν υβριδικές δημιουργίες που συνδυάζουν διαφορετικά στυλ, ...  \nTo άρθρο Γόνατο: Και τα φλατ παπούτσια μεταβάλλουν την ευθυγράμμιση, αλλά με διαφορετικό τρόπο σε σχέση με τα ψηλοτάκουνα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1790894057.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Ακόμη μια σύσκεψη στο Μαξίμου για την ευλογιά των αιγοπροβάτων – Θα συμμετέχουν περιφερειάρχες",
+          "link": "https://www.in.gr/2026/01/27/economy/agro-in/akomi-mia-syskepsi-sto-maksimou-gia-tin-eylogia-ton-aigoprovaton-tha-symmetexoun-perifereiarxes/",
+          "pubDate": "Tue, 27 Jan 2026 06:55:50 +0300",
+          "description": "Με σχεδόν μισό εκατομμύριο ζώα, τα οποία «χτυπήθηκαν» από την ευλογιά προβάτων, να έχουν οδηγηθεί από τον Αύγουστο του 2024 έως σήμερα στη σφαγή, η κυβέρνηση φαίνεται ότι τρέχει να «συμμαζέψει τα ασυμμάζευτα», που δημιούργησε ο τρόπος διαχείρισης της ζωονόσου ευλογιάς",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/eylogia22-1200x800-1200x800-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Βιολάντα: Πανελλαδική απεργία στον κλάδο τροφίμων στις 3 Φεβρουαρίου",
@@ -231,22 +247,6 @@
           "description": "Με ένα σοβαρό τραύμα στο πρόσωπο «πλήρωσε» μία σκιέρ στην Κίνα την προσπάθειά της να τραβήξει μία σέλφι με μία σπάνια λευκή λεοπάρδαλη του χιονιού. ...  \nTo άρθρο Κίνα: Λεοπάρδαλη του χιονιού δάγκωσε στο πρόσωπο σκιέρ που προσπάθησε να βγάλει σέλφι με το ζώο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/leopard-china-27012026.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "ΗΠΑ: Η αποδοχή της πολιτικής Τραμπ στο μεταναστευτικό υποχωρεί σε ιστορικό χαμηλό",
-          "link": "https://www.in.gr/2026/01/27/world/ipa-apodoxi-tis-politikis-tramp-sto-metanasteytiko-ypoxorei-se-istoriko-xamilo/",
-          "pubDate": "Tue, 27 Jan 2026 02:30:06 +0300",
-          "description": "Σχεδόν 6 στους 10 Αμερικανούς θεωρεί ότι οι πράκτορες της ICE δεν λειτουργούν σύμφωνα με τον νόμο, την ώρα που οι πολίτες διαφωνούν με την συνολική πολιτική Τραμπ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-24T163730Z_412058470_RC2M6JABNB0S_RTRMADP_5_USA-GREENLAND-TRUMP-POLICY-1-768x526.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Πεζέσκιαν: Οι ΗΠΑ και η Ευρώπη καθοδηγούνται από την απληστία για το πετρέλαιο και το φυσικό αέριο του Ιράν",
-          "link": "https://www.in.gr/2026/01/27/world/pezeskian-oi-ipa-kai-eyropi-kathodigountai-apo-tin-aplistia-gia-petrelaio-kai-fysiko-aerio-tou-iran/",
-          "pubDate": "Tue, 27 Jan 2026 02:10:28 +0300",
-          "description": "Ο πρόεδρος του Ιράν, Μασούντ Πεζεσκιάν, κατηγόρησε τις ΗΠΑ και την Ευρώπη πως υποστήριξαν τα πιο ειδεχθή εγκλήματα στη Γάζα και προσποιούνται ότι ενδιαφέρονται για τα ανθρώπινα δικαιώματα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Masoud_Pezeshkian_2024-6-12-1200x802-768x513.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Sidewinder: Η τεχνολογία που έμαθε στην AI να «γράφει» αλάνθαστο DNA",
+          "link": "https://www.techgear.gr/sidewinder-i-technologia-poy-emathe-stin-ai-na-grafei-alanthasto-dna-47335",
+          "pubDate": "Tue, 27 Jan 2026 06:57:00 +0200",
+          "description": "Μέχρι σήμερα, ζούσαμε σε μια παράδοξη εποχή: Η Τεχνητή Νοημοσύνη (AI) είχε την ικανότητα να σχεδιάσει πολύπλοκες πρωτεΐνες και γονιδιώματα, αλλά η ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/synthetic-dna-image.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Επίσημο: Το νέο AirTag είναι εδώ – Τι αλλάζει και ποια iPhone το εκμεταλλεύονται πλήρως",
           "link": "https://www.techgear.gr/episimo-to-neo-airtag-einai-edo-ti-allazei-kai-poia-iphone-to-ekmetalleyontai-pliros-47334",
           "pubDate": "Mon, 26 Jan 2026 21:01:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Mon, 26 Jan 2026 07:10:00 +0200",
           "description": "Σε ένα κομβικό σημείο για την εξέλιξη της Τεχνητής Νοημοσύνης (AI), μια νέα μελέτη έρχεται να επαναπροσδιορίσει τη σχέση μηχανής και ανθρώπινης ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/ai-vs-human-brain-creativity.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "ChatGPT: Γιατί οι αναλυτές βλέπουν χρεοκοπία για την OpenAI το 2027",
-          "link": "https://www.techgear.gr/chatgpt-giati-oi-analytes-vlepoyn-chreokopia-gia-tin-openai-to-2027-47316",
-          "pubDate": "Mon, 26 Jan 2026 07:01:00 +0200",
-          "description": "Στον πυρετώδη ρυθμό της τεχνολογικής εξέλιξης, ελάχιστες εταιρείες έχουν καταφέρει να μονοπωλήσουν το ενδιαφέρον –και τα κεφάλαια– όσο η OpenAI. Η ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/openai-bankrupt.jpg",
           "source": "Techgear"
         }
       ]
