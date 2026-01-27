@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T18:05:40.923Z",
+  "lastUpdated": "2026-01-27T18:10:26.715Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Οι τραυματίες οπαδοί του ΠΑΟΚ είναι πάρα πολύ καλά, τους κοιτάνε οι γιατροί, λέει Έλληνας που πήγε να βοηθήσει στο τροχαίο",
+          "link": "https://www.protothema.gr/greece/article/1764398/traumaties-opadoi-tou-paok-einai-para-polu-kala-tous-koitane-oi-giatroi-leei-ellinas-pou-pige-na-voithisei-sto-trohaio/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 20:08:29 +0200",
+          "description": "Από την πρώτη στιγμή είμαστε εδώ για να βοηθήσουμε, είπε ο Γιώργος Καραμήτρος",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/troxaio-roumania__1_.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Σεισμός 4,4 Ρίχτερ ανοιχτά της Ζακύνθου",
+          "link": "https://www.protothema.gr/greece/article/1764396/seismos-tora-44-rihter-anoihta-tis-zakunthou/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 20:06:00 +0200",
+          "description": "Tο επίκεντρο εντοπίζεται 39 Χλμ. νοτιοδυτικά του Αγίου Λέοντα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-11/seismografos-xrwma.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Γκάλης για το δυστύχημα των φίλων του ΠΑΟΚ: «Είναι εξαιρετικά λυπηρό να χάνουν τη ζωή τους νέοι άνθρωποι»",
           "link": "https://www.newsit.gr/athlitika/gkalis-gia-to-dystyxima-ton-filon-tou-paok-einai-eksairetika-lypiro-na-xanoun-ti-zoi-tous-neoi-anthropoi/4585044/",
@@ -33,10 +49,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Βιολάντα: Συνελήφθη ο ιδιοκτήτης του εργοστασίου και δύο στελέχη",
-          "link": "https://www.newsit.gr/ellada/violanta-synelifthi-o-idioktitis-tou-ergostasiou-kai-dyo-stelexi/4585033/",
+          "title": "Βιολάντα: Συνελήφθησαν ο ιδιοκτήτης του εργοστασίου, ο τεχνικός ασφαλείας και ο υπεύθυνος βάρδιας",
+          "link": "https://www.newsit.gr/ellada/violanta-synelifthisan-o-idioktitis-tou-ergostasiou-o-texnikos-asfaleias-kai-o-ypeythynos-vardias/4585033/",
           "pubDate": "Tue, 27 Jan 2026 17:50:18 +0000",
-          "description": "Συνελήφθη λίγο πριν τις 8 το βράδυ της Τρίτης (27.01.2026) ο ιδιοκτήτης του εργοστασίου «Βιολάντα» στα Τρίκαλα μετά την τραγωδία με τις πέντε νεκρές εργάτριες. ...  \nTo άρθρο Βιολάντα: Συνελήφθη ο ιδιοκτήτης του εργοστασίου και δύο στελέχη δημοσιεύτηκε στο NewsIT .",
+          "description": "Συνελήφθη λίγο πριν τις 8 το βράδυ της Τρίτης (27.01.2026) ο ιδιοκτήτης του εργοστασίου «Βιολάντα» στα Τρίκαλα μετά την τραγωδία με τις πέντε νεκρές εργάτριες. ...  \nTo άρθρο Βιολάντα: Συνελήφθησαν ο ιδιοκτήτης του εργοστασίου, ο τεχνικός ασφαλείας και ο υπεύθυνος βάρδιας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta2-reuters-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -161,6 +177,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Σεισμός τώρα στη Ζάκυνθο",
+          "link": "https://www.in.gr/2026/01/27/greece/seismos-tora-stin-zakyntho/",
+          "pubDate": "Tue, 27 Jan 2026 20:06:06 +0300",
+          "description": "Το εστιακό βάθος του σεισμού είναι στα 9,7 χιλιόμετρα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/IN_1920_ΕΚΤΑΚΤΑ-9-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ρουμανία: Η μοιραία σύμπτωση στο πολύνεκρο τροχαίο με Έλληνες φιλάθλους του ΠΑΟΚ – Τι θα γίνει με τον επαναπατρισμό των σορών και τους τραυματίες",
           "link": "https://www.newsit.gr/ellada/roumania-i-moiraia-symptosi-sto-polynekro-troxaio-me-ellines-filathlous-tou-paok-ti-tha-ginei-me-ton-epanapatrismo-ton-soron-kai-tous-traymaties/4584960/",
           "pubDate": "Tue, 27 Jan 2026 17:05:47 +0000",
@@ -222,30 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 16:52:35 +0000",
           "description": "Για φόνο κατηγορείται ένας 60χρονος Γάλλος, σχεδόν 17 χρόνια μετά την εξαφάνιση της συντρόφου του και μητέρας των δύο παιδιών τους με καταγωγή από το ...  \nTo άρθρο Ένας 60χρονος Γάλλος στο Βέλγιο διώκεται για τον φόνο της  συντρόφου του 17 χρόνια μετά την εξαφάνισή της δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/police-belgium.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συνελήφθη ο ιδιοκτήτης του εργοστασίου «Βιολάντα»",
-          "link": "https://www.in.gr/2026/01/27/greece/synelifthi-o-idioktitis-tou-ergostasiou-violanta/",
-          "pubDate": "Tue, 27 Jan 2026 19:52:02 +0300",
-          "description": "Συνελήφθησαν και δύο στελέχη της διοίκησης - Και οι τρεις συλληφθέντες κατηγορούνται για ανθρωποκτονία από αμέλεια, έκρηξη, εμπρησμό από αμέλεια και σωματικές βλάβες",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trikala-violanta1-scaled-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Νεκρό βρέφος τριών μηνών στη Θεσσαλονίκη",
-          "link": "https://www.protothema.gr/greece/article/1764350/nekro-vrefos-trion-minon-sti-thessaloniki/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 18:52:00 +0200",
-          "description": "Το αγοράκι μεταφέρθηκε άσφυγμο από τους γονείς του στο νοσοκομείο που δεν εφημέρευε",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-09/ippokrateio-mak.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία – Φίλοι του Δικεφάλου αφήνουν λουλούδια",
-          "link": "https://www.newsit.gr/athlitika/mesisties-simaies-tou-paok-stin-toumpa-gia-to-tragiko-dystyxima-sti-roumania-filoi-tou-dikefalou-afinoun-louloudia/4584974/",
-          "pubDate": "Tue, 27 Jan 2026 16:51:37 +0000",
-          "description": "Στην Τούμπα κυματίζουν μεσίστιες σημαίες του ΠΑΟΚ για τους επτά αδικοχαμένους φίλους της ομάδας που έχασαν τη ζωή τους στο τραγικό δυστύχημα στη Ρουμανία. Στο ...  \nTo άρθρο Μεσίστιες σημαίες του ΠΑΟΚ στην Τούμπα για το τραγικό δυστύχημα στη Ρουμανία – Φίλοι του Δικεφάλου αφήνουν λουλούδια δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-2-3-1200x801.jpg",
           "source": "NewsIT"
         }
       ]
@@ -1001,10 +1001,10 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "ΚΑΕ Παναθηναϊκός AKTOR σε Μακάμπι: «Τα μέτρα ασφαλείας ήταν ανεπαρκή»",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/kae-panathinaikos-aktor-se-maccabi-ta-metra-asfaleias-htan-aneparkh/?utm_source=rss&utm_medium=rss&utm_campaign=kae-panathinaikos-aktor-se-maccabi-ta-metra-asfaleias-htan-aneparkh",
+          "title": "Δυναμική απάντηση Παναθηναϊκού σε Μακάμπι!",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/dunamikh-apanthsh-panathinaikou-se-maccabi/?utm_source=rss&utm_medium=rss&utm_campaign=dunamikh-apanthsh-panathinaikou-se-maccabi",
           "pubDate": "Tue, 27 Jan 2026 17:57:19 +0000",
-          "description": "Το «τριφύλλι» πήρε θέση απέναντι στις δηλώσεις του CEO της Μακάμπι Τελ Αβίβ, κάνοντας λόγο για ανεπαρκή ασφάλεια. Ο Παναθηναϊκός AKTOR απάντησε επίσημα στα όσα υποστήριξε ο CEO της Μακάμπι Τελ Αβίβ, μετά τα γεγονότα που σημειώθηκαν στο παιχνίδι των δύο ομάδων. Οι «πράσινοι» τόνισαν ότι τα μέτρα ασφαλείας δεν ήταν τα προβλεπόμενα, διαψεύδοντας παράλληλα […]\nThe post ΚΑΕ Παναθηναϊκός AKTOR σε Μακάμπι: «Τα μέτρα ασφαλείας ήταν ανεπαρκή» appeared first on Όλα Πράσινα.",
+          "description": "Το «τριφύλλι» πήρε θέση απέναντι στις δηλώσεις του CEO της Μακάμπι Τελ Αβίβ, κάνοντας λόγο για ανεπαρκή ασφάλεια. Ο Παναθηναϊκός AKTOR απάντησε επίσημα στα όσα υποστήριξε ο CEO της Μακάμπι Τελ Αβίβ, μετά τα γεγονότα που σημειώθηκαν στο παιχνίδι των δύο ομάδων. Οι «πράσινοι» τόνισαν ότι τα μέτρα ασφαλείας δεν ήταν τα προβλεπόμενα, διαψεύδοντας παράλληλα […]\nThe post Δυναμική απάντηση Παναθηναϊκού σε Μακάμπι! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/sima.webp",
           "source": "Όλα Πράσινα"
         },
