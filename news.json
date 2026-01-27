@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T23:45:29.836Z",
+  "lastUpdated": "2026-01-27T23:50:32.102Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Watch: Why Trump is hitting the road to rally Americans",
+          "link": "https://www.bbc.com/news/videos/cz0p2xy38d0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 23:22:22 GMT",
+          "description": "The BBC's White House correspondent Bernd Debusmann explains why the president is refocusing his attention on the US economy.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5318/live/0d646580-fbd3-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "A string of scandals and luxury handbags: Who is South Korea's former first lady?",
+          "link": "https://www.bbc.com/news/articles/cj3vpe8zme8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 23:11:38 GMT",
+          "description": "The wife of disgraced former president Yoon Suk Yeol is facing court on a raft of her own charges.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca91/live/f0b0c370-fb5a-11f0-80ad-435009e66207.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Former French senator found guilty of drugging MP",
           "link": "https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 22:04:40 GMT",
@@ -721,22 +737,6 @@
           "link": "http://gr.euronews.com/video/2026/01/27/storm-chandra-has-caused-flooding-and-power-outages-across-ireland",
           "pubDate": "Tue, 27 Jan 2026 17:36:09 +0100",
           "description": "Η καταιγίδα Τσάντρα προκάλεσε σφοδρές πλημμύρες σε όλη την Ιρλανδία. Στο Δουβλίνο, οι υπηρεσίες έκτακτης ανάγκης απεγκλωβίζουν οδηγούς από τα νερά. 30.000 άνθρωποι χωρίς ρεύμα.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
-          "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 16:17:46 GMT",
-          "description": "He has been described as an avid outdoorsman who loved mountain biking.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/fc00db50-fb52-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Επίτροπος της ΕΕ Βίρκκουνεν καλεί τις ΗΠΑ να σεβαστούν τους ψηφιακούς κανόνες της ΕΕ",
-          "link": "http://gr.euronews.com/my-europe/2026/01/27/eu-commissioner-virkkunen-urges-the-us-to-respect-eu-digital-rules",
-          "pubDate": "Tue, 27 Jan 2026 17:07:49 +0100",
-          "description": "Συνέντευξη στο Euronews: η επίτροπος ΕΕ για τεχνολογική κυριαρχία Χέννα Βίρκουνεν: ΤΝ, έρευνα στο Grok του X και πιθανό μπλόκο στα social media σε παιδιά.",
           "thumbnail": null,
           "source": "Euronews"
         }
