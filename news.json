@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T13:00:36.805Z",
+  "lastUpdated": "2026-01-27T13:05:29.560Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ιράν: Εκρήξεις κοντά στον πυρηνικό σταθμό Παρτσίν – Για προγραμματισμένες ασκήσεις και δοκιμές μιλάει η Τεχεράνη",
+          "link": "https://www.newsit.gr/kosmos/iran-ekrikseis-konta-ston-pyriniko-stathmo-partsin-gia-programmatismenes-askiseis-kai-dokimes-milaei-i-texerani/4584734/",
+          "pubDate": "Tue, 27 Jan 2026 13:00:16 +0000",
+          "description": "Συναγερμός σήμανε σήμερα (27.01.2026) στο Ιράν, με αναφορές να κάνουν λόγο για εκρήξεις κοντά στον πυρηνικό σταθμό Παρτσίν, σε μια κρίσιμη χρονική συγκυρία κατά την ...  \nTo άρθρο Ιράν: Εκρήξεις κοντά στον πυρηνικό σταθμό Παρτσίν – Για προγραμματισμένες ασκήσεις και δοκιμές μιλάει η Τεχεράνη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iran-military-reuters-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Επικροτούν τη «συμφωνία όλων των συμφωνιών» ΕΕ – Ινδίας οι Ευρωπαίοι αγρότες",
           "link": "https://www.newsit.gr/oikonomia/diethni/epikrotoun-ti-symfonia-olon-ton-symfonion-ee-indias-oi-eyropaioi-agrotes/4584731/",
@@ -209,6 +217,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Γιατί δεν πέφτει ο πληθωρισμός στην Ελλάδα – Τι δείχνουν τα στοιχεία [γραφήματα]",
+          "link": "https://www.in.gr/2026/01/27/economy/oikonomikes-eidiseis/giati-den-peftei-o-plithorismos-stin-ellada-ti-deixnoun-ta-stoixeia-grafimata/",
+          "pubDate": "Tue, 27 Jan 2026 15:00:49 +0300",
+          "description": "Στη διατήρηση των πληθωριστικών πιέσεων συνέβαλε κυρίως η επιτάχυνση της ανόδου των τιμών των υπηρεσιών",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/28805663-768x499.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Τρίκαλα: Σε εξέλιξη οι καταθέσεις των εργαζομένων που επέζησαν από την φωτιά στο εργοστάσιο «Βιολάντα»",
           "link": "https://www.protothema.gr/greece/article/1764175/trikala-se-exelixi-oi-katatheseis-ton-ergazomenon-pou-epezisan-apo-tin-fotia-sto-ergostasio-violada/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 13:58:00 +0200",
@@ -231,22 +247,6 @@
           "description": "Παρελθόν από τον Παναθηναϊκό αποτελεί ο Έλτον Φικάι. Ο Αλβανός αμυντικός θα συνεχίσει την καριέρα του στην Πολωνία. Ο διεθνής με την εθνική Ελπίδων της ...  \nTo άρθρο Τέλος ο Έλτον Φικάι από τον Παναθηναϊκό δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fikai-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Έκρηξη στη Βιολάντα: Το protothema.gr στο σημείο της τραγωδίας στα Τρίκαλα",
-          "link": "https://www.protothema.gr/greece/article/1764148/ekrixi-sti-violada-to-protothemagr-sto-simeio-tis-tragodias-sta-trikala/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 13:52:00 +0200",
-          "description": "Πέντε γυναίκες έχασαν τη ζωή τους από τη φονική έκρηξη στα Τρίκαλα - Συνεχίζονται οι έρευνες στον χώρο του εργοστασίου",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/protothema-live-trikala.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Βιολάντα: Θέμα στα διεθνή ΜΜΕ η θανατηφόρα έκρηξη στο εργοστάσιο",
-          "link": "https://www.in.gr/2026/01/27/greece/violanta-thema-sta-diethni-mme-thanatifora-ekriksi-sto-ergostasio/",
-          "pubDate": "Tue, 27 Jan 2026 14:51:13 +0300",
-          "description": "Πέντε εργάτριες έχασαν τη ζωή τους από την έκρηξη στο εργοστάσιο Βιολάντα στα Τρίκαλα - Η είδηση έκανε τον γύρο των διεθνών ΜΜΕ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FOTIA_ERGOSTASIO_TRIKALA_KID021-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -255,7 +255,7 @@
       "color": "purple",
       "articles": [
         {
-          "title": "Στεγαστικό: Τέσσερις νέες παρεμβάσεις για προσιτή στέγη",
+          "title": "Νέες παρεμβάσεις για προσιτή στέγη: Επιστροφή δύο ενοικίων και περιορισμοί στα Airbnb",
           "link": "https://www.tanea.gr/print/2026/01/27/politics/tesseris-nees-paremvaseis-gia-prositi-stegi/",
           "pubDate": "Tue, 27 Jan 2026 13:00:00 +0000",
           "description": "Νέο πρόγραμμα «Κατασκευάζω – Νοικιάζω», επιστροφή χωρίς εισοδηματικά κριτήρια δύο ενοικίων αντί ενός σε περίπου 50.000 ιατρούς, νοσηλευτές και εκπαιδευτικούς που υπηρετούν «εκτός έδρας» και επέκταση των περιορισμών για τις βραχυχρόνιες μισθώσεις δρομολογεί η κυβέρνηση στο πλαίσιο αντιμετώπισης του στεγαστικού προβλήματος. Ο Κυριάκος Πιερρακάκης και η Δόμνα Μιχαηλίδου παρουσίασαν χθες στο Υπουργικό Συμβούλιο τις βασικές […]",
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός, μεταγραφές: Παραμένει ανοιχτή η αποχώρηση του Μάνσα",
+          "link": "https://www.gazzetta.gr/football/superleague/2510609/olympiakos-metagrafes-paramenei-anoihti-i-apohorisi-toy-mansa",
+          "pubDate": "Tue, 27 Jan 2026 15:05:06 +0200",
+          "description": "Συνεχίζει να είναι πιθανό ο Γκουστάβο Μάνσα να δοθεί δανεικός στην τρέχουσα μεταγραφική περίοδο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/manca.jpg?itok=AvjazV9c",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "WEC - Η Porsche «μαγειρεύει» ήδη την επιστροφή της ",
+          "link": "https://www.gazzetta.gr/gmotion/2509694/wec-i-porsche-mageireyei-idi-tin-epistrofi-tis",
+          "pubDate": "Tue, 27 Jan 2026 15:03:00 +0200",
+          "description": "H γερμανική μάρκα φαίνεται πως μετάνιωσε ήδη την αποχώρησή της από το κορυφαίο πρωτάθλημα αντοχής και θέλει να επιστρέψει, όμως υπό όρους.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gtarggtwmaemev81.jpg?itok=oW5AeaYh",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Μουκουντί και Μάνταλος «ζεσταίνουν» τον κόσμο για το ματς με την Άλμπα",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510607/aek-moykoynti-kai-mantalos-zestainoyn-ton-kosmo-gia",
+          "pubDate": "Tue, 27 Jan 2026 15:01:34 +0200",
+          "description": "Μάνταλος και Μουκουντί καλούν τον κόσμο της ΑΕΚ να δώσει το «παρών» στη Sunel Arena για την ανμέτρηση του BCL με την Άλμπα Βερολίνου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/madalos_moukoudi_.jpg?itok=hOrBWjM0",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Huawei FreeClip 2: Η άνεση και το στυλ συναντούν την open-ear καινοτομία",
+          "link": "https://www.gazzetta.gr/plus/2510260/huawei-freeclip-2-i-anesi-kai-styl-synantoyn-tin-open-ear-kainotomia",
+          "pubDate": "Tue, 27 Jan 2026 14:59:33 +0200",
+          "description": "Τα Huawei FreeClip 2 είναι εδώ και ξεχωρίζουν",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/untitled_design_0.jpg?itok=OrJPvn0j",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ο Παναθηναϊκός εξετάζει τον Κοστιαντίν Βιβτσαρένκο",
           "link": "https://www.newsit.gr/athlitika/o-panathinaikos-eksetazei-ton-kostiantin-vivtsarenko/4584742/",
           "pubDate": "Tue, 27 Jan 2026 12:50:38 +0000",
@@ -953,38 +985,6 @@
           "description": "Στην ημιτελική φάση του Australian Open προκρίθηκαν οι Σαμπαλένκα και Σβιτόλινα, επικρατώντας με άνεση των αντιπάλων τους.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aryna_sabalenka_ausopen26.jpg?itok=KaZM4PNX",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Chery: Ρεκόρ πωλήσεων παγκοσμίως και δυναμική είσοδος στην Ελλάδα",
-          "link": "https://www.gazzetta.gr/gmotion/2510393/chery-rekor-poliseon-pagkosmios-kai-dynamiki-eisodos-stin-ellada",
-          "pubDate": "Tue, 27 Jan 2026 13:10:36 +0200",
-          "description": "Η κινεζική μάρκα ξεπέρασε τις 2,8 εκατ. πωλήσεις παγκοσμίως το 2025, ενώ στην Ελλάδα κατέγραψε πάνω από 1.000 ταξινομήσεις μέσα σε μόλις έξι μήνες δραστηριότητας.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/chery_2025_sales_02_1.jpg?itok=Kl5Efp8k",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Στη λίστα του «τριφυλλιού» ο Βιβτσαρένκο",
-          "link": "https://www.gazzetta.gr/football/superleague/2510576/panathinaikos-sti-lista-toy-trifyllioy-o-bibtsarenko",
-          "pubDate": "Tue, 27 Jan 2026 13:07:00 +0200",
-          "description": "Ο Παναθηναϊκός είναι ενεργός στην αγορά για αριστερό μπακ και μία από τις περιπτώσεις που εξετάζονται σύμφωνα με όσα αναφέρουν πηγές του Gazzetta από την Ουκρανία είναι ο Κονσταντίν Βιβτσαρένκο της Ντιναμό Κιέβου.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vivcharenko_getty.jpg?itok=U2DrZJF0",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Χρήστος Μανδάς ανακοινώθηκε από την Μπόρνμουθ με μία τεράστια ελληνική σημαία στο γήπεδό της",
-          "link": "https://www.newsit.gr/athlitika/o-xristos-mandas-anakoinothike-apo-tin-mpornmouth-me-mia-terastia-elliniki-simaia-sto-gipedo-tis/4584602/",
-          "pubDate": "Tue, 27 Jan 2026 11:02:29 +0000",
-          "description": "Η ελληνική παροικία στην Premier League μεγαλώνει, με τον Χρήστο Μανδά να είναι και επίσημα παίκτης της Μπόρνμουθ. Η Μπόρνμουθ ανακοίνωσε την απόκτηση του Χρήστου ...  \nTo άρθρο Ο Χρήστος Μανδάς ανακοινώθηκε από την Μπόρνμουθ με μία τεράστια ελληνική σημαία στο γήπεδό της δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/mandas-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Eπικήρυξαν τους δράστες του μπλακ άουτ στο Βερολίνο με 1 εκατ. ευρώ",
-          "link": "https://www.gazzetta.gr/plus/2510587/epikiryxan-toys-drastes-toy-mplak-aoyt-sto-berolino-me-1-ekat-eyro",
-          "pubDate": "Tue, 27 Jan 2026 13:01:21 +0200",
-          "description": "Οι αρχές στη Γερμανία επικήρυξαν τους δράστες του μπλακ-άουτ στο Βερολίνο με ένα εκατομμύριο ευρώ",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gerrr.jpg?itok=q5FdBPyY",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Το «αντίο» του Φικάι: «Για πάντα κομμάτι της ζωής μου ο Παναθηναϊκός»",
+          "link": "https://panathinaikos24.gr/2026/01/27/617945/to-antio-tou-fikai-gia-panta-kommati-tis-zois-mou-o-panathinaikos/",
+          "pubDate": "Tue, 27 Jan 2026 13:01:49 +0000",
+          "description": "Το μήνυμα του Έλτον Φικάι μετά την οριστικοποίηση της μεταγραφής του.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4917958.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Τα εισιτήρια της «μάχης» με τον Ερυθρό Αστέρα",
           "link": "https://panathinaikos24.gr/2026/01/27/617792/ta-eisitiria-tis-maxis-me-ton-erythro-astera/",
@@ -1223,14 +1231,6 @@
           "description": "Σοβαρό πρόβλημα και για τον Πέδρο Τσιριβέγια, που θα μείνει εκτός για 1,5 μήνα.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5004884.jpg?fit=900%2C598&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Παναθηναϊκός – Ρόμα: Με θετική προϊστορία ο διαιτητής του ματς!",
-          "link": "https://trifilara.gr/panathinaikos-roma-me-thetiki-proistoria-o-diaititis-tou-mats/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-roma-me-thetiki-proistoria-o-diaititis-tou-mats",
-          "pubDate": "Tue, 27 Jan 2026 09:26:38 +0000",
-          "description": "Τον Χουάν Μαρτίνεθ Μουνουέρα όρισε η UEFA στον αγώνα του Παναθηναϊκού με τη Ρόμα την Πέμπτη στο ΟΑΚΑ για το Europa League (22:00).\nThe post Παναθηναϊκός – Ρόμα: Με θετική προϊστορία ο διαιτητής του ματς! appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         }
       ]
     },
