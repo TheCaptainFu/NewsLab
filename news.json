@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T04:40:30.637Z",
+  "lastUpdated": "2026-01-27T04:45:31.817Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τραγωδία στη βιομηχανία «Βιολάντα»: Θρήνος και αναπάντητα ερωτήματα για την έκρηξη – Εργαζομένη σώθηκε γιατί αρρώστησε ο γιος της",
+          "link": "https://www.newsit.gr/ellada/tragodia-sti-viomixania-violanta-thrinos-kai-anapantita-erotimata-gia-tin-ekriksi-ergazomeni-sothike-giati-arrostise-o-gios-tis/4584310/",
+          "pubDate": "Tue, 27 Jan 2026 04:40:39 +0000",
+          "description": "Βομβαρδισμένο τοπίο συνεχίζει και θυμίζει η βιομηχανία «Βιολάντα» στα Τρίκαλα, μετά τον φονική έκρηξη και φωτιά που προκάλεσε τον θάνατο 5 γυναικών και η οποία ...  \nTo άρθρο Τραγωδία στη βιομηχανία «Βιολάντα»: Θρήνος και αναπάντητα ερωτήματα για την έκρηξη – Εργαζομένη σώθηκε γιατί αρρώστησε ο γιος της δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fotia-trikala-violanta.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Καιρός: Βροχές και καταιγίδες ξανά από την Τετάρτη και νέο κύμα κακοκαιρίας το Σαββατοκύριακο – Στους 16°C η θερμοκρασία στην Αττική",
           "link": "https://www.newsit.gr/ellada/kairos-vroxes-kai-kataigides-ksana-apo-tin-tetarti-kai-neo-kyma-kakokairias-to-savvatokyriako-stous-16-c-i-thermokrasia-stin-attiki/4584311/",
@@ -239,14 +247,6 @@
           "description": "Στην πυρκαγιά που ξέσπασε στη βιομηχανία μπισκότων «Βιολάντα» στα Τρίκαλα, και κόστισε τη ζωή σε πέντε εργάτριες, αναφέρθηκε μεταξύ άλλων ο υπουργός Πολιτικής Προστασίας, Γιάννης ...  \nTo άρθρο Γιάννης Κεφαλογιάννης για «Βιολάντα»: Πιθανόν την Τρίτη να έχουμε μία πρώτη εικόνα για τα αίτια της έκρηξης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-r-1-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Κεφαλογιάννης: Ενδεχομένως την Τρίτη να έχουμε μια πρώτη εικόνα για τα αίτια της έκρηξης στα Τρίκαλα ",
-          "link": "https://www.protothema.gr/greece/article/1763867/kefalogiannis-endehomenos-tin-triti-na-ehoume-mia-proti-eikona-gia-ta-aitia-tis-ekrixis-sta-trikala/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 00:29:48 +0200",
-          "description": "Στην περιοχή κλιμάκιο της Διεύθυνσης Αντιμετώπισης Εγκλημάτων Εμπρησμού για τη διερεύνηση των αιτίων της έκρηξης και της πυρκαγιάς στο εργοστάσιο Βιολάντα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/kefalogiannis_giannis.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
