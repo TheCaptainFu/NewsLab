@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T08:40:27.330Z",
+  "lastUpdated": "2026-01-27T08:45:30.990Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,9 +9,17 @@
       "color": "red",
       "articles": [
         {
+          "title": "Πένθος στην Πάτρα για τους νεαρούς που σκοτώθηκαν σε τροχαίο: Το συγκινητικό αντίο του σχολείου τους",
+          "link": "https://www.protothema.gr/greece/article/1764026/penthos-stin-patra-gia-tous-nearous-pou-skotothikan-se-trohaio-to-suginitiko-adio-tou-sholeiou-tous/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 10:43:06 +0200",
+          "description": "Το σχολείο στο οποίο φοιτούσαν ο 19χρονος και η 17χρονη, αποχαιρέτησε τα παιδιά με μία συγκινητική ανακοίνωση",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/troxaio-patra.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
           "title": "Πριν από 6 μήνες ήρθε από τη Γερμανία η 56χρονη Αναστασία που έχασε τη ζωή της στη Βιολάντα: «Έκανε υπομονή για το ένσημο» λένε οι γονείς της",
           "link": "https://www.protothema.gr/greece/article/1764024/prin-apo-6-mines-irthe-apo-ti-germania-i-56hroni-anastasia-pou-ehase-ti-zoi-tis-sti-violada-ekane-upomoni-gia-to-ensim/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 10:39:39 +0200",
+          "pubDate": "Tue, 27 Jan 2026 10:39:00 +0200",
           "description": "«Το κορίτσι μου... το κορίτσι μου» λέει κλαίγοντας η μητέρα της περιγράφοντας ότι «είχαμε μιλήσει την Κυριακή και μου είχε πει να πάει στη Βιολάντα να κόψει την πίτα και της είπα \"να περάσεις καλά»",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/anastasia_nasiou_arthrou.jpg",
           "source": "Πρώτο Θέμα"
@@ -148,7 +156,7 @@
           "title": "Τριπλή παρέμβαση για το οικολογικό έγκλημα στη Μήλο - Παπασταύρου: Πολεοδομικό αλαλούμ, προέχει η αναστολή εργασιών μέχρι να αποφασίσει η Δικαιοσύνη",
           "link": "https://www.protothema.gr/greece/article/1763897/i-tripli-paremvasi-gia-na-stamatisei-to-oikologiko-eglima-sti-milo-balaki-apo-ton-dimo-oi-euthunes-gia-to-white-coast/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 09:57:00 +0200",
-          "description": "Δικηγόρος Δήμου Μήλου: «Η πολεοδομία ευθύνεται για τη μη διακοπή των εργασιών στο White Coast - Σε 20 ημέρες περιμένουμε απόφαση αναστολής από το ΣτΕ»",
+          "description": "Δικηγόρος Δήμου Μήλου: Η πολεοδομία ευθύνεται για τη μη διακοπή των εργασιών στο White Coast - Η ανακοίνωση της εταιρείας  στην οποία ανήκει το Domes White Coast Milos",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/maketa-milos2.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -159,6 +167,14 @@
           "description": "Ο Σπύρος Μαρτίκας μίλησε στην κάμερα της εκπομπής «Happy Day» και αναφέρθηκε στα χρήματα που οφείλει στην Βρισηίδα Ανδρώτου, αλλά και στη συμμετοχή της νυν ...  \nTo άρθρο Σπύρος Μαρτίκας για Βρισηίδα Ανδριώτου: Κάθε εβδομάδα της δίνω χρήματα για να την εξοφλήσω δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/martikas-ndp-1200x851.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "SOS για τους νέους ΚΑΔ – Τι πρέπει να προσέξουν οι επαγγελματίες",
+          "link": "https://www.in.gr/2026/01/27/economy/oikonomikes-eidiseis/sos-gia-tous-neous-kad-ti-prepei-na-proseksoun-oi-epaggelmaties/",
+          "pubDate": "Tue, 27 Jan 2026 10:41:06 +0300",
+          "description": "Κίνδυνος για λάθη και καθυστερήσεις στις φορολογικές δηλώσεις - Καμπανάκι από λογιστές",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/aade-768x431.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Χειμερινές εκπτώσεις 2026 στη LA VIE EN ROSE: Οδηγός για έξυπνες επιλογές ομορφιάς",
@@ -230,22 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 10:33:06 +0300",
           "description": "Σταδιακή η επαναφορά όλων των συστημάτων - Μέχρι στιγμή δεν υπάρχει ένδειξη ζημιάς ή διαρροής δεδομένων τονίζει η Euroxx",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/photo_2026-01-27_09-33-09.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ινδία – ΕΕ: Σφραγίζουν τη «μητέρα των εμπορικών συμφωνιών» σε ένα αβέβαιο γεωπολιτικό περιβάλλον",
-          "link": "https://www.in.gr/2026/01/27/economy/india-ee-sfragizoun-ti-mitera-ton-emporikon-symfonion-se-ena-avevaio-geopolitiko-perivallon/",
-          "pubDate": "Tue, 27 Jan 2026 10:31:03 +0300",
-          "description": "Μετά από 20 χρόνια διαπραγματεύσεων Ινδία και ΕΕ υπέγραψαν εμπορική συμφωνία ελεύθερων συναλλαγών - Τι περιλαμβάνει",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-27T081705Z_1017565015_RC2K9JA71ZMI_RTRMADP_5_INDIA-EU-TRADE-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ελευσίνα: Μαθητές επιτέθηκαν σε 11χρονο μέσα στο σχολείο – Έσπασε το χέρι του",
-          "link": "https://www.in.gr/2026/01/27/greece/eleysina-mathites-epitethikan-se-11xrono-mesa-sto-sxoleio-espase-xeri-tou/",
-          "pubDate": "Tue, 27 Jan 2026 10:30:44 +0300",
-          "description": "Με σπασμένο χέρι παιδί Δημοτικού - Διακομίστηκε στο «Αγλαΐα Κυριακού»",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/bullying7-5-768x504.jpeg",
           "source": "In.gr"
         }
       ]
@@ -509,6 +509,14 @@
           "source": "Euronews"
         },
         {
+          "title": "Τραμπ απειλεί τη Νότια Κορέα με αύξηση δασμών λόγω καθυστέρησης επένδυσης",
+          "link": "http://gr.euronews.com/business/2026/01/27/trump-has-threatened-south-korea-with-an-increase-in-tariffs-due-to-a-delay-in-investments",
+          "pubDate": "Tue, 27 Jan 2026 09:31:32 +0100",
+          "description": "Ο πρόεδρος των ΗΠΑ ανακοίνωσε αύξηση δασμών στις εξαγωγές της Νότιας Κορέας από 15% σε 25%, κατηγορώντας τη Σεούλ για μη πρόοδο στην περσινή εμπορική συμφωνία.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Μεταφορείς από τα Δυτικά Βαλκάνια μπλοκάρουν σύνορα, απαιτώντας παράταση παραμονής στην Ε.Ε.",
           "link": "http://gr.euronews.com/my-europe/2026/01/27/metaforeis-apo-ta-dytika-valkania-blokaroun-synora",
           "pubDate": "Tue, 27 Jan 2026 09:21:50 +0100",
@@ -730,14 +738,6 @@
           "pubDate": "Mon, 26 Jan 2026 22:46:49 GMT",
           "description": "The ex-Olympic snowboarder and accused cartel leader was taken into custody in Mexico last week by the FBI.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/776c/live/a8f41aa0-fb0a-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Sly Dunbar, prolific legend of reggae, dies aged 73",
-          "link": "https://www.bbc.com/news/articles/cn56300z220o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 22:35:45 GMT",
-          "description": "The drummer and producer played with everyone from Bob Marley to The Rolling Stones and Madonna.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c92/live/53ee2690-fb05-11f0-a41f-395b54491b3e.jpg",
           "source": "BBC News"
         }
       ]
