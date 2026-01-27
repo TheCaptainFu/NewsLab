@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T09:45:31.120Z",
+  "lastUpdated": "2026-01-27T09:50:27.295Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,38 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ESM για το ελληνικό χρέος: Ισχυρότερα θεμελιώδη μεγέθη αλλά και νέες προκλήσεις",
+          "link": "https://www.newsit.gr/oikonomia/finance/esm-gia-to-elliniko-xreos-isxyrotera-themeliodi-megethi-alla-kai-nees-prokliseis/4584495/",
+          "pubDate": "Tue, 27 Jan 2026 09:48:34 +0000",
+          "description": "Στο «κλαμπ» των ισχυρών της Ευρωζώνης τοποθετεί τα ελληνικά κρατικά ομόλογα ο ESM (Εuropean Stability Mechanism), ο μεγαλύτερος δανειστής της χώρας. Σε έκθεση που δημοσιεύει ...  \nTo άρθρο ESM για το ελληνικό χρέος: Ισχυρότερα θεμελιώδη μεγέθη αλλά και νέες προκλήσεις δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1254992899-1200x775.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Απάντηση του ΔΕΔΔΗΕ στον Δήμο Γλυφάδας: Το έργο είναι απολύτως νόμιμο και βασίζεται σε εγκεκριμένες τεχνικές και περιβαλλοντικές μελέτες",
+          "link": "https://www.protothema.gr/greece/article/1764080/apadisi-deddie-dimo-glufadas-ergo-einai-apolutos-nomimo-kai-vasizetai-se-egekrimenes-tehnikes-kai-perivallodikes-meletes/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 11:47:30 +0200",
+          "description": "«Καλοδεχούμενη η νομική οδός που επιλέγει ο Δήμος Γλυφάδας, ώστε να λάμψει η αλήθεια μακριά από μάχες εντυπώσεων και άγονες ρήξεις» αναφέρεται στην ανακοίνωση",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/deddhe.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Κατερίνα Στικούδη για Εύη Δρούτσα: Καλό είναι το 2026 να μη βάζουμε τον κόσμο στη ζυγαριά",
+          "link": "https://www.newsit.gr/lifestyle/katerina-stikoudi-gia-eyi-droutsa-kalo-einai-to-2026-na-mi-vazoume-ton-kosmo-sti-zygaria/4584516/",
+          "pubDate": "Tue, 27 Jan 2026 09:47:22 +0000",
+          "description": "Η Κατερίνα Στικούδη μίλησε το βράδυ της Δευτέρας (26-01-2026) στις κάμερες των ψυχαγωγικών εκπομπών και πήρε θέση στην αντιπαράθεση που ξέσπασε τις τελευταίες μέρες, ανάμεσα ...  \nTo άρθρο Κατερίνα Στικούδη για Εύη Δρούτσα: Καλό είναι το 2026 να μη βάζουμε τον κόσμο στη ζυγαριά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/stikoudi-ndp-1200x842.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Χειροπέδες σε 2 μέλη συμμορίας που «χτυπούσε» καταστήματα στη Δυτική Αττική",
+          "link": "https://www.newsit.gr/ellada/xeiropedes-se-2-meli-symmorias-pou-xtypouse-katastimata-sti-dytiki-attiki/4584493/",
+          "pubDate": "Tue, 27 Jan 2026 09:46:23 +0000",
+          "description": "Στα χέρια της Αστυνομίας βρίσκονται δύο μέλη συμμορίας που έκαναν ληστείες και κλοπές σε καταστήματα εστίασης σε περιοχές της Δυτικής Αττικής.  Συγκεκριμένα, αστυνομικοί της Υποδιεύθυνσης ...  \nTo άρθρο Χειροπέδες σε 2 μέλη συμμορίας που «χτυπούσε» καταστήματα στη Δυτική Αττική δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/listes.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Αύξηση 30% για τους συμβεβλημένους γιατρούς του ΕΟΠΥΥ ανακοίνωσε ο Γεωργιάδης",
           "link": "https://www.protothema.gr/greece/article/1764076/auxisi-30-gia-tous-sumvevlimenous-giatrous-tou-eopuu-anakoinose-o-georgiadis/?utm_source=rss",
@@ -215,38 +247,6 @@
           "description": "Η Αμερικανίδα ηθοποιός Σίντνεϊ Σουίνι κινδυνεύει να συλληφθεί για βανδαλισμό, αφού σκαρφάλωσε στην πινακίδα του Χόλιγουντ και κρέμασε τα σουτιέν της σε αυτήν για να ...  \nTo άρθρο Η Σίντνεϊ Σουίνι κρέμασε σουτιέν της στην πινακίδα του Χόλιγουντ και κινδυνεύει με σύλληψη – Δείτε το βίντεο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sydney-sweeney-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Κακοκαιρία στις ΗΠΑ: Πάνω από 20 οι νεκροί από το πολικό ψύχος και τη χιονοθύελλα – Εκατομμύρια πολίτες έμειναν χωρίς ρεύμα",
-          "link": "https://www.newsit.gr/kosmos/kakokairia-stis-ipa-pano-apo-20-oi-nekroi-apo-to-poliko-psyxos-kai-ti-xionothyella-ekatommyria-polites-emeinan-xoris-reyma/4584449/",
-          "pubDate": "Tue, 27 Jan 2026 08:47:20 +0000",
-          "description": "Καταστροφικό το πέρασμα της κακοκαιρίας από τις ΗΠΑ το οποίο έφερε σφοδρή χιονόπτωση και πολικό ψύχος με αποτέλεσμα να πεθάνουν πάνω από 20 άνθρωποι και ...  \nTo άρθρο Κακοκαιρία στις ΗΠΑ: Πάνω από 20 οι νεκροί από το πολικό ψύχος και τη χιονοθύελλα – Εκατομμύρια πολίτες έμειναν χωρίς ρεύμα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kakokairia-usa-r6-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τραγωδία στα Άγναντα Τζουμέρκων: 55χρονος βρέθηκε νεκρός σε ρέμα, τον αναζητούσε ο αδελφός του\n",
-          "link": "https://www.protothema.gr/greece/article/1764027/tragodia-sta-agnada-tzoumerkon-55hronos-vrethike-nekros-se-rema-ton-anazitouse-o-adelfos-tou/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 10:46:00 +0200",
-          "description": "Ο άτυχος άνδρας είχε πάει χθες στο καφενείο του χωριού, αλλά, καθώς περνούσε η ώρα και δεν επέστρεφε στο σπίτι του αδελφού του, ο οποίος τον φιλοξενούσε",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/rema12.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Πένθος στην Πάτρα για τους νεαρούς που σκοτώθηκαν σε τροχαίο: Το συγκινητικό αντίο του σχολείου τους",
-          "link": "https://www.protothema.gr/greece/article/1764026/penthos-stin-patra-gia-tous-nearous-pou-skotothikan-se-trohaio-to-suginitiko-adio-tou-sholeiou-tous/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 10:43:06 +0200",
-          "description": "Το σχολείο στο οποίο φοιτούσαν ο 19χρονος και η 17χρονη, αποχαιρέτησε τα παιδιά με μία συγκινητική ανακοίνωση",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/troxaio-patra.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Πριν από 6 μήνες ήρθε από τη Γερμανία η 56χρονη Αναστασία που έχασε τη ζωή της στη Βιολάντα: «Έκανε υπομονή για το ένσημο» λένε οι γονείς της",
-          "link": "https://www.protothema.gr/greece/article/1764024/prin-apo-6-mines-irthe-apo-ti-germania-i-56hroni-anastasia-pou-ehase-ti-zoi-tis-sti-violada-ekane-upomoni-gia-to-ensim/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 10:39:00 +0200",
-          "description": "«Το κορίτσι μου... το κορίτσι μου» λέει κλαίγοντας η μητέρα της περιγράφοντας ότι «είχαμε μιλήσει την Κυριακή και μου είχε πει να πάει στη Βιολάντα να κόψει την πίτα και της είπα \"να περάσεις καλά»",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/anastasia_nasiou_arthrou.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Τσιριβέγια: «Απογοητευτικό να χάνεις μια τόσο σημαντική περίοδο της σεζόν»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510559/tsiribegia-apogoiteytiko-na-haneis-mia-toso-simantiki-periodo-tis",
+          "pubDate": "Tue, 27 Jan 2026 11:48:53 +0200",
+          "description": "Ο Πέδρο Τσιριβέγια έστειλε το δικό του μήνυμα μετά την είδηση ότι θα μείνει εκτός δράσης για περίπου 1,5 μήνα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/chirivella_intime_2.jpg?itok=ZpG4ndIS",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "F1 - Ποιος αργεί πιο πολύ: Η Aston Martin ή η Honda;",
+          "link": "https://www.gazzetta.gr/gmotion/2510548/f1-poios-argei-pio-poly-i-aston-martin-i-i-honda",
+          "pubDate": "Tue, 27 Jan 2026 11:45:00 +0200",
+          "description": "Η βρετανική ομάδα της Formula 1 τρέχει να προλάβει ώστε να γράψει έστω και λίγα χιλιόμετρα στην πίστα της Βαρκελώνης αυτή την εβδομάδα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/2249642362_1.jpg?itok=XsjSWVCq",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΝΒΑ Europe: Οι πέντε ευρωπαϊκές χώρες που έχει εστιάσει ",
           "link": "https://www.gazzetta.gr/basketball/nba/2510556/nba-europe-oi-pente-eyropaikes-hores-poy-ehei-estiasei",
           "pubDate": "Tue, 27 Jan 2026 11:37:48 +0200",
@@ -969,22 +985,6 @@
           "description": "Ο Τζάκσον Χέις πρόσφερε το κάρφωμα της χρονιάς και έκανε τον Λούκα Ντόντσιτς να μην πιστεύει στα μάτια του.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/luka.jpg?itok=SPZ4XtKD",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Άνθρωπος των «ερυθρολεύκων» στο Τορίνο για τον Ζαπάτα σύμφωνα με τους Ιταλούς",
-          "link": "https://www.gazzetta.gr/football/superleague/2510535/olympiakos-anthropos-ton-erythroleykon-sto-torino-gia-ton-zapata",
-          "pubDate": "Tue, 27 Jan 2026 09:45:20 +0200",
-          "description": "Την ίδια στιγμή που ο Ρόμαν Γιάρεμτσουκ έχει συλλέξει αρκετό ενδιαφέρον από το εξωτερικό, στην Ιταλία μπλέκουν τον Ολυμπιακό με τον 34χρονο φορ Ντουβάν Ζαπάτα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/zapata.jpg?itok=pfymGYP7",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Φωτιά στο εργοστάσιο «Βιολάντα»: Εντοπίστηκε η σορός και της πέμπτης γυναίκας (vid)",
-          "link": "https://www.gazzetta.gr/plus/2510537/fotia-sto-ergostasio-biolanta-entopistike-i-soros-kai-tis-pemptis-gynaikas-vid",
-          "pubDate": "Tue, 27 Jan 2026 09:43:35 +0200",
-          "description": "Το πρωί της Τρίτης (27/1) εντοπίστηκε η σορός και της πέμπτης αγνοούμενης γυναίκας που εργαζόταν στο εργοστάσιο «Βιολάντα» στα Τρίκαλα όπου σημειώθηκε έκρηξη.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/violanta-trikala01.jpg?itok=5BFsO9FU",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Τα παιχνίδια που χάνει ο Τσιριβέγια και το πρώτο ρεαλιστικό ματς για comeback",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ta-paichnidia-pou-chanei-o/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ta-paichnidia-pou-chanei-o",
+          "pubDate": "Tue, 27 Jan 2026 09:46:12 +0000",
+          "description": "Η τελική διάγνωση για τον Πέδρο Τσιριβέγια βάζει ξεκάθαρα χρονικά όρια στο πότε μπορεί και πότε δεν μπορεί να υπολογίζεται από τον Παναθηναϊκό. Η τελική διάγνωση για τον Πέδρο Τσιριβέγια, με θλάση στη γαστροκνημία και εκτιμώμενη απουσία περίπου ενάμιση μήνα, βάζει ξεκάθαρα χρονικά όρια στο πότε μπορεί και πότε δεν μπορεί να υπολογίζεται από τον […]\nThe post Παναθηναϊκός: Τα παιχνίδια που χάνει ο Τσιριβέγια και το πρώτο ρεαλιστικό ματς για comeback appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/Chirivella.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Ο Μουνουέρα σφυρίζει στο ΟΑΚΑ!",
           "link": "https://panathinaikos24.gr/2026/01/27/617887/o-mounouera-sfyrizei-sto-oaka/",
@@ -1198,14 +1206,6 @@
           "pubDate": "Mon, 26 Jan 2026 15:48:34 +0000",
           "description": "Άμεσα παρελθόν από τον Παναθηναϊκό αναμένεται να αποτελέσει ο Έλτον Φικάι, καθώς ο 20χρονος αμυντικός επέλεξε να συνεχίσει την καριέρα του στο εξωτερικό, παρά το έντονο ενδιαφέρον που υπήρξε από Ατρόμητο και ΑΕΛ. Σύμφωνα με πληροφορίες, ο Αλβανός στόπερ βρίσκεται μια ανάσα από τη Γκόρνικ Ζαμπρζε, όπου αναμένεται να μετακομίσει ως ελεύθερος. Οι «πράσινοι», ωστόσο, […]\nThe post Τελειώνει ο Φικάι από τον Παναθηναϊκό! – Τα δεδομένα της αποχώρησης appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/fikaj.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/live-tora-o-achtarmas-ston-panathinaiko-psa/?utm_source=rss&utm_medium=rss&utm_campaign=live-tora-o-achtarmas-ston-panathinaiko-psa",
-          "pubDate": "Mon, 26 Jan 2026 15:43:51 +0000",
-          "description": "Παρακολουθήστε την ζωντανή εκπομπή «Green Monday» του «Όλα Πράσινα» με τον Άρη Αντωνόπουλο να αναλύει όλα τα μεταγραφικά δεδομένα γύρω από ποδοσφαιρικό και μπασκετικό Παναθηναϊκό.\nThe post Ο… ΑΧΤΑΡΜΑΣ στον Παναθηναϊκό! – ΨΑΧΝΕΤΑΙ έντονα για ΣΤΟΠΕΡ – Ο «ΠΑΓΟΣ» στον «ΕΠΤΑΣΤΕΡΟ»! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/2025-26-bg-ekpompi-green-monday-cover-article-solo-.jpg",
           "source": "Όλα Πράσινα"
         },
         {
