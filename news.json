@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T09:38:33.229Z",
+  "lastUpdated": "2026-01-27T09:40:27.783Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "India and EU announce landmark trade deal",
+          "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 09:37:58 GMT",
+          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Immigration chief at centre of Trump's crackdown set to leave Minneapolis",
           "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 09:30:21 GMT",
@@ -579,14 +587,6 @@
           "description": "Αύξηση νοσηλειών ασθενών με γρίπη και κορωνοϊό καταγράφεται στις τελευταίες ημέρες στην Κύπρο",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "India and EU announce landmark trade deal",
-          "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 08:16:58 GMT",
-          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
-          "source": "BBC News"
         },
         {
           "title": "ΗΠΑ: Ιστορική χιονοθύελλα στις ΗΠΑ - Στους 30 οι νεκροί",
@@ -1057,6 +1057,14 @@
           "source": "Panathinaikos24"
         },
         {
+          "title": "Δημοσκόπηση Metron Analysis: Η πρώτη πραγματική αναμέτρηση Καρυστιανού – Κωνσταντοπούλου έχει ξεκάθαρο νικητή",
+          "link": "https://panathinaikos24.gr/2026/01/27/617432/dimoskopisi-metron-analysis-i-proti-pragmatiki-anametrisi-karystianou-konstantopoulou-exei-ksekatharo-nikiti/",
+          "pubDate": "Tue, 27 Jan 2026 08:30:19 +0000",
+          "description": "Τι δείχνει η πρώτη δημοσκόπηση μετά τη συνέντευξη περί αμβλώσεων.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-23_08-27-22_855823-scaled-1.jpg?fit=1024%2C698&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Χάνει διαρκώς έδαφος: Σε ποια περιοχή η ΝΔ είναι πλέον δεύτερο κόμμα",
           "link": "https://panathinaikos24.gr/2026/01/27/617751/xanei-diarkos-edafos-se-poia-perioxi-i-nd-einai-pleon-deytero-komma/",
           "pubDate": "Tue, 27 Jan 2026 08:10:14 +0000",
@@ -1126,14 +1134,6 @@
           "pubDate": "Mon, 26 Jan 2026 19:51:06 +0000",
           "description": "Τα τελευταία νέα του Παναθηναϊκού ΑΚΤOR",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6802218.jpg?fit=900%2C598&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Δημοσκόπηση Metron Analysis: Η πρώτη πραγματική αναμέτρηση Καρυστιανού – Κωνσταντοπούλου έχει ξεκάθαρο νικητή",
-          "link": "https://panathinaikos24.gr/2026/01/26/617432/dimoskopisi-metron-analysis-i-proti-pragmatiki-anametrisi-karystianou-konstantopoulou-exei-ksekatharo-nikiti/",
-          "pubDate": "Mon, 26 Jan 2026 19:02:19 +0000",
-          "description": "Τι δείχνει η πρώτη δημοσκόπηση μετά τη συνέντευξη περί αμβλώσεων.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-23_08-27-22_855823-scaled-1.jpg?fit=1024%2C698&amp;ssl=1",
           "source": "Panathinaikos24"
         },
         {
