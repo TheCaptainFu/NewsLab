@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T00:55:28.961Z",
+  "lastUpdated": "2026-01-27T01:00:39.172Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -517,6 +517,14 @@
           "source": "BBC News"
         },
         {
+          "title": "China has purged its highest-ranked military general. Why?",
+          "link": "https://www.bbc.com/news/articles/c8d0l0g8yz5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Jan 2026 23:19:47 GMT",
+          "description": "Zhang Youxia had been seen as a close ally of China's leader, Xi Jinping.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089d/live/38fd3230-fa84-11f0-8536-010c68f74629.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Deadly US winter storm leaves flights delayed and thousands without power",
           "link": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Jan 2026 22:49:39 GMT",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/2026/01/26/portogalia-h-megalyterh-katasxesh-narkwtikwn",
           "pubDate": "Mon, 26 Jan 2026 16:52:14 +0100",
           "description": "Στο πλαίσιο της επιχείρησης \"Adamastor\" κατασχέθηκαν περίπου 300 δέματα κοκαΐνης. Τα ναρκωτικά μεταφέρονταν σε ένα ημιβυθιζόμενο σκάφος που ταξίδευε από τη Λατινική Αμερική και ανακόπηκε από τις αρχές στην ανοικτή θάλασσα.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Ισπανία: Εξάρθρωση οργάνωσης με ναρκόπλοια που δρούσε στον Ατλαντικό",
-          "link": "http://gr.euronews.com/2026/01/26/ispania-exarthrosi-organosis-me-narkoploia",
-          "pubDate": "Mon, 26 Jan 2026 16:49:39 +0100",
-          "description": "Η επιχείρηση Black Shadow είχε ως αποτέλεσμα τη σύλληψη 105 ατόμων που αποτελούσαν μια εγκληματική οργάνωση, η οποία δρούσε από τη Νότια Αμερική στην Ευρώπη και φέρεται να ήταν υπεύθυνη για τη λαθραία εισαγωγή περίπου 57.000 κιλών κοκαΐνης στην Ευρώπη τον τελευταίο χρόνο.",
           "thumbnail": null,
           "source": "Euronews"
         }
