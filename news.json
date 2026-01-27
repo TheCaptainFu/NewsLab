@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T02:31:56.851Z",
+  "lastUpdated": "2026-01-27T02:35:28.562Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γαλλία: Η Βουλή υπερψήφισε την απαγόρευση χρήσης των κοινωνικών δικτύων σε παιδιά κάτω των 15 ετών",
+          "link": "https://www.in.gr/2026/01/27/world/gallia-vouli-yperpsifise-tin-apagoreysi-xrisis-ton-koinonikon-diktyon-se-paidia-kato-ton-15-eton/",
+          "pubDate": "Tue, 27 Jan 2026 04:32:45 +0300",
+          "description": "Μετά την επιτυχημένη (;) απαγόρευση των κοινωνικών δικτύων σε ανηλίκους κάτω των 16 ετών στην Αυστραλία, η Γαλλία είναι έτοιμη να ακολουθήσει το παράδειγμά της",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/julian-2MBnS4np8i0-unsplash-768x535.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Δασμοί Τραμπ – Η Νότια Κορέα θέλει συνομιλίες με τις ΗΠΑ «το συντομότερο δυνατόν»",
           "link": "https://www.in.gr/2026/01/27/world/dasmoi-tramp-notia-korea-thelei-synomilies-tis-ipa-syntomotero-dynaton/",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 00:01:34 +0300",
           "description": "Τα Do's και τα Don'ts στα ζώδια σήμερα από την Αγγελική Μανουσάκη - Άκρως Ζωδιακό και όποιος αντέξει.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/patrick-boucher-70pm04yEWTA-unsplash-768x418.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Έβερτον – Λιντς 1-1: Ισοπαλία στο «Χιλ Ντίκινσον»",
-          "link": "https://www.in.gr/2026/01/27/sports/football/everton-lints-1-1-isopalia-sto-xil-ntikinson/",
-          "pubDate": "Tue, 27 Jan 2026 00:01:09 +0300",
-          "description": "Ισόπαλο με σκορ 1-1 ήρθε το παιχνίδι της Έβερτον – Λιντς στο κλείσιμο της αυλαίας της 23ης αγωνιστικής της Premier League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_nfrW0XMAAyaJj-768x499.jpg",
           "source": "In.gr"
         }
       ]
