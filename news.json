@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T12:55:28.344Z",
+  "lastUpdated": "2026-01-27T13:00:36.805Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -37,7 +37,7 @@
           "link": "https://www.newsit.gr/kosmos/se-katastasi-ektaktis-anagkis-sikelia-sardinia-kalavria-sti-notia-italia-meta-tis-kataigides-vinteo-me-spitia-na-glistrane-ston-gkremo/4584729/",
           "pubDate": "Tue, 27 Jan 2026 12:46:17 +0000",
           "description": "Σε κατάσταση έκτακτης ανάγκης βρίσκονται περιοχές στη νότια Ιταλία μετά το πρωτοφανές κύμα κακοκαιρίας που έπληξε περιοχές και κυρίως τη Σικελία όπου προκάλεσε ιδιαίτερα εκτεταμένη ...  \nTo άρθρο Σε κατάσταση έκτακτης ανάγκης Σικελία, Σαρδηνία, Καλαβρία στη νότια Ιταλία μετά τις καταιγίδες, βίντεο με σπίτια να γλιστράνε στον γκρεμό δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sikelia-1200x686.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sicilian3-1200x675.jpg",
           "source": "NewsIT"
         },
         {
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Στεγαστικό: Τέσσερις νέες παρεμβάσεις για προσιτή στέγη",
+          "link": "https://www.tanea.gr/print/2026/01/27/politics/tesseris-nees-paremvaseis-gia-prositi-stegi/",
+          "pubDate": "Tue, 27 Jan 2026 13:00:00 +0000",
+          "description": "Νέο πρόγραμμα «Κατασκευάζω – Νοικιάζω», επιστροφή χωρίς εισοδηματικά κριτήρια δύο ενοικίων αντί ενός σε περίπου 50.000 ιατρούς, νοσηλευτές και εκπαιδευτικούς που υπηρετούν «εκτός έδρας» και επέκταση των περιορισμών για τις βραχυχρόνιες μισθώσεις δρομολογεί η κυβέρνηση στο πλαίσιο αντιμετώπισης του στεγαστικού προβλήματος. Ο Κυριάκος Πιερρακάκης και η Δόμνα Μιχαηλίδου παρουσίασαν χθες στο Υπουργικό Συμβούλιο τις βασικές […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/11/akinita.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Βουλή: Κατά της άρσης ασυλίας του Δ. Κουτσούμπα η Επιτροπή Δεοντολογίας",
           "link": "https://www.naftemporiki.gr/politics/2064508/voyli-kata-tis-arsis-asylias-toy-d-koytsoympa-i-epitropi-deontologias/?utm_source=rss&utm_medium=rss&utm_campaign=voyli-kata-tis-arsis-asylias-toy-d-koytsoympa-i-epitropi-deontologias",
@@ -485,14 +493,6 @@
           "description": "Αλλαγή τακτικής του προέδρου του ΠαΣοΚ Νίκου Ανδρουλάκη, ανοικτό ενδεχόμενο ακόμα και για διαγραφές στελεχών, σύμφωνα με συνεργάτες του",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/10000918911739111387-1024x683.jpg",
           "source": "Το Βήμα"
-        },
-        {
-          "title": "Σύσκεψη στο Μαξίμου για την ευλογιά αιγοπροβάτων",
-          "link": "https://www.naftemporiki.gr/politics/2064279/syskepsi-sto-maximoy-gia-tin-eylogia-aigoprovaton/?utm_source=rss&utm_medium=rss&utm_campaign=syskepsi-sto-maximoy-gia-tin-eylogia-aigoprovaton",
-          "pubDate": "Tue, 27 Jan 2026 04:21:39 +0000",
-          "description": "Σύσκεψη στο Μέγαρο Μαξίμου με αντικείμενο την εφαρμογή και την αυστηροποίηση των μέτρων βιοασφάλειας για την αντιμετώπιση της ευλογιάς των αιγοπροβάτων προεδρεύει σήμερα ο πρωθυπουργός Κυριάκος Μητσοτάκης.\nΣύσκεψη στο Μαξίμου για την ευλογιά αιγοπροβάτων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Έκτακτο patch από τη Microsoft: Χάκερς εκμεταλλεύονται κενό ασφαλείας στο Office",
+          "link": "https://gr.pcmag.com/security/51135/ektakto-patch-apo-te-microsoft-khakers-ekmetalleuontai-keno-asphaleias-sto-office",
+          "pubDate": "Tue, 27 Jan 2026 12:45:44 +0000",
+          "description": "Η ευπάθεια CVE-2026-21509 απειλεί χιλιάδες συστήματα μέσω κακόβουλων εγγράφων – Ποιες εκδόσεις επηρεάζονται και πώς να προστατευτείτε.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/e/emergency-/emergency-patch-issued-for-microsoft-office-365-over-hacking_7dde.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "WhatsApp: Αγωγή ισχυρίζεται ότι η κρυπτογράφηση είναι «ψεύτικη» – Τι απαντά η Meta",
           "link": "https://gr.pcmag.com/migrated-64254-mobile-apps/51134/whatsapp-agoge-iskhurizetai-oti-e-kruptographese-einai-pseutike-ti-apanta-e-meta",
           "pubDate": "Tue, 27 Jan 2026 11:59:28 +0000",
@@ -1469,14 +1477,6 @@
           "description": "Ένα νοσταλγικό ταξίδι στον τρόμο που αναβιώνει τη χρυσή εποχή των Resident Evil.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/photo/default/tormented-souls-2-review-pcmag-greece_e6n9.jpg",
           "source": "PC Magazine"
-        },
-        {
-          "title": "Κατηγορίες-σοκ για το WhatsApp: «Η κρυπτογράφηση είναι μύθος»",
-          "link": "https://www.techgear.gr/katigories-sok-gia-to-whatsapp-i-kryptografisi-einai-mythos-47328",
-          "pubDate": "Mon, 26 Jan 2026 14:25:00 +0200",
-          "description": "Μια νέα, ομαδική αγωγή που κατατέθηκε στο Ομοσπονδιακό Δικαστήριο του Σαν Φρανσίσκο έρχεται να αμφισβητήσει ευθέως αυτό που δισεκατομμύρια χρήστες ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/whatsapp-encryption-awsuit.jpg",
-          "source": "Techgear"
         }
       ]
     }
