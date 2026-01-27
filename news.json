@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T11:05:25.026Z",
+  "lastUpdated": "2026-01-27T11:10:31.005Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,11 +9,19 @@
       "color": "red",
       "articles": [
         {
+          "title": "Ενημέρωση και εξοικείωση μαθητών, μαθητριών και εκπαιδευτικών για τη λειτουργία του Δημόσιου Ψηφιακού Φροντιστηρίου",
+          "link": "https://www.protothema.gr/greece/article/1764137/enimerosi-kai-exoikeiosi-mathiton-mathitrion-kai-ekpaideutikon-gia-ti-leitourgia-tou-dimosiou-psifiakou-frodistiriou/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 13:08:30 +0200",
+          "description": "Τι περιλαμβάνει η εθνική εκστρατεία ψηφιακής εκπαίδευσης στη δευτεροβάθμια – Η νέα εγκύκλιος του Υπουργείου Παιδείας",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-03-21/mathites.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
           "title": "Βιολάντα: Συγκλονίζει η μαρτυρία τραυματία από την έκρηξη – «Xάθηκαν όλα σε λίγα δευτερόλεπτα, έκανα τον σταυρό μου όταν βγήκα από το εργοστάσιο»",
           "link": "https://www.newsit.gr/ellada/violanta-sygklonizei-i-martyria-traymatia-apo-tin-ekriksi-xathikan-ola-se-liga-deyterolepta-ekana-ton-stayro-mou-otan-vgika-apo-to-ergostasio/4584559/",
           "pubDate": "Tue, 27 Jan 2026 11:02:35 +0000",
           "description": "Συγκλονίζει η μαρτυρία του 30χρονου Ηλία, που κατάφερε να βγει ζωντανός από την έκρηξη στο εργοστάσιο της «Βιολάντα» στα Τρίκαλα, στις 03:55 τα ξημερώματα της ...  \nTo άρθρο Βιολάντα: Συγκλονίζει η μαρτυρία τραυματία από την έκρηξη – «Xάθηκαν όλα σε λίγα δευτερόλεπτα, έκανα τον σταυρό μου όταν βγήκα από το εργοστάσιο» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio-5.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio2.jpg",
           "source": "NewsIT"
         },
         {
@@ -217,6 +225,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Νομοσχέδιο Πλεύρη: Κόλαφος η ΕΕΔΑ – Ανοίγει ο δρόμος για την ποινικοποίηση της ανθρωπιστικής δράσης",
+          "link": "https://www.in.gr/2026/01/27/greece/nomosxedio-pleyri-kolafos-eeda-anoigei-o-dromos-gia-tin-poinikopoiisi-tis-anthropistikis-drasis/",
+          "pubDate": "Tue, 27 Jan 2026 13:05:11 +0300",
+          "description": "Το τραμπικής έμπνευσης νομοσχέδιο του Θάνου Πλεύρη στηλιτεύει και η ΕΕΔΑ που ζητά από το υπουργείο Μετανάστευσης την απόσυρση διατάξεων που ποινικοποιούν την ανθρωπιστική δράση",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Θάνος-Πλεύρης.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Τέιτουμ για το NBA Europe: «Θέλουμε από δύο ομάδες στις 5 μεγάλες αγορές»",
           "link": "https://www.in.gr/2026/01/27/sports/basketball/teitoum-gia-nba-europe-theloume-apo-dyo-omades-stis-5-megales-agores/",
           "pubDate": "Tue, 27 Jan 2026 13:03:23 +0300",
@@ -231,22 +247,6 @@
           "description": "«Ακόμα παλεύω με το να βρω το γυναικείο μου κομμάτι», είπε η Λένα Δροσάκη στις νέες δηλώσεις της. Στη διαδικτυακή εκπομπή του Παντελή Τουτουντζή βρέθηκε ...  \nTo άρθρο Λένα Δροσάκη: «Η μαμά μου με είχε ρωτήσει αν είμαι γκέι, με ρώτησε μετά το λύκειο, αν μου αρέσουν τα κορίτσια» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/drosaki-ndp-1200x807.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Νέο ηχητικό ντοκουμέντο από την έκρηξη στη Βιολάντα, ο εκκωφαντικός θόρυβος από 8 χιλιόμετρα\n",
-          "link": "https://www.protothema.gr/greece/article/1764088/neo-ihitiko-dokoumedo-apo-tin-ekrixi-sti-violada-o-ekkofadikos-thoruvos-apo-8-hiliometra/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:01:00 +0200",
-          "description": "Kάμερα ασφαλείας στην Αγία Μονή Τρικάλων, κατέγραψε τη στιγμή της έκρηξης σε απόσταση περίπου 8 χλμ. από την βιομηχανία της Βιολάντα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/ergostasio12.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ουκρανία: Εγγυήσεις ασφαλείας από τις ΗΠΑ μόνο με την παραχώρηση του Ντονμπάς στη Ρωσία",
-          "link": "https://www.in.gr/2026/01/27/world/oukrania-eggyiseis-asfaleias-apo-tis-ipa-mono-tin-paraxorisi-tou-ntonmpas-sti-rosia/",
-          "pubDate": "Tue, 27 Jan 2026 13:00:35 +0300",
-          "description": "Οι ΗΠΑ πιέζουν την Ουκρανία να αποδεχτεί τους όρους της Ρωσίας για το εδαφικό - Την 1η Φεβρουαρίου αναμένεται να συνεχιστούν οι συνομιλίες στο Αμπού Ντάμπι",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T200346Z_1941662461_RC229JALD3Y0_RTRMADP_5_UKRAINE-CRISIS-SOUTH-DRILLS-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,22 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Ευλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού",
+          "link": "https://www.naftemporiki.gr/politics/2064454/eylogia-aigoprovaton-krisimo-to-epomeno-trimino-k-mitsotakis-den-syzitame-katholoy-zitimata-emvoliasmoy/?utm_source=rss&utm_medium=rss&utm_campaign=eylogia-aigoprovaton-krisimo-to-epomeno-trimino-k-mitsotakis-den-syzitame-katholoy-zitimata-emvoliasmoy",
+          "pubDate": "Tue, 27 Jan 2026 11:09:02 +0000",
+          "description": "Η κρισιμότητα του επόμενου τριμήνου για την πορεία της ευλογιάς των αιγοπροβάτων και η ανάγκη οριζόντιας και αυστηρής εφαρμογής των μέτρων βιοασφάλειας, ώστε να αξιοποιηθεί η αποκλιμάκωση των κρουσμάτων που…\nΕυλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Μητσοτάκης: Αυστηρή βιοασφάλεια και όχι εμβολιασμός για την εκρίζωση της ευλογιάς των αιγοπροβάτων",
+          "link": "https://www.tanea.gr/2026/01/27/politics/mitsotakis-aystiri-vioasfaleia-kai-oxi-emvoliasmos-gia-tin-ekrizosi-tis-eylogias-ton-aigop/",
+          "pubDate": "Tue, 27 Jan 2026 11:05:19 +0000",
+          "description": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης προήδρευσε το πρωί σε σύσκεψη στο Μέγαρο Μαξίμου.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/mitsotakis-1024x668.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Μαρία Καρυστιανού: Τι δείχνουν πέντε δημοσκοπήσεις για το κόμμα της – Πού κινείται ο Αλέξης Τσίπρας",
           "link": "https://www.tanea.gr/2026/01/27/politics/maria-karystianou-ti-deixnoun-pente-dimoskopiseis-gia-to-komma-tis-pou-kineitai-o-aleksis-tsipras/",
@@ -477,22 +493,6 @@
           "description": "Το Γενικό Προξενείο της Σερβίας στη Θεσσαλονίκη, θα φιλοξενεί από σήμερα και την προξενική αποστολή της Ουγγαρίας, βάσει συμφωνίας των δύο χωρών.\nΘεσσαλονίκη: Το Σερβικό προξενείο θα φιλοξενεί και το Ουγγρικό - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Μαζική συμμετοχή στην εκδήλωση του Democrat στο «Ολύμπιον» για τη Δημοκρατία",
-          "link": "https://www.tovima.gr/2026/01/26/politics/maziki-symmetoxi-stin-ekdilosi-tou-democrat-sto-olympion-gia-ti-dimokratia/",
-          "pubDate": "Mon, 26 Jan 2026 18:07:52 +0300",
-          "description": "Κατά τη διάρκειά της ο Στέφανος Παραστρατίδης επεσήμανε μεταξύ άλλων ότι «η απάντηση στον αυταρχισμό είναι οι ισχυροί θεσμοί, όχι οι σωτήρες».",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/parastratidis-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Εθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού",
-          "link": "https://www.naftemporiki.gr/politics/2064055/ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy/?utm_source=rss&utm_medium=rss&utm_campaign=ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy",
-          "pubDate": "Mon, 26 Jan 2026 15:03:01 +0000",
-          "description": "Τη νομοθετική πρωτοβουλία για την επιστολική ψήφο στους εκτός Ελλάδας εκλογείς κατά τις βουλευτικές εκλογές και τον ορισμό τριεδρικής εκλογικής περιφέρειας Απόδημου Ελληνισμού παρουσίασε τη Δευτέρα στο πρώτο υπουργικό συμβούλιο…\nΕθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Ειδήσεις | 27 Ιανουαρίου 2026 - Μεσημβρινό δελτίο",
+          "link": "http://gr.euronews.com/video/2026/01/27/eidhseis-27-ianoyarioy-2026-meshmbrino-deltio",
+          "pubDate": "Tue, 27 Jan 2026 12:00:18 +0100",
+          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 27 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
         {
           "title": "«Έντονη ανησυχία»: 40+ οικολογικές οργανώσεις ζητούν αναστολή πολυτελούς θερέτρου σε αλβανικό νησί",
           "link": "http://gr.euronews.com/green/2026/01/27/deep-concern-over-40-environmental-groups-urge-the-luxury-resort-on-the-albanian-island-to",
@@ -731,14 +739,6 @@
           "description": "Με πάνω από 20.000 συμμετοχές, μια επιτροπή διεθνών ειδικών ανέδειξε τις καλύτερες εικόνες στον χώρο της ταξιδιωτικής φωτογραφίας τους τελευταίους 12 μήνες.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
-          "link": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 05:37:52 GMT",
-          "description": "Under the plan, access to the Meta platforms' core services would remain free.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa4/live/f5a13ad0-fb38-11f0-9ffe-0d55f5bffcbe.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -747,8 +747,16 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παναθηναϊκός: Στη λίστα του «τριφυλλιού» ο Βιβτσαρένκο",
+          "link": "https://www.gazzetta.gr/football/superleague/2510576/panathinaikos-sti-lista-toy-trifyllioy-o-bibtsarenko",
+          "pubDate": "Tue, 27 Jan 2026 13:07:00 +0200",
+          "description": "Ο Παναθηναϊκός είναι ενεργός στην αγορά για αριστερό μπακ και μία από τις περιπτώσεις που εξετάζονται σύμφωνα με όσα αναφέρουν πηγές του Gazzetta από την Ουκρανία είναι ο Κονσταντίν Βιβτσαρένκο της Ντιναμό Κιέβου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vivcharenko_getty.jpg?itok=U2DrZJF0",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ο Χρήστος Μανδάς ανακοινώθηκε από την Μπόρνμουθ με μία τεράστια ελληνική σημαία στο γήπεδό της",
-          "link": "https://www.newsit.gr/uncategorized/o-xristos-mandas-anakoinothike-apo-tin-mpornmouth-me-mia-terastia-elliniki-simaia-sto-gipedo-tis/4584602/",
+          "link": "https://www.newsit.gr/athlitika/o-xristos-mandas-anakoinothike-apo-tin-mpornmouth-me-mia-terastia-elliniki-simaia-sto-gipedo-tis/4584602/",
           "pubDate": "Tue, 27 Jan 2026 11:02:29 +0000",
           "description": "Η ελληνική παροικία στην Premier League μεγαλώνει, με τον Χρήστο Μανδά να είναι και επίσημα παίκτης της Μπόρνμουθ. Η Μπόρνμουθ ανακοίνωσε την απόκτηση του Χρήστου ...  \nTo άρθρο Ο Χρήστος Μανδάς ανακοινώθηκε από την Μπόρνμουθ με μία τεράστια ελληνική σημαία στο γήπεδό της δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/mandas-1200x799.jpg",
@@ -977,14 +985,6 @@
           "description": "Το αγγλικό μέσο βάζει «φωτιά» στην Premier League, με δημοσίευμα που συνδέει τον Κόουλ Πάλμερ με τη Μάντσεστερ Γιουνάιτεντ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-05/palmer_getty.jpg?itok=_T_3CoP1",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ρονάλντο: Σοβαρές αντιδράσεις για τις χειρονομίες του στο ματς με την Αλ Τααβόν",
-          "link": "https://www.gazzetta.gr/football/2510547/ronalnto-sobares-antidraseis-gia-tis-heironomies-toy-sto-mats-me-tin-al-taabon",
-          "pubDate": "Tue, 27 Jan 2026 11:05:31 +0200",
-          "description": "Η συμπεριφορά του Κριστιάνο Ρονάλντο στο ματς με την Αλ Τααβόν προβλημάτισε τους αντιπάλους του, με τον Πορτογάλο σούπερ σταρ να τους τρολάρει κάνοντας το χαρακτηριστικό «calma».",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/cr7.jpg?itok=hOgt5J64",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Απόφαση Γιαννακόπουλου για οικονομική υπέρβαση με στόχο τον εκλεκτό στο «4»!",
+          "link": "https://trifilara.gr/apofasi-giannakopoulou-gia-oikonomiki-ypervasi-me-stocho-ton-eklekto-sto-4/?utm_source=rss&utm_medium=rss&utm_campaign=apofasi-giannakopoulou-gia-oikonomiki-ypervasi-me-stocho-ton-eklekto-sto-4",
+          "pubDate": "Tue, 27 Jan 2026 11:05:48 +0000",
+          "description": "Σε πλήρη εγρήγορση βρίσκεται ο Παναθηναϊκός, παρακολουθώντας στενά τις εξελίξεις στην αγορά του NBA, έχοντας ολοκληρώσει την απαραίτητη προεργασία και εμφανιζόμενος έτοιμος να κινηθεί άμεσα, εφόσον παρουσιαστεί η κατάλληλη περίπτωση.\nThe post Απόφαση Γιαννακόπουλου για οικονομική υπέρβαση με στόχο τον εκλεκτό στο «4»! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
         {
           "title": "Ακύρωσε τη μεταγραφή του Κραλ ο Παναθηναϊκός!",
           "link": "https://trifilara.gr/akyrose-ti-metagrafi-tou-kral-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=akyrose-ti-metagrafi-tou-kral-o-panathinaikos",
@@ -1223,14 +1231,6 @@
           "description": "Κρίσιμες οι επόμενες ημέρες για Ναν, αισιοδοξία για Όσμαν και Μήτογλου.\nThe post Παναθηναϊκός: Πότε κρίνεται του Ναν – Τα δεδομένα για Οσμάν και Μήτογλου appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Πετρίδης: «Τα νεότερα για Ναν, Όσμαν, Μήτογλου – Περιμένει τις εξελίξεις από το ΝΒΑ για παίκτη ο Παναθηναϊκός»",
-          "link": "https://panathinaikos24.gr/2026/01/26/617870/petridis-ta-neotera-gia-nan-osman-mitoglou-perimenei-tis-ekselikseis-apo-to-nva-gia-paikti-o-panathinaikos/",
-          "pubDate": "Mon, 26 Jan 2026 19:51:06 +0000",
-          "description": "Τα τελευταία νέα του Παναθηναϊκού ΑΚΤOR",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6802218.jpg?fit=900%2C598&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
