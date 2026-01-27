@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T20:45:32.455Z",
+  "lastUpdated": "2026-01-27T20:50:29.222Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Δανία: «Η Γροιλανδία δεν παραχωρείται στις ΗΠΑ – Θα κάνουμε ό,τι μπορούμε για να επέλθει συμφωνία»",
+          "link": "https://www.newsit.gr/kosmos/dania-i-groilandia-den-paraxoreitai-stis-ipa-tha-kanoume-o-ti-mporoume-gia-na-epelthei-symfonia/4585163/",
+          "pubDate": "Tue, 27 Jan 2026 20:47:52 +0000",
+          "description": "Η Δανία σκοπεύει «να κάνει ό,τι μπορεί» για να καταλήξει σε συμφωνία με τις ΗΠΑ σχετικά με τη Γροιλανδία, εκτός από την παραχώρηση του νησιού, ...  \nTo άρθρο Δανία: «Η Γροιλανδία δεν παραχωρείται στις ΗΠΑ – Θα κάνουμε ό,τι μπορούμε για να επέλθει συμφωνία» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mette-frederikensen.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Συγκινούν τα λόγια Έλληνα οδηγού νταλίκας την ώρα που περνάει από το σημείου του δυστυχήματος των οπαδών του ΠΑΟΚ",
           "link": "https://www.newsit.gr/athlitika/sygkinoun-ta-logia-ellina-odigou-ntalikas-tin-ora-pou-pernaei-apo-to-simeiou-tou-dystyximatos-ton-opadon-tou-paok/4585178/",
@@ -33,10 +41,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Θεσσαλονίκη: 52χρονος ομολόγησε τη δολοφονία 46χρονης που αγνοούνταν – Φόβοι των Αρχών για κατά συρροή εγκλήματα",
-          "link": "https://www.newsit.gr/ellada/thessaloniki-52xronos-omologise-ti-dolofonia-46xronis-pou-agnoountan-fovoi-ton-arxon-gia-kata-syrroi-egklimata/4585169/",
+          "title": "Θεσσαλονίκη: 52χρονος ομολόγησε τη δολοφονία 46χρονης που αγνοούνταν – Νεκρή και 42χρονη στο ίδιο κτίριο, επίσης αγνοούμενη",
+          "link": "https://www.newsit.gr/ellada/thessaloniki-52xronos-omologise-ti-dolofonia-46xronis-pou-agnoountan-nekri-kai-42xroni-sto-idio-ktirio-episis-agnooumeni/4585169/",
           "pubDate": "Tue, 27 Jan 2026 20:13:28 +0000",
-          "description": "Μια εφιαλτική υπόθεση ήρθε στο φως στη Θεσσαλονίκη, έπειτα από την ομολογία ενός 52χρονου για τη δολοφονία μίας 46χρονης γυναίκας, τα ίχνη της οποίας είχαν ...  \nTo άρθρο Θεσσαλονίκη: 52χρονος ομολόγησε τη δολοφονία 46χρονης που αγνοούνταν – Φόβοι των Αρχών για κατά συρροή εγκλήματα δημοσιεύτηκε στο NewsIT .",
+          "description": "Μια εφιαλτική υπόθεση ήρθε στο φως στη Θεσσαλονίκη, έπειτα από την ομολογία ενός 52χρονου για τη δολοφονία μίας 46χρονης γυναίκας, τα ίχνη της οποίας είχαν ...  \nTo άρθρο Θεσσαλονίκη: 52χρονος ομολόγησε τη δολοφονία 46χρονης που αγνοούνταν – Νεκρή και 42χρονη στο ίδιο κτίριο, επίσης αγνοούμενη δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-2-1200x735.jpg",
           "source": "NewsIT"
         },
@@ -81,12 +89,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Σοκάρει Έλληνας οδηγός την ώρα που περνά από το σημείο της τραγωδίας (vid)",
+          "link": "https://www.in.gr/2026/01/27/sports/football/sokarei-ellinas-odigos-tin-ora-pou-perna-apo-simeio-tis-tragodias-vid/",
+          "pubDate": "Tue, 27 Jan 2026 22:48:20 +0300",
+          "description": "Γροθιά στο στομάχι είναι τα λόγια ενός Έλληνα οδηγού νταλίκας που περνάει από το σημείο της τραγωδίας στη Ρουμανία, όπου επτά φίλαθλοι του ΠΑΟΚ έχασαν τη ζωή τους",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5805780578057-768x409.png",
+          "source": "In.gr"
+        },
+        {
           "title": "UEFA: «Στεκόμαστε στο πλευρό του ΠΑΟΚ για το τραγικό δυστύχημα στη Ρουμανία»",
           "link": "https://www.newsit.gr/athlitika/uefa-stekomaste-sto-pleyro-tou-paok-gia-to-tragiko-dystyxima-sti-roumania/4585148/",
           "pubDate": "Tue, 27 Jan 2026 19:46:39 +0000",
           "description": "Η UEFA προχώρησε σε ανακοίνωση υποστήριξης στον ΠΑΟΚ, μετά το τραγικό δυστύχημα στη Ρουμανία, που στοίχισε τη ζωή σε επτά οπαδούς της ομάδας της Θεσσαλονίκης. ...  \nTo άρθρο UEFA: «Στεκόμαστε στο πλευρό του ΠΑΟΚ για το τραγικό δυστύχημα στη Ρουμανία» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/screenshot-2026-01-27-214333.png",
           "source": "NewsIT"
+        },
+        {
+          "title": "Η Ουκρανία πρέπει να υπογράψει τη συνθήκη ειρήνης με την Ρωσία για να ισχύσουν οι εγγυήσεις ασφαλείας των ΗΠΑ",
+          "link": "https://www.in.gr/2026/01/27/world/oukrania-prepei-na-ypograpsei-ti-synthiki-eirinis-tin-rosia-gia-na-isxysoun-oi-eggyiseis-asfaleias-ton-ipa/",
+          "pubDate": "Tue, 27 Jan 2026 22:46:20 +0300",
+          "description": "Οι ΗΠΑ διαμήνυσαν στην Ουκρανία πως για να τεθούν σε ισχύ οι εγγυήσεις ασφαλείας, η τελευταία οφείλει να υπογράψει συνθήκη ειρήνης με τη Ρωσία",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-27T150035Z_148498765_RC2PWEA8HQKH_RTRMADP_5_SCIENCE-DOOMSDAYCLOCK-768x519.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Θρίλερ στη Θεσσαλονίκη με δύο νεκρές γυναίκες σε υπόγειο 52χρονου, ομολόγησε πως έπνιξε τη μία και την πέταξε σε κάδο",
@@ -223,30 +247,6 @@
           "description": "Ο Πρόεδρος των ΗΠΑ Ντόναλντ Τραμπ αναφέρεται σε ένα «ηχητικό όπλο» που περιγράφει ως «discombobulator», αλλά τι εννοεί ακριβώς;",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Screenshot-60-1-768x634.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "ΗΠΑ: Νέο περιστατικό με πυροβολισμούς από πράκτορες της ICE κατά πολιτών – Ένας σοβαρά τραυματίας στην Αριζόνα",
-          "link": "https://www.newsit.gr/kosmos/ipa-neo-peristatiko-me-pyrovolismous-apo-praktores-tis-ice-kata-politon-enas-sovara-traymatias-stin-arizona/4585126/",
-          "pubDate": "Tue, 27 Jan 2026 19:14:32 +0000",
-          "description": "Ακόμη ένας άνθρωπος δέχτηκε σφαίρα από πυρά πρακτόρων της ICE στην Αριζόνα, μετά τις δολοφονίες που σημειώθηκαν στη Μινεάπολη στις ΗΠΑ τις τελευταίες 2 εβδομάδες ...  \nTo άρθρο ΗΠΑ: Νέο περιστατικό με πυροβολισμούς από πράκτορες της ICE κατά πολιτών – Ένας σοβαρά τραυματίας στην Αριζόνα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ice-usa-arizona.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κλίνατε επ’ ακροδεξιά: Εξέχοντα στελέχη του βρετανικού Συντηρητικού Κόμματος μεταπηδούν στο κόμμα του Φάρατζ",
-          "link": "https://www.in.gr/2026/01/27/world/klinate-ep-akrodeksia-eksexonta-stelexi-tou-vretanikou-syntiritikou-kommatos-metapidoun-sto-komma-tou-faratz/",
-          "pubDate": "Tue, 27 Jan 2026 22:13:25 +0300",
-          "description": "Η πρώην υπουργός Εσωτερικών της Βρετανίας, Σουέλα Μπρέιβμαν ανακοίνωσε ότι φεύγει από το Συντηρητικό Κόμμα και εντάσσεται στο Reform UK του λαϊκιστή Φάρατζ. Δεν είναι η πρώτη –ίσως ούτε η τελευταία.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T141512Z_1928368539_RC209JA7ER67_RTRMADP_5_BRITAIN-POLITICS-REFORM-768x490.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "HSBC για τη «μητέρα όλων των συμφωνιών»: Ιστορικό deal ΕΕ και Ινδίας, που αντιπροσωπεύουν το 25% του παγκόσμιου ΑΕΠ",
-          "link": "https://www.newsit.gr/oikonomia/diethni/hsbc-gia-ti-mitera-olon-ton-symfonion-istoriko-deal-ee-kai-indias-pou-antiprosopeyoun-to-25-tou-pagkosmiou-aep/4585047/",
-          "pubDate": "Tue, 27 Jan 2026 19:12:58 +0000",
-          "description": "Μετά από διαπραγματεύσεις που διήρκεσαν δύο δεκαετίες, η Ινδία και η ΕΕ υπέγραψαν τελικά μια συμφωνία ελεύθερου εμπορίου. Η εφαρμογή της αναμένεται το 2027, μετά ...  \nTo άρθρο HSBC για τη «μητέρα όλων των συμφωνιών»: Ιστορικό deal ΕΕ και Ινδίας, που αντιπροσωπεύουν το 25% του παγκόσμιου ΑΕΠ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ee-india-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ο πρώην πρόεδρος της FIFA Zεπ Μπλάτερ υποστηρίζει τις εκκλήσεις για μποϊκοτάζ του Παγκοσμίου Κυπέλλου στις ΗΠΑ",
+          "link": "http://gr.euronews.com/2026/01/27/o-prwhn-proedros-ths-fifa-zep-mplater-yposthrizei-tis-ekklhseis-gia-mpoikotaz-toy-pagkosmi",
+          "pubDate": "Tue, 27 Jan 2026 21:43:21 +0100",
+          "description": "Οι ανησυχίες της διεθνούς κοινότητας για τις Ηνωμένες Πολιτείες ως οικοδεσπότες πηγάζουν από την επεκτατική στάση του Τραμπ στη Γροιλανδία, τις ταξιδιωτικές απαγορεύσεις και την επιθετική τακτική στην αντιμετώπιση των διαδηλωτών για την επιβολή της μετανάστευσης.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
           "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 20:39:46 GMT",
@@ -731,14 +739,6 @@
           "description": "Αντί να διευκολύνει τη ναυσιπλοΐα στην Αρκτική, η κλιματική αλλαγή καθιστά τον πάγο παχύτερο, πιο κινητικό και πιο επικίνδυνο σε ορισμένες περιοχές.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
-          "link": "https://www.bbc.com/news/articles/cpqyp9w84eeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 14:49:44 GMT",
-          "description": "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc12/live/bdf0fa00-fb4f-11f0-8a3f-efae3b17f55b.jpg",
-          "source": "BBC News"
         }
       ]
     },
