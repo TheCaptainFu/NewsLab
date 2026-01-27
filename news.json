@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T12:15:26.844Z",
+  "lastUpdated": "2026-01-27T12:20:31.659Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Σύλληψη 49χρονου για κλοπή υλικών αξίας 10.000 ευρώ στην Κέρκυρα",
+          "link": "https://www.protothema.gr/greece/article/1764179/sullipsi-49hronou-gia-klopi-ulikon-axias-10000-euro-stin-kerkura/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 14:16:18 +0200",
+          "description": "Εντοπίστηκε το μεγαλύτερο μέρος των κλοπιμαίων",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2025-06-03/peripoliko__2_.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ηράκλειο Κρήτης: 31χρονη κατήγγειλε τον σύζυγο και την πεθερά της ότι την κλείδωσαν σε σπίτι για τρεις μέρες",
           "link": "https://www.protothema.gr/greece/article/1764176/sunelifthisan-suzugos-kai-pethera-pou-eihan-fulakisei-31hroni-gunaika-se-spiti-sto-irakleio-tis-kritis/?utm_source=rss",
@@ -36,7 +44,7 @@
           "title": "Bafta 2026: Οι υποψηφιότητες για τα βραβεία",
           "link": "https://www.newsit.gr/politismos/bafta-2026-oi-ypopsifiotites-gia-ta-vraveia/4584694/",
           "pubDate": "Tue, 27 Jan 2026 12:10:01 +0000",
-          "description": "Ανακοινώνονται οι υποψηφιότητες για τα βραβεία Bafta τα οποία θα απονεμηθούν με παρουσιαστή, Άλαν Κάμινγκ, στο Λονδίνο, την Κυριακή 22 Φεβρουαρίου. Φαβορί για τα φετινά ...  \nTo άρθρο Bafta 2026: Οι υποψηφιότητες για τα βραβεία δημοσιεύτηκε στο NewsIT .",
+          "description": "Ανακοινώθηκαν οι υποψηφιότητες για τα βραβεία Bafta τα οποία θα απονεμηθούν με παρουσιαστή, Άλαν Κάμινγκ, στο Λονδίνο, την Κυριακή 22 Φεβρουαρίου. Οι υποψηφιότητες για τα ...  \nTo άρθρο Bafta 2026: Οι υποψηφιότητες για τα βραβεία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bafta-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -239,14 +247,6 @@
           "description": "Για το πρόωρο και ξαφνικό τέλος της εκπομπής που παρουσίαζε η Ελένη Τσολάκη στον ΑΝΤ1 μίλησε η Κατερίνα Γκαγκάκη και ταυτόχρονα αναφέρθηκε στα νέα projects ...  \nTo άρθρο Κατερίνα Γκαγκάκη: «Ήταν στενάχωρο αυτό που έγινε με την Ελένη Τσολάκη» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/katerina-gkagkaki-ndp-1200x683.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Η γη της ελιάς: Μυστικά, αποκαλύψεις και νέοι έρωτες",
-          "link": "https://www.in.gr/2026/01/27/plus/medianews/gi-tis-elias-mystika-apokalypseis-kai-neoi-erotes/",
-          "pubDate": "Tue, 27 Jan 2026 14:12:06 +0300",
-          "description": "Όλα όσα θα δούμε στη δραματική σειρά Η γη της ελιάς. Απόψε, στις 22.20, στο MEGA.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/H-gi-tis-elias_E_27.01.2026-768x432.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -509,6 +509,14 @@
           "source": "Euronews"
         },
         {
+          "title": "Συμφωνία ελεύθερου εμπορίου ΕΕ-Ινδίας: γιατί έχει σημασία για ανάπτυξη και θέσεις εργασίας",
+          "link": "http://gr.euronews.com/business/2026/01/27/the-euindia-free-trade-deal-is-significant-for-several-reasons-it-aims-to-enhance-economic",
+          "pubDate": "Tue, 27 Jan 2026 13:05:05 +0100",
+          "description": "Το σύμφωνο μειώνει τους δασμούς, ανοίγει τις υπηρεσίες και τη γεωργία και αποτελεί τη μεγαλύτερη εμπορική συμφωνία που έχουν υπογράψει ποτέ οι δύο πλευρές.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Τρίκαλα: Θρήνος για τα θύματα, αναπάντητα ερωτήματα για την έκρηξη",
           "link": "http://gr.euronews.com/2026/01/27/trikala-8rhnos-gia-ta-8ymata-anapanthta-erwthmata-gia-thn-ekrh3h",
           "pubDate": "Tue, 27 Jan 2026 13:03:52 +0100",
@@ -731,14 +739,6 @@
           "description": "The 80-year-old is accused of crimes of humanity over his bloody war on drugs that left thousands killed.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/801b/live/07d9eec0-fb4a-11f0-8a3f-efae3b17f55b.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Μινεάπολη: Ο Τραμπ «παίζει το χαρτί» της αποκλιμάκωσης - Αποσύρονται πράκτορες της ICE",
-          "link": "http://gr.euronews.com/2026/01/27/mineapolh-tramp-paizei-to-xarti-apolimakoshs-aposyrontai-praktores-ice",
-          "pubDate": "Tue, 27 Jan 2026 07:19:57 +0100",
-          "description": "Αντικαθίσταται ο επικεφαλής της υπηρεσίας μετανάστευσης και «κόκκινο πανί» για τους διαδηλωτές (λόγω του παλτό των ναζί) Γκρέγκ Μποβίνο - Οργή και αντιδράσεις ακόμα και από Ρεπουμπλικάνους για τον δεύτερο θάνατο διαδηλωτή από πυρά ομοσπονδιακών πρακτόρων",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ολυμπιακός: Προσγείωση στους σχεδόν μηδέν βαθμούς και η... μαγκιά του πιλότου!",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510602/olympiakos-prosgeiosi-stoys-shedon-miden-bathmoys-kai-i-magkia",
+          "pubDate": "Tue, 27 Jan 2026 14:15:15 +0200",
+          "description": "Σε ολλανδικό έδαφος πάτησε η αποστολή του Ολυμπιακού ενόψει του σπουδαίου αγώνα κόντρα στον Άγιαξ για την τελευταία αγωνιστική του Champions League. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_8.jpg?itok=3Dn4kHGo",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ολυμπιακός: Η βασική εναλλακτική σε περίπτωση αποχώρησης του Γιάρεμτσουκ",
           "link": "https://www.gazzetta.gr/football/superleague/2510600/olympiakos-i-basiki-enallaktiki-se-periptosi-apohorisis-toy",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 12:30:39 +0200",
           "description": "Στην Premier League και τη Μπόρνμουθ ανήκει με κάθε επισημότητα ο Χρήστος Μανδάς καθώς ανακοινώθηκε από τον αγγλικό σύλλογο.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mandas.jpg?itok=opGCH43N",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πογκμπά: Το restart στη Μονακό ναυαγεί, αβέβαιος μετά τη Γιουβέντους",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510570/pogkmpa-restart-sti-monako-nayagei-abebaios-meta-ti-gioybentoys",
-          "pubDate": "Tue, 27 Jan 2026 12:25:16 +0200",
-          "description": "Η προσπάθεια επανεκκίνησης του Πογμπά  στη  Μονακό δεν αποδίδει και  μετά το ματς  τη Γιουβέντους, το μέλλον του παραμένει αβέβαιο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pogbaaaa.jpg?itok=vuU21Cdk",
           "source": "Gazzetta"
         }
       ]
