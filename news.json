@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T15:47:59.384Z",
+  "lastUpdated": "2026-01-27T15:50:28.818Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,11 +9,19 @@
       "color": "red",
       "articles": [
         {
+          "title": "Η Ιταλία θέλει οι Φρουροί της Επανάστασης του Ιράν να ενταχθούν στη λίστα τρομοκρατικών οργανώσεων της ΕΕ",
+          "link": "https://www.newsit.gr/kosmos/i-italia-thelei-oi-frouroi-tis-epanastasis-tou-iran-na-entaxthoun-sti-lista-tromokratikon-organoseon-tis-ee/4584909/",
+          "pubDate": "Tue, 27 Jan 2026 15:47:18 +0000",
+          "description": "Η βίαιη και αιματηρή καταστολή των αντικυβερνητικών διαδηλώσεων στο Ιράν, κυρίως από δυνάμεις των παραστρατιωτικών Φρουρών της Επανάστασης, έχει προκαλέσει την οργισμένη αντίδραση αρκετών χωρών ...  \nTo άρθρο Η Ιταλία θέλει οι Φρουροί της Επανάστασης του Ιράν να ενταχθούν στη λίστα τρομοκρατικών οργανώσεων της ΕΕ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/irgc-iran-reuters-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Άδωνις Γεωργιάδης για το θανατηφόρο τροχαίο στη Ρουμανία: «Οι τρεις τραυματίες έχουν συνείδηση»",
           "link": "https://www.newsit.gr/politikh/adonis-georgiadis-gia-to-thanatiforo-troxaio-sti-roumania-oi-treis-traymaties-exoun-syneidisi/4584903/",
           "pubDate": "Tue, 27 Jan 2026 15:45:53 +0000",
           "description": "«Οι τρεις τραυματίες έχουν συνείδηση και αυτή την στιγμή μεταφέρονται στο Πανεπιστημιακό Νοσοκομείο της Τιμισοάρα» ανέφερε ο υπουργός Υγείας, Άδωνις Γεωργιάδης, για το σοκαριστικό τροχαίο ...  \nTo άρθρο Άδωνις Γεωργιάδης για το θανατηφόρο τροχαίο στη Ρουμανία: «Οι τρεις τραυματίες έχουν συνείδηση» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/adonis-georgiadis-1.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok4-1200x900.jpg",
           "source": "NewsIT"
         },
         {
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 16:46:46 +0200",
           "description": "Παρά τον εγκλωβισμό του και τους τραυματισμούς, κατάφερε να απεγκλωβιστεί και να καλέσει βοήθεια",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/pefko-exo.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Μπλόκο από το ΣτΕ στις εργασίες επέκτασης του ξενοδοχείου White Coast της Μήλου",
-          "link": "https://www.protothema.gr/greece/article/1764253/stop-sto-oikologiko-eglima-sti-milo-anastellodai-oi-ergasies-me-apofasi-tou-ste/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 16:42:00 +0200",
-          "description": "Παύση εκτέλεσης οικοδομικών εργασιών - Αναστέλλεται η έγκριση περιβαλλοντικών όρων",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/mylos2-xrm.jpg",
           "source": "Πρώτο Θέμα"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ, Δυστύχημα στη Ρουμανία: Σοκάρει το νέο video με τους 7 νεκρούς φιλάθλους",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510679/paok-dystyhima-sti-roymania-sokarei-neo-video-me-toys-7-nekroys",
+          "pubDate": "Tue, 27 Jan 2026 17:47:41 +0200",
+          "description": "Νέο video από τον τόπο του δυστυχήματος στη Ρουμανία δείχνει τη σφοδρότητα της σύγκρουσης, όπου επτά φίλοι του ΠΑΟΚ έχασαν τη ζωή τους.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_troxaio_2.jpg?itok=rHMbRB6U",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ, Δυστύχημα στη Ρουμανία: Πρώτο θέμα η τραγωδία στο γαλλικό «RMC» ",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510678/paok-dystyhima-sti-roymania-proto-thema-i-tragodia-sto-galliko-rmc",
+          "pubDate": "Tue, 27 Jan 2026 17:47:18 +0200",
+          "description": "Πρώτο θέμα στο γαλλικό Μέσο «RMC» είναι το θανατηφόρο τροχαίο στη Ρουμανία, το οποίο κόστισε τη ζωή σε επτά οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_troxaio_3_1.jpg?itok=8jUtxpFI",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ δυστύχημα στη Ρουμανία: Η ανακοίνωση της ΚΑΕ Ηρακλής",
           "link": "https://www.gazzetta.gr/basketball/basket-league/2510677/paok-dystyhima-sti-roymania-i-anakoinosi-tis-kae-iraklis",
           "pubDate": "Tue, 27 Jan 2026 17:44:49 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 17:00:17 +0200",
           "description": "Ο Σύνδεσμος Φιλάθλων του Άρη ανέβασε ένα ποστάρισμα για την τραγωδία με το τροχαίο που στοίχισε τις ζωές 7 ανθρώπων.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/super_3_aris.jpg?itok=zQCZ20Fq",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Champs Academies by Campeón για τρίτη συνεχή χρονιά - Μια πρωτοβουλία για τον αθλητισμό και την ενδυνάμωση της νέας γενιάς",
-          "link": "https://www.gazzetta.gr/plus/2510648/champs-academies-campeon-gia-triti-synehi-hronia-mia-protoboylia-gia-ton-athlitismo",
-          "pubDate": "Tue, 27 Jan 2026 16:59:59 +0200",
-          "description": "Το Champs Academies έχει καθιερωθεί ως ένα σταθερό πρόγραμμα στήριξης της καλαθοσφαίρισης στην Ελλάδα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/0_-_2026-01-27t165723.328.jpg?itok=3o-sI5-Y",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ, δυστύχημα στη Ρουμανία: Η ανακοίνωση της ρουμάνικης Αστυνομίας ",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510643/paok-dystyhima-sti-roymania-i-anakoinosi-tis-roymanikis-astynomias",
-          "pubDate": "Tue, 27 Jan 2026 16:50:08 +0200",
-          "description": "Στην πρώτη επίσημη ενημέρωση για το πολύνεκρο τροχαίο ατύχημα με οπαδούς του ΠΑΟΚ προέβη η Αστυνομία της Ρουμανίας, επιβεβαιώνοντας την ύπαρξη επτά νεκρών.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/distihima1.jpg?itok=NGW-h6ZX",
           "source": "Gazzetta"
         }
       ]
