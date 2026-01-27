@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T16:50:26.178Z",
+  "lastUpdated": "2026-01-27T16:53:24.199Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Νεκρό βρέφος τριών μηνών στη Θεσσαλονίκη",
+          "link": "https://www.protothema.gr/greece/article/1764350/nekro-vrefos-trion-minon-sti-thessaloniki/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 18:52:00 +0200",
+          "description": "Το αγοράκι μεταφέρθηκε άσφυγμο από τους γονείς του στο νοσοκομείο που δεν εφημέρευε",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-09/ippokrateio-mak.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Θρήνος στην Αλεξάνδρεια για τους οπαδούς του ΠΑΟΚ: «Μας ενημέρωσε ένας από τους επιζώντες, ένας πατέρας φώναζε πέστε μου αν ζει ο γιος μου»",
           "link": "https://www.protothema.gr/greece/article/1764342/paok/?utm_source=rss",
@@ -185,6 +193,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "LIVE: Ολυμπιακός – Μιλάνο",
+          "link": "https://www.in.gr/2026/01/27/sports/othersports/live-olympiakos-milano-2/",
+          "pubDate": "Tue, 27 Jan 2026 18:50:18 +0300",
+          "description": "LIVE: Ολυμπιακός – Μιλάνο. Παρακολουθήστε live στις 19:00 την αναμέτρηση Ολυμπιακός – Μιλάνο για την 5η αγωνιστική της φάσης των ομίλων του CEV Champions League γυναικών. Τηλεοπτικά από το COSMOTE SPORT 6HD.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6822840-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "ΕΠΟ: Η συλλυπητήρια ανακοίνωση για το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία",
           "link": "https://www.newsit.gr/athlitika/epo-i-syllypitiria-anakoinosi-gia-to-tragiko-dystyxima-me-tous-opadous-tou-paok-sti-roumania/4584919/",
           "pubDate": "Tue, 27 Jan 2026 15:49:32 +0000",
@@ -231,22 +247,6 @@
           "description": "Το Ρολόι της Αποκάλυψης, που εδώ και δεκαετίες μετρά αντίστροφα προς το τέλος του κόσμου, είναι πλέον πιο κοντά στην καταστροφή από ποτέ. Την Τρίτη ...  \nTo άρθρο Συναγερμός για την ανθρωπότητα: Το Ρολόι της Αποκάλυψης πιο κοντά στα μεσάνυχτα από ποτέ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/doomsday-clock-1200x691.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "«Περίμεναν πώς και πώς να πάνε να δουν τον ΠΑΟΚ» – «Όλοι είναι κάτω από 30 ετών» λέει φίλος των θυμάτων στο δυστύχημα της Ρουμανίας",
-          "link": "https://www.newsit.gr/ellada/perimenan-pos-kai-pos-na-pane-na-doun-ton-paok-oloi-einai-kato-apo-30-eton-leei-filos-ton-thymaton-sto-dystyxima-tis-roumanias/4584905/",
-          "pubDate": "Tue, 27 Jan 2026 15:41:04 +0000",
-          "description": "«Τα παιδιά δεν ήταν πάνω από 30» λέει ιδιοκτήτης ψητοπωλείου στην Ημαθία που γνώριζε τρία από τα θύματα του μοιραίου τροχαίου που έγινε στη Ρουμανία ...  \nTo άρθρο «Περίμεναν πώς και πώς να πάνε να δουν τον ΠΑΟΚ» – «Όλοι είναι κάτω από 30 ετών» λέει φίλος των θυμάτων στο δυστύχημα της Ρουμανίας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roumania-sintrimia-1200x781.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Η ΚΑΕ Ολυμπιακός εκφράζει τα ειλικρινή της συλλυπητήρια στις οικογένειες» (pic)",
-          "link": "https://www.in.gr/2026/01/27/sports/basketball/kae-olympiakos-ekfrazei-ta-eilikrini-tis-syllypitiria-stis-oikogeneies-pic/",
-          "pubDate": "Tue, 27 Jan 2026 18:40:53 +0300",
-          "description": "Και η ΚΑΕ Ολυμπιακός εξέδωσε ανακοίνωση εκφράζονας τα συλλυπητήριά της για αυτοκινητιστικό δυστύχημα στην Ρουμανία…",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/DARK-LOGO-SITE-52a3879b-9f9cda43-768x432.jpeg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Σάκοτα για το δυστύχημα στη Ρουμανία: «Είμαστε όλοι συγκλονισμένοι»",
+          "link": "https://www.gazzetta.gr/basketball-champions-league/2510704/sakota-gia-dystyhima-sti-roymania-eimaste-oloi-sygklonismenoi",
+          "pubDate": "Tue, 27 Jan 2026 18:49:42 +0200",
+          "description": "Το παιχνίδι κόντρα στην Άλμπα και την τραγωδία με τους οπαδούς του ΠΑΟΚ, σχολίασε ο Ντράγκαν Σάκοτα στις δηλώσεις του, ενόψει της αυριανής αναμέτρησης.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/sakota_3.jpg?itok=E_dp6xZc",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: «Ο αδερφός μου είναι στους νεκρούς»",
           "link": "https://www.gazzetta.gr/football/superleague/2510703/paok-dystyhima-sti-roymania-o-aderfos-moy-einai-stoys-nekroys",
           "pubDate": "Tue, 27 Jan 2026 18:45:59 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 17:47:18 +0200",
           "description": "Πρώτο θέμα στο γαλλικό Μέσο «RMC» είναι το θανατηφόρο τροχαίο στη Ρουμανία, το οποίο κόστισε τη ζωή σε επτά οπαδούς του ΠΑΟΚ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_troxaio_3_1.jpg?itok=8jUtxpFI",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ δυστύχημα στη Ρουμανία: Η ανακοίνωση της ΚΑΕ Ηρακλής",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510677/paok-dystyhima-sti-roymania-i-anakoinosi-tis-kae-iraklis",
-          "pubDate": "Tue, 27 Jan 2026 17:44:49 +0200",
-          "description": "Η ΚΑΕ Ηρακλής μέσω ανακοίνωσή της, εξέφρασε τα συλλυπητήριά της στις οικογένειες των οπαδών του ΠΑΟΚ, που έχασαν τη ζωή τους σε τραγικό τροχαίο δυστύχημα στη Ρουμανία.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/iraklisbc.jpg?itok=2_CsulkT",
           "source": "Gazzetta"
         }
       ]
