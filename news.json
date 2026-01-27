@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T10:30:32.384Z",
+  "lastUpdated": "2026-01-27T10:35:26.591Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,9 +9,33 @@
       "color": "red",
       "articles": [
         {
+          "title": "Θεσσαλονίκη: Εισαγγελική έρευνα για το ατύχημα με τέσσερις τραυματίες κατά τη σύνδεση αγωγού της ΕΥΑΘ",
+          "link": "https://www.protothema.gr/greece/article/1764112/thessaloniki-eisaggeliki-ereuna-gia-to-atuhima-me-tesseris-traumaties-kata-ti-sundesi-agogou-tis-euath/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 12:34:30 +0200",
+          "description": "Ο προϊστάμενος της Εισαγγελίας Εφετών Θεσσαλονίκης, Λεωνίδας Νικολόπουλος, έδωσε εντολή για έρευνα για να διαπιστωθούν οι ακριβείς συνθήκες του ατυχήματος και αν στοιχειοθετούνται αξιόποινες πράξεις",
+          "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-27/eyath.png",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Βιολάντα: Μισθός μέχρι τη σύνταξη και επίδομα στα παιδιά για τις οικογένειες των θυμάτων που σκοτώθηκαν στην έκρηξη",
+          "link": "https://www.newsit.gr/ellada/violanta-misthos-mexri-ti-syntaksi-kai-epidoma-sta-paidia-gia-tis-oikogeneies-ton-thymaton-pou-skotothikan-stin-ekriksi/4584509/",
+          "pubDate": "Tue, 27 Jan 2026 10:33:02 +0000",
+          "description": "Σταθερό μισθό έως το έτος που θα έβγαιναν τα θύματα στη σύνταξη, μηνιαία οικονομική ενίσχυση για τα ανήλικα παιδιά των μητέρων μέχρι την ενηλικίωσή τους ...  \nTo άρθρο Βιολάντα: Μισθός μέχρι τη σύνταξη και επίδομα στα παιδιά για τις οικογένειες των θυμάτων που σκοτώθηκαν στην έκρηξη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ergostasio-trikala-violanta-ekrixi-eurok-1200x900.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Παπασταύρου: «Tέλος» στο πολεοδομικό αλαλούμ με τον Κώδικα Πολεοδομίας",
+          "link": "https://www.newsit.gr/oikonomia/finance/papastayrou-telos-sto-poleodomiko-alaloum-me-ton-kodika-poleodomias/4584545/",
+          "pubDate": "Tue, 27 Jan 2026 10:29:18 +0000",
+          "description": "«Tέλος» στο πολεοδομικό αλαλούμ βάζει το υπουργείο Ενέργειας και Περιβάλλοντος (ΥΠΕΝ) με τον Κώδικα Πολεοδομίας, όπως ανέφερε σε συνέντευξη του ο Υπουργός Σταύρος Παπασταύρου, σήμερα ...  \nTo άρθρο Παπασταύρου: «Tέλος» στο πολεοδομικό αλαλούμ με τον Κώδικα Πολεοδομίας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/papastavrou-1.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Κατολίσθηση στα Κανάρια Βάρκιζας μετά τις ισχυρές βροχοπτώσεις, αποκλεισμένο το σημείο",
           "link": "https://www.protothema.gr/greece/article/1764106/katolisthisi-sta-kanaria-varkizas-meta-tis-ishures-vrohoptoseis-apokleismeno-to-simeio/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:27:16 +0200",
+          "pubDate": "Tue, 27 Jan 2026 12:27:00 +0200",
           "description": "Σύμφωνα με τις πρώτες εκτιμήσεις, το έδαφος εμφανίζεται ιδιαίτερα ασταθές",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/katolisthisi-kanaria-varkizas.jpg",
           "source": "Πρώτο Θέμα"
@@ -223,30 +247,6 @@
           "description": "«Το έργο στην κυριολεξία προκάλεσε έμφραξη του ρέματος και δημιούργησε ένα ταμιευτήρα νερού και φερτών υλικών» αναφέρει σε ανάρτησή του ο δήμαρχος Γλυφάδας - Η απάντηση του ΔΕΔΔΗΕ",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/deddie-mkt.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ανησυχία για τον Έλτον Τζον: Υποβασταζόμενος από τον σύζυγό του Ντέιβιντ Φέρνις στην Εβδομάδα Μόδας του Παρισιού",
-          "link": "https://www.newsit.gr/lifestyle/anisyxia-gia-ton-elton-tzon-ypovastazomenos-apo-ton-syzygo-tou-nteivint-fernis-stin-evdomada-modas-tou-parisiou/4584500/",
-          "pubDate": "Tue, 27 Jan 2026 09:31:07 +0000",
-          "description": "Υποβασταζόμενος από τον σύζυγό του Ντέιβιντ Φέρνις, εμφανίστηκε στο Παρίσι ο Έλτον Τζον για την εβδομάδα μόδας. Ο Βρετανός θρυλικός μουσικός Έλτον Τζον εμφανίστηκε χέρι-χέρι ...  \nTo άρθρο Ανησυχία για τον Έλτον Τζον: Υποβασταζόμενος από τον σύζυγό του Ντέιβιντ Φέρνις στην Εβδομάδα Μόδας του Παρισιού δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/elton-john.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Δούλευαν νύχτα για τα παιδιά, τα εγγόνια και τη σύνταξή τους»: Οι ιστορίες των 5 εργατριών που έχασαν τη ζωή τους στη Βιολάντα",
-          "link": "https://www.protothema.gr/greece/article/1764057/douleuan-nuhta-gia-ta-paidia-ta-eggonia-kai-ti-sudaxi-tous-oi-istories-ton-5-ergatrion-pou-ehasan-zoi-sti-violada/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 11:31:00 +0200",
-          "description": "Η Αγάπη ήθελε τα πρωινά να πηγαίνει τα εγγόνια της στο σχολείο, η Αναστασία είχε επιστρέψει πριν 6 μήνες στην Ελλάδα, η Βασιλική ήταν μητέρα δύο παιδιών 3 και 5 ετών, η Έλενα ενός 13χρονου και η Βούλα είχε τρία παιδιά",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/maketa-violanta.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Τραγωδία στη Βιολάντα: Νέο ηχητικό ντοκουμέντο με την έκρηξη να ακούγεται 8χλμ μακριά",
-          "link": "https://www.newsit.gr/ellada/tragodia-sti-violanta-neo-ixitiko-ntokoumento-me-tin-ekriksi-na-akougetai-8xlm-makria/4584468/",
-          "pubDate": "Tue, 27 Jan 2026 09:30:38 +0000",
-          "description": "Σοκάρουν οι λεπτομέρειες σχετικά με την τραγωδία στο εργοστάσιο Βιολάντα στα Τρίκαλα. Η δύναμη της έκρηξης ήταν τέτοια που ουσιαστικά ένα μέρος του εργοστασίου εξαϋλώθηκε ...  \nTo άρθρο Τραγωδία στη Βιολάντα: Νέο ηχητικό ντοκουμέντο με την έκρηξη να ακούγεται 8χλμ μακριά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fotia-trikala-violanta.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -255,11 +255,19 @@
       "color": "purple",
       "articles": [
         {
+          "title": "Παύλος Γερουλάνος: Οικογενειακή «περιουσία» του το Μέγαρο Μαξίμου – Η άγνωστη ιστορία",
+          "link": "https://www.tanea.gr/2026/01/27/politics/paylos-geroulanos-oikogeneiaki-periousia-tou-to-megaro-maksimou-i-agnosti-istoria/",
+          "pubDate": "Tue, 27 Jan 2026 10:30:23 +0000",
+          "description": "Ο Παύλος Γερουλάνος, καλεσμένος στην εκπομπή «Face to Face» με την Κατερίνα Παναγοπούλου, μίλησε για προσωπικές εμπειρίες που σημάδεψαν τη ζωή του, αναφερόμενος τόσο σε ζητήματα εκπαίδευσης όσο και σε πτυχές της προσωπικής του διαδρομής. Σε πιο προσωπικό τόνο, μίλησε για τη δυσλεξία που αντιμετώπισε στα σχολικά του χρόνια, τονίζοντας ότι «το ελληνικό σχολείο συχνά δεν ψάχνει […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/11/pavlos-geroulanos-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Κωνσταντοπούλου για κόμμα Καρυστιανού: Κανένας δεν θα επηρεάσει την Πλεύση Ελευθερίας – Η  χώρα δεν έχει κυβέρνηση, έχει κάποιους κακοποιούς",
-          "link": "https://www.tanea.gr/2026/01/27/epikairotita/konstantopoulou-gia-komma-karystianou-kanenas-den-tha-epireasei-tin-pleysi-eleytherias-i-xora-den-exei-kyvernisi-exei-kapoious-kakopoious/",
+          "link": "https://www.tanea.gr/2026/01/27/politics/konstantopoulou-gia-komma-karystianou-kanenas-den-tha-epireasei-tin-pleysi-eleytherias-i-xora-den-exei-kyvernisi-exei-kapoious-kakopoious/",
           "pubDate": "Tue, 27 Jan 2026 10:28:53 +0000",
           "description": "Συνέντευξη στην ΕΡΤ παραχώρησε η πρόεδρος της Πλεύσης Ελευθερίας, Ζωή Κωνσταντοπούλου όπου μεταξύ άλλων αναφέρθηκε στη Μαρία Καρυστιανού αλλά και τον Αλέξη Τσίπρα. «Δεν θα επηρεάσει την Πλεύση Ελευθερίας κανένας», απάντησε σε ερώτηση αν θα επηρεαστεί από το κόμμα Καρυστιανού. «Ο Τσίπρας είναι ο καλύτερος σύμμαχος του κ. Μητσοτάκη. Αν κάνει κόμμα θα είναι πάρα […]",
-          "thumbnail": null,
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6822296-1024x684.jpg",
           "source": "Τα Νέα"
         },
         {
@@ -484,14 +492,6 @@
           "pubDate": "Mon, 26 Jan 2026 17:55:53 +0300",
           "description": "Η πρώην αντιπρόεδρος του ΟΠΕΚΕΠΕ είχε έντονο διάλογο τόσο με την Μιλένα Αποστολάκη όσο και με την Ευαγγελία Λιακούλη.",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/11/20/EV1_191125_OPEKEPE-3-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τι λέει η πρόταση",
-          "link": "https://www.tovima.gr/2026/01/26/politics/epistoliki-psifos-gia-tous-ektos-elladas-eklogeis-ti-leei-i-protasi/",
-          "pubDate": "Mon, 26 Jan 2026 17:16:57 +0300",
-          "description": "Πρόταση για επιστολική ψήφο σε όσους ψηφίζουν εκτός Ελλάδας κατέθεσε στο υπουργικό συμβούλιο ο υπουργός Εσωτερικών. Την Πέμπτη η άτυπη διακομματική επιτροπή υπό τον Θοδωρή Λιβάνιο.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2024/04/28/epistoliki-1024x683.jpg",
           "source": "Το Βήμα"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Γκρέι-Μπάρτλεϊ αποθεώνουν τον κόσμο της ΑΕΚ: «Οι καλύτεροι οπαδοί στην Ελλάδα»",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510573/gkrei-mpartlei-apotheonoyn-ton-kosmo-tis-aek-oi-kalyteroi-opadoi",
+          "pubDate": "Tue, 27 Jan 2026 12:32:47 +0200",
+          "description": "Με ένα τρομερό video, οι Ραϊκουάν Γκρέι και Φρανκ Μπάρτλεϊ αποθέωσαν τον κόσμο της ΑΕΚ παρακολουθώντας μεταξύ άλλων την περσινή αναμέτρηση όταν ήταν... αντίπαλοι.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gray_bartley_1.jpg?itok=XNRlzp90",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Επίσημο: Και τη... βούλα στην Μπόρνμουθ ο Μανδάς",
+          "link": "https://www.gazzetta.gr/football/premier-league/2510571/episimo-kai-ti-boyla-stin-mpornmoyth-o-mandas",
+          "pubDate": "Tue, 27 Jan 2026 12:30:39 +0200",
+          "description": "Στην Premier League και τη Μπόρνμουθ ανήκει με κάθε επισημότητα ο Χρήστος Μανδάς καθώς ανακοινώθηκε από τον αγγλικό σύλλογο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mandas.jpg?itok=opGCH43N",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Πογκμπά: Το restart στη Μονακό ναυαγεί, αβέβαιος μετά τη Γιουβέντους",
           "link": "https://www.gazzetta.gr/football/champions-league/2510570/pogkmpa-restart-sti-monako-nayagei-abebaios-meta-ti-gioybentoys",
           "pubDate": "Tue, 27 Jan 2026 12:25:16 +0200",
@@ -969,22 +985,6 @@
           "description": "Σύμφωνα με το BasketNews, ο Μάικ Τζέιμς αναμένεται να μείνει ελεύθερος το καλοκαίρι του 2026, έναν χρόνο νωρίτερα από το αρχικό του συμβόλαιο!",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/mikejames_stolis.jpg?itok=_RHByqmj",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Η ελληνική καλημέρα του Τσικίνιο και ο Ελ Καμπί που δεν αρνήθηκε αυτόγραφα και φωτογραφίες σε κανέναν ",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510542/olympiakos-i-elliniki-kalimera-toy-tsikinio-kai-o-el-kampi-poy",
-          "pubDate": "Tue, 27 Jan 2026 10:30:51 +0200",
-          "description": "Πέταξε για την Ολλανδία ενόψει του... τελικού κόντρα στον Άγιαξ για το Champions League, η αποστολή του Ολυμπιακού. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aerodromio.jpg?itok=LU5Jac68",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άγγελος Ποστέκογλου: Σενάριο επιστροφής του ομογενή προπονητή στη Σέλτικ",
-          "link": "https://www.newsit.gr/athlitika/aggelos-postekoglou-senario-epistrofis-tou-omogeni-proponiti-sti-seltik/4584455/",
-          "pubDate": "Tue, 27 Jan 2026 08:30:48 +0000",
-          "description": "Ο Άγγελος Ποστέκογλου βρίσκεται χωρίς ομάδα μετά την απόλυση του από τη Νότιγχαμ, με τον ομογενή προπονητή να σκέφτεται σοβαρά το ενδεχόμενο επιστροφής του στη ...  \nTo άρθρο Άγγελος Ποστέκογλου: Σενάριο επιστροφής του ομογενή προπονητή στη Σέλτικ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/03/postekoglou-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Απίστευτο: Πρώην προπονητής του Παναθηναϊκός φέρεται να ήταν πράκτορας των μυστικών υπηρεσιών!",
+          "link": "https://panathinaikos24.gr/2026/01/27/617904/apisteyto-proin-proponitis-tou-panathinaikos-feretai-na-itan-praktoras-ton-mystikon-ypiresion/",
+          "pubDate": "Tue, 27 Jan 2026 10:32:53 +0000",
+          "description": "Μια τρομερή ιστορία από τα παλιά ανέκυψε πρόσφατα από ρουμάνικα Μέσα.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Kovac.jpg?fit=680%2C460&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Παναθηναϊκός: Θετικός στο ενδεχόμενο αποχώρησης ο Καλάμπρια! – Η στάση των «πράσινων»",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-thetikos-sto-endechomeno/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-thetikos-sto-endechomeno",
+          "pubDate": "Tue, 27 Jan 2026 10:32:20 +0000",
+          "description": "Σύμφωνα με πληροφορίες του «Όλα Πράσινα», το θέμα του Ντάβιντε Καλάμπρια αρχίζει να αποκτά ουσιαστικές διαστάσεις στο εσωτερικό του Παναθηναϊκού. Σύμφωνα με πληροφορίες του «Όλα Πράσινα», το θέμα του Ντάβιντε Καλάμπρια αρχίζει να αποκτά ουσιαστικές διαστάσεις στο εσωτερικό του Παναθηναϊκού, καθώς ο Ιταλός δεξιός μπακ δεν εμφανίζεται ιδιαίτερα ικανοποιημένος από την αγωνιστική εικόνα και τη […]\nThe post Παναθηναϊκός: Θετικός στο ενδεχόμενο αποχώρησης ο Καλάμπρια! – Η στάση των «πράσινων» appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/calabria-cover.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Τα εισιτήρια του αγώνα Παναθηναϊκός – Κηφισιά",
           "link": "https://panathinaikos24.gr/2026/01/27/617900/ta-eisitiria-tou-agona-panathinaikos-kifisia/",
@@ -1209,27 +1225,11 @@
           "source": "Trifilara"
         },
         {
-          "title": "«Πάει για Ουλίσες Γκαρσία ο Παναθηναϊκός», γράφουν στη Γαλλία!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/paei-gia-oulises-gkarsia-o-panathinai/?utm_source=rss&utm_medium=rss&utm_campaign=paei-gia-oulises-gkarsia-o-panathinai",
-          "pubDate": "Mon, 26 Jan 2026 18:07:06 +0000",
-          "description": "Γαλλικά δημοσιεύματα φέρνουν στο προσκήνιο τον Ουλίσες Γκαρσία για τον Παναθηναϊκό. Νέο μεταγραφικό σενάριο από τη Γαλλία βάζει στο κάδρο του Παναθηναϊκού τον Ουλίσες Γκαρσία, με τα σχετικά δημοσιεύματα να κάνουν λόγο για ουσιαστικό και έντονο ενδιαφέρον από πλευράς «πρασίνων». Ο 30χρονος Ελβετός αριστερός μπακ, με σημαντική εμπειρία από την Βέρντερ Βρέμης, φέρεται να βρίσκεται […]\nThe post «Πάει για Ουλίσες Γκαρσία ο Παναθηναϊκός», γράφουν στη Γαλλία! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/garcia.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "«Ενδιαφέρεται για Ουλίσες Γκαρσία ο Παναθηναϊκός»",
           "link": "https://panathinaikos24.gr/2026/01/26/617855/endiaferetai-gia-oulises-gkarsia-o-panathinaikos/",
           "pubDate": "Mon, 26 Jan 2026 17:32:25 +0000",
           "description": "Το δημοσίευμα που εμπλέκει Παναθηναϊκό και Ουλίσες Γκαρσία.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/garcia1.jpg?fit=680%2C460&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Έβερτον – Λιντς με «Ενίσχυση» στα Ζαχαρωτά",
-          "link": "https://panathinaikos24.gr/2026/01/26/617849/everton-lints-me-enisxysi-sta-zaxarota/",
-          "pubDate": "Mon, 26 Jan 2026 16:45:27 +0000",
-          "description": "Η Έβερτον υποδέχεται τη Λιντς στο ματς που ρίχνει την αυλαία της 23ης «στροφής» της Premier League, με τις δυο ομάδες να έρχονται... φουριόζες από την προηγούμενη αγωνιστική.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Everton1.jpg?fit=350%2C235&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
