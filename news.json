@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-27T11:10:31.005Z",
+  "lastUpdated": "2026-01-27T11:12:25.196Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Formula 1: Ξεκίνησαν οι δοκιμές στη Βαρκελώνη όμως οι ομάδες ψάχνονται ακόμα",
+          "link": "https://www.newsit.gr/auto/formula-1-ksekinisan-oi-dokimes-sti-varkeloni-omos-oi-omades-psaxnontai-akoma/4584611/",
+          "pubDate": "Tue, 27 Jan 2026 11:09:16 +0000",
+          "description": "Οι πρώτες δοκιμές της Formula 1, ενόψει το πρωταθλήματος που ξεκινά στις 8 Μαρτίου από τη Μελβούρνη, ξεκίνησαν χθες 26 Ιανουαρίου στην πίστα Μον Μελό, ...  \nTo άρθρο Formula 1: Ξεκίνησαν οι δοκιμές στη Βαρκελώνη όμως οι ομάδες ψάχνονται ακόμα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/red-bull-barcelona-test-2026.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ενημέρωση και εξοικείωση μαθητών, μαθητριών και εκπαιδευτικών για τη λειτουργία του Δημόσιου Ψηφιακού Φροντιστηρίου",
           "link": "https://www.protothema.gr/greece/article/1764137/enimerosi-kai-exoikeiosi-mathiton-mathitrion-kai-ekpaideutikon-gia-ti-leitourgia-tou-dimosiou-psifiakou-frodistiriou/?utm_source=rss",
@@ -93,7 +101,7 @@
           "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-mesa-sti-johan-cruyff-arena-to-gipedo-pou-tha-filoksenisei-ton-teliko-prokrisis-ton-peiraioton/4584548/",
           "pubDate": "Tue, 27 Jan 2026 10:43:59 +0000",
           "description": "Δείτε φωτογραφίες από το εσωτερικό της Johan Cruyff Arena, μία μέρα πριν τη μεγάλη μάχη του Ολυμπιακού με τον Άγιαξ για την τελευταία αγωνιστική της ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Μέσα στη Johan Cruyff Arena, το γήπεδο που θα φιλοξενήσει τον τελικό πρόκρισης των Πειραιωτών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-gipedo-1200x800.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-gipedo3-1200x800.jpg",
           "source": "NewsIT"
         },
         {
@@ -239,14 +247,6 @@
           "description": "Ο αναπληρωτής κομισάριος του ΝΒΑ, Μαρκ Τέιτουμ, μίλησε ξανά για το ΝΒΑ Europe και ξεκαθάρισε ότι στόχος είναι να υπάρχουν τουλάχιστον δύο ομάδες από κάθε μεγάλη αγορά της γηραιάς ηπείρου.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/NBA-Europe-by-Andrea-A-1-768x439.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Λένα Δροσάκη: «Η μαμά μου με είχε ρωτήσει αν είμαι γκέι, με ρώτησε μετά το λύκειο, αν μου αρέσουν τα κορίτσια»",
-          "link": "https://www.newsit.gr/lifestyle/lena-drosaki-i-mama-mou-me-eixe-rotisei-an-eimai-gkei-me-rotise-meta-to-lykeio-an-mou-aresoun-ta-koritsia/4584521/",
-          "pubDate": "Tue, 27 Jan 2026 10:02:43 +0000",
-          "description": "«Ακόμα παλεύω με το να βρω το γυναικείο μου κομμάτι», είπε η Λένα Δροσάκη στις νέες δηλώσεις της. Στη διαδικτυακή εκπομπή του Παντελή Τουτουντζή βρέθηκε ...  \nTo άρθρο Λένα Δροσάκη: «Η μαμά μου με είχε ρωτήσει αν είμαι γκέι, με ρώτησε μετά το λύκειο, αν μου αρέσουν τα κορίτσια» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/drosaki-ndp-1200x807.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -258,7 +258,7 @@
           "title": "Ευλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού",
           "link": "https://www.naftemporiki.gr/politics/2064454/eylogia-aigoprovaton-krisimo-to-epomeno-trimino-k-mitsotakis-den-syzitame-katholoy-zitimata-emvoliasmoy/?utm_source=rss&utm_medium=rss&utm_campaign=eylogia-aigoprovaton-krisimo-to-epomeno-trimino-k-mitsotakis-den-syzitame-katholoy-zitimata-emvoliasmoy",
           "pubDate": "Tue, 27 Jan 2026 11:09:02 +0000",
-          "description": "Η κρισιμότητα του επόμενου τριμήνου για την πορεία της ευλογιάς των αιγοπροβάτων και η ανάγκη οριζόντιας και αυστηρής εφαρμογής των μέτρων βιοασφάλειας, ώστε να αξιοποιηθεί η αποκλιμάκωση των κρουσμάτων που…\nΕυλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "description": "Η κρισιμότητα του επόμενου τριμήνου για την πορεία της ευλογιάς των αιγοπροβάτων και η ανάγκη οριζόντιας και αυστηρής εφαρμογής των μέτρων βιοασφάλειας, ώστε να αξιοποιηθεί η αποκλιμάκωση των κρουσμάτων, τονίστηκε…\nΕυλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         },
@@ -319,14 +319,6 @@
           "source": "Τα Νέα"
         },
         {
-          "title": "Μητσοτάκης για ευλογιά αιγοπροβάτων: «Δεν συζητάμε καθόλου ζητήματα εμβολιασμού»",
-          "link": "https://www.tovima.gr/2026/01/27/politics/mitsotakis-gia-eylogia-aigoprovaton-den-syzitame-katholou-zitimata-emvoliasmou/",
-          "pubDate": "Tue, 27 Jan 2026 12:42:29 +0300",
-          "description": "Έμφαση στην αυστηρή εφαρμογή των μέτρων βιοασφάλειας, ενίσχυση των κτηνιατρικών ελέγχων και ξεκάθαρο «όχι» στον εμβολιασμό, με στόχο την εκρίζωση της ευλογιάς και τη διασφάλιση της ελληνικής κτηνοτροφίας, έδωσε ο Πρωθυπουργός στη σημερινή συνεδρίαση.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/19/mitsotakis-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
           "title": "Κυρ. Μητσοτάκης για Ολοκαύτωμα: «Παραμένουμε σε εγρήγορση απέναντι στις δυνάμεις του μίσους και του διχασμού»",
           "link": "https://www.tanea.gr/2026/01/27/politics/kyr-mitsotakis-gia-olokaytoma-paramenoyme-se-egrigorsi-apenanti-stis-dynameis-toy-misoys-k/",
           "pubDate": "Tue, 27 Jan 2026 09:33:33 +0000",
@@ -367,30 +359,6 @@
           "source": "Ναυτεμπορική"
         },
         {
-          "title": "Δημοσκόπηση Interview: Ανέτοιμη η Καρυστιανού για την πολιτική – Δεν αλλάζει το σκηνικό το κόμμα Τσίπρα",
-          "link": "https://www.tovima.gr/2026/01/27/politics/dimoskopisi-interview-anetoimi-i-karystianou-gia-tin-politiki-den-allazei-to-skiniko-to-komma-tsipra/",
-          "pubDate": "Tue, 27 Jan 2026 10:38:13 +0300",
-          "description": "Δυσπιστία απέναντι σε νέα πολιτικά εγχειρήματα και σταθερό προβάδισμα της ΝΔ καταγράφει η νέα δημοσκόπηση της Interview",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/19/kalpi-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Γεωργιάδης: «Ακροδεξιά» η θέση της Καρυστιανού στα εθνικά θέματα – Στην ίδια γραμμή και ο Καρανίκας",
-          "link": "https://www.tovima.gr/2026/01/27/politics/georgiadis-akrodeksia-i-thesi-tis-karystianou-ta-ethnika-themata-stin-idia-grammi-kai-o-karanikas/",
-          "pubDate": "Tue, 27 Jan 2026 10:10:02 +0300",
-          "description": "Κοινή γραμμή στις επιθέσεις κατά της Καρυστιανού από δύο πρόσωπα που βρίσκονται σε αντίπαλα πολιτικά στρατόπεδα",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2024/06/18/KARISTIANOU-1024x682.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Μέγαρο Μαξίμου: Σύσκεψη για την ευλογιά των αιγοπροβάτων",
-          "link": "https://www.tovima.gr/2026/01/27/politics/megaro-maksimou-syskepsi-gia-tin-eylogia-ton-aigoprovaton/",
-          "pubDate": "Tue, 27 Jan 2026 09:16:57 +0300",
-          "description": "Μετέχει ο περιφερειάρχης Ηπείρου μιας Περιφέρειας με βασική απασχόληση την κτηνοτροφία, στην οποία η ζωονόσος έχει αντιμετωπιστεί.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/12/megaro-maximou-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
           "title": "Στην τελική ευθεία για ανακοίνωση ημερομηνίας ελληνοτουρκικού Ανώτατου Συμβουλίου Συνεργασίας",
           "link": "https://www.tanea.gr/2026/01/27/politics/stin-teliki-eytheia-gia-anakoinosi-imerominias-ellinotourkikou-anotatou-symvouliou-synergasias/",
           "pubDate": "Tue, 27 Jan 2026 05:41:04 +0000",
@@ -407,28 +375,12 @@
           "source": "Τα Νέα"
         },
         {
-          "title": "ΠαΣοΚ: Σκληραίνει τη στάση του ο Ανδρουλάκης – Επίθεση σε Δούκα, Διαμαντοπούλου",
-          "link": "https://www.tovima.gr/2026/01/27/politics/pasok-sklirainei-ti-stasi-tou-o-androulakis-epithesi-se-douka-diamantopoulou/",
-          "pubDate": "Tue, 27 Jan 2026 08:25:12 +0300",
-          "description": "Αλλαγή τακτικής του προέδρου του ΠαΣοΚ Νίκου Ανδρουλάκη, ανοικτό ενδεχόμενο ακόμα και για διαγραφές στελεχών, σύμφωνα με συνεργάτες του",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/10000918911739111387-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
           "title": "Σύσκεψη στο Μαξίμου για την ευλογιά αιγοπροβάτων",
           "link": "https://www.naftemporiki.gr/politics/2064279/syskepsi-sto-maximoy-gia-tin-eylogia-aigoprovaton/?utm_source=rss&utm_medium=rss&utm_campaign=syskepsi-sto-maximoy-gia-tin-eylogia-aigoprovaton",
           "pubDate": "Tue, 27 Jan 2026 04:21:39 +0000",
           "description": "Σύσκεψη στο Μέγαρο Μαξίμου με αντικείμενο την εφαρμογή και την αυστηροποίηση των μέτρων βιοασφάλειας για την αντιμετώπιση της ευλογιάς των αιγοπροβάτων προεδρεύει σήμερα ο πρωθυπουργός Κυριάκος Μητσοτάκης.\nΣύσκεψη στο Μαξίμου για την ευλογιά αιγοπροβάτων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Ψήφος αποδήμων: Εκλογική «προθέρμανση» από την κυβέρνηση",
-          "link": "https://www.tovima.gr/2026/01/27/politics/psifos-apodimon-eklogiki-prothermansi-apo-tin-kyvernisi/",
-          "pubDate": "Tue, 27 Jan 2026 06:35:09 +0300",
-          "description": "Η εσπευσμένη προώθηση των ρυθμίσεων σχετίζεται με τη βούληση της κυβερνητικής ηγεσίας να «ζεστάνει» από τώρα το προεκλογικό κλίμα",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/5q2a17891716202910-1024x683.jpg",
-          "source": "Το Βήμα"
         },
         {
           "title": "Τραγωδία στα Τρίκαλα: Συλλυπητήριο μήνυμα της Κίμπερλι Γκίλφοϊλ για την φονική έκρηξη στη «Βιολάντα»",
@@ -491,6 +443,54 @@
           "link": "https://www.naftemporiki.gr/politics/2064074/thessaloniki-to-serviko-proxeneio-tha-filoxenei-kai-to-oyggriko/?utm_source=rss&utm_medium=rss&utm_campaign=thessaloniki-to-serviko-proxeneio-tha-filoxenei-kai-to-oyggriko",
           "pubDate": "Mon, 26 Jan 2026 15:26:29 +0000",
           "description": "Το Γενικό Προξενείο της Σερβίας στη Θεσσαλονίκη, θα φιλοξενεί από σήμερα και την προξενική αποστολή της Ουγγαρίας, βάσει συμφωνίας των δύο χωρών.\nΘεσσαλονίκη: Το Σερβικό προξενείο θα φιλοξενεί και το Ουγγρικό - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Εθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού",
+          "link": "https://www.naftemporiki.gr/politics/2064055/ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy/?utm_source=rss&utm_medium=rss&utm_campaign=ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy",
+          "pubDate": "Mon, 26 Jan 2026 15:03:01 +0000",
+          "description": "Τη νομοθετική πρωτοβουλία για την επιστολική ψήφο στους εκτός Ελλάδας εκλογείς κατά τις βουλευτικές εκλογές και τον ορισμό τριεδρικής εκλογικής περιφέρειας Απόδημου Ελληνισμού παρουσίασε τη Δευτέρα στο πρώτο υπουργικό συμβούλιο…\nΕθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "ΟΠΕΚΕΠΕ: 1.199.149,87 ευρώ «πίσω»,  για αχρεωστήτως καταβληθείσες ενισχύσεις σε παραγωγούς",
+          "link": "https://www.naftemporiki.gr/politics/2064049/opekepe-1-199-14987-eyro-piso-gia-achreostitos-katavlitheises-enischyseis-se-paragogoys/?utm_source=rss&utm_medium=rss&utm_campaign=opekepe-1-199-14987-eyro-piso-gia-achreostitos-katavlitheises-enischyseis-se-paragogoys",
+          "pubDate": "Mon, 26 Jan 2026 14:58:37 +0000",
+          "description": "Στα 1.199.149,87 ευρώ ανέρχεται το ποσό που είχε ανακτηθεί μέχρι το τέλος του 2025, για αχρεωστήτως καταβληθείσες ενισχύσεις σε παραγωγούς, μετά την ολοκλήρωση των απαιτούμενων διασταυρωτικών ελέγχων και διαδικασιών, οι…\nΟΠΕΚΕΠΕ: 1.199.149,87 ευρώ «πίσω»,  για αχρεωστήτως καταβληθείσες ενισχύσεις σε παραγωγούς - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Τριβές στο ΠΑΣΟΚ: Οι συνεργασίες είναι μόνο η αφορμή",
+          "link": "https://www.tanea.gr/print/2026/01/26/politics/oi-synergasies-einai-mono-lfi-aformi/",
+          "pubDate": "Mon, 26 Jan 2026 14:07:00 +0000",
+          "description": "Το ΠΑΣΟΚ οδεύει προς το συνέδριο του Μαρτίου όχι απλώς με ανοικτές εκκρεμότητες, αλλά με μια ορατή εσωκομματική κρίση, η οποία βαθαίνει όσο πλησιάζει η ώρα των αποφάσεων. Δεν πρόκειται για ιδεολογική ζύμωση ούτε για δημιουργική πολυφωνία. Πρόκειται για σύγκρουση στρατηγικών, φιλοδοξιών και κατευθύνσεων, που εκδηλώνεται πλέον δημόσια και χωρίς φίλτρα. Η εικόνα αποτυπώθηκε καθαρά […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/pasok-2-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Καρυστιανού: Ζητά ενημέρωση από Μητσοτάκη για τη συνάντηση με Ερντογάν «για να κρίνουν οι πολίτες αν πρέπει να γίνει»",
+          "link": "https://www.tanea.gr/2026/01/26/politics/karystianou-zita-enimerosi-apo-mitsotaki-gia-ti-synantisi-me-erntogan-gia-na-krinoun-oi-polites-an-prepei-na-ginei/",
+          "pubDate": "Mon, 26 Jan 2026 14:04:20 +0000",
+          "description": "Την πρώτη της δημόσια παρέμβαση στα ελληνοτουρκικά πραγματοποίησε η Μαρία Καρυστιανού, ζητώντας από τον πρωθυπουργό Κυριάκο Μητσοτάκη να προχωρήσει σε επίσημη ενημέρωση σχετικά με την ατζέντα της επικείμενης συνάντησής του με τον Ρετζέπ Ταγίπ Ερντογάν. Σε ανάρτησή της στην πλατφόρμα X, και ενώ βρίσκονται σε εξέλιξη οι διεργασίες για την ίδρυση του πολιτικού της φορέα, […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Maria-Karystianou-1-1.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Πηγές ΝΔ: Εκθέτει Τυχεροπούλου και Σημανδράκο η Δήμητρα Χαλικιά – Υπάλληλοι του ΟΠΕΚΕΠΕ άλλαζαν τις δηλώσεις ΟΣΔΕ",
+          "link": "https://www.naftemporiki.gr/politics/2064019/piges-nd-ekthetei-tycheropoyloy-kai-simandrako-i-dimitra-chalikia-ypalliloi-toy-opekepe-allazan-tis-diloseis-osde/?utm_source=rss&utm_medium=rss&utm_campaign=piges-nd-ekthetei-tycheropoyloy-kai-simandrako-i-dimitra-chalikia-ypalliloi-toy-opekepe-allazan-tis-diloseis-osde",
+          "pubDate": "Mon, 26 Jan 2026 13:56:09 +0000",
+          "description": "«Πλήρως εκτεθειμένα βρίσκονται, πλέον, τα κόμματα της αντιπολίτευσης που ανέδειξαν τη Παρασκευή Τυχεροπούλου ως αρχάγγελο της κάθαρσης στον ΟΠΕΚΕΠΕ, μετά την κατάθεση της πρώην αντιπροέδρου του ΟΠΕΚΕΠΕ την περίοδο 2013-2014…\nΠηγές ΝΔ: Εκθέτει Τυχεροπούλου και Σημανδράκο η Δήμητρα Χαλικιά – Υπάλληλοι του ΟΠΕΚΕΠΕ άλλαζαν τις δηλώσεις ΟΣΔΕ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Παρέμβαση Μ. Καρυστιανού για τα ελληνοτουρκικά: Ζητεί ενημέρωση για την ατζέντα της συνάντησης Μητσοτάκη – Ερντογάν",
+          "link": "https://www.naftemporiki.gr/politics/2063999/paremvasi-m-karystianoy-gia-ta-ellinotoyrkika-zitei-enimerosi-gia-tin-atzenta-tis-synantisis-mitsotaki-erntogan/?utm_source=rss&utm_medium=rss&utm_campaign=paremvasi-m-karystianoy-gia-ta-ellinotoyrkika-zitei-enimerosi-gia-tin-atzenta-tis-synantisis-mitsotaki-erntogan",
+          "pubDate": "Mon, 26 Jan 2026 13:41:00 +0000",
+          "description": "Με ανάρτησή της, η Μαρία Καρυστιανού καλεί τον πρωθυπουργό να ενημερώσει τους πολίτες για την ατζέντα της επικείμενης συνάντησής του με τον Τούρκο πρόεδρο Ρετζέπ Ταγίπ Ερντογάν, τονίζοντας πως η…\nΠαρέμβαση Μ. Καρυστιανού για τα ελληνοτουρκικά: Ζητεί ενημέρωση για την ατζέντα της συνάντησης Μητσοτάκη – Ερντογάν - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Chery: Ρεκόρ πωλήσεων παγκοσμίως και δυναμική είσοδος στην Ελλάδα",
+          "link": "https://www.gazzetta.gr/gmotion/2510393/chery-rekor-poliseon-pagkosmios-kai-dynamiki-eisodos-stin-ellada",
+          "pubDate": "Tue, 27 Jan 2026 13:10:36 +0200",
+          "description": "Η κινεζική μάρκα ξεπέρασε τις 2,8 εκατ. πωλήσεις παγκοσμίως το 2025, ενώ στην Ελλάδα κατέγραψε πάνω από 1.000 ταξινομήσεις μέσα σε μόλις έξι μήνες δραστηριότητας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/chery_2025_sales_02_1.jpg?itok=Kl5Efp8k",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Παναθηναϊκός: Στη λίστα του «τριφυλλιού» ο Βιβτσαρένκο",
           "link": "https://www.gazzetta.gr/football/superleague/2510576/panathinaikos-sti-lista-toy-trifyllioy-o-bibtsarenko",
           "pubDate": "Tue, 27 Jan 2026 13:07:00 +0200",
@@ -977,14 +985,6 @@
           "description": "Ο Αλέξανδρος Βοΐλης ήταν καθοριστικός στη νίκη του Πανιωνίου κόντρα στα Χανιά όπου σκόραρε δύο φορές και απέδειξε ότι μπορεί να εξελιχθεί σε σημαντικό εργαλείο στα χέρια του Δερμιτζάκη ενόψει των play offs της Superleague 2.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/voilis.jpg?itok=DlItdgZd",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Μάντσεστερ Γιουνάιτεντ: Η Sun αναφέρει πως ο Πάλμερ είναι «ανοιχτός» σε πιθανή μεταγραφή",
-          "link": "https://www.gazzetta.gr/football/premier-league/2510551/mantsester-gioynaitent-i-sun-anaferei-pos-o-palmer-einai-anoihtos",
-          "pubDate": "Tue, 27 Jan 2026 11:13:57 +0200",
-          "description": "Το αγγλικό μέσο βάζει «φωτιά» στην Premier League, με δημοσίευμα που συνδέει τον Κόουλ Πάλμερ με τη Μάντσεστερ Γιουνάιτεντ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-05/palmer_getty.jpg?itok=_T_3CoP1",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Προτάθηκε ο Βιβτσαρένκο στον Παναθηναϊκό",
+          "link": "https://panathinaikos24.gr/2026/01/27/617910/protathike-o-vivtsarenko-ston-panathinaiko/",
+          "pubDate": "Tue, 27 Jan 2026 11:10:47 +0000",
+          "description": "Ο διεθνής Ουκρανός αριστερός μπακ, Κονσταντίν Βιβτσαρένκο, εξετάζεται από τον Παναθηναϊκό.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/7_2.jpg?fit=1200%2C833&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Απόφαση Γιαννακόπουλου για οικονομική υπέρβαση με στόχο τον εκλεκτό στο «4»!",
           "link": "https://trifilara.gr/apofasi-giannakopoulou-gia-oikonomiki-ypervasi-me-stocho-ton-eklekto-sto-4/?utm_source=rss&utm_medium=rss&utm_campaign=apofasi-giannakopoulou-gia-oikonomiki-ypervasi-me-stocho-ton-eklekto-sto-4",
@@ -1223,14 +1231,6 @@
           "description": "Ιδιαίτερη διεθνή απήχηση αποκτά πλέον το νέο γήπεδο του Παναθηναϊκού στον Βοτανικό. Ιδιαίτερη διεθνή απήχηση αποκτά πλέον το νέο γήπεδο του Παναθηναϊκού στον Βοτανικό, καθώς ένα από τα πιο γνωστά κανάλια παγκοσμίως που ασχολούνται αποκλειστικά με γήπεδα, νέα και υφιστάμενα, αφιέρωσε εκτενές ρεπορτάζ στο πρότζεκτ των «πρασίνων». Το κανάλι SportsRender, με δεκάδες χιλιάδες συνδρομητές και […]\nThe post Διεθνής προβολή για το νέο γήπεδο του Παναθηναϊκού στον Βοτανικό: «Οπως το ‘Ντραγκάο’»! (vid) appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/votanikos-gipedo-3-1.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Παναθηναϊκός: Πότε κρίνεται του Ναν – Τα δεδομένα για Οσμάν και Μήτογλου",
-          "link": "https://trifilara.gr/panathinaikos-pote-krinetai-tou-nan-ta-dedomena-gia-osman-kai-mitoglou/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-pote-krinetai-tou-nan-ta-dedomena-gia-osman-kai-mitoglou",
-          "pubDate": "Mon, 26 Jan 2026 20:50:25 +0000",
-          "description": "Κρίσιμες οι επόμενες ημέρες για Ναν, αισιοδοξία για Όσμαν και Μήτογλου.\nThe post Παναθηναϊκός: Πότε κρίνεται του Ναν – Τα δεδομένα για Οσμάν και Μήτογλου appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         }
       ]
     },
