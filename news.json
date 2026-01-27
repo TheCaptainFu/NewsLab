@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T19:30:36.032Z",
+  "lastUpdated": "2026-01-27T19:35:29.122Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -28,7 +28,7 @@
           "title": "ΗΠΑ: Νέο περιστατικό με πυροβολισμούς από πράκτορες της ICE κατά πολιτών – Ένας σοβαρά τραυματίας στην Αριζόνα",
           "link": "https://www.newsit.gr/kosmos/ipa-neo-peristatiko-me-pyrovolismous-apo-praktores-tis-ice-kata-politon-enas-sovara-traymatias-stin-arizona/4585126/",
           "pubDate": "Tue, 27 Jan 2026 19:14:32 +0000",
-          "description": "Ακόμη ένας άνθρωπος δέχτηκε σφαίρα από πυρά πρακτόρων της ICE στις ΗΠΑ, μετά τις δολοφονίες που σημειώθηκαν στη Μινεάπολη τις τελευταίες 2 εβδομάδες που αποτέλεσαν ...  \nTo άρθρο ΗΠΑ: Νέο περιστατικό με πυροβολισμούς από πράκτορες της ICE κατά πολιτών – Ένας σοβαρά τραυματίας στην Αριζόνα δημοσιεύτηκε στο NewsIT .",
+          "description": "Ακόμη ένας άνθρωπος δέχτηκε σφαίρα από πυρά πρακτόρων της ICE στην Αριζόνα, μετά τις δολοφονίες που σημειώθηκαν στη Μινεάπολη στις ΗΠΑ τις τελευταίες 2 εβδομάδες ...  \nTo άρθρο ΗΠΑ: Νέο περιστατικό με πυροβολισμούς από πράκτορες της ICE κατά πολιτών – Ένας σοβαρά τραυματίας στην Αριζόνα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ice-usa-arizona.jpg",
           "source": "NewsIT"
         },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Starlink στο Ιράν: Πώς ο Έλον Μασκ έσπασε το ψηφιακό μπλακάουτ της Τεχεράνης",
+          "link": "https://www.gazzetta.gr/plus/2510746/starlink-sto-iran-pos-o-elon-mask-espase-psifiako-mplakaoyt-tis-teheranis",
+          "pubDate": "Tue, 27 Jan 2026 21:34:27 +0200",
+          "description": "Παράνομες κεραίες, απειλές απαγχονισμού και δορυφορικό ίντερνετ: πώς το Starlink έγινε το πιο επικίνδυνο όπλο αντίστασης στο Ιράν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/starlink.jpg?itok=qe9y4iSj",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Καρδίτσα - Τόφας 79-93: Δεν μπόρεσε να ακολουθήσει τους Τούρκους",
           "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510745/karditsa-tofas-79-93-den-mporese-na-akoloythisei",
           "pubDate": "Tue, 27 Jan 2026 21:27:11 +0200",
@@ -977,14 +985,6 @@
           "description": "Ο ΠΑΟΚ εξέδωσε μία ανακοίνωση στην οποία αποτυπώνεται ο πόνος και η θλίψη για την ανείπωτη τραγωδία με τους φιλάθλους της ομάδας στη Ρουμανία. Επτά ...  \nTo άρθρο ΠΑΟΚ για το πολύνεκρο τροχαίο στη Ρουμανία: «Η θλίψη σε κυριεύει, σε γονατίζει, σε διαλύει – Καλό ταξίδι στα παιδιά μας» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-4-1-1200x801.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "ΕΟΠΕ για δυστύχημα στη Ρουμανία: «Υπάρχει μόνο σιωπή, σεβασμός και ειλικρινής συμπαράσταση»",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510721/eope-gia-dystyhima-sti-roymania-yparhei-mono-siopi-sebasmos-kai",
-          "pubDate": "Tue, 27 Jan 2026 19:50:08 +0200",
-          "description": "Με ανακοίνωσή της η ΕΟΠΕ ανέφερε πως οι σκέψεις όλων βρίσκεται στις οικογένειες των θυμάτων και στους οικείους τους. Την θλίψη για τον χαμό των 7 φίλων του ΠΑΟΚ εξέφρασε και ο ΣΕΓΑΣ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/639050338341148074.jpg?itok=iUHTtxjS",
-          "source": "Gazzetta"
         }
       ]
     },
