@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T16:00:39.292Z",
+  "lastUpdated": "2026-01-27T16:05:28.098Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βιβλιοθηκάριος στη Δυτική Βιρτζίνια καλούσε για «στρατολόγηση» δολοφόνων του Τραμπ μέσω TikTok",
+          "link": "https://www.newsit.gr/kosmos/vivliothikarios-sti-dytiki-virtzinia-kalouse-gia-stratologisi-dolofonon-tou-tramp-meso-tiktok/4584928/",
+          "pubDate": "Tue, 27 Jan 2026 16:02:33 +0000",
+          "description": "Στα χέρια της αστυνομίας βρίσκεται μία 39χρονη βιβλιοθηκάριος, η οποία καλούσε μέσω βίντεο στο TikTok τον λαό των ΗΠΑ να δολοφονήσει τον Ντόναλντ Τραμπ. Στη ...  \nTo άρθρο Βιβλιοθηκάριος στη Δυτική Βιρτζίνια καλούσε για «στρατολόγηση» δολοφόνων του Τραμπ μέσω TikTok δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/morgan-1200x724.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΟΚ: «Θα κάνουμε τα πάντα για τη διαλεύκανση των αιτιών του τραγικού δυστυχήματος»",
+          "link": "https://www.newsit.gr/athlitika/paok-tha-kanoume-ta-panta-gia-ti-dialeykansi-ton-aition-tou-tragikou-dystyximatos/4584927/",
+          "pubDate": "Tue, 27 Jan 2026 16:01:45 +0000",
+          "description": "Ο ΠΑΟΚ προχώρησε σε επίσημη ενημέρωση για το τραγικό δυστύχημα με τους οπαδούς της ομάδας από τη Θεσσαλονίκη στη Ρουμανία. Στο τραγικό αυτό δυστύχημα στη ...  \nTo άρθρο ΠΑΟΚ: «Θα κάνουμε τα πάντα για τη διαλεύκανση των αιτιών του τραγικού δυστυχήματος» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-6-1200x798.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Μανώλης Μητσιάς: Είμαι οπαδός του ΠΑΟΚ από μικρό παιδί, έχω κάνει ταξίδια με φίλους",
           "link": "https://www.newsit.gr/ellada/manolis-mitsias-eimai-opados-tou-paok-apo-mikro-paidi-exo-kanei-taksidia-me-filous/4584915/",
@@ -231,22 +247,6 @@
           "description": "To «πράσινο φως» της Κομισιόν έλαβε το εθνικό αμυντικό σχέδιο της Ελλάδας στο πλαίσιο του ευρωπαϊκού μέσου SAFE («Δράση για την ασφάλεια στην Ευρώπη»), μαζί ...  \nTo άρθρο SAFE: Η Κομισιόν ενέκρινε το εθνικό αμυντικό σχέδιο της Ελλάδας – Πρώτες πληρωμές τον Μάρτιο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eu-defence-reuters-1200x675.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Δημοσκόπηση: «Ταβάνι» στο 27% για Μητσοτάκη – «Δεν είναι έτοιμη η Καρυστιανού για την πολιτική»",
-          "link": "https://www.in.gr/2026/01/27/politics/politiki-grammateia/dimoskopisi-tavani-sto-27-gia-mitsotaki-den-einai-etoimi-karystianou-gia-tin-politiki/",
-          "pubDate": "Tue, 27 Jan 2026 17:59:39 +0300",
-          "description": "Με τον «Κανένα» κονταροχτυπιέτσι ο Μητσοτάκης στην αξιοπιστία, στη δημοσκόπηση - «Όχι έτοιμη ακόμη η Μαρία Καρυστιανού για την πολιτική», λένε επτά στους 10 πολίτες",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_180287291--768x768.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Νέα Αριστερά: Ποινικός λαϊκισμός Φλωρίδη για την πατροκτονία στη Γλυφάδα",
-          "link": "https://www.in.gr/2026/01/27/politics/epikairotita/nea-aristera-poinikos-laikismos-floridi-gia-tin-patroktonia-sti-glyfada/",
-          "pubDate": "Tue, 27 Jan 2026 17:56:07 +0300",
-          "description": "«Κατά τον κύριο Φλωρίδη, το αν ο δράστης επί 8 χρόνια είχε ή δεν είχε κατάλληλη ψυχιατρική υποστήριξη δεν ασκεί καμία ουσιαστική επιρροή στο έγκλημα που διαπράχθηκε», σημειώνει η Νέα Αριστερά",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6824355-1-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Δύο δεσπότες κρίνουν τη μάχη της Κρήτης",
+          "link": "https://www.tanea.gr/print/2026/01/27/politics/dyo-despotes-krinoun-ti-maxi-tis-kritis/",
+          "pubDate": "Tue, 27 Jan 2026 15:50:00 +0000",
+          "description": "Αυστηρές προειδοποιήσεις από Φανάρι και κυβέρνηση - Το παρασκήνιο της αυριανής διπλής εκλογής",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/agios-minas-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Στον Πρόεδρο της Βουλής για αντικοινοβουλευτική συμπεριφορά παραπέμπεται η Ζωή Κωνσταντοπούλου",
           "link": "https://www.naftemporiki.gr/politics/2064629/ston-proedro-tis-voylis-gia-antikoinovoyleytiki-symperifora-parapempetai-i-zoi-konstantopoyloy/?utm_source=rss&utm_medium=rss&utm_campaign=ston-proedro-tis-voylis-gia-antikoinovoyleytiki-symperifora-parapempetai-i-zoi-konstantopoyloy",
@@ -485,14 +493,6 @@
           "description": "Η κρισιμότητα του επόμενου τριμήνου για την πορεία της ευλογιάς των αιγοπροβάτων και η ανάγκη οριζόντιας και αυστηρής εφαρμογής των μέτρων βιοασφάλειας, ώστε να αξιοποιηθεί η αποκλιμάκωση των κρουσμάτων, τονίστηκε…\nΕυλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Μητσοτάκης: Αυστηρή βιοασφάλεια και όχι εμβολιασμός για την εκρίζωση της ευλογιάς των αιγοπροβάτων",
-          "link": "https://www.tanea.gr/2026/01/27/politics/mitsotakis-aystiri-vioasfaleia-kai-oxi-emvoliasmos-gia-tin-ekrizosi-tis-eylogias-ton-aigop/",
-          "pubDate": "Tue, 27 Jan 2026 11:05:19 +0000",
-          "description": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης προήδρευσε το πρωί σε σύσκεψη στο Μέγαρο Μαξίμου.",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/mitsotakis-1024x668.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "«Κάτοικοι στα όριά τους»: Ιταλική κοιλάδα περιορίζει πρόσβαση σε διάσημο φωτογραφικό σημείο",
+          "link": "http://gr.euronews.com/travel/2026/01/27/residents-have-reached-breaking-point-italian-valley-restricts-access-to-famed-photo-spot",
+          "pubDate": "Tue, 27 Jan 2026 16:52:43 +0100",
+          "description": "Η εξέλιξη έρχεται μετά τις διαμαρτυρίες κατοίκων για την κίνηση και τους τουρίστες που καταλαμβάνουν τις θέσεις στάθμευσης και παραβιάζουν ιδιωτική περιουσία.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
         {
           "title": "Το TikTok ερευνά μπλοκάρισμα βίντεο για «Έπσταϊν» και κατά του Τραμπ, με καταγγελίες για λογοκρισία",
           "link": "http://gr.euronews.com/next/2026/01/27/tiktok-is-investigating-reports-of-blocking-videos-related-to-epstein-and-those-critical-o",
@@ -731,14 +739,6 @@
           "description": "Η Ολυμπιακή Φλόγα έφτασε στην Κορτίνα ντ' Αμπέτσο, σηματοδοτώντας την έναρξη της αντίστροφης μέτρησης για τους Χειμερινούς Ολυμπιακούς Αγώνες του Μιλάνου-Κορτίνα 2026. Η πόλη, που φιλοξένησε τους Αγώνες του 1956, υποδέχθηκε τη φλόγα με μεγαλοπρέπεια",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Η Fed αναμένεται να αφήσει αμετάβλητα τα επιτόκια, ενώ ο Τραμπ απειλεί την ανεξαρτησία της Fed",
-          "link": "http://gr.euronews.com/business/2026/01/27/fed-set-to-keep-rates-steady-as-trump-threatens-the-banks-independence",
-          "pubDate": "Tue, 27 Jan 2026 11:26:53 +0100",
-          "description": "Η συνεδρίαση της εβδομάδας θα επισκιαστεί από την αποκάλυψη ότι το Υπουργείο Δικαιοσύνης άνοιξε ποινική έρευνα για τη Fed, απειλώντας την ανεξαρτησία της κεντρικής τράπεζας.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,62 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΠΑΟΚ, Δυστύχημα στη Ρουμανία: Το μοιραίο λάθος του οδηγού του βαν",
+          "link": "https://www.gazzetta.gr/gmotion/2510690/paok-dystyhima-sti-roymania-moiraio-lathos-toy-odigoy-toy-ban",
+          "pubDate": "Tue, 27 Jan 2026 18:03:48 +0200",
+          "description": "Η ανάλυση του βίντεο από το πολύνεκρο τροχαίο στη Ρουμανία αποκαλύπτει μια αλληλουχία κινήσεων που παγώνει το αίμα και οδήγησε στην ανείπωτη τραγωδία με τους 7 νεκρούς.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/van_romania.jpg?itok=bYToPJbJ",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΕΠΟ: «Σε αυτές τις στιγμές ολόκληρη η ποδοσφαιρική Ελλάδα είναι δίπλα στην οικογένεια του ΠΑΟΚ»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510689/epo-se-aytes-tis-stigmes-olokliri-i-podosfairiki-ellada-einai-dipla",
+          "pubDate": "Tue, 27 Jan 2026 18:03:30 +0200",
+          "description": "Η συλλυπητήρια ανακοίνωση της Ελληνικής Ποδοσφαιρικής Ομοσπονδίας για την τραγωδία στη Ρουμανία με τους οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/epo.jpg?itok=qQDq0nAa",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΓΣ Ηρακλής: «Η σκέψη μας στις οικογένειες των θυμάτων»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510688/gs-iraklis-i-skepsi-mas-stis-oikogeneies-ton-thymaton",
+          "pubDate": "Tue, 27 Jan 2026 18:02:26 +0200",
+          "description": "Ο Ερασιτέχνης Ηρακλής με ανακοίνωσή του ανέφερε πως οι σκέψεις όλων είναι στις οικογένειες; των οπαδών του ΠΑΟΚ που έχασαν την ζωή τους στο τροχαίο δυστύχημα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/623763709_1445081787627773_2201822417949336158_n.jpg?itok=jM18zTgA",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: «Θα κάνουμε τα πάντα για τη διαλεύκανση των αιτιών του τραγικού δυστυχήματος»",
+          "link": "https://www.newsit.gr/athlitika/paok-tha-kanoume-ta-panta-gia-ti-dialeykansi-ton-aition-tou-tragikou-dystyximatos/4584927/",
+          "pubDate": "Tue, 27 Jan 2026 16:01:45 +0000",
+          "description": "Ο ΠΑΟΚ προχώρησε σε επίσημη ενημέρωση για το τραγικό δυστύχημα με τους οπαδούς της ομάδας από τη Θεσσαλονίκη στη Ρουμανία. Στο τραγικό αυτό δυστύχημα στη ...  \nTo άρθρο ΠΑΟΚ: «Θα κάνουμε τα πάντα για τη διαλεύκανση των αιτιών του τραγικού δυστυχήματος» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-6-1200x798.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Παναθηναϊκός: Επέστρεψαν Όσμαν και Μήτογλου στις προπονήσεις - Τι ισχύει με Ναν",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510687/panathinaikos-epestrepsan-osman-kai-mitogloy-stis-proponiseis-ti",
+          "pubDate": "Tue, 27 Jan 2026 18:01:32 +0200",
+          "description": "Οι Τσέντι Όσμαν και Ντίνος Μήτογλου επέστρεψαν στις προπονήσεις ενόψει του αγώνα του Παναθηναϊκού με τη Βιλερμπάν στη Λιόν. Αυτά ισχύουν για τον Κέντρικ Ναν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/osman4.jpg?itok=3cWXr0NX",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Μεσίστιες σημαίες στην Τούμπα",
+          "link": "https://www.gazzetta.gr/football/superleague/2510686/paok-dystyhima-sti-roymania-mesisties-simaies-stin-toympa",
+          "pubDate": "Tue, 27 Jan 2026 18:00:44 +0200",
+          "description": "Οι σημαίες στην Τούμπα κυματίζουν μεσίστιες για τα επτά αετόπουλα του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_0.jpg?itok=epSh1uFx",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Και πάλι single η Μπέλα Χαντίντ: Χώρισε από τον επί 2 χρόνια σύντροφό της, Αντάν Μπανουέλος",
+          "link": "https://www.gazzetta.gr/plus/2510611/kai-pali-single-i-mpela-hantint-horise-apo-ton-epi-2-hronia-syntrofo-tis-antan",
+          "pubDate": "Tue, 27 Jan 2026 18:00:00 +0200",
+          "description": "Η Μπέλα Χαντίντ και ο Αντάν Μπανουέλος έδωσαν τέλος στο τρυφερό ειδύλλιό τους, διαψεύδοντας όσους υποστήριζαν πως αυτή η σχέση θα έχει happy end.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/belll.jpg?itok=On2OUo94",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η ενημέρωση από τον Αδωνι Γεωργιάδη για τους τρεις τραυματίες",
           "link": "https://www.gazzetta.gr/football/europa-league/2510684/paok-dystyhima-sti-roymania-i-enimerosi-apo-ton-adoni-georgiadi-gia",
@@ -928,62 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 17:23:29 +0200",
           "description": "Πρόταση-μαμούθ 18 εκατομμυρίων ευρώ για να υπογράψει 3ετές συμβόλαιο έκανε στον Μπόγκνταν Μπογκντάνοβιτς ο πρόεδρος της Παρτίζαν Όστογια Μιχαήλοβιτς, σύμφωνα με σερβικό δημοσίευμα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bogdanovic_getty_1.jpg?itok=RR6scR4V",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ δυστύχημα στη Ρουμανία: Η ανακοίνωση της Παρτίζαν",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2510663/paok-dystyhima-sti-roymania-i-anakoinosi-tis-partizan",
-          "pubDate": "Tue, 27 Jan 2026 17:21:54 +0200",
-          "description": "Η Παρτίζαν, μέσω ανακοίνωσής της εξέφρασε τα συλλυπητήρια στις οικογένειες των φιλάθλων του ΠΑΟΚ που έχασαν τη ζωή τους σε τραγικό δυστύχημα στη Ρουμανία.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/partizan7.jpg?itok=bS8UdjpB",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Ανησυχία και για Πελίστρι ενόψει Ρόμα!",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510662/panathinaikos-anisyhia-kai-gia-pelistri-enopsei-roma",
-          "pubDate": "Tue, 27 Jan 2026 17:20:18 +0200",
-          "description": "Νέο ζήτημα προέκυψε στον Παναθηναϊκό για τον αγώνα με την Ρόμα, αφού ο Φακούντο Πελίστρι δεν μπόρεσε να προπονηθεί",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4993646_1.jpg?itok=WSsDqdKh",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Οι τραγωδίες που σημάδευσαν τον ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας",
-          "link": "https://www.newsit.gr/athlitika/oi-tragodies-pou-simadeysan-ton-paok-apo-ta-tempi-sti-roumania-oi-tragikes-apoleies-tis-aspromayris-oikogeneias/4584849/",
-          "pubDate": "Tue, 27 Jan 2026 15:20:03 +0000",
-          "description": "Το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία έχει συγκλονίσει όλη την Ελλάδα και επανέφερε στις μνήμες όλων το τροχαίο στα Τέμπη το ...  \nTo άρθρο Οι τραγωδίες που σημάδευσαν τον ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-tempi-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η ανακοίνωση της ΚΑΕ ",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2510661/paok-dystyhima-sti-roymania-i-anakoinosi-tis-kae",
-          "pubDate": "Tue, 27 Jan 2026 17:18:31 +0200",
-          "description": "Η ΚΑΕ ΠΑΟΚ, με επίσημη ανακοίνωσή της, εξέφρασε την οδύνη της για τον χαμό των φιλάθλων στο δυστύχημα στη Ρουμανία, ενώ αναφέρει πως ζήτησε την αναβολή του αγώνα με τη Μύκονο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_logo.jpg?itok=IDmYNEce",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Ο Ιβάν Σαββίδης για την τραγωδία!",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510660/sabbidis-ta-paidia-toy-paok-einai-dika-mas-paidia-den-afinoyme",
-          "pubDate": "Tue, 27 Jan 2026 17:17:47 +0200",
-          "description": "Η δήλωση του προέδρου της ΠΑΕ, ΠΑΟΚ Ιβάν Σαββίδη για την τραγωδία με τους οπαδούς της ομάδας στη Ρουμανία.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/savvidis.jpg?itok=ncUiVLYD",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η ανακοίνωση της ΚΑΕ Παναθηναϊκός",
-          "link": "https://www.gazzetta.gr/basketball/basket-league/2510658/paok-dystyhima-sti-roymania-i-anakoinosi-tis-kae-panathinaikos",
-          "pubDate": "Tue, 27 Jan 2026 17:15:06 +0200",
-          "description": "Η ΚΑΕ Παναθηναϊκός μέσω ανακοίνωσής της εξέφρασε τα συλλυπητήριά της για τον τραγικό χαμό των φίλων του ΠΑΟΚ στο δυστύχημα στη Ρουμανία.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pao_2_0.jpg?itok=rhbIaqaK",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "F1: Πολύπλοκα τα μονοθέσια του 2026 – Η νέα πραγματικότητα των οδηγών",
-          "link": "https://www.gazzetta.gr/gmotion/2510561/f1-polyploka-ta-monothesia-toy-2026-i-nea-pragmatikotita-ton-odigon",
-          "pubDate": "Tue, 27 Jan 2026 17:15:00 +0200",
-          "description": "Οι οδηγοί της Formula 1 μοιράστηκαν τις πρώτες τους εντυπώσεις για το πώς είναι οδήγηση της νέας γενιάς μονοθεσίων.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/m560543.jpg?itok=mxpowlAV",
           "source": "Gazzetta"
         }
       ]
