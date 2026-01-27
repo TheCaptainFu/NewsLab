@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-27T00:15:34.951Z",
+  "lastUpdated": "2026-01-27T00:20:34.250Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Αποκαταστάθηκε η κυκλοφορία στη Λεωφόρο Δημοκρατίας στα Μελίσσια μετά την καθίζηση του οδοστρώματος",
+          "link": "https://www.protothema.gr/greece/article/1763880/apokatastathike-i-kukloforia-sti-leoforo-dimokratias-sta-melissia-meta-tin-kathizisi-tou-odostromatos/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 02:20:04 +0200",
+          "description": "Επιδιόρθωση της ζημιάς από θραύση αγωγού ΕΥΔΑΠ",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/mixcollage-27-jan-2026-02-19-am-2576.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Κίνα: Λεοπάρδαλη του χιονιού δάγκωσε στο πρόσωπο σκιέρ που προσπάθησε να βγάλει σέλφι με το ζώο",
           "link": "https://www.newsit.gr/kosmos/kina-leopardali-tou-xioniou-dagkose-sto-prosopo-skier-pou-prospathise-na-vgalei-selfi-me-to-zoo/4584270/",
@@ -15,6 +23,14 @@
           "description": "Με ένα σοβαρό τραύμα στο πρόσωπο «πλήρωσε» μία σκιέρ στην Κίνα την προσπάθειά της να τραβήξει μία σέλφι με μία σπάνια λευκή λεοπάρδαλη του χιονιού. ...  \nTo άρθρο Κίνα: Λεοπάρδαλη του χιονιού δάγκωσε στο πρόσωπο σκιέρ που προσπάθησε να βγάλει σέλφι με το ζώο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/leopard-china-27012026.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Πεζέσκιαν: Οι ΗΠΑ και η Ευρώπη καθοδηγούνται από την απληστία για το πετρέλαιο και το φυσικό αέριο του Ιράν",
+          "link": "https://www.in.gr/2026/01/27/world/pezeskian-oi-ipa-kai-eyropi-kathodigountai-apo-tin-aplistia-gia-petrelaio-kai-fysiko-aerio-tou-iran/",
+          "pubDate": "Tue, 27 Jan 2026 02:10:28 +0300",
+          "description": "Ο πρόεδρος του Ιράν, Μασούντ Πεζεσκιάν, κατηγόρησε τις ΗΠΑ και την Ευρώπη πως υποστήριξαν τα πιο ειδεχθή εγκλήματα στη Γάζα και προσποιούνται ότι ενδιαφέρονται για τα ανθρώπινα δικαιώματα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Masoud_Pezeshkian_2024-6-12-1200x802-768x513.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Ο Τραμπ βάζει δασμούς 25% σε εισαγωγές από τη Νότια Κορέα",
@@ -231,22 +247,6 @@
           "description": "Από τα γυαλιά της Meta έως τα chatbots της OpenAI, οι γίγαντες της AI επιτίθενται στο smartphone, εκμεταλλευόμενοι υπάρχοντα προβλήματα",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_1905630148-768x506.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Nissan: Στη Διεθνή Ημέρα Καθαρής Ενέργειας παρουσιάσει ένα Ariya με φωτοβολταϊκά",
-          "link": "https://www.newsit.gr/auto/nissan-sti-diethni-imera-katharis-energeias-parousiasei-ena-ariya-me-fotovoltaika/4583914/",
-          "pubDate": "Mon, 26 Jan 2026 20:45:00 +0000",
-          "description": "Σήμερα, 26 Ιανουαρίου, η μέρα είναι διεθνώς αφιερωμένη στην Καθαρή Ενέργεια και η Nissan τη γιορτάζει με έναν ξεχωριστό τρόπο. Συγκεκριμένα, η ιαπωνική μάρκα παρουσιάζει ...  \nTo άρθρο Nissan: Στη Διεθνή Ημέρα Καθαρής Ενέργειας παρουσιάσει ένα Ariya με φωτοβολταϊκά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nissan-ariya-solar-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Βερόνα – Ουντινέζε 1-3: Έφυγε με το «διπλό» και την άφησε στον πάτο",
-          "link": "https://www.in.gr/2026/01/26/sports/football/verona-ountineze-1-3-efyge-diplo-kai-tin-afise-ston-pato/",
-          "pubDate": "Mon, 26 Jan 2026 23:42:41 +0300",
-          "description": "Η Ουντινέζε έφυγε με το διπλό από το Μπεντεγκόντι, ανέβηκε στην 10η θέση και άφησε στον πάτο της βαθμολογίας την Βερόνα.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/unisssddd-768x466.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -319,14 +319,6 @@
           "source": "Ναυτεμπορική"
         },
         {
-          "title": "Μαζική συμμετοχή στην εκδήλωση του Democrat στο «Ολύμπιον» για τη Δημοκρατία",
-          "link": "https://www.tovima.gr/2026/01/26/politics/maziki-symmetoxi-stin-ekdilosi-tou-democrat-sto-olympion-gia-ti-dimokratia/",
-          "pubDate": "Mon, 26 Jan 2026 18:07:52 +0300",
-          "description": "Κατά τη διάρκειά της ο Στέφανος Παραστρατίδης επεσήμανε μεταξύ άλλων ότι «η απάντηση στον αυταρχισμό είναι οι ισχυροί θεσμοί, όχι οι σωτήρες».",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/parastratidis-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
           "title": "Εθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού",
           "link": "https://www.naftemporiki.gr/politics/2064055/ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy/?utm_source=rss&utm_medium=rss&utm_campaign=ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy",
           "pubDate": "Mon, 26 Jan 2026 15:03:01 +0000",
@@ -343,22 +335,6 @@
           "source": "Ναυτεμπορική"
         },
         {
-          "title": "Διαχρονικές ευθύνες στον ΟΠΕΚΕΠΕ είπε πρώην αντιπρόεδρος – Η αντιπαράθεση με βουλευτές του ΠαΣοΚ",
-          "link": "https://www.tovima.gr/2026/01/26/politics/diaxronikes-eythynes-ston-opekepe-eipe-proin-antiproedros-i-antiparathesi-me-vouleytes-tou-pasok/",
-          "pubDate": "Mon, 26 Jan 2026 17:55:53 +0300",
-          "description": "Η πρώην αντιπρόεδρος του ΟΠΕΚΕΠΕ είχε έντονο διάλογο τόσο με την Μιλένα Αποστολάκη όσο και με την Ευαγγελία Λιακούλη.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/11/20/EV1_191125_OPEKEPE-3-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τι λέει η πρόταση",
-          "link": "https://www.tovima.gr/2026/01/26/politics/epistoliki-psifos-gia-tous-ektos-elladas-eklogeis-ti-leei-i-protasi/",
-          "pubDate": "Mon, 26 Jan 2026 17:16:57 +0300",
-          "description": "Πρόταση για επιστολική ψήφο σε όσους ψηφίζουν εκτός Ελλάδας κατέθεσε στο υπουργικό συμβούλιο ο υπουργός Εσωτερικών. Την Πέμπτη η άτυπη διακομματική επιτροπή υπό τον Θοδωρή Λιβάνιο.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2024/04/28/epistoliki-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
           "title": "Τριβές στο ΠΑΣΟΚ: Οι συνεργασίες είναι μόνο η αφορμή",
           "link": "https://www.tanea.gr/print/2026/01/26/politics/oi-synergasies-einai-mono-lfi-aformi/",
           "pubDate": "Mon, 26 Jan 2026 14:07:00 +0000",
@@ -373,22 +349,6 @@
           "description": "Την πρώτη της δημόσια παρέμβαση στα ελληνοτουρκικά πραγματοποίησε η Μαρία Καρυστιανού, ζητώντας από τον πρωθυπουργό Κυριάκο Μητσοτάκη να προχωρήσει σε επίσημη ενημέρωση σχετικά με την ατζέντα της επικείμενης συνάντησής του με τον Ρετζέπ Ταγίπ Ερντογάν. Σε ανάρτησή της στην πλατφόρμα X, και ενώ βρίσκονται σε εξέλιξη οι διεργασίες για την ίδρυση του πολιτικού της φορέα, […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Maria-Karystianou-1-1.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Καρυστιανού για ελληνοτουρκικά: «Οποιαδήποτε απεμπόληση της εθνικής κυριαρχίας είναι εθνική προδοσία»",
-          "link": "https://www.tovima.gr/2026/01/26/politics/karystianou-gia-ellinotourkika-opoiadipote-apempolisi-tis-ethnikis-kyriarxias-einai-ethniki-prodosia/",
-          "pubDate": "Mon, 26 Jan 2026 17:04:09 +0300",
-          "description": "Σε ανάρτησή της η Μαρία Καρυστιανού ζητά από τον Κυριάκο Μητσοτάκη να ενημερώσει τον ελληνικό λαό για την ατζέντα της συνάντησής του με τον Ρετζέπ Ταγίπ Ερντογάν.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/10/06/maria-karystianou-e1759758472862-1024x748.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Παυλόπουλος για Καποδίστρια: «Η μνήμη του αποτελεί δείκτη πορείας»",
-          "link": "https://www.tovima.gr/2026/01/26/politics/paylopoulos-gia-kapodistria-i-mnimi-tou-apotelei-deikti-poreias/",
-          "pubDate": "Mon, 26 Jan 2026 16:56:58 +0300",
-          "description": "Ο κ. Παυλόπουλος σε ομιλία του για το έργο του Ιωάννη Καποδίστρια επεσήμανε ότι «η Πατρίδα μας οφείλει, κυριολεκτικώς, την υπόστασή της».",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/pavlopoulos-kapodistrias-1024x683.jpg",
-          "source": "Το Βήμα"
         },
         {
           "title": "Πηγές ΝΔ: Εκθέτει Τυχεροπούλου και Σημανδράκο η Δήμητρα Χαλικιά – Υπάλληλοι του ΟΠΕΚΕΠΕ άλλαζαν τις δηλώσεις ΟΣΔΕ",
@@ -487,12 +447,52 @@
           "source": "Τα Νέα"
         },
         {
-          "title": "Βιολάντα: Οδύνη στα Τρίκαλα – Μητσοτάκης και κόμματα ζητούν απαντήσεις για τη φονική έκρηξη",
-          "link": "https://www.tovima.gr/2026/01/26/politics/violanta-odyni-sta-trikala-mitsotakis-kai-kommata-zitoun-apantiseis-gia-ti-foniki-ekriksi/",
-          "pubDate": "Mon, 26 Jan 2026 14:43:23 +0300",
-          "description": "Συλλυπητήρια και αιχμές από την αντιπολίτευση μετά την τραγωδία με την έκρηξη στο εργαστάσιο της Βιολάντα στα Τρίκαλα που κόστισε τη ζωή σε τέσσερις εργαζόμενες",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/26/fire-violanda3-1024x683.jpg",
-          "source": "Το Βήμα"
+          "title": "Στη σκιά της τραγωδίας στα Τρίκαλα η πολιτική ατζέντα της ΝΔ",
+          "link": "https://www.tanea.gr/2026/01/26/politics/sti-skia-tis-tragodias-sta-trikala-i-politiki-atzenta-tis-nd/",
+          "pubDate": "Mon, 26 Jan 2026 11:37:33 +0000",
+          "description": "«Η σκέψη όλων είναι αυτή τη στιγμή στην τραγωδία στα Τρίκαλα και στις οικογένειες των θυμάτων»",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2024/12/neadimokratia-2-1200x800-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Ν. Ανδρουλάκης για «Βιολάντα»: Η σκέψη μου στις οικογένειες των θυμάτων – Να σταματήσει η αδράνεια απέναντι στα εργατικά δυστυχήματα",
+          "link": "https://www.naftemporiki.gr/politics/2063896/n-androylakis-gia-violanta-i-skepsi-moy-stis-oikogeneies-ton-thymaton-na-stamatisei-i-adraneia-apenanti-sta-ergatika-dystychimata/?utm_source=rss&utm_medium=rss&utm_campaign=n-androylakis-gia-violanta-i-skepsi-moy-stis-oikogeneies-ton-thymaton-na-stamatisei-i-adraneia-apenanti-sta-ergatika-dystychimata",
+          "pubDate": "Mon, 26 Jan 2026 11:09:14 +0000",
+          "description": "Τα ειλικρινή του συλλυπητήρια στους οικείους των θυμάτων και ταχεία ανάρρωση στους τραυματίες, εκφράζει ο πρόεδρος του ΠΑΣΟΚ-Κινήματος Αλλαγής, Νίκος Ανδρουλάκης, σε δήλωσή του για την τραγωδία στο εργοστάσιο της…\nΝ. Ανδρουλάκης για «Βιολάντα»: Η σκέψη μου στις οικογένειες των θυμάτων – Να σταματήσει η αδράνεια απέναντι στα εργατικά δυστυχήματα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "ΥΠΑΜ: Εκδόθηκε Εγχειρίδιο Εκστρατείας του Στρατού Ξηράς για τη χρήση και την αντιμετώπιση drones (UAV)",
+          "link": "https://www.tanea.gr/2026/01/26/politics/ypam-ekdothike-egxeiridio-ekstrateias-tou-stratou-ksiras-gia-ti-xrisi-kai-tin-antimetopisi-drones-uav/",
+          "pubDate": "Mon, 26 Jan 2026 10:52:51 +0000",
+          "description": "Το Γενικό Επιτελείο Στρατού προχώρησε για πρώτη φορά στη σύνταξη και έκδοση Εγχειριδίου Εκστρατείας για την τακτική αξιοποίηση πολυκοπτέρων (UAV) και τους τρόπους αντιμετώπισής τους στο σύγχρονο πεδίο επιχειρήσεων. Επισημαίνεται ότι στο πλαίσιο της αναβάθμισης της εκπαίδευσης των οπλιτών θητείας, με τον Νόμο 5265/2026 του Υπουργείου Εθνικής Άμυνας, ο οποίος ψηφίσθηκε πρόσφατα από τη Βουλή […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/drone.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Αλ. Τσίπρας για «Βιολάντα»: Συλλυπητήρια στις οικογένειες των θυμάτων – Ως πότε θα θρηνούμε ανθρώπους που χάνονται κυνηγώντας την επιβίωση;",
+          "link": "https://www.naftemporiki.gr/politics/2063882/al-tsipras-gia-violanta-syllypitiria-stis-oikogeneies-ton-thymaton-os-pote-tha-thrinoyme-anthropoys-poy-chanontai-kynigontas-tin-epiviosi/?utm_source=rss&utm_medium=rss&utm_campaign=al-tsipras-gia-violanta-syllypitiria-stis-oikogeneies-ton-thymaton-os-pote-tha-thrinoyme-anthropoys-poy-chanontai-kynigontas-tin-epiviosi",
+          "pubDate": "Mon, 26 Jan 2026 10:48:55 +0000",
+          "description": "Τα συλλυπητήριά του «στις οικογένειες των θυμάτων και στους συναδέλφους τους που σήμερα, για ακόμη μια φορά, θρηνούν την απώλεια δικών τους ανθρώπων» εκφράζει ο πρώην πρωθυπουργός Αλέξης Τσίπρας σε…\nΑλ. Τσίπρας για «Βιολάντα»: Συλλυπητήρια στις οικογένειες των θυμάτων – Ως πότε θα θρηνούμε ανθρώπους που χάνονται κυνηγώντας την επιβίωση; - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Εθνικές εκλογές: Δημιουργία Τριεδρικής Περιφέρειας Απόδημου Ελληνισμού προτείνει η κυβέρνηση – Επανέρχονται στις 12 οι έδρες Επικρατείας ",
+          "link": "https://www.naftemporiki.gr/politics/2063851/ethnikes-ekloges-dimioyrgia-triedrikis-perifereias-apodimoy-ellinismoy-proteinei-i-kyvernisi-epanerchontai-stis-12-oi-edres-epikrateias/?utm_source=rss&utm_medium=rss&utm_campaign=ethnikes-ekloges-dimioyrgia-triedrikis-perifereias-apodimoy-ellinismoy-proteinei-i-kyvernisi-epanerchontai-stis-12-oi-edres-epikrateias",
+          "pubDate": "Mon, 26 Jan 2026 10:29:12 +0000",
+          "description": "Τις διαδικασίες για την επέκταση του δικαιώματος της επιστολικής ψήφου στους Έλληνες του εξωτερικού και στις επόμενες εθνικές εκλογές του 2027 δρομολογεί η κυβέρνηση, προτείνοντας παράλληλα τη δημιουργία μιας ειδικής…\nΕθνικές εκλογές: Δημιουργία Τριεδρικής Περιφέρειας Απόδημου Ελληνισμού προτείνει η κυβέρνηση – Επανέρχονται στις 12 οι έδρες Επικρατείας  - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Σ. Φάμελλος για «Βιολάντα»: Άμεση και πλήρη διερεύνηση των συνθηκών της πολύνεκρης τραγωδίας",
+          "link": "https://www.naftemporiki.gr/politics/2063875/s-famellos-gia-violanta-amesi-kai-pliri-diereynisi-ton-synthikon-tis-polynekris-tragodias/?utm_source=rss&utm_medium=rss&utm_campaign=s-famellos-gia-violanta-amesi-kai-pliri-diereynisi-ton-synthikon-tis-polynekris-tragodias",
+          "pubDate": "Mon, 26 Jan 2026 10:27:54 +0000",
+          "description": "Άμεση και πλήρη διερεύνηση των συνθηκών της πολύνεκρης τραγωδίας σε εργοστάσιο της «Βιολάντα» στα Τρίκαλα και απόδοση ευθυνών ζητάει με ανάρτησή του στα μέσα κοινωνικής δικτύωσης ο πρόεδρος του ΣΥΡΙΖΑ-Προοδευτική…\nΣ. Φάμελλος για «Βιολάντα»: Άμεση και πλήρη διερεύνηση των συνθηκών της πολύνεκρης τραγωδίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
         }
       ]
     },
