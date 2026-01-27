@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T20:17:42.924Z",
+  "lastUpdated": "2026-01-27T20:25:22.506Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,18 +9,26 @@
       "color": "red",
       "articles": [
         {
+          "title": "Ντακάρ 2026: Εντυπωσιακές στιγμές της Οδύσσειας στη Σαουδική Αραβία",
+          "link": "https://www.newsit.gr/auto/ntakar-2026-entyposiakes-stigmes-tis-odysseias-sti-saoudiki-aravia/4583938/",
+          "pubDate": "Tue, 27 Jan 2026 20:20:00 +0000",
+          "description": "Το Ράλι Ντακάρ του 2026 ολοκληρώθηκε προ ημερών στη Σαουδική Αραβία, ωστόσο η σκόνη που σηκώθηκε στην έρημο δεν έχει καθίσει ακόμα, Στις μοτοσυκλέτες, ο ...  \nTo άρθρο Ντακάρ 2026: Εντυπωσιακές στιγμές της Οδύσσειας στη Σαουδική Αραβία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/rally-dakar-1.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Θεσσαλονίκη: 52χρονος ομολόγησε τη δολοφονία 46χρονης που αγνοούνταν – Φόβοι των Αρχών για κατά συρροή εγκλήματα",
           "link": "https://www.newsit.gr/ellada/thessaloniki-52xronos-omologise-ti-dolofonia-46xronis-pou-agnoountan-fovoi-ton-arxon-gia-kata-syrroi-egklimata/4585169/",
           "pubDate": "Tue, 27 Jan 2026 20:13:28 +0000",
           "description": "Μια εφιαλτική υπόθεση ήρθε στο φως στη Θεσσαλονίκη, έπειτα από την ομολογία ενός 52χρονου για τη δολοφονία μίας 46χρονης γυναίκας, τα ίχνη της οποίας είχαν ...  \nTo άρθρο Θεσσαλονίκη: 52χρονος ομολόγησε τη δολοφονία 46χρονης που αγνοούνταν – Φόβοι των Αρχών για κατά συρροή εγκλήματα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektakto-3-1200x675.jpeg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-2-1200x735.jpg",
           "source": "NewsIT"
         },
         {
-          "title": "Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς- «Αδέρφια μας εκεί ψηλά που ζείτε»",
+          "title": "Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς – «Αδέρφια μας εκεί ψηλά που ζείτε»",
           "link": "https://www.newsit.gr/athlitika/sygklonizoun-oi-anartiseis-ton-paikton-tou-paok-gia-tous-adikoxamenous-opadous-aderfia-mas-ekei-psila-pou-zeite/4585160/",
           "pubDate": "Tue, 27 Jan 2026 20:10:52 +0000",
-          "description": "Όλοι στον ΠΑΟΚ είναι συγκλονισμένοι για το τραγικό δυστύχημα στη Ρουμανία και μερικοί από τους παίκτες του Δικεφάλου έκαναν αναρτήσεις στα social media για να ...  \nTo άρθρο Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς- «Αδέρφια μας εκεί ψηλά που ζείτε» δημοσιεύτηκε στο NewsIT .",
+          "description": "Όλοι στον ΠΑΟΚ είναι συγκλονισμένοι για το τραγικό δυστύχημα στη Ρουμανία και μερικοί από τους παίκτες του Δικεφάλου έκαναν αναρτήσεις στα social media για να ...  \nTo άρθρο Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς – «Αδέρφια μας εκεί ψηλά που ζείτε» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zivkovic-2-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -69,7 +77,7 @@
           "link": "https://www.protothema.gr/greece/article/1764450/eglima-i-exafanisi-46hronis-sti-thessaloniki-tin-epnixan-kai-tin-petaxan-sta-skoupidia/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 21:45:00 +0200",
           "description": "Η μία γυναίκα είχε εξαφανιστεί από τον Σεπτέμβριο του 2024 και η άλλη από το καλοκαίρι του 2025",
-          "thumbnail": null,
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/thessaloniki-xrwma.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -97,6 +105,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "ΗΠΑ: Τους 42 έφτασαν οι νεκροί από την κακοκαιρία – Μισό εκατομμύριο νοικοκυριά χωρίς ρεύμα",
+          "link": "https://www.in.gr/2026/01/27/world/ipa-tous-42-eftasan-oi-nekroi-apo-tin-kakokairia-miso-ekatommyrio-noikokyria-xoris-reyma/",
+          "pubDate": "Tue, 27 Jan 2026 22:23:33 +0300",
+          "description": "Ακόμη και εβδομάδες μπορεί να χρειαστούν για να αποκατασταθεί η ηλεκτροδότηση στις περιοχές που επλήγησαν από τη χιονοκαταιγίδα Fern. Οι μετεωρολόγοι προβλέπουν νέα κακοκαιρία το Σαββατοκύριακο.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T195047Z_76989752_RC279JAC6GOG_RTRMADP_5_USA-WEATHER-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Πύργος: «Ο Θεός με γλίτωσε» λέει ο μηχανοδηγός του τρένου που το καταπλάκωσε μεγάλο δέντρο",
           "link": "https://www.newsit.gr/ellada/pyrgos-o-theos-me-glitose-leei-o-mixanodigos-tou-trenou-pou-to-kataplakose-megalo-dentro/4585116/",
           "pubDate": "Tue, 27 Jan 2026 19:21:11 +0000",
@@ -105,12 +121,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Σαουδική Αραβία: Ο «Κύβος»… μένει ημιτελής – Σταματούν τα έργα για τον μεγαλύτερο ουρανοξύστη στον κόσμο",
+          "link": "https://www.in.gr/2026/01/27/economy/oikonomikes-eidiseis/saoudiki-aravia-o-kyvos-menei-imitelis-stamatoun-ta-erga-gia-ton-megalytero-ouranoksysti-ston-kosmo/",
+          "pubDate": "Tue, 27 Jan 2026 22:19:43 +0300",
+          "description": "Η Σαουδική Αραβία αναθεωρεί τα φιλόδοξα σχέδιά της, αφήνοντας ημιτελή τον μεγαλύτερο ουρανοξύστη-κύβο στον κόσμο",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-27T070532Z_660303334_RC249JA3KSSE_RTRMADP_5_SAUDI-ECONONOMY-MURABBA-768x513.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "«Με κατάγματα και τραύματα στην σπονδυλική στήλη οι επιζώντες οπαδοί του ΠΑΟΚ» – Τα λόγια του μάνατζερ του νοσοκομείου",
           "link": "https://www.newsit.gr/athlitika/me-katagmata-kai-traymata-stin-spondyliki-stili-oi-epizontes-opadoi-tou-paok-ta-logia-tou-manatzer-tou-nosokomeiou/4585125/",
           "pubDate": "Tue, 27 Jan 2026 19:19:30 +0000",
           "description": "Οι τρεις οπαδοί του ΠΑΟΚ που επέζησαν από το φρικτό τροχαίο δυστύχημα στην Ρουμανία βρίσκονται στο νοσοκομείο της Τιμισοάρα σοβαρά τραυματίες, αλλά εκτός κινδύνου. «Τρεις ...  \nTo άρθρο «Με κατάγματα και τραύματα στην σπονδυλική στήλη οι επιζώντες οπαδοί του ΠΑΟΚ» – Τα λόγια του μάνατζερ του νοσοκομείου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-fans-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "UEFA: «Στεκόμαστε στο πλευρό της οικογένειας του ΠΑΟΚ» (pic)",
+          "link": "https://www.in.gr/2026/01/27/inbox/uefa-stekomaste-sto-pleyro-tis-oikogeneias-tou-paok-pic/",
+          "pubDate": "Tue, 27 Jan 2026 22:17:10 +0300",
+          "description": "Η UEFA εξέδωσε συλλυπητήρια ανακοίνωση για το τραγικό δυστύχημα στη Ρουμανία",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/uefalogo-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "«Discombobulator»: Το μυστικό όπλο που χρησιμοποίησαν οι ΗΠΑ στην απαγωγή Μαδούρο; Ή και όχι",
@@ -215,38 +247,6 @@
           "description": "Ο ΠΑΟΚ ζήτησε από την UEFA την αναβολή του αγώνα με τη Λιόν (29/01/26, 22:00), όμως αυτή δεν σκέφτηκε καν την πιθανότητα, με αποτέλεσμα ο ...  \nTo άρθρο Λιόν – ΠΑΟΚ: Κλειστή η κερκίδα των οπαδών του ΠΑΟΚ στη Γαλλία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-opadoi-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Πυροτεχνουργοί απομάκρυναν χειροβομβίδες και βλήματα όλμου του Β' Παγκοσμίου Πολέμου από μουσείο στο Αίγιο",
-          "link": "https://www.protothema.gr/greece/article/1764420/sunagermos-sto-aigio-heirovomvides-kai-vlimata-olmou-tou-v-pp-os-ekthemata-se-mouseio/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 20:48:00 +0200",
-          "description": "Το πολεμικό υλικό έγινε αντιληπτό στο πλαίσιο έκθεσης στο Ιστορικό και Λαογραφικό Μουσείο της πόλης",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-20/peripoliko_arthrou.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Οι παίκτες του ΠΑΟΚ άφησαν λουλούδια στην Τούμπα για τα θύματα του δυστυχήματος στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/oi-paiktes-tou-paok-afisan-louloudia-stin-toumpa-gia-ta-thymata-tou-dystyximatos-sti-roumania/4585031/",
-          "pubDate": "Tue, 27 Jan 2026 18:44:17 +0000",
-          "description": "Ο Ραζβάν Λουτσέσκου, ο Αντελίνο Βιεϊρίνια και οι παίκτες του ΠΑΟΚ με λουλούδια στα χέρια έφτασαν στην Τούμπα για να τιμήσουν τους αδικοχαμένους οπαδούς του ...  \nTo άρθρο Οι παίκτες του ΠΑΟΚ άφησαν λουλούδια στην Τούμπα για τα θύματα του δυστυχήματος στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lucescu-2-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Προπόνηση υπό βροχή στο «Johan Cruyff Arena»  (pics+vids)",
-          "link": "https://www.in.gr/2026/01/27/sports/football/proponithike-sto-thryliko-johan-cruyff-arena-o-olympiakos-pics/",
-          "pubDate": "Tue, 27 Jan 2026 21:41:56 +0300",
-          "description": "Ο Ολυμπιακός προπονήθηκε στο γήπεδο του Άγιαξ, ενόψει του αυριανού (28/1) πολύ μεγάλου παιχνιδιού του Champions League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827163-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Θρηνεί ο ΠΑΟΚ: Στην Τούμπα Λουτσέσκου, Βιεϊρίνια και παίκτες",
-          "link": "https://www.in.gr/2026/01/27/sports/football/thrinei-o-paok-stin-toumpa-loutseskou-vieirinia-kai-paiktes/",
-          "pubDate": "Tue, 27 Jan 2026 21:40:33 +0300",
-          "description": "Η οικογένεια του ΠΑΟΚ βρίσκεται σε κατάσταση σοκ. Η απόλυτη «παγωμάρα». Συγκλονισμένη και όλη η ελληνική κοινωνία",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827229-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός - Βέρο Μιλάνο 1-3: Πάλεψαν με το θηρίο οι «ερυθρόλευκες»",
+          "link": "https://www.gazzetta.gr/diskovolia/volleyball-champions-league/2510757/olympiakos-bero-milano-1-3-palepsan-me-thirio-oi",
+          "pubDate": "Tue, 27 Jan 2026 22:24:05 +0200",
+          "description": "Ο Ολυμπιακός πάλεψε με την πανίσχυρη Βέρο Μιλάνο, όμως δεν απέφυγε την εντός έδρας ήττα με 3-1 σετ για το CEV Champions League γυναικών.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vero_milano.jpg?itok=ezohksbn",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Το βίντεο του Έλληνα οδηγού που περνάει από τα συντρίμμια",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510756/paok-dystyhima-sti-roymania-binteo-toy-ellina-odigoy-poy-pernaei-apo",
+          "pubDate": "Tue, 27 Jan 2026 22:21:15 +0200",
+          "description": "Λίγο μετά το τραγικό δυστύχημα στη Ρουμανία στο οποίο έχασαν την ζωή τους 7 φίλοι του ΠΑΟΚ, πέρασε από το σημείο Έλληνας οδηγός νταλίκας καταγράφοντας με το κινητό του όσα συνέβαιναν .",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/horis_titlo_4.jpg?itok=jP9a4rTv",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΛ Novibet: Ανακοίνωσε τον Ζουλιέν Νγκόι",
+          "link": "https://www.gazzetta.gr/football/superleague/2510755/ael-novibet-anakoinose-ton-zoylien-ngkoi",
+          "pubDate": "Tue, 27 Jan 2026 22:20:49 +0200",
+          "description": "Η ΑΕΛ Novibet ανακοίνωσε την απόκτηση του 28χρονου Βέλγου επιθετικού, Ζουλιέν Νγκόι μέχρι το τέλος της σεζόν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ngoy_0.jpg?itok=o1EPtf76",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Πέθανε οπαδός του Δικεφάλου στη Λάρισα",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510754/paok-dystyhima-sti-roymania-pethane-opados-toy-dikefaloy-sti-larisa",
+          "pubDate": "Tue, 27 Jan 2026 22:17:44 +0200",
+          "description": "Τραγωδία δίχως τέλος. Πέθανε οπαδός του ΠΑΟΚ στη Λάρισα όταν έμαθε για τον θάνατο του φίλου του στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_4.jpg?itok=6d00LIII",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Βίντεο με τραυματία από το νοσοκομείο",
           "link": "https://www.gazzetta.gr/football/europa-league/2510753/paok-dystyhima-sti-roymania-binteo-me-traymatia-apo-nosokomeio",
           "pubDate": "Tue, 27 Jan 2026 22:12:03 +0200",
@@ -755,10 +787,10 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς- «Αδέρφια μας εκεί ψηλά που ζείτε»",
+          "title": "Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς – «Αδέρφια μας εκεί ψηλά που ζείτε»",
           "link": "https://www.newsit.gr/athlitika/sygklonizoun-oi-anartiseis-ton-paikton-tou-paok-gia-tous-adikoxamenous-opadous-aderfia-mas-ekei-psila-pou-zeite/4585160/",
           "pubDate": "Tue, 27 Jan 2026 20:10:52 +0000",
-          "description": "Όλοι στον ΠΑΟΚ είναι συγκλονισμένοι για το τραγικό δυστύχημα στη Ρουμανία και μερικοί από τους παίκτες του Δικεφάλου έκαναν αναρτήσεις στα social media για να ...  \nTo άρθρο Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς- «Αδέρφια μας εκεί ψηλά που ζείτε» δημοσιεύτηκε στο NewsIT .",
+          "description": "Όλοι στον ΠΑΟΚ είναι συγκλονισμένοι για το τραγικό δυστύχημα στη Ρουμανία και μερικοί από τους παίκτες του Δικεφάλου έκαναν αναρτήσεις στα social media για να ...  \nTo άρθρο Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς – «Αδέρφια μας εκεί ψηλά που ζείτε» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zivkovic-2-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -953,38 +985,6 @@
           "description": "Ο ΠΑΟΚ ζήτησε από την UEFA την αναβολή του αγώνα με τη Λιόν (29/01/26, 22:00), όμως αυτή δεν σκέφτηκε καν την πιθανότητα, με αποτέλεσμα ο ...  \nTo άρθρο Λιόν – ΠΑΟΚ: Κλειστή η κερκίδα των οπαδών του ΠΑΟΚ στη Γαλλία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-opadoi-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Οι παίκτες του ΠΑΟΚ άφησαν λουλούδια στην Τούμπα για τα θύματα του δυστυχήματος στη Ρουμανία",
-          "link": "https://www.newsit.gr/athlitika/oi-paiktes-tou-paok-afisan-louloudia-stin-toumpa-gia-ta-thymata-tou-dystyximatos-sti-roumania/4585031/",
-          "pubDate": "Tue, 27 Jan 2026 18:44:17 +0000",
-          "description": "Ο Ραζβάν Λουτσέσκου, ο Αντελίνο Βιεϊρίνια και οι παίκτες του ΠΑΟΚ με λουλούδια στα χέρια έφτασαν στην Τούμπα για να τιμήσουν τους αδικοχαμένους οπαδούς του ...  \nTo άρθρο Οι παίκτες του ΠΑΟΚ άφησαν λουλούδια στην Τούμπα για τα θύματα του δυστυχήματος στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lucescu-2-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Οι αποκαλύψεις του Κάρολ: Γιατί δεν πήγε στην Μπαρτσελόνα και ποια ήταν η μεγάλη στιγμή",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2510734/oi-apokalypseis-toy-karol-giati-den-pige-stin-mpartselona-kai-poia",
-          "pubDate": "Tue, 27 Jan 2026 20:41:05 +0200",
-          "description": "Ο Τζέισι Κάρολ παίκτης-σύμβολο της Ρεάλ Μαδρίτης έκανε τον απολογισμό της αθλητικής του διαδρομής στη «βασίλισσα» στην εκπομπή «Tirando a Fallar».",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/1894174.jpg?itok=FDSSftJh",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Στην Τούμπα Λουτσέσκου, Βιεϊρίνια και παίκτες",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510733/paok-dystyhima-sti-roymania-sti-toympa-loytseskoy-bieirinia-kai",
-          "pubDate": "Tue, 27 Jan 2026 20:39:03 +0200",
-          "description": "Μαζί με τον κόσμο στην Τούμπα για να αποτίσουν φόρο τιμής στους αδικοχαμένους 7 φίλους της ομάδας βρίσκονται οι Λουτσέσκου, Βιεϊρίνια, Καρυπίδης και παίκτης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/razvan_1.jpg?itok=WmreTSxp",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Καπογιάννη: Αναλαμβάνει την Εθνική Γυναικών Λιβάνου ",
-          "link": "https://www.gazzetta.gr/basketball/2510732/kapogianni-analambanei-tin-ethniki-gynaikon-libanoy",
-          "pubDate": "Tue, 27 Jan 2026 20:37:58 +0200",
-          "description": "Η Ελένη Καπογιάννη από εδώ και στο εξής θα κοουτσάρει την Εθνική Ομάδα Γυναικών του Λιβάνου, ανοίγοντας ένα νέο κεφάλαιο στην καριέρα του.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-12/kapogianni.jpg?itok=5uPQkGs3",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Γιατί η Γαλλία καταργεί Teams και Zoom μέχρι το 2027 – Ο φόβος για τα δεδομένα και το σχέδιο Visio",
+          "link": "https://www.techgear.gr/giati-i-gallia-katargei-teams-kai-zoom-mechri-to-2027-o-fovos-gia-ta-dedomena-kai-to-schedio-visio-47351",
+          "pubDate": "Tue, 27 Jan 2026 22:18:00 +0200",
+          "description": "Η γαλλική κυβέρνηση ανακοίνωσε την οριστική της απόφαση να απομακρύνει τις αμερικανικές πλατφόρμες τηλεδιασκέψεων από τον δημόσιο τομέα. Μέχρι το ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/france-zoom.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Agentic Vision: Το επόμενο άλμα στην οπτική αντίληψη του Google Gemini",
           "link": "https://www.techgear.gr/agentic-vision-to-epomeno-alma-stin-optiki-antilipsi-toy-google-gemini-47350",
           "pubDate": "Tue, 27 Jan 2026 22:11:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Mon, 26 Jan 2026 16:42:31 +0000",
           "description": "Η Apple γιορτάζει τον Μήνα Μαύρης Ιστορίας με ένα λουράκι ειδικής έκδοσης από ανακυκλωμένο πολυεστέρα, υποστηρίζοντας οργανισμούς δημιουργικότητας σε όλο τον κόσμο.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/photo/default/apple-watch-black-unity-connection-hero_89ym.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Επίσημο το νέο Apple AirTag: Με μεγαλύτερη εμβέλεια, δυνατότερο ηχείο και υποστήριξη Apple Watch",
-          "link": "https://gr.pcmag.com/mobile-phone-accessories/51129/episemo-to-neo-apple-airtag-me-megalutere-embeleia-dunatotero-ekheio-kai-uposterixe-apple-watch",
-          "pubDate": "Mon, 26 Jan 2026 16:15:08 +0000",
-          "description": "Η δεύτερη γενιά του δημοφιλούς tracker φέρνει το τσιπ Ultra Wideband 2 για 50% ακριβέστερο εντοπισμό, ενώ διατηρεί την ίδια τιμή και τον γνώριμο σχεδιασμό του.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/n/new-apple-/new-apple-airtag-brings-improved-tracking-works-from-your-ap_3yv5.jpg",
           "source": "PC Magazine"
         }
       ]
