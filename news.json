@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T12:25:25.426Z",
+  "lastUpdated": "2026-01-27T12:30:31.987Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,11 +9,27 @@
       "color": "red",
       "articles": [
         {
+          "title": "Grand Hotel – επόμενο επεισόδιο: Αλέξανδρος και Σοφία βλέπουν τον Πέτρο και χάνουν τη γη κάτω από τα πόδια τους",
+          "link": "https://www.newsit.gr/media/grand-hotel-epomeno-epeisodio-aleksandros-kai-sofia-vlepoun-ton-petro-kai-xanoun-ti-gi-kato-apo-ta-podia-tous/4584724/",
+          "pubDate": "Tue, 27 Jan 2026 12:28:23 +0000",
+          "description": "Εξελίξεις και ανατροπές έρχονται στο νέο επεισόδιο του «Grand Hotel» που θα προβληθεί απόψε Τρίτη (27.01.2026) στις 21:00, μέσα από την συχνότητα του ΑΝΤ1. Ο ...  \nTo άρθρο Grand Hotel – επόμενο επεισόδιο: Αλέξανδρος και Σοφία βλέπουν τον Πέτρο και χάνουν τη γη κάτω από τα πόδια τους δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grand-hotel2-1-1200x715.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Καιρός – Γιώργος Τσατραφύλλιας: Ισχυρές βροχές θα χτυπήσουν την Αττική Πέμπτη, Σάββατο και Κυριακή",
+          "link": "https://www.newsit.gr/ekloges/kairos-giorgos-tsatrafyllias-isxyres-vroxes-tha-xtypisoun-tin-attiki-pempti-savvato-kai-kyriaki/4584719/",
+          "pubDate": "Tue, 27 Jan 2026 12:26:12 +0000",
+          "description": "Δύο κύματα κακοκαιρίας με ισχυρές βροχές και καταιγίδες θα πλήξουν τις επόμενες ημέρες αρκετές περιοχές της χώρας, μεταξύ των οποίων και η Αττική.  Η κακοκαιρία ...  \nTo άρθρο Καιρός – Γιώργος Τσατραφύλλιας: Ισχυρές βροχές θα χτυπήσουν την Αττική Πέμπτη, Σάββατο και Κυριακή δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kakokairia-vroxi-eurok-1-1200x798.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "ΗΠΑ: Τους 30 έφτασαν οι νεκροί από το «κύμα» πολικού ψύχους – Χωρίς ρεύμα χιλιάδες νοικοκυριά",
           "link": "https://www.newsit.gr/kosmos/ipa-tous-30-eftasan-oi-nekroi-apo-to-kyma-polikou-psyxous-xoris-reyma-xiliades-noikokyria/4584692/",
           "pubDate": "Tue, 27 Jan 2026 12:24:03 +0000",
           "description": "Οι ΗΠΑ βρίσκονται στο «έλεος» ακραίων καιρικών φαινομένων τις τελευταίες ημέρες, με τις σφοδρές χιονοπτώσεις – περισσότερα από 30 εκατοστά σε περίπου 20 πολιτείες – ...  \nTo άρθρο ΗΠΑ: Τους 30 έφτασαν οι νεκροί από το «κύμα» πολικού ψύχους – Χωρίς ρεύμα χιλιάδες νοικοκυριά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-bad-weather-reuters-1-1200x800.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-bad-weather-reuters-3-1200x800.jpg",
           "source": "NewsIT"
         },
         {
@@ -49,7 +65,7 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "Ηράκλειο Κρήτης: 31χρονη κατήγγειλε τον σύζυγο και την πεθερά της ότι την κλείδωσαν σε σπίτι για τρεις μέρες",
+          "title": "Ηράκλειο: 31χρονη κατήγγειλε τον σύζυγο και την πεθερά της ότι την κλείδωσαν σε σπίτι για τρεις μέρες",
           "link": "https://www.protothema.gr/greece/article/1764176/sunelifthisan-suzugos-kai-pethera-pou-eihan-fulakisei-31hroni-gunaika-se-spiti-sto-irakleio-tis-kritis/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 14:13:00 +0200",
           "description": "Σε βάρος τους έχει σχηματιστεί δικογραφία για ενδοοικογενειακή βία, παράνομη κατακράτηση, ενώ ο σύζυγος διώκεται και για όπλα καθώς βρέθηκε στην κατοχή του κυνηγετικά όπλα και σφαίρες",
@@ -231,22 +247,6 @@
           "description": "«Την περσινή χρονιά υλοποιήθηκαν κάποιοι στόχοι που κυνηγούσα αρκετό καιρό και αυτό με έκανε χαρούμενο», εξομολογήθηκε ο Γιώργος Καράβας σε νέα συνέντευξή του. Ο Γιώργος ...  \nTo άρθρο Γιώργος Καράβας: «Δεν με απασχολεί η κριτική των άλλων, ας με πουν ψώνιο και αλαζόνα» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/giorgos-karavas-ndp-1200x669.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Παραλία Μαραθώνα: Έπεσαν τέντες και σκέπαστρα λόγω ισχυρών ανέμων",
-          "link": "https://www.newsit.gr/ellada/paralia-marathona-epesan-tentes-kai-skepastra-logo-isxyron-anemon/4584617/",
-          "pubDate": "Tue, 27 Jan 2026 11:27:48 +0000",
-          "description": "Σοβαρές ζημιές προκλήθηκαν στην Παραλία Μαραθώνα εξαιτίας ισχυρών ανέμων που επικράτησαν στην περιοχή. Σύμφωνα με το marathopress.gr, προκλήθηκαν ζημιές σε επιχειρήσεις που βρίσκονται στην Παραλία ...  \nTo άρθρο Παραλία Μαραθώνα: Έπεσαν τέντες και σκέπαστρα λόγω ισχυρών ανέμων δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marathonas-paralia-1200x900.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συνελήφθη μεθυσμένος στρατιωτικός για επικίνδυνη οδήγηση στη Χίο, αντιστάθηκε και προκάλεσε φθορές σε περιπολικό",
-          "link": "https://www.protothema.gr/greece/article/1764151/sunelifthi-methusmenos-stratiotikos-gia-epikinduni-odigisi-sti-hio-adistathike-kai-prokalese-fthores-se-peripoliko/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 13:25:00 +0200",
-          "description": "Δικογραφία αυτόφωρης διαδικασίας σχηματίστηκε και σε βάρος της συνοδηγού του δράστη, για το αδίκημα της εξύβρισης, καθώς με ενέργειές της δυσχέρανε το έργο των αστυνομικών",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-18/astynomia-mak2.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
