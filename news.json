@@ -1,13 +1,45 @@
 {
-  "lastUpdated": "2026-01-27T16:15:43.950Z",
-  "totalArticles": 167,
+  "lastUpdated": "2026-01-27T16:20:31.841Z",
+  "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο όμιλος Μπάκου- Καϋμενάκη - Εξάρχου εξαγόρασαν το iefimerida και ανακοίνωσαν στρατηγική συνεργασία με τα Παραπολιτικά",
+          "link": "https://www.protothema.gr/greece/article/1764333/o-omilos-bakou-kaumenaki-exarhou-exagorasan-to-iefimerida-kai-anakoinosan-stratigiki-sunergasia-me-ton-omilo-kourtaki/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 18:20:23 +0200",
+          "description": "Ως πρώτο βήμα της συνεργασίας, ο κ. Ιωάννης Κουρτάκης αναλαμβάνει τα καθήκοντα του Διευθύνοντος Συμβούλου της εταιρείας NEW MEDIA που πήρε το iefimerida",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-tripli-iefimerida.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Παπαθανάσης: Παρεμβάσεις για τη βελτίωση της καθημερινότητας στο Δήμο Σερβίων Κοζάνης",
+          "link": "https://www.newsit.gr/oikonomia/xristika/papathanasis-paremvaseis-gia-ti-veltiosi-tis-kathimerinotitas-sto-dimo-servion-kozanis/4584946/",
+          "pubDate": "Tue, 27 Jan 2026 16:18:29 +0000",
+          "description": "Οι παρεμβάσεις για τον οικισμό Αυλών του Δήμου Σερβίων Κοζάνης εντάσσονται στο Ειδικό Πρόγραμμα Δίκαιης Αναπτυξιακής Μετάβασης, που αποτελεί μέρος του Εθνικού Προγράμματος Ανάπτυξης (ΕΠΑ) ...  \nTo άρθρο Παπαθανάσης: Παρεμβάσεις για τη βελτίωση της καθημερινότητας στο Δήμο Σερβίων Κοζάνης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/papathanasis-eurokinissi-2-2-1200x738.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τροχαίο δυστύχημα με οπαδούς του ΠΑΟΚ στη Ρουμανία:  Τα συλλυπητήρια του πολιτικού κόσμο",
+          "link": "https://www.newsit.gr/politikh/troxaio-dystyxima-me-opadous-tou-paok-sti-roumania-ta-syllypitiria-tou-politikou-kosmo/4584952/",
+          "pubDate": "Tue, 27 Jan 2026 16:17:10 +0000",
+          "description": "Θλίψη προκάλεσε στον πολιτικό κόσμο το τροχαίο δυστύχημα στη Ρουμανία, που κόστισε τη ζωή σε επτά φιλάθλους του ΠΑΟΚ, με πολιτειακούς και πολιτικούς παράγοντες να ...  \nTo άρθρο Τροχαίο δυστύχημα με οπαδούς του ΠΑΟΚ στη Ρουμανία:  Τα συλλυπητήρια του πολιτικού κόσμο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-romania-1200x740.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Στρασβούργο: Θερμές ευχαριστίες του Ευρωπαϊκού Δικαστηρίου Δικαιωμάτων του Ανθρώπου προς την Ελλάδα και τον Γιώργο Φλωρίδη",
+          "link": "https://www.protothema.gr/greece/article/1764326/strasvourgo-thermes-euharisties-tou-europaikou-dikastiriou-dikaiomaton-tou-anthropou-/?utm_source=rss",
+          "pubDate": "Tue, 27 Jan 2026 18:14:25 +0200",
+          "description": "Η αταλάντευτη στάση της Ελλάδας υπέρ του Δικαστηρίου, της νομιμότητας και του διεθνούς δικαίου κρίνεται εξόχως σημαντική, σημείωσε ο πρόεδρος του Δικαστηρίου",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-strasvourgo.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ο πρόεδρος της Νιγηρίας σκόνταψε σε χαλί κι έπεσε κατά την επίσκεψή του στην Τουρκία",
           "link": "https://www.newsit.gr/kosmos/o-proedros-tis-nigirias-skontapse-se-xali-ki-epese-kata-tin-episkepsi-tou-stin-tourkia/4584948/",
@@ -214,38 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 15:20:03 +0000",
           "description": "Το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία έχει συγκλονίσει όλη την Ελλάδα και επανέφερε στις μνήμες όλων το τροχαίο στα Τέμπη το ...  \nTo άρθρο Οι τραγωδίες που σημάδευσαν τον ΠΑΟΚ: Από τα Τέμπη στη Ρουμανία οι τραγικές απώλειες της ασπρόμαυρης οικογένειας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-tempi-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Θέλουμε οι μαθητές να θωρακίζονται απέναντι στην παραπληροφόρηση»: Επίσκεψη Ζαχαράκη και Μαρινάκη σε ΓΕΛ του Γέρακα",
-          "link": "https://www.protothema.gr/greece/article/1764275/theloume-oi-mathites-na-thorakizodai-apenadi-stin-parapliroforisi-episkepsi-zaharaki-kai-marinaki-se-gel-tou-geraka/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 17:18:49 +0200",
-          "description": "Στο πλαίσιο της εφαρμογής του πιλοτικού και πρωτοποριακού προγράμματος ειδησεογραφικού και πληροφοριακού γραμματισμού «Καλλιεργώντας Κριτικούς Αναγνώστες»",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-27/zaxaraki-marinakis.jpeg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Νίκος Ανδρουλάκης για πολύνεκρο τροχαίο στη Ρουμανία με οπαδούς του ΠΑΟΚ: «Είμαστε όλοι συγκλονισμένοι»",
-          "link": "https://www.newsit.gr/politikh/nikos-androulakis-gia-polynekro-troxaio-sti-roumania-me-opadous-tou-paok-eimaste-oloi-sygklonismenoi/4584889/",
-          "pubDate": "Tue, 27 Jan 2026 15:15:22 +0000",
-          "description": "Τα συλλυπητήρια του στις οικογένειες των θυμάτων του τροχαίου δυστυχήματος στη Ρουμανία, που κόστισε τη ζωή σε επτά Έλληνες οπαδούς του ΠΑΟΚ, εξέφρασε ο πρόεδρος ...  \nTo άρθρο Νίκος Ανδρουλάκης για πολύνεκρο τροχαίο στη Ρουμανία με οπαδούς του ΠΑΟΚ: «Είμαστε όλοι συγκλονισμένοι» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nikos-androulakis-pasok-3-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η ΚΑΕ ΠΑΟΚ κατέθεσε αίτημα να αναβληθεί το παιχνίδι με την Μύκονο",
-          "link": "https://www.in.gr/2026/01/27/sports/basketball/kae-paok-aitima-na-anavlithei-to-paixnidi-me-ti-mykono/",
-          "pubDate": "Tue, 27 Jan 2026 18:14:31 +0300",
-          "description": "Ο ΠΑΟΚ κατέθεσε αίτημα στον ΕΣΑΚΕ για να αναβληθεί το εντός έδρας παιχνίδι με την Μύκονο (31/1, 16:00) λόγω πένθους.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6017650-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ιταλία: Οι ΗΠΑ στέλνουν πράκτορες της ICE στους Χειμερινούς Ολυμπιακούς – «Δεν είναι καλοδεχούμενοι»",
-          "link": "https://www.newsit.gr/kosmos/italia-oi-ipa-stelnoun-praktores-tis-ice-stous-xeimerinous-olympiakous-den-einai-kalodexoumenoi/4584875/",
-          "pubDate": "Tue, 27 Jan 2026 15:09:41 +0000",
-          "description": "Μία απόφαση που προκαλεί έντονες αντιδράσεις στην Ιταλία φαίνεται πως έχει λάβει η αμερικανική κυβέρνηση, η οποία σκοπεύει να στείλει πράκτορες της ICE στη γειτονική ...  \nTo άρθρο Ιταλία: Οι ΗΠΑ στέλνουν πράκτορες της ICE στους Χειμερινούς Ολυμπιακούς – «Δεν είναι καλοδεχούμενοι» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ica-agent.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
+          "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 16:17:46 GMT",
+          "description": "He has been described as an avid outdoorsman who loved mountain biking.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/fc00db50-fb52-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Επίτροπος της ΕΕ Βίρκκουνεν καλεί τις ΗΠΑ να σεβαστούν τους ψηφιακούς κανόνες της ΕΕ",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/eu-commissioner-virkkunen-urges-the-us-to-respect-eu-digital-rules",
+          "pubDate": "Tue, 27 Jan 2026 17:07:49 +0100",
+          "description": "Συνέντευξη στο Euronews: η επίτροπος ΕΕ για τεχνολογική κυριαρχία Χέννα Βίρκουνεν: ΤΝ, έρευνα στο Grok του X και πιθανό μπλόκο στα social media σε παιδιά.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Η Μπίλι Άιλις καλεί τους διάσημους να μιλήσουν εναντίον της υπηρεσίας ICE ",
           "link": "http://gr.euronews.com/culture/2026/01/27/billie-eilisi-kalei-celebrities-se-antidrasi-kata-tis-ice",
           "pubDate": "Tue, 27 Jan 2026 17:02:46 +0100",
@@ -723,22 +739,6 @@
           "description": "Η τεχνητή νοημοσύνη μπορεί να κατανοεί τα ερωτήματα των χρηστών και να προτείνει γεύματα, εστιατόρια ή προϊόντα σούπερ μάρκετ προσαρμοσμένα στις ανάγκες τους.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Ειδήσεις | 27 Ιανουαρίου 2026 - Μεσημβρινό δελτίο",
-          "link": "http://gr.euronews.com/video/2026/01/27/eidhseis-27-ianoyarioy-2026-meshmbrino-deltio",
-          "pubDate": "Tue, 27 Jan 2026 12:00:18 +0100",
-          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 27 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "«Έντονη ανησυχία»: 40+ οικολογικές οργανώσεις ζητούν αναστολή πολυτελούς θερέτρου σε αλβανικό νησί",
-          "link": "http://gr.euronews.com/green/2026/01/27/deep-concern-over-40-environmental-groups-urge-the-luxury-resort-on-the-albanian-island-to",
-          "pubDate": "Tue, 27 Jan 2026 11:47:44 +0100",
-          "description": "Δεκάδες περιβαλλοντικές οργανώσεις καλούν την αλβανική κυβέρνηση να σταματήσει το φαραωνικό έργο στο νησί της Σάσων.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΠΑΟΚ δυστύχημα στη Ρουμανία: Η ανάρτηση του Ματίας Λεσόρ για την τραγωδία",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510694/paok-dystyhima-sti-roymania-i-anartisi-toy-matias-lesor-gia-tin-tragodia",
+          "pubDate": "Tue, 27 Jan 2026 18:17:15 +0200",
+          "description": "Ο Ματίας Λεσόρ μέσω ανάρτησης, έδειξε τη συμπαράστασή του στις οικογένειες των φίλων του ΠΑΟΚ που έχασαν τη ζωή τους στο τροχαίο δυστύχημα στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lessort_eurokinissi.jpg?itok=fuh6A_lB",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: «Περίμεναν χαρούμενοι το ταξίδι»",
+          "link": "https://www.gazzetta.gr/football/superleague/2510693/paok-dystyhima-sti-roymania-perimenan-haroymenoi-taxidi",
+          "pubDate": "Tue, 27 Jan 2026 18:15:45 +0200",
+          "description": "Η μαρτυρία στην Αλεξάνδρεια για τρεις αδικοχαμένους οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_1.jpg?itok=xYcib21l",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΠΑΕ ΑΕΚ και Ηλιόπουλος για το δυστύχημα των οπαδών του ΠΑΟΚ: «Συγκλονιστικό και θλιβερό γεγονός, κουράγιο στις οικογένειές τους»",
           "link": "https://www.gazzetta.gr/football/europa-league/2510692/pae-aek-kai-iliopoylos-gia-dystyhima-ton-opadon-toy-paok",
@@ -969,22 +985,6 @@
           "description": "Οι οργανωμένοι οπαδοί του Ολυμπιακού εκφράζουν τη θλίψη τους για τον θάνατο 7 οπαδών του ΠΑΟΚ στη Ρουμανία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/thira7.jpeg?itok=ma0PFqmA",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Συλλυπητήρια από την ΠΑΕ Παναθηναϊκός",
-          "link": "https://www.gazzetta.gr/football/superleague/2510666/paok-dystyhima-sti-roymania-syllypitiria-apo-tin-pae-panathinaikos",
-          "pubDate": "Tue, 27 Jan 2026 17:27:09 +0200",
-          "description": "Η ΠΑΕ Παναθηναϊκός και ο Ερασιτέχνης εξέφρασαν τα συλκλυπητήριά τους για την τραγωδία που βιώνει ο ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_tempi_10.jpg?itok=lfi4X6Pc",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τροχαίο με 7 νεκρούς φιλάθλους του ΠΑΟΚ στη Ρουμανία: Διαλύθηκαν τα πάντα – Εικόνες καταστροφής",
-          "link": "https://www.newsit.gr/athlitika/troxaio-me-7-nekrous-filathlous-tou-paok-sti-roumania-dialythikan-ta-panta-eikones-katastrofis/4584767/",
-          "pubDate": "Tue, 27 Jan 2026 15:26:07 +0000",
-          "description": "Το τραγικό τροχαίο που έγινε στη Ρουμανία με θύματα 7 νέα παιδιά, φιλάθλους του ΠΑΟΚ που πήγαιναν στην Γαλλία οδικώς για να δουν την αγαπημένη ...  \nTo άρθρο Τροχαίο με 7 νεκρούς φιλάθλους του ΠΑΟΚ στη Ρουμανία: Διαλύθηκαν τα πάντα – Εικόνες καταστροφής δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-cover.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Αμφίβολος με Βιλερμπάν ο Κέντρικ Ναν – Επέστρεψαν Οσμάν και Μήτογλου",
+          "link": "https://panathinaikos24.gr/2026/01/27/617987/amfivolos-me-vilermpan-o-kentrik-nan-epestrepsan-osman-kai-mitoglou/",
+          "pubDate": "Tue, 27 Jan 2026 16:17:23 +0000",
+          "description": "Ο Κέντρικ Ναν συνεχίζει το ατομικό πρόγραμμα προπόνησης, ενώ οι Τζέντι Οσμάν και Ντίνος Μήτογλου επέστρεψαν σε φουλ ρυθμούς ενόψει της αναμέτρησης του Παναθηναϊκού με τη Βιλερμπάν.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/09/4823137.jpg?fit=856%2C582&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Σοκάρει αυτόπτης μάρτυρας του δυστυχήματος στη Ρουμανία",
+          "link": "https://panathinaikos24.gr/2026/01/27/617983/sokarei-aytoptis-martyras-tou-dystyximatos-sti-roumania-den-ypirxe-kamia-pithanotita-itan-poly-epikindyno/",
+          "pubDate": "Tue, 27 Jan 2026 16:11:49 +0000",
+          "description": "Τι ανέφερε αυτόπτης μάρτυρας του δυστυχήματος.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/stighmiotipo-othonis-2026-01-27-174526.webp?fit=1300%2C700&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Παναθηναϊκός: Τα νεότερα για Οσμάν, Μήτογλου, Ναν και Γιούρτσεβεν με Βιλερμπάν!",
           "link": "https://trifilara.gr/panathinaikos-ta-neotera-gia-osman-mitoglou-nan-kai-giourtseven-me-vilerban/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ta-neotera-gia-osman-mitoglou-nan-kai-giourtseven-me-vilerban",
@@ -1009,12 +1025,28 @@
           "source": "Όλα Πράσινα"
         },
         {
+          "title": "Το μήνυμα του Μητσοτάκη για την τραγωδία στη Ρουμανία: «Βαθιά συγκλονισμένος…» – Η πρώτη κίνηση της Κυβέρνησης",
+          "link": "https://panathinaikos24.gr/2026/01/27/617981/to-minyma-tou-mitsotaki-gia-tin-tragodia-sti-roumania-vathia-sygklonismenos-i-proti-kinisi-tis-kyvernisis/",
+          "pubDate": "Tue, 27 Jan 2026 15:56:39 +0000",
+          "description": "Ο Κυριάκος Μητσοτάκης έστειλε το μήνυμά του για την τραγωδία που έλαβε χώρα στη Ρουμανία με θύματα οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2024/04/Mitsotakis-3-scaled-1.jpg?fit=1024%2C614&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!»",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/ceo-maccabi-tel-aviv-o-ataman-einai-provokatoras/?utm_source=rss&utm_medium=rss&utm_campaign=ceo-maccabi-tel-aviv-o-ataman-einai-provokatoras",
           "pubDate": "Tue, 27 Jan 2026 15:51:57 +0000",
           "description": "Ο CEO της Μακάμπι, Αβί Μπεν Ταν, σε δηλώσεις του στο «BasketNews» αναφέρθηκε στην επίθεση που δέχθηκε ο Εργκίν Αταμάν. Ο Αβί Μπεν Ταλ αναφέρει αναλυτικά στο «BasketNews»: «Η Μακάμπι Τελ Αβίβ είναι ένας σεβαστός σύλλογος που ιδρύθηκε το 1932. Ο σύλλογος είναι γνωστός για την παράδοσή του και για τους οπαδούς του, οι οποίοι […]\nThe post CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!» appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Ataman-3.jpg",
           "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Η Θύρα 13 αποχαιρέτησε τους αδικοχαμένους οπαδούς του ΠΑΟΚ: «Καλό ταξίδι αετοί»",
+          "link": "https://panathinaikos24.gr/2026/01/27/617978/i-thyra-13-apoxairetise-tous-adikoxamenous-opadous-tou-paok-kalo-taksidi-aetoi/",
+          "pubDate": "Tue, 27 Jan 2026 15:44:12 +0000",
+          "description": "Ο επίσημος σύνδεσμος οπαδών του Παναθηναϊκού, η Θύρα 13 θέλησε με τη σειρά της να αποχαιρετήσει τους αδικοχαμένους οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/12/panathinaikos_intime_kosmos_1.webp?fit=1200%2C675&amp;ssl=1",
+          "source": "Panathinaikos24"
         },
         {
           "title": "Στρέφεται ξανά σε Σλάγκερ ο Παναθηναϊκός! – Προσπάθεια να πειστεί για Ελλάδα",
@@ -1031,6 +1063,14 @@
           "description": "Οι οργανωμένοι φίλοι του Παναθηναϊκού εξέφρασαν τη συμπαράστασή τους για τον άδικο χαμό επτά οπαδών του ΠΑΟΚ. Οι οργανωμένοι οπαδοί του Παναθηναϊκού προχώρησαν σε ανάρτηση το μεσημέρι της Τρίτης (27/1), στέλνοντας μήνυμα συμπαράστασης μετά το θανατηφόρο τροχαίο δυστύχημα στη Ρουμανία, που είχε ως αποτέλεσμα τον θάνατο επτά φιλάθλων του ΠΑΟΚ. Η Θύρα 13, με μια […]\nThe post Η ανάρτηση της Θύρας 13 για το δυστύχημα με τους οπαδούς του ΠΑΟΚ! (pic) appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/oaka-opadoi-panathinaikos-1200x800-1.webp",
           "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "ΚΑΕ Παναθηναϊκός: «Βαθιά οδύνη για την απώλεια των φίλων του ΠΑΟΚ»",
+          "link": "https://panathinaikos24.gr/2026/01/27/617974/kae-panathinaikos-vathia-odyni-gia-tin-apoleia-ton-filon-tou-paok/",
+          "pubDate": "Tue, 27 Jan 2026 15:21:36 +0000",
+          "description": "Η ΚΑΕ Παναθηναϊκός θέλησε να στείλει τα συλλυπητήριά της στην οικογένεια του ΠΑΟΚ.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/paobc.jpg?fit=719%2C448&amp;ssl=1",
+          "source": "Panathinaikos24"
         },
         {
           "title": "Παναθηναϊκός: «Έκοψε» τη μεταγραφή Νιάς και όχι μόνο, επειδή… διέρρευσαν τα ονόματα!",
@@ -1057,6 +1097,14 @@
           "source": "Όλα Πράσινα"
         },
         {
+          "title": "Παναθηναϊκός: «Ανείπωτη θλίψη για τους αδικοχαμένους φιλάθλους του ΠΑΟΚ»",
+          "link": "https://panathinaikos24.gr/2026/01/27/617971/panathinaikos-aneipoti-thlipsi-gia-tous-adikoxamenous-filathlous-tou-paok/",
+          "pubDate": "Tue, 27 Jan 2026 15:07:17 +0000",
+          "description": "Η ανακοίνωση του Παναθηναϊκού.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/black1200-800-1024x683-1.jpg?fit=1024%2C683&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Η ανακοίνωση της ΠΑΕ Παναθηναϊκός για τον χαμό των οπαδών του ΠΑΟΚ!",
           "link": "https://trifilara.gr/i-anakoinosi-tis-pae-panathinaikos-gia-ton-chamo-ton-opadon-tou-paok/?utm_source=rss&utm_medium=rss&utm_campaign=i-anakoinosi-tis-pae-panathinaikos-gia-ton-chamo-ton-opadon-tou-paok",
           "pubDate": "Tue, 27 Jan 2026 15:05:14 +0000",
@@ -1081,50 +1129,106 @@
           "source": "Όλα Πράσινα"
         },
         {
+          "title": "«Καλό ταξίδι Αετόπουλα»: Το συγκινητικό μήνυμα του Ερασιτέχνη Παναθηναϊκού για τους αδικοχαμένους οπαδούς του ΠΑΟΚ",
+          "link": "https://panathinaikos24.gr/2026/01/27/617969/kalo-taksidi-aetopoula-to-sygkinitiko-minyma-tou-erasitexni-panathinaikou-gia-tous-adikoxamenous-opadous-tou-paok/",
+          "pubDate": "Tue, 27 Jan 2026 14:42:06 +0000",
+          "description": "Ο Ερασιτέχνης Παναθηναϊκός έστειλε το συλλυπητήριο μήνυμά του στους αδικοχαμένους φίλους του ΠΑΟΚ.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/04/erasitexnis-pao1.jpg?fit=680%2C460&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Οι πρώτες στιγμές μετά το σοκαριστικό τροχαίο με οπαδούς του ΠΑΟΚ στη Ρουμανία (VIDEO)",
+          "link": "https://panathinaikos24.gr/2026/01/27/617966/oi-protes-stigmes-meta-to-sokaristiko-troxaio-me-opadous-tou-paok-sti-roumania-video/",
+          "pubDate": "Tue, 27 Jan 2026 14:30:14 +0000",
+          "description": "«Πάγωσε» η Ελλάδα με το σοκαριστικό τροχαίο στη Ρουμανία με επτά οπαδούς του ΠΑΟΚ νεκρούς.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/kataghrafi-Cp8jk.webp?fit=1300%2C700&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Βίντεο – σοκ από το σοκαριστικό τροχαίο!",
+          "link": "https://panathinaikos24.gr/2026/01/27/617960/vinteo-sok-apo-to-sokaristiko-troxaio/",
+          "pubDate": "Tue, 27 Jan 2026 14:02:27 +0000",
+          "description": "Κόβει την ανάσα το βίντεο.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/paok.webp?fit=1300%2C700&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Δημοσκόπηση Metron Analysis: Η πρώτη πραγματική αναμέτρηση Καρυστιανού – Κωνσταντοπούλου έχει ξεκάθαρο νικητή",
+          "link": "https://panathinaikos24.gr/2026/01/27/617432/dimoskopisi-metron-analysis-i-proti-pragmatiki-anametrisi-karystianou-konstantopoulou-exei-ksekatharo-nikiti/",
+          "pubDate": "Tue, 27 Jan 2026 13:47:19 +0000",
+          "description": "Τι δείχνει η πρώτη δημοσκόπηση μετά τη συνέντευξη περί αμβλώσεων.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-23_08-27-22_855823-scaled-1.jpg?fit=1024%2C698&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Καιρός: Ισχυρές βροχές θα χτυπήσουν την Αττική Πέμπτη, Σάββατο και Κυριακή",
+          "link": "https://panathinaikos24.gr/2026/01/27/617941/kairos-isxyres-vroxes-tha-xtypisoun-tin-attiki-pempti-savvato-kai-kyriaki/",
+          "pubDate": "Tue, 27 Jan 2026 13:25:33 +0000",
+          "description": "Σύμφωνα με τον μετεωρολόγο Γιώργο Τσατραφύλλια, το νέο αυτό κύμα κακοκαιρίας θα χτυπήσει την Αττική το μεσημέρι της Πέμπτης, το πρωί του Σαββάτου και από το απόγευμα της Κυριακής και μετά.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/4917629.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Αδιανόητη τραγωδία στην άσφαλτο με οπαδούς του ΠΑΟΚ – Τουλάχιστον 6 νεκροί και 3 τραυματίες στη Ρουμανία",
+          "link": "https://panathinaikos24.gr/2026/01/27/617953/adianoiti-tragodia-stin-asfalto-me-opadous-tou-paok-toulaxiston-6-nekroi-kai-3-traymaties-sti-roumania/",
+          "pubDate": "Tue, 27 Jan 2026 13:17:58 +0000",
+          "description": "Τι αναφέρουν οι πρώτες πληροφορίες.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/cc341d68-troxaio-roumania.jpg?fit=1000%2C601&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Το «αντίο» του Φικάι: «Για πάντα κομμάτι της ζωής μου ο Παναθηναϊκός»",
+          "link": "https://panathinaikos24.gr/2026/01/27/617945/to-antio-tou-fikai-gia-panta-kommati-tis-zois-mou-o-panathinaikos/",
+          "pubDate": "Tue, 27 Jan 2026 13:01:49 +0000",
+          "description": "Το μήνυμα του Έλτον Φικάι μετά την οριστικοποίηση της μεταγραφής του.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4917958.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Τα εισιτήρια της «μάχης» με τον Ερυθρό Αστέρα",
+          "link": "https://panathinaikos24.gr/2026/01/27/617792/ta-eisitiria-tis-maxis-me-ton-erythro-astera/",
+          "pubDate": "Tue, 27 Jan 2026 12:48:39 +0000",
+          "description": "Τα εισιτήρια για τον προημιτελικό του Challenge Cup Γυναικών.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/ntye-1.jpg?fit=805%2C531&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Όνομα-έκπληξη: Σε ποιον δημοσιογράφο θα δώσει συνέντευξη ο Μητσοτάκης",
+          "link": "https://panathinaikos24.gr/2026/01/27/617863/onoma-ekpliksi-se-poion-dimosiografo-tha-dosei-synenteyksi-o-mitsotakis/",
+          "pubDate": "Tue, 27 Jan 2026 12:33:18 +0000",
+          "description": "Τι αναμένεται να συζητηθεί στη συνέντευξη.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5%CF%85%CE%BC%CE%BD%CE%B5%CF%84%CE%B8%CF%81%CF%85%CE%BD%CE%BC%CF%85%CF%86%CE%B3.jpg?fit=895%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Ελάχιστοι την θυμούνται: Η υποτιμημένη ταινία του Ertflix με Πατσίνο και ΜακΚόναχι αξίζει μια δεύτερη ευκαιρία",
+          "link": "https://panathinaikos24.gr/2026/01/27/617936/elaxistoi-tin-thymountai-i-ypotimimeni-tainia-tou-ertflix-me-patsino-kai-makkonaxi-aksizei-mia-deyteri-eykairia/",
+          "pubDate": "Tue, 27 Jan 2026 12:23:52 +0000",
+          "description": "Τζόγος, American Football, απληστία, φιλοδοξία άνευ όρων και 2 ηθοποιάρες – πώς να το προσπεράσεις αδιάφορα;",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/two-for-the-money-1200x747-1.jpg?fit=1200%2C747&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Βέρντερ Βρέμης – Χόφενχαϊμ με «Ενίσχυση» σε γκολ και παράδοση",
+          "link": "https://panathinaikos24.gr/2026/01/27/617930/vernter-vremis-xofenxaim-me-enisxysi-se-gkol-kai-paradosi/",
+          "pubDate": "Tue, 27 Jan 2026 12:09:53 +0000",
+          "description": "Η Χόφενχαϊμ ταξιδεύει στη Βρέμη για να αντιμετωπίσει τη Βέρντερ με το ηθικό στα ύψη.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Bremen.jpg?fit=1400%2C960&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Η Elabet αποκαλύπτει το απόλυτα «Ενισχυμένο» Sportsbook περιβάλλον",
+          "link": "https://panathinaikos24.gr/2026/01/27/617927/i-elabet-apokalyptei-to-apolyta-enisxymeno-sportsbook-perivallon-2/",
+          "pubDate": "Tue, 27 Jan 2026 12:01:04 +0000",
+          "description": "Η Elabet συνεχίζει να ανεβάζει τον πήχη στο online στοίχημα, παρουσιάζοντας ένα πλήρως αναβαθμισμένο Sportsbook, δημιουργημένο για να οδηγήσει τη νέα εποχή στο pregame και το live παιχνίδι.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/12/ElabetLogoArticles-2-1.png?fit=1200%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Ακυρώνει και τη μεταγραφή του Καμπίνι ο Παναθηναϊκός!",
           "link": "https://trifilara.gr/akyronei-kai-ti-metagrafi-tou-kabini-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=akyronei-kai-ti-metagrafi-tou-kabini-o-panathinaikos",
           "pubDate": "Tue, 27 Jan 2026 11:32:21 +0000",
           "description": "Ανατροπές και ένταση στον Παναθηναϊκό - στον «αέρα» και του Καμπινί μετά τον Κραλ.\nThe post Ακυρώνει και τη μεταγραφή του Καμπίνι ο Παναθηναϊκός! appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Έτοιμος να ακυρώσει και τη μεταγραφή Καμπίνι ο Παναθηναϊκός!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/etoimos-na-akyrosei-kai-ti-metagrafi-k/?utm_source=rss&utm_medium=rss&utm_campaign=etoimos-na-akyrosei-kai-ti-metagrafi-k",
-          "pubDate": "Tue, 27 Jan 2026 11:28:59 +0000",
-          "description": "Έντονη αναστάτωση επικρατεί στον Παναθηναϊκό, καθώς μετά την απόφαση να μην προχωρήσει η υπόθεση του Άλεξ Κραλ, όλα δείχνουν πως μπαίνει «στον πάγο» και η μεταγραφή του Σαμουκέλε Καμπίνι. Έντονη αναστάτωση επικρατεί στον Παναθηναϊκό, καθώς μετά την απόφαση να μην προχωρήσει η υπόθεση του Άλεξ Κραλ, όλα δείχνουν πως μπαίνει «στον πάγο» και η μεταγραφή […]\nThe post Έτοιμος να ακυρώσει και τη μεταγραφή Καμπίνι ο Παναθηναϊκός! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/kabini-cover.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Επίσημο: Παρελθόν ο Φικάι από τον Παναθηναϊκό! – Ο όρος στη μεταγραφή",
-          "link": "https://trifilara.gr/episimo-parelthon-o-fikai-apo-ton-panathinaiko-o-oros-sti-metagrafi/?utm_source=rss&utm_medium=rss&utm_campaign=episimo-parelthon-o-fikai-apo-ton-panathinaiko-o-oros-sti-metagrafi",
-          "pubDate": "Tue, 27 Jan 2026 11:17:27 +0000",
-          "description": "Παρελθόν και επίσημα αποτελεί ο Έλτον Φικάι από τον Παναθηναϊκό.\nThe post Επίσημο: Παρελθόν ο Φικάι από τον Παναθηναϊκό! – Ο όρος στη μεταγραφή appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Παναθηναϊκός: Τέλος και επίσημα ο Φικάι! – Η επόμενη ομάδα του και ο όρος – κλειδί (pic)",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-telos-kai-episima-o-fika/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-telos-kai-episima-o-fika",
-          "pubDate": "Tue, 27 Jan 2026 11:14:49 +0000",
-          "description": "Με ανακοίνωση που εξέδωσε, η ΠΑΕ Παναθηναϊκός επισημοποίησε την παραχώρηση του Έλτον Φικάι. Όπως επισημαίνεται από την ΠΑΕ, οι «πράσινοι» διατήρησαν ποσοστό μεταπώλησης, καθώς ο παίκτης παραχωρήθηκε άνευ αντιτίμου. Αναλυτικά η ανακοίνωση: H ΠΑΕ Παναθηναϊκός ανακοινώνει την παραχώρηση του Έλτον Φικάι στην πολωνική Πιάστ Γκλίβιτσε. Ο Έλτον εντάχθηκε στις ακαδημίες του συλλόγου το 2018 και […]\nThe post Παναθηναϊκός: Τέλος και επίσημα ο Φικάι! – Η επόμενη ομάδα του και ο όρος – κλειδί (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2024/07/Fikaj.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Απόφαση Γιαννακόπουλου για οικονομική υπέρβαση με στόχο τον εκλεκτό στο «4»!",
-          "link": "https://trifilara.gr/apofasi-giannakopoulou-gia-oikonomiki-ypervasi-me-stocho-ton-eklekto-sto-4/?utm_source=rss&utm_medium=rss&utm_campaign=apofasi-giannakopoulou-gia-oikonomiki-ypervasi-me-stocho-ton-eklekto-sto-4",
-          "pubDate": "Tue, 27 Jan 2026 11:05:48 +0000",
-          "description": "Σε πλήρη εγρήγορση βρίσκεται ο Παναθηναϊκός, παρακολουθώντας στενά τις εξελίξεις στην αγορά του NBA, έχοντας ολοκληρώσει την απαραίτητη προεργασία και εμφανιζόμενος έτοιμος να κινηθεί άμεσα, εφόσον παρουσιαστεί η κατάλληλη περίπτωση.\nThe post Απόφαση Γιαννακόπουλου για οικονομική υπέρβαση με στόχο τον εκλεκτό στο «4»! appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Ακύρωσε τη μεταγραφή του Κραλ ο Παναθηναϊκός!",
-          "link": "https://trifilara.gr/akyrose-ti-metagrafi-tou-kral-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=akyrose-ti-metagrafi-tou-kral-o-panathinaikos",
-          "pubDate": "Tue, 27 Jan 2026 11:00:37 +0000",
-          "description": "Παράλληλα με την υπόθεση του Άλεξ Κραλ, ο Παναθηναϊκός είχε «τρέξει» και δεύτερη περίπτωση για τη μεσαία γραμμή, δείχνοντας από νωρίς ότι δεν θα άφηνε τίποτα στην τύχη του. \nThe post Ακύρωσε τη μεταγραφή του Κραλ ο Παναθηναϊκός! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
         }
