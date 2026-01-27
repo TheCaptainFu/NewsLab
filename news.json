@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-01-27T20:10:32.291Z",
+  "lastUpdated": "2026-01-27T20:15:30.893Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Θεσσαλονίκη: 52χρονος ομολόγησε τη δολοφονία 46χρονης που αγνοούνταν – Φόβοι των Αρχών για κατά συρροή εγκλήματα",
+          "link": "https://www.newsit.gr/ellada/thessaloniki-52xronos-omologise-ti-dolofonia-46xronis-pou-agnoountan-fovoi-ton-arxon-gia-kata-syrroi-egklimata/4585169/",
+          "pubDate": "Tue, 27 Jan 2026 20:13:28 +0000",
+          "description": "To άρθρο Θεσσαλονίκη: 52χρονος ομολόγησε τη δολοφονία 46χρονης που αγνοούνταν – Φόβοι των Αρχών για κατά συρροή εγκλήματα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektakto-3-1200x675.jpeg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς- «Αδέρφια μας εκεί ψηλά που ζείτε»",
+          "link": "https://www.newsit.gr/athlitika/sygklonizoun-oi-anartiseis-ton-paikton-tou-paok-gia-tous-adikoxamenous-opadous-aderfia-mas-ekei-psila-pou-zeite/4585160/",
+          "pubDate": "Tue, 27 Jan 2026 20:10:52 +0000",
+          "description": "Όλοι στον ΠΑΟΚ είναι συγκλονισμένοι για το τραγικό δυστύχημα στη Ρουμανία και μερικοί από τους παίκτες του Δικεφάλου έκαναν αναρτήσεις στα social media για να ...  \nTo άρθρο Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς- «Αδέρφια μας εκεί ψηλά που ζείτε» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zivkovic-2-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Μία νύχτα μόνο – επόμενα επεισόδια: Ο Οδυσσέας αρνείται να συγχωρήσει τη μητέρα του που τους χώρισε με την Αρετή",
           "link": "https://www.newsit.gr/media/mia-nyxta-mono-epomena-epeisodia-o-odysseas-arneitai-na-sygxorisei-ti-mitera-tou-pou-tous-xorise-me-tin-areti/4581875/",
@@ -53,7 +69,7 @@
           "link": "https://www.protothema.gr/greece/article/1764450/eglima-i-exafanisi-46hronis-sti-thessaloniki-tin-epnixan-kai-tin-petaxan-sta-skoupidia/?utm_source=rss",
           "pubDate": "Tue, 27 Jan 2026 21:45:00 +0200",
           "description": "Η μία γυναίκα είχε εξαφανιστεί από τον Σεπτέμβριο του 2024 και η άλλη από το καλοκαίρι του 2025",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-astynomia-brady.jpg",
+          "thumbnail": null,
           "source": "Πρώτο Θέμα"
         },
         {
@@ -103,6 +119,14 @@
           "description": "Ακόμη ένας άνθρωπος δέχτηκε σφαίρα από πυρά πρακτόρων της ICE στην Αριζόνα, μετά τις δολοφονίες που σημειώθηκαν στη Μινεάπολη στις ΗΠΑ τις τελευταίες 2 εβδομάδες ...  \nTo άρθρο ΗΠΑ: Νέο περιστατικό με πυροβολισμούς από πράκτορες της ICE κατά πολιτών – Ένας σοβαρά τραυματίας στην Αριζόνα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ice-usa-arizona.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Κλίνατε επ’ ακροδεξιά: Εξέχοντα στελέχη του βρετανικού Συντηρητικού Κόμματος μεταπηδούν στο κόμμα του Φάρατζ",
+          "link": "https://www.in.gr/2026/01/27/world/klinate-ep-akrodeksia-eksexonta-stelexi-tou-vretanikou-syntiritikou-kommatos-metapidoun-sto-komma-tou-faratz/",
+          "pubDate": "Tue, 27 Jan 2026 22:13:25 +0300",
+          "description": "Η πρώην υπουργός Εσωτερικών της Βρετανίας, Σουέλα Μπρέιβμαν ανακοίνωσε ότι φεύγει από το Συντηρητικό Κόμμα και εντάσσεται στο Reform UK του λαϊκιστή Φάρατζ. Δεν είναι η πρώτη –ίσως ούτε η τελευταία.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T141512Z_1928368539_RC209JA7ER67_RTRMADP_5_BRITAIN-POLITICS-REFORM-768x490.jpg",
+          "source": "In.gr"
         },
         {
           "title": "HSBC για τη «μητέρα όλων των συμφωνιών»: Ιστορικό deal ΕΕ και Ινδίας, που αντιπροσωπεύουν το 25% του παγκόσμιου ΑΕΠ",
@@ -223,30 +247,6 @@
           "description": "Το ντοκιμαντέρ για τη Μελάνια αντιμετωπίζει δυσκολίες στις κινηματογραφικές αίθουσες του Ηνωμένου Βασιλείου, καθώς οι ειδικοί παραδέχονται ότι οι πωλήσεις είναι «χαμηλές».",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T204346Z_192962125_RC279JAZ70L6_RTRMADP_5_USA-TRUMP-MOVIE-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Σκανδαλίδης: Δεν έχουν όριο η προπαγάνδα και ο γκεμπελισμός της ΝΔ",
-          "link": "https://www.in.gr/2026/01/27/politics/politiki-grammateia/skandalidis-den-exoun-orio-propaganda-kai-o-gkempelismos-tis-nd/",
-          "pubDate": "Tue, 27 Jan 2026 21:37:03 +0300",
-          "description": "«Η άθλια απόπειρα διαστρέβλωσης της κατάθεσής μου από τη ΝΔ, δηλώνει με τον πλέον κυνικό τρόπο ότι η παράταξη που κατά την επταετή θητεία της συγκλονίζει τη χώρα με σειρά σκανδάλων, με αποκορύφωμα το σκάνδαλο του ΟΠΕΚΕΠΕ, δεν ορρωδεί προ ουδενός», λέει ο Κώστας Σκανδαλίδης",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/TSE_2_GIAN-3-768x513.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ο Άρης Μουγκοπέτρος έκοψε τα μαλλιά του και τα χάρισε σε καρκινοπαθείς",
-          "link": "https://www.newsit.gr/lifestyle/o-aris-mougkopetros-ekopse-ta-mallia-tou-kai-ta-xarise-se-karkinopatheis/4585081/",
-          "pubDate": "Tue, 27 Jan 2026 18:34:52 +0000",
-          "description": "Μία άκρως συγκινητική κίνηση έκανε ο Άρης Μουγκοπέτρος, προκειμένου να χαρίσει χαμόγελα σε ανθρώπους που δίνουν μεγάλες μάχες ζωής. Ο γνωστός μουσικός την Τρίτη (27.01.2026) ...  \nTo άρθρο Ο Άρης Μουγκοπέτρος έκοψε τα μαλλιά του και τα χάρισε σε καρκινοπαθείς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-mougkopetros-1200x761.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ελλάδα – Γαλλία 23-5: «Περίπατος» για την Εθνική πόλο γυναικών στο ευρωπαϊκό πρωτάθλημα",
-          "link": "https://www.newsit.gr/athlitika/ellada-gallia-23-5-peripatos-gia-tin-ethniki-polo-gynaikon-sto-eyropaiko-protathlima/4585085/",
-          "pubDate": "Tue, 27 Jan 2026 18:31:37 +0000",
-          "description": "Η Εθνική πόλο γυναικών δεν αντιμετώπισε κανένα πρόβλημα κόντρα στη Γαλλία και κέρδισε με 23-5 για να πάρει την πρόκριση για τη Β’ φάση του ...  \nTo άρθρο Ελλάδα – Γαλλία 23-5: «Περίπατος» για την Εθνική πόλο γυναικών στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pleuritou-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -509,6 +509,22 @@
           "source": "BBC News"
         },
         {
+          "title": "Ιράν: Φόβοι για δεκάδες χιλιάδες νεκρούς στις διαδηλώσεις",
+          "link": "http://gr.euronews.com/2026/01/27/iran-foboi-gia-dekades-xiliades-nekroys-stis-diadhlwseis",
+          "pubDate": "Tue, 27 Jan 2026 19:51:29 +0100",
+          "description": "Μπλακ άουτ επικοινωνιών, αντικρουόμενες εκτιμήσεις και καταγγελίες για συστηματική εξόντωση τραυματιών",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Ανάλυση: Οι διαμαρτυρίες του Ιράν και η παγκόσμια ευθύνη",
+          "link": "http://gr.euronews.com/2026/01/27/analysh-oi-diamartyries-toy-iran-kai-h-pagkosmia-ey8ynh",
+          "pubDate": "Tue, 27 Jan 2026 19:11:43 +0100",
+          "description": "Οι αναλυτές συμφωνούν ότι το καθεστώς του Ιράν αποφάσισε μαζικές δολοφονίες για να επιβιώσει των διαδηλώσεων που προκλήθηκαν από την οικονομική κατάρρευση, με σαφείς εντολές για θανατηφόρα βία εναντίον άοπλων διαδηλωτών.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "TikTok US pushes back on claims it is censoring content",
           "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 17:53:26 GMT",
@@ -525,12 +541,36 @@
           "source": "BBC News"
         },
         {
+          "title": "Γαλλίδα βουλευτής ζητά «να λάμψει η αλήθεια» στη δίκη πρώην γερουσιαστή",
+          "link": "http://gr.euronews.com/2026/01/27/gallida-boyleyths-zhta-na-lampsei-h-alh8eia-sth-dikh-prwhn-geroysiasth",
+          "pubDate": "Tue, 27 Jan 2026 18:35:13 +0100",
+          "description": "Καταγγελία για χορήγηση ναρκωτικών με σκοπό τη σεξουαλική επίθεση – «Φοβήθηκα ότι θα με βιάσει»",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "TikTok settles just before social media addiction trial to begin",
           "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 17:31:54 GMT",
           "description": "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5753/live/bfdc78e0-fba8-11f0-b852-153f64f31c74.jpg",
           "source": "BBC News"
+        },
+        {
+          "title": "Ισπανία: Η κυβέρνηση ανακοίνωσε βοήθεια για τα θύματα των σιδηροδρομικών δυστυχημάτων",
+          "link": "http://gr.euronews.com/2026/01/27/ispania-h-kybernhsh-anakoinwse-boh8eia-gia-ta-8ymata-twn-sidhrodromikwn-dystyxhmatwn",
+          "pubDate": "Tue, 27 Jan 2026 18:21:26 +0100",
+          "description": "Το Υπουργικό Συμβούλιο ενέκρινε μια σειρά επειγόντων μέτρων για τη στήριξη των θυμάτων των σιδηροδρομικών δυστυχημάτων Adamuz και Gelida. Ο υπουργός Μεταφορών διαβεβαίωσε ότι η συνείδησή του είναι \"καθαρή\"- το Εθνικό Ανώτατο Δικαστήριο κίνησε προκαταρκτική διαδικασία εναντίον του.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Οι άνθρωποι στην κεντρική Κίνα κατασκεύαζαν εργαλεία με λαβές πριν από 70.000 χρόνια",
+          "link": "http://gr.euronews.com/culture/2026/01/27/oi-an8rwpoi-sthn-kentrikh-kina-kataskeyazan-ergaleia-me-labes-prin-apo-70000-xronia",
+          "pubDate": "Tue, 27 Jan 2026 18:12:08 +0100",
+          "description": "Μια διεθνής μελέτη τεκμηριώνει την παραγωγή και τη συνεχή χρήση εργαλείων με πέτρινη λαβή στην κεντρική Κίνα μεταξύ 160.000 και 72.000 ετών πριν, μια τεχνολογική καινοτομία νωρίτερα από ό,τι είχε θεωρηθεί στην Ανατολική Ασία.",
+          "thumbnail": null,
+          "source": "Euronews"
         },
         {
           "title": "Canadian PM Carney denies walking back Davos speech in phone call with Trump",
@@ -549,12 +589,52 @@
           "source": "BBC News"
         },
         {
+          "title": "Εργασία κατά τη διάρκεια των σπουδών: Ποιες χώρες της ΕΕ έχουν τα υψηλότερα ποσοστά και γιατί;",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/ergasia-kata-ti-diarkeia-ton-spoydon-poies-xores-tis-ee-exoyn-ta-ipsilotera-pososta-giati",
+          "pubDate": "Tue, 27 Jan 2026 18:06:34 +0100",
+          "description": "Η εργασία κατά τη διάρκεια των σπουδών δεν αποτελεί κανόνα για τους περισσότερους εργαζόμενους στην ΕΕ. Ωστόσο, η οικονομική ανάγκη και οι φιλοδοξίες σταδιοδρομίας μπορεί να παρακινήσουν ορισμένους να το κάνουν.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Ειδήσεις | 27 Ιανουαρίου 2026 - Βραδινό δελτίο",
+          "link": "http://gr.euronews.com/video/2026/01/27/eidhseis-27-ianoyarioy-2026-bradino-deltio",
+          "pubDate": "Tue, 27 Jan 2026 18:00:19 +0100",
+          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 27 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Spain plans to give half a million undocumented migrants legal status",
           "link": "https://www.bbc.com/news/articles/c62n6gw1dp9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 16:59:49 GMT",
           "description": "The process will be available to foreign nationals without a criminal record who can prove they lived in Spain for five months prior to 31 December 2025.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c743/live/4120f660-fb9a-11f0-a1ee-f9a3598885a9.jpg",
           "source": "BBC News"
+        },
+        {
+          "title": "Επίτροπος Κουμπίλιους: «Η ΕΕ διαθέτει δικό της ασφαλές και κρυπτογραφημένο σύστημα δορυφορικής επικοινωνίας»",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/kubilius-eu",
+          "pubDate": "Tue, 27 Jan 2026 17:44:48 +0100",
+          "description": "Οκτώ δορυφόροι από πέντε διαφορετικά κράτη μέλη συγκεντρώνονται επί του παρόντος στο πλαίσιο του GOVSATCOM. Η Επιτροπή ελπίζει ότι αυτό είναι το πρώτο βήμα για λιγότερη εξάρτηση από τις ΗΠΑ - τα δικά τους συστήματα επικοινωνίας είναι πολύ πιο ώριμα.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Κ. Τασούλας: Βαθιά θλίψη και συλλυπητήρια για το τροχαίο με οπαδούς του ΠΑΟΚ στη Ρουμανία",
+          "link": "http://gr.euronews.com/2026/01/27/k-tasoylas-ba8ia-8lipsh-kai-syllyphthria-gia-to-troxaio-me-opadoys-toy-paok-sth-roymania",
+          "pubDate": "Tue, 27 Jan 2026 17:39:41 +0100",
+          "description": "Κ. Μητσοτάκης: «Βαθιά συγκλονισμένος πληροφορήθηκα το τραγικό δυστύχημα στη Ρουμανία που στοίχισε τη ζωή σε 7 νέους συμπατριώτες μας»",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Η καταιγίδα Τσάντρα προκαλεί πλημμύρες και διακοπές ρεύματος σε όλη την Ιρλανδία",
+          "link": "http://gr.euronews.com/video/2026/01/27/storm-chandra-has-caused-flooding-and-power-outages-across-ireland",
+          "pubDate": "Tue, 27 Jan 2026 17:36:09 +0100",
+          "description": "Η καταιγίδα Τσάντρα προκάλεσε σφοδρές πλημμύρες σε όλη την Ιρλανδία. Στο Δουβλίνο, οι υπηρεσίες έκτακτης ανάγκης απεγκλωβίζουν οδηγούς από τα νερά. 30.000 άνθρωποι χωρίς ρεύμα.",
+          "thumbnail": null,
+          "source": "Euronews"
         },
         {
           "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
@@ -565,12 +645,60 @@
           "source": "BBC News"
         },
         {
+          "title": "Επίτροπος της ΕΕ Βίρκκουνεν καλεί τις ΗΠΑ να σεβαστούν τους ψηφιακούς κανόνες της ΕΕ",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/eu-commissioner-virkkunen-urges-the-us-to-respect-eu-digital-rules",
+          "pubDate": "Tue, 27 Jan 2026 17:07:49 +0100",
+          "description": "Συνέντευξη στο Euronews: η επίτροπος ΕΕ για τεχνολογική κυριαρχία Χέννα Βίρκουνεν: ΤΝ, έρευνα στο Grok του X και πιθανό μπλόκο στα social media σε παιδιά.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Η Μπίλι Άιλις καλεί τους διάσημους να μιλήσουν εναντίον της υπηρεσίας ICE ",
+          "link": "http://gr.euronews.com/culture/2026/01/27/billie-eilisi-kalei-celebrities-se-antidrasi-kata-tis-ice",
+          "pubDate": "Tue, 27 Jan 2026 17:02:46 +0100",
+          "description": "Η δολοφονία του 37χρονου νοσηλευτή Alex Pretti προκάλεσε μαζικές διαμαρτυρίες και η ποπ σταρ Billie Eilish καλεί περισσότερους να μιλήσουν κατά των ενεργειών της ICE.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "«Κάτοικοι στα όριά τους»: Ιταλική κοιλάδα περιορίζει πρόσβαση σε διάσημο φωτογραφικό σημείο",
+          "link": "http://gr.euronews.com/travel/2026/01/27/residents-have-reached-breaking-point-italian-valley-restricts-access-to-famed-photo-spot",
+          "pubDate": "Tue, 27 Jan 2026 16:52:43 +0100",
+          "description": "Η εξέλιξη έρχεται μετά τις διαμαρτυρίες κατοίκων για την κίνηση και τους τουρίστες που καταλαμβάνουν τις θέσεις στάθμευσης και παραβιάζουν ιδιωτική περιουσία.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Το TikTok ερευνά μπλοκάρισμα βίντεο για «Έπσταϊν» και κατά του Τραμπ, με καταγγελίες για λογοκρισία",
+          "link": "http://gr.euronews.com/next/2026/01/27/tiktok-is-investigating-reports-of-blocking-videos-related-to-epstein-and-those-critical-o",
+          "pubDate": "Tue, 27 Jan 2026 16:22:33 +0100",
+          "description": "Η αντιπαράθεση έρχεται στον απόηχο μιας ευρείας κλίμακας αναδιάρθρωσης των δραστηριοτήτων της TikTok στις Ηνωμένες Πολιτείες.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Rwanda takes legal action against UK over axed migrant deal",
           "link": "https://www.bbc.com/news/articles/czx32yxnvzro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 15:17:38 GMT",
           "description": "The African nation argues it is owed payments but Downing Street says it will fight the case.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8177/live/7b11f3e0-fb8d-11f0-bd4c-9d8c48f8eab8.png",
           "source": "BBC News"
+        },
+        {
+          "title": "Ουκρανία: Δεκάδες τραυματίες σε νυχτερινές ρωσικές επιθέσεις - Καταστροφές σε σπίτια και υποδομές",
+          "link": "http://gr.euronews.com/2026/01/27/oykrania-dekades-traymaties-se-nixterines-rosikes-epitheseis-katastrofes-spitia-ypodomes",
+          "pubDate": "Tue, 27 Jan 2026 16:16:56 +0100",
+          "description": "Η πόλη Κρίβι Ριχ, γενέτειρα του Βολοντίμιρ Ζελένσκι, έπισης έγινε στόχος  βομβαρδισμών κατά τη διάρκεια της νύχτας",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Από τη Φινλανδία έως τη Γροιλανδία: Ρωγμές στο μέλλον των παγοθραυστικών στην Αρκτική",
+          "link": "http://gr.euronews.com/green/2026/01/27/from-finland-to-greenland-how-cracks-are-appearing-in-the-future-of-arctic-ice-breaking",
+          "pubDate": "Tue, 27 Jan 2026 16:08:40 +0100",
+          "description": "Αντί να διευκολύνει τη ναυσιπλοΐα στην Αρκτική, η κλιματική αλλαγή καθιστά τον πάγο παχύτερο, πιο κινητικό και πιο επικίνδυνο σε ορισμένες περιοχές.",
+          "thumbnail": null,
+          "source": "Euronews"
         },
         {
           "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
@@ -581,164 +709,36 @@
           "source": "BBC News"
         },
         {
-          "title": "'Crying horse' toys go viral in China ahead of Lunar New Year",
-          "link": "https://www.bbc.com/news/articles/c70l7zndy3jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 14:05:17 GMT",
-          "description": "Shop owners say the frowning toys - originally made in error - are resonating with young workers.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a78/live/e6b6c3b0-fb78-11f0-9fd1-99e08ea50909.jpg",
-          "source": "BBC News"
+          "title": "Τι στρατιωτικό υλικό φέρει το USS Abraham Lincoln, το πυρηνοκίνητο αεροπλανοφόρο στη Μέση Ανατολή",
+          "link": "http://gr.euronews.com/next/2026/01/27/what-military-hardware-is-on-the-uss-abraham-lincoln-the-nuclear-powered-carrier-is-curren",
+          "pubDate": "Tue, 27 Jan 2026 15:45:46 +0100",
+          "description": "Το Αμερικανικό Ναυτικό χαρακτηρίζει το USS Abraham Lincoln ως «το μεγαλύτερο πολεμικό πλοίο στον κόσμο», ικανό να μεταφέρει πάνω από 65 αεροσκάφη και 97.000 τόνους εξοπλισμού.",
+          "thumbnail": null,
+          "source": "Euronews"
         },
         {
-          "title": "Watch: Huge landslide in Sicily after Storm Harry",
-          "link": "https://www.bbc.com/news/videos/cql4p6w2gl5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:42:09 GMT",
-          "description": "More than 1,000 residents have been evacuated from their homes on the Italian island.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2305/live/458e8550-fb7c-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
+          "title": "Εκατοντάδες Μπαγκλαντεσιανοί εξαπατήθηκαν και στάλθηκαν ως στρατιώτες στη Ρωσία",
+          "link": "http://gr.euronews.com/2026/01/27/ekatontades-mpagklantesianoi-e3apath8hkan-kai-stal8hkan-ws-stratiwtes-sth-rwsia",
+          "pubDate": "Tue, 27 Jan 2026 15:40:24 +0100",
+          "description": "Υποσχέσεις για δουλειά μετατράπηκαν σε στρατιωτικά καθήκοντα στο μέτωπο – τουλάχιστον 40 αγνοούμενοι ή νεκροί",
+          "thumbnail": null,
+          "source": "Euronews"
         },
         {
-          "title": "'It's 2C in our flat': Inside Kyiv apartment as Russia targets power and heating",
-          "link": "https://www.bbc.com/news/videos/crlepd1pkwxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:32:22 GMT",
-          "description": "Russian strikes targeting energy infrastructure have left millions without power in freezing temperatures.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32c8/live/8bb60870-fb7a-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
+          "title": "Σκωτσέζοι Βίκινγκ παρελαύνουν στους δρόμους για τις εκδηλώσεις του Up Helly Aa",
+          "link": "http://gr.euronews.com/video/2026/01/27/scottish-vikings-march-through-the-streets-for-up-helly-aa-festivities",
+          "pubDate": "Tue, 27 Jan 2026 15:30:39 +0100",
+          "description": "Εκατοντάδες Βίκινγκ στο Λέργουικ γιόρτασαν το Up Helly Aa με λαμπαδηφορία, που ολοκληρώθηκε με την τελετουργική πυρπόληση ενός αντίγραφου δράκαρ.",
+          "thumbnail": null,
+          "source": "Euronews"
         },
         {
-          "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
-          "link": "https://www.bbc.com/news/articles/c4gw49gk13xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:26:00 GMT",
-          "description": "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9095/live/97688110-fb71-11f0-b7fd-f5e7f9ed0815.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "India and EU announce 'mother of all trade deals'",
-          "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:23:54 GMT",
-          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "One Battle After Another leads Bafta nominations",
-          "link": "https://www.bbc.com/news/articles/cwyn2gqwx9ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:15:13 GMT",
-          "description": "The political thriller has 14 nominations, with Sinners, Hamnet and Marty Supreme also recognised.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c94/live/ea4594f0-fb66-11f0-a47f-d352a7d9988a.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Deadly US winter storm leaves flights delayed and thousands without power",
-          "link": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 10:20:58 GMT",
-          "description": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d26f/live/90590740-fb04-11f0-8d99-4d63080b9583.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump raises US tariffs on South Korea imports to 25%",
-          "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 09:56:04 GMT",
-          "description": "Trump has accused Seoul of \"not living up\" to a trade deal that was reached last year.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5081/live/22f93670-fb18-11f0-a2c0-71839ce781f8.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Philippines' Duterte fit to face ICC proceedings, judges say",
-          "link": "https://www.bbc.com/news/articles/c0lx2pj84l4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 07:12:55 GMT",
-          "description": "The 80-year-old is accused of crimes of humanity over his bloody war on drugs that left thousands killed.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/801b/live/07d9eec0-fb4a-11f0-8a3f-efae3b17f55b.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
-          "link": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 05:37:52 GMT",
-          "description": "Under the plan, access to the Meta platforms' core services would remain free.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa4/live/f5a13ad0-fb38-11f0-9ffe-0d55f5bffcbe.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Japan court orders compensation for migrants lured to North Korea",
-          "link": "https://www.bbc.com/news/articles/c23r2l81708o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 02:23:45 GMT",
-          "description": "The plaintiffs said North Korea was marketed to them as \"paradise on Earth\".",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b5/live/2716d0d0-fb1f-11f0-95a7-23b039032098.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "'Major step': French MPs vote in favour of bill to ban social media for under-15s",
-          "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 01:12:19 GMT",
-          "description": "If the bill passes the upper house it could take effect by the start of France's new school year in September.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/4c7fd700-fab0-11f0-91f4-a739ab96be22.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Can India be a player in the computer chip industry?",
-          "link": "https://www.bbc.com/news/articles/cn40j0772vwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 00:05:55 GMT",
-          "description": "India is investing hundreds of millions of dollars in building up a computer chip industry.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6a/live/1dc87370-f5e4-11f0-b5f7-49f0357294ff.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "China has purged its highest-ranked military general. Why?",
-          "link": "https://www.bbc.com/news/articles/c8d0l0g8yz5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 23:19:47 GMT",
-          "description": "Zhang Youxia had been seen as a close ally of China's leader, Xi Jinping.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089d/live/38fd3230-fa84-11f0-8536-010c68f74629.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
-          "link": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 21:34:40 GMT",
-          "description": "Footage from a hospital in Tehran shows at least 31 bodies piled inside and seven body bags outside.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f7d/live/4b963ab0-fafa-11f0-a47f-d352a7d9988a.png",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
-          "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 21:18:39 GMT",
-          "description": "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c904/live/b6c30c30-fb65-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Deadly winter storm grips large parts of the US",
-          "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 10:17:05 GMT",
-          "description": "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/780d/live/ffabd240-fa9f-11f0-b385-5f48925de19a.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "'I spent £2,000 on one event': Why Gen Z is obsessed with Hyrox",
-          "link": "https://www.bbc.com/news/articles/cj0nmj72v8ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 00:45:40 GMT",
-          "description": "How young millennials and Generation Z - people in their twenties to early forties - have become obsessed with this fitness craze.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8d7/live/bd1afc30-f216-11f0-8f9d-7304521a922a.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Murder and MI5: How an extraordinary battle erupted over what the state keeps secret",
-          "link": "https://www.bbc.com/news/articles/c1w94v205y2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Jan 2026 00:25:19 GMT",
-          "description": "Can the state, especially when it is implicated in killing, be trusted as the arbiter of what should remain confidential?",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/121e/live/0b789990-faab-11f0-b385-5f48925de19a.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting",
-          "link": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Jan 2026 22:29:48 GMT",
-          "description": "The gun-lobby group, typically aligned with Trump, criticises a suggestion that those who carry guns risk being lawfully shot.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32a6/live/87ac7320-fa32-11f0-a26c-15c7ecb8d30d.png",
-          "source": "BBC News"
+          "title": "Mine Yildirim: Η αλλαγή νοοτροπίας του κόσμου σε σχέση με τα αδέσποτα απαιτεί συνεχή εκπαίδευση",
+          "link": "http://gr.euronews.com/culture/2026/01/27/mine-yildirim-i-alagi-nootropias-tou-kosmou-se-shesi-me-ta-adespota-apeti-sinehi-ekpedefsi",
+          "pubDate": "Tue, 27 Jan 2026 15:12:54 +0100",
+          "description": "Η Τουρκάλα ακαδημαϊκός που καταγράφει την ιστορία των αδέσποτων σκυλιών της Κωνσταντινούπολης από το 1910 έως τις μέρες μας, δίνει μια ομιλία στο ΕΜΣΤ την Πέμπτη 29/1  με θέμα «Μεταξύ φροντίδας και βίας: τα σκυλιά της Κωνσταντινούπολης».",
+          "thumbnail": null,
+          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Βίντεο με τραυματία από το νοσοκομείο",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510753/paok-dystyhima-sti-roymania-binteo-me-traymatia-apo-nosokomeio",
+          "pubDate": "Tue, 27 Jan 2026 22:12:03 +0200",
+          "description": "Συγκλονιστικό βίντεο από το νοσοκομείο της Τιμισοάρα, όπου ένας από τους τραυματίες οπαδούς του ΠΑΟΚ μεταφέρεται έχοντας τις αισθήσεις του.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/video.jpg?itok=4G2igIb0",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς- «Αδέρφια μας εκεί ψηλά που ζείτε»",
+          "link": "https://www.newsit.gr/athlitika/sygklonizoun-oi-anartiseis-ton-paikton-tou-paok-gia-tous-adikoxamenous-opadous-aderfia-mas-ekei-psila-pou-zeite/4585160/",
+          "pubDate": "Tue, 27 Jan 2026 20:10:52 +0000",
+          "description": "Όλοι στον ΠΑΟΚ είναι συγκλονισμένοι για το τραγικό δυστύχημα στη Ρουμανία και μερικοί από τους παίκτες του Δικεφάλου έκαναν αναρτήσεις στα social media για να ...  \nTo άρθρο Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς- «Αδέρφια μας εκεί ψηλά που ζείτε» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zivkovic-2-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΠΑΟΚ, Δυστύχημα στη Ρουμανία: Έλληνας οδηγός περνά από τον τόπο της τραγωδίας και συγκλονίζει",
           "link": "https://www.gazzetta.gr/football/europa-league/2510751/paok-dystyhima-sti-roymania-ellinas-odigos-perna-apo-ton-topo-tis",
@@ -969,22 +985,6 @@
           "description": "Η Ελένη Καπογιάννη από εδώ και στο εξής θα κοουτσάρει την Εθνική Ομάδα Γυναικών του Λιβάνου, ανοίγοντας ένα νέο κεφάλαιο στην καριέρα του.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-12/kapogianni.jpg?itok=5uPQkGs3",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οι οργανωμένοι οπαδοί δεν θα βρεθούν στο γήπεδο",
-          "link": "https://www.gazzetta.gr/2510731/paok-dystyhima-sti-roymania-oi-organomenoi-opadoi-den-tha-brethoyn-sto-gipedo",
-          "pubDate": "Tue, 27 Jan 2026 20:32:21 +0200",
-          "description": "Οι οργανωμένοι οπαδοί του ΠΑΟΚ ζήτησαν να μείνει κλειστή η θύρα που θα τους φιλοξενούσε στο ματς της Λιόν, καθώς δεν θα δώσουν το παρών σε ένδειξη πένθους μετά την τραγωδία στη Ρουμανία",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_2.jpg?itok=O6LolwLf",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ελλάδα – Γαλλία 23-5: «Περίπατος» για την Εθνική πόλο γυναικών στο ευρωπαϊκό πρωτάθλημα",
-          "link": "https://www.newsit.gr/athlitika/ellada-gallia-23-5-peripatos-gia-tin-ethniki-polo-gynaikon-sto-eyropaiko-protathlima/4585085/",
-          "pubDate": "Tue, 27 Jan 2026 18:31:37 +0000",
-          "description": "Η Εθνική πόλο γυναικών δεν αντιμετώπισε κανένα πρόβλημα κόντρα στη Γαλλία και κέρδισε με 23-5 για να πάρει την πρόκριση για τη Β’ φάση του ...  \nTo άρθρο Ελλάδα – Γαλλία 23-5: «Περίπατος» για την Εθνική πόλο γυναικών στο ευρωπαϊκό πρωτάθλημα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pleuritou-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Agentic Vision: Το επόμενο άλμα στην οπτική αντίληψη του Google Gemini",
+          "link": "https://www.techgear.gr/agentic-vision-to-epomeno-alma-stin-optiki-antilipsi-toy-google-gemini-47350",
+          "pubDate": "Tue, 27 Jan 2026 22:11:00 +0200",
+          "description": "Μέχρι σήμερα, η οπτική αντίληψη των μοντέλων τεχνητής νοημοσύνης λειτουργούσε ουσιαστικά σαν μια στατική φωτογραφία. Το μοντέλο «κοιτούσε» μια εικόνα ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/gemini-3-agentic-vision.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Από το Search στο Chat: Η νέα μεγάλη αναβάθμιση της Google",
           "link": "https://www.techgear.gr/apo-to-search-sto-chat-i-nea-megali-anavathmisi-tis-google-47349",
           "pubDate": "Tue, 27 Jan 2026 22:03:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Mon, 26 Jan 2026 16:15:08 +0000",
           "description": "Η δεύτερη γενιά του δημοφιλούς tracker φέρνει το τσιπ Ultra Wideband 2 για 50% ακριβέστερο εντοπισμό, ενώ διατηρεί την ίδια τιμή και τον γνώριμο σχεδιασμό του.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/n/new-apple-/new-apple-airtag-brings-improved-tracking-works-from-your-ap_3yv5.jpg",
-          "source": "PC Magazine"
-        },
-        {
-          "title": "Meta: Φρένο στους AI χαρακτήρες για εφήβους σε Instagram, Facebook και WhatsApp",
-          "link": "https://gr.pcmag.com/ai-2/51127/meta-phreno-stous-ai-kharakteres-gia-ephebous-se-instagram-facebook-kai-whatsapp",
-          "pubDate": "Mon, 26 Jan 2026 15:53:13 +0000",
-          "description": "Υπό την πίεση αγωγών και πολιτικών αντιδράσεων, η εταιρεία αναστέλλει την πρόσβαση ανηλίκων στα chatbots της μέχρι να δημιουργήσει ασφαλείς δικλείδες ελέγχου για τους γονείς.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/m/meta-block/meta-blocks-teens-from-chatting-with-its-ai-characters_fb22.jpg",
           "source": "PC Magazine"
         }
       ]
