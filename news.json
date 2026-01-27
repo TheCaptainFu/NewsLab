@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T11:15:26.925Z",
+  "lastUpdated": "2026-01-27T11:20:26.228Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κατερίνα Γκαγκάκη: «Ήταν στενάχωρο αυτό που έγινε με την Ελένη Τσολάκη»",
+          "link": "https://www.newsit.gr/media/katerina-gkagkaki-itan-stenaxoro-ayto-pou-egine-me-tin-eleni-tsolaki/4584538/",
+          "pubDate": "Tue, 27 Jan 2026 11:15:53 +0000",
+          "description": "Για το πρόωρο και ξαφνικό τέλος της εκπομπής που παρουσίαζε η Ελένη Τσολάκη στον ΑΝΤ1 μίλησε η Κατερίνα Γκαγκάκη και ταυτόχρονα αναφέρθηκε στα νέα projects ...  \nTo άρθρο Κατερίνα Γκαγκάκη: «Ήταν στενάχωρο αυτό που έγινε με την Ελένη Τσολάκη» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/katerina-gkagkaki-ndp-1200x683.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Formula 1: Ξεκίνησαν οι δοκιμές στη Βαρκελώνη, όμως οι ομάδες ψάχνονται ακόμα",
           "link": "https://www.newsit.gr/auto/formula-1-ksekinisan-oi-dokimes-sti-varkeloni-omos-oi-omades-psaxnontai-akoma/4584611/",
@@ -185,12 +193,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Ευλογιά προβάτων: Επιμένει στο «όχι» στα εμβόλια η κυβέρνηση – Τι συζητήθηκε στη σύσκεψη με τους περιφερειάρχες",
+          "link": "https://www.in.gr/2026/01/27/politics/politiki-grammateia/eylogia-provaton-epimenei-sto-oxi-sta-emvolia-kyvernisi-ti-syzitithike-sti-syskepsi-tous-perifereiarxes/",
+          "pubDate": "Tue, 27 Jan 2026 13:18:49 +0300",
+          "description": "Την ώρα που κτηνοτρόφοι αγωνιούν για την επιβίωσή τους, λόγω της καταστροφής που προκάλεσε η ευλογιά,  η κυβέρνηση επιμένει ότι η εφαρμογή των μέτρων βιοασφάλειας είναι ο μόνος τρόπος ελέγχου της ζωονόσου και αρνείται τον εμβολιασμό",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/photo_2026-01-27_12-31-42-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Το φυσικό αέριο ανεβάζει ταχύτητα – Πώς επηρεάζονται οι τιμές από την πλήρη απεξάρτηση της ΕΕ από το ρωσικό αέριο",
           "link": "https://www.newsit.gr/oikonomia/agores/to-fysiko-aerio-anevazei-taxytita-pos-epireazontai-oi-times-apo-tin-pliri-apeksartisi-tis-ee-apo-to-rosiko-aerio/4584531/",
           "pubDate": "Tue, 27 Jan 2026 10:17:53 +0000",
           "description": "Σταθερά ανοδικά κινούνται οι τιμές του φυσικού αερίου, με τα ευρωπαϊκά συμβόλαια να σταθεροποιούνται πάνω από τα 40 ευρώ/MWh έχοντας δοκιμάσει να αναρριχηθούν και υψηλότερα, ...  \nTo άρθρο Το φυσικό αέριο ανεβάζει ταχύτητα – Πώς επηρεάζονται οι τιμές από την πλήρη απεξάρτηση της ΕΕ από το ρωσικό αέριο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/natural-gas-europe-reuters-1200x801.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Πρόταση Προέδρου ΚΕΔΕ για τριήμερη αναστολή εορταστικών εκδηλώσεων στους δήμους λόγω του δυστυχήματος",
+          "link": "https://www.in.gr/2026/01/27/politics/aftodioikisi/protasi-proedrou-kede-gia-triimeri-anastoli-eortastikon-ekdiloseon-stous-dimous-logo-tou-dystyximatos/",
+          "pubDate": "Tue, 27 Jan 2026 13:17:44 +0300",
+          "description": "Ο Πρόεδρος της ΚΕΔΕ Λάζαρος Κυρίζογλου με επιστολή του στους συναδέλφους του Δημάρχους της χώρας, πρότεινε την τριήμερη αναστολή ή ματαίωση προγραμματισμένων εορταστικών και ψυχαγωγικών εκδηλώσεων.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/DSC_2289-768x512-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Χαλάνδρι: 55χρονος επιτέθηκε στην 49χρονη αδελφή του και την τραυμάτισε σοβαρά στα μάτια",
@@ -223,30 +247,6 @@
           "description": "Το βέλτιστο σχέδιο για την αύξηση του μετοχικού κεφαλαίου (ΑΜΚ) του ΑΔΜΗΕ, εξετάζει το ΥΠΕΝ όπως τόνισε ο υφυπουργός Περιβάλλοντος και Ενέργειας, Νίκος Τσάφος, από ...  \nTo άρθρο Τσάφος: Στοχεύουμε στο καλύτερο σχέδιο για να προχωρήσει η ΑΜΚ του ΑΔΜΗΕ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nikos-tsafos-ypen-ape-mpe.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Europa League: Οι διαιτητές των αγώνων των Παναθηναϊκού και ΠΑΟΚ στο φινάλε της League Phase",
-          "link": "https://www.newsit.gr/athlitika/europa-league-oi-diaitites-ton-agonon-ton-panathinaikou-kai-paok-sto-finale-tis-league-phase/4584534/",
-          "pubDate": "Tue, 27 Jan 2026 10:06:37 +0000",
-          "description": "Γνωστά έγιναν τα ονόματα των διαιτητών που θα σφυρίξουν τις αναμετρήσεις του Παναθηναϊκού και του ΠΑΟΚ στην τελευταία αγωνιστική της League Phase του Europa League. ...  \nTo άρθρο Europa League: Οι διαιτητές των αγώνων των Παναθηναϊκού και ΠΑΟΚ στο φινάλε της League Phase δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/munuera-1200x798.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Νομοσχέδιο Πλεύρη: Κόλαφος η ΕΕΔΑ – Ανοίγει ο δρόμος για την ποινικοποίηση της ανθρωπιστικής δράσης",
-          "link": "https://www.in.gr/2026/01/27/greece/nomosxedio-pleyri-kolafos-eeda-anoigei-o-dromos-gia-tin-poinikopoiisi-tis-anthropistikis-drasis/",
-          "pubDate": "Tue, 27 Jan 2026 13:05:11 +0300",
-          "description": "Το τραμπικής έμπνευσης νομοσχέδιο του Θάνου Πλεύρη στηλιτεύει και η ΕΕΔΑ που ζητά από το υπουργείο Μετανάστευσης την απόσυρση διατάξεων που ποινικοποιούν την ανθρωπιστική δράση",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Θάνος-Πλεύρης.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τέιτουμ για το NBA Europe: «Θέλουμε από δύο ομάδες στις 5 μεγάλες αγορές»",
-          "link": "https://www.in.gr/2026/01/27/sports/basketball/teitoum-gia-nba-europe-theloume-apo-dyo-omades-stis-5-megales-agores/",
-          "pubDate": "Tue, 27 Jan 2026 13:03:23 +0300",
-          "description": "Ο αναπληρωτής κομισάριος του ΝΒΑ, Μαρκ Τέιτουμ, μίλησε ξανά για το ΝΒΑ Europe και ξεκαθάρισε ότι στόχος είναι να υπάρχουν τουλάχιστον δύο ομάδες από κάθε μεγάλη αγορά της γηραιάς ηπείρου.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/NBA-Europe-by-Andrea-A-1-768x439.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Το μεγαλύτερο ορυχείο σπάνιων γαιών στην Ευρώπη:  Η χρηματοδότηση της ΕΕ συγκρούεται με την περιβαλλοντική νομοθεσία",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/eu-xl-orixeio-spaniwn-gaiwn-kai-nomothesia",
+          "pubDate": "Tue, 27 Jan 2026 12:15:05 +0100",
+          "description": "Η Ευρωπαϊκή Ένωση διοχετεύει οικονομικούς πόρους στο μεγαλύτερο γνωστό ευρωπαϊκό έργο σπάνιων γαιών, προκειμένου να μειώσει την εξάρτησή της από την Κίνα για κρίσιμες πρώτες ύλες. Πώς όμως το ίδιο νομικό πλαίσιο της ΕΕ απειλεί να σταματήσει αυτή τη στρατηγική ώθηση;",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Τι θα φάμε για βραδινό; Ο νέος βοηθός τεχνητής νοημοσύνης της Just Eat έχει την απάντηση",
+          "link": "http://gr.euronews.com/next/2026/01/27/whats-for-dinner-just-eats-new-ai-assistant-can-help-answer-that",
+          "pubDate": "Tue, 27 Jan 2026 12:08:32 +0100",
+          "description": "Η τεχνητή νοημοσύνη μπορεί να κατανοεί τα ερωτήματα των χρηστών και να προτείνει γεύματα, εστιατόρια ή προϊόντα σούπερ μάρκετ προσαρμοσμένα στις ανάγκες τους.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Ειδήσεις | 27 Ιανουαρίου 2026 - Μεσημβρινό δελτίο",
           "link": "http://gr.euronews.com/video/2026/01/27/eidhseis-27-ianoyarioy-2026-meshmbrino-deltio",
           "pubDate": "Tue, 27 Jan 2026 12:00:18 +0100",
@@ -723,22 +739,6 @@
           "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 27 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Τα αιώνια χημικά στις φάλαινες μειώθηκαν κατακόρυφα: ίσως να μην είναι καλό νέο",
-          "link": "http://gr.euronews.com/green/2026/01/27/forever-chemicals-in-whales-have-plummeted-heres-why-it-might-not-be-good-news",
-          "pubDate": "Tue, 27 Jan 2026 07:00:09 +0100",
-          "description": "Οι νεότερες «αιώνιες» χημικές ουσίες δεν εμφανίζονται στον ωκεανό όπως οι παλαιότερες, και οι επιστήμονες δεν γνωρίζουν γιατί.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Καλύτερες ταξιδιωτικές φωτογραφίες του 2025: δερβίσηδες, ελέφαντες με άμμο, Σουκοτάι στην αυγή",
-          "link": "http://gr.euronews.com/travel/2026/01/27/whirling-dervishes-sand-covered-elephants-and-sukhothai-at-dawn-2025s-best-travel-photos-r",
-          "pubDate": "Tue, 27 Jan 2026 07:00:03 +0100",
-          "description": "Με πάνω από 20.000 συμμετοχές, μια επιτροπή διεθνών ειδικών ανέδειξε τις καλύτερες εικόνες στον χώρο της ταξιδιωτικής φωτογραφίας τους τελευταίους 12 μήνες.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Αγιαξ σε οπαδούς του Ολυμπιακού: «Προσοχή, μην αγοράζετε εισιτήρια από sites μεταπώλησης»",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510583/agiax-se-opadoys-toy-olympiakoy-prosohi-min-agorazete-eisitiria",
+          "pubDate": "Tue, 27 Jan 2026 13:15:34 +0200",
+          "description": "Την προσοχή των οπαδών του Ολυμπιακού ζητά ο Άγιαξ για τα εισιτήρια που υπάρχουν σε sites μεταπώλησης ενόψει του μεταξύ τους αγώνα στο Champions League. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6676240.jpg?itok=nrYrle4A",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Τα σημεία στο Άμστερνταμ όπου θα κατακλύζουν χιλιάδες φίλοι της ομάδας",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510581/olympiakos-ta-simeia-sto-amsterntam-opoy-tha-kataklyzoyn-hiliades",
+          "pubDate": "Tue, 27 Jan 2026 13:15:01 +0200",
+          "description": "Οι οδηγίες προς του οπαδούς του Ολυμπιακού που θα βρεθούν στο Άμστερνταμ για το παιχνίδι με τον Άγιαξ και τα σημεία που πρέπει να αποφύγουν. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_7_0.jpg?itok=meV0gDU4",
+          "source": "Gazzetta"
+        },
         {
           "title": "Australian Open: Με άνεση στους «4» Σαμπαλένκα και Σβιτόλινα",
           "link": "https://www.gazzetta.gr/football/australian-open-women/2510582/australian-open-me-anesi-stoys-4-sampalenka-kai-sbitolina",
@@ -969,22 +985,6 @@
           "description": "Οι επιλογές του Σάββα Παντελίδη στην ψηφοφορία για τα Gazzetta Awards 2025 by Novibet.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/savvaw_pantelidis_awards.jpg?itok=WmRsHz1y",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Η Ελίνα Σβιτολίνα ισοπέδωσε την Κόκο Γκοφ και προκρίθηκε στα ημιτελικά του Australian Open",
-          "link": "https://www.newsit.gr/athlitika/i-elina-svitolina-isopedose-tin-koko-gkof-kai-prokrithike-sta-imitelika-tou-australian-open/4584485/",
-          "pubDate": "Tue, 27 Jan 2026 09:20:21 +0000",
-          "description": "Η Ελίνα Σβιτολίνα πήρε για πρώτη φορά στην καριέρα της το εισιτήριο για τα ημιτελικά του Australian Open. Η Ουκρανή τενίστρια διέλυσε την Κόκο Γκοφ ...  \nTo άρθρο Η Ελίνα Σβιτολίνα ισοπέδωσε την Κόκο Γκοφ και προκρίθηκε στα ημιτελικά του Australian Open δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/svitolina-1200x781.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η La Liga έκανε πράξη τις απειλές της και παραπέμπει ποδοσφαιριστές στο δικαστήριο!",
-          "link": "https://www.gazzetta.gr/football/la-liga/2510552/i-la-liga-ekane-praxi-tis-apeiles-tis-kai-parapempei-podosfairistes-sto",
-          "pubDate": "Tue, 27 Jan 2026 11:19:18 +0200",
-          "description": "Η La Liga στέλνει στο εδώλιο τους ποδοσφαιριστές που συμμετείχαν στις «παράνομες» διακοπές των αγώνων της 9ης αγωνιστικής του Ισπανικού πρωταθλήματος.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-10/oviedo_espanyol_0.jpg?itok=mg8mi7B4",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Επίσημο: Παρελθόν ο Φικάι από τον Παναθηναϊκό! – Ο όρος στη μεταγραφή",
+          "link": "https://trifilara.gr/episimo-parelthon-o-fikai-apo-ton-panathinaiko-o-oros-sti-metagrafi/?utm_source=rss&utm_medium=rss&utm_campaign=episimo-parelthon-o-fikai-apo-ton-panathinaiko-o-oros-sti-metagrafi",
+          "pubDate": "Tue, 27 Jan 2026 11:17:27 +0000",
+          "description": "Παρελθόν και επίσημα αποτελεί ο Έλτον Φικάι από τον Παναθηναϊκό.\nThe post Επίσημο: Παρελθόν ο Φικάι από τον Παναθηναϊκό! – Ο όρος στη μεταγραφή appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Επίσημο το «διαζύγιο» με Φικάι – Διατηρεί ποσοστό μεταπώλησης ο Παναθηναϊκός",
+          "link": "https://panathinaikos24.gr/2026/01/27/617916/episimo-to-diazygio-me-fikai/",
+          "pubDate": "Tue, 27 Jan 2026 11:17:00 +0000",
+          "description": "Η ΠΑΕ Παναθηναϊκός ευχαρίστησε τον Έλτον Φικάι, ο οποίος συνεχίζει την καριέρα του στην πολωνική Πιάστ Γκλίβιτσε.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/thank-you-fikaj-web-copy-1024x683-1.jpg?fit=1024%2C683&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Παναθηναϊκός: Τέλος και επίσημα ο Φικάι! – Η επόμενη ομάδα του και ο όρος – κλειδί (pic)",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-telos-kai-episima-o-fika/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-telos-kai-episima-o-fika",
@@ -1215,22 +1231,6 @@
           "description": "Τα τελευταία δεδομένα για τον Καμπίνι.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/kabini1_0.jpg?fit=680%2C460&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Απίστευτο: Η κατηγορία που ο Παναθηναϊκός πάει να πιάσει… πάτο!",
-          "link": "https://panathinaikos24.gr/2026/01/27/617876/apisteyto-i-katigoria-pou-o-panathinaikos-paei-na-piasei-pato/",
-          "pubDate": "Tue, 27 Jan 2026 06:31:49 +0000",
-          "description": "Ένα υπέρ-ατού, που μετατράπηκε σε αχίλλειο πτέρνα...",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3732.jpeg?fit=750%2C422&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Γιατί ο Παναθηναϊκός δεν κάνει μεταγραφές μετά τον Αντίνο!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/giati-o-panathinaikos-den-kanei-metagr/?utm_source=rss&utm_medium=rss&utm_campaign=giati-o-panathinaikos-den-kanei-metagr",
-          "pubDate": "Mon, 26 Jan 2026 21:41:11 +0000",
-          "description": "Οι απαιτήσεις Μπενίτεθ, τα stand by ονόματα και το ρίσκο που παίρνουν οι «πράσινοι». Αναπόφευκτα, το ερώτημα προκύπτει όσο περνούν οι ημέρες. Πώς γίνεται να έχουμε φτάσει στις 26 Ιανουαρίου και ο Παναθηναϊκός, εκτός ελληνικής πραγματικότητας, να έχει ολοκληρώσει μόλις μία μεταγραφή, αυτή του Σαντίνο Αντίνο. Η απάντηση δεν είναι απλή, ούτε μονοδιάστατη και σχετίζεται […]\nThe post Γιατί ο Παναθηναϊκός δεν κάνει μεταγραφές μετά τον Αντίνο! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/corona-benitez.jpg",
-          "source": "Όλα Πράσινα"
         }
       ]
     },
