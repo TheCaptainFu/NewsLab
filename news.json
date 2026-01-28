@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T21:20:32.218Z",
+  "lastUpdated": "2026-01-28T21:25:26.544Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -103,6 +103,22 @@
           "description": "Ο Οικουμενικός Πατριάρχης, Βαρθολομαίος, βρέθηκε στην Τούμπα για να αποτίσει φόρο τιμής στους 7 φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο τροχαίο δυστύχημα ...  \nTo άρθρο Τραγωδία με οπαδούς του ΠΑΟΚ: Στην Τούμπα ο Βαρθολομαίος με λευκά τριαντάφυλλα – «Ο πόνος είναι δυσβάσταχτος» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vartholomaios1.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Εξαφανίστηκε επιβατικό αεροπλάνο στην Κολομβία – Χάθηκε ξαφνικά από το ραντάρ",
+          "link": "https://www.in.gr/2026/01/28/world/eksafanistike-epivatiko-aeroplano-stin-kolomvia-xathike-ksafnika-apo-rantar/",
+          "pubDate": "Wed, 28 Jan 2026 23:20:48 +0300",
+          "description": "Επιβατικό αεροπλάνο το οποίο έκανε πτήση εσωτερικού στην Κολομβία, χάθηκε από τα ραντάρ του πύργου ελέγχου και οι στρατιωτικές και πολιτικές αρχές «χτενίζουν» την περιοχή.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/satena-768x361.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ο πιθανός διάδοχος του Νετανιάχου δεν γνωρίζει για νεκρούς στη Γάζα – «Δεν ξέρω από πού παίρνετε πληροφορίες»",
+          "link": "https://www.in.gr/2026/01/28/world/o-pithanos-diadoxos-tou-netaniaxou-den-gnorizei-gia-nekrous-sti-gaza-den-ksero-apo-pou-pairnete-plirofories/",
+          "pubDate": "Wed, 28 Jan 2026 23:20:36 +0300",
+          "description": "Ο Νιρ Μπαρκάτ εκτιμά ότι οι χώρες που μποϋκοτάρουνε το Ισραήλ, λόγω των εγκλημάτων πολέμου, στην πραγματικότητα θα το πληρώσουν οι ίδιες.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/nir-barkat-in.gr_-768x478.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Άνοιξε το σκορ ο Ολυμπιακός με γκολάρα του Ζέλσον (0-1, vid)",
@@ -231,22 +247,6 @@
           "description": "Παρά τις σοβαρές ζημιές, ο οδηγός βγήκε σώος από το αυτοκίνητό του",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/loutraki-troxaio-exo.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Δεν θα προσέλθουν οι κατηγορούμενοι για απολογία στη δίκη για τις υποκλοπές, παρά την επιθυμία της έδρας",
-          "link": "https://www.in.gr/2026/01/28/greece/diki-gia-tis-upoklopes/",
-          "pubDate": "Wed, 28 Jan 2026 22:53:21 +0300",
-          "description": "Οι τέσσερις κατηγορούμενοι δεν θα προσέλθουν για να καταθέσουν στη δίκη για τις υποκλοπές, παρά τις επανειλημμένες εκκλήσεις του προέδρου της έδρας. Αντεγκλήσεις για τα έγγραφα που κατέθεσαν οι συνήγοροι του Φέλιξ Μπίτζιου",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/dikasthrio-2-768x479.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Νέα μεγάλη φάση για τον Ολυμπιακό (vid)",
-          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/nea-megali-fasi-gia-ton-olympiako-vid/",
-          "pubDate": "Wed, 28 Jan 2026 22:51:12 +0300",
-          "description": "Ο Ταρέμι βρέθηκε σε καλή θέση, έκανε το σουτ αλλά η μπάλα κόντραρε στον Ρέγκερ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828715-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Αϊντχόφεν - Μπάγερν Μονάχου: Το γκολ του Μουσιάλα",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511062/ainthofen-mpagern-monahoy-gkol-toy-moysiala",
+          "pubDate": "Wed, 28 Jan 2026 23:21:51 +0200",
+          "description": "Το γκολ του Μουσιάλα στο 58ο λεπτό έφερε το 1-0 για την Μπάγερν Μονάχου στο εκτός έδρας ματς με την Αϊντχόφεν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/musiala.jpg?itok=sKoql694",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Τρέλα στην εξέδρα στο γκολ του Ζέλσον κόντρα στον Άγιαξ (vid)",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511061/olympiakos-trela-stin-exedra-sto-gkol-toy-zelson-kontra-ston",
+          "pubDate": "Wed, 28 Jan 2026 23:20:29 +0200",
+          "description": "Ο Ολυμπιακός άνοιξε το σκορ με τον Ζέλσον κόντρα στον Αγιαξ και... τρέλα στην εξέδρα από τους φίλους της ομάδας! ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/panigurismoi1.jpg?itok=-X-Bj-LJ",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Λίβερπουλ - Καραμπάγκ: Ο Σαλάχ με ένα εξαιρετικό σουτ στο παραθυράκι έκανε το 3-0",
           "link": "https://www.gazzetta.gr/football/champions-league/2511060/liberpoyl-karampagk-o-salah-me-ena-exairetiko-soyt-sto",
           "pubDate": "Wed, 28 Jan 2026 23:18:11 +0200",
@@ -969,22 +985,6 @@
           "description": "Ο Ραζβάν Λουτσέσκου δεν θα μπορούσε να μην αναφερθεί στους 7 φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο τροχαίο δυστύχημα στη Ρουμανία. Στη ...  \nTo άρθρο Λουτσέσκου: Να παίξουμε για τα παιδιά του ΠΑΟΚ, υπάρχει τεράστια στεναχώρια δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/luceskou-1200x798.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Σάκοτα: «O κόσμος και εμείς, όλοι είμαστε ΑΕΚ»",
-          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511039/sakota-o-kosmos-kai-emeis-oloi-eimaste-aek",
-          "pubDate": "Wed, 28 Jan 2026 22:01:06 +0200",
-          "description": "O Nτράγκαν Σάκοτα αποθέωσε τον κόσμο της ΑΕΚ μετά τη νίκη επί της Άλμπα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/sakota_1_0.jpg?itok=RbtwEI2B",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παρτίζαν: Ενισχύθηκε με Αλέξα Ραντάνοφ!",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2511038/partizan-enishythike-me-alexa-rantanof",
-          "pubDate": "Wed, 28 Jan 2026 21:59:25 +0200",
-          "description": "Η Παρτίζαν ανακοίνωσε την απόκτηση του Αλέξα Ραντάνοφ για να ενισχύσει τη σέρβικη ομάδα στις θέσεις των φόργουορντ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/radanof.jpg?itok=-0QOuZJu",
-          "source": "Gazzetta"
         }
       ]
     },
