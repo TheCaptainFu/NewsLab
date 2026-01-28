@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T06:35:23.718Z",
+  "lastUpdated": "2026-01-28T06:40:26.584Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Α1 Γυναικών: Πού θα δείτε το Παναθηναϊκός-Ολυμπιακός ",
+          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2510806/a1-gynaikon-poy-tha-deite-panathinaikos-olympiakos",
+          "pubDate": "Wed, 28 Jan 2026 08:39:42 +0200",
+          "description": "Το πρωτάθλημα της Α1 Γυναικών συνεχίζεται την Τετάρτη 28/1 με τη διεξαγωγή της εμβόλιμης 16ης αγωνιστικής, όπου ξεχωρίζει το Παναθηναϊκός–Ολυμπιακός στο «Π. Γιαννακόπουλος».",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/panathinaikos_olympiacos_0.jpg?itok=0bYI-dKw",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: Συγκλονισμένος ο Άγγελος Αναστασιάδης (vid)",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510805/paok-dystyhima-sti-roymania-sygklonismenos-o-aggelos-anastasiadis",
+          "pubDate": "Wed, 28 Jan 2026 08:39:06 +0200",
+          "description": "Ο Άγγελος Αναστασιάδης μίλησε σε πρωινή εκπομπή για την τραγωδία στη Ρουμανία, δηλώνοντας συγκλονισμένος με τα όσα είδε και έμαθε.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-01/anastasiadis.jpg?itok=Dg45zBic",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Detox: Η βιομηχανία της αποτοξίνωσης εξαπλώνεται και στην Ελλάδα",
           "link": "https://www.gazzetta.gr/plus/2510804/detox-i-biomihania-tis-apotoxinosis-exaplonetai-kai-stin-ellada",
           "pubDate": "Wed, 28 Jan 2026 08:32:32 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 23:46:14 +0200",
           "description": "Σε τροχιά Champions League παρέμεινε η Χόφενχαϊμ που λύγισε με 2-0 τη Βέρντερ Βρέμης. Οριακά εντός τετράδας η Λειψία που ισοφαρίστηκε στο 90΄+3΄από τη Ζανκτ Πάουλι.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hoffenheim_fc_1.jpg?itok=ifjYrnj7",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Διευθυντής νοσοκομείου Τιμισοάρα: «Με πολλαπλά κατάγματα, αλλά εκτός κινδύνου ο ένας τραυματίας οπαδός του ΠΑΟΚ»",
-          "link": "https://www.newsit.gr/athlitika/dieythyntis-nosokomeiou-timisoara-me-pollapla-katagmata-alla-ektos-kindynou-o-enas-traymatias-opados-tou-paok/4585195/",
-          "pubDate": "Tue, 27 Jan 2026 21:40:57 +0000",
-          "description": "Ο Διευθυντής του νοσοκομείου της Τιμισοράρα μίλησε στο Mega News και αναφέρθηκε στους τρεις τραυματίες οπαδούς του ΠΑΟΚ, δίνοντας θετικά νέα σχετικά με την υγεία ...  \nTo άρθρο Διευθυντής νοσοκομείου Τιμισοάρα: «Με πολλαπλά κατάγματα, αλλά εκτός κινδύνου ο ένας τραυματίας οπαδός του ΠΑΟΚ» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ελλάδα: Με Ιταλία και μια εκ των Σερβίας ή Κροατίας στη β' φάση στο ευρωπαϊκό πόλο",
-          "link": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2510768/ellada-me-italia-kai-mia-ek-ton-serbias-i-kroatias-sti-b",
-          "pubDate": "Tue, 27 Jan 2026 23:40:07 +0200",
-          "description": "Η Ιταλία και η νικήτρια του αγώνα Σερβίας-Κροατίας θα είναι οι αντίπαλοι της εθνικής ομάδας πόλο γυναικών στη 2η φάση των ομίλων στο ευρωπαϊκό πρωτάθλημα στο Φούντσαλ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hellas_women_water_polo.jpg?itok=zaaqhBcZ",
           "source": "Gazzetta"
         }
       ]
