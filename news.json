@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T07:10:27.665Z",
+  "lastUpdated": "2026-01-28T07:15:33.945Z",
   "totalArticles": 179,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,30 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γιάννης Παπαστεφανάκης για το δυστύχημα των οπαδών: «Ο ΠΑΟΚ είναι ψυχές»",
+          "link": "https://www.newsit.gr/athlitika/giannis-papastefanakis-gia-to-dystyxima-ton-opadon-o-paok-einai-psyxes/4585358/",
+          "pubDate": "Wed, 28 Jan 2026 07:13:46 +0000",
+          "description": "Το δικό του μήνυμα στους οπαδούς του ΠΑΟΚ θέλησε να στείλει ο Γιάννης Παπαστεφανάκης, μετά τη νέα τραγωδία με τους 7 νεκρούς στο τροχαίο δυστύχημα ...  \nTo άρθρο Γιάννης Παπαστεφανάκης για το δυστύχημα των οπαδών: «Ο ΠΑΟΚ είναι ψυχές» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/papastefanakis-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Νικόλαος Ντε Γκρες – Χρυσή Βαρδινογιάννη: «Θα ήταν δώρο να δουν την οικογένειά τους να μεγαλώνει» λέει άτομο από το περιβάλλον τους",
+          "link": "https://www.newsit.gr/lifestyle/nikolaos-nte-gkres-xrysi-vardinogianni-tha-itan-doro-na-doun-tin-oikogeneia-tous-na-megalonei-leei-atomo-apo-to-perivallon-tous/4585368/",
+          "pubDate": "Wed, 28 Jan 2026 07:12:01 +0000",
+          "description": "Νικόλαος Ντε Γκρες και Χρυσή Βαρδινογιάννη ετοιμάζονται σε λίγες μέρες για την πρώτη επέτειο του γάμου τους, που έγινε το βράδυ της 7ης Φεβρουαρίου του ...  \nTo άρθρο Νικόλαος Ντε Γκρες – Χρυσή Βαρδινογιάννη: «Θα ήταν δώρο να δουν την οικογένειά τους να μεγαλώνει» λέει άτομο από το περιβάλλον τους δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nikolaos-ndp-1200x792.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία με βρέφος επτά ημερών στην Καλλιθέα, υπέστη ανακοπή και άφησε την τελευταία του πνοή\n",
+          "link": "https://www.protothema.gr/greece/article/1764572/vrefos-metaferthike-horis-tis-aisthiseis-tou-sto-paidon-agia-sofia/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 09:11:00 +0200",
+          "description": "Το κοριτσάκι μετέφεραν αρχικά σε κτηνιατρείο στην Καλλιθέα ο πατέρας του και η θεία του - Διακομίστηκε στο «Αγία Σοφία» όπου επί 40 λεπτά οι γιατροί προσπάθησαν να το επαναφέρουν χωρίς αποτέλεσμα",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2021-03-31/pedon_agia.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Κίνηση στους δρόμους: «Στα κόκκινα» Κηφισός – 30λεπτες καθυστερήσεις στην Αττική Οδό",
           "link": "https://www.newsit.gr/ellada/kinisi-stous-dromous-sta-kokkina-kifisos-30leptes-kathysteriseis-stin-attiki-odo/4585364/",
@@ -23,14 +47,6 @@
           "description": "Ανείπωτη τραγωδία χτυπά την Ινδονησία, τις τελευταίες ημέρες, μετά από σφοδρή κατολίσθηση που ισοπέδωσε χωριά κοντά στην Μπαντούνγκ. Μέχρι και σήμερα (28.01.2026) 34 άτομα έχουν ...  \nTo άρθρο Ινδονησία: 34 νεκροί από κατολισθήσεις, χωριά βυθίστηκαν στη λάσπη – Σκάβουν με τα χέρια τους για να βρουν επιζώντες δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/indonisia-katolisthisi-r7-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Βρέφος μεταφέρθηκε χωρίς τις αισθήσεις του στο Παίδων «Αγία Σοφία»",
-          "link": "https://www.protothema.gr/greece/article/1764572/vrefos-metaferthike-horis-tis-aisthiseis-tou-sto-paidon-agia-sofia/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 08:59:00 +0200",
-          "description": "Το κοριτσάκι μετέφεραν αρχικά σε κτηνιατρείο στην Καλλιθέα ο πατέρας του και η θεία του",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2021-03-31/pedon_agia.jpg",
-          "source": "Πρώτο Θέμα"
         },
         {
           "title": "Συγκλονισμένος ο Άγγελος Αναστασιάδης για την τραγωδία του ΠΑΟΚ: «Έτρεμαν τα πόδια μου»",
@@ -161,6 +177,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Ολυμπιακός: Τι χρειάζεται για πρόκριση στα πλέι-οφ του Champions League – Τα κριτήρια ισοβαθμίας",
+          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/olympiakos-ti-xreiazetai-gia-prokrisi-sta-plei-tou-champions-league-ta-kritiria-isovathmias/",
+          "pubDate": "Wed, 28 Jan 2026 09:02:26 +0300",
+          "description": "Ο Ολυμπιακός δίνει το βράδυ της Τετάρτης τον «τελικό» πρόκρισης στα πλέι-οφ του Champions League με αντίπαλο τον Άγιαξ στο Άμστερνταμ και χρειάζεται τη νίκη για να «καθαρίσει» - Όλα τα κριτήρια ισοβαθμίας.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6819513-2-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Βόλτες κάτω από τον ήλιο, ποτά με φίλους: Οι ανέμελες στιγμές των αδελφών Κρέι – όταν δεν σκορπούσαν τον τρόμο στο Λονδίνο",
           "link": "https://www.in.gr/2026/01/28/life/culture-live/voltes-kato-apo-ton-ilio-pota-filous-oi-anemeles-stigmes-ton-adelfon-krei-otan-den-skorpousan-ton-tromo-sto-londino/",
           "pubDate": "Wed, 28 Jan 2026 09:00:21 +0300",
@@ -222,30 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 08:43:59 +0300",
           "description": "Η Κατερίνα Παπουτσάκη είναι πλέον single.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/3N0A3398-768x538.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Εσωκομματικά πυρά και καταγγελίες για αλχημείες στο ΠΑΣΟΚ",
-          "link": "https://www.newsit.gr/politikh/esokommatika-pyra-kai-kataggelies-gia-alximeies-sto-pasok/4585302/",
-          "pubDate": "Wed, 28 Jan 2026 05:40:36 +0000",
-          "description": "Δε λέει να κοπάσει η εσωκομματική κρίση που έχει ξεσπάσει στο ΠΑΣΟΚ, ακριβώς τη στιγμή που η ενότητα και ο κοινός αγώνας φαίνεται να είναι ...  \nTo άρθρο Εσωκομματικά πυρά και καταγγελίες για αλχημείες στο ΠΑΣΟΚ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pasok-3.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ώρα… τελικού στη League Phase: Ο Ολυμπιακός κόντρα στον μεγάλο Άγιαξ για μια θέση στα πλέι-οφ",
-          "link": "https://www.in.gr/2026/01/28/sports/football/olympiakos-telikos-kontra-ston-agiaks-me-fonto-ti-megali-prokrisi-stin-24ada/",
-          "pubDate": "Wed, 28 Jan 2026 08:35:59 +0300",
-          "description": "Ο Ολυμπιακός αντιμετωπίζει τον Άγιαξ στο Άμστερνταμ το βράδυ της Τετάρτης με στόχο τη νίκη που θα τον στείλει στα πλέι-οφ του Champions League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6819725-2-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "«Μετωπική» ΠΑΣΟΚ και ΝΔ με φόντο τον ΟΠΕΚΕΠΕ και την ευλογιά – Νέα παρέμβαση Ανδρουλάκη σήμερα στη Βουλή",
-          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/metopiki-pasok-kai-nd-fonto-ton-opekepe-kai-tin-eylogia-nea-paremvasi-androulaki-simera-sti-vouli/",
-          "pubDate": "Wed, 28 Jan 2026 08:33:28 +0300",
-          "description": "«Μετωπική» σύγκρουση με την κυβέρνηση ανοίγει το ΠΑΣΟΚ με αιχμή τον ΟΠΕΚΕΠΕ και τη διαχείριση της ευλογιάς των αιγοπροβάτων. Νέο «κατηγορώ» εναντίον της ΝΔ ετοιμάζει από το βήμα της Βουλής ο Νίκος Ανδρουλάκης.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6782196-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Γιάννης Παπαστεφανάκης για το δυστύχημα των οπαδών: «Ο ΠΑΟΚ είναι ψυχές»",
+          "link": "https://www.newsit.gr/athlitika/giannis-papastefanakis-gia-to-dystyxima-ton-opadon-o-paok-einai-psyxes/4585358/",
+          "pubDate": "Wed, 28 Jan 2026 07:13:46 +0000",
+          "description": "Το δικό του μήνυμα στους οπαδούς του ΠΑΟΚ θέλησε να στείλει ο Γιάννης Παπαστεφανάκης, μετά τη νέα τραγωδία με τους 7 νεκρούς στο τροχαίο δυστύχημα ...  \nTo άρθρο Γιάννης Παπαστεφανάκης για το δυστύχημα των οπαδών: «Ο ΠΑΟΚ είναι ψυχές» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/papastefanakis-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Gazzetta Awards 2025: Οι επιλογές του Ντίνου Γενηδουνιά",
+          "link": "https://www.gazzetta.gr/polo/2510752/gazzetta-awards-2025-oi-epiloges-toy-ntinoy-genidoynia",
+          "pubDate": "Wed, 28 Jan 2026 09:11:48 +0200",
+          "description": "Ο αρχηγός της εθνικής ομάδας πόλο ανδρών, Ντίνος Γενηδουνιάς έδωσε τις επιλογές του για τα Gazzetta Awards 2025 by Novibet.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/genidounias_2.jpg?itok=xCdM83-o",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Σαν Σήμερα: H Prost Grand Prix έβαλε «λουκέτο» (vid)",
           "link": "https://www.gazzetta.gr/gmotion/2510811/281-san-simera-h-prost-grand-prix-ebale-loyketo-vid",
           "pubDate": "Wed, 28 Jan 2026 09:04:57 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 01:56:17 +0200",
           "description": "Ο Οργανισμός του ΠΑΟΚ και οι φίλαθλοί του βιώνουν πολύ δύσκολες στιγμές μετά την τραγωδία στην Ρουμανία. Ποια ήταν επόμενη κίνηση μερίδας φίλων του Δικεφάλου του Βορρά.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok1_1.jpg?itok=a95kCfX5",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Το NBA LIVE στο Gazzetta",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510682/nba-live-sto-gazzetta",
-          "pubDate": "Wed, 28 Jan 2026 01:40:00 +0200",
-          "description": "Παρακολουθήστε LIVE την εξέλιξη των επτά αναμετρήσεων του NBA, μέσα από το Gazzetta.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-06/shai_gilgeous_alexander_thunder_getty.jpg?itok=l9oVl2fg",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ, δυστύχημα στη Ρουμανία: Η ανακοίνωση του Δικέφαλου για την κλειστή κερκίδα στη Λιόν",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510776/paok-dystyhima-sti-roymania-i-anakoinosi-toy-dikefaloy-gia-tin",
-          "pubDate": "Wed, 28 Jan 2026 01:25:19 +0200",
-          "description": "Σε  ένδειξη πένθους για την τραγωδία στη Ρουμανία οι οργανωμένοι οπαδοί του ΠΑΟΚ ακύρωσαν όλες τις εκδρομές για τη Λιόν και καλούν τον κόσμο της ομάδας, την Τετάρτη, στη Θύρα 4 της Τούμπας!",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_toumba_kerakia.jpg?itok=5BQr6ESl",
           "source": "Gazzetta"
         }
       ]
