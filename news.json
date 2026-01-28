@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T09:15:30.571Z",
-  "totalArticles": 178,
+  "lastUpdated": "2026-01-28T09:20:26.702Z",
+  "totalArticles": 179,
   "totalFeeds": 24,
   "successfulFeeds": 15,
   "categories": {
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Λιόν – ΠΑΟΚ: Ακύρωσαν την εκδρομή και επιστρέφουν στην Τούμπα οι οπαδοί",
+          "link": "https://www.newsit.gr/athlitika/lion-paok-akyrosan-tin-ekdromi-kai-epistrefoun-stin-toumpa-oi-opadoi/4585487/",
+          "pubDate": "Wed, 28 Jan 2026 09:15:00 +0000",
+          "description": "Ο ΠΑΟΚ θα αντιμετωπίζει κανονικά τη Λιόν στη League Phase του Europa League, παρά το τραγικό δυστύχημα με τους 7 νεκρούς οπαδούς του στη Ρουμανία, ...  \nTo άρθρο Λιόν – ΠΑΟΚ: Ακύρωσαν την εκδρομή και επιστρέφουν στην Τούμπα οι οπαδοί δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-3.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Χρηματιστήριο Αθηνών: Άνοιγμα με άνοδο 0,47% – Αρνητικά πρόσημα στις ευρωαγορές",
           "link": "https://www.newsit.gr/oikonomia/agores/xrimatistirio-athinon-anoigma-me-anodo-0-47-arnitika-prosima-stis-eyroagores/4585497/",
@@ -239,14 +247,6 @@
           "description": "Οι πολυτραυματίες από το σοκαριστικό τροχαίο στη Ρουμανία - δύο 20χρονοι και ένας 28χρονος - παραμένουν αιμοδυναμικά σταθεροί και υπό συνεχή παρακολούθηση, δήλωσε ο υπουργός Υγείας της χώρας",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/VVER5822-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Ο Ισημερινός καταγγέλει απόπειρα εισβολής πράκτορα της ICE στο προξενείο στη Μινεάπολη – Δείτε το βίντεο",
-          "link": "https://www.newsit.gr/kosmos/o-isimerinos-kataggelei-apopeira-eisvolis-praktora-tis-ice-sto-prokseneio-sti-mineapoli-deite-to-vinteo/4585410/",
-          "pubDate": "Wed, 28 Jan 2026 07:55:37 +0000",
-          "description": "Σοβαρό διπλωματικό επεισόδιο καταγγέλλει ο Ισημερινός, κάνοντας λόγο για απόπειρα εισβολής πράκτορα της αμερικανικής αστυνομίας μετανάστευσης – της ICE –  στο προξενείο της χώρας στη ...  \nTo άρθρο Ο Ισημερινός καταγγέλει απόπειρα εισβολής πράκτορα της ICE στο προξενείο στη Μινεάπολη – Δείτε το βίντεο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ice-2-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΑΕΚ: Πού θα δείτε τον σπουδαίο αγώνα με την Άλμπα για το BCL",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510846/aek-poy-tha-deite-ton-spoydaio-agona-me-tin-almpa",
+          "pubDate": "Wed, 28 Jan 2026 11:18:19 +0200",
+          "description": "Η ΑΕΚ υποδέχεται την Άλμπα Βερολίνου στη SUNEL Arena, με στόχο να πετύχει τη δεύτερη νίκη της στη φάση των «16» του Basketball Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/bartley_2.jpg?itok=cBnbwsaQ",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Από νωρίς ο κόσμος στην Τούμπα για να αποχαιρετήσει τα «αετόπουλα» (vid)",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510845/paok-dystyhima-sti-roymania-apo-noris-o-kosmos-stin-toympa-gia-na",
+          "pubDate": "Wed, 28 Jan 2026 11:17:29 +0200",
+          "description": "Εκατοντάδες φίλοι του ΠΑΟΚ συγκεντρώθηκαν στην Τούμπα, αφήνοντας λουλούδια και κεράκια  για τα «αετόπουλα» που χάθηκαν στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok-touba.jpg?itok=BgvvQa2S",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: Φίλη της ΑΕΚ άφησε γράμμα στην Τούμπα για τους τους αδικοχαμένους οπαδούς του ΠΑΟΚ",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510844/paok-dystyhima-sti-roymania-fili-tis-aek-afise-gramma-stin-toympa",
+          "pubDate": "Wed, 28 Jan 2026 11:17:11 +0200",
+          "description": "Μια φίλαθλος της ΑΕΚ άφησε ένα σημείωμα έξω από την Τούμπα, όπου ο κόσμος αποτίει φόρο τιμής στους αδικοχαμένους φίλους του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/toumpa_keria_2.jpg?itok=LKpMqi_n",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λιόν – ΠΑΟΚ: Ακύρωσαν την εκδρομή και επιστρέφουν στην Τούμπα οι οπαδοί",
+          "link": "https://www.newsit.gr/athlitika/lion-paok-akyrosan-tin-ekdromi-kai-epistrefoun-stin-toumpa-oi-opadoi/4585487/",
+          "pubDate": "Wed, 28 Jan 2026 09:15:00 +0000",
+          "description": "Ο ΠΑΟΚ θα αντιμετωπίζει κανονικά τη Λιόν στη League Phase του Europa League, παρά το τραγικό δυστύχημα με τους 7 νεκρούς οπαδούς του στη Ρουμανία, ...  \nTo άρθρο Λιόν – ΠΑΟΚ: Ακύρωσαν την εκδρομή και επιστρέφουν στην Τούμπα οι οπαδοί δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-3.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "ΠΑΟΚ μου, τους πήρε η αγάπη τους για σένα μα πάντα θα ‘ναι ζωντανοί",
           "link": "https://www.gazzetta.gr/football/superleague/2510842/paok-moy-toys-pire-i-agapi-toys-gia-sena-ma-panta-tha-nai-zontanoi",
           "pubDate": "Wed, 28 Jan 2026 11:03:00 +0200",
@@ -953,38 +985,6 @@
           "description": "Ο Μάριος Τσάκας, μέλος του ΔΣ του ΠΑΟΚ μίλησε για την τραγωδία στη Ρουμανία και τόνισε πως ο σύλλογος θα κάνει τα πάντα για τους τραυματίες και θα κανονίσει τα διαδικαστικά για όσους χάθηκαν.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/marios_tsakas.jpg?itok=LcVbW1nE",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Απίθανο σκηνικό στο Chase: Χαλαρός παίκτης απάντησε σε όλες τις ερωτήσεις στην τύχη και δικαιώθηκε (vid)",
-          "link": "https://www.gazzetta.gr/plus/2510812/apithano-skiniko-sto-chase-halaros-paiktis-apantise-se-oles-tis-erotiseis-stin-tyhi",
-          "pubDate": "Wed, 28 Jan 2026 09:55:09 +0200",
-          "description": "Ο Γιώργος πήγε χαλαρός και χωρίς άγχος στο «The Chase» του Mega και παρότι απάντησε στην τύχη όλες τις ερωτήσεις, προκρίθηκε στον τελικό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/giorgos-chase.jpg?itok=lCzbKFEi",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οι οπαδοί της Τιμισοάρα έμειναν στο νοσοκομείο όλο το βράδυ για συμπαράσταση και βοήθεια",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510820/paok-dystyhima-sti-roymania-oi-opadoi-tis-timisoara-emeinan-sto",
-          "pubDate": "Wed, 28 Jan 2026 09:52:59 +0200",
-          "description": "Στο πλευρό των τραυματιών από το δυστύχημα με το mini bus όπου στέρησε τη ζωή σε 7 οπαδούς του ΠΑΟΚ, στέκονται οι φίλαθλοι της Τιμισοάρα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_timisoara.jpeg?itok=secnkHxD",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "LIVE TV: Δείτε το 9ο Συνέδριο Ηλεκτροκίνησης",
-          "link": "https://www.gazzetta.gr/gmotion/2510672/live-tv-deite-9o-synedrio-ilektrokinisis",
-          "pubDate": "Wed, 28 Jan 2026 09:45:00 +0200",
-          "description": "Παρακολουθήστε σε ζωντανή μετάδοση όλες τις εξελίξεις από το Συνέδριο Ηλεκτροκίνησης, το οποίο πραγματοποιείται στο Ελληνικό Μουσείο Αυτοκινήτου.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/haee_9th_ecomobility_2026_banner_1920x1080_0.jpg?itok=53LzkVll",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λεσόρ για τους οπαδούς του ΠΑΟΚ: «Θεέ μου, δεν ήθελα να δω το βίντεο!»",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2510819/lesor-gia-toys-opadoys-toy-paok-thee-moy-den-ithela-na-do-binteo-tha",
-          "pubDate": "Wed, 28 Jan 2026 09:40:15 +0200",
-          "description": "Ο Ματίας Λεσόρ δήλωσε σοκαρισμένος από την τραγωδία με τους οπαδούς του ΠΑΟΚ στη Ρουμανία, εξηγώντας πως στη θέση τους θα μπορούσαν να ήταν φίλοι του Παναθηναϊκού που θα έρχονταν στη Λυών για τον αγώνα με τη Βιλερμπάν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lessort_eurokinissi.jpg?itok=fuh6A_lB",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Νέα αποκάλυψη για τα αίτια του δυστυχήματος στη Ρουμανία! (vid)",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/nea-apokalupsh-gia-ta-aitia-tou-dustuxhmatos-sth-roumania-vid/?utm_source=rss&utm_medium=rss&utm_campaign=nea-apokalupsh-gia-ta-aitia-tou-dustuxhmatos-sth-roumania-vid",
+          "pubDate": "Wed, 28 Jan 2026 09:18:01 +0000",
+          "description": "Έλληνας γιατρός μετέφερε συγκλονιστική μαρτυρία τραυματία φίλου του ΠΑΟΚ για τα αίτια της φονικής σύγκρουσης. Μία ιδιαίτερα σημαντική αποκάλυψη σχετικά με το τραγικό τροχαίο δυστύχημα στη Ρουμανία, που στοίχισε τη ζωή σε επτά φίλους του ΠΑΟΚ, ήρθε στο φως μέσα από την κατάθεση Έλληνα γιατρού που βρίσκεται σε άμεση επαφή με τους τραυματίες. Ο Δημήτρης […]\nThe post Νέα αποκάλυψη για τα αίτια του δυστυχήματος στη Ρουμανία! (vid) appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/paok-roumania-jpg.webp",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Παναθηναϊκός – Κηφισιά: Ο διαιτητής που όρισε η ΚΕΔ!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-khfisia-o-diaithths-pou-orise-h-ked/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-khfisia-o-diaithths-pou-orise-h-ked",
@@ -1090,11 +1098,11 @@
         },
         {
           "title": "Ξεκαθάρισμα στον Παναθηναϊκό: Τέσσερις παίκτες φεύγουν άμεσα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/ksekatharisma-ston-panathinaiko-tesseris-paiktes-feugoun-amesa/?utm_source=rss&utm_medium=rss&utm_campaign=ksekatharisma-ston-panathinaiko-tesseris-paiktes-feugoun-amesa",
-          "pubDate": "Tue, 27 Jan 2026 19:58:36 +0000",
-          "description": "Εκτός από τις μεταγραφικές προσθήκες, το «τριφύλλι» μπαίνει σε φάση ξεκαθαρίσματος του ρόστερ με τέσσερις παίκτες στο επίκεντρο. Σε πλήρη εξέλιξη βρίσκεται ο μεταγραφικός σχεδιασμός του Παναθηναϊκού, με τους ανθρώπους της ομάδας να κινούνται ταυτόχρονα τόσο για ενίσχυση όσο και για αποσυμφόρηση του ρόστερ. Μέχρι την ολοκλήρωση της χειμερινής περιόδου μεταγραφών στις 6 Φεβρουαρίου, πέρα […]\nThe post Ξεκαθάρισμα στον Παναθηναϊκό: Τέσσερις παίκτες φεύγουν άμεσα! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez.jpg",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/ksekatharisma-ston-panathinaiko-tesseris-paiktes-feugoun-amesa/?utm_source=rss&utm_medium=rss&utm_campaign=ksekatharisma-ston-panathinaiko-tesseris-paiktes-feugoun-amesa",
+          "pubDate": "Tue, 27 Jan 2026 20:05:40 +0000",
+          "description": "Εκτός από τις μεταγραφικές προσθήκες, το «τριφύλλι» μπαίνει σε φάση ξεκαθαρίσματος του ρόστερ με τέσσερις παίκτες στο επίκεντρο.\nThe post Ξεκαθάρισμα στον Παναθηναϊκό: Τέσσερις παίκτες φεύγουν άμεσα! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Το μήνυμα του Μητσοτάκη για την τραγωδία στη Ρουμανία: «Βαθιά συγκλονισμένος…» – Η πρώτη κίνηση της Κυβέρνησης",
