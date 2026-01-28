@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T17:55:30.194Z",
+  "lastUpdated": "2026-01-28T17:56:10.555Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Μακρόν: Η κρίση με τις ΗΠΑ για τη Γροιλανδία ήταν ένα στρατηγικό καμπανάκι για την Ευρώπη",
+          "link": "http://gr.euronews.com/2026/01/28/makron-h-krish-me-tis-hpa-gia-th-groilandia-htan-ena-strathgiko-kampanaki-gia-thn-eyrwph",
+          "pubDate": "Wed, 28 Jan 2026 18:49:48 +0100",
+          "description": "Μήνυμα ευρωπαϊκής ενότητας απέναντι στις επεκτατικές δηλώσεις Τραμπ – Στο επίκεντρο η ασφάλεια της Αρκτικής και η ευρωπαϊκή κυριαρχία",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "'Don't take us to a hospital': Iran protesters treated in secret to avoid arrest",
           "link": "https://www.bbc.com/news/articles/c5yx015nkplo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 17:28:08 GMT",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/my-europe/2026/01/28/apokleistiko-kosta-euronews-shmantikh-oikonomikh-eukairia-avevaio-kosmo-sumfwnia-india",
           "pubDate": "Wed, 28 Jan 2026 14:33:41 +0100",
           "description": "Σε αποκλειστική συνέντευξη που παραχώρησε στο Euronews στο Νέο Δελχί, ο Πρόεδρος του Ευρωπαϊκού Συμβουλίου λέει πως η συμφωνία στέλνει ένα \"μήνυμα στη διεθνή κοινότητα\" ότι \"αξιόπιστοι εταίροι μπορούν να εργαστούν για το καλό στον κόσμο\"",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Τη νύχτα ρωσικά μη επανδρωμένα έπληξαν κατοικίες, ζημιές σε μονή στην Οδησσό",
-          "link": "http://gr.euronews.com/video/2026/01/28/overnight-russian-drones-struck-homes-and-caused-damage-to-a-monastery-in-odesa",
-          "pubDate": "Wed, 28 Jan 2026 14:13:49 +0100",
-          "description": "Ρωσικές δυνάμεις εξαπέλυσαν τη νύχτα επιθέσεις με drones στην Ουκρανία, πλήττοντας κατοικημένες περιοχές στην περιφέρεια Κιέβου και στην Οδησσό, σύμφωνα με ουκρανικές αρχές.",
           "thumbnail": null,
           "source": "Euronews"
         }
