@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T19:30:34.238Z",
+  "lastUpdated": "2026-01-28T19:35:26.139Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,6 +9,14 @@
       "color": "red",
       "articles": [
         {
+          "title": "Άγιαξ – Ολυμπιακός live για το φινάλε της League Phase του Champions League",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-live-gia-to-finale-tis-league-phase-tou-champions-league/4585899/",
+          "pubDate": "Wed, 28 Jan 2026 19:32:22 +0000",
+          "description": "Μετά τις δύο σερί νίκες στη League Phase του Champions League, ο Ολυμπιακός παίζει στην “Johan Cruyff Arena” του Άγιαξ, σε… τελικό πρόκρισης στην επόμενη ...  \nTo άρθρο Άγιαξ – Ολυμπιακός live για το φινάλε της League Phase του Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-eurokinissi-2-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά",
           "link": "https://www.newsit.gr/athlitika/o-panathinaikos-kineitai-gia-tin-apoktisi-tou-etien-kamara-tis-sarleroua/4586180/",
           "pubDate": "Wed, 28 Jan 2026 19:22:01 +0000",
@@ -17,10 +25,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Βαρύ πρόστιμο στην Ελβετή πολιτικό που χρησιμοποίησε εικόνα της Παναγίας ως στόχο σκοποβολής",
-          "link": "https://www.newsit.gr/kosmos/vary-prostimo-stin-elveti-politiko-pou-xrisimopoiise-eikona-tis-panagias-os-stoxo-skopovolis/4586173/",
+          "title": "Βαρύ πρόστιμο στην πολιτικό από την Ελβετία που χρησιμοποίησε εικόνα της Παναγίας ως στόχο σκοποβολής",
+          "link": "https://www.newsit.gr/kosmos/vary-prostimo-stin-politiko-apo-tin-elvetia-pou-xrisimopoiise-eikona-tis-panagias-os-stoxo-skopovolis/4586173/",
           "pubDate": "Wed, 28 Jan 2026 19:20:14 +0000",
-          "description": "Υψηλό χρηματικό πρόστιμο επιβλήθηκε σε 33χρονη πολιτικό από την Ελβετία, η οποία είχε προκαλέσει σάλο τo 2024 όταν χρησιμοποίησε μια εικόνα της Παναγίας της Βρεφοκρατούσας ...  \nTo άρθρο Βαρύ πρόστιμο στην Ελβετή πολιτικό που χρησιμοποίησε εικόνα της Παναγίας ως στόχο σκοποβολής δημοσιεύτηκε στο NewsIT .",
+          "description": "Υψηλό χρηματικό πρόστιμο επιβλήθηκε σε 33χρονη πολιτικό από την Ελβετία, η οποία είχε προκαλέσει σάλο τo 2024 όταν χρησιμοποίησε μια εικόνα της Παναγίας της Βρεφοκρατούσας ...  \nTo άρθρο Βαρύ πρόστιμο στην πολιτικό από την Ελβετία που χρησιμοποίησε εικόνα της Παναγίας ως στόχο σκοποβολής δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sanija-ameti.jpg",
           "source": "NewsIT"
         },
@@ -113,12 +121,36 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Καρλοβάρσκο – Ολυμπιακός 3-2: Πάλεψαν για την ανατροπή, αλλά «λύγισαν» οι Πειραιώτες",
+          "link": "https://www.in.gr/2026/01/28/sports/othersports/karlovarsko-olympiakos-3-2-palepsan-gia-tin-anatropi-alla-lygisan-oi-peiraiotes/",
+          "pubDate": "Wed, 28 Jan 2026 21:34:33 +0300",
+          "description": "Ο Ολυμπιακός έδωσε μία σπουδαία μάχη απέναντι στην Καρλοβάρσκο, αλλά ηττήθηκε με 3-2 και οι γηπεδούχοι πήραν την πρόκριση για τους «8» τους CEV Cup.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6809526-1-1-768x511.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "LIVE: Άγιαξ – Ολυμπιακός",
+          "link": "https://www.in.gr/matchcenter/4947229/",
+          "pubDate": "Wed, 28 Jan 2026 21:34:26 +0300",
+          "description": "LIVE: Άγιαξ – Ολυμπιακός. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Άγιαξ – Ολυμπιακός για την 8η αγωνιστική της League Phase του Champions League. Τηλεοπτικά από MEGA και COSMOTE SPORT 2 HD.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6819440-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Αγωνία για νεογέννητο 5 ημερών, μεταφέρθηκε επειγόντως  από τη Ρόδο στο Ηράκλειο",
           "link": "https://www.protothema.gr/greece/article/1765038/agonia-gia-neogennito-5-imeron-epeigousa-aerodiakomidi-apo-ti-rodo-sto-irakleio/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 20:32:00 +0200",
           "description": "Το μικρό αγγελούδι ταξίδεψε από τη Ρόδο με το αεροσκάφος αεροδιακομιδών του ΕΚΑΒ και μεταφέρθηκε με ασφάλεια στη Μονάδα Εντατικής Θεραπείας Νεογνών",
           "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-28/paidi-diakomidi.png",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Θεσσαλονίκη: Και δεύτερη σύλληψη στο θρίλερ με τον εντοπισμό των δύο σορών",
+          "link": "https://www.in.gr/2026/01/28/greece/thessaloniki-kai-deyteri-syllipsi-sto-thriler-ton-entopismo-ton-dyo-soron/",
+          "pubDate": "Wed, 28 Jan 2026 21:30:15 +0300",
+          "description": "Οι αστυνομικές αρχές εξέταζαν το ενδεχόμενο κατά συρροή εγκλημάτων στην Θεσσαλονίκη, μετά τη σύλληψη 52χρονου που είχε εμπλοκή και στα δύο περιστατικά",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_729802105-768x584.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Σοφία Φυρού: Τελείωσα και με τα χειρουργεία με το στήθος, το τελευταίο ήταν πριν από από 13 μέρες",
@@ -215,38 +247,6 @@
           "description": "Ο Παναθηναϊκός ήταν ο μεγάλος νικητής του ντέρμπι της 14ης αγωνιστικής της Α1 Γυναικών. Η ομάδα της Σελέν Ερντέμ επικράτησε εντός έδρας του Ολυμπιακού με ...  \nTo άρθρο Παναθηναϊκός – Ολυμπιακός 88-85: Το ντέρμπι της Α1 μπάσκετ γυναικών βάφτηκε πράσινο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-3-1-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Άσκηση ετοιμότητας ευρείας κλίμακας στον Διεθνή Αερολιμένα Αθηνών",
-          "link": "https://www.protothema.gr/greece/article/1765021/askisi-etoimotitas-eureias-klimakas-ston-diethni-aerolimena-athinon/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 20:05:55 +0200",
-          "description": "To φετινό σενάριο της άσκησης ήταν «Ατύχημα Αεροσκάφους στον Αερολιμένα» - Οι φορείς που συμμετείχαν",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-14/aerodromio49-xrm.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Σάσα Βεζένκοφ: Η ΔΕΑΒ κάλεσε τον παίκτη του Ολυμπιακού για το επεισόδιο με Ανδρέα Πετρόπουλο",
-          "link": "https://www.newsit.gr/athlitika/sasa-vezenkof-i-deav-kalese-ton-paikti-tou-olympiakou-gia-to-epeisodio-me-andrea-petropoulo/4586111/",
-          "pubDate": "Wed, 28 Jan 2026 18:04:42 +0000",
-          "description": "Η σύρραξη μεταξύ Σάσα Βεζένοφ και Ανδρέα Πατρόπουλου στο ματς Κολοσσός Ρόδου – Ολυμπιακός για τη GBL, ήταν αρκετή για να επέμβει η Διαρκής Επιτροπή ...  \nTo άρθρο Σάσα Βεζένκοφ: Η ΔΕΑΒ κάλεσε τον παίκτη του Ολυμπιακού για το επεισόδιο με Ανδρέα Πετρόπουλο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bezenkof-eurokinissi-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γεραπετρίτης μετά τον «χαμό» στην Βουλή για τα Ίμια: Ανυπόστατο το ιδεολόγημα της Τουρκίας περί «γκρίζων ζωνών»",
-          "link": "https://www.newsit.gr/politikh/gerapetritis-meta-ton-xamo-stin-vouli-gia-ta-imia-anypostato-to-ideologima-tis-tourkias-peri-gkrizon-zonon/4586108/",
-          "pubDate": "Wed, 28 Jan 2026 18:03:55 +0000",
-          "description": "Σαφές μήνυμα ότι η Ελλάδα δεν συζητεί και δεν διαπραγματεύεται ζητήματα που άπτονται της εθνικής της κυριαρχίας έστειλε ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης, στον απόηχο ...  \nTo άρθρο Γεραπετρίτης μετά τον «χαμό» στην Βουλή για τα Ίμια: Ανυπόστατο το ιδεολόγημα της Τουρκίας περί «γκρίζων ζωνών» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/07/giwrgos-gerapetritis-eurok-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός: Ο Snik στο Άμστερνταμ για τον «τελικό» πρόκρισης των Πειραιωτών",
-          "link": "https://www.newsit.gr/lifestyle/agiaks-olympiakos-o-snik-sto-amsterntam-gia-ton-teliko-prokrisis-ton-peiraioton/4586107/",
-          "pubDate": "Wed, 28 Jan 2026 18:03:53 +0000",
-          "description": "Ο Snik έχει εκφράσει πολλές φορές την αγάπη του για τον Ολυμπιακό και σε βίντεο που ανέβασε στο instagram έδειξε τους φίλους των ερυθρολεύκων, που ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Ο Snik στο Άμστερνταμ για τον «τελικό» πρόκρισης των Πειραιωτών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/snik-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Δημοσκόπηση: Τα πάνω κάτω στις θέσεις των κομμάτων – Αυξάνονται οι αναποφάσιστοι – Ποιοι κερδίζουν και ποιοι χάνουν",
+          "link": "https://www.tanea.gr/2026/01/28/politics/dimoskopisi-ta-pano-kato-stis-theseis-ton-kommaton-ayksanontai-oi-anapofasistoi-poioi-kerdizoun-kai-poioi-xanoun/",
+          "pubDate": "Wed, 28 Jan 2026 19:33:14 +0000",
+          "description": "Πτώση για τα περισσότερα κόμματα και θεαματική αύξηση της δεξαμενής των αναποφάσιστων καταγράφει η νέα δημοσκόπηση της GPO, η οποία παρουσιάστηκε στο κεντρικό δελτίο ειδήσεων του Star. Η έρευνα αποτυπώνει μεταβολές στην πρόθεση ψήφου και στις πολιτικές τάσεις ενόψει των επόμενων εκλογών. Στην πρόθεση ψήφου, η Νέα Δημοκρατία συγκεντρώνει 24,5%, έναντι 25,2% τον Νοέμβριο. Παρά […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/dimoskopisi-1.-jpeg.webp",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Στ. Παπασταύρου στα «15 Λεπτά» των «ΝΕΩΝ»: Ερευνητική γεώτρηση το 2027",
           "link": "https://www.tanea.gr/2026/01/28/vidcast/st-papastayrou-sta-15-lepta-ton-neon-ereynitiki-geotrisi-to-2027/",
@@ -485,14 +493,6 @@
           "description": "Υπογράμμισε ότι η Ελλάδα έχει από τα λιγότερα εργατικά δυστυχήματα στην ΕΕ, καταγγέλλοντας προσπάθειες παραπληροφόρησης από μέσα και κόμματα.",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/Paylos-Marinakis-2-1024x683.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Η οδική ασφάλεια στις προτεραιότητες του Τασούλα – Ποιους υποδέχθηκε στο Προεδρικό Μέγαρο",
-          "link": "https://www.tovima.gr/2026/01/28/politics/i-odiki-asfaleia-stis-proteraiotites-tou-tasoula-poious-ypodexthike-sto-proedriko-megaro/",
-          "pubDate": "Wed, 28 Jan 2026 14:38:17 +0300",
-          "description": "Συνάντηση του Προέδρου της Δημοκρατίας Κωνσταντίνου Τασούλα με φορείς οδικής ασφάλειας για την καλλιέργεια οδικής συνείδησης, τη στήριξη θυμάτων τροχαίων και τη συνέχιση της μείωσης των θανατηφόρων ατυχημάτων",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/03/13/tasoulas3-1024x683.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -573,10 +573,10 @@
           "source": "Euronews"
         },
         {
-          "title": "Panic on crowded train - passenger tells BBC of moment of Russian drone strike",
+          "title": "Panic on crowded Ukraine train - passenger describes moment of Russian drone strike",
           "link": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 16:59:02 GMT",
-          "description": "Five people died in the attack in northeastern Ukraine when three drones targeted the train.",
+          "description": "The BBC speaks to a person who was aboard a train on which five people died after it was targeted by drones.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a5/live/6fdca200-fc7c-11f0-9972-d3f265c101c6.jpg",
           "source": "BBC News"
         },
