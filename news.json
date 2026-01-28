@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-28T14:43:55.836Z",
-  "totalArticles": 180,
+  "lastUpdated": "2026-01-28T14:45:31.165Z",
+  "totalArticles": 178,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Μιμή Ντενίση: Μετάνιωσα που δεν απέκτησα άλλα παιδιά, γιατί το “τέρας” η Μαριτίνα με εμπόδισε",
+          "link": "https://www.newsit.gr/lifestyle/mimi-ntenisi-metaniosa-pou-den-apektisa-alla-paidia-giati-to-teras-i-maritina-me-empodise/4585843/",
+          "pubDate": "Wed, 28 Jan 2026 14:44:00 +0000",
+          "description": "Μία αποκαλυπτική συνέντευξη έδωσε η Μιμή Ντενίση και μίλησε τόσο για την απόφασή της να μην αποκτήσει περισσότερα παιδιά, με την υιοθεσία της Μαριτίνας, όσο ...  \nTo άρθρο Μιμή Ντενίση: Μετάνιωσα που δεν απέκτησα άλλα παιδιά, γιατί το “τέρας” η Μαριτίνα με εμπόδισε δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mimi-ntenisi-1ndp-1200x722.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Για ξέπλυμα μαύρου χρήματος ερευνάται η Deutsche Bank – Έφοδος στα γραφεία της, στο μικροσκόπιο και ο Ρομάν Αμπράμοβιτς",
           "link": "https://www.newsit.gr/oikonomia/diethni/gia-kseplyma-mayrou-xrimatos-ereynatai-i-deutsche-bank-efodos-sta-grafeia-tis-sto-mikroskopio-kai-o-roman-ampramovits/4585883/",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 16:23:53 +0300",
           "description": "Παρά τα τραγικά αποτελέσματα, ο Ράφα Μπενίτεθ δήλωσε ευχαριστημένος με τον τρόπο που δουλεύει ο Παναθηναϊκός και ενόψει του ματς με τη Ρόμα, ο Ισπανός τεχνικός εγγυήθηκε... μελλοντική βελτίωση.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827661-768x511.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μάρκος Βαφειάδης: Η «επεξεργασία»",
-          "link": "https://www.in.gr/2026/01/28/istoriko-arxeio/markos-vafeiadis-epeksergasia/",
-          "pubDate": "Wed, 28 Jan 2026 16:21:43 +0300",
-          "description": "Η αυθαίρετη, η λαθεμένη θέση του κόμματός μας για «Βαλκανική Ομοσπονδία», για «Ενιαία και ανεξάρτητη Μακεδονία»",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/vafeiadis.proti_-600x440.jpg",
           "source": "In.gr"
         }
       ]
@@ -1001,14 +1001,6 @@
           "source": "Trifilara"
         },
         {
-          "title": "Παναθηναϊκός: Επισπεύδεται το ντεμπούτο του Αντίνο!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-epispeudetai-to-debouto-tou-andino/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-epispeudetai-to-debouto-tou-andino",
-          "pubDate": "Wed, 28 Jan 2026 14:25:00 +0000",
-          "description": "Ο Σαντίνο Αντίνο βρίσκεται ένα βήμα πριν την πρώτη του εμφάνιση με τα «πράσινα», με τον Μπενίτεθ να τον υπολογίζει για το ματς της Κυριακής με την Κηφισιά. Η ανυπομονησία του κόσμου για να τον δει σε αγωνιστική δράση είναι μεγάλη και όλα δείχνουν πως αυτό μπορεί να συμβεί την προσεχή Κυριακή (1/2), όταν το […]\nThe post Παναθηναϊκός: Επισπεύδεται το ντεμπούτο του Αντίνο! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Andino-1-2.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Παναθηναϊκός: Αναβολή αγώνα λόγω πένθους",
           "link": "https://panathinaikos24.gr/2026/01/28/618098/panathinaikos-anavoli-agona-logo-penthous/",
           "pubDate": "Wed, 28 Jan 2026 14:08:23 +0000",
@@ -1017,20 +1009,20 @@
           "source": "Panathinaikos24"
         },
         {
+          "title": "Μπενίτεθ για Αντίνο: «Σε μια άσκηση δεν μπορούσε κανείς να τον σταματήσει!»",
+          "link": "https://trifilara.gr/benites-gia-andino-se-mia-askhsh-den-mporouse-kaneis-na-ton-stamathsei/?utm_source=rss&utm_medium=rss&utm_campaign=benites-gia-andino-se-mia-askhsh-den-mporouse-kaneis-na-ton-stamathsei",
+          "pubDate": "Wed, 28 Jan 2026 14:06:56 +0000",
+          "description": "Ο Ράφα Μπενίτεθ στις δηλώσεις του κατά την διάρκεια της συνέντευξης Τύπου αποθέωσε τον  Σαντίνο Αντίνο τονίζοντας πως βρίσκεται σε πολύ καλή κατάσταση.\nThe post Μπενίτεθ για Αντίνο: «Σε μια άσκηση δεν μπορούσε κανείς να τον σταματήσει!» appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Ντόρτμουντ – Ίντερ με «Ενίσχυση» στην απόλυτη γερμανική παράδοση",
           "link": "https://panathinaikos24.gr/2026/01/28/618091/ntortmount-inter-me-enisxysi-stin-apolyti-germaniki-paradosi/",
           "pubDate": "Wed, 28 Jan 2026 14:05:51 +0000",
           "description": "Ντόρτμουντ και η Ίντερ παίζουν τα… ρέστα τους στο «Signal Iduna Park» στην τελευταία αγωνιστική της league phase του Champions League, σε μια αναμέτρηση με παρόμοιο βαθμολογικό ενδιαφέρον και για τις δύο πλευρές.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/thumbnail.png?fit=1100%2C650&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Μπενίτεθ για Αντίνο: «Σε μια άσκηση δεν μπορούσε κανείς να τον σταματήσει!»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/benites-gia-antino-se-mia-askhsh-den-mporouse-kaneis-na-ton-stamathsei/?utm_source=rss&utm_medium=rss&utm_campaign=benites-gia-antino-se-mia-askhsh-den-mporouse-kaneis-na-ton-stamathsei",
-          "pubDate": "Wed, 28 Jan 2026 14:01:32 +0000",
-          "description": "Ο Ράφα Μπενίτεθ στις δηλώσεις του κατά την διάρκεια της συνέντευξης Τύπου αποθέωσε τον  Σαντίνο Αντίνο τονίζοντας πως βρίσκεται σε πολύ καλή κατάσταση. Ιδιαίτερα θετικά είναι τα πρώτα δείγματα που αφήνει στις προπονήσεις του Παναθηναϊκός ο Σαντίνο Αντίνο, με τον 20χρονο Αργεντινό να δείχνει πως έχει προσαρμοστεί γρήγορα και βρίσκεται σε πολύ καλή αγωνιστική κατάσταση. […]\nThe post Μπενίτεθ για Αντίνο: «Σε μια άσκηση δεν μπορούσε κανείς να τον σταματήσει!» appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/andino-7.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Νάπολι – Τσέλσι με Bet Builder στην ανάγκη των «Παρτενοπέι»",
@@ -1057,28 +1049,12 @@
           "source": "Trifilara"
         },
         {
-          "title": "Παναθηναϊκός: Τα χαρακτηριστικά που ζητά ο Μπενίτεθ για τη μεταγραφή αμυντικού χαφ!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ta-xarakthristika-pou-zhta-o-benites-gia-th-metagrafh-tou-amuntikou-xaf/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ta-xarakthristika-pou-zhta-o-benites-gia-th-metagrafh-tou-amuntikou-xaf",
-          "pubDate": "Wed, 28 Jan 2026 13:17:02 +0000",
-          "description": "Οι «πράσινοι» επιταχύνουν για την απόκτηση καθαρού αμυντικού χαφ, με τις επαφές να βρίσκονται σε προχωρημένο στάδιο. Ο τραυματισμός του Τσιριβέγια, που τον θέτει εκτός δράσης έως τα μέσα Μαρτίου, άλλαξε τα δεδομένα και ανάγκασε το «τριφύλλι» να ανεβάσει ρυθμούς, αναζητώντας ένα «6άρι» με ένταση, αθλητικά χαρακτηριστικά και την ετοιμότητα να μπει άμεσα στο βασικό […]\nThe post Παναθηναϊκός: Τα χαρακτηριστικά που ζητά ο Μπενίτεθ για τη μεταγραφή αμυντικού χαφ! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/kotsolis-benitez.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Ιταλικό σενάριο για ενδιαφέρον του Παναθηναϊκού για τον Γκάλο!",
           "link": "https://trifilara.gr/italiko-senario-gia-endiaferon-tou-panathinaikou-gia-ton-gkalo/?utm_source=rss&utm_medium=rss&utm_campaign=italiko-senario-gia-endiaferon-tou-panathinaikou-gia-ton-gkalo",
           "pubDate": "Wed, 28 Jan 2026 13:02:01 +0000",
           "description": "Ιταλικό δημοσίευμα φέρνει τον Παναθηναϊκό να έχει καταθέσει πρόταση για τον βασικό αριστερό μπακ της Λέτσε.\nThe post Ιταλικό σενάριο για ενδιαφέρον του Παναθηναϊκού για τον Γκάλο! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Ιταλικό δημοσίευμα: «Στο στόχαστρο του Παναθηναϊκού ο Γκάλο!»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/italiko-dimosieuma-sto-stoxastro-tou-panathinaikou-o-galo/?utm_source=rss&utm_medium=rss&utm_campaign=italiko-dimosieuma-sto-stoxastro-tou-panathinaikou-o-galo",
-          "pubDate": "Wed, 28 Jan 2026 13:00:53 +0000",
-          "description": "Ιταλικό δημοσίευμα φέρνει τον Παναθηναϊκό να έχει καταθέσει πρόταση για τον βασικό αριστερό μπακ της Λέτσε. Νέο όνομα προστίθεται στη μεταγραφική λίστα του Παναθηναϊκός για τη θέση του αριστερού μπακ, καθώς σύμφωνα με τον έγκυρο Ιταλό δημοσιογράφο Τζανλούκα Ντι Μάρτζιο, οι «πράσινοι» εξετάζουν σοβαρά την περίπτωση του Αντονίνο Γκάλο της Λέτσε. Όπως αναφέρει ο Ντι […]\nThe post Ιταλικό δημοσίευμα: «Στο στόχαστρο του Παναθηναϊκού ο Γκάλο!» appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/ab3b3f34-8fa3-4197-8d7c-8f320cf67ed9-e1769604959371.png",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Μπενίτεθ: «Είμαι σίγουρος ότι στο μέλλον θα είμαστε καλύτεροι, το εγγυώμαι αυτό!»",
@@ -1105,14 +1081,6 @@
           "source": "Trifilara"
         },
         {
-          "title": "Μπενίτεθ: «Είπαμε με Αλαφούζο ότι θα χρειαστούμε κι άλλες μεταγραφές – Ζητούν διάφορα πράγματα!»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/beniteth-eipame-me-alafouzo-oti-tha-chr/?utm_source=rss&utm_medium=rss&utm_campaign=beniteth-eipame-me-alafouzo-oti-tha-chr",
-          "pubDate": "Wed, 28 Jan 2026 12:34:31 +0000",
-          "description": "Ο Ράφα Μπενίτεθ μίλησε στην συνέντευξη Τύπου, πριν την αναμέτρηση του Παναθηναϊκού με τη Ρόμα. Όσα είπε στην συνέντευξη Τύπου ο Μπενίτεθ: «Πριν ξεκινήσουμε θα ήθελα να εκφράσω τα ειλικρινή μου συλλυπητήρια σε όλες τις οικογένειες των ανθρώπων που έχασαν χτες την ζωή τους σε αυτό το τραγικό δυστύχημα. Να έχουν μια γρήγορη ανάρρωση όσοι […]\nThe post Μπενίτεθ: «Είπαμε με Αλαφούζο ότι θα χρειαστούμε κι άλλες μεταγραφές – Ζητούν διάφορα πράγματα!» appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-2-4.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Πάντοβιτς: «Χαρούμενοι που έχουμε προκριθεί – Να βελτιώσουμε την εικόνα μας»",
           "link": "https://panathinaikos24.gr/2026/01/28/618058/pantovits-xaroumenoi-pou-exoume-prokrithei-na-veltiosoume-tin-eikona-mas/",
           "pubDate": "Wed, 28 Jan 2026 12:28:47 +0000",
@@ -1129,22 +1097,6 @@
           "source": "Trifilara"
         },
         {
-          "title": "Τρομερή κίνηση από οπαδό του Παναθηναϊκού για να τιμήσει τα αδικοχαμένα «αετόπουλα» (pic)",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/tromerh-kinhsh-apo-opado-tou-panathinaikou-gia-na-timhsei-ta-adikoxamena-aetopoula-pic/?utm_source=rss&utm_medium=rss&utm_campaign=tromerh-kinhsh-apo-opado-tou-panathinaikou-gia-na-timhsei-ta-adikoxamena-aetopoula-pic",
-          "pubDate": "Wed, 28 Jan 2026 12:21:55 +0000",
-          "description": "Μια εικόνα που ξεπέρασε τα χρώματα και έστειλε μήνυμα ενότητας μετά την ανείπωτη απώλεια των επτά οπαδών του ΠΑΟΚ. Η τραγωδία στη Ρουμανία, που στοίχισε τη ζωή σε επτά φίλους του ΠΑΟΚ, έχει βυθίσει στο πένθος όχι μόνο την οικογένεια του συλλόγου, αλλά ολόκληρο τον φίλαθλο κόσμο, με τον πόνο να μετατρέπεται σε μήνυμα ενότητας […]\nThe post Τρομερή κίνηση από οπαδό του Παναθηναϊκού για να τιμήσει τα αδικοχαμένα «αετόπουλα» (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Toumpa-NekroiOpadoiPAOK-full.webp",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Πάντοβιτς: «Φυσιολογικά τα σκαμπανεβάσματα – Δεν μπόρεσα να σκοράρω»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/pantovits-fysiologika-ta-skabanev/?utm_source=rss&utm_medium=rss&utm_campaign=pantovits-fysiologika-ta-skabanev",
-          "pubDate": "Wed, 28 Jan 2026 12:21:39 +0000",
-          "description": "Ο Μίλος Πάντοβιτς μίλησε στη συνέντευξη Τύπου στο ΟΑΚΑ ενόψει της αναμέτρησης του Παναθηναϊκού με τη Ρόμα. Μέχρι τώρα βλέπουμε τον Παναθηναϊκό στην Ευρώπη να παρουσιάζει ένα καλύτερο πρόσωπο. Συμφωνείς με αυτό; Ποια είναι η δική σου εξήγησε και ποιο είναι το κίνητρο για αύριο αφού έχει έρθει ήδη η πρόκριση; «Ξέρουμε ότι έχουμε προκριθεί […]\nThe post Πάντοβιτς: «Φυσιολογικά τα σκαμπανεβάσματα – Δεν μπόρεσα να σκοράρω» appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/pandovic-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Κυκλοφόρησαν τα εισιτήρια για το παιχνίδι με την Μερσίν στο Telekom Center Athens!",
           "link": "https://trifilara.gr/kukloforhsan-ta-eisithria-gia-to-paixnidi-me-thn-mersin-sto-telekom-center-athens/?utm_source=rss&utm_medium=rss&utm_campaign=kukloforhsan-ta-eisithria-gia-to-paixnidi-me-thn-mersin-sto-telekom-center-athens",
           "pubDate": "Wed, 28 Jan 2026 12:09:29 +0000",
@@ -1159,14 +1111,6 @@
           "description": "Παρακολουθήστε την συνέντευξη Τύπου του Παναθηναϊκού, ενόψει της αυριανής αναμέτρησης με την Ρόμα στο ΟΑΚΑ.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6750336_140640_134446.jpg?fit=880%2C587&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Επίσημο: Στο Telekom Center Athens ο προημιτελικός με τη Μερσίν – Οι τιμές των εισιτηρίων!",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/epishmo-sto-telecom-center-athens-o-prohmitelikos-me-th-mersin-oi-times-twn-eisitiriwn/?utm_source=rss&utm_medium=rss&utm_campaign=epishmo-sto-telecom-center-athens-o-prohmitelikos-me-th-mersin-oi-times-twn-eisitiriwn",
-          "pubDate": "Wed, 28 Jan 2026 11:58:12 +0000",
-          "description": "Ο Παναθηναϊκός Α.Ο. ανακοίνωσε πως το κρίσιμο ευρωπαϊκό παιχνίδι του μπάσκετ γυναικών θα φιλοξενηθεί στο Telekom Center Athens. Την έδρα του προημιτελικού αγώνα του Eurocup για το τμήμα μπάσκετ γυναικών έκανε γνωστή ο Παναθηναϊκός Α.Ο., επιβεβαιώνοντας πως η αναμέτρηση απέναντι στη Μερσίν θα διεξαχθεί στο Telekom Center Athens. Με επίσημη ενημέρωση, ο Παναθηναϊκός Α.Ο. γνωστοποίησε […]\nThe post Επίσημο: Στο Telekom Center Athens ο προημιτελικός με τη Μερσίν – Οι τιμές των εισιτηρίων! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Gynaikon-oaka.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "«Πρόταση του Παναθηναϊκού στη Λέτσε για Γκάλο»",
@@ -1201,14 +1145,6 @@
           "source": "Trifilara"
         },
         {
-          "title": "Επίσημο: Στον Παναθηναϊκό ο Βανδήρας! – Η διάρκεια του συμβολαίου!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/epishmo-ston-panathinaiko-o-vandhras-h-diarkeia-tou-sumvolaiou/?utm_source=rss&utm_medium=rss&utm_campaign=epishmo-ston-panathinaiko-o-vandhras-h-diarkeia-tou-sumvolaiou",
-          "pubDate": "Wed, 28 Jan 2026 11:15:20 +0000",
-          "description": "Ο Παναθηναϊκός συνεχίζει να επενδύει στις Ακαδημίες, «δένοντας» με επαγγελματικό συμβόλαιο ένα ακόμη ταλέντο. Την ενίσχυση των τμημάτων υποδομής του συνεχίζει ο Παναθηναϊκός, ανακοινώνοντας την απόκτηση του νεαρού Αλέξανδρου Βανδήρα, στο πλαίσιο της στρατηγικής επένδυσης στο ελληνικό ταλέντο. Ο 16χρονος μεσοεπιθετικός υπέγραψε το πρώτο επαγγελματικό συμβόλαιο της καριέρας του με το «τριφύλλι», το οποίο θα […]\nThe post Επίσημο: Στον Παναθηναϊκό ο Βανδήρας! – Η διάρκεια του συμβολαίου! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Vandyras.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Με … Ντιμπάλα στην αποστολή αλλά και πολλά προβλήματα η Ρόμα!",
           "link": "https://trifilara.gr/me-ntibala-stin-apostoli-alla-ki-polla-provlimata-i-roma/?utm_source=rss&utm_medium=rss&utm_campaign=me-ntibala-stin-apostoli-alla-ki-polla-provlimata-i-roma",
           "pubDate": "Wed, 28 Jan 2026 11:02:41 +0000",
@@ -1217,19 +1153,67 @@
           "source": "Trifilara"
         },
         {
-          "title": "Με … Ντιμπάλα αλλά κι αρκετά προβλήματα η Ρόμα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/me-dybala-alla-ki-arketa-provlhmata-h-roma/?utm_source=rss&utm_medium=rss&utm_campaign=me-dybala-alla-ki-arketa-provlhmata-h-roma",
-          "pubDate": "Wed, 28 Jan 2026 10:56:03 +0000",
-          "description": "Λειψή αποστολή για τους «τζιαλορόσι» ενόψει Παναθηναϊκού, με απουσίες αλλά και την επιστροφή του Ντιμπάλα. Με μόλις 19 ποδοσφαιριστές θα ταξιδέψει η Ρόμα στην Αθήνα για την αναμέτρηση της Τετάρτης (28/1) απέναντι στον Παναθηναϊκό στο ΟΑΚΑ, στο πλαίσιο της 8ης αγωνιστικής της League Phase του Europa League. Μπορεί οι «πράσινοι» να αντιμετωπίζουν σοβαρά προβλήματα απουσιών, […]\nThe post Με … Ντιμπάλα αλλά κι αρκετά προβλήματα η Ρόμα! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Dybala.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Ο φαύλος κύκλος και η σταθερότητα ως προαπαιτούμενο",
           "link": "https://panathinaikos24.gr/2026/01/28/618025/o-faylos-kyklos-kai-i-statherotita-os-proapaitoumeno/",
           "pubDate": "Wed, 28 Jan 2026 09:26:55 +0000",
           "description": "Οι αλλεπάλληλες αλλαγές προπονητών την τελευταία διετία, οι εκτεταμένες ανανεώσεις στο ρόστερ και η διαρκής αντικατάσταση προσώπων σε καίρια πόστα, συνθέτουν εδώ και χρόνια ένα γνώριμο μοτίβο στον Παναθηναϊκό.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5005113.jpg?fit=1760%2C1168&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Απίστευτο: Αποκαλύφθηκε ο λόγος που έγινε το δυστύχημα!",
+          "link": "https://panathinaikos24.gr/2026/01/28/618022/apisteyto-apokalyfthike-o-logos-pou-egine-to-dystyxima/",
+          "pubDate": "Wed, 28 Jan 2026 08:45:27 +0000",
+          "description": "Όλα όσα γίνονται γνωστά.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3811.webp?fit=560%2C315&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Για τη νίκη στο ντέρμπι αιωνίων",
+          "link": "https://panathinaikos24.gr/2026/01/28/618019/gia-ti-niki-sto-ntermpi-aionion/",
+          "pubDate": "Wed, 28 Jan 2026 08:24:57 +0000",
+          "description": "Με την εμβόλιμη 16η αγωνιστική συνεχίζεται απόψε το πρωτάθλημα της Α1 μπάσκετ γυναικών, εκεί όπου ο Παναθηναϊκός υποδέχεται στο κλειστό «Παύλος Γιαννακόπουλος» της Λεωφόρου, τον Ολυμπιακό στο μεγάλο ντέρμπι (18:15, ΕΡΤ2 Σπορ).",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3810.jpeg?fit=750%2C422&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Επίσημο: Στο ΟΑΚΑ ο αγώνας των κοριτσιών και κόντρα στη Μερσίν!",
+          "link": "https://panathinaikos24.gr/2026/01/28/618015/episimo-sto-oaka-o-agonas-ton-koritsion-kai-kontra-sti-mersin/",
+          "pubDate": "Wed, 28 Jan 2026 06:20:17 +0000",
+          "description": "Όλα τα δεδομένα.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3809.jpeg?fit=750%2C422&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Το μήνυμα του Μητσοτάκη για την τραγωδία στη Ρουμανία: «Βαθιά συγκλονισμένος…» – Η πρώτη κίνηση της Κυβέρνησης",
+          "link": "https://panathinaikos24.gr/2026/01/27/617981/to-minyma-tou-mitsotaki-gia-tin-tragodia-sti-roumania-vathia-sygklonismenos-i-proti-kinisi-tis-kyvernisis/",
+          "pubDate": "Tue, 27 Jan 2026 18:56:39 +0000",
+          "description": "Ο Κυριάκος Μητσοτάκης έστειλε το μήνυμά του για την τραγωδία που έλαβε χώρα στη Ρουμανία με θύματα οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2024/04/Mitsotakis-3-scaled-1.jpg?fit=1024%2C614&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Καιρός: Ισχυρές βροχές θα χτυπήσουν την Αττική Πέμπτη, Σάββατο και Κυριακή",
+          "link": "https://panathinaikos24.gr/2026/01/27/617941/kairos-isxyres-vroxes-tha-xtypisoun-tin-attiki-pempti-savvato-kai-kyriaki/",
+          "pubDate": "Tue, 27 Jan 2026 18:35:33 +0000",
+          "description": "Σύμφωνα με τον μετεωρολόγο Γιώργο Τσατραφύλλια, το νέο αυτό κύμα κακοκαιρίας θα χτυπήσει την Αττική το μεσημέρι της Πέμπτης, το πρωί του Σαββάτου και από το απόγευμα της Κυριακής και μετά.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/4917629.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Βιολάντα: Συνελήφθη ο ιδιοκτήτης του εργοστασίου και δύο στελέχη",
+          "link": "https://panathinaikos24.gr/2026/01/27/618009/violanta-synelifthi-o-idioktitis-tou-ergostasiou-kai-dyo-stelexi/",
+          "pubDate": "Tue, 27 Jan 2026 18:01:42 +0000",
+          "description": "Ο ιδιοκτήτης της «Βιολάντα» κατηγορείται για ανθρωποκτονία από αμέλεια, έκρηξη, εμπρησμό από αμέλεια και σωματικές βλάβες.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/violanta2-reuters-1200x675-1.webp?fit=1200%2C675&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Οδύνη για τους επτά νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία – Το χρονικό της τραγωδίας",
+          "link": "https://panathinaikos24.gr/2026/01/27/618004/odyni-gia-tous-epta-nekrous-opadous-tou-paok-sti-roumania-to-xroniko-tis-tragodias/",
+          "pubDate": "Tue, 27 Jan 2026 17:55:30 +0000",
+          "description": "Ανείπωτη θλίψη από τον αδόκητο χαμό επτά οπαδών του ΠΑΟΚ σε τροχαίο δυστύχημα στη Ρουμανία το μεσημέρι της Τρίτης.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/troxaio-paok-roumania.webp?fit=1300%2C700&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
