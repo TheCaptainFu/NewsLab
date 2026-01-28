@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T14:10:27.879Z",
+  "lastUpdated": "2026-01-28T14:15:29.680Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,11 +747,19 @@
       "color": "green",
       "articles": [
         {
-          "title": "Φωτιά στο εργοστάσιο «Βιολάντα»: Από υπογειοποιημένο σωλήνα η πολύμηνη διαρροή προπανίου",
-          "link": "https://www.gazzetta.gr/plus/2510925/fotia-sto-ergostasio-biolanta-apo-ypogeiopoiimeno-solina-i-polymini-diarroi-propanioy",
-          "pubDate": "Wed, 28 Jan 2026 16:09:55 +0200",
-          "description": "Σε διαρροή μεγάλης ποσότητας προπανίου από σωληνώσεις οφείλεται η έκρηξη στο εργοστάσιο της «Βιολάντα», με αποτέλεσμα των θάνατο 5 εργατριών.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/violanta-trikala01.jpg?itok=5BFsO9FU",
+          "title": "Κάλεσμα Φουρνιέ ενόψει Μπαρτσελόνα: «Σας χρειαζόμαστε να “ροκάρουμε” στο ΣΕΦ»",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510926/kalesma-foyrnie-enopsei-mpartselona-sas-hreiazomaste-na-rokaroyme-sto",
+          "pubDate": "Wed, 28 Jan 2026 16:13:24 +0200",
+          "description": "Ο Εβάν Φουρνιέ, μέσω ανάρτησης που πραγματοποίησε, κάλεσε τον κόσμο του Ολυμπιακού να γεμίσει το ΣΕΦ, για την αυριανή αναμέτρηση κόντρα στην Μπαρτσελόνα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fournier24.jpg?itok=05SB1cve",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Το δημοφιλές ρόφημα που μπορεί να επηρεάσει αρνητικά τον ύπνο σου (και δεν είναι ο καφές)",
+          "link": "https://www.gazzetta.gr/plus/2510909/dimofiles-rofima-poy-mporei-na-epireasei-arnitika-ton-ypno-soy-kai-den-einai-o-kafes",
+          "pubDate": "Wed, 28 Jan 2026 16:10:22 +0200",
+          "description": "Τι δείχνουν τα δεδομένα για ένα ρόφημα που θεωρείται «αθώο», αλλά μπορεί να επηρεάζει τον κιρκάδιο ρυθμό και την ποιότητα του ύπνου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dan-gold-tlqebgku1di-unsplash.jpg?itok=bpV9UqDr",
           "source": "Gazzetta"
         },
         {
@@ -763,11 +771,19 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Ο κίνδυνος να χαλάσει η Αστυνομία τα σχέδια των φίλων τω ερυθρόλευκων",
+          "title": "Ολυμπιακός: Ο κίνδυνος να χαλάσει η Αστυνομία τα σχέδια των οπαδών του",
           "link": "https://www.gazzetta.gr/football/champions-league/2510923/olympiakos-o-kindynos-na-halasei-i-astynomia-ta-shedia-ton-filon",
           "pubDate": "Wed, 28 Jan 2026 16:01:23 +0200",
           "description": "Τα σημεία όπου μπορούν οι πάνω από 7.000 φίλοι του Ολυμπιακού να δουν το ματς από την τηλεόραση κι ο κίνδυνος να μην καταφέρουν ούτε αυτό! ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oll12.jpg?itok=WbQzKS6v",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Φωτιά στο εργοστάσιο «Βιολάντα»: Από υπογειοποιημένο σωλήνα η πολύμηνη διαρροή προπανίου",
+          "link": "https://www.gazzetta.gr/plus/2510925/fotia-sto-ergostasio-biolanta-apo-ypogeiopoiimeno-solina-i-polymini-diarroi-propanioy",
+          "pubDate": "Wed, 28 Jan 2026 16:00:55 +0200",
+          "description": "Σε διαρροή μεγάλης ποσότητας προπανίου από σωληνώσεις οφείλεται η έκρηξη στο εργοστάσιο της «Βιολάντα», με αποτέλεσμα των θάνατο 5 εργατριών.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/violanta-trikala01.jpg?itok=5BFsO9FU",
           "source": "Gazzetta"
         },
         {
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 14:27:42 +0200",
           "description": "Τα ειλικρινή του συλλυπητήρια μετέφερε ο Αλεξάντερ Τσέφεριν στον Μάκη Γκαγκάτση για την τραγωδία που σημειώθηκε στη Ρουμανία και στοίχισε τη ζωή σε επτά οπαδούς του ΠΑΟΚ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-03/ceferin-uefa.jpg?itok=KlXnJ0fL",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γιάννης Βρούτσης για την τραγωδία του ΠΑΟΚ: «Θα στηρίξουμε κάθε αίτημα για διακοπή αθλητικών δραστηριοτήτων»",
-          "link": "https://www.newsit.gr/athlitika/giannis-vroutsis-gia-tin-tragodia-tou-paok-tha-stiriksoume-kathe-aitima-gia-diakopi-athlitikon-drastiriotiton/4585716/",
-          "pubDate": "Wed, 28 Jan 2026 12:26:08 +0000",
-          "description": "Το τραγικό δυστύχημα με τους 7 νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία, έχει “παγώσει” το ελληνικό ποδόσφαιρο και ο αναπληρωτής υπουργός Αθλητισμού, Γιάννης Βρούτσης άφησε ...  \nTo άρθρο Γιάννης Βρούτσης για την τραγωδία του ΠΑΟΚ: «Θα στηρίξουμε κάθε αίτημα για διακοπή αθλητικών δραστηριοτήτων» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vroutsis-1-1200x752.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Εθνική Ελλάδος: Εγκρίθηκε το φιλικό με την Παραγουάη στις 27 Μαρτίου",
-          "link": "https://www.gazzetta.gr/football/diethni-filika/2510897/ethniki-ellados-egkrithike-filiko-me-tin-paragoyai-stis-27-martioy",
-          "pubDate": "Wed, 28 Jan 2026 14:22:02 +0200",
-          "description": "Η Εκτελεστική Επιτροπή της ΕΠΟ ενέκρινε το φιλικό της Εθνικής με την Παραγουάη, τον ερχόμενο Μάρτιο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ellada_2.jpg?itok=52Hka9M8",
           "source": "Gazzetta"
         }
       ]
