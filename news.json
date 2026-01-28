@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T16:45:30.566Z",
+  "lastUpdated": "2026-01-28T16:46:34.397Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Αντετοκούνμπο: «Έτοιμος για trade ο Γιάννης από τους Μπακς» γράφει το ESPN",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510965/antetokoynmpo-etoimos-gia-trade-o-giannis-apo-toys-mpaks-grafei-espn",
+          "pubDate": "Wed, 28 Jan 2026 18:45:34 +0200",
+          "description": "Όπως φαίνεται ο Γιάννης Αντετοκούνμπο ίσως να μετράει και τις τελευταίες του ημέρες στο Μιλγουόκι όπως ανέφερε χαρακτηριστικά και το ESPN.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/giannis_3.jpg?itok=maGy-K_K",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Παναθηναϊκός - Ολυμπιακός: Ενός λεπτού σιγή στη μνήμη των επτά φιλάθλων του ΠΑΟΚ",
           "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2510964/panathinaikos-olympiakos-enos-leptoy-sigi-sti-mnimi-ton-epta",
           "pubDate": "Wed, 28 Jan 2026 18:42:05 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 17:29:54 +0200",
           "description": "Ο Λορέντζο Μουζέτι προηγήθηκε με 2-0 στα σετ απέναντι στον Νόβακ Τζόκοβιτς, όμως ο τραυματισμός του έβαλε πρόωρο τέλος στην πορεία του στο Australian Open...",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/djokovic_musetti_ausopen.jpg?itok=j11eYgmI",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: «Θρηνώ τους φίλους μου»",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510943/paok-dystyhima-sti-roymania-thrino-toys-filoys-moy",
-          "pubDate": "Wed, 28 Jan 2026 17:24:53 +0200",
-          "description": "Οπαδός του ΠΑΟΚ που επέζησε από το δυστύχημα μίλησε για το συμβάν και τους φίλους που έχασε και τα παιδιά που έζησαν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_7.jpg?itok=Ot6tOEtd",
           "source": "Gazzetta"
         }
       ]
