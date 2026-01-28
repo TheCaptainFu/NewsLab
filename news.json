@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T21:10:27.606Z",
+  "lastUpdated": "2026-01-28T21:15:27.091Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γυναίκες έκλεψαν κόσμημα αξίας από κοσμηματοπωλείο στο Αγρίνιο",
+          "link": "https://www.protothema.gr/greece/article/1765122/gunaikes-eklepsan-kosmima-axias-apo-kedriko-kosmimatopoleio-sto-agrinio/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 23:14:00 +0200",
+          "description": "Συνελήφθησαν μετά από άμεση επέμβαση της Αστυνομίας",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-09-08/peripoliko-mak.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ο Λορέντζο Πιρόλα έγινε αναγκαστική αλλαγή στο Άγιαξ – Ολυμπιακός",
           "link": "https://www.newsit.gr/athlitika/o-lorentzo-pirola-egine-anagkastiki-allagi-sto-agiaks-olympiakos/4586237/",
@@ -87,6 +95,22 @@
           "description": "Ο Οικουμενικός Πατριάρχης, Βαρθολομαίος, βρέθηκε στην Τούμπα για να αποτίσει φόρο τιμής στους 7 φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο τροχαίο δυστύχημα ...  \nTo άρθρο Τραγωδία με οπαδούς του ΠΑΟΚ: Στην Τούμπα ο Βαρθολομαίος με λευκά τριαντάφυλλα – «Ο πόνος είναι δυσβάσταχτος» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vartholomaios1.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία στη Ρουμανία: Τι έσωσε τη ζωή των τριών τραυματιών – «Έκανε S στον δρόμο» λέει μάρτυρας του τροχαίου",
+          "link": "https://www.in.gr/2026/01/28/greece/tragodia-sti-roumania-ti-esose-ti-zoi-ton-trion-traymation-ekane-s-ston-dromo-leei-martyras-tou-troxaiou/",
+          "pubDate": "Wed, 28 Jan 2026 23:14:05 +0300",
+          "description": "Σοκ και ανείπωτη θλίψη έχει προκαλέσει στο πανελλήνιο και την οικογένεια του ΠΑΟΚ το πολύνεκρο τροχαίο δυστύχημα που σημειώθηκε στη Ρουμανία, στο οποίο έχασαν τη ζωή τους επτά φίλαθλοι της ομάδας και τραυματίστηκαν άλλοι τρεις. Τα νεότερα δεδομένα αφορούν κυρίως την αλλαγή στον σχεδιασμό της αεροδιακομιδής των τριών τραυματιών, ο οποίοι νοσηλεύονται στην Τιμισοάρα. Ενώ […]",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/roumania-troxaio-768x376.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Δημοσκόπηση: Μειώνονται τα ποσοτά της ΝΔ – Το 70% θέλει αλλαγή κυβέρνησης",
+          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/dimoskopisi-meionontai-ta-posota-tis-nd-70-thelei-allagi-kyvernisis/",
+          "pubDate": "Wed, 28 Jan 2026 23:11:15 +0300",
+          "description": "Με μειωμένα ποσοστά εμφανίζονται τα περισσότερα κόμματα στη δημοσκόπηση της GPO, συμπεριλαμβανομένης της ΝΔ - Διαφωνούν με τις απόψεις Καρυστιανού σχεδόν 7 στους 10 πολίτες - Ποιοι την ψηφίζουν",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_7945GALLOP18426-1200x800-1200x800-1200x800-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Έκρηξη στη Βιολάντα: Έφοδος του Ρουβίκωνα στο σπίτι του ιδιοκτήτη της βιομηχανίας Κωνσταντίνου Τζιωρτζιώτη",
@@ -223,30 +247,6 @@
           "description": "Οι οργανωμένοι οπαδοί του ΠΑΟΚ θα υποδεχθούν τις επτά σορούς των αδικοχαμένων φίλων της ομάδας στο αεροδρόμιο. Οι σοροί των επτά φίλων του ΠΑΟΚ θα ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "ΗΠΑ: Σε διαθεσιμότητα οι πράκτορες της CBP που πυροβόλησαν και σκότωσαν τον 37χρονο Άλεξ Πρέτι στη Μινεάπολη",
-          "link": "https://www.newsit.gr/kosmos/ipa-se-diathesimotita-oi-praktores-tis-cbp-pou-pyrovolisan-kai-skotosan-ton-37xrono-aleks-preti-sti-mineapoli/4586193/",
-          "pubDate": "Wed, 28 Jan 2026 19:48:45 +0000",
-          "description": "Τουλάχιστον δύο από τους ομοσπονδιακούς πράκτορες της συνοριοφυλακής (CBP) που εμπλέκονται στο επεισόδιο με πυροβολισμούς κατά το οποίο σκοτώθηκε ο 37χρονου Άλεξ Πρέτι, στη Μινεάπολη ...  \nTo άρθρο ΗΠΑ: Σε διαθεσιμότητα οι πράκτορες της CBP που πυροβόλησαν και σκότωσαν τον 37χρονο Άλεξ Πρέτι στη Μινεάπολη δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alex-pretti-minneapolis-1200x764.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Το Ιράν είναι «με το δάχτυλο στη σκανδάλη» αλλά δεν αποκλείει διαπραγματεύσεις για τα πυρηνικά",
-          "link": "https://www.newsit.gr/kosmos/to-iran-einai-me-to-daxtylo-sti-skandali-alla-den-apokleiei-diapragmateyseis-gia-ta-pyrinika/4586195/",
-          "pubDate": "Wed, 28 Jan 2026 19:46:35 +0000",
-          "description": "Ο στρατός του Ιράν είναι σε απόλυτα ετοιμότητα και με το «δάκτυλο στη σκανδάλη» λέει ο ΥΠΕΞ Αμπάς Αραγτσί, όμως άφησε ανοικτό το ενδεχόμενο διαπραγματεύσεων ...  \nTo άρθρο Το Ιράν είναι «με το δάχτυλο στη σκανδάλη» αλλά δεν αποκλείει διαπραγματεύσεις για τα πυρηνικά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iran-13-1200x801.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η σύζυγος του Μπρους Γουίλις, Έμα Χέμινγκ, λέει ότι ο ηθοποιός «δεν γνωρίζει» πως πάσχει από άνοια",
-          "link": "https://www.in.gr/2026/01/28/go-fun/fizz/syzygos-tou-mprous-gouilis-ema-xemingk-leei-oti-o-ithopoios-den-gnorizei-pos-pasxei-apo-anoia/",
-          "pubDate": "Wed, 28 Jan 2026 22:45:24 +0300",
-          "description": "«Πολλοί νομίζουν ότι οι άνθρωποι αυτοί λένε ‘είμαι καλά’ επειδή αρνούνται να δουν την αλήθεια. Δεν είναι όμως άρνηση. Είναι μέρος της ίδιας της ασθένειας», δήλωσε μεταξύ άλλων η Έμα Χέμινγκ για την κατάσταση του Μπρους Γουίλις",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/h0561266-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,18 +747,26 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Τρομερή κίνηση των οπαδών της Τιμισοάρα",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511058/paok-dystyhima-sti-roymania-tromeri-kinisi-ton-opadon-tis-timisoara",
+          "pubDate": "Wed, 28 Jan 2026 23:09:39 +0200",
+          "description": "Φοβερή κίνηση των οπαδών της Τιμισοάρα, έστησαν ένα μνημείο στον τρόπο της τραγωδίας με τα επτά αετόπουλα του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_9.jpg?itok=bYIin93O",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ο Λορέντζο Πιρόλα έγινε αναγκαστική αλλαγή στο Άγιαξ – Ολυμπιακός",
           "link": "https://www.newsit.gr/athlitika/o-lorentzo-pirola-egine-anagkastiki-allagi-sto-agiaks-olympiakos/4586237/",
           "pubDate": "Wed, 28 Jan 2026 21:08:10 +0000",
           "description": "Με ένα σημαντικό πρόβλημα ολοκλήρωσε ο Ολυμπιακός το πρώτο ημίχρονο στην έδρα του Άγιαξ, αφού αναγκάστηκε να προχωρήσει σε αναγκαστική αλλαγή, με τον Πιρόλα να ...  \nTo άρθρο Ο Λορέντζο Πιρόλα έγινε αναγκαστική αλλαγή στο Άγιαξ – Ολυμπιακός δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": null,
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/piorola-eurokinissi-1200x799.jpg",
           "source": "NewsIT"
         },
         {
           "title": "Α1 Γυναικών: Συνεχίζει πρώτος ο Αθηναϊκός!",
           "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2511056/a1-gynaikon-synehizei-protos-o-athinaikos",
           "pubDate": "Wed, 28 Jan 2026 23:06:06 +0200",
-          "description": "Εύκολο ήταν το απόγευμα για τον Αθηναϊκό, μετά την επικράτηση με 72-84 επί του Πνασερραϊκού στις Σέρρες, όπου παρέμεινε στην κορυφή.",
+          "description": "Εύκολο ήταν το απόγευμα για τον Αθηναϊκό, μετά την επικράτηση με 72-84 επί του Πανσερραϊκού στις Σέρρες, όπου παρέμεινε στην κορυφή.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kaltsidou.jpg?itok=Jr4ppfiN",
           "source": "Gazzetta"
         },
@@ -977,14 +985,6 @@
           "description": "Οι οργανωμένοι οπαδοί του ΠΑΟΚ θα υποδεχθούν τις επτά σορούς των αδικοχαμένων φίλων της ομάδας στο αεροδρόμιο. Οι σοροί των επτά φίλων του ΠΑΟΚ θα ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Πανιώνιος - Λόντον Λάιονς 79-78: Με σούπερ Τέιλορ και... clutch Λιούις",
-          "link": "https://www.gazzetta.gr/basketball/eurocup/2511036/panionios-lonton-laions-79-78-me-soyper-teilor-kai-clutch-lioyis",
-          "pubDate": "Wed, 28 Jan 2026 21:49:57 +0200",
-          "description": "Με σερί 6-0 στο τελευταίο δίλεπτο και με 2/2 βολές του Ματ Λιούις στα 0.9'' ο Πανιώνιος έφτασε σε μια νίκη ψυχολογίας απέναντι στους Λόντον Λάιονς με 79-78 λίγο πριν από το ματς «ζωής και θανάτου» στο Μαρούσι.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/taylor_panionios_intime_0.jpg?itok=qAxBfMZZ",
-          "source": "Gazzetta"
         }
       ]
     },
