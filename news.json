@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T22:05:27.179Z",
+  "lastUpdated": "2026-01-28T22:10:29.511Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΠΑΟΚ: Πορεία οπαδών στην Ομόνοια με καπνογόνα – «Αδέλφια ζείτε, εσείς μας οδηγείτε»",
+          "link": "https://www.newsit.gr/athlitika/paok-poreia-opadon-stin-omonoia-me-kapnogona-adelfia-zeite-eseis-mas-odigeite/4586274/",
+          "pubDate": "Wed, 28 Jan 2026 22:08:02 +0000",
+          "description": "Συγκέντρωση μνήμης στους οπαδούς του ΠΑΟΚ που έχασαν τις ζωές τους στο τραγικό τροχαίο δυστύχημα στη Ρουμανία πραγματοποίησαν φίλοι της ομάδας στο κέντρο της Αθήνας. ...  \nTo άρθρο ΠΑΟΚ: Πορεία οπαδών στην Ομόνοια με καπνογόνα – «Αδέλφια ζείτε, εσείς μας οδηγείτε» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-13-1200x753.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ολυμπιακός: Με Αταλάντα ή Λεβερκούζεν στα πλέι οφ του Champions League",
           "link": "https://www.newsit.gr/athlitika/olympiakos-me-atalanta-i-leverkouzen-sta-plei-of-tou-champions-league/4586278/",
@@ -18,7 +26,7 @@
         },
         {
           "title": "Formula 1: Η πρωταθλήτρια McLaren μπήκε στην πίστα",
-          "link": "https://www.newsit.gr/uncategorized/formula-1-i-protathlitria-mclaren-mpike-stin-pista/4586281/",
+          "link": "https://www.newsit.gr/auto/formula-1-i-protathlitria-mclaren-mpike-stin-pista/4586281/",
           "pubDate": "Wed, 28 Jan 2026 22:00:21 +0000",
           "description": "Το μονοθέσιο της McLaren για το πρωτάθλημα της Formula 1 το 2026, η MCL40, έκανε σήμερα το ντεμπούτο του στην πίστα της Βαρκελώνης. Αυτό έρχεται ...  \nTo άρθρο Formula 1: Η πρωταθλήτρια McLaren μπήκε στην πίστα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mclaren-f1-2026.jpg",
@@ -164,7 +172,7 @@
           "title": "Άγιαξ – Ολυμπιακός 1-2: Θρυλικοί «ερυθρόλευκοι», πήραν τεράστια πρόκριση στο Άμστερνταμ!",
           "link": "https://www.in.gr/2026/01/28/sports/football/agiaks-olympiakos-1-2-thrylikoi-erythroleykoi-piran-terastia-prokrisi-sto-amsterntam/",
           "pubDate": "Wed, 28 Jan 2026 23:58:24 +0300",
-          "description": "Ο Ολυμπιακός με μια καταπληκτική εμφάνιση «άλωσε» το Άμστερνταμ και πέρασε στην επόμενη φάση του Champions League – Ζέλσον Μαρτίνς (52’) και Έσε (79’) τα γκολ του «ερυθρόλευκου» θριάμβου στην ολλανδική πόλη.",
+          "description": "Ένας μεγάλος Ολυμπιακός στο Άμστερνταμ, νίκησε τον Άγιαξ με 2-1 και προκρίθηκε στην επόμενη φάση του Champions League – Ζέλσον Μαρτίνς (52’) και Έσε (79’) τα γκολ του «ερυθρόλευκου» θριάμβου.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828903-768x555.jpg",
           "source": "In.gr"
         },
@@ -239,14 +247,6 @@
           "description": "Ο Πανιώνιος επικράτησε με 79-78 των Λόντον Λάιονς στο κλειστό «Μάκης Λιούγκας», για τη 16η αγωνιστική του Eurocup, βελτιώνοντας σε 3-13 το ρεκόρ του στον ...  \nTo άρθρο Πανιώνιος – Λόντον Λάιονς 79-78: Ο Λιούις χάρισε τη νίκη στον Ιστορικό στο Eurocup δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lewis-1200x801.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ισοφάρισε ο Άγιαξ, με πέναλτι που δόθηκε μετά από παρέμβαση του VAR (1-1, vids)",
-          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/isofarise-o-agiaks-penalti-pou-dothike-meta-apo-paremvasi-tou-var-1-1-vids/",
-          "pubDate": "Wed, 28 Jan 2026 23:38:09 +0300",
-          "description": "Η ολλανδική ομάδα ισοφάρισε με πέναλτι του Ντόλμπεργκ στο 69'",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828867-768x511.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,10 +747,50 @@
       "color": "green",
       "articles": [
         {
+          "title": "Champions League: Οι ομάδες που προκρίθηκαν στα play-offs και οι διασταυρώσεις",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511082/champions-league-oi-omades-poy-prokrithikan-sta-play-offs-kai-oi",
+          "pubDate": "Thu, 29 Jan 2026 00:09:28 +0200",
+          "description": "Δείτε τις 16 ομάδες που θα διαμορφώσουν το παζλ των play-offs του Champions League, καθώς τις διασταυρώσεις μεταξύ τους.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/real_madrid_16.jpg?itok=7Zmr3mGg",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Πορεία οπαδών στην Ομόνοια με καπνογόνα – «Αδέλφια ζείτε, εσείς μας οδηγείτε»",
+          "link": "https://www.newsit.gr/athlitika/paok-poreia-opadon-stin-omonoia-me-kapnogona-adelfia-zeite-eseis-mas-odigeite/4586274/",
+          "pubDate": "Wed, 28 Jan 2026 22:08:02 +0000",
+          "description": "Συγκέντρωση μνήμης στους οπαδούς του ΠΑΟΚ που έχασαν τις ζωές τους στο τραγικό τροχαίο δυστύχημα στη Ρουμανία πραγματοποίησαν φίλοι της ομάδας στο κέντρο της Αθήνας. ...  \nTo άρθρο ΠΑΟΚ: Πορεία οπαδών στην Ομόνοια με καπνογόνα – «Αδέλφια ζείτε, εσείς μας οδηγείτε» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-13-1200x753.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Champions League: Οι 8 ομάδες που προκρίθηκαν απευθείας στους «16»",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511081/champions-league-oi-8-omades-poy-prokrithikan-apeytheias-stoys-16",
+          "pubDate": "Thu, 29 Jan 2026 00:07:28 +0200",
+          "description": "Η League Phase ολοκληρώθηκε και «κλείδωσαν» οι οκτώ ομάδες που εξασφάλισαν απευθείας την πρόκριση στους «16» του Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fc_bayern_munich.jpg?itok=m9eCO9Y2",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Champions League: Πότε μαθαίνει αντίπαλο ο Ολυμπιακός στην κλήρωση των play-offs ",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511080/champions-league-pote-mathainei-antipalo-o-olympiakos-stin",
+          "pubDate": "Thu, 29 Jan 2026 00:06:34 +0200",
+          "description": "Ο Ολυμπιακός προκρίθηκε και αναμένει την κλήρωση των play-offs του Champions League, η οποία είναι προγραμματισμένη για τις 30 Ιανουαρίου στη Νιόν της Ελβετίας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_17.jpg?itok=AnZLRLLU",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Ατελείωτο πάρτι μετά την επική πρόκριση από παίκτες, ομάδα και κόσμο! (vids)",
+          "link": "https://www.gazzetta.gr/football/2511079/olympiakos-ateleioto-parti-meta-tin-epiki-prokrisi-apo-paiktes-omada-kai-kosmo",
+          "pubDate": "Thu, 29 Jan 2026 00:05:09 +0200",
+          "description": "Ο Ολυμπιακός είναι στην επόμενη φάση του Champions League με νίκη πρόκριση και τεράστια μαγκιά! Δείτε τους πανηγυρισμούς από ομάδα και κόσμο! ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kosmos_paiktes.jpg?itok=A-cYGH18",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Εγραψε ιστορία η Μπόντο, τρομερή η Μπενφίκα του Παυλίδη!",
           "link": "https://www.gazzetta.gr/football/champions-league/2511078/egrapse-istoria-i-mponto-tromeri-i-mpenfika-toy-paylidi",
           "pubDate": "Thu, 29 Jan 2026 00:04:46 +0200",
-          "description": "Η Μπόντο έγραψε ιστορία με το απίθανο διπλό στη Μαδρίτη, εκτός διοργάνωσης PSV, Νάπολι και Μαρσέιγ. Τεσσάρα η Πάφος, εκτός οκτάδας Ρεάλ, Ιντερ, Παρί!",
+          "description": "Η Μπόντο έγραψε ιστορία με το απίθανο διπλό στη Μαδρίτη, εκτός διοργάνωσης PSV, Νάπολι και Μαρσέιγ. Εκτός οκτάδας Ρεάλ, Ιντερ, Παρί!",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bodo_getty.jpg?itok=PXPFqTC2",
           "source": "Gazzetta"
         },
@@ -806,7 +846,7 @@
           "title": "Αγιαξ - Ολυμπιακός 1-2: Μέγας είσαι Θρύλε και θαυμαστά τα έργα σου!",
           "link": "https://www.gazzetta.gr/football/champions-league/2511071/agiax-olympiakos-1-2-megas-eisai-thryle-kai-thaymasta-ta-erga-soy",
           "pubDate": "Wed, 28 Jan 2026 23:54:37 +0200",
-          "description": "Ο σπουδαίος Ολυμπιακός έγραψε ξανά ευρωπαϊκή ιστορία! Εστησε... λάβαρο πρόκρισης στο Αμστερνταμ, νίκησε με 2-1 (Zέλσον, Εσε) τον Άγιαξ και πέρασε 18ος στην επόμενη φάση του Champions League.  ΑΜΣΤΕΡΝΤΑΜ, αποστολή: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ",
+          "description": "Ο σπουδαίος Ολυμπιακός έγραψε ξανά ευρωπαϊκή ιστορία! Εστησε... λάβαρο πρόκρισης στο Αμστερνταμ, νίκησε με 2-1 τον Άγιαξ και πέρασε 18ος στην επόμενη φάση του Champions League.  ΑΜΣΤΕΡΝΤΑΜ, αποστολή: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_14.jpg?itok=4tBDvIh0",
           "source": "Gazzetta"
         },
@@ -945,46 +985,6 @@
           "description": "Ο Βαγγέλης Παυλίδης ήταν ο μεγάλος πρωταγωνιστής της Μπενφίκα στο πρώτο ημίχρονο του αγώνα με τη Ρεάλ Μαδρίτης στην Πορτογαλία για το Champions League. Η ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης είχε γκολ και ασίστ στο Μπενφίκα – Ρεάλ Μαδρίτης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-benfica-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Τρομερή κίνηση των οπαδών της Τιμισοάρα",
-          "link": "https://www.gazzetta.gr/football/europa-league/2511058/paok-dystyhima-sti-roymania-tromeri-kinisi-ton-opadon-tis-timisoara",
-          "pubDate": "Wed, 28 Jan 2026 23:09:39 +0200",
-          "description": "Φοβερή κίνηση των οπαδών της Τιμισοάρα, έστησαν ένα μνημείο στον τρόπο της τραγωδίας με τα επτά αετόπουλα του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_9.jpg?itok=bYIin93O",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Λορέντζο Πιρόλα έγινε αναγκαστική αλλαγή στο Άγιαξ – Ολυμπιακός",
-          "link": "https://www.newsit.gr/athlitika/o-lorentzo-pirola-egine-anagkastiki-allagi-sto-agiaks-olympiakos/4586237/",
-          "pubDate": "Wed, 28 Jan 2026 21:08:10 +0000",
-          "description": "Με ένα σημαντικό πρόβλημα ολοκλήρωσε ο Ολυμπιακός το πρώτο ημίχρονο στην έδρα του Άγιαξ, αφού αναγκάστηκε να προχωρήσει σε αναγκαστική αλλαγή, με τον Πιρόλα να ...  \nTo άρθρο Ο Λορέντζο Πιρόλα έγινε αναγκαστική αλλαγή στο Άγιαξ – Ολυμπιακός δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/piorola-eurokinissi-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Α1 Γυναικών: Συνεχίζει πρώτος ο Αθηναϊκός!",
-          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2511056/a1-gynaikon-synehizei-protos-o-athinaikos",
-          "pubDate": "Wed, 28 Jan 2026 23:06:06 +0200",
-          "description": "Εύκολο ήταν το απόγευμα για τον Αθηναϊκό, μετά την επικράτηση με 72-84 επί του Πανσερραϊκού στις Σέρρες, όπου παρέμεινε στην κορυφή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kaltsidou.jpg?itok=Jr4ppfiN",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός - Βριλήσσια 31-27: Επιστροφή στη Handball Premier με νίκη",
-          "link": "https://www.gazzetta.gr/handball/a1-andron/2511055/olympiakos-brilissia-31-27-epistrofi-sti-handball-premier-me-niki",
-          "pubDate": "Wed, 28 Jan 2026 22:59:56 +0200",
-          "description": "Τη νίκη απέναντι στα Βριλήσσια με σκορ 31-27 πανηγύρισε ο Ολυμπιακός για την εξ' αναβολής 13η αγωνιστική της Handball Premier...",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_vs_vrilissia.jpg?itok=1pQp-wQM",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ - Ολυμπιακός: Ο Φουρνιέ... ζήλεψε τις φανέλες των «ερυθρόλευκων»",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2511054/agiax-olympiakos-o-foyrnie-zilepse-tis-faneles-ton-erythroleykon",
-          "pubDate": "Wed, 28 Jan 2026 22:57:24 +0200",
-          "description": "Όπως φαίνεται, ο Εβάν Φουρνιέ παρακολουθεί την αναμέτρηση του Ολυμπιακού με τον Άγιαξ στο Άμστερνταμ για το Champions League και αποθέωσε τις φανέλες των «ερυθρόλευκων».",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fournier23.jpg?itok=BIuDFNqG",
-          "source": "Gazzetta"
         }
       ]
     },
