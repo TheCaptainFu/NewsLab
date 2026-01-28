@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T13:20:31.012Z",
+  "lastUpdated": "2026-01-28T13:25:25.388Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ράφα Μπενίτεθ: «Έχουν γίνει λάθη, εγγυώμαι ότι του χρόνου θα είμαστε καλύτεροι – Ντεμπούτο με Κηφισιά ο Αντίνο»",
+          "link": "https://www.newsit.gr/athlitika/rafa-mpeniteth-exoun-ginei-lathi-eggyomai-oti-tou-xronou-tha-eimaste-kalyteroi-ntempouto-me-kifisia-o-antino/4585771/",
+          "pubDate": "Wed, 28 Jan 2026 13:21:25 +0000",
+          "description": "Ο Παναθηναϊκός ετοιμάζεται για το ματς με τη Ρόμα στην τελευταία αγωνιστική της League Phase του Champions League και ο Ράφα Μπενίτεθ μίλησε για το ...  \nTo άρθρο Ράφα Μπενίτεθ: «Έχουν γίνει λάθη, εγγυώμαι ότι του χρόνου θα είμαστε καλύτεροι – Ντεμπούτο με Κηφισιά ο Αντίνο» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/venitez-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Τα πρόσωπα της τραγωδίας του ΠΑΟΚ, θρήνος για τα «αετόπουλα» που σκοτώθηκαν στο τροχαίο της Ρουμανίας",
           "link": "https://www.protothema.gr/greece/article/1764817/paok-ta-prosopa-tis-tragodias/?utm_source=rss",
@@ -20,7 +28,7 @@
           "title": "Amazon: Περικοπή 16.000 θέσεων εργασίας σε όλο τον κόσμο",
           "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/amazon-perikopi-16-000-theseon-ergasias-se-olo-ton-kosmo/4585769/",
           "pubDate": "Wed, 28 Jan 2026 13:17:43 +0000",
-          "description": "Στην περικοπή 16.000 θέσεων εργασίας σε όλο τον κόσμο προχωρά η Amazon, χωρίς να διευκρινίζει ποιους εργαζόμενους αφορά, ενώ επικεντρώνει τις προσπάθειες του στην τεχνητή ...  \nTo άρθρο Amazon: Περικοπή 16.000 θέσεων εργασίας σε όλο τον κόσμο δημοσιεύτηκε στο NewsIT .",
+          "description": "Στην περικοπή 16.000 θέσεων εργασίας σε όλο τον κόσμο προχωρά η Amazon, χωρίς να διευκρινίζει ποιους εργαζόμενους αφορά, ενώ επικεντρώνει τη στρατηγική της στην τεχνητή ...  \nTo άρθρο Amazon: Περικοπή 16.000 θέσεων εργασίας σε όλο τον κόσμο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/amazon-reuters-scaled-1.jpg",
           "source": "NewsIT"
         },
@@ -45,7 +53,7 @@
           "link": "https://www.newsit.gr/ellada/troxaio-me-tous-opadous-tou-paok-ta-prosopa-tis-tragodias-itan-oloi-apo-20-eos-30-eton/4585730/",
           "pubDate": "Wed, 28 Jan 2026 13:09:04 +0000",
           "description": "Σοκαρισμένο παραμένει το πανελλήνιο από τον τραγικό θάνατο των επτά οπαδών του ΠΑΟΚ στο τροχαίο στη Ρουμανία το μεσημέρι της Τρίτης (27.1.26) και ενώ ταξίδευαν ...  \nTo άρθρο Τροχαίο με τους οπαδούς του ΠΑΟΚ: Τα πρόσωπα της τραγωδίας – Ήταν όλοι από 20 έως 30 ετών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roumania-sintrimia-1200x675-1.webp",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-2.jpg",
           "source": "NewsIT"
         },
         {
@@ -239,14 +247,6 @@
           "description": "Προ των πυλών νέα κακοκαιρία που αναμένεται να «χτυπήσει» τη χώρα την Πέμπτη - Τι λέει ο Τσατραφύλλιας",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/PAN_1298-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Τουρκία: Εκδοτικός οίκος κατηγορείται για «χρηματοδότηση τρομοκρατίας»",
-          "link": "https://www.newsit.gr/kosmos/tourkia-ekdotikos-oikos-katigoreitai-gia-xrimatodotisi-tromokratias/4585700/",
-          "pubDate": "Wed, 28 Jan 2026 12:04:40 +0000",
-          "description": "Η δικαιοσύνη στην Τουρκία έχει κινήσει διαδικασία διερεύνησης εις βάρος εκδοτικού οίκου για ενδεχόμενη «χρηματοδότηση της τρομοκρατίας», καθώς οποίος φέρεται να κατέβαλε αμοιβές πνευματικών δικαιωμάτων ...  \nTo άρθρο Τουρκία: Εκδοτικός οίκος κατηγορείται για «χρηματοδότηση τρομοκρατίας» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/turkey-police-reuters.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Τσιάρας: Ο εμβολιασμός δεν συνεπάγεται απαραίτητα τη μη θανάτωση ζώων – Κυβερνητική απόφαση η ενίσχυση των μέτρων βιοασφάλειας",
+          "link": "https://www.naftemporiki.gr/politics/2065051/tsiaras-o-emvoliasmos-den-synepagetai-aparaitita-ti-mi-thanatosi-zoon-kyvernitiki-apofasi-i-enischysi-ton-metron-vioasfaleias/?utm_source=rss&utm_medium=rss&utm_campaign=tsiaras-o-emvoliasmos-den-synepagetai-aparaitita-ti-mi-thanatosi-zoon-kyvernitiki-apofasi-i-enischysi-ton-metron-vioasfaleias",
+          "pubDate": "Wed, 28 Jan 2026 13:20:38 +0000",
+          "description": "«Η εθνική στρατηγική για τη χώρα είναι να ενισχύσουμε τα μέτρα βιοασφάλειας και να κλείσουμε τον κύκλο ουσιαστικά της ευλογιάς χωρίς να καταφεύγουμε στον εμβολιασμό», σημείωσε, μεταξύ άλλων ο Υπουργός…\nΤσιάρας: Ο εμβολιασμός δεν συνεπάγεται απαραίτητα τη μη θανάτωση ζώων – Κυβερνητική απόφαση η ενίσχυση των μέτρων βιοασφάλειας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Πυρά ΣΥΡΙΖΑ κατά Π. Μαρινάκη με αιχμή τις δηλώσεις του για την τραγωδία στα Τρίκαλα",
           "link": "https://www.naftemporiki.gr/politics/2065041/pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala/?utm_source=rss&utm_medium=rss&utm_campaign=pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala",
@@ -285,6 +293,14 @@
           "description": "Η βουλευτής της Νέας Δημοκρατίας, Ντόρα Μπακογιάννη, εξελέγη αντιπρόεδρος της Κοινοβουλευτικής Συνέλευσης του Συμβουλίου της Ευρώπης.\nΑντιπρόεδρος της Κοινοβουλευτικής Συνέλευσης του Συμβουλίου της Ευρώπης εξελέγη η Ντ. Μπακογιάννη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Βουλή: Καυγάς για τα Ίμια – Οι βαριές κατηγορίες Λαζαρίδη, η απάντηση Χρηστίδη",
+          "link": "https://www.tovima.gr/2026/01/28/politics/vouli-kaygas-gia-ta-imia-oi-varies-katigories-lazaridi-i-apantisi-xristidi/",
+          "pubDate": "Wed, 28 Jan 2026 15:20:36 +0300",
+          "description": "Υψηλοί τόνοι στη Βουλή 30 χρόνια μετά τα Ίμια - Πώς «άναψαν τα αίματα» μεταξύ Λαζαρίδη και Χρηστίδη - Τι είπαν οι υπόλοιποι.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/imia-1024x679.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Εξεταστική για ΟΠΕΚΕΠΕ- Κ. Μπατζελή: Το «μυστικό» δεν είναι ο «τεχνικός σύμβουλος» αλλά το πότε «ανοίγεις» τις αιτήσεις",
@@ -477,22 +493,6 @@
           "description": "Την παραπομπή της προέδρου της Πλεύσης Ελευθερίας, Ζ. Κωνσταντοπούλου στον πρόεδρο της Βουλής για αντικοινοβουλευτική συμπεριφορά, με σκοπό να προωθηθεί στην Επιτροπή Δεοντολογίας του Κοινοβουλίου, αποφάσισε, μετά από πρόταση της…\nΣτον Πρόεδρο της Βουλής για αντικοινοβουλευτική συμπεριφορά παραπέμπεται η Ζωή Κωνσταντοπούλου - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Σ. Φάμελλος: Συλλυπητήρια στις οικογένειες των θυμάτων και στη μεγάλη οικογένεια του ΠΑΟΚ",
-          "link": "https://www.naftemporiki.gr/politics/2064616/s-famellos-syllypitiria-stis-oikogeneies-ton-thymaton-kai-sti-megali-oikogeneia-toy-paok/?utm_source=rss&utm_medium=rss&utm_campaign=s-famellos-syllypitiria-stis-oikogeneies-ton-thymaton-kai-sti-megali-oikogeneia-toy-paok",
-          "pubDate": "Tue, 27 Jan 2026 15:01:12 +0000",
-          "description": "Με βαθιά οδύνη πληροφορηθήκαμε τον τραγικό θάνατο επτά φιλάθλων του ΠΑΟΚ και τον τραυματισμό τριών σε τροχαίο δυστύχημα στη Ρουμανία, σημειώνει σε ανακοίνωσή του ο πρόεδρος του ΣΥΡΙΖΑ, Σωκράτης Φάμελλος.…\nΣ. Φάμελλος: Συλλυπητήρια στις οικογένειες των θυμάτων και στη μεγάλη οικογένεια του ΠΑΟΚ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Δυστύχημα Ρουμανία – Μητσοτάκης: «Είμαι βαθιά συγκλονισμένος» για το τροχαίο με τους 7 νεκρούς οπαδούς του ΠΑΟΚ",
-          "link": "https://www.tanea.gr/2026/01/27/politics/dystyxima-roymania-mitsotakis-eimai-vathia-sygklonismenos-gia-to-troxaio-me-toys-7-nekroys/",
-          "pubDate": "Tue, 27 Jan 2026 14:59:07 +0000",
-          "description": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης εξέφρασε τη βαθιά του θλίψη για το δυστύχημα με τους επτά νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/kiriakos-mitsotakis-3-1024x681.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -747,7 +747,15 @@
       "color": "green",
       "articles": [
         {
-          "title": "ΠΑΟΚ – Δυστύχημα στη Ρουμανία: Συσσωμοί η οικογένεια του Δικεφάλου στην Τούμπα για την επιμνημόσυνη δέηση",
+          "title": "Ράφα Μπενίτεθ: «Έχουν γίνει λάθη, εγγυώμαι ότι του χρόνου θα είμαστε καλύτεροι – Ντεμπούτο με Κηφισιά ο Αντίνο»",
+          "link": "https://www.newsit.gr/athlitika/rafa-mpeniteth-exoun-ginei-lathi-eggyomai-oti-tou-xronou-tha-eimaste-kalyteroi-ntempouto-me-kifisia-o-antino/4585771/",
+          "pubDate": "Wed, 28 Jan 2026 13:21:25 +0000",
+          "description": "Ο Παναθηναϊκός ετοιμάζεται για το ματς με τη Ρόμα στην τελευταία αγωνιστική της League Phase του Champions League και ο Ράφα Μπενίτεθ μίλησε για το ...  \nTo άρθρο Ράφα Μπενίτεθ: «Έχουν γίνει λάθη, εγγυώμαι ότι του χρόνου θα είμαστε καλύτεροι – Ντεμπούτο με Κηφισιά ο Αντίνο» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/venitez-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΟΚ – Δυστύχημα στη Ρουμανία: Σύσσωμη η οικογένεια του Δικεφάλου στην Τούμπα για την επιμνημόσυνη δέηση",
           "link": "https://www.gazzetta.gr/football/europa-league/2510911/paok-dystyhima-sti-roymania-syssomoi-i-oikogeneia-toy-dikefaloy-stin",
           "pubDate": "Wed, 28 Jan 2026 15:11:03 +0200",
           "description": "Ολόκληρη η οικογένεια του ΠΑΟΚ συγκεντρώθηκε στη Θύρα 4 της Τούμπας, όπου τελέστηκε επιμνημόσυνη δέηση για τους επτά νεαρούς φιλάθλους που έχασαν τη ζωή τους στη Ρουμανία.",
@@ -977,14 +985,6 @@
           "description": "Ο Αντρέ Λουίζ θεωρείται ποδοσφαιριστής του Ολυμπιακού και απομένουν μόνο οι ανακοινώσεις, με τον ίδιο να παίρνει το αεροπλάνο για την Ολλανδία για να δει από κοντά τη νέα του ομάδα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/andre_luiz_getty.jpg?itok=YQhN4U7z",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Με τα ονομάτων των 8 αδικοχαμένων φίλων του Δικεφάλου οι φανέλες στην μπουτίκ",
-          "link": "https://www.gazzetta.gr/football/superleague/2510889/paok-dystyhima-sti-roymania-me-ta-onomaton-ton-8-adikohamenon-filon",
-          "pubDate": "Wed, 28 Jan 2026 13:43:00 +0200",
-          "description": "Μία συγκινητική κίνηση έκανε ο ΠΑΟΚ καθώς στην μπουτίκ του φαίνονται τα ονόματα των επτά αδικοχαμένων οπαδών του και του ενός που έφυγε από τη ζωή μετά από καρδιακή προσβολή στη Λάρισα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/64d45277-c6e1-475a-907c-42e973aae7b5.jpg?itok=IhYEntWG",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Τα «θέλω» του Μπενίτεθ για το αμυντικό χαφ που ψάχνει ο Παναθηναϊκός!",
+          "link": "https://trifilara.gr/ta-thelw-tou-benites-gia-to-amuntiko-xaf-pou-psaxnei-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=ta-thelw-tou-benites-gia-to-amuntiko-xaf-pou-psaxnei-o-panathinaikos",
+          "pubDate": "Wed, 28 Jan 2026 13:23:35 +0000",
+          "description": "Οι «πράσινοι» επιταχύνουν για την απόκτηση καθαρού αμυντικού χαφ, με τις επαφές να βρίσκονται σε προχωρημένο στάδιο.\nThe post Τα «θέλω» του Μπενίτεθ για το αμυντικό χαφ που ψάχνει ο Παναθηναϊκός! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
         {
           "title": "Παναθηναϊκός: Τα χαρακτηριστικά που ζητά ο Μπενίτεθ για τη μεταγραφή αμυντικού χαφ!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ta-xarakthristika-pou-zhta-o-benites-gia-th-metagrafh-tou-amuntikou-xaf/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ta-xarakthristika-pou-zhta-o-benites-gia-th-metagrafh-tou-amuntikou-xaf",
@@ -1199,14 +1207,6 @@
           "description": "Οι αλλεπάλληλες αλλαγές προπονητών την τελευταία διετία, οι εκτεταμένες ανανεώσεις στο ρόστερ και η διαρκής αντικατάσταση προσώπων σε καίρια πόστα, συνθέτουν εδώ και χρόνια ένα γνώριμο μοτίβο στον Παναθηναϊκό.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5005113.jpg?fit=1760%2C1168&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Νέα αποκάλυψη για τα αίτια του δυστυχήματος στη Ρουμανία! (vid)",
-          "link": "https://trifilara.gr/nea-apokalupsh-gia-ta-aitia-tou-dustuxhmatos-sth-roumania-vid/?utm_source=rss&utm_medium=rss&utm_campaign=nea-apokalupsh-gia-ta-aitia-tou-dustuxhmatos-sth-roumania-vid",
-          "pubDate": "Wed, 28 Jan 2026 09:22:24 +0000",
-          "description": "Έλληνας γιατρός μετέφερε συγκλονιστική μαρτυρία τραυματία φίλου του ΠΑΟΚ για τα αίτια της φονικής σύγκρουσης.\nThe post Νέα αποκάλυψη για τα αίτια του δυστυχήματος στη Ρουμανία! (vid) appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         },
         {
           "title": "Απίστευτο: Αποκαλύφθηκε ο λόγος που έγινε το δυστύχημα!",
