@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T20:15:30.358Z",
+  "lastUpdated": "2026-01-28T20:19:58.972Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -141,7 +141,7 @@
           "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-live-gia-to-finale-tis-league-phase-tou-champions-league/4585899/",
           "pubDate": "Wed, 28 Jan 2026 19:32:22 +0000",
           "description": "Μετά τις δύο σερί νίκες στη League Phase του Champions League, ο Ολυμπιακός παίζει στην “Johan Cruyff Arena” του Άγιαξ, σε… τελικό πρόκρισης στην επόμενη ...  \nTo άρθρο Άγιαξ – Ολυμπιακός live για το φινάλε της League Phase του Champions League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-ajax-eurokinissi-2-1-1200x799.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-ajax-eurokinissi-2-2-1200x799.jpg",
           "source": "NewsIT"
         },
         {
@@ -159,6 +159,14 @@
           "description": "Υψηλό χρηματικό πρόστιμο επιβλήθηκε σε 33χρονη πολιτικό από την Ελβετία, η οποία είχε προκαλέσει σάλο τo 2024 όταν χρησιμοποίησε μια εικόνα της Παναγίας της Βρεφοκρατούσας ...  \nTo άρθρο Βαρύ πρόστιμο στην πολιτικό από την Ελβετία που χρησιμοποίησε εικόνα της Παναγίας ως στόχο σκοποβολής δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sanija-ameti.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Το Ιράν απαντά στον Τραμπ: Είμαστε ανοιχτοί σε διάλογο, αλλά παραμένουμε «με το δάχτυλο στη σκανδάλη»",
+          "link": "https://www.in.gr/2026/01/28/world/iran-apanta-ston-tramp-eimaste-anoixtoi-se-dialogo-alla-paramenoume-daxtylo-sti-skandali/",
+          "pubDate": "Wed, 28 Jan 2026 22:16:34 +0300",
+          "description": "Ο Μάρκο Ρούμπιο δεν απέκλεισε κάποια επίθεση στο Ιράν, ώστε «να προστατευθούν τα αμερικανικά στρατεύματα στην περιοχή». Ο Ιρανός ομόλογός του επισήμανε ότι δεν μπορεί να υπάρξει συμφωνία σε συνθήκες εκφοβισμού.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_sh7G0W4AE40sH-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Live η βαθμολογία της League Phase του Champions League",
@@ -239,14 +247,6 @@
           "description": "Ο Μαρκ Άντονι και η καλλονή σύζυγός του, Νάντια Φερέιρα, πρόκειται να αποκτήσουν σύντομα το δεύτερο παιδί τους.  Τη χαρμόσυνη ανακοίνωση έκαναν γνωστή ο διάσημος ...  \nTo άρθρο Ο Μαρκ Άντονι και η Νάντια Φερέιρα θα αποκτήσουν 2ο παιδί: Η πόζα με τη φουσκωμένη κοιλίτσα του μοντέλου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nadia-ferreira-ap-1200x687.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "LIVE: Ουνιόν Σεν Ζιλουάζ – Αταλάντα",
-          "link": "https://www.in.gr/matchcenter/4947184/",
-          "pubDate": "Wed, 28 Jan 2026 21:56:05 +0300",
-          "description": "LIVE: Ουνιόν Σεν Ζιλουάζ – Αταλάντα. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Ουνιόν Σεν Ζιλουάζ – Αταλάντα για την 8η αγωνιστική της League Phase του Champions League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/atalanta-768x432.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -653,7 +653,7 @@
           "source": "Euronews"
         },
         {
-          "title": "Is the US preparing to strike Iran?",
+          "title": "Is the US preparing to strike Iran again?",
           "link": "https://www.bbc.com/news/articles/cly5pd98z87o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 15:36:11 GMT",
           "description": "Satellite images show a steady and significant build-up of US military forces in the region.",
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Άγιαξ - Ολυμπιακός: Το υπέροχο κορεό των οπαδών του «Αίαντα»",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511041/agiax-olympiakos-yperoho-koreo-ton-opadon-toy-aianta",
+          "pubDate": "Wed, 28 Jan 2026 22:17:59 +0200",
+          "description": "Οι οπαδοί του Άγιαξ φρόντισαν να δημιουργήσουν μία «καυτή» ατμόσφαιρα στην «Γιόχαν Κρόιφ Αρίνα» πριν το παιχνίδι της ομάδας τους με τον Ολυμπιακό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ajax_olympiakos_intime.jpg?itok=rp131gCH",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οι οπαδοί θα συνοδεύσουν τα επτά αετόπουλα",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511040/paok-dystyhima-sti-roymania-oi-opadoi-tha-synodeysoyn-ta-epta",
+          "pubDate": "Wed, 28 Jan 2026 22:16:39 +0200",
+          "description": "Οι οπαδοί του ΠΑΟΚ θα υποδεχθούν τα επτά αετόπουλα στο αεροδρόμιο και από εκεί ραντεβού στη θ4 της Τούμπας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_6_0.jpg?itok=cqBQz0qS",
+          "source": "Gazzetta"
+        },
         {
           "title": "Υποχρεώθηκε να ζητά συγγνώμη από τον άπιστο σύζυγό της και έγινε διάσημη σε όλη την Κίνα (vid)",
           "link": "https://www.gazzetta.gr/plus/2511030/ypohreothike-na-zita-syggnomi-apo-ton-apisto-syzygo-tis-kai-egine-diasimi-se-oli-tin",
@@ -863,7 +879,7 @@
           "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-live-gia-to-finale-tis-league-phase-tou-champions-league/4585899/",
           "pubDate": "Wed, 28 Jan 2026 19:32:22 +0000",
           "description": "Μετά τις δύο σερί νίκες στη League Phase του Champions League, ο Ολυμπιακός παίζει στην “Johan Cruyff Arena” του Άγιαξ, σε… τελικό πρόκρισης στην επόμενη ...  \nTo άρθρο Άγιαξ – Ολυμπιακός live για το φινάλε της League Phase του Champions League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-ajax-eurokinissi-2-1-1200x799.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-ajax-eurokinissi-2-2-1200x799.jpg",
           "source": "NewsIT"
         },
         {
@@ -969,22 +985,6 @@
           "description": "Οι Ραζβάν Λουτσέσκου και Ντέγιαν Λόβρεν μιλάνε στη συνέντευξη Τύπου στη Γαλλία ενόψει της αυριανής αναμέτρησης του ΠΑΟΚ με τη Λιόν.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lucescu_2.jpg?itok=RB-sFhYK",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ – Άλμπα Βερολίνου 88-80: Ο τρομερός Μπάρτλεϊ και o εκτελεστής Χαραλαμπόπουλος λύγισαν τους Γερμανούς",
-          "link": "https://www.newsit.gr/athlitika/aek-almpa-verolinou-88-80-o-tromeros-mpartlei-kai-o-ektelestis-xaralampopoulos-lygisan-tous-germanous/4586144/",
-          "pubDate": "Wed, 28 Jan 2026 19:03:16 +0000",
-          "description": "Με τον Φρανκ Μπάρτλεϊ να είναι σε σεληνιασμένο βράδυ, η ΑΕΚ επικράτησε εντός έδρας της Άλμπα Βερολίνου με 88-80 και έκανε το 2/2 στη δεύτερη ...  \nTo άρθρο ΑΕΚ – Άλμπα Βερολίνου 88-80: Ο τρομερός Μπάρτλεϊ και o εκτελεστής Χαραλαμπόπουλος λύγισαν τους Γερμανούς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bartley-aek-2-1200x798.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός: Η άφιξη των Πειραιωτών στην Johan Cruyff Arena και η ερυθρόλευκη εξέδρα",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-i-afiksi-ton-peiraioton-stin-johan-cruyff-arena-kai-i-erythroleyki-eksedra/4586151/",
-          "pubDate": "Wed, 28 Jan 2026 19:02:59 +0000",
-          "description": "Ο Ολυμπιακός παίζει στην έδρα του Άγιαξ για τη νίκη που θα του εξασφαλίσει μια θέση στην πρώτη 24άδα της League Phase του Champions League ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Η άφιξη των Πειραιωτών στην Johan Cruyff Arena και η ερυθρόλευκη εξέδρα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-olympiakos-afiksi-eurokinissi-1-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
