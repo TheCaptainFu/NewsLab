@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T03:00:41.150Z",
+  "lastUpdated": "2026-01-28T03:05:29.471Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -23,6 +23,14 @@
           "description": "Άστατος θα είναι ο καιρός σήμερα Τετάρτη, 28 Ιανουαρίου σε αρκετές περιοχές της χώρας. Τοπικά θα εκδηλωθούν βροχές και καταιγίδες. Η θερμοκρασία θα σημειώσει μικρή ...  \nTo άρθρο Καιρός σήμερα: Τοπικές βροχές και καταιγίδες με ανέμους 7 μποφόρ και μικρή άνοδο της θερμοκρασίας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos-3-2.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Ζήτημα εμπιστοσύνης",
+          "link": "https://www.in.gr/2026/01/28/apopsi/zitima-empistosynis/",
+          "pubDate": "Wed, 28 Jan 2026 05:00:41 +0300",
+          "description": "Η Ουάσιγκτον, απομακρυνόμενη από παραδοσιακές αρχές και αντιλήψεις, κάνει όλους τους συμμάχους της να μουδιάζουν και να ψάχνονται.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-21T141126Z_985816938_RC2Q5JAMJ5P5_RTRMADP_5_DAVOS-MEETING-TRUMP-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Ουκρανία – Ρωσία: Σχεδόν 2 εκατ. θύματα στις τάξεις των στρατών των δυο χωρών (CSIS)",
@@ -239,14 +247,6 @@
           "description": "To Ιράν προειδοποιεί τις ΗΠΑ μέσα από βίντεο πως «Όλα ξεκινούν από το πρώτο λεπτό» και το μήνυμα: «θα πατσίσουμε», την ώρα που έχουν πλήρη γνώση της θέσης των δυνάμεων των ΗΠΑ",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/DVIDS-carrier-768x477.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Εξαφανίστηκε 35χρονη στους Αμπελόκηπους",
-          "link": "https://www.protothema.gr/greece/article/1764484/exafanisi-35hronis-stous-abelokipous/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 23:10:00 +0200",
-          "description": "Η Κατερίνα Μπόυμη, 35 ετών, εξαφανίστηκε την 1 Ιουνίου του 2025,  ενδέχεται να συντρέχουν λόγοι οι οποίοι θέτουν τη ζωή της σε κίνδυνο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/exafanisi_ampelokhpoi.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
