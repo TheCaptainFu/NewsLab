@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T11:20:30.300Z",
+  "lastUpdated": "2026-01-28T11:20:58.809Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -720,7 +720,7 @@
           "title": "Πόλεμος στην Ουκρανία: Ρωσικό πλήγμα σε επιβατική αμαξοστοιχία στο Χάρκοβο - Πέντε νεκροί",
           "link": "http://gr.euronews.com/2026/01/28/oykrania-rosiko-plhgma-epibatikh-amaxostoixia-xarkobo-pente-nekroi",
           "pubDate": "Wed, 28 Jan 2026 08:14:00 +0100",
-          "description": "«Τρομοκρατική ενέργεια» καταγγέλλει ο Ζελένσκι - Νέο κύμα επιθέσεων σε Οδησσό και Κίεβο - ι 710.000 νοικοκυριά στην ουκρανική πρωτεύουσα παραμένουν χωρίς ηλεκτρικό ρεύμα",
+          "description": "«Τρομοκρατική ενέργεια» καταγγέλλει ο Ζελένσκι - Νέο κύμα επιθέσεων σε Οδησσό και Κίεβο - 710.000 νοικοκυριά στην ουκρανική πρωτεύουσα παραμένουν χωρίς ηλεκτρικό ρεύμα",
           "thumbnail": null,
           "source": "Euronews"
         },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ρόμα: Με Ντιμπάλα και Τσιμίκα η αποστολή ενόψει Παναθηναϊκού",
+          "link": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2510882/roma-me-ntimpala-kai-tsimika-i-apostoli-enopsei",
+          "pubDate": "Wed, 28 Jan 2026 13:19:15 +0200",
+          "description": "Ο Τζαν Πιέρο Γκασπερίνι ανακοίνωσε την αποστολή της Ρόμα ενόψει του αυριανού (29/1, 22:00) αγώνα στην Αθήνα με τον Παναθηναϊκό. Μέσα Ντιμπάλα και Τσιμίκας. Ποιοι απουσιάζουν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/tsimikas_roma.jpg?itok=YY_vnNA4",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οι θύρες στο Groupama Stasdium που θα μείνουν κλειστές",
           "link": "https://www.gazzetta.gr/football/europa-league/2510881/paok-dystyhima-sti-roymania-oi-thyres-sto-groupama-stasdium-poy-tha",
@@ -977,14 +985,6 @@
           "description": "Σύμφωνα με τα βρετανικά μέσα, οι δυο φίλοι της Τσέλσι δέχθηκαν επίθεση στη Νάπολη, με τον έναν μάλιστα να μοιράζεται σχετική φωτογραφία στα social media.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/chelsea_blood.jpg?itok=CMU8FnIM",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: «Βαρύ» το κλίμα στη Νέα Μεσημβρία και ενός λεπτού σιγή για τους αδικοχαμένους οπαδούς",
-          "link": "https://www.newsit.gr/athlitika/paok-vary-to-klima-sti-nea-mesimvria-kai-enos-leptou-sigi-gia-tous-adikoxamenous-opadous/4585531/",
-          "pubDate": "Wed, 28 Jan 2026 09:49:45 +0000",
-          "description": "Σε πένθος βρίσκεται ο ΠΑΟΚ από την είδηση του θανάτου 7 οπαδών του που ταξίδευαν προς το Λιόν για τον αγώνα της ομάδας τους στο ...  \nTo άρθρο ΠΑΟΚ: «Βαρύ» το κλίμα στη Νέα Μεσημβρία και ενός λεπτού σιγή για τους αδικοχαμένους οπαδούς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tuba-1-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
