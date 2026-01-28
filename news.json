@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T13:10:31.205Z",
+  "lastUpdated": "2026-01-28T13:11:05.257Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Amazon confirms 16,000 job cuts after accidental email",
+          "link": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 13:10:17 GMT",
+          "description": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceca/live/1b3c5410-faf7-11f0-8d99-4d63080b9583.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ρολόι της Αποκάλυψης: Λήξη του πολέμου του Τραμπ στις ΑΠΕ σώζει την ανθρωπότητα από το χείλος",
+          "link": "http://gr.euronews.com/green/2026/01/28/doomsday-clock-how-ending-trumps-war-on-renewable-energy-can-pull-humanity-back-from-the-b",
+          "pubDate": "Wed, 28 Jan 2026 14:05:53 +0100",
+          "description": "Μια ταχεία απεξάρτηση από τα ορυκτά καύσιμα θα μπορούσε να ανακόψει την πορεία του Ρολογιού της Αποκάλυψης, καθώς πλησιάζει προς τα μεσάνυχτα.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
           "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 13:05:30 GMT",
@@ -595,14 +611,6 @@
           "description": "Έξι άτομα προφυλακίστηκαν με απόφαση του Πρωτοδικείου της Κωνσταντινούπολης",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Amazon confirms 16,000 job cuts after accidental email",
-          "link": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 11:21:38 GMT",
-          "description": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceca/live/1b3c5410-faf7-11f0-8d99-4d63080b9583.jpg",
-          "source": "BBC News"
         },
         {
           "title": "Ειδήσεις | 28 Ιανουαρίου 2026 - Μεσημβρινό δελτίο",
@@ -731,14 +739,6 @@
           "description": "Το Κέντρο Υποδοχής Πουρνάρα αναβαθμίζεται ώστε να ανταποκριθεί στις νέες απαιτήσεις",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Malaysia football officials quit over foreign-born players scandal",
-          "link": "https://www.bbc.com/news/articles/cdx4pdg9w2wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 09:06:33 GMT",
-          "description": "Fifa had accused Malaysia's football association of doctoring citizenship documents.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc1/live/1f6dde60-fc2c-11f0-9554-45dc30088314.jpg",
-          "source": "BBC News"
         }
       ]
     },
