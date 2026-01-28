@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T06:30:30.881Z",
+  "lastUpdated": "2026-01-28T06:35:23.718Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,9 +9,25 @@
       "color": "red",
       "articles": [
         {
+          "title": "Γιώργος Κωνσταντίνου για την οικονομική καταστροφή του: Έφαγα το κεφάλι μου, έφτασα στο σημείο να τρελαθώ",
+          "link": "https://www.newsit.gr/media/giorgos-konstantinou-gia-tin-oikonomiki-katastrofi-tou-efaga-to-kefali-mou-eftasa-sto-simeio-na-trelatho/4585326/",
+          "pubDate": "Wed, 28 Jan 2026 06:33:50 +0000",
+          "description": "Ο Γιώργος Κωνσταντίνου βρέθηκε καλεσμένος του Γρηγόρη Αρναούτογλου στο «The 2night Show», που μεταδόθηκε το βράδυ της Τρίτης (27-01-2026) από τον ΑΝΤ1 και προσπάθησε να ...  \nTo άρθρο Γιώργος Κωνσταντίνου για την οικονομική καταστροφή του: Έφαγα το κεφάλι μου, έφτασα στο σημείο να τρελαθώ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/konstantinou-arxiki-1200x821.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΟΚ: Αισιοδοξία και για τους τρεις τραυματίες οπαδούς στο νοσοκομείο",
+          "link": "https://www.newsit.gr/athlitika/paok-aisiodoksia-kai-gia-tous-treis-traymaties-opadous-sto-nosokomeio/4585329/",
+          "pubDate": "Wed, 28 Jan 2026 06:30:06 +0000",
+          "description": "Επιτέλους και ένα θετικό νέο από το τροχαίο δυστύχημα που “πάγωσε” την Ελλάδα, καθώς φαίνεται ότι υπάρχει αισιοδοξία για την κατάσταση των τριών τραυματιών οπαδών ...  \nTo άρθρο ΠΑΟΚ: Αισιοδοξία και για τους τρεις τραυματίες οπαδούς στο νοσοκομείο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-12-1200x900.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Σταθερή η κατάσταση των τριών τραυματιών οπαδών του ΠΑΟΚ στη Ρουμανία, επαναπατρίζονται οι νεκροί\n",
           "link": "https://www.protothema.gr/greece/article/1764554/statheri-i-katastasi-ton-trion-traumation-opadon-tou-paok-sti-roumania-epanapatrizodai-oi-nekroi/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 08:30:17 +0200",
+          "pubDate": "Wed, 28 Jan 2026 08:30:00 +0200",
           "description": "Η Ελληνίδα πρέσβης στη Ρουμανία ενημέρωσε για την κατάσταση των τραυματιών και την προετοιμασία για τον επαναπατρισμό των θυμάτων, ενώ η ταυτοποίηση των σορών συνεχίζεται",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-roumania2.jpg",
           "source": "Πρώτο Θέμα"
@@ -231,22 +247,6 @@
           "description": "H περιπέτεια για όλη την οικογένεια, που μας προσκαλεί να ακολουθήσουμε τους ήρωες σε μοναδικές  περιπλανήσεις, που φτάνουν … ως στο διάστημα.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/eliza-768x435.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Η ακρίβεια βλάπτει (και) τις επενδύσεις ^ τι πραγματικά σημαίνει μεγαλύτερη κατανάλωση ^ οι αδύναμοι κρίκοι της οικονομίας ^ έξι δυνατά «χαρτιά» ^ ασταμάτητη η ΓΕΚ ΤΕΡΝΑ ^ ο χρυσός της Χαλκιδικής",
-          "link": "https://www.newsit.gr/blogs/apocryptografos/i-akriveia-vlaptei-kai-tis-ependyseis-ti-pragmatika-simainei-megalyteri-katanalosi-oi-adynamoi-krikoi-tis-oikonomias-eksi-dynata-xartia-astamatiti-i-gek-terna-o-xrysos-tis-xalkidikis/4585095/",
-          "pubDate": "Wed, 28 Jan 2026 05:00:00 +0000",
-          "description": "Τα αδύνατα σημεία της οικονομίας Παρά τις προβλέψεις του ΙΟΒΕ για ρυθμούς ανάπτυξης κατά 2,2% τη φετινή χρονιά, η ελληνική οικονομία δεν παύει να βρίσκεται ...  \nTo άρθρο Η ακρίβεια βλάπτει (και) τις επενδύσεις ^ τι πραγματικά σημαίνει μεγαλύτερη κατανάλωση ^ οι αδύναμοι κρίκοι της οικονομίας ^ έξι δυνατά «χαρτιά» ^ ασταμάτητη η ΓΕΚ ΤΕΡΝΑ ^ ο χρυσός της Χαλκιδικής δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-472485878-2-1200x675-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ζημιογόνες οι μονάδες αερίου στην Ελλάδα το 2030 λόγω των εγκαταστάσεων αποθήκευσης ενέργειας",
-          "link": "https://www.newsit.gr/oikonomia/finance/zimiogones-oi-monades-aeriou-stin-ellada-to-2030-logo-ton-egkatastaseon-apothikeysis-energeias/4584887/",
-          "pubDate": "Wed, 28 Jan 2026 04:48:00 +0000",
-          "description": "Προ ημερών παραδόθηκε από το Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης στον ΑΔΜΗΕ η μελέτη επάρκειας συστήματος, ένα κείμενο που θα αποτελέσει τον οδηγό για τις αποφάσεις που ...  \nTo άρθρο Ζημιογόνες οι μονάδες αερίου στην Ελλάδα το 2030 λόγω των εγκαταστάσεων αποθήκευσης ενέργειας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lng-exports-reuters-scaled-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Detox: Η βιομηχανία της αποτοξίνωσης εξαπλώνεται και στην Ελλάδα",
+          "link": "https://www.gazzetta.gr/plus/2510804/detox-i-biomihania-tis-apotoxinosis-exaplonetai-kai-stin-ellada",
+          "pubDate": "Wed, 28 Jan 2026 08:32:32 +0200",
+          "description": "Από λαχταριστούς χυμούς, μέχρι “μαγικά” επιθέματα για τα πόδια που υπόσχονται θαύματα, η αποτοξίνωση γίνεται η νέα μόδα και στη χώρα μας. Αξίζει τον κόπο;",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2197117722-1280x859.jpg?itok=Wjx6TkR8",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Αισιοδοξία και για τους τρεις τραυματίες οπαδούς στο νοσοκομείο",
+          "link": "https://www.newsit.gr/athlitika/paok-aisiodoksia-kai-gia-tous-treis-traymaties-opadous-sto-nosokomeio/4585329/",
+          "pubDate": "Wed, 28 Jan 2026 06:30:06 +0000",
+          "description": "Επιτέλους και ένα θετικό νέο από το τροχαίο δυστύχημα που “πάγωσε” την Ελλάδα, καθώς φαίνεται ότι υπάρχει αισιοδοξία για την κατάσταση των τριών τραυματιών οπαδών ...  \nTo άρθρο ΠΑΟΚ: Αισιοδοξία και για τους τρεις τραυματίες οπαδούς στο νοσοκομείο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-12-1200x900.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ολυμπιακός: Κόντρα στον Άγιαξ, η πραγματική αίσθηση του καιρού που μπορεί να φτάσει τους -5",
           "link": "https://www.gazzetta.gr/football/champions-league/2510778/olympiakos-kontra-ston-agiax-i-pragmatiki-aisthisi-toy-kairoy-poy",
           "pubDate": "Wed, 28 Jan 2026 08:30:00 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 23:40:07 +0200",
           "description": "Η Ιταλία και η νικήτρια του αγώνα Σερβίας-Κροατίας θα είναι οι αντίπαλοι της εθνικής ομάδας πόλο γυναικών στη 2η φάση των ομίλων στο ευρωπαϊκό πρωτάθλημα στο Φούντσαλ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hellas_women_water_polo.jpg?itok=zaaqhBcZ",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Καρδίτσα - Τόφας 79-93: Τα highlights",
-          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510767/karditsa-tofas-79-93-ta-highlights",
-          "pubDate": "Tue, 27 Jan 2026 23:37:25 +0200",
-          "description": "Η Καρδίτσα δεν τα κατάφερε απέναντι στην Τόφας και γνώρισε την ήττα με 79-93. Δείτε τα highlights της αναμέτρησης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jeferson_eurokinissi.jpg?itok=iPvKrX21",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οδύνη στην Αλεξάνδρεια",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510766/paok-dystyhima-sti-roymania-odyni-stin-alexandreia",
-          "pubDate": "Tue, 27 Jan 2026 23:33:54 +0200",
-          "description": "Πένθος και οδύνη στην Αλεξάνδρεια για τους οπαδούς του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_5.jpg?itok=oc8PXhbm",
           "source": "Gazzetta"
         }
       ]
