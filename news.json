@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-28T12:20:31.351Z",
-  "totalArticles": 180,
+  "lastUpdated": "2026-01-28T12:25:28.939Z",
+  "totalArticles": 178,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Η Βαλεντίνη και η Αγάθη Ράντη έκαναν διπλή μαστεκτομή: «5,5 ώρες μπήκαμε στο χειρουργείο η καθεμία μας»",
+          "link": "https://www.newsit.gr/lifestyle/i-valentini-kai-i-agathi-ranti-ekanan-dipli-mastektomi-5-5-ores-mpikame-sto-xeirourgeio-i-kathemia-mas/4585704/",
+          "pubDate": "Wed, 28 Jan 2026 12:20:30 +0000",
+          "description": "Μία συγκλονιστική εξομολόγηση έκαναν οι δίδυμες δημοσιογράφοι Βαλεντίνη και η Αγαθή Ράντη, αποκαλύπτοντας ότι τον περασμένο Δεκέμβριο έκαναν διπλή μαστεκτομή, καθώς υπήρξαν κάποιες ανησυχητικές ενδείξεις.  ...  \nTo άρθρο Η Βαλεντίνη και η Αγάθη Ράντη έκαναν διπλή μαστεκτομή: «5,5 ώρες μπήκαμε στο χειρουργείο η καθεμία μας» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/agathi-ranti-valentini-ranti-ndp-1200x704.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Κώστας Τσιάρας για ευλογιά προβάτων: «Ο εμβολιασμός δεν συνεπάγεται απαραίτητα τη μη θανάτωση των ζώων»",
           "link": "https://www.newsit.gr/politikh/kostas-tsiaras-gia-eylogia-provaton-o-emvoliasmos-den-synepagetai-aparaitita-ti-mi-thanatosi-ton-zoon/4585710/",
@@ -65,10 +73,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Ο Γρηγόρης Αρναούτογλου σταματά προσωρινά τις εκπομπές στο ραδιόφωνο σε ένδειξη πένθους για τους νεκρούς στη Βιολάντα και στο τροχαίο με τους οπαδούς ΠΑΟΚ",
-          "link": "https://www.newsit.gr/media/o-grigoris-arnaoutoglou-stamata-prosorina-tis-ekpompes-sto-radiofono-se-endeiksi-penthous-gia-tous-nekrous-sti-violanta-kai-sto-troxaio-me-tous-opadous-paok/4585679/",
+          "title": "Ο Γρηγόρης Αρναούτογλου σταματά προσωρινά τις εκπομπές στο ραδιόφωνο σε ένδειξη πένθους για τους νεκρούς στη Βιολάντα και στο τροχαίο με τους οπαδούς του ΠΑΟΚ",
+          "link": "https://www.newsit.gr/media/o-grigoris-arnaoutoglou-stamata-prosorina-tis-ekpompes-sto-radiofono-se-endeiksi-penthous-gia-tous-nekrous-sti-violanta-kai-sto-troxaio-me-tous-opadous-tou-paok/4585679/",
           "pubDate": "Wed, 28 Jan 2026 11:51:55 +0000",
-          "description": "Το σοκαριστικό τροχαίο δυστύχημα στη Ρουμανία που στοίχησε τη ζωή σε 7 νέους ανθρώπους – οπαδούς του ΠΑΟΚ που ταξίδευαν στη Λυών για να στηρίξουν ...  \nTo άρθρο Ο Γρηγόρης Αρναούτογλου σταματά προσωρινά τις εκπομπές στο ραδιόφωνο σε ένδειξη πένθους για τους νεκρούς στη Βιολάντα και στο τροχαίο με τους οπαδούς ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
+          "description": "Το σοκαριστικό τροχαίο δυστύχημα στη Ρουμανία που στοίχησε τη ζωή σε 7 νέους ανθρώπους – οπαδούς του ΠΑΟΚ που ταξίδευαν στη Λυών για να στηρίξουν ...  \nTo άρθρο Ο Γρηγόρης Αρναούτογλου σταματά προσωρινά τις εκπομπές στο ραδιόφωνο σε ένδειξη πένθους για τους νεκρούς στη Βιολάντα και στο τροχαίο με τους οπαδούς του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grigoris-arnaoutoglou-ndp-1200x707.jpg",
           "source": "NewsIT"
         },
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 11:17:05 +0000",
           "description": "Ο Ολυμπιακός ετοιμάζεται για το παιχνίδι με την Μπαρτσελόνα στη Euroleague και ο Γιώργος Μπαρτζώκας μίλησε για τους παίκτες που θα έχει διαθέσιμους στο ματς, ...  \nTo άρθρο Μπαρτζώκας για το Ολυμπιακός – Μπαρτσελόνα: «Εντυπωσιάστηκα με τον Τζόσεφ – Επιστρέφει ο Μιλουτίνοφ, δεν θα αγωνιστεί ο Παπανικολάου» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mpartzokas-2-1200x801.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Φορολοταρία Δεκεμβρίου: Πραγματοποιήθηκε η κλήρωση – Δείτε αν κερδίσατε έως 50.000 ευρώ",
-          "link": "https://www.newsit.gr/oikonomia/xristika/forolotaria-dekemvriou-pragmatopoiithike-i-klirosi-deite-an-kerdisate-eos-50-000-eyro/4585653/",
-          "pubDate": "Wed, 28 Jan 2026 11:16:01 +0000",
-          "description": "Πραγματοποιήθηκε σήμερα (28.1.2025) η 52η κλήρωση της φορολοταρίας για τον Δεκέμβριο από την Ανεξάρτητη Αρχή Δημοσίων Εσόδων (ΑΑΔΕ). Σημειώνεται ότι ένας από τους τυχερούς λαχνούς ...  \nTo άρθρο Φορολοταρία Δεκεμβρίου: Πραγματοποιήθηκε η κλήρωση – Δείτε αν κερδίσατε έως 50.000 ευρώ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/euro-money-lefta-xartonomismata.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Εθνική Ελλάδος: Εγκρίθηκε το φιλικό με την Παραγουάη στις 27 Μαρτίου",
+          "link": "https://www.gazzetta.gr/football/diethni-filika/2510897/ethniki-ellados-egkrithike-filiko-me-tin-paragoyai-stis-27-martioy",
+          "pubDate": "Wed, 28 Jan 2026 14:22:02 +0200",
+          "description": "Η Εκτελεστική Επιτροπή της ΕΠΟ ενέκρινε το φιλικό της Εθνικής με την Παραγουάη, τον ερχόμενο Μάρτιο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ellada_2.jpg?itok=52Hka9M8",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Πάντοβιτς: «Στο ποδόσφαιρο υπάρχουν ups and downs»",
           "link": "https://www.gazzetta.gr/football/europa-league/2510896/pantobits-sto-podosfairo-yparhoyn-ups-and-downs",
           "pubDate": "Wed, 28 Jan 2026 14:15:07 +0200",
@@ -977,14 +985,6 @@
           "description": "Η παγκόσμια κατανάλωση μπύρας παραμένει σταθερά υψηλή, με την Κίνα και τις ΗΠΑ να κυριαρχούν σε όγκο, ενώ η Ελλάδα διατηρεί θέση στην πρώτη δεκάδα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/beer.jpg?itok=qBzcDf0H",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Μαχαίρωσαν δύο οπαδούς της Τσέλσι πριν το παιχνίδι με τη Νάπολι",
-          "link": "https://www.newsit.gr/athlitika/maxairosan-dyo-opadous-tis-tselsi-prin-to-paixnidi-me-ti-napoli/4585575/",
-          "pubDate": "Wed, 28 Jan 2026 10:49:15 +0000",
-          "description": "Η Τσέλσι θα αντιμετωπίσει εκτός έδρας τη Νάπολι στην τελευταία αγωνιστική της League Phase του Champions League, με σοβαρά επεισόδια να έχουν ήδη ξεκινήσει στο ...  \nTo άρθρο Μαχαίρωσαν δύο οπαδούς της Τσέλσι πριν το παιχνίδι με τη Νάπολι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/maxairomata-1200x861.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -1007,14 +1007,6 @@
           "description": "Παρακολουθήστε την συνέντευξη Τύπου του Παναθηναϊκού, ενόψει της αυριανής αναμέτρησης με την Ρόμα στο ΟΑΚΑ.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6750336_140640_134446.jpg?fit=880%2C587&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Επίσημο: Στο Telekom Center Athens ο προημιτελικός με τη Μερσίν – Οι τιμές των εισιτηρίων!",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/epishmo-sto-telecom-center-athens-o-prohmitelikos-me-th-mersin-oi-times-twn-eisitiriwn/?utm_source=rss&utm_medium=rss&utm_campaign=epishmo-sto-telecom-center-athens-o-prohmitelikos-me-th-mersin-oi-times-twn-eisitiriwn",
-          "pubDate": "Wed, 28 Jan 2026 11:58:12 +0000",
-          "description": "Ο Παναθηναϊκός Α.Ο. ανακοίνωσε πως το κρίσιμο ευρωπαϊκό παιχνίδι του μπάσκετ γυναικών θα φιλοξενηθεί στο Telekom Center Athens. Την έδρα του προημιτελικού αγώνα του Eurocup για το τμήμα μπάσκετ γυναικών έκανε γνωστή ο Παναθηναϊκός Α.Ο., επιβεβαιώνοντας πως η αναμέτρηση απέναντι στη Μερσίν θα διεξαχθεί στο Telekom Center Athens. Με επίσημη ενημέρωση, ο Παναθηναϊκός Α.Ο. γνωστοποίησε […]\nThe post Επίσημο: Στο Telekom Center Athens ο προημιτελικός με τη Μερσίν – Οι τιμές των εισιτηρίων! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Gynaikon-oaka.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "«Πρόταση του Παναθηναϊκού στη Λέτσε για Γκάλο»",
@@ -1049,28 +1041,12 @@
           "source": "Trifilara"
         },
         {
-          "title": "Επίσημο: Στον Παναθηναϊκό ο Βανδήρας! – Η διάρκεια του συμβολαίου!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/epishmo-ston-panathinaiko-o-vandhras-h-diarkeia-tou-sumvolaiou/?utm_source=rss&utm_medium=rss&utm_campaign=epishmo-ston-panathinaiko-o-vandhras-h-diarkeia-tou-sumvolaiou",
-          "pubDate": "Wed, 28 Jan 2026 11:15:20 +0000",
-          "description": "Ο Παναθηναϊκός συνεχίζει να επενδύει στις Ακαδημίες, «δένοντας» με επαγγελματικό συμβόλαιο ένα ακόμη ταλέντο. Την ενίσχυση των τμημάτων υποδομής του συνεχίζει ο Παναθηναϊκός, ανακοινώνοντας την απόκτηση του νεαρού Αλέξανδρου Βανδήρα, στο πλαίσιο της στρατηγικής επένδυσης στο ελληνικό ταλέντο. Ο 16χρονος μεσοεπιθετικός υπέγραψε το πρώτο επαγγελματικό συμβόλαιο της καριέρας του με το «τριφύλλι», το οποίο θα […]\nThe post Επίσημο: Στον Παναθηναϊκό ο Βανδήρας! – Η διάρκεια του συμβολαίου! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Vandyras.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Με … Ντιμπάλα στην αποστολή αλλά και πολλά προβλήματα η Ρόμα!",
           "link": "https://trifilara.gr/me-ntibala-stin-apostoli-alla-ki-polla-provlimata-i-roma/?utm_source=rss&utm_medium=rss&utm_campaign=me-ntibala-stin-apostoli-alla-ki-polla-provlimata-i-roma",
           "pubDate": "Wed, 28 Jan 2026 11:02:41 +0000",
           "description": "Λειψή αποστολή για τους «τζιαλορόσι» ενόψει Παναθηναϊκού, με απουσίες αλλά και την επιστροφή του Ντιμπάλα.\nThe post Με … Ντιμπάλα στην αποστολή αλλά και πολλά προβλήματα η Ρόμα! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Με … Ντιμπάλα αλλά κι αρκετά προβλήματα η Ρόμα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/me-dybala-alla-ki-arketa-provlhmata-h-roma/?utm_source=rss&utm_medium=rss&utm_campaign=me-dybala-alla-ki-arketa-provlhmata-h-roma",
-          "pubDate": "Wed, 28 Jan 2026 10:56:03 +0000",
-          "description": "Λειψή αποστολή για τους «τζιαλορόσι» ενόψει Παναθηναϊκού, με απουσίες αλλά και την επιστροφή του Ντιμπάλα. Με μόλις 19 ποδοσφαιριστές θα ταξιδέψει η Ρόμα στην Αθήνα για την αναμέτρηση της Τετάρτης (28/1) απέναντι στον Παναθηναϊκό στο ΟΑΚΑ, στο πλαίσιο της 8ης αγωνιστικής της League Phase του Europa League. Μπορεί οι «πράσινοι» να αντιμετωπίζουν σοβαρά προβλήματα απουσιών, […]\nThe post Με … Ντιμπάλα αλλά κι αρκετά προβλήματα η Ρόμα! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Dybala.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Παναθηναϊκός – Ολυμπιακός: Ώρα – Κανάλι – Μετάδοση",
@@ -1081,28 +1057,12 @@
           "source": "Trifilara"
         },
         {
-          "title": "Οι απουσίες φέρνουν αλλαγές: Η πιθανή ενδεκάδα του Παναθηναϊκού με τη Ρόμα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/oi-apousies-fernoun-allages-h-pithanh-endekada-tou-panathinaikou-me-th-roma/?utm_source=rss&utm_medium=rss&utm_campaign=oi-apousies-fernoun-allages-h-pithanh-endekada-tou-panathinaikou-me-th-roma",
-          "pubDate": "Wed, 28 Jan 2026 10:25:26 +0000",
-          "description": "Με περιορισμένες επιλογές και αλλαγές στο πλάνο, ο Παναθηναϊκός υποδέχεται τη Ρόμα στο ΟΑΚΑ για την τελευταία αγωνιστική του Europa League. Ο Παναθηναϊκός ρίχνεται στη μάχη της τελευταίας αγωνιστικής της League Phase του Europa League, αντιμετωπίζοντας τη Ρόμα στο ΟΑΚΑ, σε ένα παιχνίδι που κλείνει τον ευρωπαϊκό κύκλο της ομάδας σε αυτή τη φάση της […]\nThe post Οι απουσίες φέρνουν αλλαγές: Η πιθανή ενδεκάδα του Παναθηναϊκού με τη Ρόμα! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/benitez-4.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Παναθηναϊκός – Ολυμπιακός: Για την νίκη στο ντέρμπι – Η τηλεοπτική μετάδοση!",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-olympiakos-gia-thn-nikh-sto-derby-h-thleoptikh-metadosh/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-olympiakos-gia-thn-nikh-sto-derby-h-thleoptikh-metadosh",
-          "pubDate": "Wed, 28 Jan 2026 10:23:13 +0000",
-          "description": "Όλα τα βλέμματα στρέφονται στο ντέρμπι «αιωνίων» που θα διεξαχθεί στο «Παύλος Γιαννακόπουλος». Το μεγάλο ντέρμπι της αγωνιστικής θα φιλοξενηθεί στο κλειστό «Παύλος Γιαννακόπουλος», εκεί όπου οι δύο κορυφαίες ομάδες του ελληνικού γυναικείου μπάσκετ θα διασταυρώσουν τα ξίφη τους σε μία αναμέτρηση υψηλού ενδιαφέροντος. Το τζάμπολ έχει οριστεί για τις 18:15, με τη συγκεκριμένη αναμέτρηση […]\nThe post Παναθηναϊκός – Ολυμπιακός: Για την νίκη στο ντέρμπι – Η τηλεοπτική μετάδοση! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Gynaikon-2.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Απόλυτη δικαίωση Παναθηναϊκού στην προπαγάνδα με Ατρόμητο!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/apoluth-dikaiwsh-panathinaikou-sthn-propaganda-me-atromhto/?utm_source=rss&utm_medium=rss&utm_campaign=apoluth-dikaiwsh-panathinaikou-sthn-propaganda-me-atromhto",
-          "pubDate": "Wed, 28 Jan 2026 09:45:50 +0000",
-          "description": "Η Κεντρική Επιτροπή Διαιτησίας επανόρισε τους ίδιους διαιτητές, επιβεβαιώνοντας την απόφαση για τη μη υπόδειξη πέναλτι στο 3ο λεπτό. Την απόφασή της να στηρίξει πλήρως τους διαιτητές του αγώνα Ατρόμητος – Παναθηναϊκός (0-0) έδειξε έμπρακτα η Κεντρική Επιτροπή Διαιτησίας, ορίζοντάς τους εκ νέου σε αναμετρήσεις της 19ης αγωνιστικής της Stoiximan Super League. Στο παιχνίδι του […]\nThe post Απόλυτη δικαίωση Παναθηναϊκού στην προπαγάνδα με Ατρόμητο! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/vergetis.jpg",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/apoluth-dikaiwsh-panathinaikou-sthn-propaganda-me-atromhto/?utm_source=rss&utm_medium=rss&utm_campaign=apoluth-dikaiwsh-panathinaikou-sthn-propaganda-me-atromhto",
+          "pubDate": "Wed, 28 Jan 2026 09:50:15 +0000",
+          "description": "Η Κεντρική Επιτροπή Διαιτησίας επανόρισε τους ίδιους διαιτητές, επιβεβαιώνοντας την απόφαση για τη μη υπόδειξη πέναλτι στο 3ο λεπτό.\nThe post Απόλυτη δικαίωση Παναθηναϊκού στην προπαγάνδα με Ατρόμητο! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Ο φαύλος κύκλος και η σταθερότητα ως προαπαιτούμενο",
@@ -1114,19 +1074,19 @@
         },
         {
           "title": "Νέα αποκάλυψη για τα αίτια του δυστυχήματος στη Ρουμανία! (vid)",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/nea-apokalupsh-gia-ta-aitia-tou-dustuxhmatos-sth-roumania-vid/?utm_source=rss&utm_medium=rss&utm_campaign=nea-apokalupsh-gia-ta-aitia-tou-dustuxhmatos-sth-roumania-vid",
-          "pubDate": "Wed, 28 Jan 2026 09:18:01 +0000",
-          "description": "Έλληνας γιατρός μετέφερε συγκλονιστική μαρτυρία τραυματία φίλου του ΠΑΟΚ για τα αίτια της φονικής σύγκρουσης. Μία ιδιαίτερα σημαντική αποκάλυψη σχετικά με το τραγικό τροχαίο δυστύχημα στη Ρουμανία, που στοίχισε τη ζωή σε επτά φίλους του ΠΑΟΚ, ήρθε στο φως μέσα από την κατάθεση Έλληνα γιατρού που βρίσκεται σε άμεση επαφή με τους τραυματίες. Ο Δημήτρης […]\nThe post Νέα αποκάλυψη για τα αίτια του δυστυχήματος στη Ρουμανία! (vid) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/paok-roumania-jpg.webp",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/nea-apokalupsh-gia-ta-aitia-tou-dustuxhmatos-sth-roumania-vid/?utm_source=rss&utm_medium=rss&utm_campaign=nea-apokalupsh-gia-ta-aitia-tou-dustuxhmatos-sth-roumania-vid",
+          "pubDate": "Wed, 28 Jan 2026 09:22:24 +0000",
+          "description": "Έλληνας γιατρός μετέφερε συγκλονιστική μαρτυρία τραυματία φίλου του ΠΑΟΚ για τα αίτια της φονικής σύγκρουσης.\nThe post Νέα αποκάλυψη για τα αίτια του δυστυχήματος στη Ρουμανία! (vid) appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Παναθηναϊκός – Κηφισιά: Ο διαιτητής που όρισε η ΚΕΔ!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-khfisia-o-diaithths-pou-orise-h-ked/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-khfisia-o-diaithths-pou-orise-h-ked",
-          "pubDate": "Wed, 28 Jan 2026 08:58:51 +0000",
-          "description": "Η ΚΕΔ ανακοίνωσε τους διαιτητές για την αναμέτρηση του Παναθηναϊκού με την Κηφισιά για την 19η αγωνιστική της Super League. Τον Ιωάννη Παπαδόπουλο επέλεξε η Κεντρική Επιτροπή Διαιτησίας για να διευθύνει το παιχνίδι του Παναθηναϊκού απέναντι στην Κηφισιά, που θα διεξαχθεί στη Λεωφόρο στο πλαίσιο της 19ης αγωνιστικής της Stoiximan Super League. Η αναμέτρηση είναι […]\nThe post Παναθηναϊκός – Κηφισιά: Ο διαιτητής που όρισε η ΚΕΔ! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/papadopoulos-diaititis-full.webp",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/panathinaikos-khfisia-o-diaithths-pou-orise-h-ked/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-khfisia-o-diaithths-pou-orise-h-ked",
+          "pubDate": "Wed, 28 Jan 2026 09:02:53 +0000",
+          "description": "Η ΚΕΔ ανακοίνωσε τους διαιτητές για την αναμέτρηση του Παναθηναϊκού με την Κηφισιά για την 19η αγωνιστική της Super League.\nThe post Παναθηναϊκός – Κηφισιά: Ο διαιτητής που όρισε η ΚΕΔ! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Απίστευτο: Αποκαλύφθηκε ο λόγος που έγινε το δυστύχημα!",
@@ -1138,11 +1098,11 @@
         },
         {
           "title": "Το νέο μήνυμα του Ματίας Λεσόρ για το δυστύχημα στη Ρουμανία! (pic)",
-          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/to-neo-mhnuma-tou-matias-lessort-gia-to-dustuxhma-sth-roumania-pic/?utm_source=rss&utm_medium=rss&utm_campaign=to-neo-mhnuma-tou-matias-lessort-gia-to-dustuxhma-sth-roumania-pic",
-          "pubDate": "Wed, 28 Jan 2026 08:33:40 +0000",
-          "description": "Ο Ματίας Λεσόρ εξέφρασε δημόσια τη βαθιά του θλίψη για το τροχαίο δυστύχημα που στοίχισε τη ζωή σε επτά φιλάθλους του ΠΑΟΚ. Η είδηση της τραγωδίας στη Ρουμανία έχει συγκλονίσει ολόκληρη την Ελλάδα, με τον Ματίας Λεσόρ να μην κρύβει τη συναισθηματική του φόρτιση για τον άδικο χαμό επτά φίλων του ΠΑΟΚ, στέλνοντας μήνυμα συμπαράστασης […]\nThe post Το νέο μήνυμα του Ματίας Λεσόρ για το δυστύχημα στη Ρουμανία! (pic) appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/07/lessort-3.jpg",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/to-neo-mhnuma-tou-matias-lessort-gia-to-dustuxhma-sth-roumania-pic/?utm_source=rss&utm_medium=rss&utm_campaign=to-neo-mhnuma-tou-matias-lessort-gia-to-dustuxhma-sth-roumania-pic",
+          "pubDate": "Wed, 28 Jan 2026 08:37:59 +0000",
+          "description": "Ο Ματίας Λεσόρ εξέφρασε δημόσια τη βαθιά του θλίψη για το τροχαίο δυστύχημα που στοίχισε τη ζωή σε επτά φιλάθλους του ΠΑΟΚ.\nThe post Το νέο μήνυμα του Ματίας Λεσόρ για το δυστύχημα στη Ρουμανία! (pic) appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Για τη νίκη στο ντέρμπι αιωνίων",
@@ -1154,11 +1114,19 @@
         },
         {
           "title": "Δουβίκας: «Ο Ράφα Μπενίτεθ με δίδαξε πάρα πολλά!»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/doubikas-o-rafa-benites-me-didakse-para-polla/?utm_source=rss&utm_medium=rss&utm_campaign=doubikas-o-rafa-benites-me-didakse-para-polla",
-          "pubDate": "Wed, 28 Jan 2026 07:59:33 +0000",
-          "description": "Ο Τάσος Δουβίκας σε συνέντευξη που παραχώρησε στην «Gazzetta dello Sport» αποθέωσε τον Ράφα Μπενίτεθ με τον οποίο συνεργάστηκαν στην Θέλτα. Ο Τάσος Δουβίκας ανέφερε αναλυτικά στην «Gazzetta dello Sport»: Για την εμπειρία του στην Ισπανία: «Πιστεύω ότι η παρουσία μου στην Ισπανία με τη Θέλτα με βοήθησε σημαντικά. Εξελίχθηκα πολύ σε ένα από τα κορυφαία […]\nThe post Δουβίκας: «Ο Ράφα Μπενίτεθ με δίδαξε πάρα πολλά!» appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/douvikas-1200x800-1.webp",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/douvikas-o-rafa-benites-me-didakse-para-polla/?utm_source=rss&utm_medium=rss&utm_campaign=douvikas-o-rafa-benites-me-didakse-para-polla",
+          "pubDate": "Wed, 28 Jan 2026 08:11:36 +0000",
+          "description": "Ο Τάσος Δουβίκας σε συνέντευξη που παραχώρησε στην «Gazzetta dello Sport» αποθέωσε τον Ράφα Μπενίτεθ με τον οποίο συνεργάστηκαν στην Θέλτα.\nThe post Δουβίκας: «Ο Ράφα Μπενίτεθ με δίδαξε πάρα πολλά!» appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Οι απουσίες φέρνουν αλλαγές: Η πιθανή ενδεκάδα του Παναθηναϊκού με τη Ρόμα!",
+          "link": "https://trifilara.gr/oi-apousies-fernoun-allages-h-pithanh-endekada-tou-panathinaikou-me-th-roma/?utm_source=rss&utm_medium=rss&utm_campaign=oi-apousies-fernoun-allages-h-pithanh-endekada-tou-panathinaikou-me-th-roma",
+          "pubDate": "Wed, 28 Jan 2026 07:47:15 +0000",
+          "description": "Με περιορισμένες επιλογές και αλλαγές στο πλάνο, ο Παναθηναϊκός υποδέχεται τη Ρόμα στο ΟΑΚΑ για την τελευταία αγωνιστική του Europa League.\nThe post Οι απουσίες φέρνουν αλλαγές: Η πιθανή ενδεκάδα του Παναθηναϊκού με τη Ρόμα! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Επίσημο: Στο ΟΑΚΑ ο αγώνας των κοριτσιών και κόντρα στη Μερσίν!",
@@ -1230,6 +1198,22 @@
           "pubDate": "Tue, 27 Jan 2026 16:49:42 +0000",
           "description": "Με τον Φακούντο Πελίστρι να μην ακολουθεί το κανονικό πρόγραμμα της προπόνησης λόγω ενοχλήσεων, συνεχίστηκε η προετοιμασία του Παναθηναϊκού.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/09/pellistri1.jpg?fit=680%2C460&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Αμφίβολος με Βιλερμπάν ο Κέντρικ Ναν – Επέστρεψαν Οσμάν και Μήτογλου",
+          "link": "https://panathinaikos24.gr/2026/01/27/617987/amfivolos-me-vilermpan-o-kentrik-nan-epestrepsan-osman-kai-mitoglou/",
+          "pubDate": "Tue, 27 Jan 2026 16:17:23 +0000",
+          "description": "Ο Κέντρικ Ναν συνεχίζει το ατομικό πρόγραμμα προπόνησης, ενώ οι Τζέντι Οσμάν και Ντίνος Μήτογλου επέστρεψαν σε φουλ ρυθμούς ενόψει της αναμέτρησης του Παναθηναϊκού με τη Βιλερμπάν.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/09/4823137.jpg?fit=856%2C582&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Σοκάρει αυτόπτης μάρτυρας του δυστυχήματος στη Ρουμανία",
+          "link": "https://panathinaikos24.gr/2026/01/27/617983/sokarei-aytoptis-martyras-tou-dystyximatos-sti-roumania-den-ypirxe-kamia-pithanotita-itan-poly-epikindyno/",
+          "pubDate": "Tue, 27 Jan 2026 16:11:49 +0000",
+          "description": "Τι ανέφερε αυτόπτης μάρτυρας του δυστυχήματος.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/stighmiotipo-othonis-2026-01-27-174526.webp?fit=1300%2C700&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
