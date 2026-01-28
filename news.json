@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T17:10:30.679Z",
+  "lastUpdated": "2026-01-28T17:15:27.168Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,42 @@
       "color": "red",
       "articles": [
         {
-          "title": "Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σωροί των αδικοχαμένων οπαδών του «δικεφάλου»",
+          "title": "Αυτή την Κυριακή με το ΘΕMA το καθηλωτικό θρίλερ του John Killian «Το τέλος όλων των δρόμων»",
+          "link": "https://www.protothema.gr/greece/article/1764983/auti-tin-kuriaki-me-to-thema-to-kathilotiko-thriler-tou-john-killian-to-telos-olon-ton-dromon/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 19:14:16 +0200",
+          "description": "Ο καθένας, κάποια στιγμή, φαντάζεται τον εαυτό του σαν έναν από τους τελευταίους επιζώντες στη Γη ύστερα από μια καθολική καταστροφή. Στη φαντασίωση, κυριαρχεί η προοπτική μιας καινούργιας αρχής. Στην πράξη όμως, ο πραγματικός εφιάλτης ξεκινά μετά από τον όλεθρο",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/0102-book-xrwma.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Γρίπη: Στους 2,8 εκατ. οι πολίτες που έχουν εμβολιαστεί,  σύμφωνα με τον Μάριο Θεμιστοκλέους",
+          "link": "https://www.newsit.gr/ellada/gripi-stous-2-8-ekat-oi-polites-pou-exoun-emvoliastei-symfona-me-ton-mario-themistokleous/4586034/",
+          "pubDate": "Wed, 28 Jan 2026 17:14:02 +0000",
+          "description": "Στους 2,8 εκατομμύρια ανέρχονται οι εμβολιασμοί κατά της γρίπης, με τα φετινά ποσοστά να ελαφρώς υψηλότερα σε σύγκριση με πέρυσι, σύμφωνα με τον υφυπουργό Υγείας, ...  \nTo άρθρο Γρίπη: Στους 2,8 εκατ. οι πολίτες που έχουν εμβολιαστεί,  σύμφωνα με τον Μάριο Θεμιστοκλέους δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/gripi.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Αφαίρεση διπλώματος για ένα χρόνο και εξαγοράσιμη ποινή για την 24χρονη που έπεσε πάνω σε 15 ΙΧ στη Θεσσαλονίκη",
+          "link": "https://www.protothema.gr/greece/article/1764981/afairesi-diplomatos-gia-ena-hrono-kai-exagorasimi-poini-gia-tin-24hroni-pou-epese-pano-se-15-ih-sti-thessaloniki/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 19:13:33 +0200",
+          "description": "«Ήπια ένα ποτό και αισθανόμουν πολύ καλά, μπορούσα να οδηγήσω» είπε μεταξύ άλλων στην απολογία της, ενώ απέδωσε την «τρελή» πορεία του αυτοκινήτου σε μηχανολογικό πρόβλημα του οχήματος",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-16/troxaio-2.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Επαναπατρίζονται αύριο 7 σοροί και ένας τραυματίας του δυστυχήματος με τους οπαδούς του ΠΑΟΚ στη Ρουμανία ",
+          "link": "https://www.protothema.gr/greece/article/1764980/epanapatrizodai-aurio-7-soroi-kai-enas-traumatias-tou-dustuhimatos-me-tous-opadous-tou-paok-sti-roumania/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 19:12:00 +0200",
+          "description": "Οι 7 σοροί θα επιστρέψουν στη Θεσσαλονίκη με ειδική πτήση της Πολεμικής Αεροπορίας - Στο νοσοκομείο της Ρουμανίας θα παραμείνει ο τρίτος τραυματίας, καθώς η κατάστασή του δεν επιτρέπει ακόμη να μετακινηθεί",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/xrwma-van-roumania_2.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σοροί των αδικοχαμένων οπαδών του «δικεφάλου»",
           "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-epistrefoun-tin-pempti-oi-7-soroi-ton-adikoxamenon-opadon-tou-dikefalou/4586042/",
           "pubDate": "Wed, 28 Jan 2026 17:09:01 +0000",
-          "description": "Περισσότερα σε λίγο…\nTo άρθρο Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σωροί των αδικοχαμένων οπαδών του «δικεφάλου» δημοσιεύτηκε στο NewsIT .",
+          "description": "Περισσότερα σε λίγο…\nTo άρθρο Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σοροί των αδικοχαμένων οπαδών του «δικεφάλου» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-reuters-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -89,10 +121,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Ελεύθεροι ο ιδιοκτήτης και τα δύο στελέχη της Βιολάντα μέχρι να συμπληρωθεί η δικογραφία",
+          "title": "Ελεύθεροι ο ιδιοκτήτης και τα δύο στελέχη της Βιολάντα μέχρι να συμπληρωθεί η δικογραφία, κατέθεταν επί τέσσερις ώρες στον εισαγγελέα",
           "link": "https://www.protothema.gr/greece/article/1764969/eleutheroi-oi-treis-tis-violada-mehri-na-sublirothei-i-dikografia/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 18:53:00 +0200",
-          "description": "Δεν απαγγέλθηκαν κατηγορίες στον ιδιοκτήτη και τα δύο στελέχη της βιομηχανίας  καθώς ακόμη βρίσκεται σε εξέλιξη η έρευνα",
+          "description": "Δεν απαγγέλθηκαν κατηγορίες στον ιδιοκτήτη και τα δύο στελέχη της βιομηχανίας  καθώς ακόμη βρίσκεται σε εξέλιξη η έρευνα - Τι περιλαμβάνει η δικογραφία που σχηματίζεται από την Πυροσβεστική",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-violanta-3.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -214,38 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 16:16:03 +0000",
           "description": "Το εισιτήριο για το Final 8 του Κυπέλλου Ελλάδας στο μπάσκετ “τσέκαρε” ο Ηρακλής, ο οποίος επικράτησε του Κολοσσού Ρόδου με 80-76 στη Θεσσαλονίκη. Ο ...  \nTo άρθρο Ηρακλής – Κολοσσός Ρόδου 80-76: Στο Final 8 του Κυπέλλου οι Θεσσαλονικείς δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iraklis-kolossos-1200x801.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μελέτη ΟΟΣΑ: «Ανασκόπηση της Εκπαιδευτικής Πολιτικής: Βελτίωση των Μαθησιακών Αποτελεσμάτων στην Ελλάδα»",
-          "link": "https://www.protothema.gr/greece/article/1764921/meleti-tou-oosa-anaskopisi-tis-ekpaideutikis-politikis-veltiosi-ton-mathisiakon-apotelesmaton-stin-ellada/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 18:15:00 +0200",
-          "description": "Ως πλεονεκτήματα του ελληνικού εκπαιδευτικού συστήματος αναγνωρίζονται η υλοποίηση σημαντικών μεταρρυθμίσεων στην αξιολόγηση των σχολικών μονάδων, οι μεταρρυθμίσεις για την αναβάθμιση του ρόλου των εκπαιδευτικών και η ψηφιακή μετάβαση",
-          "thumbnail": "https://i1.prth.gr/images/w640/1/jpg/files/2026-01-28/079cc8b8-077e-4b9b-a694-7e278ee44cc2.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Η Αρχιεπίσκοπος Σάρα Μαλάλι έγινε η πρώτη γυναίκα επικεφαλής της Αγγλικανικής Εκκλησίας – Επεισόδιο προκάλεσε κληρικός",
-          "link": "https://www.newsit.gr/kosmos/i-arxiepiskopos-sara-malali-egine-i-proti-gynaika-epikefalis-tis-agglikanikis-ekklisias-epeisodio-prokalese-klirikos/4585969/",
-          "pubDate": "Wed, 28 Jan 2026 16:10:02 +0000",
-          "description": "Σε μια μεγαλειώδη και ιστορική τελετή στον Καθεδρικό Ναό του Αγίου Παύλου η Σάρα Μαλάλι ορίστηκε σήμερα (28.01.2026) Αρχιεπίσκοπος του Καντέρμπουρι, με αποτέλεσμα να γίνει η ...  \nTo άρθρο Η Αρχιεπίσκοπος Σάρα Μαλάλι έγινε η πρώτη γυναίκα επικεφαλής της Αγγλικανικής Εκκλησίας – Επεισόδιο προκάλεσε κληρικός δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sarah-mullaly-archbishop-reuters-3-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τραγωδία στη Βιολάντα: Συνεχίζονται για τρίτη ημέρα οι ρίψεις νερού, δείτε νέες εικόνες από το κατεστραμμένο εργοστάσιο",
-          "link": "https://www.protothema.gr/greece/article/1764927/tragodia-sti-violada-sunehizodai-gia-triti-imera-oi-ripseis-nerou-deite-nees-eikones-apo-to-katestrammeno-ergostasio/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 18:07:24 +0200",
-          "description": "Η θερμοκρασία στα χαλάσματα παραμένει υψηλή – Η περιοχή παραμένει αποκλεισμένη και οι έρευνες συνεχίζονται",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/violanta1.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Σπουδαία διάκριση για το ΕΚΠΑ: Ανέβηκε 100 θέσεις στην κατάταξη της Times Higher Education",
-          "link": "https://www.newsit.gr/ellada/spoudaia-diakrisi-gia-to-ekpa-anevike-100-theseis-stin-katataksi-tis-times-higher-education/4585993/",
-          "pubDate": "Wed, 28 Jan 2026 16:07:10 +0000",
-          "description": "Είκοσι, συνολικά, ελληνικά ΑΕΙ συμπεριλαμβάνονται στη διεθνή κατάταξη «Times Higher Education World University Rankings», για το έτος 2025-2026, με το Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών ...  \nTo άρθρο Σπουδαία διάκριση για το ΕΚΠΑ: Ανέβηκε 100 θέσεις στην κατάταξη της Times Higher Education δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekpa-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -509,6 +509,14 @@
           "source": "Euronews"
         },
         {
+          "title": "Panic on crowded train - passenger tells BBC of moment of Russian drone strike",
+          "link": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 16:59:02 GMT",
+          "description": "Five people died in the attack in northeastern Ukraine when three drones targeted the train.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9f/live/9faf2040-fc6b-11f0-b7e1-afb6d0884c18.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Η καμπάνια που αποκαλύπτει τα παιδιά της ιρανικής ελίτ που ζουν στη Δύση",
           "link": "http://gr.euronews.com/2026/01/28/h-kampania-poy-apokalyptei-ta-paidia-ths-iranikhs-elit-poy-zoyn-sth-dysh",
           "pubDate": "Wed, 28 Jan 2026 17:47:15 +0100",
@@ -731,14 +739,6 @@
           "description": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceca/live/1b3c5410-faf7-11f0-8d99-4d63080b9583.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Κλιματική κρίση και πολιτικές αποφάσεις επιταχύνουν το Ρολόι της Αποκάλυψης",
-          "link": "http://gr.euronews.com/green/2026/01/28/doomsday-clock-how-ending-trumps-war-on-renewable-energy-can-pull-humanity-back-from-the-b",
-          "pubDate": "Wed, 28 Jan 2026 14:07:53 +0100",
-          "description": "Οι επιστήμονες καταγράφουν ρεκόρ θερμοκρασιών, αύξηση θανάτων από καύσωνες και εμπόδια στην κατάργηση των ορυκτών καυσίμων, την ώρα που οι ανανεώσιμες πηγές δείχνουν ότι υπάρχει ακόμη περιθώριο αντιστροφής της πορείας.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -747,12 +747,20 @@
       "color": "green",
       "articles": [
         {
-          "title": "ΠΑΟΚ, Δυστύχημα Ρουμανία: Το μήνυμα της Πολιτέκνικα Τιμισοάρα ",
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Το μήνυμα της Πολιτέκνικα Τιμισοάρα ",
           "link": "https://www.gazzetta.gr/football/europa-league/2510978/paok-dystyhima-roymania-minyma-tis-politeknika-timisoara",
           "pubDate": "Wed, 28 Jan 2026 19:09:48 +0200",
           "description": "Η Πολιτέκνικα Τιμισοάρα κατά τη διάρκεια του φιλικού παιχνιδιού που έδινε σήμερα, έδωσε το δικό της μήνυμα προς τον ΠΑΟΚ για το θανατηφόρο τροχαίο στη Ρουμανία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok1_1_0.jpg?itok=22kVSA4N",
           "source": "Gazzetta"
+        },
+        {
+          "title": "Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σοροί των αδικοχαμένων οπαδών του «δικεφάλου»",
+          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-epistrefoun-tin-pempti-oi-7-soroi-ton-adikoxamenon-opadon-tou-dikefalou/4586042/",
+          "pubDate": "Wed, 28 Jan 2026 17:09:01 +0000",
+          "description": "Περισσότερα σε λίγο…\nTo άρθρο Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σοροί των αδικοχαμένων οπαδών του «δικεφάλου» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-reuters-1200x800.jpg",
+          "source": "NewsIT"
         },
         {
           "title": "Βόλος: Ο Ουρτάδο ανακοινώθηκε από τους «κυανέρυθρους»",
@@ -977,14 +985,6 @@
           "description": "Η φονική έκρηξη στο εργοστάσιο «Βιολάντα», που κόστισε τη ζωή σε πέντε εργαζόμενες μητέρες, έφερε στο προσκήνιο την αδιανόητη υποστελέχωση της Επιθεώρησης Εργασίας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/violanta-drone.jpg?itok=r1wuC8J6",
           "source": "Gazzetta"
-        },
-        {
-          "title": "AEK: Ντεμπούτο Μπράουν, αλλά χωρίς Νάναλι-Κατσίβελη κόντρα στην Άλμπα",
-          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510951/aek-ntempoyto-mpraoyn-alla-horis-nanali-katsibeli",
-          "pubDate": "Wed, 28 Jan 2026 17:55:24 +0200",
-          "description": "Με δύο σημαντικές απουσίες θα παραταχθεί η ΑΕΚ κόντρα στην Άλμπα (19:00). Ντεμπούτο ο Γκρεγκ Μπράουν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/brown_1.jpg?itok=fJradaRu",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Με… 15 απουσίες η αποστολή του «Τριφυλλιού» με Ρόμα!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-me-15-apousies-i-apostoli/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-me-15-apousies-i-apostoli",
+          "pubDate": "Wed, 28 Jan 2026 17:14:22 +0000",
+          "description": "Ολοκλήρωσε με πολλές απουσίες την προετοιμασία για Ρόμα ο Παναθηναϊκός. Με απογευματινή προπόνηση στο «Γ. Καλαφάτης» ολοκληρώθηκε την Τετάρτη η προετοιμασία του Παναθηναϊκού ενόψει της αυριανής αναμέτρησης με τη Ρόμα στο Ολυμπιακό Στάδιο, για την τελευταία αγωνιστική της League Phase του Europa League. Το πρόγραμμα περιελάμβανε προθέρμανση, rondo, τακτική και παιχνίδι σε περιορισμένο χώρο, με […]",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/podosfairo-2-1.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Παναθηναϊκός – Ολυμπιακός LIVE STREAMING | Μπάσκετ Γυναικών",
           "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/panathinaikos-olybiakos-live-streaming-basket/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-olybiakos-live-streaming-basket",
@@ -1198,14 +1206,6 @@
           "pubDate": "Wed, 28 Jan 2026 12:21:55 +0000",
           "description": "Μια εικόνα που ξεπέρασε τα χρώματα και έστειλε μήνυμα ενότητας μετά την ανείπωτη απώλεια των επτά οπαδών του ΠΑΟΚ. Η τραγωδία στη Ρουμανία, που στοίχισε τη ζωή σε επτά φίλους του ΠΑΟΚ, έχει βυθίσει στο πένθος όχι μόνο την οικογένεια του συλλόγου, αλλά ολόκληρο τον φίλαθλο κόσμο, με τον πόνο να μετατρέπεται σε μήνυμα ενότητας […]",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Toumpa-NekroiOpadoiPAOK-full.webp",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Πάντοβιτς: «Φυσιολογικά τα σκαμπανεβάσματα – Δεν μπόρεσα να σκοράρω»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/pantovits-fysiologika-ta-skabanev/?utm_source=rss&utm_medium=rss&utm_campaign=pantovits-fysiologika-ta-skabanev",
-          "pubDate": "Wed, 28 Jan 2026 12:21:39 +0000",
-          "description": "Ο Μίλος Πάντοβιτς μίλησε στη συνέντευξη Τύπου στο ΟΑΚΑ ενόψει της αναμέτρησης του Παναθηναϊκού με τη Ρόμα. Μέχρι τώρα βλέπουμε τον Παναθηναϊκό στην Ευρώπη να παρουσιάζει ένα καλύτερο πρόσωπο. Συμφωνείς με αυτό; Ποια είναι η δική σου εξήγησε και ποιο είναι το κίνητρο για αύριο αφού έχει έρθει ήδη η πρόκριση; «Ξέρουμε ότι έχουμε προκριθεί […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/pandovic-1.jpg",
           "source": "Όλα Πράσινα"
         },
         {
