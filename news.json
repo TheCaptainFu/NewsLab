@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T10:15:27.772Z",
+  "lastUpdated": "2026-01-28T10:20:27.475Z",
   "totalArticles": 178,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,6 +9,22 @@
       "color": "red",
       "articles": [
         {
+          "title": "Θεσσαλονίκη: Ερευνούν αν ο 52χρονος που σκότωσε την 46χρονη εμπλέκεται και σε άλλες υποθέσεις",
+          "link": "https://www.protothema.gr/greece/article/1764718/thessaloniki-ereunoun-an-o-52hronos-pou-skotose-tin-46hroni-ebleketai-kai-se-alles-upotheseis/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 12:19:44 +0200",
+          "description": "Ο δράστης υποστήριξε ότι έκαναν μαζί με εκείνη και έναν ακόμα άνδρα, χρήση ναρκωτικών στο υπόγειό του όταν εκείνη άρχισε να φωνάζει και της έκλεισαν το στόμα προκαλώντας της ασφυξία",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/thessaloniki-xrwma.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Ρουμανία: «Ακόμα και αύριο ο επαναπατρισμός των 7 σορών των οπαδών του ΠΑΟΚ», δηλώνει η πρέσβης της Ελλάδας – «Ως μητέρα και ως Ελληνίδα έχω συγκλονιστεί»",
+          "link": "https://www.newsit.gr/ellada/roumania-akoma-kai-ayrio-o-epanapatrismos-ton-7-soron-ton-opadon-tou-paok-dilonei-i-presvis-tis-elladas-os-mitera-kai-os-ellinida-exo-sygklonistei/4585577/",
+          "pubDate": "Wed, 28 Jan 2026 10:17:43 +0000",
+          "description": "Δηλώσεις στους δημοσιογράφους έκανε η ελληνίδα πρέσβης στη Ρουμανία, Λιλή Γραμματίκα για την τραγωδία με τους 7 νεκρούς οπαδούς του ΠΑΟΚ αλλά και για την ...  \nTo άρθρο Ρουμανία: «Ακόμα και αύριο ο επαναπατρισμός των 7 σορών των οπαδών του ΠΑΟΚ», δηλώνει η πρέσβης της Ελλάδας – «Ως μητέρα και ως Ελληνίδα έχω συγκλονιστεί» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektakto-3-1200x675.jpeg",
+          "source": "NewsIT"
+        },
+        {
           "title": "ΣΕΒ: Μειώνοντας το ψηφιακό χάσμα, χτίζοντας ανταγωνιστικότητα",
           "link": "https://www.newsit.gr/oikonomia/finance/sev-meionontas-to-psifiako-xasma-xtizontas-antagonistikotita/4585559/",
           "pubDate": "Wed, 28 Jan 2026 10:13:32 +0000",
@@ -17,9 +33,9 @@
           "source": "NewsIT"
         },
         {
-          "title": "«Μπλόκαρε το τιμόνι κατά την προσπέραση» είπε τραυματίας οπαδός του ΠΑΟΚ σε Έλληνα γιατρό",
+          "title": "«Μπλόκαρε το τιμόνι στην προσπέραση» είπε τραυματίας οπαδός του ΠΑΟΚ σε Έλληνα γιατρό - Οι 3 μπορούν να επιστρέψουν, δήλωσε ο διοικητής του νοσοκομείου της Τιμισοάρα",
           "link": "https://www.protothema.gr/greece/article/1764626/blokare-to-timoni-kata-tin-prosperasi-apokalupse-traumatias-opados-tou-paok/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 12:13:22 +0200",
+          "pubDate": "Wed, 28 Jan 2026 12:13:00 +0200",
           "description": "Ο Δημήτρης Κούκουλας ανέφερε ότι ένας από τους τραυματίες του είπε ότι κόλλησε το τιμόνι κατά την προσπέραση - Η έρευνα θα δείξει αν αυτή είναι στα αλήθεια η αιτία του φονικού τροχαίου - Ο διοικητής του νοσοκομείου της Τιμισοάρα είπε ότι οι τραυματίες μπορούν να επιστρέψουν στην Ελλάδα",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/troxaio-paok-mak2.jpg",
           "source": "Πρώτο Θέμα"
@@ -27,7 +43,7 @@
         {
           "title": "Τρίκαλα: Όλοι έλεγαν ότι μυρίζει στο εργοστάσιο, αλλά δεν θα το καταθέσουν γιατί φοβούνται, λέει αδερφή θύματος της τραγωδίας",
           "link": "https://www.protothema.gr/greece/article/1764712/trikala-elegan-oti-murizei-sto-ergostasio-alla-den-tha-to-katathesoun-giati-fovoudai-leei-aderfi-thumatos-tis-tragodias/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 12:12:16 +0200",
+          "pubDate": "Wed, 28 Jan 2026 12:12:00 +0200",
           "description": "«Ο ανιψιός μου λέει ''η μαμά μου έφυγε'' και ότι θέλει να τη θυμάται όπως όπως ήταν, αλλά η μαμά του κάηκε» λέει επίσης η ίδια",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/biolanta_maketa.jpg",
           "source": "Πρώτο Θέμα"
@@ -230,22 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 09:25:10 +0000",
           "description": "Τριήμερο πένθος κήρυξε σήμερα (28.01.2026) η περιφέρεια της Κεντρικής Μακεδονίας για το σοκαριστικό τροχαίο δυστύχημα στον «δρόμο του διαβόλου» στη Ρουμανία, που προκάλεσε τον θάνατο ...  \nTo άρθρο Τραγωδία με οπαδούς του ΠΑΟΚ στη Ρουμανία: Τριήμερο πένθος στην Κεντρική Μακεδονία για τους 7 Έλληνες που σκοτώθηκαν δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok21-26012026.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο υπουργός Υγείας της Ρουμανίας για τους τραυματίες οπαδούς του ΠΑΟΚ: Η κατάστασή τους είναι σταθερή και παρακολουθούνται στενά",
-          "link": "https://www.protothema.gr/greece/article/1764670/upourgos-ugeias-roumanias-traumaties-opadous-tou-paok-i-katastasi-tous-einai-statheri-kai-parakolouthoudai-stena/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 11:25:07 +0200",
-          "description": "Οι τρεις ασθενείς ηλικίας 20 (οι δύο) και 28 ετών διακομίστηκαν στο Νοσοκομείο «Pius Brînzeu» της Τιμισοάρα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-roumania2.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ανησυχία των Ευρωπαίων για την ψυχική κατάσταση του Τραμπ: «Είναι επικίνδυνος»",
-          "link": "https://www.newsit.gr/kosmos/anisyxia-ton-eyropaion-gia-tin-psyxiki-katastasi-tou-tramp-einai-epikindynos/4585510/",
-          "pubDate": "Wed, 28 Jan 2026 09:22:14 +0000",
-          "description": "Έντονη ανησυχία για την ψυχική κατάσταση του Ντόναλντ Τραμπ εκφράστηκε στους κύκλους της ΕΕ, με αφορμή πρόσφατες επαφές με τον Αμερικανό πρόεδρο. Στο πλαίσιο αυτό, ...  \nTo άρθρο Ανησυχία των Ευρωπαίων για την ψυχική κατάσταση του Τραμπ: «Είναι επικίνδυνος» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/donald-trump-4.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Η Λυών θέλει δανεικό τον Γιάρεμτσουκ",
+          "link": "https://www.gazzetta.gr/football/superleague/2510867/olympiakos-i-lyon-thelei-daneiko-ton-giaremtsoyk",
+          "pubDate": "Wed, 28 Jan 2026 12:19:26 +0200",
+          "description": "Η Λυών φαίνεται ότι έχει δείξει ενδιαφέρον για την απόκτηση του Ρόμαν Γιάρεμτσουκ με τη μορφή δανεισμού από τον Ολυμπιακό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-01/roman_yaremchuk.jpg?itok=kRYKuDxv",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Τέλος ο Νίκος Κωτσοβός, που οδήγησε την Ένωση στο πρώτο της νταμπλ",
+          "link": "https://www.gazzetta.gr/football/ethniki-gynaikon/2510866/aek-telos-o-nikos-kotsobos-poy-odigise-tin-enosi-sto-proto-tis",
+          "pubDate": "Wed, 28 Jan 2026 12:16:50 +0200",
+          "description": "Ο προπονητής που έγραψε ιστορία με την ΑΕΚ, Νίκος Κωτσοβός,  παραιτήθηκε , όπως έκανε γνωστό ο σύλλογος με επίσημη ανακοίνωση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/nikos_kotsovos.jpg?itok=iKZR5Yyn",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "F1 - Αβέβαιη η συμμετοχή της Red Bull τις επόμενες ημέρες στη Βαρκελώνη",
+          "link": "https://www.gazzetta.gr/gmotion/2510847/f1-abebaii-i-symmetohi-tis-red-bull-tis-epomenes-imeres-sti-barkeloni",
+          "pubDate": "Wed, 28 Jan 2026 12:15:00 +0200",
+          "description": "Μεγάλο πισωγύρισμα η έξοδος του Ίσακ Χατζάρ την Τρίτη στη Βαρκελώνη, που δημιουργεί ερωτήματα σχετικά με τα διαθέσιμα ανταλλακτικά.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/si202601270642.jpg?itok=AFJWkI_x",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Νίκη για το Βιρτζίνια Τεκ του Αβδάλα – Τι έκαναν οι Έλληνες στο NCAA",
           "link": "https://www.gazzetta.gr/basketball/ncaa/2510865/niki-gia-birtzinia-tek-toy-abdala-ti-ekanan-oi-ellines-sto-ncaa",
           "pubDate": "Wed, 28 Jan 2026 12:14:48 +0200",
@@ -960,30 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 10:56:28 +0200",
           "description": "Οι σημερινοί αγώνες που ανέβαλε η ΕΠΟ, λόγω πένθους.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/epo_0.jpg?itok=q66HgYuY",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ – Ολυμπιακός: Ο διαιτητής Ντάνι Μακέλι ορίστηκε στην Allwyn Arena",
-          "link": "https://www.newsit.gr/athlitika/aek-olympiakos-o-diaititis-ntani-makeli-oristike-stin-allwyn-arena/4585441/",
-          "pubDate": "Wed, 28 Jan 2026 08:53:32 +0000",
-          "description": "Η “μάχη” στη Super League συνεχίζεται με τη 19η αγωνιστική και το ενδιαφέρον στρέφεται στο ντέρμπι της ΑΕΚ με τον Ολυμπιακό στην Allwyn Arena, το ...  \nTo άρθρο ΑΕΚ – Ολυμπιακός: Ο διαιτητής Ντάνι Μακέλι ορίστηκε στην Allwyn Arena δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/makeli-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η Allwyn Arena είναι γεγονός: Ολοκληρώθηκε το rebranding του γηπέδου της ΑΕΚ",
-          "link": "https://www.gazzetta.gr/2510635/i-allwyn-arena-einai-gegonos-oloklirothike-rebranding-toy-gipedoy-tis-aek",
-          "pubDate": "Wed, 28 Jan 2026 10:53:02 +0200",
-          "description": "Σε νέα εποχή περνά επίσημα το γήπεδο της ΑΕΚ, καθώς ολοκληρώθηκαν οι εργασίες μετονομασίας και πλέον η ιστορική OPAP Arena φέρει το νέο της όνομα: Allwyn Arena.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/111_3.jpg?itok=vs6ObA_8",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: Το ανατριχιαστικό σύνθημα των φιλάθλων στο σημείο της τραγωδίας (vid)",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510837/paok-dystyhima-sti-roymania-anatrihiastiko-synthima-ton-filathlon",
-          "pubDate": "Wed, 28 Jan 2026 10:52:08 +0200",
-          "description": "Φίλαθλοι του ΠΑΟΚ βρέθηκαν στο σημείο της τραγωδίας στη Ρουμανία, τραγουδώντας ένα ανατριχιαστικό σύνθημα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_fans.jpg?itok=yAqQrVHP",
           "source": "Gazzetta"
         }
       ]
