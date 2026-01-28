@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T02:15:30.930Z",
+  "lastUpdated": "2026-01-28T02:20:26.515Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Trump says US will 'no longer help Iraq' if it picks Maliki as PM",
+          "link": "https://www.bbc.com/news/articles/cn0kpk3drgjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 01:54:51 GMT",
+          "description": "The US president said Iraq would have \"zero\" chance of success without American support.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce8/live/acec9ec0-fbeb-11f0-a47f-d352a7d9988a.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
           "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 01:33:26 GMT",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/my-europe/2026/01/27/ergasia-kata-ti-diarkeia-ton-spoydon-poies-xores-tis-ee-exoyn-ta-ipsilotera-pososta-giati",
           "pubDate": "Tue, 27 Jan 2026 18:06:34 +0100",
           "description": "Η εργασία κατά τη διάρκεια των σπουδών δεν αποτελεί κανόνα για τους περισσότερους εργαζόμενους στην ΕΕ. Ωστόσο, η οικονομική ανάγκη και οι φιλοδοξίες σταδιοδρομίας μπορεί να παρακινήσουν ορισμένους να το κάνουν.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Ειδήσεις | 27 Ιανουαρίου 2026 - Βραδινό δελτίο",
-          "link": "http://gr.euronews.com/video/2026/01/27/eidhseis-27-ianoyarioy-2026-bradino-deltio",
-          "pubDate": "Tue, 27 Jan 2026 18:00:19 +0100",
-          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 27 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
           "thumbnail": null,
           "source": "Euronews"
         }
