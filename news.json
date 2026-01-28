@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T19:10:30.592Z",
+  "lastUpdated": "2026-01-28T19:15:30.358Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,10 @@
       "color": "red",
       "articles": [
         {
-          "title": "ΑΕΚ – Άλμπα Βερολίνου 88-80: Ο τρομερός Μπάρτλεϊ και εκτελεστής Χαραλαμπόπουλος λύγισαν τους Γερμανούς",
-          "link": "https://www.newsit.gr/athlitika/aek-almpa-verolinou-88-80-o-tromeros-mpartlei-kai-ektelestis-xaralampopoulos-lygisan-tous-germanous/4586144/",
+          "title": "ΑΕΚ – Άλμπα Βερολίνου 88-80: Ο τρομερός Μπάρτλεϊ και o εκτελεστής Χαραλαμπόπουλος λύγισαν τους Γερμανούς",
+          "link": "https://www.newsit.gr/athlitika/aek-almpa-verolinou-88-80-o-tromeros-mpartlei-kai-o-ektelestis-xaralampopoulos-lygisan-tous-germanous/4586144/",
           "pubDate": "Wed, 28 Jan 2026 19:03:16 +0000",
-          "description": "Με τον Φρανκ Μπάρτλεϊ να είναι σε σεληνιασμένο βράδυ, η ΑΕΚ επικράτησε εντός έδρας της Άλμπα Βερολίνου με 88-80 και έκανε το 2/2 στη δεύτερη ...  \nTo άρθρο ΑΕΚ – Άλμπα Βερολίνου 88-80: Ο τρομερός Μπάρτλεϊ και εκτελεστής Χαραλαμπόπουλος λύγισαν τους Γερμανούς δημοσιεύτηκε στο NewsIT .",
+          "description": "Με τον Φρανκ Μπάρτλεϊ να είναι σε σεληνιασμένο βράδυ, η ΑΕΚ επικράτησε εντός έδρας της Άλμπα Βερολίνου με 88-80 και έκανε το 2/2 στη δεύτερη ...  \nTo άρθρο ΑΕΚ – Άλμπα Βερολίνου 88-80: Ο τρομερός Μπάρτλεϊ και o εκτελεστής Χαραλαμπόπουλος λύγισαν τους Γερμανούς δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bartley-aek-2-1200x798.jpg",
           "source": "NewsIT"
         },
@@ -577,7 +577,7 @@
           "link": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 16:59:02 GMT",
           "description": "Five people died in the attack in northeastern Ukraine when three drones targeted the train.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9f/live/9faf2040-fc6b-11f0-b7e1-afb6d0884c18.jpg",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a5/live/6fdca200-fc7c-11f0-9972-d3f265c101c6.jpg",
           "source": "BBC News"
         },
         {
@@ -746,6 +746,30 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΑΕΚ: Η βαθμολογία μετά τη νίκη επί της Άλμπα",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511027/aek-i-bathmologia-meta-ti-niki-epi-tis-almpa",
+          "pubDate": "Wed, 28 Jan 2026 21:12:58 +0200",
+          "description": "Η ΑΕΚ έκανε το 2/2 μετά και τη δεύτερη αγωνιστική των «16» του BCL και έμεινε μόνη πρώτη στην κατάταξη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/flionis_intime.jpg?itok=RuKCxC4g",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Οι παίκτριες κράτησαν πανό για τους φιλάθλους του ΠΑΟΚ που σκοτώθηκαν στη Ρουμανία",
+          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2511026/panathinaikos-oi-paiktries-kratisan-pano-gia-toys-filathloys",
+          "pubDate": "Wed, 28 Jan 2026 21:12:12 +0200",
+          "description": "Οι παίκτριες του Παναθηναϊκού κράτησαν πανό αμέσως μετά τη λήξη της αναμέτρησης, στέλνοντας μήνυμα συμπαράστασης στις οικογένειες των αδικοχαμένων ανθρώπων που σκοτώθηκαν στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pao_eurokinisi.jpg?itok=QlQ_Ixdr",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κηφισιά: Αναλαμβάνει CEO του Απόλλωνα Λεμεσού ο Στάθης Τσεκούρας",
+          "link": "https://www.gazzetta.gr/football/superleague/2511025/kifisia-analambanei-ceo-toy-apollona-lemesoy-o-stathis-tsekoyras",
+          "pubDate": "Wed, 28 Jan 2026 21:11:13 +0200",
+          "description": "Ο Στάθης Τσεκούρας αποχωρεί από την Κηφισιά και θα μετακομίσει στην Κύπρο, καθώς θα αναλάβει CEO του Απόλλωνα Λεμεσού.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kifisia.jpg?itok=EL1ojg_D",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΑΕΚ: Τι έκανε ο Μπράουν στο ντεμπούτο του",
           "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511024/aek-ti-ekane-o-mpraoyn-sto-ntempoyto-toy",
@@ -961,30 +985,6 @@
           "description": "Ο Παναθηναϊκός αντιμετώπισε τον Ολυμπιακό σε ένα ντέρμπι με τα... όλα του για την Α1 Γυναικών με την Άρτεμη Σπανού να βάζει την υπογραφή της για τη νίκη των «πράσινων» με 88-85.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pao_oly_intime.jpg?itok=LaKpT-c8",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός – Ολυμπιακός 88-85: Το ντέρμπι της Α1 μπάσκετ γυναικών βάφτηκε πράσινο",
-          "link": "https://www.newsit.gr/athlitika/panathinaikos-olympiakos-88-85-to-ntermpi-tis-a1-mpasket-gynaikon-vaftike-prasino/4586101/",
-          "pubDate": "Wed, 28 Jan 2026 18:10:46 +0000",
-          "description": "Ο Παναθηναϊκός ήταν ο μεγάλος νικητής του ντέρμπι της 14ης αγωνιστικής της Α1 Γυναικών. Η ομάδα της Σελέν Ερντέμ επικράτησε εντός έδρας του Ολυμπιακού με ...  \nTo άρθρο Παναθηναϊκός – Ολυμπιακός 88-85: Το ντέρμπι της Α1 μπάσκετ γυναικών βάφτηκε πράσινο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-3-1-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μπαχτσεσεχίρ - Άρης 81-79: Πέταξε στα σκουπίδια μια μεγάλη ευκαιρία",
-          "link": "https://www.gazzetta.gr/basketball/eurocup/2511001/mpahtsesehir-aris-81-79-petaxe-sta-skoypidia-mia-megali-eykairia",
-          "pubDate": "Wed, 28 Jan 2026 20:09:26 +0200",
-          "description": "Ο Άρης είχε τη νίκη στα χέρια του αλλά πλήρωσε την επιθετική αφλογιστία του και το καλάθι του Μαλακάι Φλιν 0.3'' πριν το τέλος στην ήττα (81-79) από την Μπαχτσεσεχίρ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4907048_1_1.jpg?itok=J5hUVkMh",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Ο Μπενίτεθ άφησε εκτός τον Μλαντένοβιτς ενώ δεν συμπλήρωνε αποστολή",
-          "link": "https://www.gazzetta.gr/football/europa-league/2511000/panathinaikos-o-mpeniteth-afise-ektos-mlantenobits-eno-den",
-          "pubDate": "Wed, 28 Jan 2026 20:05:59 +0200",
-          "description": "Ο Ράφα Μπενίτεθ προέβη σε μία παράξενη επιλογή αποφασίζοντας αφήσει εκτός από την αποστολή του αγώνα με την Ρόμα τον Φίλιπ Μλαντένοβιτς, παρά τις τρομερές ελλείψεις που έχει.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mladenovic_eurokinisi.jpg?itok=XrrT_DV3",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -997,7 +997,7 @@
           "link": "https://panathinaikos24.gr/2026/01/28/618156/proxora-gia-etien-kamara-o-panathinaikos/",
           "pubDate": "Wed, 28 Jan 2026 19:08:48 +0000",
           "description": "Ο Ετιέν Καμαρά είναι ο εκλεκτός για το «6» στον Παναθηναϊκό, με τους «πράσινους» να προχωρούν για την απόκτησή του από τη Σαρλερουά!",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/camara.jpg?fit=903%2C600&amp;ssl=1",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/att.c6fb2trqoW9bXoRM9jFyAR7sgI3cWnfy70aljZ3evt8.jpeg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
         },
         {
