@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T09:05:28.578Z",
+  "lastUpdated": "2026-01-28T09:10:33.920Z",
   "totalArticles": 160,
   "totalFeeds": 24,
   "successfulFeeds": 14,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ελευθερία Κοντογεώργη: «Έφυγα από την παράσταση του Γιώργου Λάγιου, ήταν καλύτερα να συνεχίσουμε χωριστά»",
+          "link": "https://www.newsit.gr/lifestyle/eleytheria-kontogeorgi-efyga-apo-tin-parastasi-tou-giorgou-lagiou-itan-kalytera-na-synexisoume-xorista/4585476/",
+          "pubDate": "Wed, 28 Jan 2026 09:05:23 +0000",
+          "description": "Για την αποχώρησή της από την παράσταση του Γιώργου Λάγιου μίλησε η Ελευθερία Κοντογεώργη, σε δηλώσεις που έκανε στους ρεπόρτερ των ψυχαγωγικών εκπομπών. «Συνέβησαν κάποια ...  \nTo άρθρο Ελευθερία Κοντογεώργη: «Έφυγα από την παράσταση του Γιώργου Λάγιου, ήταν καλύτερα να συνεχίσουμε χωριστά» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kontogeorgi-ndp-1200x862.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΔΥΠΑ: 160 εργαστήρια συμβουλευτικής τον Φεβρουάριο",
           "link": "https://www.newsit.gr/oikonomia/xristika/dypa-160-ergastiria-symvouleytikis-ton-fevrouario/4585481/",
@@ -239,14 +247,6 @@
           "description": "Ένα πεντάστερο ξενοδοχείο στις γαλλικές Άλπεις τυλίχθηκε στις φλόγες με την πυρκαγιά να επεκτείνεται και σε διπλανό κτίριο",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alpeis-768x595.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Τραγωδία στον ΠΑΟΚ: Σε ετοιμότητα C-130 για την άμεση επιστροφή των σορών στην Ελλάδα",
-          "link": "https://www.newsit.gr/ellada/tragodia-ston-paok-se-etoimotita-c-130-gia-tin-amesi-epistrofi-ton-soron-stin-ellada/4585409/",
-          "pubDate": "Wed, 28 Jan 2026 07:52:45 +0000",
-          "description": "Ο ΠΑΟΚ και ολόκληρη η Ελλάδα θρηνούν για το θάνατο 7 οπαδών του στο τραγικό δυστύχημα στη Ρουμανία, με τις σορούς των νεκρών να αναμένονται ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Σε ετοιμότητα C-130 για την άμεση επιστροφή των σορών στην Ελλάδα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-roumania2.jpg",
-          "source": "NewsIT"
         }
       ]
     },
