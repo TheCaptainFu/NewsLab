@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T19:20:27.941Z",
+  "lastUpdated": "2026-01-28T19:25:24.264Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά",
+          "link": "https://www.newsit.gr/athlitika/o-panathinaikos-kineitai-gia-tin-apoktisi-tou-etien-kamara-tis-sarleroua/4586180/",
+          "pubDate": "Wed, 28 Jan 2026 19:22:01 +0000",
+          "description": "Ο Παναθηναϊκός είναι γνωστό ότι είνια στην αγορά για την απόκτηση παίκτη στα χαφ και μετά το διαφαινόμενο «ναυάγιο» στην υπόθεση του Κραλ, φαίνεται πως ...  \nTo άρθρο Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/camara-1-1200x837.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Βαρύ πρόστιμο στην Ελβετή πολιτικό που χρησιμοποίησε εικόνα της Παναγίας ως στόχο σκοποβολής",
+          "link": "https://www.newsit.gr/kosmos/vary-prostimo-stin-elveti-politiko-pou-xrisimopoiise-eikona-tis-panagias-os-stoxo-skopovolis/4586173/",
+          "pubDate": "Wed, 28 Jan 2026 19:20:14 +0000",
+          "description": "Υψηλό χρηματικό πρόστιμο επιβλήθηκε σε 33χρονη πολιτικό από την Ελβετία, η οποία είχε προκαλέσει σάλο τo 2024 όταν χρησιμοποίησε μια εικόνα της Παναγίας της Βρεφοκρατούσας ...  \nTo άρθρο Βαρύ πρόστιμο στην Ελβετή πολιτικό που χρησιμοποίησε εικόνα της Παναγίας ως στόχο σκοποβολής δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sanija-ameti.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΑΕΚ – Άλμπα Βερολίνου 88-80: Ο τρομερός Μπάρτλεϊ και o εκτελεστής Χαραλαμπόπουλος λύγισαν τους Γερμανούς",
           "link": "https://www.newsit.gr/athlitika/aek-almpa-verolinou-88-80-o-tromeros-mpartlei-kai-o-ektelestis-xaralampopoulos-lygisan-tous-germanous/4586144/",
@@ -145,6 +161,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "«Eίναι ιεροσυλία»: Νομοθέτες εντείνουν τις προσπάθειες αφαίρεσης του ονόματος του Ντόναλντ Τραμπ από το Kennedy Center",
+          "link": "https://www.in.gr/2026/01/28/life/culture-live/einai-ierosylia-nomothetes-enteinoun-tis-prospatheies-afairesis-tou-onomatos-tou-ntonalnt-tramp-apo-kennedy-center/",
+          "pubDate": "Wed, 28 Jan 2026 21:20:16 +0300",
+          "description": "Αγωγή σε ομοσπονδιακό δικαστήριο και δύο κινήσεις στο Κογκρέσο εντείνουν την πίεση για την αφαίρεση του ονόματος του προέδρου των ΗΠΑ από το Kennedy Center, μετά την απόφαση του νέου διοικητικού συμβουλίου να αλλάξει την επίσημη ονομασία του ιδρύματος",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2025-12-29T171441Z_2100342513_RC2FQIAK850Y_RTRMADP_5_USA-TRUMP-KENNEDY-CENTER-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Τροχαίο με νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία: «Δεν υπήρχε lane assist» λέει δικηγόρος της εταιρείας ενοικίασης του μοιραίου βαν",
           "link": "https://www.newsit.gr/ellada/troxaio-me-nekrous-opadous-tou-paok-sti-roumania-den-ypirxe-lane-assist-leei-dikigoros-tis-etaireias-enoikiasis-tou-moiraiou-van/4586096/",
           "pubDate": "Wed, 28 Jan 2026 18:20:11 +0000",
@@ -223,30 +247,6 @@
           "description": "Ο Snik έχει εκφράσει πολλές φορές την αγάπη του για τον Ολυμπιακό και σε βίντεο που ανέβασε στο instagram έδειξε τους φίλους των ερυθρολεύκων, που ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Ο Snik στο Άμστερνταμ για τον «τελικό» πρόκρισης των Πειραιωτών δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/snik-1.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Μπαχτσεσεχίρ – Άρης Betsson 81-79: Αδίκησε τον εαυτό του και ηττήθηκε με καλάθι του Φλιν στο φινάλε",
-          "link": "https://www.newsit.gr/athlitika/mpaxtsesexir-aris-betsson-81-79-adikise-ton-eayto-tou-kai-ittithike-me-kalathi-tou-flin-sto-finale/4586097/",
-          "pubDate": "Wed, 28 Jan 2026 18:03:37 +0000",
-          "description": "Ο Άρης Betsson πάλεψε για ένα τεράστιο διπλό στην Τουρκία, έφτασε μία “ανάσα” από τη νίκη κόντρα στην Μπαχτσεσεχίρ, ωστόσο στο φινάλε οι Τούρκοι έκαναν ...  \nTo άρθρο Μπαχτσεσεχίρ – Άρης Betsson 81-79: Αδίκησε τον εαυτό του και ηττήθηκε με καλάθι του Φλιν στο φινάλε δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-mitroulong-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "EMO: Το ρομπότ που έμαθε να κινεί τα χείλη του σαν άνθρωπος – Ένας καθρέφτης και ώρες στο Youtube",
-          "link": "https://www.in.gr/2026/01/28/in-science/emo-rompot-pou-emathe-na-kinei-ta-xeili-tou-san-anthropos-enas-kathreftis-kai-ores-sto-youtube/",
-          "pubDate": "Wed, 28 Jan 2026 21:00:41 +0300",
-          "description": "Το ρομπότ EMO δίδαξε στον εαυτό του πώς κινούνται τα χείλη του σε συνάρτηση με τους 26 κινητήρες του προσώπου του",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Screenshot-64-768x539.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τραγωδία στη Ρουμανία: Στο χειρουργείο μετά από επιπλοκή ένας από τους τραυματισμένους οπαδούς του ΠΑΟΚ",
-          "link": "https://www.in.gr/2026/01/28/greece/tragodia-sti-roumania-sto-xeirourgeio-meta-apo-epiploki-enas-apo-tous-traymatismenous-opadous-tou-paok/",
-          "pubDate": "Wed, 28 Jan 2026 20:56:40 +0300",
-          "description": "Ο υπουργός Υγείας ενημέρωσε μέσω ανάρτησης ότι οι άλλοι δύο τραυματίες θα επιστρέψουν αύριο κανονικά στην Ελλάδα και θα τους παραλάβει το ΕΚΑΒ.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/xrwma-roumania2-768x431.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά",
+          "link": "https://www.newsit.gr/athlitika/o-panathinaikos-kineitai-gia-tin-apoktisi-tou-etien-kamara-tis-sarleroua/4586180/",
+          "pubDate": "Wed, 28 Jan 2026 19:22:01 +0000",
+          "description": "Ο Παναθηναϊκός είναι γνωστό ότι είνια στην αγορά για την απόκτηση παίκτη στα χαφ και μετά το διαφαινόμενο «ναυάγιο» στην υπόθεση του Κραλ, φαίνεται πως ...  \nTo άρθρο Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/camara-1-1200x837.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Η Βαλέρια Λάτσιου ενηλικιώθηκε: Η ανάρτηση της Ελένης Μενεγάκη με τις τρομερές ομοιότητες (pics)",
+          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
+          "pubDate": "Wed, 28 Jan 2026 21:16:00 +0200",
+          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/menegaki-eleni.jpg.jpg?itok=Pm_h1ji_",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ολυμπιακός: LIVE η βαθμολογία του Champions League",
           "link": "https://www.gazzetta.gr/football/champions-league/2510931/olympiakos-live-i-bathmologia-toy-champions-league",
           "pubDate": "Wed, 28 Jan 2026 21:15:00 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 20:21:45 +0200",
           "description": "Ο Γιώργος Τυριακίδης αποχώρησε από την τεχνική ηγεσία του Μακεδονικού με την παραίτησή του να γίνεται δεκτή.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/tyriakidis.jpg?itok=sFf2tW0m",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Αδιανόητη ταλαιπωρία για τον κόσμο που πηγαίνει στο γήπεδο",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511005/olympiakos-adianoiti-talaiporia-gia-ton-kosmo-poy-pigainei-sto",
-          "pubDate": "Wed, 28 Jan 2026 20:19:33 +0200",
-          "description": "Οι 2.600 φίλαθλοι που ξεκίνησαν για το γήπεδο του Άγιαξ έχουν να ανέβουν... Γολγοθά μέχρι να φτάσουν εκεί! ΟΛΛΑΝΔΙΑ, ΑΠΟΣΤΟΛΗ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_trena_new.jpg?itok=3DZR-Y-R",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γουόρντ για το δυστύχημα στη Ρουμανία: «Είμαστε μαζί σας παιδιά και στέλνουμε την αγάπη μας σε εσάς και τις οικογένειές σας»",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2511004/goyornt-gia-dystyhima-sti-roymania-eimaste-mazi-sas-paidia-kai",
-          "pubDate": "Wed, 28 Jan 2026 20:18:00 +0200",
-          "description": "Στο παιχνίδι του Ολυμπιακού με την Μπαρτσελόνα, αλλά και στο τροχαίο δυστύχημα στη Ρουμανία στάθηκε ο Τάισον Γουόρντ στις δηλώσεις του ενόψει της αυριανής αναμέτρησης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ward_0.jpg?itok=xd1gox8u",
           "source": "Gazzetta"
         }
       ]
