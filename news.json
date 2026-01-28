@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T11:20:58.809Z",
+  "lastUpdated": "2026-01-28T11:25:27.923Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,19 +9,19 @@
       "color": "red",
       "articles": [
         {
+          "title": "Και αυτή την Κυριακή με το Car, όλα στα χέρια σας! \n",
+          "link": "https://www.protothema.gr/greece/article/1764757/kai-auti-tin-kuriaki-me-to-car-ola-sta-heria-sas/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 13:23:37 +0200",
+          "description": "Αυτό είναι το CAR, το καλύτερο περιοδικό αυτοκινήτου",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/xrwma-_4_.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
           "title": "Κλαίμε όλοι, να δώσει κουράγιο η αγκαλιά μας, συγκλονίζει ο «παπά - ΠΑΟΚ»",
           "link": "https://www.protothema.gr/greece/article/1764746/klaime-oloi-na-dosei-kouragio-i-agalia-mas-suglonizei-o-papa-paok/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 13:20:07 +0200",
           "description": "Όπως σημείωσε, γνώριζε προσωπικά τους νεαρούς που επέβαιναν στο βαν και ταξίδευαν οδικώς προς τη Γαλλία για να παρακολουθήσουν τον ΠΑΟΚ στο παιχνίδι με τη Λυών",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/maketa-papas-paok.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ταυτοποιήθηκαν οι σοροί των επτά οπαδών του ΠΑΟΚ μετά το δυστύχημα στη Ρουμανία, σε εξέλιξη οι διαδικασίες επαναπατρισμού",
-          "link": "https://www.protothema.gr/greece/article/1764751/tautopoiithikan-oi-soroi-ton-epta-opadon-tou-paok-meta-to-dustuhima-sti-roumania-se-exelixi-diadikasies-epanapatrismou/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 13:19:36 +0200",
-          "description": "Αύριο αναμένεται να εκδοθούν τα απαραίτητα έγγραφα - Η μεταφορά τους στην Ελλάδα θα πραγματοποιηθεί με στρατιωτικό αεροσκάφος τύπου C-130, το οποίο βρίσκεται στην Ελευσίνα",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/maketa-roumania-fortigo.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -31,6 +31,14 @@
           "description": "Όλο το υπόμνημα του Στέφανου Παπαδόπουλου, στο Προανακριτικό Τμήμα του Πρωτοδικείου Αθηνών για την πολύκροτη υπόθεση, με φόντο τη μήνυση που έχει υποβάλλει σε βάρος ...  \nTo άρθρο Στέφανος Παπαδόπουλος: Όλο το υπόμνημα που κατέθεσε για τον Γιώργο Μαζωνάκη – Τα ναρκωτικά, οι χειρονομίες και οι απειλές δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/stefanos-papadopoulos-1-1200x675-1.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Ταυτοποιήθηκαν οι σοροί των επτά οπαδών του ΠΑΟΚ μετά το δυστύχημα στη Ρουμανία, σε εξέλιξη οι διαδικασίες επαναπατρισμού",
+          "link": "https://www.protothema.gr/greece/article/1764751/tautopoiithikan-oi-soroi-ton-epta-opadon-tou-paok-meta-to-dustuhima-sti-roumania-se-exelixi-diadikasies-epanapatrismou/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 13:19:00 +0200",
+          "description": "Αύριο αναμένεται να εκδοθούν τα απαραίτητα έγγραφα - Η μεταφορά τους στην Ελλάδα θα πραγματοποιηθεί με στρατιωτικό αεροσκάφος τύπου C-130, το οποίο βρίσκεται στην Ελευσίνα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/maketa-roumania-fortigo.jpg",
+          "source": "Πρώτο Θέμα"
         },
         {
           "title": "Grand Hotel – επόμενο επεισόδιο: Η Κυβέλη καταλαβαίνει ότι ο Ρήγας βρίσκεται σε κίνδυνο και ψάχνει να τον βρει",
@@ -239,14 +247,6 @@
           "description": "Κώστας Καραφώτης και Κάτια Μάνου έγιναν για πρώτη φορά γονείς και πλέουν σε πελάγη ευτυχίας. Η σύζυγος του τραγουδιστή έφερε στον κόσμο ένα υγιέστατο κοριτσάκι ...  \nTo άρθρο Κώστας Καραφώτης και Κάτια Μάνου έγιναν γονείς – Γέννησε κοριτσάκι η σύζυγος του τραγουδιστή δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/karafotis-ndp-1200x740.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Να απορριφθούν οι αιτήσεις για μείωση ποινών των 4 καταδικασθέντων για το Μάτι, πρότεινε εισαγγελέας στο ποινικό τμήμα του Άρειου Πάγου",
-          "link": "https://www.protothema.gr/greece/article/1764721/areios-pagos-na-aporrifthoun-oi-aitiseis-gia-meiosi-poinon-ton-4-katadikasthedon-gia-to-mati-proteine-eisaggeleas/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 12:21:00 +0200",
-          "description": "Τερζούδης, Ματθαιόπουλος, Καπάκης και ο κάτοικος που καταδικάστηκε για τον εμπρησμό ζητούν και αναγνώριση ελαφρυντικών",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-04-29/mati_diki_xr.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Στο μικροσκόπιο των Βρυξελλών και ο «νέος ΟΠΕΚΕΠΕ»",
+          "link": "https://www.tanea.gr/print/2026/01/28/politics/mikropolitikos/sto-mikroskopio-ton-vryksellon-kai-o-neos-opekepe/",
+          "pubDate": "Wed, 28 Jan 2026 11:10:00 +0000",
+          "description": "Οπως φαίνεται, το θέμα της «ανακύκλωσης» ελεγχόμενων προσώπων στον «νέο ΟΠΕΚΕΠΕ» της ΑΑΔΕ δεν μένει πλέον εντός των ελληνικών συνόρων. Μετά τις αποκαλύψεις της στήλης πως πρόσωπα που πρωταγωνιστούν στη δικογραφία της Ευρωπαϊκής Εισαγγελίας (με δώρα τσάντες, «Φραπέ» και λοιπές… ομορφιές) παραμένουν σε θέσεις-κλειδιά, η υπόθεση έφτασε μέχρι τα αφτιά του αρμόδιου Επιτρόπου Γεωργίας, Κρίστοφ […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/opekepe-2-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Μέτρα σε τρεις φάσεις για το κυκλοφοριακό στην Αττική – Τι συζητήθηκε στη σύσκεψη υπό τον Μητσοτάκη",
           "link": "https://www.tanea.gr/2026/01/28/politics/metra-se-treis-faseis-gia-to-kykloforiako-stin-attiki-ti-syzitithike-sti-syskepsi-ypo-ton-mitsotaki/",
@@ -485,14 +493,6 @@
           "description": "Παραπέμπεται στην επιτροπή Δεοντολογίας η Ζωή Κωνσταντοπούλου για αντικοινοβουλευτική συμπεριφορά - «Αυτό που είπε με αυτό τον απαράδεκτο τρόπο το ψάξε να βρεις τι έγινε στα Ίμια, είναι προσβολή στο πρόσωπο του ήρωα».",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/KONSTANTOPOYLOY-1024x681.jpg",
           "source": "Το Βήμα"
-        },
-        {
-          "title": "Ταμείο Καινοτομίας Φαρμάκου: «Πράσινο φως» για ταχύτερη πρόσβαση σε νέα θεραπείες",
-          "link": "https://www.tanea.gr/print/2026/01/27/politics/taxyteri-prosvasi-asthenon-se-nees-therapeies/",
-          "pubDate": "Tue, 27 Jan 2026 13:39:00 +0000",
-          "description": "Το νομοσχέδιο για τη σύσταση του Ταμείου Καινοτομίας Φαρμάκου παρουσίασαν στο Υπουργικό Συμβούλιο ο υπουργός Υγείας Αδωνις Γεωργιάδης και ο υφυπουργός Δημήτρης Βαρτζόπουλος. Σκοπός του Ταμείου Καινοτομίας, ως μια διακριτής κατηγορίας φαρμακευτικής δαπάνης, είναι να αλλάξει την πρόσβαση σε καινοτόμα φάρμακα, μειώνοντας καθυστερήσεις και ενισχύοντας τη φαρμακευτική καινοτομία. Ετσι, σύμφωνα με το υπουργείο Υγείας, θα […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/nosokomeio-1024x683.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παναθηναϊκός: Επαγγελματίας ο Βανδήρας",
+          "link": "https://www.gazzetta.gr/football/superleague/2510883/panathinaikos-epaggelmatias-o-bandiras",
+          "pubDate": "Wed, 28 Jan 2026 13:21:45 +0200",
+          "description": "Το πρώτο του επαγγελματικό συμβόλαιο υπέγραψε ο Αλέξανδρος Βανδήρας και ανήκει με κάθε επισημότητα στην οικογένεια του Παναθηναϊκού, ο οποίος θα φοράει τα πράσινα μέχρι το καλοκαίρι του 2028.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bandiras.jpg?itok=PtJKQmEB",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ρόμα: Με Ντιμπάλα και Τσιμίκα η αποστολή ενόψει Παναθηναϊκού",
           "link": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2510882/roma-me-ntimpala-kai-tsimika-i-apostoli-enopsei",
           "pubDate": "Wed, 28 Jan 2026 13:19:15 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 11:55:19 +0200",
           "description": "Το Άμστερνταμ κινείται σε ρυθμούς... Champions League και περιμένει τη σπουδαία αναμέτρηση κόντρα στον Ολυμπιακό. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ajax_1.jpg?itok=p-WBsv5F",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τσέλσι: Δυο οπαδοί της μαχαιρώθηκαν από ultras στη Νάπολη",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510855/tselsi-dyo-opadoi-tis-mahairothikan-apo-ultras-sti-napoli",
-          "pubDate": "Wed, 28 Jan 2026 11:51:41 +0200",
-          "description": "Σύμφωνα με τα βρετανικά μέσα, οι δυο φίλοι της Τσέλσι δέχθηκαν επίθεση στη Νάπολη, με τον έναν μάλιστα να μοιράζεται σχετική φωτογραφία στα social media.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/chelsea_blood.jpg?itok=CMU8FnIM",
           "source": "Gazzetta"
         }
       ]
@@ -1239,7 +1239,7 @@
       "color": "pink",
       "articles": [
         {
-          "title": "Διέρρευσε το Aluminium OS: Η Google ενοποιεί Android και PC [Videos]",
+          "title": "Διέρρευσε το Aluminium OS: Η Google ενοποιεί Android και PC",
           "link": "https://www.techgear.gr/dierreyse-to-aluminium-os-i-google-enopoiei-android-kai-pc-videos-47364",
           "pubDate": "Wed, 28 Jan 2026 12:45:00 +0200",
           "description": "Μια αναφορά προβλήματος (bug report) που αναρτήθηκε κατά λάθος στο δημόσιο σύστημα παρακολούθησης της Google, αποκάλυψε την πρώτη απτή απόδειξη για το...",
