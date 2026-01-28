@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T12:05:28.810Z",
+  "lastUpdated": "2026-01-28T12:10:27.829Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κλείνουν τα σχολεία όπου φοιτούν ανήλικοι των φυλακών Κασσαβέτειας μετά τα κρούσματα φυματίωσης",
+          "link": "https://www.protothema.gr/greece/article/1764784/kleinoun-ta-sholeia-opou-foitoun-anilikoi-ton-fulakon-kassaveteias-meta-ta-krousmata-fumatiosis/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 14:07:00 +0200",
+          "description": "Θετικοί στο τεστ mantoux έχουν βρεθεί 34 κρατούμενοι, στην πλειονότητά τους ανήλικοι, καθώς και ένας φύλακας",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-20/kassaveteia-fylakes.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Τουρκία: Εκδοτικός οίκος κατηγορείται για «χρηματοδότηση τρομοκρατίας»",
           "link": "https://www.newsit.gr/kosmos/tourkia-ekdotikos-oikos-katigoreitai-gia-xrimatodotisi-tromokratias/4585700/",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 11:12:56 +0000",
           "description": "Ένα πλέγμα μέτρων τριών ταχυτήτων –άμεσων, μεσοπρόθεσμων και μακροπρόθεσμων– για την αντιμετώπιση του κυκλοφοριακού στην Αττική, με προτεραιότητα τον άξονα του Κηφισού, συζητήθηκε σε κλειστή ...  \nTo άρθρο Σύσκεψη στο Μαξίμου για το κυκλοφοριακό: Έξυπνα φανάρια στην Αττική, μείωση των φορτηγών στον Κηφισό και νέοι οδικοί άξονες δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kinisi-mpotiliarisma-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Αύξηση 2,8% στην κατανάλωση καυσίμων με ισχυρή ζήτηση από Αττική και Κεντρική Μακεδονία",
-          "link": "https://www.newsit.gr/oikonomia/finance/ayksisi-2-8-stin-katanalosi-kaysimon-me-isxyri-zitisi-apo-attiki-kai-kentriki-makedonia/4585644/",
-          "pubDate": "Wed, 28 Jan 2026 11:09:33 +0000",
-          "description": "Αύξηση 2,8% στη συνολική κατανάλωση καυσίμων καταγράφηκε το 2024 σε σχέση με το 2023, με τις αντίστοιχες ποσότητες να φτάνουν τους 7,03 εκατ. τόνους για ...  \nTo άρθρο Αύξηση 2,8% στην κατανάλωση καυσίμων με ισχυρή ζήτηση από Αττική και Κεντρική Μακεδονία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/venzini-eurokinissi-1-1200x675-2.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Three brothers die after falling in frozen Texas pond",
+          "link": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 12:06:27 GMT",
+          "description": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f348/live/74b52030-fc3c-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Μετοχές Danone και Nestlé συνεχίζουν να υποχωρούν μετά τις προειδοποιήσεις για βρεφικό γάλα",
           "link": "http://gr.euronews.com/business/2026/01/28/danone-and-nestle-shares-continue-to-slide-following-warnings-related-to-baby-formula",
           "pubDate": "Wed, 28 Jan 2026 12:54:31 +0100",
@@ -525,11 +533,11 @@
           "source": "BBC News"
         },
         {
-          "title": "Three brothers die after falling in frozen Texas pond",
-          "link": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 11:34:47 GMT",
-          "description": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f348/live/74b52030-fc3c-11f0-a422-4ba8a094a8fa.jpg",
+          "title": "Ecuador says ICE agent attempted to enter its Minneapolis consulate",
+          "link": "https://www.bbc.com/news/articles/c4g40k40xndo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 11:43:04 GMT",
+          "description": "A complaint has been filed by Ecuador, whose consular staff prevented the agent from entering.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e41/live/7b5abea0-fc3b-11f0-851f-553096e4fe99.jpg",
           "source": "BBC News"
         },
         {
@@ -731,14 +739,6 @@
           "description": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5584/live/d60b0530-fc13-11f0-8618-c12486cd8cf5.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Επίσκεψη του ισραηλινού ΥΠΕΞ στο Μπακού εν μέσω περιφερειακών εντάσεων",
-          "link": "http://gr.euronews.com/2026/01/28/episkepsh-toy-israhlinoy-ype3-sto-mpakoy-en-mesw-perifereiakwn-entasewn",
-          "pubDate": "Wed, 28 Jan 2026 09:27:40 +0100",
-          "description": "Συζήτησε τη συνεργασία στους τομείς της ενέργειας, της άμυνας και του τουρισμού. Το Ισραήλ υποστηρίζει τους Ιρανούς διαδηλωτές, ενώ το Μπακού παρακολουθεί τον αζέρικο πληθυσμό του στο Ιράν.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Η Γροιλανδία δεν θα ήταν η πρώτη: Όταν οι ΗΠΑ αγόρασαν κατοικημένα νησιά",
+          "link": "https://www.gazzetta.gr/plus/2510852/i-groilandia-den-tha-itan-i-proti-otan-oi-ipa-agorasan-katoikimena-nisia",
+          "pubDate": "Wed, 28 Jan 2026 14:08:04 +0200",
+          "description": "Πολύ πριν επανέλθει στο προσκήνιο η ιδέα της προσάρτησης της Γροιλανδίας, οι Ηνωμένες Πολιτείες είχαν ήδη προχωρήσει στην αγορά τριών κατοικημένων νησιών.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/usa_1.jpg?itok=ieA7wCtg",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μιλουτίνοφ: «Το θέμα είναι πως τελειώνεις μια σεζόν»",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510892/miloytinof-thema-einai-pos-teleioneis-mia-sezon",
@@ -768,6 +776,14 @@
           "pubDate": "Wed, 28 Jan 2026 13:59:00 +0200",
           "description": "Το θεμέλιο πάνω στο οποίο χτίστηκε το success story της φέτας, η ελληνική αιγοπροβατοτροφία, σιγά σιγά ραγίζει...",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/feta.jpg?itok=jrg3Txuc",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "10 προορισμοί ιδανικοί για το τριήμερο της Καθαράς Δευτέρας",
+          "link": "https://www.gazzetta.gr/plus/2510893/10-proorismoi-idanikoi-gia-triimero-tis-katharas-deyteras",
+          "pubDate": "Wed, 28 Jan 2026 13:50:24 +0200",
+          "description": "Το τριήμερο της Καθαράς Δευτέρας πλησιάζει και μας βάζει σε διάθεση για μια σύντομη απόδραση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/travel-28-1-26.jpg?itok=3dcUrpQu",
           "source": "Gazzetta"
         },
         {
@@ -969,22 +985,6 @@
           "description": "Το όνομα του Στέφαν Ορτέγκα της Μάντσεστερ Σίτι φαίνεται ότι βρίσκεται στα ραντάρ του Ολυμπιακού για τη θέση του τερματοφύλακα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-12/city-ortega.jpg?itok=2ztEdMXe",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Μια ξεχωριστή εμπειρία γεύσης με το Ούζο Ματαρέλλη στο «Ελληνικό Απόσταγμα» 2026",
-          "link": "https://www.gazzetta.gr/plus/2510872/mia-xehoristi-empeiria-geysis-me-oyzo-matarelli-sto-elliniko-apostagma-2026",
-          "pubDate": "Wed, 28 Jan 2026 12:39:56 +0200",
-          "description": "Ιδιαίτερο ενδιαφέρον προσέλκυσε το Ούζο Ματαρέλλη στην έκθεση «Ελληνικό Απόσταγμα» 2026, κερδίζοντας τις εντυπώσεις των επισκεπτών.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oyzo_matarelli_elliniko_apostagma_2026_1.png?itok=OX70fq4G",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γιώργος Μαυρίδης: «Ήταν να πάω οδικώς στη Λυών για τον ΠΑΟΚ»",
-          "link": "https://www.gazzetta.gr/plus/2510869/giorgos-mayridis-itan-na-pao-odikos-sti-lyon-gia-ton-paok",
-          "pubDate": "Wed, 28 Jan 2026 12:30:28 +0200",
-          "description": "Σοκαρισμένος ο Γιώργος Μαυρίδης από το τροχαίο δυστύχημα στη Ρουμανία που κόστισε τη ζωή σε επτά νέους ανθρώπους, φίλαθλους του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/giorgos-mavridis.jpg?itok=2n_wT7RC",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Κυκλοφόρησαν τα εισιτήρια για το παιχνίδι με την Μερσίν στο Telekom Center Athens!",
+          "link": "https://trifilara.gr/kukloforhsan-ta-eisithria-gia-to-paixnidi-me-thn-mersin-sto-telekom-center-athens/?utm_source=rss&utm_medium=rss&utm_campaign=kukloforhsan-ta-eisithria-gia-to-paixnidi-me-thn-mersin-sto-telekom-center-athens",
+          "pubDate": "Wed, 28 Jan 2026 12:09:29 +0000",
+          "description": "Ο Παναθηναϊκός Α.Ο. ανακοίνωσε πως το κρίσιμο ευρωπαϊκό παιχνίδι του μπάσκετ γυναικών θα φιλοξενηθεί στο Telekom Center Athens.\nThe post Κυκλοφόρησαν τα εισιτήρια για το παιχνίδι με την Μερσίν στο Telekom Center Athens! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
         {
           "title": "LIVE TV: Η συνέντευξη Τύπου ενόψει του Παναθηναϊκός-Ρόμα",
           "link": "https://panathinaikos24.gr/2026/01/28/618051/live-tv-i-synenteyksi-typou-enopsei-tou-panathinaikos-roma/",
@@ -1151,14 +1159,6 @@
           "description": "Ο Τάσος Δουβίκας σε συνέντευξη που παραχώρησε στην «Gazzetta dello Sport» αποθέωσε τον Ράφα Μπενίτεθ με τον οποίο συνεργάστηκαν στην Θέλτα. Ο Τάσος Δουβίκας ανέφερε αναλυτικά στην «Gazzetta dello Sport»: Για την εμπειρία του στην Ισπανία: «Πιστεύω ότι η παρουσία μου στην Ισπανία με τη Θέλτα με βοήθησε σημαντικά. Εξελίχθηκα πολύ σε ένα από τα κορυφαία […]\nThe post Δουβίκας: «Ο Ράφα Μπενίτεθ με δίδαξε πάρα πολλά!» appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/douvikas-1200x800-1.webp",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Τσαρτσαρής: «Άραγε παίζει καμία καλή είδηση σε αυτή τη χώρα;» (pic)",
-          "link": "https://trifilara.gr/tsartsarhs-arage-paizei-kamia-kalh-eidhsh-se-auth-th-xwra-pic/?utm_source=rss&utm_medium=rss&utm_campaign=tsartsarhs-arage-paizei-kamia-kalh-eidhsh-se-auth-th-xwra-pic",
-          "pubDate": "Wed, 28 Jan 2026 07:21:27 +0000",
-          "description": "Ο Κώστας Τσαρτσαρής εξέφρασε δημόσια τη θλίψη και τον προβληματισμό του για τα δύο τραγικά γεγονότα που συγκλόνισαν τη χώρα.\nThe post Τσαρτσαρής: «Άραγε παίζει καμία καλή είδηση σε αυτή τη χώρα;» (pic) appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         },
         {
           "title": "Επίσημο: Στο ΟΑΚΑ ο αγώνας των κοριτσιών και κόντρα στη Μερσίν!",
