@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T04:15:31.364Z",
+  "lastUpdated": "2026-01-28T04:20:30.222Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "«Βαφτίζουν» τα χωράφια ως χαμηλής παραγωγικότητας για να βάλουν φωτοβολταϊκά",
+          "link": "https://www.newsit.gr/oikonomia/finance/vaftizoun-ta-xorafia-os-xamilis-paragogikotitas-gia-na-valoun-fotovoltaika/4584747/",
+          "pubDate": "Wed, 28 Jan 2026 04:16:00 +0000",
+          "description": "Ορισμένοι ιδιοκτήτες γης σε περιοχές όπως η Λάρισα προχωρούν σε αναναχαρακτηρισμό των εκτάσεών τους, ώστε να παρακάμψουν το όριο που έχει τεθεί για εγκατάσταση φωτοβολταϊκών ...  \nTo άρθρο «Βαφτίζουν» τα χωράφια ως χαμηλής παραγωγικότητας για να βάλουν φωτοβολταϊκά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-2167474939-1200x675-2.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Το ταξίδι για το «όνειρο» μετατράπηκε σε εφιάλτη – Επτά νεκροί οπαδοί του ΠΑΟΚ στο σοκαριστικό δυστύχημα στη Ρουμανία",
           "link": "https://www.newsit.gr/ellada/to-taksidi-gia-to-oneiro-metatrapike-se-efialti-epta-nekroi-opadoi-tou-paok-sto-sokaristiko-dystyxima-sti-roumania/4585225/",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 23:11:37 +0000",
           "description": "Δεν λένε να σταματήσουν οι μεταβολές του καιρού, που τις τελευταίες ημέρες πηγαίνει από τις καταιγίδες στη λιακάδα και το ανάποδο… Όπως φαίνεται, ακόμα μία ...  \nTo άρθρο Καλλιάνος: Πανελλαδικά άστατος ο καιρός την Πέμπτη – Σε ποιες περιοχές και γιατί χρειάζεται προσοχή δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kakokairia-2-1200x783.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Βιολάντα: Το ντοκουμέντο από το σημείο της διαρροής προπανίου, οι συλλήψεις στελεχών του εργοστασίου και η νέα ανακοίνωση της εταιρείας",
-          "link": "https://www.newsit.gr/ellada/violanta-to-ntokoumento-apo-to-simeio-tis-diarrois-propaniou-oi-syllipseis-stelexon-tou-ergostasiou-kai-i-nea-anakoinosi-tis-etaireias/4585226/",
-          "pubDate": "Tue, 27 Jan 2026 23:01:45 +0000",
-          "description": "Η διαρροή προπανίου ήταν τελικά αυτή που προκάλεσε τη μοιραία έκρηξη στο εργοστάσιο «Βιολάντα» στα Τρίκαλα, η οποία στοίχισε τη ζωή πέντε εργατριών της νυχτερινής ...  \nTo άρθρο Βιολάντα: Το ντοκουμέντο από το σημείο της διαρροής προπανίου, οι συλλήψεις στελεχών του εργοστασίου και η νέα ανακοίνωση της εταιρείας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta55-simeio-diarrois-28012026.jpg",
           "source": "NewsIT"
         }
       ]
