@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T05:35:27.189Z",
+  "lastUpdated": "2026-01-28T05:40:29.695Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -255,6 +255,14 @@
       "color": "purple",
       "articles": [
         {
+          "title": "«Ψάχνονται» στο Μαξίμου για λύσεις καθημερινότητας και στη ΝΔ για τα προσυνέδρια – Συσκέψεις και αναθεωρήσεις",
+          "link": "https://www.tanea.gr/2026/01/28/politics/psaxnontai-sto-maksimou-gia-lyseis-kathimerinotitas-kai-sti-nd-gia-ta-prosynedria-syskepseis-kai-anatheoriseis/",
+          "pubDate": "Wed, 28 Jan 2026 05:27:12 +0000",
+          "description": "Σύσκεψη Μητσοτάκη και υπουργών σήμερα για το κυκλοφοριακό της Αττικής. Ζητούμενα ο κυβερνητικός και ο κομματικός συντονισμός.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/megaro-maximou-8-e1768154172300.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "ΚΚΕ: Ξεκινάει σήμερα το 22ο Συνέδριο – Η ιστορία των προηγούμενων συνεδρίων",
           "link": "https://www.tovima.gr/2026/01/28/politics/kke-ksekinaei-simera-to-22o-synedrio-i-istoria-ton-proigoumenon-synedrion/",
           "pubDate": "Wed, 28 Jan 2026 06:41:55 +0300",
@@ -485,14 +493,6 @@
           "description": "Η πρόσφατη εξέλιξη ήταν η ανάκληση του ασύλου ενός παλαιστίνιου πρόσφυγα, κατόπιν πληροφοριών που έφτασαν στις ελληνικές Αρχές από την πρεσβεία του Ισραήλ – όπως επιβεβαίωσε ο Θάνος Πλεύρης – για αναρτήσεις του που επικροτούσαν τη δράση της Χαμάς. Μαθαίνω, όμως, πως υπάρχουν δεκάδες ανακλήσεις ασύλου τον τελευταίο χρόνο που έχουν περάσει «κάτω από το […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/thanos-plevris-2-1024x683.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Βουλή: Κατά της άρσης ασυλίας Κουτσούμπα η εισήγηση της Επιτροπής Δεοντολογίας – Υπέρ της άρσης για Δ. Μάντζο ",
-          "link": "https://www.tanea.gr/2026/01/27/politics/vouli-kata-tis-arsis-asylias-koutsoumpa-i-eisigisi-tis-epitropis-deontologias-yper-tis-arsis-gia-d-mantzo/",
-          "pubDate": "Tue, 27 Jan 2026 12:09:55 +0000",
-          "description": "Κατά της άρσης ασυλίας του γενικού γραμματέα του ΚΚΕ, Δημήτρη Κουτσούμπα αποφάσισε και θα εισηγηθεί στην Ολομέλεια της Βουλής, η Επιτροπή Δεοντολογίας για την υπόθεση της μήνυσης που είχε καταθέσει εναντίον του, για παράβαση του νόμου περί χρηματοδότησης των κομμάτων, ο Κωνσταντίνος Πλεύρης. Όπως μεταδίδει το ΑΠΕ-ΜΠΕ, σύμφωνα με πληροφορίες, κατά της άρσης ασυλίας του […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6819531-1024x683.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
+          "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 05:38:48 GMT",
+          "description": "The killing of Alex Pretti over the weekend led MInnesota officials and locals to renew calls for Trump to end his immigration operation there.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2254/live/8dc47bd0-fbd7-11f0-8102-f9e135ba58e0.jpg",
+          "source": "BBC News"
+        },
         {
           "title": "Neil Young offers Greenlanders free access to his archives",
           "link": "https://www.bbc.com/news/articles/crmlpl0w2z2o?at_medium=RSS&at_campaign=rss",
@@ -538,14 +546,6 @@
           "pubDate": "Wed, 28 Jan 2026 01:54:51 GMT",
           "description": "The US president said Iraq would have \"zero\" chance of success without American support.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce8/live/acec9ec0-fbeb-11f0-a47f-d352a7d9988a.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
-          "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 01:33:26 GMT",
-          "description": "The killing of Alex Pretti over the weekend led MInnesota officials and locals to renew calls for Trump to end his immigration operation there.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2254/live/8dc47bd0-fbd7-11f0-8102-f9e135ba58e0.jpg",
           "source": "BBC News"
         },
         {
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Yahoo Scout: Ο «κοιμώμενος» γίγαντας επιστρέφει με όπλο την Τεχνητή Νοημοσύνη",
+          "link": "https://www.techgear.gr/yahoo-scout-o-koimomenos-gigantas-epistrefei-me-oplo-tin-techniti-noimosyni-47356",
+          "pubDate": "Wed, 28 Jan 2026 07:35:00 +0200",
+          "description": "Τη στιγμή που οι περισσότεροι τεχνολογικοί κολοσσοί αναλώνονται στη δημιουργία γενικών chatbots που προσπαθούν να κάνουν τα πάντα —από το να γράψουν ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/yahoo-scout.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Ανακοινώθηκε το Reigns: The Witcher - Ημερομηνία κυκλοφορίας και τιμή για το νέο spin-off",
           "link": "https://www.techgear.gr/anakoinothike-to-reigns-the-witcher-imerominia-kykloforias-kai-timi-gia-to-neo-spin-off-47355",
           "pubDate": "Wed, 28 Jan 2026 07:25:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Mon, 26 Jan 2026 21:01:00 +0200",
           "description": "Μετά από σχεδόν μισή δεκαετία φημών και προσμονής από το αρχικό λανσάρισμα του 2021, η Apple προχώρησε σήμερα στα αποκαλυπτήρια του νέου AirTag. Αν ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/apple-airtag-2.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Διπλή αναβάθμιση από την Apple: Τι φέρνουν σήμερα τα iOS 26.2.1 και watchOS 26.2.1",
-          "link": "https://www.techgear.gr/dipli-anavathmisi-apo-tin-apple-ti-fernoyn-simera-ta-ios-26-2-1-kai-watchos-26-2-1-47333",
-          "pubDate": "Mon, 26 Jan 2026 20:53:00 +0200",
-          "description": "Η Apple προχώρησε σήμερα σε μια συντονισμένη διάθεση ενημερώσεων λογισμικού, κυκλοφορώντας ταυτόχρονα το iOS 26.2.1 και το watchOS ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/ios-apple-tag-2.jpg",
           "source": "Techgear"
         }
       ]
