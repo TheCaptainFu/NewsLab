@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-01-28T18:05:33.799Z",
+  "lastUpdated": "2026-01-28T18:10:32.470Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Άσκηση ετοιμότητας ευρείας κλίμακας στον Διεθνή Αερολιμένα Αθηνών",
+          "link": "https://www.protothema.gr/greece/article/1765021/askisi-etoimotitas-eureias-klimakas-ston-diethni-aerolimena-athinon/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 20:05:55 +0200",
+          "description": "To φετινό σενάριο της άσκησης ήταν «Ατύχημα Αεροσκάφους στον Αερολιμένα» - Οι φορείς που συμμετείχαν",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-14/aerodromio49-xrm.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Σάσα Βεζένκοφ: Η ΔΕΑΒ κάλεσε τον παίκτη του Ολυμπιακού για το επεισόδιο με Ανδρέα Πετρόπουλο",
           "link": "https://www.newsit.gr/athlitika/sasa-vezenkof-i-deav-kalese-ton-paikti-tou-olympiakou-gia-to-epeisodio-me-andrea-petropoulo/4586111/",
@@ -239,14 +247,6 @@
           "description": "Δίωξη για ανθρωποκτονία και θανατηφόρο βιασμό σε βάρος του 52χρονου που κρατείται για την υπόθεση δολοφονίας των δύο γυναικών στην Θεσσαλονίκη, οι οποίες αγνοούνταν ενώ ...  \nTo άρθρο Θεσσαλονίκη: Για ανθρωποκτονία και θανατηφόρο βιασμό κατηγορείται ο 52χρονος που ομολόγησε ότι σκότωσε 46χρονη δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/thessaloniki-nekres-dolofonies-1200x789.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Καιρός αύριο: Καταιγίδες σε όλη τη χώρα και χιονοπτώσεις στα ορεινά – Στους 20 η θερμοκρασία στην Κρήτη",
-          "link": "https://www.newsit.gr/ellada/kairos-ayrio-kataigides-se-oli-ti-xora-kai-xionoptoseis-sta-oreina-stous-20-i-thermokrasia-stin-kriti/4585859/",
-          "pubDate": "Wed, 28 Jan 2026 17:04:00 +0000",
-          "description": "Βροχές, καταιγίδες και χιονοπτώσεις αναμένονται αύριο Πέμπτη (29.01.2026) στο μεγαλύτερο μέρος της χώρας ενώ οι μετεωρολογικές συνθήκες ευνοούν τη μεταφορά αφρικανικής σκόνης στα νότια. Οι ...  \nTo άρθρο Καιρός αύριο: Καταιγίδες σε όλη τη χώρα και χιονοπτώσεις στα ορεινά – Στους 20 η θερμοκρασία στην Κρήτη δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos-4-1200x801.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -255,12 +255,44 @@
       "color": "purple",
       "articles": [
         {
+          "title": "Αποστάσεις Γεραπετρίτη από τις αναφορές Λαζαρίδη για το «γκριζάρισμα του Αιγαίου»",
+          "link": "https://www.naftemporiki.gr/politics/2065209/apostaseis-gerapetriti-apo-tis-anafores-lazaridi-gia-to-gkrizarisma-toy-aigaioy/?utm_source=rss&utm_medium=rss&utm_campaign=apostaseis-gerapetriti-apo-tis-anafores-lazaridi-gia-to-gkrizarisma-toy-aigaioy",
+          "pubDate": "Wed, 28 Jan 2026 17:50:19 +0000",
+          "description": "Για τα όσα ελέχθησαν σχετικά με τα Ίμια και τις γκρίζες ζώνες στο Αιγαίο σήμερα στη Βουλή, τοποθετήθηκε ο Υπουργός Εξωτερικών Γιώργος Γεραπετρίτης.\nΑποστάσεις Γεραπετρίτη από τις αναφορές Λαζαρίδη για το «γκριζάρισμα του Αιγαίου» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Γεραπετρίτης: Η ειρήνη στη Μέση Ανατολή είναι πολιτική και ανθρωπιστική αναγκαιότητα",
+          "link": "https://www.naftemporiki.gr/politics/2065185/gerapetritis-i-eirini-sti-mesi-anatoli-einai-politiki-kai-anthropistiki-anagkaiotita/?utm_source=rss&utm_medium=rss&utm_campaign=gerapetritis-i-eirini-sti-mesi-anatoli-einai-politiki-kai-anthropistiki-anagkaiotita",
+          "pubDate": "Wed, 28 Jan 2026 16:58:52 +0000",
+          "description": "Σε ανοιχτή συνεδρίαση του ΣΑ ΟΗΕ για την κατάσταση στη Μέση Ανατολή, συμπεριλαμβανομένου του Παλαιστινιακού ζητήματος, συμμετείχε ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης.\nΓεραπετρίτης: Η ειρήνη στη Μέση Ανατολή είναι πολιτική και ανθρωπιστική αναγκαιότητα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Επίσκεψη του προέδρου του ΣΥΡΙΖΑ-ΠΣ, Σωκράτη Φάμελλου στα Τρίκαλα",
+          "link": "https://www.naftemporiki.gr/politics/2065186/episkepsi-toy-proedroy-toy-syriza-ps-sokrati-famelloy-sta-trikala/?utm_source=rss&utm_medium=rss&utm_campaign=episkepsi-toy-proedroy-toy-syriza-ps-sokrati-famelloy-sta-trikala",
+          "pubDate": "Wed, 28 Jan 2026 16:58:16 +0000",
+          "description": "Τα Τρίκαλα θα  επισκεφθεί αύριο Πέμπτη 29/1 ο πρόεδρος του ΣΥΡΙΖΑ-ΠΣ, Σωκράτης Φάμελλος, ο οποίος θα έχει συναντήσεις με θεσμικούς φορείς για το πρόσφατο τραγικό εργατικό δυστύχημα που κόστισε τη…\nΕπίσκεψη του προέδρου του ΣΥΡΙΖΑ-ΠΣ, Σωκράτη Φάμελλου στα Τρίκαλα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
           "title": "Ελληνογαλλική άμυνα σε νέα τροχιά: Φρεγάτες Rafale και κοινές ασκήσεις το 2026",
           "link": "https://www.tanea.gr/print/2026/01/28/politics/akomi-5-xronia-amyntikis-synergasias/",
           "pubDate": "Wed, 28 Jan 2026 16:56:00 +0000",
           "description": "Στην Αθήνα αύριο η υπουργός Αμυνας της Γαλλίας, Κατρίν Βοτρίν n Στη φρεγάτα «Κίμων» η συνάντηση με τον Νίκο Δένδια",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/nikos-dendias-1-1024x682.jpg",
           "source": "Τα Νέα"
+        },
+        {
+          "title": "Πέθανε σε ηλικία 40 ετών η τομεάρχης Πολιτισμού του ΠΑΣΟΚ, Αριστέα Καζάκου",
+          "link": "https://www.naftemporiki.gr/politics/2065181/pethane-se-ilikia-40-eton-i-tomearchis-politismoy-toy-pasok-aristea-kazakoy/?utm_source=rss&utm_medium=rss&utm_campaign=pethane-se-ilikia-40-eton-i-tomearchis-politismoy-toy-pasok-aristea-kazakoy",
+          "pubDate": "Wed, 28 Jan 2026 16:49:22 +0000",
+          "description": "«Έφυγε» από τη ζωή σε ηλικία μόλις 40 ετών η τομεάρχης Πολιτισμού του ΠΑΣΟΚ – Κινήματος Αλλαγής, Αριστέα Καζάκου.\nΠέθανε σε ηλικία 40 ετών η τομεάρχης Πολιτισμού του ΠΑΣΟΚ, Αριστέα Καζάκου - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
         },
         {
           "title": "Παρέμβαση Γεραπετρίτη στο Σ.Α του ΟΗΕ: Η μελλοντική ανοικοδόμηση της Γάζας να εδράζεται σε νομιμοποιημένες δομές διακυβέρνησης",
@@ -279,6 +311,22 @@
           "source": "Τα Νέα"
         },
         {
+          "title": "Ερώτηση Ε. Μελέτη προς Κομισιόν: «Πρέπει να σταματήσει η ανεξέλεγκτη προβολή σοκαριστικών εικόνων τραγωδίας στα ΜΜΕ»",
+          "link": "https://www.naftemporiki.gr/politics/2065176/erotisi-e-meleti-pros-komision-prepei-na-stamatisei-i-anexelegkti-provoli-sokaristikon-eikonon-tragodias-sta-mme/?utm_source=rss&utm_medium=rss&utm_campaign=erotisi-e-meleti-pros-komision-prepei-na-stamatisei-i-anexelegkti-provoli-sokaristikon-eikonon-tragodias-sta-mme",
+          "pubDate": "Wed, 28 Jan 2026 16:21:04 +0000",
+          "description": "Ερώτηση προς την Ευρωπαϊκή Επιτροπή σχετικά «με την αναπαραγωγή σοκαριστικού οπτικοακουστικού υλικού από τόπους τραγωδιών» με αφορμή «το σοβαρό τροχαίο στη Ρουμανία με επτά νεκρούς, του οποίου οι εικόνες μεταδίδονται…\nΕρώτηση Ε. Μελέτη προς Κομισιόν: «Πρέπει να σταματήσει η ανεξέλεγκτη προβολή σοκαριστικών εικόνων τραγωδίας στα ΜΜΕ» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Κ. Μητσοτάκης: Ξεκινά μια νέα εποχή για την Εκκλησία της Κρήτης",
+          "link": "https://www.naftemporiki.gr/politics/2065172/k-mitsotakis-xekina-mia-nea-epochi-gia-tin-ekklisia-tis-kritis/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-xekina-mia-nea-epochi-gia-tin-ekklisia-tis-kritis",
+          "pubDate": "Wed, 28 Jan 2026 16:13:49 +0000",
+          "description": "Για μια «νέα εποχή στην Εκκλησία της Κρήτης, που ξεκινά με τις καλύτερες προϋποθέσεις» κάνει λόγο ο πρωθυπουργός Κυριάκος Μητσοτάκης.\nΚ. Μητσοτάκης: Ξεκινά μια νέα εποχή για την Εκκλησία της Κρήτης - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
           "title": "Βουλή: Εκρηκτική αντιπαράθεση για τα Ίμια – «Κυβέρνηση Σημίτη, Αρσένης και Πάγκαλος τραγικοί, μοιραίοι και άβουλοι»",
           "link": "https://www.tanea.gr/2026/01/28/politics/voyli-ekriktiki-antiparathesi-gia-ta-imia-kyvernisi-simiti-arsenis-kai-pagkalos-tragikoi-m/",
           "pubDate": "Wed, 28 Jan 2026 15:55:46 +0000",
@@ -287,12 +335,28 @@
           "source": "Τα Νέα"
         },
         {
+          "title": "«Μετωπική» Λαζαρίδη-Χρηστίδη για τα Ίμια στη Βουλή: «Το ΠΑΣΟΚ οδήγησε στο γκριζάρισμα του Αιγαίου» – «Να ανακαλέσετε»",
+          "link": "https://www.naftemporiki.gr/politics/2065159/metopiki-lazaridi-christidi-sti-voyli-gia-ta-imia-to-pasok-odigise-sto-gkrizarisma-toy-aigaioy-na-anakalesete/?utm_source=rss&utm_medium=rss&utm_campaign=metopiki-lazaridi-christidi-sti-voyli-gia-ta-imia-to-pasok-odigise-sto-gkrizarisma-toy-aigaioy-na-anakalesete",
+          "pubDate": "Wed, 28 Jan 2026 15:44:53 +0000",
+          "description": "Έντονη αντιπαράθεση σημειώθηκε νωρίτερα σήμερα στη Βουλή μεταξύ του κοινοβουλευτικού εκπροσώπου της ΝΔ, Μακάριου Λαζαρίδη και του κοινοβουλευτικού εκπροσώπου του ΠΑΣΟΚ, Παύλου Χρηστίδη, με φόντο την κρίση των Ιμίων.\n«Μετωπική» Λαζαρίδη-Χρηστίδη για τα Ίμια στη Βουλή: «Το ΠΑΣΟΚ οδήγησε στο γκριζάρισμα του Αιγαίου» – «Να ανακαλέσετε» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
           "title": "Θρήνος στο ΠαΣοΚ, πέθανε η Αριστέα Καζάκου σε ηλικία 40 ετών",
           "link": "https://www.tovima.gr/2026/01/28/politics/thrinos-sto-pasok-pethane-i-aristea-kazakou-se-ilikia-40-eton/",
           "pubDate": "Wed, 28 Jan 2026 18:40:39 +0300",
-          "description": "Την τελευταία της πνοή σε ηλικία 40 ετών άφησε η Αριστέα Καζάκου, η οποία υπήρξε στέλεχος του ΠαΣοΚ και δικηγόρος.",
+          "description": "Την τελευταία της πνοή σε ηλικία 40 ετών άφησε η Αριστέα Καζάκου, η οποία υπήρξε στέλεχος του ΠαΣοΚ και δικηγόρος - Η κηδεία της θα πραγματοποιηθεί το Σάββατο στην Κυπαρισσία.",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/kazakou-1024x682.jpg",
           "source": "Το Βήμα"
+        },
+        {
+          "title": "Ν. Ανδρουλάκης: Είστε υπόλογοι για τη βαθιά θεσμική κρίση – Δεν θα επιτρέψουμε να συνεχιστεί ο θεσμικός κατήφορος",
+          "link": "https://www.naftemporiki.gr/politics/2065155/n-androylakis-eiste-ypologoi-gia-ti-vathia-thesmiki-krisi-den-tha-epitrepsoyme-na-synechistei-o-thesmikos-katiforos/?utm_source=rss&utm_medium=rss&utm_campaign=n-androylakis-eiste-ypologoi-gia-ti-vathia-thesmiki-krisi-den-tha-epitrepsoyme-na-synechistei-o-thesmikos-katiforos",
+          "pubDate": "Wed, 28 Jan 2026 15:29:09 +0000",
+          "description": "Σε παρέμβασή του στη Βουλή, ο πρόεδρος του ΠΑΣΟΚ- Κινήματος Αλλαγής, Νίκος Ανδρουλάκης, καταδίκασε εμφατικά τις αναφορές του βουλευτή της ΝΔ, Μακάριου Λαζαρίδη, περί «γκριζαρίσματος» περιοχών στο Αιγαίο μετά τη…\nΝ. Ανδρουλάκης: Είστε υπόλογοι για τη βαθιά θεσμική κρίση – Δεν θα επιτρέψουμε να συνεχιστεί ο θεσμικός κατήφορος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
         },
         {
           "title": "Κριτική Ανδρουλάκη στη κυβέρνηση για τα εργατικά δυστυχήματα και την ευλογιά – Η απάντηση για τα Ίμια",
@@ -303,6 +367,46 @@
           "source": "Το Βήμα"
         },
         {
+          "title": "Συνάντηση Κ. Μητσοτάκη με την υπουργό Ενόπλων Δυνάμεων της Γαλλίας την Πέμπτη",
+          "link": "https://www.naftemporiki.gr/politics/2065102/synantisi-k-mitsotaki-me-tin-ypoyrgo-enoplon-dynameon-tis-gallias-tin-pempti/?utm_source=rss&utm_medium=rss&utm_campaign=synantisi-k-mitsotaki-me-tin-ypoyrgo-enoplon-dynameon-tis-gallias-tin-pempti",
+          "pubDate": "Wed, 28 Jan 2026 14:09:22 +0000",
+          "description": "Την υπουργό Ενόπλων Δυνάμεων της Γαλλίας, Κατρίν Βοτρέν, θα υποδεχθεί αύριο στις 15.45 στο Μέγαρο Μαξίμου ο πρωθυπουργός Κυριάκος Μητσοτάκης.\nΣυνάντηση Κ. Μητσοτάκη με την υπουργό Ενόπλων Δυνάμεων της Γαλλίας την Πέμπτη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "ΠΑΣΟΚ: Καμπάνια για το κυκλοφοριακό πρόβλημα στην Αττική – Λύσεις για ποιοτική καθημερινότητα",
+          "link": "https://www.naftemporiki.gr/politics/2065063/pasok-kampania-gia-to-kykloforiako-provlima-stin-attiki-lyseis-gia-poiotiki-kathimerinotita/?utm_source=rss&utm_medium=rss&utm_campaign=pasok-kampania-gia-to-kykloforiako-provlima-stin-attiki-lyseis-gia-poiotiki-kathimerinotita",
+          "pubDate": "Wed, 28 Jan 2026 13:35:49 +0000",
+          "description": "Με καμπάνια το ΠΑΣΟΚ παρουσιάζει τις προτάσεις του για την αντιμετώπιση του κυκλοφοριακού προβλήματος στην Αττική, δίνοντας στη δημοσιότητα σήμερα σχετικό σποτ.\nΠΑΣΟΚ: Καμπάνια για το κυκλοφοριακό πρόβλημα στην Αττική – Λύσεις για ποιοτική καθημερινότητα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Τσιάρας: Ο εμβολιασμός δεν συνεπάγεται απαραίτητα τη μη θανάτωση ζώων – Κυβερνητική απόφαση η ενίσχυση των μέτρων βιοασφάλειας",
+          "link": "https://www.naftemporiki.gr/politics/2065051/tsiaras-o-emvoliasmos-den-synepagetai-aparaitita-ti-mi-thanatosi-zoon-kyvernitiki-apofasi-i-enischysi-ton-metron-vioasfaleias/?utm_source=rss&utm_medium=rss&utm_campaign=tsiaras-o-emvoliasmos-den-synepagetai-aparaitita-ti-mi-thanatosi-zoon-kyvernitiki-apofasi-i-enischysi-ton-metron-vioasfaleias",
+          "pubDate": "Wed, 28 Jan 2026 13:20:38 +0000",
+          "description": "«Η εθνική στρατηγική για τη χώρα είναι να ενισχύσουμε τα μέτρα βιοασφάλειας και να κλείσουμε τον κύκλο ουσιαστικά της ευλογιάς χωρίς να καταφεύγουμε στον εμβολιασμό», σημείωσε, μεταξύ άλλων ο Υπουργός…\nΤσιάρας: Ο εμβολιασμός δεν συνεπάγεται απαραίτητα τη μη θανάτωση ζώων – Κυβερνητική απόφαση η ενίσχυση των μέτρων βιοασφάλειας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Πυρά ΣΥΡΙΖΑ κατά Π. Μαρινάκη με αιχμή τις δηλώσεις του για την τραγωδία στα Τρίκαλα",
+          "link": "https://www.naftemporiki.gr/politics/2065041/pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala/?utm_source=rss&utm_medium=rss&utm_campaign=pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala",
+          "pubDate": "Wed, 28 Jan 2026 13:06:35 +0000",
+          "description": "Πυρά κατά του κυβερνητικού εκπροσώπου με αιχμή τη δήλωσή του ότι το τραγικό δυστύχημα στα Τρίκαλα «δεν ακουμπάει θέματα εργασίας» εξαπολύει ο ΣΥΡΙΖΑ.\nΠυρά ΣΥΡΙΖΑ κατά Π. Μαρινάκη με αιχμή τις δηλώσεις του για την τραγωδία στα Τρίκαλα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Π. Μαρινάκης: Οι μεγαλύτεροι πολιτικοί απατεώνες κάνουν «καριέρα» πάνω σε τραγωδίες",
+          "link": "https://www.naftemporiki.gr/politics/2065004/p-marinakis-oi-megalyteroi-politikoi-apateones-kanoyn-kariera-pano-se-tragodies/?utm_source=rss&utm_medium=rss&utm_campaign=p-marinakis-oi-megalyteroi-politikoi-apateones-kanoyn-kariera-pano-se-tragodies",
+          "pubDate": "Wed, 28 Jan 2026 12:51:31 +0000",
+          "description": "Για τις εξελίξεις γύρω από τη φονική έκρηξη στο εργοστάσιο της «Βιολάντα» στα Τρίκαλα, αλλά και για τη συζήτηση που άνοιξε αναφορικά με τα εργατικά δυστυχήματα στη χώρα μας τοποθετήθηκε…\nΠ. Μαρινάκης: Οι μεγαλύτεροι πολιτικοί απατεώνες κάνουν «καριέρα» πάνω σε τραγωδίες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
           "title": "ΠΑΣΟΚ: «Σκληρή θεσμικότητα» μπροστά στις νάρκες",
           "link": "https://www.tanea.gr/print/2026/01/28/politics/skliri-thesmikotita-mprosta-stis-narkes/",
           "pubDate": "Wed, 28 Jan 2026 12:44:00 +0000",
@@ -311,12 +415,28 @@
           "source": "Τα Νέα"
         },
         {
+          "title": "Αντιπρόεδρος της Κοινοβουλευτικής Συνέλευσης του Συμβουλίου της Ευρώπης εξελέγη η Ντ. Μπακογιάννη",
+          "link": "https://www.naftemporiki.gr/politics/2065010/antiproedros-tis-koinovoyleytikis-syneleysis-toy-symvoylioy-tis-eyropis-exelegi-i-nt-mpakogianni/?utm_source=rss&utm_medium=rss&utm_campaign=antiproedros-tis-koinovoyleytikis-syneleysis-toy-symvoylioy-tis-eyropis-exelegi-i-nt-mpakogianni",
+          "pubDate": "Wed, 28 Jan 2026 12:30:28 +0000",
+          "description": "Η βουλευτής της Νέας Δημοκρατίας, Ντόρα Μπακογιάννη, εξελέγη αντιπρόεδρος της Κοινοβουλευτικής Συνέλευσης του Συμβουλίου της Ευρώπης.\nΑντιπρόεδρος της Κοινοβουλευτικής Συνέλευσης του Συμβουλίου της Ευρώπης εξελέγη η Ντ. Μπακογιάννη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
           "title": "Βουλή: Καυγάς για τα Ίμια – Οι βαριές κατηγορίες Λαζαρίδη, η απάντηση Χρηστίδη",
           "link": "https://www.tovima.gr/2026/01/28/politics/vouli-kaygas-gia-ta-imia-oi-varies-katigories-lazaridi-i-apantisi-xristidi/",
           "pubDate": "Wed, 28 Jan 2026 15:20:36 +0300",
           "description": "Υψηλοί τόνοι στη Βουλή 30 χρόνια μετά τα Ίμια - Πώς «άναψαν τα αίματα» μεταξύ Λαζαρίδη και Χρηστίδη - Τι είπαν οι υπόλοιποι.",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/imia-1024x679.jpg",
           "source": "Το Βήμα"
+        },
+        {
+          "title": "Εξεταστική για ΟΠΕΚΕΠΕ- Κ. Μπατζελή: Το «μυστικό» δεν είναι ο «τεχνικός σύμβουλος» αλλά το πότε «ανοίγεις» τις αιτήσεις",
+          "link": "https://www.naftemporiki.gr/politics/2064994/exetastiki-gia-opekepe-k-mpatzeli-to-mystiko-den-einai-o-technikos-symvoylos-alla-to-pote-anoigeis-tis-aitiseis/?utm_source=rss&utm_medium=rss&utm_campaign=exetastiki-gia-opekepe-k-mpatzeli-to-mystiko-den-einai-o-technikos-symvoylos-alla-to-pote-anoigeis-tis-aitiseis",
+          "pubDate": "Wed, 28 Jan 2026 12:15:40 +0000",
+          "description": "Το «μυστικό» στην υπόθεση των αγροτικών ενισχύσεων δεν είναι ο «τεχνικός σύμβουλος» αλλά το πότε «ανοίγεις» τις αιτήσεις, επεσήμανε η πρώην υπουργός Αγροτικής Ανάπτυξης και Τροφίμων (Οκτώβριος 2009 έως Σεπτέμβριος…\nΕξεταστική για ΟΠΕΚΕΠΕ- Κ. Μπατζελή: Το «μυστικό» δεν είναι ο «τεχνικός σύμβουλος» αλλά το πότε «ανοίγεις» τις αιτήσεις - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
         },
         {
           "title": "Πηγές ΝΔ: Η κ. Μπατζελή αναγνώρισε τη διαχρονικότητα του προβλήματος του ΟΠΕΚΕΠΕ",
@@ -373,126 +493,6 @@
           "description": "Τις εισηγήσεις τους για την αντιμετώπιση της καθημερινής ταλαιπωρίας των Αθηναίων στους δρόμους της Αττικής έκαναν τα συναρμόδια στελέχη στην κλειστή σύσκεψη υπό τον Κυριάκο Μητσοτάκη. Μετά τον πρωινό καφέ στο Μέγαρο Μαξίμου πραγματοποιήθηκε εσωτερική διαβούλευση και μπήκαν στο τραπέζι συγκεκριμένες προτάσεις για τη διαχείριση του κυκλοφοριακού προβλήματος. Στο επίκεντρο, η κατάσταση στον Κηφισό, ενώ […]",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/kifisos-1024x683.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Αλέξης Τσίπρας: «Στεκόμαστε πλάι στα σπίτια που ορφάνεψαν, πλάι στον ΠΑΟΚ»",
-          "link": "https://www.tanea.gr/2026/01/28/politics/aleksis-tsipras-stekomaste-plai-sta-spitia-poy-orfanepsan-plai-ston-paok/",
-          "pubDate": "Wed, 28 Jan 2026 08:34:31 +0000",
-          "description": "Ο Αλέξης Τσίπρας εξέφρασε τα συλλυπητήριά του για την απώλεια των επτά οπαδών του ΠΑΟΚ, τονίζοντας πως όταν χάνονται νέοι άνθρωποι σε μια στιγμή χαράς",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/tsipras-5-1024x683.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Τσίπρας για την τραγωδία με οπαδούς του ΠΑΟΚ: «Οι λέξεις χάνουν τη σημασία τους»",
-          "link": "https://www.tovima.gr/2026/01/28/politics/tsipras-gia-tin-tragodia-me-opadous-tou-paok-oi-lekseis-xanoun-ti-simasia-tous/",
-          "pubDate": "Wed, 28 Jan 2026 10:38:13 +0300",
-          "description": "Η ανάρτηση του Αλέξη Τσίπρα για τον χαμό επτά νεαρών οπαδών του ΠΑΟΚ και το μήνυμα συμπαράστασης στις οικογένειες των θυμάτων",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/11/13/tsipras-3-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Ενοπλες Δυνάμεις: Μαζικές παραιτήσεις στελεχών, εικόνα κρίσης",
-          "link": "https://www.tovima.gr/2026/01/28/politics/enoples-dynameis-mazikes-paraitiseis-stelexon-eikona-krisis/",
-          "pubDate": "Wed, 28 Jan 2026 09:49:20 +0300",
-          "description": "Εντονος προβληματισμός στην ηγεσία του Πολεμικού Ναυτικού αλλά και γενικότερα των Ενόπλων δυνάμεων από το ρεκόρ παραιτήσεων",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/gian7755_11768488981-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Κώστας Σκανδαλίδης: Δεν έχει όριο ο γκεμπελισμός της ΝΔ",
-          "link": "https://www.tovima.gr/2026/01/28/politics/kostas-skandalidis-den-exei-orio-o-gkempelismos-tis-nd/",
-          "pubDate": "Wed, 28 Jan 2026 08:56:11 +0300",
-          "description": "Ο πρώην υπουργός έκανε λόγο για απόπειρα διαστρέβλωσης από τη Νέα Δημοκρατία της κατάθεσής του στην Εξεταστική Επιτροπή για τον ΟΠΕΚΕΠΕ",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/TSE_1_GIAN-4-1024x684.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Τετ α τετ Γεραπετρίτη – Γκουτέρες στη Νέα Υόρκη",
-          "link": "https://www.tanea.gr/2026/01/28/politics/tet-a-tet-gerapetriti-gkouteres-sti-nea-yorki/",
-          "pubDate": "Wed, 28 Jan 2026 05:38:21 +0000",
-          "description": "Η ατζέντα της σημερινής συνάντησης του Έλληνα ΥΠΕΞ με τον ΓΓ. του ΟΗΕ",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/gerapetritis-2-1-1024x682.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "«Ψάχνονται» στο Μαξίμου για λύσεις καθημερινότητας και στη ΝΔ για τα προσυνέδρια – Συσκέψεις και αναθεωρήσεις",
-          "link": "https://www.tanea.gr/2026/01/28/politics/psaxnontai-sto-maksimou-gia-lyseis-kathimerinotitas-kai-sti-nd-gia-ta-prosynedria-syskepseis-kai-anatheoriseis/",
-          "pubDate": "Wed, 28 Jan 2026 05:27:12 +0000",
-          "description": "Σύσκεψη Μητσοτάκη και υπουργών σήμερα για το κυκλοφοριακό της Αττικής. Ζητούμενα ο κυβερνητικός και ο κομματικός συντονισμός.",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/megaro-maximou-8-e1768154172300.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "ΚΚΕ: Ξεκινάει σήμερα το 22ο Συνέδριο – Η ιστορία των προηγούμενων συνεδρίων",
-          "link": "https://www.tovima.gr/2026/01/28/politics/kke-ksekinaei-simera-to-22o-synedrio-i-istoria-ton-proigoumenon-synedrion/",
-          "pubDate": "Wed, 28 Jan 2026 06:41:55 +0300",
-          "description": "Με έναν διαφορετικό σε σχέση με το παρελθόν τρόπο ανοίγει τις πύλες του σήμερα το 22ο Συνέδριο του ΚΚΕ, το οποίο θα κληθεί να δώσει τις δικές του απαντήσεις στις προκλήσεις του σήμερα.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2024/09/19/EV_KKE16-1024x682.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Δοκιμασία Αξιοπιστίας για την Ευρωπαϊκή Πολιτική Αλιείας",
-          "link": "https://www.tovima.gr/2026/01/28/politics/dokimasia-aksiopistias-gia-tin-eyropaiki-politiki-alieias/",
-          "pubDate": "Wed, 28 Jan 2026 06:00:44 +0300",
-          "description": "«Οι ευρωπαίοι αλιείς δεν θα ωφεληθούν από την επαναδιαπραγμάτευση  της ΚΟΙΝΗΣ ΑΛΙΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ , που έχει ήδη αποδειχθεί αποτελεσματική» - Το κείμενο γράφτηκε για το POLITICO το οποίο παραχώρησε το δικαίωμα ταυτόχρονης δημοσίευσης στο ΒΗΜΑ.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/fishboat-1024x680.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Θάνος Πλεύρης: Κανένας παράνομος «μετανάστης» δεν θα γίνεται νόμιμος – Τα πάνω κάτω με το νέο νομοσχέδιο",
-          "link": "https://www.tanea.gr/2026/01/27/politics/thanos-pleyris-kanenas-paranomos-metanastis-den-tha-ginetai-nomimos-ta-pano-kato-me-to-neo-nomosxedio/",
-          "pubDate": "Tue, 27 Jan 2026 17:45:31 +0000",
-          "description": "Σε κλίμα πολιτικής αντιπαράθεσης διεξάγεται στη Βουλή η συζήτηση για το νομοσχέδιο του υπουργείου Μετανάστευσης και Ασύλου, με το οποίο η κυβέρνηση επιχειρεί την αναμόρφωση του Κώδικα Μετανάστευσης. Το νομοσχέδιο αντιμετωπίζει ευρύ αλλά ετερόκλητο μέτωπο ενστάσεων από την αντιπολίτευση, τόσο στα δεξιά όσο και στα αριστερά της Νέας Δημοκρατίας. Παρουσιάζοντας το σκεπτικό των νέων διατάξεων, […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/pleuris-1024x682.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Γεωργιάδης για τροχαίο στη Ρουμανία: «Οι τρεις τραυματίες έχουν συνείδηση»",
-          "link": "https://www.tovima.gr/2026/01/27/society/georgiadis-gia-troxaio-sti-roumania-oi-treis-traymaties-exoun-syneidisi/",
-          "pubDate": "Tue, 27 Jan 2026 17:37:44 +0300",
-          "description": "«Είμαστε έτοιμοι να παράσχουμε κάθε είδους βοήθεια που θα χρειαστεί ή να τους μεταφέρουμε στην Ελλάδα εάν αυτό κρίνουν οι γιατροί», σημείωσε σε ανάρτησή του ο υπουργός Υγείας για το τροχαίο στη Ρουμανία.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/01/21/Adonis-Georgiadis-1024x678.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Μητσοτάκης: «Βαθιά συγκλονισμένος για το τραγικό δυστύχημα στη Ρουμανία»",
-          "link": "https://www.tovima.gr/2026/01/27/politics/mitsotakis-vathia-sygklonismenos-gia-to-tragiko-dystyxima-sti-roumania/",
-          "pubDate": "Tue, 27 Jan 2026 16:58:29 +0300",
-          "description": "«Τούτες τις δύσκολες στιγμές, μαζί με όλες τις Ελληνίδες και όλους τους Έλληνες, εκφράζω τα πιο ειλικρινή συλλυπητήριά μου στους συγγενείς των θυμάτων και στην οικογένεια του ΠΑΟΚ» έγραψε ο πρωθυπουργός στο μήνυμα συμπαράστασης.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/kyriakos2-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Η ΝΔ στέλνει στην επιτροπή Δεοντολογίας την Κωνσταντοπούλου – Οι αναφορές στα Ίμια",
-          "link": "https://www.tovima.gr/2026/01/27/politics/i-nd-stelnei-stin-epitropi-deontologias-tin-konstantopoulou-oi-anafores-sta-imia/",
-          "pubDate": "Tue, 27 Jan 2026 16:41:43 +0300",
-          "description": "Παραπέμπεται στην επιτροπή Δεοντολογίας η Ζωή Κωνσταντοπούλου για αντικοινοβουλευτική συμπεριφορά - «Αυτό που είπε με αυτό τον απαράδεκτο τρόπο το ψάξε να βρεις τι έγινε στα Ίμια, είναι προσβολή στο πρόσωπο του ήρωα».",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/KONSTANTOPOYLOY-1024x681.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Νέο επεισόδιο με Κωνσταντοπούλου – Η απειλή για το άρθρο 81, διακόπηκε η συνεδρίαση",
-          "link": "https://www.tovima.gr/2026/01/27/politics/neo-epeisodio-me-konstantopoulou-i-apeili-gia-to-arthro-81-diakopike-i-synedriasi/",
-          "pubDate": "Tue, 27 Jan 2026 14:10:37 +0300",
-          "description": "Ο έντονος διάλογος που που σημειώθηκε στην εξεταστική επιτροπή - Ολιγόλεπτη διακοπή μεταξύ φωνών και αντεγκλήσεων",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/zoi-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Βουλή: «Όχι» στην άρση ασυλίας για Δ. Κουτσούμπα, «ναι» για Δ. Μάντζο",
-          "link": "https://www.tovima.gr/2026/01/27/%ce%b1%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%84%ce%b1/vouli-oxi-stin-arsi-asylias-gia-d-koutsoumpa-nai-gia-d-mantzo/",
-          "pubDate": "Tue, 27 Jan 2026 13:26:10 +0300",
-          "description": "Τι αναφέρει στο υπόμνημά του ο γ.γ. της ΚΕ του ΚΚΕ σε βάρος του οποίου κινήθηκε η σχετική διαδικασία, μετά από μήνυση του Κωνσταντίνου Πλεύρη - Γιατί ζήτησε ο κοινοβουλευτικός εκπρόσωπος του ΠαΣοΚ να αρθεί η δική του ασυλία",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/11/12/vouli-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Μητσοτάκης για ευλογιά αιγοπροβάτων: «Δεν συζητάμε καθόλου ζητήματα εμβολιασμού»",
-          "link": "https://www.tovima.gr/2026/01/27/politics/mitsotakis-gia-eylogia-aigoprovaton-den-syzitame-katholou-zitimata-emvoliasmou/",
-          "pubDate": "Tue, 27 Jan 2026 12:42:29 +0300",
-          "description": "Έμφαση στην αυστηρή εφαρμογή των μέτρων βιοασφάλειας, ενίσχυση των κτηνιατρικών ελέγχων και ξεκάθαρο «όχι» στον εμβολιασμό, με στόχο την εκρίζωση της ευλογιάς και τη διασφάλιση της ελληνικής κτηνοτροφίας, έδωσε ο Πρωθυπουργός στη σημερινή συνεδρίαση.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/26-01-27_0016__DPC3309-1024x683.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -747,10 +747,42 @@
       "color": "green",
       "articles": [
         {
+          "title": "Μπαχτσεσεχίρ - Άρης 81-79: Πέταξε στα σκουπίδια μια μεγάλη ευκαιρία",
+          "link": "https://www.gazzetta.gr/basketball/eurocup/2511001/mpahtsesehir-aris-81-79-petaxe-sta-skoypidia-mia-megali-eykairia",
+          "pubDate": "Wed, 28 Jan 2026 20:09:26 +0200",
+          "description": "Ο Άρης είχε τη νίκη στα χέρια του αλλά πλήρωσε την επιθετική αφλογιστία του και το καλάθι του Μαλακάι Φλιν 0.3'' πριν το τέλος στην ήττα (81-79) από την Μπαχτσεσεχίρ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4907048_1_1.jpg?itok=J5hUVkMh",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Ο Μπενίτεθ άφησε εκτός το Μλαντένοβιτς ενώ δεν συμπλήρωνε αποστολή",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511000/panathinaikos-o-mpeniteth-afise-ektos-mlantenobits-eno-den",
+          "pubDate": "Wed, 28 Jan 2026 20:05:59 +0200",
+          "description": "Ο Ράφα Μπενίτεθ προέβη σε μία παράξενη επιλογή αποφασίζοντας αφήσει εκτός από την αποστολή του αγώνα με την Ρόμα τον Φίλιπ Μλαντένοβιτς, παρά τις τρομερές ελλείψεις που έχει.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mladenovic_eurokinisi.jpg?itok=XrrT_DV3",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τον σκότωσε το θερμός του καφέ: Πέθανε από δηλητηρίαση μολύβδου μετά από 20 χρόνια χρήσης",
+          "link": "https://www.gazzetta.gr/plus/2510958/ton-skotose-thermos-toy-kafe-pethane-apo-dilitiriasi-molybdoy-meta-apo-20-hronia",
+          "pubDate": "Wed, 28 Jan 2026 20:05:00 +0200",
+          "description": "Επί 20 χρόνια έπινε καφέ από τον ίδιο θερμό, χωρίς να περίμενε αυτό που ακολούθησε. Από ένα τρακάρισμα αποκαλύφθηκε κάτι, που ένα χρόνο μετά, τον σκότωσε...",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/thermos.jpg?itok=OxE8peLW",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σάσα Βεζένκοφ: Η ΔΕΑΒ κάλεσε τον παίκτη του Ολυμπιακού για το επεισόδιο με Ανδρέα Πετρόπουλο",
+          "link": "https://www.newsit.gr/athlitika/sasa-vezenkof-i-deav-kalese-ton-paikti-tou-olympiakou-gia-to-epeisodio-me-andrea-petropoulo/4586111/",
+          "pubDate": "Wed, 28 Jan 2026 18:04:42 +0000",
+          "description": "Η σύρραξη μεταξύ Σάσα Βεζένοφ και Ανδρέα Πατρόπουλου στο ματς Κολοσσός Ρόδου – Ολυμπιακός για τη GBL, ήταν αρκετή για να επέμβει η Διαρκής Επιτροπή ...  \nTo άρθρο Σάσα Βεζένκοφ: Η ΔΕΑΒ κάλεσε τον παίκτη του Ολυμπιακού για το επεισόδιο με Ανδρέα Πετρόπουλο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bezenkof-eurokinissi-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Μπαχτσεσεχίρ – Άρης 81-79: Αδίκησε τον εαυτό του και ηττήθηκε με καλάθι του Φλιν στο φινάλε",
           "link": "https://www.newsit.gr/athlitika/mpaxtsesexir-aris-81-79-adikise-ton-eayto-tou-kai-ittithike-me-kalathi-tou-flin-sto-finale/4586097/",
           "pubDate": "Wed, 28 Jan 2026 18:03:37 +0000",
-          "description": "To άρθρο Μπαχτσεσεχίρ – Άρης 81-79: Αδίκησε τον εαυτό του και ηττήθηκε με καλάθι του Φλιν στο φινάλε δημοσιεύτηκε στο NewsIT .",
+          "description": "Ο Άρης πάλεψε για ένα τεράστιο διπλό στην Τουρκία, έφτασε μία “ανάσα” από τη νίκη κόντρα στην Μπαχτσεσεχίρ, ωστόσο στο φινάλε οι Τούρκοι έκαναν την ...  \nTo άρθρο Μπαχτσεσεχίρ – Άρης 81-79: Αδίκησε τον εαυτό του και ηττήθηκε με καλάθι του Φλιν στο φινάλε δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-mitroulong-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -953,38 +985,6 @@
           "description": "Φίλοι του ΠΑΟΚ που βρίσκονται μεμονωμένα στη Λιόν αναζητούν τρόπο να τιμήσουν τους επτά συνοπαδούς που έφυγαν από τη ζωή. Αποστολή στη Γαλλία Σταύρος Σουντουλίδης.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_6_0.jpg?itok=YkWCsFHp",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Οι περιοχές που θα πληγούν από την κακοκαιρία Kristin: Τι να προσέξουν οι πολίτες",
-          "link": "https://www.gazzetta.gr/plus/2510961/oi-periohes-poy-tha-pligoyn-apo-tin-kakokairia-kristin-ti-na-prosexoyn-oi-polites",
-          "pubDate": "Wed, 28 Jan 2026 18:52:00 +0200",
-          "description": "Η κακοκαιρία «KRISTIN» έρχεται και ο Τσατραφύλλιας να προειδοποιεί για περιοχές που ενδέχεται να αντιμετωπίσουν προβλήματα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/brohes-athina.jpg?itok=RGtEz4Zu",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Η ελληνική αποστολή για το Μιλάνο",
-          "link": "https://www.gazzetta.gr/heimerina-athlimata/olympiakoi-agones/2510967/heimerinoi-olympiakoi-agones-i-elliniki-apostoli-gia",
-          "pubDate": "Wed, 28 Jan 2026 18:49:30 +0200",
-          "description": "Η Ελληνική Ολυμπιακή Επιτροπή ανακοίνωσε τη σύνθεση της ελληνικής ομάδας για τους Χειμερινούς Ολυμπιακούς Αγώνες που θα διεξαχθούν από τις 6 έως τις 22 Φεβρουαρίου.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gkinnis.jpg?itok=o03cP6ss",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λαπροβίτολα ενόψει Ολυμπιακού: «Στην έδρα τους, θα είναι πολύ δύσκολο»",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2510966/laprobitola-enopsei-olympiakoy-stin-edra-toys-tha-einai-poly-dyskolo",
-          "pubDate": "Wed, 28 Jan 2026 18:46:47 +0200",
-          "description": "Στο τι πρέπει να κάνει σωστά η ομάδα του και να πάρει τη νίκη, αλλά και στην ατμόσφαιρα στο ΣΕΦ, αναφέρθηκε ο Νίκο Λαποροβίτολα στις δηλώσεις τους ενόψει Ολυμπιακού.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-04/laprovitola_eurokinissi.jpg?itok=xw9Z298R",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αντετοκούνμπο: «Έτοιμος για trade ο Γιάννης από τους Μπακς» γράφει το ESPN",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510965/antetokoynmpo-etoimos-gia-trade-o-giannis-apo-toys-mpaks-grafei-espn",
-          "pubDate": "Wed, 28 Jan 2026 18:45:34 +0200",
-          "description": "Όπως φαίνεται ο Γιάννης Αντετοκούνμπο ίσως να μετράει και τις τελευταίες του ημέρες στο Μιλγουόκι όπως ανέφερε χαρακτηριστικά και το ESPN.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/giannis_3.jpg?itok=maGy-K_K",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Τεράστιος Παναθηναϊκός, «ξέρανε» τον… γαύρο στο φινάλε!",
+          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/terastios-panathinaikos-xerane-ton/?utm_source=rss&utm_medium=rss&utm_campaign=terastios-panathinaikos-xerane-ton",
+          "pubDate": "Wed, 28 Jan 2026 18:09:40 +0000",
+          "description": "Μεγάλης σπουδαιότητας νίκη απέναντι στον Ολυμπιακό πήρε ο Παναθηναϊκός (88-85) στο γυναικείο μπάσκετ, έχοντας στο πλευρό του χιλιάδες φανατικούς οπαδούς στον «Τάφο του Ινδού». Περισσότερα σε λίγο…",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/krimili-gynaikon.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Τσιμίκας: «Δεν έχω λόγια για αυτό που συνέβη – Πολύ χαρούμενος που επιστρέφω»",
           "link": "https://trifilara.gr/tsimikas-den-echo-logia-gia-afto-pou-synevi-poly-charoumenos-pou-epistrefo/?utm_source=rss&utm_medium=rss&utm_campaign=tsimikas-den-echo-logia-gia-afto-pou-synevi-poly-charoumenos-pou-epistrefo",
@@ -1191,14 +1199,6 @@
           "description": "Οι «πράσινοι» επιταχύνουν για την απόκτηση καθαρού αμυντικού χαφ, με τις επαφές να βρίσκονται σε προχωρημένο στάδιο.\nThe post Τα «θέλω» του Μπενίτεθ για το αμυντικό χαφ που ψάχνει ο Παναθηναϊκός! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Παναθηναϊκός: Τα χαρακτηριστικά που ζητά ο Μπενίτεθ για τη μεταγραφή αμυντικού χαφ!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ta-xarakthristika-pou-zhta-o-benites-gia-th-metagrafh-tou-amuntikou-xaf/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ta-xarakthristika-pou-zhta-o-benites-gia-th-metagrafh-tou-amuntikou-xaf",
-          "pubDate": "Wed, 28 Jan 2026 13:17:02 +0000",
-          "description": "Οι «πράσινοι» επιταχύνουν για την απόκτηση καθαρού αμυντικού χαφ, με τις επαφές να βρίσκονται σε προχωρημένο στάδιο. Ο τραυματισμός του Τσιριβέγια, που τον θέτει εκτός δράσης έως τα μέσα Μαρτίου, άλλαξε τα δεδομένα και ανάγκασε το «τριφύλλι» να ανεβάσει ρυθμούς, αναζητώντας ένα «6άρι» με ένταση, αθλητικά χαρακτηριστικά και την ετοιμότητα να μπει άμεσα στο βασικό […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/kotsolis-benitez.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Ιταλικό σενάριο για ενδιαφέρον του Παναθηναϊκού για τον Γκάλο!",
