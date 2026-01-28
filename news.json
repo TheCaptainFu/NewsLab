@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T01:30:32.771Z",
+  "lastUpdated": "2026-01-28T01:35:27.901Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο πρώην αντιπρόεδρος του Παναμά, Χοσέ Γκαμπριέλ Καρίσο, συνελήφθη με κατηγορίες για παράνομο πλουτισμό",
+          "link": "https://www.in.gr/2026/01/28/world/o-proin-antiproedros-tou-panama-xose-gkampriel-kariso-synelifthi-katigories-gia-paranomo-ploutismo/",
+          "pubDate": "Wed, 28 Jan 2026 03:33:41 +0300",
+          "description": "Πριν ορκιστεί και αναλάβει τα βουλευτικά του καθήκοντα, ο Χοσέ Γκαμπριέλ Καρίσο συνελήφθη όπως επέστρεφε από τη Γουατεμάλα στον Παναμά, πριν αποκτήσει ασυλία",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Jose-Gabriel-Carrizo-768x476.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Ποια είναι η Tether και γιατί συσσωρεύει τόνους χρυσού που ανταγωνίζονται κυβερνήσεις;",
           "link": "https://www.in.gr/2026/01/28/economy/diethnis-oikonomia/poia-einai-tether-kai-giati-syssoreyei-tonous-xrysou-pou-antagonizontai-kyverniseis/",
@@ -239,14 +247,6 @@
           "description": "Τα Do's και τα Don'ts στα ζώδια σήμερα από την Αγγελική Μανουσάκη - Άκρως Ζωδιακό και όποιος αντέξει.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trevor-mckinnon-FxNbwRDvWnY-unsplash-1-768x480.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Άγιος έρωτας – επόμενα επεισόδια: Η Χλόη συγκρούεται με τον Αργύρη και τον Πέτρο",
-          "link": "https://www.newsit.gr/media/agios-erotas-epomena-epeisodia-i-xloi-sygkrouetai-me-ton-argyri-kai-ton-petro/4583795/",
-          "pubDate": "Tue, 27 Jan 2026 21:01:00 +0000",
-          "description": "Η επιτυχημένη δραματική σειρά εποχής «Άγιος έρωτας» επιστρέφει στον ALPHA, με εξελίξεις που κόβουν την ανάσα. Τι θα δούμε στα επεισόδια που θα προβληθούν από ...  \nTo άρθρο Άγιος έρωτας – επόμενα επεισόδια: Η Χλόη συγκρούεται με τον Αργύρη και τον Πέτρο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/agios-erotas-1200x754.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Canadian PM Carney denies walking back Davos speech in phone call with Trump",
+          "link": "https://www.bbc.com/news/articles/c9qp3x5x2jpo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 01:31:58 GMT",
+          "description": "The Canadian prime minister said \"there's almost nothing normal in the US\" when asked about trade talks with Washington.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c777/live/1a55ffc0-fbc8-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
           "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 00:46:53 GMT",
@@ -699,14 +707,6 @@
           "description": "Μια διεθνής μελέτη τεκμηριώνει την παραγωγή και τη συνεχή χρήση εργαλείων με πέτρινη λαβή στην κεντρική Κίνα μεταξύ 160.000 και 72.000 ετών πριν, μια τεχνολογική καινοτομία νωρίτερα από ό,τι είχε θεωρηθεί στην Ανατολική Ασία.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Canadian PM Carney denies walking back Davos speech in phone call with Trump",
-          "link": "https://www.bbc.com/news/articles/c9qp3x5x2jpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 17:09:26 GMT",
-          "description": "The Canadian prime minister confirmed that he and the US president spoke by phone after Trump threatened 100% tariffs on Canada.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c777/live/1a55ffc0-fbc8-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
         },
         {
           "title": "Nipah virus outbreak in India triggers Asia airport screenings",
