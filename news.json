@@ -1,28 +1,52 @@
 {
-  "lastUpdated": "2026-01-28T11:05:31.923Z",
+  "lastUpdated": "2026-01-28T11:10:31.457Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
         {
-          "title": "Μπορεί να φταίει το lane asist για το δυστύχημα με το βανάκι των οπαδών του ΠΑΟΚ στη Ρουμανία",
-          "link": "https://www.protothema.gr/greece/article/1764740/borei-na-ftaiei-to-lane-asist-gia-to-dustuhima-me-to-vanaki-ton-opadon-tou-paok-sti-roumania/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 13:03:30 +0200",
-          "description": "Το lane assist δεν λειτουργεί ποτέ ως σύστημα που μπλοκάρει ή απαγορεύει την κίνηση του τιμονιού, η παρέμβασή του είναι ήπια και περιορίζεται σε μια ελαφριά υποβοήθηση",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/grafima-mak.jpg",
-          "source": "Πρώτο Θέμα"
+          "title": "Αύξηση 2,8% στην κατανάλωση καυσίμων το 2024 – Αττική και Κεντρική Μακεδονία στις πρώτες θέσεις",
+          "link": "https://www.newsit.gr/oikonomia/finance/ayksisi-2-8-stin-katanalosi-kaysimon-to-2024-attiki-kai-kentriki-makedonia-stis-protes-theseis/4585644/",
+          "pubDate": "Wed, 28 Jan 2026 11:09:33 +0000",
+          "description": "Αύξηση 2,8% στη συνολική κατανάλωση καυσίμων καταγράφηκε το 2024 σε σχέση με το 2023, με τις αντίστοιχες ποσότητες να φτάνουν τους 7,03 εκατ. τόνους για ...  \nTo άρθρο Αύξηση 2,8% στην κατανάλωση καυσίμων το 2024 – Αττική και Κεντρική Μακεδονία στις πρώτες θέσεις δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/venzini-eurokinissi-1-1200x675-2.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΟΚ: Συγκίνηση στην Τούμπα με οπαδούς και οικογένειες στη θύρα 4",
+          "link": "https://www.newsit.gr/athlitika/paok-sygkinisi-stin-toumpa-me-opadous-kai-oikogeneies-sti-thyra-4/4585628/",
+          "pubDate": "Wed, 28 Jan 2026 11:06:56 +0000",
+          "description": "Ο ΠΑΟΚ έχει βυθιστεί στο πένθος από το θάνατο 7 οπαδών του στη Ρουμανία και η Τούμπα άνοιξε για να υποδεχθεί τους φίλους της ομάδας ...  \nTo άρθρο ΠΑΟΚ: Συγκίνηση στην Τούμπα με οπαδούς και οικογένειες στη θύρα 4 δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tumba-3-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία με τους οπαδούς του ΠΑΟΚ: «Προσπαθούμε να μαζέψουμε τα κομμάτια μας» λέει η αδελφή θύματος του τροχαίου στη Ρουμανία",
+          "link": "https://www.newsit.gr/ellada/tragodia-me-tous-opadous-tou-paok-prospathoume-na-mazepsoume-ta-kommatia-mas-leei-i-adelfi-thymatos-tou-troxaiou-sti-roumania/4585574/",
+          "pubDate": "Wed, 28 Jan 2026 11:04:39 +0000",
+          "description": "«Προσπαθούμε να μαζέψουμε τα κομμάτια μας» λέει μιλώντας στο newsit.gr η αδελφή του δεύτερου φιλάθλου του ΠΑΟΚ που επιβιβάστηκε από την Θεσσαλονίκη στο βανάκι και ...  \nTo άρθρο Τραγωδία με τους οπαδούς του ΠΑΟΚ: «Προσπαθούμε να μαζέψουμε τα κομμάτια μας» λέει η αδελφή θύματος του τροχαίου στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-roumania1.jpg",
+          "source": "NewsIT"
         },
         {
           "title": "Τραγωδία με οπαδούς του ΠΑΟΚ στη Ρουμανία: Ταυτοποιήθηκαν οι σοροί των 7 Ελλήνων που σκοτώθηκαν στο τροχαίο",
           "link": "https://www.newsit.gr/ellada/tragodia-me-opadous-tou-paok-sti-roumania-taytopoiithikan-oi-soroi-ton-7-ellinon-pou-skotothikan-sto-troxaio/4585645/",
           "pubDate": "Wed, 28 Jan 2026 11:03:16 +0000",
-          "description": "Περισσότερα σε λίγο…\nTo άρθρο Τραγωδία με οπαδούς του ΠΑΟΚ στη Ρουμανία: Ταυτοποιήθηκαν οι σοροί των 7 Ελλήνων που σκοτώθηκαν στο τροχαίο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektakto-4-1200x675.jpeg",
+          "description": "Από έγγραφα που βρέθηκαν ανάμεσα στα συντρίμμια του μοιραίου βαν, ταυτοποιήθηκαν σήμερα (28.01.2025) οι σοροί των 7 Ελλήνων και οπαδών του ΠΑΟΚ που σκοτώθηκαν στον ...  \nTo άρθρο Τραγωδία με οπαδούς του ΠΑΟΚ στη Ρουμανία: Ταυτοποιήθηκαν οι σοροί των 7 Ελλήνων που σκοτώθηκαν στο τροχαίο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-12-1200x900.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Μπορεί να φταίει το lane asist για το δυστύχημα με το βανάκι των οπαδών του ΠΑΟΚ στη Ρουμανία",
+          "link": "https://www.protothema.gr/greece/article/1764740/borei-na-ftaiei-to-lane-asist-gia-to-dustuhima-me-to-vanaki-ton-opadon-tou-paok-sti-roumania/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 13:03:00 +0200",
+          "description": "Το lane assist δεν λειτουργεί ποτέ ως σύστημα που μπλοκάρει ή απαγορεύει την κίνηση του τιμονιού, η παρέμβασή του είναι ήπια και περιορίζεται σε μια ελαφριά υποβοήθηση",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/grafima-mak.jpg",
+          "source": "Πρώτο Θέμα"
         },
         {
           "title": "Νίκος Βλαχάκος για Ίμια: «Ένα τέτοιο ελικόπτερο δεν πέφτει από τον κακό καιρό, υπάρχουν ντοκουμέντα»",
@@ -201,6 +225,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Λάρισα: «500 ευρώ ή σε αφήνουν ανάπηρο» – Χτύπησαν 15χρονο που δεν ενέδωσε στην απειλή",
+          "link": "https://www.in.gr/2026/01/28/greece/larisa-500-eyro-se-afinoun-anapiro-xtypisan-15xrono-pou-den-enedose-stin-apeili/",
+          "pubDate": "Wed, 28 Jan 2026 13:07:34 +0300",
+          "description": "Ο ανήλικος από τη Λάρισα δέχτηκε ένα σοκαριστικό τηλεφώνημα, όπου άγνωστοι τον απειλούσαν ότι θα στείλουν άτομα να του κάνουν κακό - Αποφάσισε να μην ενδώσει και τότε του επιτέθηκαν τραυματίζοντάς τον",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_64076404-1200x800-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Η πρώτη κρατική έκθεση για τη δολοφονία του Άλεξ Πρέτι στη Μινεάπολη από την ICE: Φώναξαν «έχει όπλο» και τον πυροβόλησαν δύο πράκτορες",
           "link": "https://www.newsit.gr/kosmos/i-proti-kratiki-ekthesi-gia-ti-dolofonia-tou-aleks-preti-sti-mineapoli-apo-tin-ice-fonaksan-exei-oplo-kai-ton-pyrovolisan-dyo-praktores/4585568/",
           "pubDate": "Wed, 28 Jan 2026 10:07:18 +0000",
@@ -209,43 +241,11 @@
           "source": "NewsIT"
         },
         {
-          "title": "Έκτακτο δελτίο επιδείνωσης καιρού - Καταιγίδες και στην Αττική αύριο ",
-          "link": "https://www.protothema.gr/greece/article/1764707/ektakto-deltio-epideinosis-kairou-me-ishures-vrohes-kai-kataigides-gia-aurio-sti-dutiki-ellada-kai-se-nisia/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 12:05:00 +0200",
-          "description": "Η ΕΜΥ εξέδωσε έκτακτο δελτίο επιδείνωσης του καιρού - Ισχυρές βροχές, καταιγίδες και πιθανώς κατά τόπους χαλαζοπτώσεις προβλέπονται από αύριο Πέμπτη (29-01-2026) κυρίως στη δυτική Ελλάδα, σε νησιά του Ιονίου, νησιά του βορείου και ανατολικού Αιγαίου",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-23/vroxes-kakokairia-mak1.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Βάρκιζα: Κατολίσθηση στα Κανάρια μετά τις βροχές, αποκλεισμένη η περιοχή",
-          "link": "https://www.newsit.gr/ellada/varkiza-katolisthisi-sta-kanaria-meta-tis-vroxes-apokleismeni-i-perioxi/4585563/",
-          "pubDate": "Wed, 28 Jan 2026 10:03:58 +0000",
-          "description": "Αποκλεισμένη είναι η περιοχή Κανάρια στη Βάρκιζα μετά την μετά από κατολίσθηση, η οποία προκλήθηκε από πρόσφατες βροχοπτώσεις. Μετά από την κατολίσθηση σε παραλία στη ...  \nTo άρθρο Βάρκιζα: Κατολίσθηση στα Κανάρια μετά τις βροχές, αποκλεισμένη η περιοχή δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/katolisthisi-kanaria-varkiza-1200x768.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Το τρέιλερ για τη 2η σεζόν της σειράς «Daredevil: Born Again» με την επιστροφή της Jessica Jones",
-          "link": "https://www.newsit.gr/media/to-treiler-gia-ti-2i-sezon-tis-seiras-daredevil-born-again-me-tin-epistrofi-tis-jessica-jones/4585549/",
-          "pubDate": "Wed, 28 Jan 2026 10:03:51 +0000",
-          "description": "Η Marvel Television έδωσε στη δημοσιότητα το πρώτο τρέιλερ για τη δεύτερη σεζόν της σειράς «Daredevil: Born Again». Υπό τους ήχους του τραγουδιού «Lithonia» του ...  \nTo άρθρο Το τρέιλερ για τη 2η σεζόν της σειράς «Daredevil: Born Again» με την επιστροφή της Jessica Jones δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/seira-arxiki-1-1200x816.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Καιρός: Καταιγίδες και χαλάζι στα δυτικά και ανατολικά αύριο – Το μεσημέρι τα φαινόμενα στην Αττική",
-          "link": "https://www.newsit.gr/ellada/kairos-kataigides-kai-xalazi-sta-dytika-kai-anatolika-ayrio-to-mesimeri-ta-fainomena-stin-attiki/4585569/",
-          "pubDate": "Wed, 28 Jan 2026 10:02:43 +0000",
-          "description": "Νέα επιδείνωση του καιρού αναμένεται την Πέμπτη (29.01.2026) σε όλη τη χώρα, με βροχές, καταιγίδες και χαλάζι να χτυπούν κυρίως τη δυτική Ελλάδα αλλά και ...  \nTo άρθρο Καιρός: Καταιγίδες και χαλάζι στα δυτικά και ανατολικά αύριο – Το μεσημέρι τα φαινόμενα στην Αττική δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vroxi-kataigida-eurok-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κώστας Καραφώτης: Γέννησε η σύζυγός του Κάτια Μάνου – Tο φύλο του μωρού",
-          "link": "https://www.in.gr/2026/01/28/go-fun/kostas-karafotis-gennise-syzygos-tou-katia-manou-fylo-tou-morou/",
-          "pubDate": "Wed, 28 Jan 2026 13:00:27 +0300",
-          "description": "Ο Κώστας Καραφώτης απέκτησε το πρώτο παιδί του.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/8359_KOSTAS_KARAFOTIS_KATIA_MANOY_652025-768x538.jpg",
+          "title": "Ηράκλειο: Παιδί παρασύρθηκε από αυτοκίνητο έξω από σχολείο – Φέρει ελαφρά τραύματα",
+          "link": "https://www.in.gr/2026/01/28/greece/irakleio-paidi-parasyrthike-apo-aytokinito-ekso-apo-sxoleio-ferei-elafra-traymata/",
+          "pubDate": "Wed, 28 Jan 2026 13:06:35 +0300",
+          "description": "Αναστάτωση προκλήθηκε έξω από σχολείο στο Ηράκλειο της Κρήτης - Πώς έγινε το ατύχημα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/hrakleio.jpg",
           "source": "In.gr"
         }
       ]
@@ -279,14 +279,6 @@
           "source": "Ναυτεμπορική"
         },
         {
-          "title": "Αλέξης Τσίπρας: «Στεκόμαστε πλάι στα σπίτια που ορφάνεψαν, πλάι στον ΠΑΟΚ»",
-          "link": "https://www.tanea.gr/2026/01/28/politics/aleksis-tsipras-stekomaste-plai-sta-spitia-poy-orfanepsan-plai-ston-paok/",
-          "pubDate": "Wed, 28 Jan 2026 08:34:31 +0000",
-          "description": "Ο Αλέξης Τσίπρας εξέφρασε τα συλλυπητήριά του για την απώλεια των επτά οπαδών του ΠΑΟΚ, τονίζοντας πως όταν χάνονται νέοι άνθρωποι σε μια στιγμή χαράς",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/tsipras-5-1024x683.jpg",
-          "source": "Τα Νέα"
-        },
-        {
           "title": "Τσίπρας για την τραγωδία με οπαδούς του ΠΑΟΚ: «Οι λέξεις χάνουν τη σημασία τους»",
           "link": "https://www.tovima.gr/2026/01/28/politics/tsipras-gia-tin-tragodia-me-opadous-tou-paok-oi-lekseis-xanoun-ti-simasia-tous/",
           "pubDate": "Wed, 28 Jan 2026 10:38:13 +0300",
@@ -309,22 +301,6 @@
           "description": "Ο πρώην υπουργός έκανε λόγο για απόπειρα διαστρέβλωσης από τη Νέα Δημοκρατία της κατάθεσής του στην Εξεταστική Επιτροπή για τον ΟΠΕΚΕΠΕ",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/TSE_1_GIAN-4-1024x684.jpg",
           "source": "Το Βήμα"
-        },
-        {
-          "title": "Τετ α τετ Γεραπετρίτη – Γκουτέρες στη Νέα Υόρκη",
-          "link": "https://www.tanea.gr/2026/01/28/politics/tet-a-tet-gerapetriti-gkouteres-sti-nea-yorki/",
-          "pubDate": "Wed, 28 Jan 2026 05:38:21 +0000",
-          "description": "Η ατζέντα της σημερινής συνάντησης του Έλληνα ΥΠΕΞ με τον ΓΓ. του ΟΗΕ",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/gerapetritis-2-1-1024x682.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "«Ψάχνονται» στο Μαξίμου για λύσεις καθημερινότητας και στη ΝΔ για τα προσυνέδρια – Συσκέψεις και αναθεωρήσεις",
-          "link": "https://www.tanea.gr/2026/01/28/politics/psaxnontai-sto-maksimou-gia-lyseis-kathimerinotitas-kai-sti-nd-gia-ta-prosynedria-syskepseis-kai-anatheoriseis/",
-          "pubDate": "Wed, 28 Jan 2026 05:27:12 +0000",
-          "description": "Σύσκεψη Μητσοτάκη και υπουργών σήμερα για το κυκλοφοριακό της Αττικής. Ζητούμενα ο κυβερνητικός και ο κομματικός συντονισμός.",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/megaro-maximou-8-e1768154172300.jpg",
-          "source": "Τα Νέα"
         },
         {
           "title": "ΚΚΕ: Ξεκινάει σήμερα το 22ο Συνέδριο – Η ιστορία των προηγούμενων συνεδρίων",
@@ -359,22 +335,6 @@
           "source": "Ναυτεμπορική"
         },
         {
-          "title": "Θάνος Πλεύρης: Κανένας παράνομος «μετανάστης» δεν θα γίνεται νόμιμος – Τα πάνω κάτω με το νέο νομοσχέδιο",
-          "link": "https://www.tanea.gr/2026/01/27/politics/thanos-pleyris-kanenas-paranomos-metanastis-den-tha-ginetai-nomimos-ta-pano-kato-me-to-neo-nomosxedio/",
-          "pubDate": "Tue, 27 Jan 2026 17:45:31 +0000",
-          "description": "Σε κλίμα πολιτικής αντιπαράθεσης διεξάγεται στη Βουλή η συζήτηση για το νομοσχέδιο του υπουργείου Μετανάστευσης και Ασύλου, με το οποίο η κυβέρνηση επιχειρεί την αναμόρφωση του Κώδικα Μετανάστευσης. Το νομοσχέδιο αντιμετωπίζει ευρύ αλλά ετερόκλητο μέτωπο ενστάσεων από την αντιπολίτευση, τόσο στα δεξιά όσο και στα αριστερά της Νέας Δημοκρατίας. Παρουσιάζοντας το σκεπτικό των νέων διατάξεων, […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/pleuris-1024x682.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Δύο δεσπότες κρίνουν τη μάχη της Κρήτης",
-          "link": "https://www.tanea.gr/print/2026/01/27/politics/dyo-despotes-krinoun-ti-maxi-tis-kritis/",
-          "pubDate": "Tue, 27 Jan 2026 15:50:00 +0000",
-          "description": "Αυστηρές προειδοποιήσεις από Φανάρι και κυβέρνηση - Το παρασκήνιο της αυριανής διπλής εκλογής",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/agios-minas-1024x683.jpg",
-          "source": "Τα Νέα"
-        },
-        {
           "title": "Στον Πρόεδρο της Βουλής για αντικοινοβουλευτική συμπεριφορά παραπέμπεται η Ζωή Κωνσταντοπούλου",
           "link": "https://www.naftemporiki.gr/politics/2064629/ston-proedro-tis-voylis-gia-antikoinovoyleytiki-symperifora-parapempetai-i-zoi-konstantopoyloy/?utm_source=rss&utm_medium=rss&utm_campaign=ston-proedro-tis-voylis-gia-antikoinovoyleytiki-symperifora-parapempetai-i-zoi-konstantopoyloy",
           "pubDate": "Tue, 27 Jan 2026 15:24:08 +0000",
@@ -389,14 +349,6 @@
           "description": "Με βαθιά οδύνη πληροφορηθήκαμε τον τραγικό θάνατο επτά φιλάθλων του ΠΑΟΚ και τον τραυματισμό τριών σε τροχαίο δυστύχημα στη Ρουμανία, σημειώνει σε ανακοίνωσή του ο πρόεδρος του ΣΥΡΙΖΑ, Σωκράτης Φάμελλος.…\nΣ. Φάμελλος: Συλλυπητήρια στις οικογένειες των θυμάτων και στη μεγάλη οικογένεια του ΠΑΟΚ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Δυστύχημα Ρουμανία – Μητσοτάκης: «Είμαι βαθιά συγκλονισμένος» για το τροχαίο με τους 7 νεκρούς οπαδούς του ΠΑΟΚ",
-          "link": "https://www.tanea.gr/2026/01/27/politics/dystyxima-roymania-mitsotakis-eimai-vathia-sygklonismenos-gia-to-troxaio-me-toys-7-nekroys/",
-          "pubDate": "Tue, 27 Jan 2026 14:59:07 +0000",
-          "description": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης εξέφρασε τη βαθιά του θλίψη για το δυστύχημα με τους επτά νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/kiriakos-mitsotakis-3-1024x681.jpg",
-          "source": "Τα Νέα"
         },
         {
           "title": "Γεωργιάδης για τροχαίο στη Ρουμανία: «Οι τρεις τραυματίες έχουν συνείδηση»",
@@ -431,22 +383,6 @@
           "source": "Ναυτεμπορική"
         },
         {
-          "title": "Μια απλή δέσμευση",
-          "link": "https://www.tanea.gr/print/2026/01/27/politics/mia-apli-desmeysi/",
-          "pubDate": "Tue, 27 Jan 2026 14:13:00 +0000",
-          "description": "Ακουγα χθες τον εκπρόσωπο Τύπου του ΣΥΡΙΖΑ Κώστα Ζαχαριάδη, σε μια πρωινή εκπομπή. Μίλησε σκληρά για την κυβέρνηση λέγοντας ότι βουλιάζει στην αναξιοπιστία, στη διαφθορά και στα σκάνδαλα κι ως τέτοιο χαρακτήρισε και την τελευταία νομοθετική ρύθμιση για τη συνεπιμέλεια, την οποία χαρακτήρισε «φωτογραφική» – κάτι σαν δώρο της κυβέρνησης στην Ολγα Κεφαλογιάννη που έσπευσε με […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/zaxariadis-1024x683.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Ελληνικό ΥΠΕΞ: Βρισκόμαστε σε συνεχή επαφή με τις ρουμανικές αρχές μετά το τροχαίο με θύματα 7 οπαδούς του ΠΑΟΚ",
-          "link": "https://www.tanea.gr/2026/01/27/politics/elliniko-ypeks-vriskomaste-se-synexi-epafi-me-tis-roymanikes-arxes-meta-to-troxaio-me-thym/",
-          "pubDate": "Tue, 27 Jan 2026 14:07:20 +0000",
-          "description": "Το ελληνικό ΥΠΕΞ βρίσκεται σε στενή συνεργασία με τις ρουμανικές αρχές μετά το τραγικό τροχαίο στη Ρουμανία, όπου έχασαν τη ζωή τους επτά φίλαθλοι",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/YPEX-scaled-e1755013438981-1024x678.jpg",
-          "source": "Τα Νέα"
-        },
-        {
           "title": "Υπ. Αγροτικής Ανάπτυξης κατά Χαριλάου Τρικούπη: «Το ΠΑΣΟΚ επιλέγει να γίνει ουρά του Βελόπουλου και της Λατινοπούλου»",
           "link": "https://www.naftemporiki.gr/politics/2064563/yp-agrotikis-anaptyxis-kata-charilaoy-trikoypi-to-pasok-epilegei-na-ginei-oyra-toy-velopoyloy-kai-tis-latinopoyloy/?utm_source=rss&utm_medium=rss&utm_campaign=yp-agrotikis-anaptyxis-kata-charilaoy-trikoypi-to-pasok-epilegei-na-ginei-oyra-toy-velopoyloy-kai-tis-latinopoyloy",
           "pubDate": "Tue, 27 Jan 2026 14:06:10 +0000",
@@ -479,18 +415,82 @@
           "source": "Το Βήμα"
         },
         {
-          "title": "Ταμείο Καινοτομίας Φαρμάκου: «Πράσινο φως» για ταχύτερη πρόσβαση σε νέα θεραπείες",
-          "link": "https://www.tanea.gr/print/2026/01/27/politics/taxyteri-prosvasi-asthenon-se-nees-therapeies/",
-          "pubDate": "Tue, 27 Jan 2026 13:39:00 +0000",
-          "description": "Το νομοσχέδιο για τη σύσταση του Ταμείου Καινοτομίας Φαρμάκου παρουσίασαν στο Υπουργικό Συμβούλιο ο υπουργός Υγείας Αδωνις Γεωργιάδης και ο υφυπουργός Δημήτρης Βαρτζόπουλος. Σκοπός του Ταμείου Καινοτομίας, ως μια διακριτής κατηγορίας φαρμακευτικής δαπάνης, είναι να αλλάξει την πρόσβαση σε καινοτόμα φάρμακα, μειώνοντας καθυστερήσεις και ενισχύοντας τη φαρμακευτική καινοτομία. Ετσι, σύμφωνα με το υπουργείο Υγείας, θα […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/nosokomeio-1024x683.jpg",
-          "source": "Τα Νέα"
-        },
-        {
           "title": "Πηγές ΝΔ: Ο Γ. Καρασμάνης επιβεβαίωσε τη θέση της ΝΔ για χειρισμούς και παραλείψεις δεκαετιών με αποτέλεσμα τη σημερινή κατάσταση στον ΟΠΕΚΕΠΕ",
           "link": "https://www.naftemporiki.gr/politics/2064550/piges-nd-o-g-karasmanis-epivevaiose-ti-thesi-tis-nd-gia-cheirismoys-kai-paraleipseis-dekaetion-me-apotelesma-ti-simerini-katastasi-ston-opekepe/?utm_source=rss&utm_medium=rss&utm_campaign=piges-nd-o-g-karasmanis-epivevaiose-ti-thesi-tis-nd-gia-cheirismoys-kai-paraleipseis-dekaetion-me-apotelesma-ti-simerini-katastasi-ston-opekepe",
           "pubDate": "Tue, 27 Jan 2026 13:36:56 +0000",
           "description": "«Με τα όσα δήλωσε ο πρώην υπουργός Αγροτικής Ανάπτυξης, Γιώργος Καρασμάνης, επιβεβαίωσε τη θέση της Νέας Δημοκρατίας για χειρισμούς και παραλείψεις δεκαετιών με αποτέλεσμα τη σημερινή κατάσταση στον ΟΠΕΚΕΠΕ», υποστήριξαν…\nΠηγές ΝΔ: Ο Γ. Καρασμάνης επιβεβαίωσε τη θέση της ΝΔ για χειρισμούς και παραλείψεις δεκαετιών με αποτέλεσμα τη σημερινή κατάσταση στον ΟΠΕΚΕΠΕ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Αλ. Χαρίτσης από τα Τρίκαλα: Ευθύνες για το εργατικό δυστύχημα υπάρχουν και στο κράτος",
+          "link": "https://www.naftemporiki.gr/politics/2064538/al-charitsis-apo-ta-trikala-eythynes-gia-to-ergatiko-dystychima-yparchoyn-kai-sto-kratos/?utm_source=rss&utm_medium=rss&utm_campaign=al-charitsis-apo-ta-trikala-eythynes-gia-to-ergatiko-dystychima-yparchoyn-kai-sto-kratos",
+          "pubDate": "Tue, 27 Jan 2026 13:10:17 +0000",
+          "description": "Τα συλλυπητήριά του στις οικογένειες και τους οικείους των πέντε εργατριών, που έχασαν τη ζωή τους στο εργατικό δυστύχημα στα Τρίκαλα, εξέφρασε ο πρόεδρος της Νέας Αριστεράς, Αλέξης Χαρίτσης, σε…\nΑλ. Χαρίτσης από τα Τρίκαλα: Ευθύνες για το εργατικό δυστύχημα υπάρχουν και στο κράτος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Βουλή: Κατά της άρσης ασυλίας του Δ. Κουτσούμπα η Επιτροπή Δεοντολογίας",
+          "link": "https://www.naftemporiki.gr/politics/2064508/voyli-kata-tis-arsis-asylias-toy-d-koytsoympa-i-epitropi-deontologias/?utm_source=rss&utm_medium=rss&utm_campaign=voyli-kata-tis-arsis-asylias-toy-d-koytsoympa-i-epitropi-deontologias",
+          "pubDate": "Tue, 27 Jan 2026 12:32:14 +0000",
+          "description": "Κατά της άρσης ασυλίας του γενικού γραμματέα της Κ.Ε. του ΚΚΕ, Δημήτρη Κουτσούμπα αποφάσισε και θα εισηγηθεί στην Ολομέλεια της Βουλής, η Επιτροπή Δεοντολογίας.\nΒουλή: Κατά της άρσης ασυλίας του Δ. Κουτσούμπα η Επιτροπή Δεοντολογίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Ν. Ανδρουλάκης για Ημέρα Μνήμης Ολοκαυτώματος: Η μνήμη είναι φρουρός για τη θωράκιση της δημοκρατίας",
+          "link": "https://www.naftemporiki.gr/politics/2064492/n-androylakis-gia-imera-mnimis-olokaytomatos-i-mnimi-einai-froyros-gia-ti-thorakisi-tis-dimokratias/?utm_source=rss&utm_medium=rss&utm_campaign=n-androylakis-gia-imera-mnimis-olokaytomatos-i-mnimi-einai-froyros-gia-ti-thorakisi-tis-dimokratias",
+          "pubDate": "Tue, 27 Jan 2026 12:11:46 +0000",
+          "description": "Τη σημασία της μνήμης για τη θωράκιση της δημοκρατίας, υπογραμμίζει ο πρόεδρος του ΠΑΣΟΚ-Κινήματος Αλλαγής σε μήνυμά του για Διεθνή Ημέρα Μνήμης του Ολοκαυτώματος.\nΝ. Ανδρουλάκης για Ημέρα Μνήμης Ολοκαυτώματος: Η μνήμη είναι φρουρός για τη θωράκιση της δημοκρατίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Κ. Τασούλας για Ημέρα Μνήμης θυμάτων του Ολοκαυτώματος: Στοιχειώδες χρέος μας να θυμόμαστε",
+          "link": "https://www.naftemporiki.gr/politics/2064469/k-tasoylas-gia-imera-mnimis-thymaton-toy-olokaytomatos-stoicheiodes-chreos-mas-na-thymomaste/?utm_source=rss&utm_medium=rss&utm_campaign=k-tasoylas-gia-imera-mnimis-thymaton-toy-olokaytomatos-stoicheiodes-chreos-mas-na-thymomaste",
+          "pubDate": "Tue, 27 Jan 2026 11:37:46 +0000",
+          "description": "Την ανάγκη διατήρησης της συλλογικής μνήμης ώστε το «δεν ξεχνώ» να αποτελεί «έναν θώρακα απέναντι στο κακό που πάντα ελλοχεύει» τονίζει ο Πρόεδρος της Δημοκρατίας Κωνσταντίνος Αν. Τασούλας,  με αφορμή…\nΚ. Τασούλας για Ημέρα Μνήμης θυμάτων του Ολοκαυτώματος: Στοιχειώδες χρέος μας να θυμόμαστε - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Νέο επεισόδιο με Κωνσταντοπούλου – Η απειλή για το άρθρο 81, διακόπηκε η συνεδρίαση",
+          "link": "https://www.tovima.gr/2026/01/27/politics/neo-epeisodio-me-konstantopoulou-i-apeili-gia-to-arthro-81-diakopike-i-synedriasi/",
+          "pubDate": "Tue, 27 Jan 2026 14:10:37 +0300",
+          "description": "Ο έντονος διάλογος που που σημειώθηκε στην εξεταστική επιτροπή - Ολιγόλεπτη διακοπή μεταξύ φωνών και αντεγκλήσεων",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/zoi-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Ευλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού",
+          "link": "https://www.naftemporiki.gr/politics/2064454/eylogia-aigoprovaton-krisimo-to-epomeno-trimino-k-mitsotakis-den-syzitame-katholoy-zitimata-emvoliasmoy/?utm_source=rss&utm_medium=rss&utm_campaign=eylogia-aigoprovaton-krisimo-to-epomeno-trimino-k-mitsotakis-den-syzitame-katholoy-zitimata-emvoliasmoy",
+          "pubDate": "Tue, 27 Jan 2026 11:09:02 +0000",
+          "description": "Η κρισιμότητα του επόμενου τριμήνου για την πορεία της ευλογιάς των αιγοπροβάτων και η ανάγκη οριζόντιας και αυστηρής εφαρμογής των μέτρων βιοασφάλειας, ώστε να αξιοποιηθεί η αποκλιμάκωση των κρουσμάτων, τονίστηκε…\nΕυλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Βουλή: «Όχι» στην άρση ασυλίας για Δ. Κουτσούμπα, «ναι» για Δ. Μάντζο",
+          "link": "https://www.tovima.gr/2026/01/27/%ce%b1%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%84%ce%b1/vouli-oxi-stin-arsi-asylias-gia-d-koutsoumpa-nai-gia-d-mantzo/",
+          "pubDate": "Tue, 27 Jan 2026 13:26:10 +0300",
+          "description": "Τι αναφέρει στο υπόμνημά του ο γ.γ. της ΚΕ του ΚΚΕ σε βάρος του οποίου κινήθηκε η σχετική διαδικασία, μετά από μήνυση του Κωνσταντίνου Πλεύρη - Γιατί ζήτησε ο κοινοβουλευτικός εκπρόσωπος του ΠαΣοΚ να αρθεί η δική του ασυλία",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/11/12/vouli-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Κ. Μητσοτάκης για Ημέρα Μνήμης θυμάτων του Ολοκαυτώματος: Η μισαλλοδοξία και ο αντισημιτισμός δεν έχουν θέση στις κοινωνίες μας",
+          "link": "https://www.naftemporiki.gr/politics/2064421/k-mitsotakis-gia-imera-mnimis-thymaton-toy-olokaytomatos-i-misallodoxia-kai-o-antisimitismos-den-echoyn-thesi-stis-koinonies-mas/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-gia-imera-mnimis-thymaton-toy-olokaytomatos-i-misallodoxia-kai-o-antisimitismos-den-echoyn-thesi-stis-koinonies-mas",
+          "pubDate": "Tue, 27 Jan 2026 10:12:37 +0000",
+          "description": "Την ανάγκη της συνεχούς εγρήγορση απέναντι στις δυνάμεις του μίσους και του διχασμού επισημαίνει ο πρωθυπουργός Κυριάκος Μητσοτάκης σε ανάρτησή του για τη σημερινή Ημέρα Μνήμης των θυμάτων του Ολοκαυτώματος.…\nΚ. Μητσοτάκης για Ημέρα Μνήμης θυμάτων του Ολοκαυτώματος: Η μισαλλοδοξία και ο αντισημιτισμός δεν έχουν θέση στις κοινωνίες μας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "ΠΑΣΟΚ: Ασύστολα ψεύδη της κυβέρνησης για την ευλογιά των αιγοπροβάτων",
+          "link": "https://www.naftemporiki.gr/politics/2064428/pasok-asystola-pseydi-tis-kyvernisis-gia-tin-eylogia-ton-aigoprovaton/?utm_source=rss&utm_medium=rss&utm_campaign=pasok-asystola-pseydi-tis-kyvernisis-gia-tin-eylogia-ton-aigoprovaton",
+          "pubDate": "Tue, 27 Jan 2026 10:09:08 +0000",
+          "description": "Για καθυστέρηση στη διαχείριση της ευλογιάς των αιγοπροβάτων κατηγορεί την κυβέρνηση το ΠΑΣΟΚ–Κίνημα Αλλαγής, με ανακοίνωσή του.\nΠΑΣΟΚ: Ασύστολα ψεύδη της κυβέρνησης για την ευλογιά των αιγοπροβάτων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
@@ -549,10 +549,10 @@
           "source": "Euronews"
         },
         {
-          "title": "Up Helly Aa: Λαμπαδηφόροι στο φεστιβάλ των Βίκινγκ στη Σκωτία",
+          "title": "Up Helly Aa: Εκατοντάδες δαδοφόροι συγκεντρώνονται σε σκωτσέζικο νησί για βικινγκικό φεστιβάλ φωτιάς",
           "link": "http://gr.euronews.com/video/2026/01/28/up-helly-aa-hundreds-of-torchbearers-gather-on-a-scottish-island-for-the-viking-fire-festi",
           "pubDate": "Wed, 28 Jan 2026 11:05:02 +0100",
-          "description": "Το φεστιβάλ Up Helly Aa, το μεγαλύτερο του είδους του στην Ευρώπη, πραγματοποιείται κάθε χρόνο την τελευταία Τρίτη του Ιανουαρίου στις Νήσους Σέτλαντ, προσελκύοντας εκατοντάδες επισκέπτες",
+          "description": "Το φεστιβάλ Up Helly Aa, το μεγαλύτερο φεστιβάλ της φωτιάς στην Ευρώπη, πραγματοποιείται την τελευταία Τρίτη του Ιανουαρίου στις Νήσους Σέτλαντ.",
           "thumbnail": null,
           "source": "Euronews"
         },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Επιμνημόσυνη δέηση στην Τούμπα για τα «αετόπουλα»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510878/paok-dystyhima-sti-roymania-epimnimosyni-deisi-stin-toympa-gia-ta",
+          "pubDate": "Wed, 28 Jan 2026 13:07:44 +0200",
+          "description": "Το μεσημέρι της Τετάρτης (28/1) ο Μητροπολίτης Θεσσαλονίκης, κ. Φιλόθεος, θα τελέσει επιμνημόσυνη δέηση στην Τούμπα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_5_0.jpg?itok=8GRR5YY3",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Συγκίνηση στην Τούμπα με οπαδούς και οικογένειες στη θύρα 4",
+          "link": "https://www.newsit.gr/athlitika/paok-sygkinisi-stin-toumpa-me-opadous-kai-oikogeneies-sti-thyra-4/4585628/",
+          "pubDate": "Wed, 28 Jan 2026 11:06:56 +0000",
+          "description": "Ο ΠΑΟΚ έχει βυθιστεί στο πένθος από το θάνατο 7 οπαδών του στη Ρουμανία και η Τούμπα άνοιξε για να υποδεχθεί τους φίλους της ομάδας ...  \nTo άρθρο ΠΑΟΚ: Συγκίνηση στην Τούμπα με οπαδούς και οικογένειες στη θύρα 4 δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tumba-3-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Galacticos by Interwetten: Θρήνος σε όλη την Ελλάδα για το χαμό των 7 παιδιών του ΠΑΟΚ",
           "link": "https://www.gazzetta.gr/football/superleague/2510877/galacticos-interwetten-thrinos-se-oli-tin-ellada-gia-hamo-ton-7",
@@ -969,22 +985,6 @@
           "description": "Οι παίκτες του ΠΑΟΚ και το τεχνικό τιμ κράτησαν ενός λεπτού σιγή πριν την προπόνηση στη μνήμη των επτά αδικοχαμένων οπαδών της ομάδας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6827413.jpg?itok=_r7ey7LK",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Champions League: Ώρα… πρόκρισης για τον Ολυμπιακό στο Άμστερνταμ",
-          "link": "https://www.gazzetta.gr/2510850/champions-league-ora-prokrisis-gia-ton-olympiako-sto-amsterntam",
-          "pubDate": "Wed, 28 Jan 2026 11:39:58 +0200",
-          "description": "Ανάλυση και προγνωστικά για τον αγώνα Άγιαξ - Ολυμπιακός στη League Phase του Champions League.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiacos_intime_1_0.jpg?itok=aQ2cgOW8",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ρολόι της Αποκάλυψης 2026: Πιο κοντά από ποτέ στα μεσάνυχτα",
-          "link": "https://www.gazzetta.gr/plus/2510848/roloi-tis-apokalypsis-2026-pio-konta-apo-pote-sta-mesanyhta",
-          "pubDate": "Wed, 28 Jan 2026 11:34:00 +0200",
-          "description": "Το πιο κοντινό σημείο στην καταστροφή της ανθρωπότητας.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/b7748834-ap26026683768387.jpg?itok=Ql7Uqize",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -993,10 +993,10 @@
       "color": "lime",
       "articles": [
         {
-          "title": "Με … Ντιμπάλα στην αποστολή αλλά κι πολλά προβλήματα η Ρόμα!",
+          "title": "Με … Ντιμπάλα στην αποστολή αλλά και πολλά προβλήματα η Ρόμα!",
           "link": "https://trifilara.gr/me-ntibala-stin-apostoli-alla-ki-polla-provlimata-i-roma/?utm_source=rss&utm_medium=rss&utm_campaign=me-ntibala-stin-apostoli-alla-ki-polla-provlimata-i-roma",
           "pubDate": "Wed, 28 Jan 2026 11:02:41 +0000",
-          "description": "Λειψή αποστολή για τους «τζιαλορόσι» ενόψει Παναθηναϊκού, με απουσίες αλλά και την επιστροφή του Ντιμπάλα.\nThe post Με … Ντιμπάλα στην αποστολή αλλά κι πολλά προβλήματα η Ρόμα! appeared first on Trifilara.gr.",
+          "description": "Λειψή αποστολή για τους «τζιαλορόσι» ενόψει Παναθηναϊκού, με απουσίες αλλά και την επιστροφή του Ντιμπάλα.\nThe post Με … Ντιμπάλα στην αποστολή αλλά και πολλά προβλήματα η Ρόμα! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
         },
