@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T03:40:28.815Z",
+  "lastUpdated": "2026-01-28T03:45:25.768Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Neil Young offers Greenlanders free access to his archives",
+          "link": "https://www.bbc.com/news/articles/crmlpl0w2z2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 03:34:43 GMT",
+          "description": "Young says he hopes the offer will \"ease some of the unwarranted stress and threats\" Greenlanders feel over Trump's threats to the territory.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c5/live/efd0e750-fbf5-11f0-a47f-d352a7d9988a.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Minnesota congresswoman Ilhan Omar attacked with 'unknown liquid' during town hall",
+          "link": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 03:25:28 GMT",
+          "description": "Omar was uninjured and continued to speak at the event following the incident.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7026/live/fef50610-fbf7-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Mexico president asks South Korea for more BTS concerts",
           "link": "https://www.bbc.com/news/articles/cz7y2gy4p24o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 03:07:18 GMT",
@@ -723,22 +739,6 @@
           "description": "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5753/live/bfdc78e0-fba8-11f0-b852-153f64f31c74.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Ισπανία: Η κυβέρνηση ανακοίνωσε βοήθεια για τα θύματα των σιδηροδρομικών δυστυχημάτων",
-          "link": "http://gr.euronews.com/2026/01/27/ispania-h-kybernhsh-anakoinwse-boh8eia-gia-ta-8ymata-twn-sidhrodromikwn-dystyxhmatwn",
-          "pubDate": "Tue, 27 Jan 2026 18:21:26 +0100",
-          "description": "Το Υπουργικό Συμβούλιο ενέκρινε μια σειρά επειγόντων μέτρων για τη στήριξη των θυμάτων των σιδηροδρομικών δυστυχημάτων Adamuz και Gelida. Ο υπουργός Μεταφορών διαβεβαίωσε ότι η συνείδησή του είναι \"καθαρή\"- το Εθνικό Ανώτατο Δικαστήριο κίνησε προκαταρκτική διαδικασία εναντίον του.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Οι άνθρωποι στην κεντρική Κίνα κατασκεύαζαν εργαλεία με λαβές πριν από 70.000 χρόνια",
-          "link": "http://gr.euronews.com/culture/2026/01/27/oi-an8rwpoi-sthn-kentrikh-kina-kataskeyazan-ergaleia-me-labes-prin-apo-70000-xronia",
-          "pubDate": "Tue, 27 Jan 2026 18:12:08 +0100",
-          "description": "Μια διεθνής μελέτη τεκμηριώνει την παραγωγή και τη συνεχή χρήση εργαλείων με πέτρινη λαβή στην κεντρική Κίνα μεταξύ 160.000 και 72.000 ετών πριν, μια τεχνολογική καινοτομία νωρίτερα από ό,τι είχε θεωρηθεί στην Ανατολική Ασία.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
