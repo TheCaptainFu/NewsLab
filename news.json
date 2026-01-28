@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T05:55:28.340Z",
+  "lastUpdated": "2026-01-28T06:00:40.254Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Οι ακριβότερες και οι φθηνότερες χώρες της Ευρώπης για ξενοδοχεία και εστιατόρια",
+          "link": "http://gr.euronews.com/business/2026/01/28/europes-most-expensive-and-cheapest-countries-for-hotels-and-restaurants",
+          "pubDate": "Wed, 28 Jan 2026 07:00:08 +0100",
+          "description": "Από τα πλατό τυριών της Γαλλίας έως τα ζυμαρικά της Ιταλίας, η Ευρώπη προσφέρει στους τουρίστες γεύσεις παγκόσμιας φήμης, αλλά οι τιμές σε ξενοδοχεία και εστιατόρια ποικίλλουν: πού θα πιάσουν τόπο τα χρήματά σας;",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Βολοντίμιρ Ζελένσκι: Το 2027 χρονιά - ορόσημο για την ένταξη της Ουκρανίας στην ΕΕ ",
           "link": "http://gr.euronews.com/my-europe/2026/01/28/zelenski-2027-xronia-oroshmo-gia-thn-entaxh-oykranias-ee",
           "pubDate": "Wed, 28 Jan 2026 06:42:45 +0100",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/2026/01/27/analysh-oi-diamartyries-toy-iran-kai-h-pagkosmia-ey8ynh",
           "pubDate": "Tue, 27 Jan 2026 19:11:43 +0100",
           "description": "Οι αναλυτές συμφωνούν ότι το καθεστώς του Ιράν αποφάσισε μαζικές δολοφονίες για να επιβιώσει των διαδηλώσεων που προκλήθηκαν από την οικονομική κατάρρευση, με σαφείς εντολές για θανατηφόρα βία εναντίον άοπλων διαδηλωτών.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Γαλλίδα βουλευτής ζητά «να λάμψει η αλήθεια» στη δίκη πρώην γερουσιαστή",
-          "link": "http://gr.euronews.com/2026/01/27/gallida-boyleyths-zhta-na-lampsei-h-alh8eia-sth-dikh-prwhn-geroysiasth",
-          "pubDate": "Tue, 27 Jan 2026 18:35:13 +0100",
-          "description": "Καταγγελία για χορήγηση ναρκωτικών με σκοπό τη σεξουαλική επίθεση – «Φοβήθηκα ότι θα με βιάσει»",
           "thumbnail": null,
           "source": "Euronews"
         }
