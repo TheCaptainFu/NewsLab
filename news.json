@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T18:30:32.561Z",
+  "lastUpdated": "2026-01-28T18:35:28.957Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Αγωνία για νεογέννητο 5 ημερών, επείγουσα αεροδιακομιδή από τη Ρόδο στο Ηράκλειο",
+          "link": "https://www.protothema.gr/greece/article/1765038/agonia-gia-neogennito-5-imeron-epeigousa-aerodiakomidi-apo-ti-rodo-sto-irakleio/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 20:32:05 +0200",
+          "description": "Το μικρό αγγελούδι ταξίδεψε από τη Ρόδο με το αεροσκάφος αεροδιακομιδών του ΕΚΑΒ και μεταφέρθηκε με ασφάλεια στη Μονάδα Εντατικής Θεραπείας Νεογνών",
+          "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-28/paidi-diakomidi.png",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Σοφία Φυρού: Τελείωσα και με τα χειρουργεία με το στήθος, το τελευταίο ήταν πριν από από 13 μέρες",
+          "link": "https://www.newsit.gr/lifestyle/sofia-fyrou-teleiosa-kai-me-ta-xeirourgeia-me-to-stithos-to-teleytaio-itan-prin-apo-apo-13-meres/4586122/",
+          "pubDate": "Wed, 28 Jan 2026 18:29:38 +0000",
+          "description": "Μετά από έναν χρόνο, η Σοφία Φυρού χαμογελάει και πάλι με ανακούφιση, καθώς, όπως αποκάλυψε, ολοκλήρωσε όλα τα απαραίτητα χειρουργεία που έπρεπε να κάνει στο ...  \nTo άρθρο Σοφία Φυρού: Τελείωσα και με τα χειρουργεία με το στήθος, το τελευταίο ήταν πριν από από 13 μέρες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sofia-firoy-ndp-1200x690.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Τραγωδία ΠΑΟΚ: Τα πανό που ανέβασαν οι φίλοι του Παναθηναϊκού και της ΑΕΚ για τους αδικοχαμένους οπαδούς του Δικεφάλου",
           "link": "https://www.newsit.gr/athlitika/tragodia-paok-ta-pano-pou-anevasan-oi-filoi-tou-panathinaikou-kai-tis-aek-gia-tous-adikoxamenous-opadous-tou-dikefalou/4586126/",
@@ -209,44 +225,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Ειρήνη Κουμαριανού: Τι θυμάται η εγγονή της, 13 χρόνια μετά από το θάνατο της ηθοποιού",
+          "link": "https://www.in.gr/2026/01/28/go-fun/fizz/eirini-koumarianou-ti-thymatai-eggoni-tis-13-xronia-meta-apo-thanato-tis-ithopoiou/",
+          "pubDate": "Wed, 28 Jan 2026 20:30:50 +0300",
+          "description": "Η Ειρήνη Κουμαριανού πέθανε στις 25 Ιανουαρίου 2013.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/iriniaa-768x502.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Οργή στη Δανία: Η αμερικανική πρεσβεία αφαίρεσε τις σημαίες με τα ονόματα των πεσόντων Δανών στρατιωτών",
+          "link": "https://www.in.gr/2026/01/28/world/orgi-sti-dania-amerikaniki-presveia-afairese-tis-simaies-ta-onomata-ton-pesonton-danon-stratioton/",
+          "pubDate": "Wed, 28 Jan 2026 20:30:48 +0300",
+          "description": "Βετεράνοι στην Δανία εξέφρασαν έντονη αγανάκτηση προς την αμερικανική πρεσβεία στην Κοπεγχάγη, αφού αφαιρέθηκαν οι σημαίες που είχαν τοποθετηθεί προς τιμήν των στρατιωτών που σκοτώθηκαν στο Αφγανιστάν",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/a4fd03ac-eb3f-4281-87d0-634d30ab758b-768x422.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Σε δίκη δύο Γάλλοι streamers για τον θάνατο ενός 46χρονου σε live μετάδοση – Έκαναν βίντεο με βασανισμούς και ωμή βία",
           "link": "https://www.newsit.gr/kosmos/se-diki-dyo-galloi-streamers-gia-ton-thanato-enos-46xronou-se-live-metadosi-ekanan-vinteo-me-vasanismous-kai-omi-via/4586041/",
           "pubDate": "Wed, 28 Jan 2026 17:27:32 +0000",
           "description": "Δύο streamer συνεργάτες του 46χρονου Ζαν Πορμανόβ από τη Γαλλία, ο οποίος πέθανε τον Αύγουστο του 2025 κατά τη διάρκεια ζωντανής μετάδοσης 12 ημερών, στην ...  \nTo άρθρο Σε δίκη δύο Γάλλοι streamers για τον θάνατο ενός 46χρονου σε live μετάδοση – Έκαναν βίντεο με βασανισμούς και ωμή βία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nekros-streamer-1200x774.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Μερτς: Απαιτείται τώρα μια τελική απόφαση για την τελωνειακή συμφωνία ΕΕ-ΗΠΑ – Δεν θα δεχτούμε όμως επιδείνωση",
-          "link": "https://www.in.gr/2026/01/28/world/merts-apaiteitai-tora-mia-teliki-apofasi-gia-tin-teloneiaki-symfonia-ee-ipa-den-tha-dextoume-omos-epideinosi/",
-          "pubDate": "Wed, 28 Jan 2026 20:25:13 +0300",
-          "description": "«Δεν θα πρέπει να επιτρέψουμε να αμφισβητηθεί ξανά από την αμερικανική πλευρά ότι οι συμφωνίες που επιτεύχθηκαν θα τηρηθούν και δεν θα αμφισβητούνται με καθημερινές ανακοινώσεις», τόνισε ο Φρίντριχ Μερτς",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/452-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Συνεργασία του υπουργείου Υγείας με το «Χαμόγελο του Παιδιού»: Η αυτοκτονία είναι η τρίτη αιτία θανάτου για άτομα ηλικίας 15 - 29 ετών",
-          "link": "https://www.protothema.gr/greece/article/1764991/sunergasia-tou-upourgeiou-ugeias-me-to-hamogelo-tou-paidiou-i-autoktonia-einai-i-triti-aitia-thanatou/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 19:23:00 +0200",
-          "description": "Το 2025, ο οργανισμός «Το Χαμόγελο του Παιδιού», διαχειρίστηκε 764 περιστατικά αυτοκτονικότητας και αυτοτραυματικής συμπεριφοράς - Το το 33,5% των περιστατικών αφορούσε κορίτσια 13 έως 15 ετών",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2022-11-16/aytoktonia.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Τραγωδία στον ΠΑΟΚ: Οι φίλοι του Ολυμπιακού ύψωσαν πανό στο Άμστερνταμ για τους αδικοχαμένους οπαδούς του Δικεφάλου",
-          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-oi-filoi-tou-olympiakou-ypsosan-pano-sto-amsterntam-gia-tous-adikoxamenous-opadous-tou-dikefalou/4586045/",
-          "pubDate": "Wed, 28 Jan 2026 17:22:41 +0000",
-          "description": "Οι φίλαθλοι του Ολυμπιακού στέκονται στο πλευρό του ΠΑΟΚ, υψώνοντας ένα πανό στο Άμστερνταμ στη μνήμη των επτά οπαδών του Δικεφάλου. Η Ελλάδα θρηνεί για ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Οι φίλοι του Ολυμπιακού ύψωσαν πανό στο Άμστερνταμ για τους αδικοχαμένους οπαδούς του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-pano-paok.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Αυτή την Κυριακή με το Πρώτο Θέμα",
-          "link": "https://www.protothema.gr/greece/article/1764989/auti-tin-kuriaki-me-to-proto-thema/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 19:22:17 +0200",
-          "description": "Όσοι από εσάς επιλέξουν να αγοράσουν το \"Θέμα\" με τις προσφορές (4,25€) αυτήν την εβδομάδα παίρνουν",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/xrwma__5_.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Λιόν - ΠΑΟΚ: Ο 25άρης Τάισον και οι απουσίες των Γάλλων",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511014/lion-paok-o-25aris-taison-kai-oi-apoysies-ton-gallon",
+          "pubDate": "Wed, 28 Jan 2026 20:34:25 +0200",
+          "description": "Ο τεχνικός της Λιόν Πάουλο Φονσέκα επιβεβαίωσε ότι Τολισό και Σουλτς δεν παίζουν με τον ΠΑΟΚ, ενώ αποθέωσε τον Τάισον.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_10_1.jpg?itok=Pw4guTz9",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νότιγχαμ Φόρεστ: Ενδιαφέρεται για Ζοσέ Σα",
+          "link": "https://www.gazzetta.gr/football/premier-league/2511013/notigham-forest-endiaferetai-gia-zose-sa",
+          "pubDate": "Wed, 28 Jan 2026 20:33:20 +0200",
+          "description": "Βρετανικά ΜΜΕ αναφέρουν πως η Νότιγχαμ Φόρεστ ενδιαφέρεται για την απόκτηση του Ζοσέ Σα από τη Γουλβς.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jose_sa.jpg?itok=bXprnDHh",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ρονάλντο: Το πανάκριβο ρόλεξ στη Χεορχίνα για τα γενέθλιά της",
           "link": "https://www.gazzetta.gr/football/2511012/ronalnto-panakribo-rolex-sti-heorhina-gia-ta-genethlia-tis",
           "pubDate": "Wed, 28 Jan 2026 20:29:41 +0200",
@@ -969,22 +985,6 @@
           "description": "Ο Ουκρανός στράικερ οδεύει προς την Λιόν με την μορφή δανεισμού ενώ υπάρχει λόγος που ο Ολυμπιακός ψάχνεται και για γκολκίπερ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/yaremcul_oly.jpg?itok=CwwXoQFd",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Δικηγόρος εταιρίας ενοικίασης του βαν που επέβαιναν οι φίλαθλοι του ΠΑΟΚ: «Δεν διέθετε lane assist» (vid)",
-          "link": "https://www.gazzetta.gr/plus/2510983/dikigoros-etairias-enoikiasis-toy-ban-poy-epebainan-oi-filathloi-toy-paok-den-diethete",
-          "pubDate": "Wed, 28 Jan 2026 19:23:40 +0200",
-          "description": "Κατηγορηματικά διαψεύδει η εταιρεία ενοικίασης κάθε ενδεχόμενο τεχνικής βλάβης στο μίνι βαν του δυστυχήματος στη Ρουμανία, ξεκαθαρίζοντας πως το όχημα δεν διέθετε σύστημα lane assist.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/van-roumania-paok.jpg?itok=KFqkjQO-",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τραγωδία στον ΠΑΟΚ: Οι φίλοι του Ολυμπιακού ύψωσαν πανό στο Άμστερνταμ για τους αδικοχαμένους οπαδούς του Δικεφάλου",
-          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-oi-filoi-tou-olympiakou-ypsosan-pano-sto-amsterntam-gia-tous-adikoxamenous-opadous-tou-dikefalou/4586045/",
-          "pubDate": "Wed, 28 Jan 2026 17:22:41 +0000",
-          "description": "Οι φίλαθλοι του Ολυμπιακού στέκονται στο πλευρό του ΠΑΟΚ, υψώνοντας ένα πανό στο Άμστερνταμ στη μνήμη των επτά οπαδών του Δικεφάλου. Η Ελλάδα θρηνεί για ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Οι φίλοι του Ολυμπιακού ύψωσαν πανό στο Άμστερνταμ για τους αδικοχαμένους οπαδούς του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-pano-paok.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -1002,7 +1002,7 @@
         },
         {
           "title": "Απίθανο πανό από τους οπαδούς του Παναθηναϊκού για τα αδικοχαμένα «αετόπουλα» στον «Τάφο του Ινδού»! (pic)",
-          "link": "https://olaprasina1908.gr/%ce%b1%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%84%ce%b1/apithano-pano-apo-tous-opadous-tou-pana/?utm_source=rss&utm_medium=rss&utm_campaign=apithano-pano-apo-tous-opadous-tou-pana",
+          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/apithano-pano-apo-tous-opadous-tou-pana/?utm_source=rss&utm_medium=rss&utm_campaign=apithano-pano-apo-tous-opadous-tou-pana",
           "pubDate": "Wed, 28 Jan 2026 18:25:47 +0000",
           "description": "Με ένα πανό βαθιάς ανθρώπινης και συμβολικής αξίας, οι οπαδοί του Παναθηναϊκού έστειλαν ένα ηχηρό μήνυμα από το κλειστό του Τάφου του Ινδού. Κατά τη διάρκεια του ντέρμπι μεταξύ «Τριφυλλιού» και Ολυμπιακού, στις κερκίδες έκανε την εμφάνισή του το πανό, που έγραφε: «Καλό ταξίδι αετοί – Θύρα 13», αφιερωμένο στους αδικοχαμένους οπαδούς του ΠΑΟΚ. Η […]",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/opadoi-3.jpg",
