@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T02:55:29.229Z",
+  "lastUpdated": "2026-01-28T03:00:41.150Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Στις φλόγες τυλίχτηκαν τα ξημερώματα τρία αυτοκίνητα στις Αχαρνές",
+          "link": "https://www.protothema.gr/greece/article/1764520/stis-floges-tulihtikan-tria-autokinita-stis-aharnes-ta-ximeromata/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 04:58:00 +0200",
+          "description": "Υλικές ζημιές από τις φωτιές, υπό έρευνα τα αίτια",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-10-22/pyrosvestiki.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Καιρός σήμερα: Τοπικές βροχές και καταιγίδες με ανέμους 7 μποφόρ και μικρή άνοδο της θερμοκρασίας",
           "link": "https://www.newsit.gr/ellada/kairos-simera-topikes-vroxes-kai-kataigides-me-anemous-7-mpofor-kai-mikri-anodo-tis-thermokrasias/4584999/",
@@ -239,14 +247,6 @@
           "description": "Η Κατερίνα Μπόυμη, 35 ετών, εξαφανίστηκε την 1 Ιουνίου του 2025,  ενδέχεται να συντρέχουν λόγοι οι οποίοι θέτουν τη ζωή της σε κίνδυνο",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/exafanisi_ampelokhpoi.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Παρί – Ρεάλ Μαδρίτης 98-92: Έκαναν την έκπληξη οι Γάλλοι – Η βαθμολογία της Euroleague",
-          "link": "https://www.in.gr/2026/01/28/sports/basketball/pari-real-madritis-98-92-ekanan-tin-ekpliksi-oi-galloi-vathmologia-tis-euroleague/",
-          "pubDate": "Wed, 28 Jan 2026 00:09:51 +0300",
-          "description": "Η Παρί νίκησε με 98-92 τη Ρεάλ Μαδρίτης, έκανε την έκπληξη και… δώρο στον Ολυμπιακό στη «μάχη» για την πρώτη τετράδα της Euroleague.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/paris-0ffff-768x527.jpg",
-          "source": "In.gr"
         }
       ]
     },
