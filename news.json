@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T23:55:25.133Z",
+  "lastUpdated": "2026-01-28T00:00:40.195Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Η Βουλή φωταγωγήθηκε στη Μνήμη του Ολοκαυτώματος\n",
+          "link": "https://www.protothema.gr/greece/article/1764513/i-vouli-fotagogithike-sti-mnimi-tou-olokautomatos/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 01:59:31 +0200",
+          "description": "Το διεθνές λογότυπο #WE REMEMBER αποτυπώνεται από το 2022 με φωταγωγήσεις εμβληματικών κτιρίων ανά τον κόσμο",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/vouli_olokaftoma_2.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Φωταγωγήθηκε η Βουλή στη μνήμη του Ολοκαυτώματος",
           "link": "https://www.newsit.gr/politikh/fotagogithike-i-vouli-sti-mnimi-tou-olokaytomatos-2/4585250/",
@@ -47,6 +55,14 @@
           "description": "Η διαρροή προπανίου ήταν τελικά αυτή που προκάλεσε τη μοιραία έκρηξη στο εργοστάσιο «Βιολάντα» στα Τρίκαλα, η οποία στοίχισε τη ζωή πέντε εργατριών της νυχτερινής ...  \nTo άρθρο Βιολάντα: Το ντοκουμέντο από το σημείο της διαρροής προπανίου, οι συλλήψεις στελεχών του εργοστασίου και η νέα ανακοίνωση της εταιρείας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta55-simeio-diarrois-28012026.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Νιγηρία: Τουλάχιστον εννέα στρατιώτες σκοτώθηκαν σε ενέδρα τζιχαντιστών στην πολιτεία Μπόρνο",
+          "link": "https://www.in.gr/2026/01/28/world/nigiria-toulaxiston-ennea-stratiotes-skotothikan-se-enedra-tzixantiston-stin-politeia-mporno/",
+          "pubDate": "Wed, 28 Jan 2026 01:58:45 +0300",
+          "description": "Μέλη της οργάνωσης Ισλαμικό Κράτος στη Δυτική Αφρική φέρονται να έστησαν ενέδρα σε δυνάμεις του στρατού, στην πολιτεία Μπόρνο στη βορειοανατολική Νιγηρία",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/iswap-Boko-Haram-768x436.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Κρήτη: Εφιάλτης για 43χρονη σε χωριό του Ηρακλείου – Kατήγγειλε σύζυγο και πεθερά ότι την είχαν φυλακισμένη",
@@ -231,22 +247,6 @@
           "description": "Σε σοκ βρίσκεται η τοπική κοινωνία των Ψαχνών στην Εύβοια, από τον αιφνίδιο θάνατο μιας 41χρονης γυναίκας, η οποία βρέθηκε νεκρή μέσα στο σπίτι της. ...  \nTo άρθρο Σοκ στην Εύβοια: 41χρονη εντοπίστηκε νεκρή μέσα στο σπίτι της δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/asthenoforo.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Πρωθυπουργός Ρουμανίας για τους οπαδούς του ΠΑΟΚ: «Οι σκέψεις μας είναι με όλους όσοι επλήγησαν από αυτή την τραγωδία»",
-          "link": "https://www.protothema.gr/greece/article/1764476/prothupourgos-roumanias-gia-tous-opadous-tou-paok-oi-skepseis-mas-einai-me-olous-osous-epligisan-apo-auti-tin-tragodia/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 22:51:00 +0200",
-          "description": "Με ανάρτησή του ο Ίλιε Μπολογιάν εξέφρασε τα συλλυπητήρια της ρουμανικής κυβέρνησης για τα θύματα του τροχαίου δυστυχήματος με 7 νεκρούς φίλους του ΠΑΟΚ",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/ilie-bolojan-ap-xrwma.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Διπλό στη Βρέμη για τη Χόφενχαϊμ (2-0), χωρίς νικητή το Ζανκτ Πάουλι – Λειψία (1-1)",
-          "link": "https://www.in.gr/2026/01/27/sports/football/perase-apo-ti-vremi-i-xofenxaim-2-0-isopalia-sto-zankt-paouli-leipsia-1-1/",
-          "pubDate": "Tue, 27 Jan 2026 23:50:12 +0300",
-          "description": "Η Χόφενχαϊμ επικράτησε της Βέρντερ στη Βρέμη με 2-0, ενώ το Ζανκτ Πάουλι – Λειψία έληξε ισόπαλο 1-1.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/xofenssss-768x482.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ, δυστύχημα στη Ρουμανία: Διακόσιοι φίλαθλοί του στην Τιμισοάρα",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510777/paok-dystyhima-sti-roymania-diakosioi-filathloi-toy-stin-timisoara",
+          "pubDate": "Wed, 28 Jan 2026 01:56:17 +0200",
+          "description": "Ο Οργανισμός του ΠΑΟΚ και οι φίλαθλοί του βιώνουν πολύ δύσκολες στιγμές μετά την τραγωδία στην Ρουμανία. Ποια ήταν επόμενη κίνηση μερίδας φίλων του Δικεφάλου του Βορρά.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok1_1.jpg?itok=a95kCfX5",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Το NBA LIVE στο Gazzetta",
           "link": "https://www.gazzetta.gr/basketball/nba/2510682/nba-live-sto-gazzetta",
           "pubDate": "Wed, 28 Jan 2026 01:40:00 +0200",
@@ -977,14 +985,6 @@
           "description": "Όλοι στον ΠΑΟΚ είναι συγκλονισμένοι για το τραγικό δυστύχημα στη Ρουμανία και μερικοί από τους παίκτες του Δικεφάλου έκαναν αναρτήσεις στα social media για να ...  \nTo άρθρο Συγκλονίζουν οι αναρτήσεις των παικτών του ΠΑΟΚ για τους αδικοχαμένους οπαδούς – «Αδέρφια μας εκεί ψηλά που ζείτε» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zivkovic-2-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "ΠΑΟΚ, Δυστύχημα στη Ρουμανία: Έλληνας οδηγός περνά από τον τόπο της τραγωδίας και συγκλονίζει",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510751/paok-dystyhima-sti-roymania-ellinas-odigos-perna-apo-ton-topo-tis",
-          "pubDate": "Tue, 27 Jan 2026 22:05:00 +0200",
-          "description": "Συντετριμμένος περιγράφει ο Έλληνας οδηγός νταλίκας την εικόνα του δυστυχήματος και τις συνθήκες στο σημείο του τροχαίου στη Ρουμανία, όπου έχασαν τη ζωή τους επτά φίλοι του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/troxaio-roymania-opadoi-paok_2.jpg?itok=GsX9X5ST",
-          "source": "Gazzetta"
         }
       ]
     },
