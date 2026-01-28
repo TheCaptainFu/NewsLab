@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T08:10:31.602Z",
-  "totalArticles": 179,
+  "lastUpdated": "2026-01-28T08:15:31.402Z",
+  "totalArticles": 178,
   "totalFeeds": 24,
   "successfulFeeds": 15,
   "categories": {
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ματίας Λεσόρ για τους οπαδούς του ΠΑΟΚ: «Θεέ μου, δεν ήθελα να δω αυτό το βίντεο»",
+          "link": "https://www.newsit.gr/athlitika/matias-lesor-gia-tous-opadous-tou-paok-thee-mou-den-ithela-na-do-ayto-to-vinteo/4585435/",
+          "pubDate": "Wed, 28 Jan 2026 08:13:58 +0000",
+          "description": "Συγκλονισμένος για την τραγωδία με τους 7 νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία είναι και ο σέντερ του Παναθηναϊκού, Ματίας Λεσόρ, ο οποίος και τόνισε ...  \nTo άρθρο Ματίας Λεσόρ για τους οπαδούς του ΠΑΟΚ: «Θεέ μου, δεν ήθελα να δω αυτό το βίντεο» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/lessort-2-1200x799.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ηγουμενίτσα: Φωτιά σε βανάκι στην Εγνατία πριν το τούνελ Βασιλικού, δείτε βίντεο",
+          "link": "https://www.protothema.gr/greece/article/1764618/igoumenitsa-fotia-se-vanaki-stin-egnatia-prin-to-tounel-vasilikou-deite-video/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 10:12:01 +0200",
+          "description": "Λόγω του συμβάντος, η κυκλοφορία στο σημείο έχει διακοπεί, ενώ έχουν σχηματιστεί μεγάλες ουρές από αυτοκίνητα και φορτηγά",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/egnatia.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Διονύσης Σχοινάς για Καίτη Γαρμπή: «30 χρόνια τη φροντίζω, τώρα δεν θα τη φροντίσω;»",
           "link": "https://www.newsit.gr/lifestyle/dionysis-sxoinas-gia-kaiti-garmpi-30-xronia-ti-frontizo-tora-den-tha-ti-frontiso/4585427/",
@@ -89,10 +105,10 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "Ελένη Βουλγαράκη και Φώτης Ιωαννίδης θα συγκατοικήσουν στη Λισαβόνα – Παραιτήθηκε η ραδιοφωνική παραγωγός",
-          "link": "https://www.newsit.gr/lifestyle/eleni-voulgaraki-kai-fotis-ioannidis-tha-sygkatoikisoun-sti-lisavona-paraitithike-i-radiofoniki-paragogos/4585396/",
+          "title": "Ελένη Βουλγαράκη: «Δεν είμαι έγκυος» λέει μετά τα σενάρια για συγκατοίκηση με τον Φώτη Ιωαννίδη στη Λισαβόνα",
+          "link": "https://www.newsit.gr/lifestyle/eleni-voulgaraki-den-eimai-egkyos-leei-meta-ta-senaria-gia-sygkatoikisi-me-ton-foti-ioannidi-sti-lisavona/4585396/",
           "pubDate": "Wed, 28 Jan 2026 07:38:47 +0000",
-          "description": "Ελένη Βουλγαράκη και Φώτης Ιωαννίδης παραμένουν σε σχέση εδώ και δύο χρόνια, με την ραδιοφωνική παραγωγό και τον διεθνή ποδοσφαιριστή, να εμφανίζονται ερωτευμένοι σε κάθε ...  \nTo άρθρο Ελένη Βουλγαράκη και Φώτης Ιωαννίδης θα συγκατοικήσουν στη Λισαβόνα – Παραιτήθηκε η ραδιοφωνική παραγωγός δημοσιεύτηκε στο NewsIT .",
+          "description": "Ελένη Βουλγαράκη και Φώτης Ιωαννίδης παραμένουν σε σχέση εδώ και δύο χρόνια, με την ραδιοφωνική παραγωγό και τον διεθνή ποδοσφαιριστή, να εμφανίζονται ερωτευμένοι σε κάθε ...  \nTo άρθρο Ελένη Βουλγαράκη: «Δεν είμαι έγκυος» λέει μετά τα σενάρια για συγκατοίκηση με τον Φώτη Ιωαννίδη στη Λισαβόνα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/voulgaraki-ndp-1200x751.jpg",
           "source": "NewsIT"
         },
@@ -231,22 +247,6 @@
           "description": "Ο Δημήτρης Κίτσος παραχώρησε συνέντευξη στην εκπομπή «The 2night Show» και μίλησε για τις κοινωνικές ανησυχίες του, την απόφαση που πήρε να ασχοληθεί με την ...  \nTo άρθρο Δημήτρης Κίτσος για τη «Μεγάλη Χίμαιρα»: Οι ερωτικές σκηνές που σχολιάζονται, είναι πολύ προσεγμένες δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kitsos-arxiki-1200x723.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Καλλιθέα: Νέα τραγωδία με βρέφος – Το μετέφεραν συγγενείς του σε ιδιωτικό ιατρείο, χωρίς τις αισθήσεις του",
-          "link": "https://www.in.gr/2026/01/28/greece/kallithea-nea-tragodia-vrefos-meteferan-sto-nosokomeio-oi-goneis-tou-xoris-tis-aisthiseis-tou/",
-          "pubDate": "Wed, 28 Jan 2026 09:49:59 +0300",
-          "description": "Το βρέφος παρελήφθη στη συνέχεια από ασθενοφόρο του ΕΚΑΒ και μεταφέρθηκε στο Νοσοκομείο Παίδων «Αγία Σοφία», όπου οι γιατροί δεν κατάφεραν να το επαναφέρουν ζωή.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/baby-6798471_1920-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Φινάλε στη League Phase του Champions League – Όλο το πρόγραμμα της ημέρας",
-          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/finale-sti-league-phase-tou-champions-league-olo-programma-tis-imeras/",
-          "pubDate": "Wed, 28 Jan 2026 09:48:55 +0300",
-          "description": "Με 18 σπουδαίες αναμετρήσεις ολοκληρώνεται το βράδυ της Τετάρτης η League Phase του φετινού Champions League, με την 8η και τελευταία αγωνιστική της κορυφαίας διασυλλογικής διοργάνωσης.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pavlidis-28126-768x461.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ο Ηλίας του Masterchef μας εξηγεί πώς και γιατί πρέπει να μαγειρεύουμε λεοντόψαρο",
+          "link": "http://gr.euronews.com/green/2026/01/28/o-hlias-toy-masterchef-mas-e3hgei-pws-kai-giati-prepei-na-mageireyoyme-leontopsaro",
+          "pubDate": "Wed, 28 Jan 2026 09:07:44 +0100",
+          "description": "Η βιώσιμη γαστρονομία στην υπηρεσία της βιωσιμότητας. Πώς θα αντιμετωπιστούν οι αυξανόμενοι πληθυσμοί του λεοντόψαρου που απειλεί τα ψάρια της Μεσογείου",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Zelensky condemns Russian drone strike that killed five on passenger train",
           "link": "https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 08:04:36 GMT",
@@ -731,14 +739,6 @@
           "description": "Joel Guerriau received a four-year prison sentence, 18 months of which are to be served behind bars.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f8f/live/fb2a9ef0-fba7-11f0-b852-153f64f31c74.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Ο Ρούτε αντιμετωπίζει αντιδράσεις επειδή είπε στους Ευρωπαίους να \"συνεχίσουν να ονειρεύονται\" την ανεξαρτησία από την ασφάλεια των ΗΠΑ",
-          "link": "http://gr.euronews.com/my-europe/2026/01/27/o-royte-antimetwpizei-antidraseis-epeidh-eipe-stoys-eyrwpaioys-na-synexisoyn-na-oneireyon",
-          "pubDate": "Tue, 27 Jan 2026 22:52:17 +0100",
-          "description": "Ο Γενικός Γραμματέας του ΝΑΤΟ Μαρκ Ρούτε δέχεται πυρά για τα απορριπτικά του σχόλια σχετικά με την ιδέα του ευρωπαϊκού διαχωρισμού από την προστασία της Ουάσινγκτον. \"Δεν μπορείτε, δεν μπορούμε\", δήλωσε.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -1119,14 +1119,6 @@
           "description": "Ο Βασίλης Παρθενόπουλος, πρόεδρος της ΚΑΕ Παναθηναϊκός απάντησε στις δηλώσεις ανθρώπων της Μακάμπι Τελ Αβίβ για τον... προβοκάτορα Αταμάν.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/05/parthenopoulos-1024x576-1.jpg?fit=680%2C460&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Λεσόρ: Το μήνυμά του για την τραγωδία στη Ρουμανία! (pic)",
-          "link": "https://trifilara.gr/lessort-to-mhnuma-tou-gia-thn-tragwdia-sth-roumania-pic/?utm_source=rss&utm_medium=rss&utm_campaign=lessort-to-mhnuma-tou-gia-thn-tragwdia-sth-roumania-pic",
-          "pubDate": "Tue, 27 Jan 2026 17:29:59 +0000",
-          "description": "Ο Ματίας Λεσόρ εξέφρασε τη θλίψη του μέσω Instagram για τον άδικο χαμό επτά οπαδών του ΠΑΟΚ.\nThe post Λεσόρ: Το μήνυμά του για την τραγωδία στη Ρουμανία! (pic) appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         },
         {
           "title": "Συγκλονίζει αδερφός θύματος του δυστυχήματος στην Ρουμανία: «Μου επιβεβαίωσαν ότι είναι νεκρός» (video)",
