@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T14:25:24.588Z",
+  "lastUpdated": "2026-01-28T14:30:37.003Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -145,6 +145,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "«Δεν έχω ξαναδεί κάτι τέτοιο» – Συγκλονίζει ο οδηγός της νταλίκας στην οποία «καρφώθηκε» το βαν – Την Πέμπτη η επιστροφή των 3 τραυματιών",
+          "link": "https://www.in.gr/2026/01/28/greece/den-exo-ksanadei-kati-tetoio-sygklonizei-o-odigos-tis-ntalikas-stin-opoia-karfothike-van-tin-pempti-epistrofi-ton-3-traymation/",
+          "pubDate": "Wed, 28 Jan 2026 16:28:15 +0300",
+          "description": "Το Πανελλήνιο παρακολουθεί συγκλονισμένο τις εξελίξεις μετά το φρικτό τροχαίο δυστύχημα στη Ρουμανία, που κόστισε τη ζωή σε επτά οπαδούς του ΠΑΟΚ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/roymania-paok-eurokinissi-nekroi-e1769599639777-768x517.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Πυροσβεστική: Πολύμηνη η διαρροή στη Βιολάντα, εξαιρετικά μεγάλες συγκεντρώσεις προπανίου κάτω από το έδαφος και σπινθήρας οδήγησαν στη φονική έκρηξη",
           "link": "https://www.protothema.gr/greece/article/1764802/live-oi-anakoinoseis-tis-purosvestikis-gia-tin-ekrixi-sto-ergostasio-tis-violada/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 15:28:00 +0200",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 13:09:04 +0000",
           "description": "Σοκαρισμένο παραμένει το πανελλήνιο από τον τραγικό θάνατο των επτά οπαδών του ΠΑΟΚ στο τροχαίο στη Ρουμανία το μεσημέρι της Τρίτης (27.1.26) και ενώ ταξίδευαν ...  \nTo άρθρο Τροχαίο με τους οπαδούς του ΠΑΟΚ: Τα πρόσωπα της τραγωδίας – Ήταν όλοι από 20 έως 30 ετών δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-2.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΠΑΟΚ: Συγκλονισμένοι και στη Ρουμανία από το πολύνεκρο δυστύχημα",
-          "link": "https://www.newsit.gr/athlitika/paok-sygklonismenoi-kai-sti-roumania-apo-to-polynekro-dystyxima/4585757/",
-          "pubDate": "Wed, 28 Jan 2026 13:07:42 +0000",
-          "description": "Το τραγικό δυστύχημα με τους 7 νεκρούς και τους 3 τραυματίες οπαδούς του ΠΑΟΚ, έχει συγκλονίσει και τη Ρουμανία, όπου και έλαβε χώρα το φρικτό ...  \nTo άρθρο ΠΑΟΚ: Συγκλονισμένοι και στη Ρουμανία από το πολύνεκρο δυστύχημα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-3.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Μπορεί η Ευρώπη να προλάβει την Τεχνητή Νοημοσύνη; ΗΠΑ και Κίνα έχουν προχωρήσει αρκετά",
+          "link": "http://gr.euronews.com/my-europe/2026/01/28/eu-xl-ai-kai-european-union-tha-prolavei-i-enosi",
+          "pubDate": "Wed, 28 Jan 2026 15:22:56 +0100",
+          "description": "Ο νόμος για την τεχνητή νοημοσύνη τοποθετεί τις Βρυξέλλες ως παγκόσμιο παράγοντα θέσπισης κανόνων, αλλά η υιοθέτηση και οι επενδύσεις στην τεχνητή νοημοσύνη παραμένουν χαμηλές. Μπορεί η Ευρώπη να καλύψει το χάσμα με τις ΗΠΑ και την Κίνα να επιμείνει; Παρακολουθήστε το βίντεο.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Trump warns Iran 'time is running out' as US military builds up in Gulf",
           "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 14:04:42 GMT",
@@ -729,14 +737,6 @@
           "link": "http://gr.euronews.com/2026/01/28/rwsia-nomo8etikh-allagh-8a-dwsei-sthn-fsb-to-dikaiwma-na-diakoptei-tis-epikoinwnies",
           "pubDate": "Wed, 28 Jan 2026 10:53:44 +0100",
           "description": "Νέες τροπολογίες σε υπό συζήτηση νομοσχέδιο απαλλάσσουν τους παρόχους από αποζημιώσεις και επιτρέπουν την αναστολή κάθε μορφής επικοινωνίας για λόγους ασφάλειας. Νομικοί προειδοποιούν για ασάφεια στα κριτήρια και κίνδυνο αυθαιρεσίας, με επιπτώσεις σε πολίτες και επιχειρήσεις.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Φίλιπ Γκλας αποσύρει νέα συμφωνία από το Κένεντι Σέντερ σε ένδειξη διαμαρτυρίας για τον Τραμπ",
-          "link": "http://gr.euronews.com/culture/2026/01/28/philip-glass-premieres-new-symphony-at-the-kennedy-center-in-protest-of-donald-trump",
-          "pubDate": "Wed, 28 Jan 2026 10:53:31 +0100",
-          "description": "Ο Φίλιπ Γκλας αποσύρει από το Kennedy Center την παγκόσμια πρεμιέρα της συμφωνίας «Λίνκολν», λέγοντας ότι οι αξίες του υπό τον Τραμπ έρχονται σε ευθεία αντίθεση με το μήνυμα του έργου.",
           "thumbnail": null,
           "source": "Euronews"
         }
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Πιο κοντά από ποτέ το ντεμπούτο του Αντίνο με τα «πράσινα»!",
+          "link": "https://trifilara.gr/pio-konta-apo-pote-to-debouto-tou-andino-me-ta-prasina/?utm_source=rss&utm_medium=rss&utm_campaign=pio-konta-apo-pote-to-debouto-tou-andino-me-ta-prasina",
+          "pubDate": "Wed, 28 Jan 2026 14:28:37 +0000",
+          "description": "Ο Σαντίνο Αντίνο βρίσκεται ένα βήμα πριν την πρώτη του εμφάνιση με τα «πράσινα», με τον Μπενίτεθ να τον υπολογίζει για το ματς της Κυριακής με την Κηφισιά.\nThe post Πιο κοντά από ποτέ το ντεμπούτο του Αντίνο με τα «πράσινα»! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Παναθηναϊκός: Επισπεύδεται το ντεμπούτο του Αντίνο!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-epispeudetai-to-debouto-tou-andino/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-epispeudetai-to-debouto-tou-andino",
           "pubDate": "Wed, 28 Jan 2026 14:25:00 +0000",
@@ -1215,14 +1223,6 @@
           "description": "Λειψή αποστολή για τους «τζιαλορόσι» ενόψει Παναθηναϊκού, με απουσίες αλλά και την επιστροφή του Ντιμπάλα. Με μόλις 19 ποδοσφαιριστές θα ταξιδέψει η Ρόμα στην Αθήνα για την αναμέτρηση της Τετάρτης (28/1) απέναντι στον Παναθηναϊκό στο ΟΑΚΑ, στο πλαίσιο της 8ης αγωνιστικής της League Phase του Europa League. Μπορεί οι «πράσινοι» να αντιμετωπίζουν σοβαρά προβλήματα απουσιών, […]\nThe post Με … Ντιμπάλα αλλά κι αρκετά προβλήματα η Ρόμα! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Dybala.jpg",
           "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Παναθηναϊκός – Ολυμπιακός: Ώρα – Κανάλι – Μετάδοση",
-          "link": "https://trifilara.gr/panathinaikos-olympiacos-wra-kanali-metadosh/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-olympiacos-wra-kanali-metadosh",
-          "pubDate": "Wed, 28 Jan 2026 10:34:26 +0000",
-          "description": "Όλα τα βλέμματα στρέφονται στο ντέρμπι «αιωνίων» που θα διεξαχθεί στο «Παύλος Γιαννακόπουλος».\nThe post Παναθηναϊκός – Ολυμπιακός: Ώρα – Κανάλι – Μετάδοση appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         },
         {
           "title": "Ο φαύλος κύκλος και η σταθερότητα ως προαπαιτούμενο",
