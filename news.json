@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T08:25:28.606Z",
+  "lastUpdated": "2026-01-28T08:30:32.706Z",
   "totalArticles": 178,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,42 @@
       "color": "red",
       "articles": [
         {
+          "title": "Γιατί η ΕΚΤ πιέζεται για ακόμα χαμηλότερα… επιτόκια",
+          "link": "https://www.newsit.gr/blogs/oikonoklastika/giati-i-ekt-piezetai-gia-akoma-xamilotera-epitokia/4585450/",
+          "pubDate": "Wed, 28 Jan 2026 08:29:06 +0000",
+          "description": "Στα Οικονοκλαστικά εδώ και καιρό επιμένουμε ότι παρά την μείωση των επιτοκίων από την ΕΚΤ, σαν αποτέλεσμα της αποκλιμάκωσης του πληθωρισμού στην Ευρωζώνη, θα διατηρηθεί ...  \nTo άρθρο Γιατί η ΕΚΤ πιέζεται για ακόμα χαμηλότερα… επιτόκια δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ecb-reuters-scaled-1-1200x675-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία στη Ρουμανία: «Μπλόκαρε το τιμόνι κατά την προσπέραση», αποκάλυψε τραυματίας οπαδός του ΠΑΟΚ",
+          "link": "https://www.newsit.gr/ellada/tragodia-sti-roumania-mplokare-to-timoni-kata-tin-prosperasi-apokalypse-traymatias-opados-tou-paok/4585449/",
+          "pubDate": "Wed, 28 Jan 2026 08:28:11 +0000",
+          "description": "Ο Ελληνας γιατρός Δημήτρης Κούκουλας στη Ρουμανία που έσπευσε στο νοσοκομείο όπου μεταφέρθηκαν οι τραυματίες του τροχαίου των οπαδών του ΠΑΟΚ μετέφερε τη σοκαριστική μαρτυρία ...  \nTo άρθρο Τραγωδία στη Ρουμανία: «Μπλόκαρε το τιμόνι κατά την προσπέραση», αποκάλυψε τραυματίας οπαδός του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-reuters-1200x900.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ο Παύλος Κοντογιαννίδης για την ταινία «Καποδίστριας»: Έχουν ξεφύγει κάποιες απόψεις τελείως",
+          "link": "https://www.newsit.gr/lifestyle/o-paylos-kontogiannidis-gia-tin-tainia-kapodistrias-exoun-ksefygei-kapoies-apopseis-teleios/4585442/",
+          "pubDate": "Wed, 28 Jan 2026 08:26:56 +0000",
+          "description": "Ο Παύλος Κοντογιαννίδης παραχώρησε συνέντευξη στο «Happy Day» και μεταξύ άλλων ρωτήθηκε για την ταινία «Καποδίστριας» που υπογράφει ο Γιάννης Σμαραγδής. Ο δημοφιλής ηθοποιός επέλεξε ...  \nTo άρθρο Ο Παύλος Κοντογιαννίδης για την ταινία «Καποδίστριας»: Έχουν ξεφύγει κάποιες απόψεις τελείως δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kontogiannidis-ndp-1200x786.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Η SpaceX του Ίλον Μασκ σχεδιάζει την ιστορική IPO των 50 δισ. δολαρίων",
+          "link": "https://www.newsit.gr/oikonomia/diethni/i-spacex-tou-ilon-mask-sxediazei-tin-istoriki-ipo-ton-50-dis-dolarion/4585432/",
+          "pubDate": "Wed, 28 Jan 2026 08:26:14 +0000",
+          "description": "Το ενδεχόμενο να προχωρήσει σε αρχική προσφορά νέων μετοχών με δημόσια εγγραφή (IPO) στα μέσα Ιουνίου, εξετάζει η SpaceX του Ίλον Μασκ, με στόχο να ...  \nTo άρθρο Η SpaceX του Ίλον Μασκ σχεδιάζει την ιστορική IPO των 50 δισ. δολαρίων δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/spacex-elon-mask.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "«Μπλόκαρε το τιμόνι κατά την προσπέραση» αποκάλυψε τραυματίας οπαδός του ΠΑΟΚ στον Έλληνα γιατρό που βρέθηκε στο σημείο του φονικού τροχαίου",
           "link": "https://www.protothema.gr/greece/article/1764626/blokare-to-timoni-kata-tin-prosperasi-apokalupse-traumatias-opados-tou-paok/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 10:21:45 +0200",
-          "description": "",
+          "pubDate": "Wed, 28 Jan 2026 10:21:00 +0200",
+          "description": "Συγκλονισμένος ο γιατρός Δημήτρης Κουκούλας ανέφερε ότι ένας από τους τραυματίες του είπε ότι κόλλησε το τιμόνι κατά την προσπέραση λόγω  lane assistant - «Δεν έχω αναπνοές, ήμουν με τη μητέρα ενός εκ των άτυχων παιδιών»",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpeg/files/2024-12-11/xrvma_ektakth_epikairothta_1012242.jpeg",
           "source": "Πρώτο Θέμα"
         },
@@ -93,7 +125,7 @@
           "link": "https://www.newsit.gr/ellada/tragodia-ston-paok-se-etoimotita-c-130-gia-tin-amesi-epistrofi-ton-soron-stin-ellada/4585409/",
           "pubDate": "Wed, 28 Jan 2026 07:52:45 +0000",
           "description": "Ο ΠΑΟΚ και ολόκληρη η Ελλάδα θρηνούν για το θάνατο 7 οπαδών του στο τραγικό δυστύχημα στη Ρουμανία, με τις σορούς των νεκρών να αναμένονται ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Σε ετοιμότητα C-130 για την άμεση επιστροφή των σορών στην Ελλάδα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-2.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-roumania2.jpg",
           "source": "NewsIT"
         },
         {
@@ -215,38 +247,6 @@
           "description": "Το δικό του μήνυμα στους οπαδούς του ΠΑΟΚ θέλησε να στείλει ο Γιάννης Παπαστεφανάκης, μετά τη νέα τραγωδία με τους 7 νεκρούς στο τροχαίο δυστύχημα ...  \nTo άρθρο Γιάννης Παπαστεφανάκης για το δυστύχημα των οπαδών: «Ο ΠΑΟΚ είναι ψυχές» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/papastefanakis-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Νικόλαος Ντε Γκρες – Χρυσή Βαρδινογιάννη: «Θα ήταν δώρο να δουν την οικογένειά τους να μεγαλώνει» λέει άτομο από το περιβάλλον τους",
-          "link": "https://www.newsit.gr/lifestyle/nikolaos-nte-gkres-xrysi-vardinogianni-tha-itan-doro-na-doun-tin-oikogeneia-tous-na-megalonei-leei-atomo-apo-to-perivallon-tous/4585368/",
-          "pubDate": "Wed, 28 Jan 2026 07:12:01 +0000",
-          "description": "Νικόλαος Ντε Γκρες και Χρυσή Βαρδινογιάννη ετοιμάζονται σε λίγες μέρες για την πρώτη επέτειο του γάμου τους, που έγινε το βράδυ της 7ης Φεβρουαρίου του ...  \nTo άρθρο Νικόλαος Ντε Γκρες – Χρυσή Βαρδινογιάννη: «Θα ήταν δώρο να δουν την οικογένειά τους να μεγαλώνει» λέει άτομο από το περιβάλλον τους δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nikolaos-ndp-1200x792.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τραγωδία με βρέφος επτά ημερών στην Καλλιθέα, υπέστη ανακοπή και άφησε την τελευταία του πνοή\n",
-          "link": "https://www.protothema.gr/greece/article/1764572/vrefos-metaferthike-horis-tis-aisthiseis-tou-sto-paidon-agia-sofia/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 09:11:00 +0200",
-          "description": "Το κοριτσάκι μετέφεραν αρχικά σε κτηνιατρείο στην Καλλιθέα ο πατέρας του και η θεία του - Διακομίστηκε στο «Αγία Σοφία» όπου επί 40 λεπτά οι γιατροί προσπάθησαν να το επαναφέρουν χωρίς αποτέλεσμα",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2021-03-31/pedon_agia.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Κυβέρνηση: Με εισαγωγή ψηφοφόρων ψάχνει την ανάκαμψη",
-          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/kyvernisi-eisagogi-psifoforon-psaxnei-tin-anakampsi/",
-          "pubDate": "Wed, 28 Jan 2026 10:09:09 +0300",
-          "description": "Τι κρύβεται πίσω από τις νέες εξαγγελίες της κυβέρνησης για τους ομογενείς.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/dGwBGddw-scaled-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Οι αθλητικές μεταδόσεις της ημέρας (28/1): «Δράση» με Champions League και ντέρμπι «αιωνίων» στο μπάσκετ γυναικών",
-          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/oi-athlitikes-metadoseis-tis-imeras-28-1-drasi-champions-league-kai-ntermpi-aionion-sto-mpasket-gynaikon/",
-          "pubDate": "Wed, 28 Jan 2026 10:08:59 +0300",
-          "description": "Αυτό είναι το πλήρες πρόγραμμα με τις αθλητικές μεταδόσεις της ημέρας (28/1).",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6819356-768x511.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -779,6 +779,14 @@
           "source": "Gazzetta"
         },
         {
+          "title": "Νεκρό μεταφέρθηκε βρέφος λίγων ημερών στο Παίδων «Αγία Σοφία»",
+          "link": "https://www.gazzetta.gr/plus/2510829/nekro-metaferthike-brefos-ligon-imeron-sto-paidon-agia-sofia",
+          "pubDate": "Wed, 28 Jan 2026 10:17:54 +0200",
+          "description": "Ο πατέρας και η θεία του μετέφεραν το βρέφος, αρχικά, σε κτηνιατρείο και από εκεί διακομίσθηκε στο νοσοκομείο όπου διαπιστώθηκε ο θάνατός του.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/nosokomeio-paidon_4.jpg?itok=_rm2IpeT",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ματίας Λεσόρ για τους οπαδούς του ΠΑΟΚ: «Θεέ μου, δεν ήθελα να δω αυτό το βίντεο»",
           "link": "https://www.newsit.gr/athlitika/matias-lesor-gia-tous-opadous-tou-paok-thee-mou-den-ithela-na-do-ayto-to-vinteo/4585435/",
           "pubDate": "Wed, 28 Jan 2026 08:13:58 +0000",
@@ -795,7 +803,7 @@
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ, Δυστύχημα στη Ρουμανία: Οπαδοί του Δικεφάλου σκέπασαν με κασκόλ και σημαίες τα συντρίμμια",
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οπαδοί του Δικεφάλου σκέπασαν με κασκόλ και σημαίες τα συντρίμμια",
           "link": "https://www.gazzetta.gr/football/europa-league/2510823/paok-dystyhima-sti-roymania-opadoi-toy-dikefaloy-skepasan-me-kaskol",
           "pubDate": "Wed, 28 Jan 2026 10:06:25 +0200",
           "description": "Στην Τιμοσοάρα της Ρουμανίας μετέβησαν αργά το βράδυ της Τρίτης (27/01) περίπου 200 οπαδοί του ΠΑΟΚ και σκέπασαν τα συντρίμμια με κασκόλ και σημαίες της ομάδας.",
@@ -835,7 +843,7 @@
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ, Δυστύχημα στη Ρουμανία: Οι οπαδοί της Τιμισοάρα έμειναν στο νοσοκομείο όλο το βράδυ για συμπαράσταση και βοήθεια",
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οι οπαδοί της Τιμισοάρα έμειναν στο νοσοκομείο όλο το βράδυ για συμπαράσταση και βοήθεια",
           "link": "https://www.gazzetta.gr/football/europa-league/2510820/paok-dystyhima-sti-roymania-oi-opadoi-tis-timisoara-emeinan-sto",
           "pubDate": "Wed, 28 Jan 2026 09:52:59 +0200",
           "description": "Στο πλευρό των τραυματιών από το δυστύχημα με το mini bus όπου στέρησε τη ζωή σε 7 οπαδούς του ΠΑΟΚ, στέκονται οι φίλαθλοι της Τιμισοάρα.",
@@ -977,14 +985,6 @@
           "description": "Ο ιός Nipah επανέρχεται στο προσκήνιο μετά από κρούσματα στην Ινδία, με τους ειδικούς να προειδοποιούν για τη σοβαρότητά του και τα υψηλά ποσοστά θνησιμότητας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/virus-nipah.jpg?itok=HNU5zatY",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΕ ΠΑΟΚ: «Θα παραμείνει κλειστή η κερκίδα των φιλοξενούμενων σε ένδειξη πένθους»",
-          "link": "https://www.newsit.gr/athlitika/pae-paok-tha-parameinei-kleisti-i-kerkida-ton-filoksenoumenon-se-endeiksi-penthous/4585339/",
-          "pubDate": "Wed, 28 Jan 2026 06:42:41 +0000",
-          "description": "Ο ΠΑΟΚ θα αγωνιστεί κανονικά με τη Λιόν για το Europa League, λίγες μόνο ώρες μετά το φρικτό δυστύχημα των οπαδών του στη Ρουμανία, αλλά ...  \nTo άρθρο ΠΑΕ ΠΑΟΚ: «Θα παραμείνει κλειστή η κερκίδα των φιλοξενούμενων σε ένδειξη πένθους» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-simaia-eurokinissi-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
