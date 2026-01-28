@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T05:43:40.205Z",
+  "lastUpdated": "2026-01-28T05:45:30.516Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -129,6 +129,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Αρκάς: Η καλημέρα της Τετάρτης",
+          "link": "https://www.in.gr/2026/01/28/go-fun/social/arkas-kalimera-tis-tetartis-33/",
+          "pubDate": "Wed, 28 Jan 2026 07:43:55 +0300",
+          "description": "Ο Αρκάς σε χειμωνιάτικο σκηνικό.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/arkas-12.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Αναζητούν τα αίτια του τροχαίου με τους οπαδούς του ΠΑΟΚ στη Ρουμανία – Εξετάζεται η μεταφορά των τραυματιών στην Ελλάδα",
+          "link": "https://www.in.gr/2026/01/28/greece/anazitoun-ta-aitia-tou-troxaiou-tous-opadous-tou-paok-sti-roumania-eksetazetai-metafora-ton-traymation-stin-ellada/",
+          "pubDate": "Wed, 28 Jan 2026 07:34:51 +0300",
+          "description": "Στη Ρουμανία βρίσκονται συγγενείς των θυμάτων και των τραυματιών, καθώς και εκπρόσωποι του ΠΑΟΚ, προκειμένου να ενημερωθούν από τους γιατρούς.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/122-768x433.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Θεσσαλονίκη: Νεκρό βρέφος 3 μηνών – Του έκαναν ανάνηψη 50 λεπτά",
           "link": "https://www.newsit.gr/ellada/thessaloniki-nekro-vrefos-3-minon-tou-ekanan-ananipsi-50-lepta/4585294/",
           "pubDate": "Wed, 28 Jan 2026 04:32:07 +0000",
@@ -230,22 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 06:01:23 +0300",
           "description": "Το να λέμε «όχι» δεν μας κάνει λιγότερο καλούς ανθρώπους - mας κάνει πιο ειλικρινείς.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pawel-szvmanski-oUOxOSPbcJk-unsplash-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Διαθήκες: Τα 11 κλειδιά της ψηφιακής πλατφόρμας για τη δημοσίευση",
-          "link": "https://www.in.gr/2026/01/28/greece/diathikes-ta-11-kleidia-tis-psifiakis-platformas-gia-ti-dimosieysi/",
-          "pubDate": "Wed, 28 Jan 2026 06:00:58 +0300",
-          "description": "«ΤΑ ΝΕΑ» στη διαδικτυακή παρουσίαση του οδικού χάρτη από την πρόεδρο των συμβολαιογράφων και την εκπρόσωπο της ψηφιακής πλατφόρμας, που απάντησαν σε 500 ερωτήσεις για τη σωστή και ασφαλή εξυπηρέτηση των πολιτών",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pen-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Βιολάντα: Στον εισαγγελέα ο ιδιοκτήτης και δύο στελέχη του εργοστασίου – Κατηγορούνται για ανθρωποκτονία από αμέλεια",
-          "link": "https://www.in.gr/2026/01/28/greece/violanta-ston-eisaggelea-o-idioktitis-kai-dyo-stelexi-tou-ergostasiou-katigorountai-gia-anthropoktonia-apo-ameleia/",
-          "pubDate": "Wed, 28 Jan 2026 06:00:56 +0300",
-          "description": "Σύμφωνα με πληροφορίες από το Πυροσβεστικό Σώμα, οι τρεις συλληφθέντες κατηγορούνται καθώς από την αυτοψία στο εργοστάσιο εντοπίστηκαν στο χώρο του υπογείου σωλήνες προπάνιου οι οποίοι είχαν υποστεί διάτρηση.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/violanta-1200x700-768x448.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Βολοντίμιρ Ζελένσκι: Το 2027 χρονιά - ορόσημο για την ένταξη της Ουκρανίας στην ΕΕ ",
+          "link": "http://gr.euronews.com/my-europe/2026/01/28/zelenski-2027-xronia-oroshmo-gia-thn-entaxh-oykranias-ee",
+          "pubDate": "Wed, 28 Jan 2026 06:42:45 +0100",
+          "description": "Σύμφωνα με αξιωματούχο της ΕΕ που μίλησε υπό τον όρο της ανωνυμίας, οι Βρυξέλλες προωθούν την διαδικασία της \"σταδιακής ένταξης\" για την επιτάχυνση της ένταξης της Ουκρανίας",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
           "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 05:38:48 GMT",
@@ -731,14 +739,6 @@
           "description": "Καταγγελία για χορήγηση ναρκωτικών με σκοπό τη σεξουαλική επίθεση – «Φοβήθηκα ότι θα με βιάσει»",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "TikTok settles just before social media addiction trial to begin",
-          "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 17:31:54 GMT",
-          "description": "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5753/live/bfdc78e0-fba8-11f0-b852-153f64f31c74.jpg",
-          "source": "BBC News"
         }
       ]
     },
