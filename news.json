@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T15:35:26.402Z",
+  "lastUpdated": "2026-01-28T15:40:27.417Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κυριάκος Μητσοτάκης για την εκλογή νέων Μητροπολιτών στην Κρήτη: «Ξεκινά μια νέα εποχή με μήνυμα ενότητας και ελπίδας»",
+          "link": "https://www.newsit.gr/politikh/kyriakos-mitsotakis-gia-tin-eklogi-neon-mitropoliton-stin-kriti-ksekina-mia-nea-epoxi-me-minyma-enotitas-kai-elpidas/4585949/",
+          "pubDate": "Wed, 28 Jan 2026 15:34:13 +0000",
+          "description": "Για ένα νέο κεφάλαιο στην εκκλησιαστική ιστορία της Κρήτης, με αφορμή την εκλογή των νέων μητροπολιτών Κυδωνίας και Αποκορώνου, και Λάμπης, Συβρίτου και Σφακίων, κάνει ...  \nTo άρθρο Κυριάκος Μητσοτάκης για την εκλογή νέων Μητροπολιτών στην Κρήτη: «Ξεκινά μια νέα εποχή με μήνυμα ενότητας και ελπίδας» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kiriakos-mitsotakis-nd-vouli-1200x792.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΠΑΟΚ: Τριήμερο πένθος στον Δήμο Ωραιοκάστρου για τους αδικοχαμένους οπαδούς",
           "link": "https://www.newsit.gr/ellada/paok-triimero-penthos-ston-dimo-oraiokastrou-gia-tous-adikoxamenous-opadous/4585954/",
@@ -169,6 +177,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Κακοκαιρία Kristin: Συστάσεις της Πολιτικής Προστασίας στους πολίτες",
+          "link": "https://www.in.gr/2026/01/28/greece/kakokairia-kristin-systaseis-tis-politikis-prostasias-stous-polites/",
+          "pubDate": "Wed, 28 Jan 2026 17:38:42 +0300",
+          "description": "Ιδιαίτερα προσεκτικοί καλούνται να είναι οι πολίτες, μεριμνώντας για τη λήψη μέτρων αυτοπροστασίας από κινδύνους που προέρχονται από την κακοκαιρία Κριστίν, που αναμένεται την Πέμπτη",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/PAN_1337-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Φουρνιέ στους οπαδούς του Ολυμπιακού ενόψει Μπαρτσελόνα: «Χρειαζόμαστε να ταρακουνήσετε το ΣΕΦ»",
           "link": "https://www.newsit.gr/athlitika/fournie-stous-opadous-tou-olympiakou-enopsei-mpartselona-xreiazomaste-na-tarakounisete-to-sef/4585881/",
           "pubDate": "Wed, 28 Jan 2026 14:37:54 +0000",
@@ -230,22 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 14:22:26 +0000",
           "description": "Σε μείζον πεδίο πολιτικής αντιπαράθεσης εξελίχθηκε στη Βουλή το ζήτημα των Ιμίων και των κυριαρχικών δικαιωμάτων της χώρας, κατά τη συζήτηση του νομοσχεδίου του Υπουργείου ...  \nTo άρθρο Σύγκρουση Λαζαρίδη και Χρηστίδη στη Βουλή για τα Ίμια: «Οδηγήσατε τους τρεις ήρωες στον θάνατο» – «Να ανακαλέσει το “γκριζάρισμα” στο Αιγαίο» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/makarios-lazaridis-nd-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γιατί οι επιχειρήσεις πατούν φρένο στις επενδύσεις",
-          "link": "https://www.in.gr/2026/01/28/economy/giati-oi-epixeiriseis-patoun-freno-stis-ependyseis/",
-          "pubDate": "Wed, 28 Jan 2026 17:20:59 +0300",
-          "description": "Οι επιχειρήσεις μπροστά σε ένα περιβάλλον αβεβαιότητας – Το κόστος που δεν σταθεροποιείται και ο γρίφος της χρηματοδότησης",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/mathieu-stern-1zO4O3Z0UJA-unsplash-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "ΠΑΟΚ: Αντιπροσωπεία του Άρη στην Τούμπα για να αποτίσει φόρο τιμής στους αδικοχαμένους φίλους του «δικεφάλου»",
-          "link": "https://www.newsit.gr/athlitika/paok-antiprosopeia-tou-ari-stin-toumpa-gia-na-apotisei-foro-timis-stous-adikoxamenous-filous-tou-dikefalou/4585858/",
-          "pubDate": "Wed, 28 Jan 2026 14:20:26 +0000",
-          "description": "Η οικογένεια του Άρη έδειξε για μια ακόμα φορά ότι η οδύνη για τους νεκρούς μιας ομάδας δεν κάνει διακρίσεις, ούτε όταν αφορά των “μεγάλο” ...  \nTo άρθρο ΠΑΟΚ: Αντιπροσωπεία του Άρη στην Τούμπα για να αποτίσει φόρο τιμής στους αδικοχαμένους φίλους του «δικεφάλου» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-paok-opadoi-eurokinissi-1-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -509,6 +509,14 @@
           "source": "BBC News"
         },
         {
+          "title": "Μεγάλη πυρκαγιά στο ξενοδοχείο Grandes Alpes στο Κουρσεβέλ, εκατοντάδες απομακρύνθηκαν",
+          "link": "http://gr.euronews.com/video/2026/01/28/a-major-fire-broke-out-at-the-grandes-alpes-hotel-in-courchevel-prompting-the-evacuation-o",
+          "pubDate": "Wed, 28 Jan 2026 16:30:48 +0100",
+          "description": "Μεγάλη πυρκαγιά στο ξενοδοχείο Grandes Alpes στο Κουρσεβέλ οδήγησε στην εκκένωση σχεδόν 300 ατόμων. Άνω των 100 πυροσβέστες μάχονται τη φωτιά, τέσσερις τραυματίστηκαν ελαφρά.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
           "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 15:27:40 GMT",
@@ -731,14 +739,6 @@
           "description": "The US president said Iraq would have \"zero\" chance of success without American support.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce8/live/acec9ec0-fbeb-11f0-a47f-d352a7d9988a.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Ecuador says ICE agent attempted to enter its Minneapolis consulate",
-          "link": "https://www.bbc.com/news/articles/c4g40k40xndo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 11:43:04 GMT",
-          "description": "A complaint has been filed by Ecuador, whose consular staff prevented the agent from entering.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e41/live/7b5abea0-fc3b-11f0-851f-553096e4fe99.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -767,7 +767,7 @@
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510945/apokalypsi-kalkaboyra-sto-gazz-floor-novibet-o-tsoys-mpoyeno-ehei-ton",
           "pubDate": "Wed, 28 Jan 2026 17:31:25 +0200",
           "description": "Ο Αντώνης Καλκαβούρας αποκάλυψε στο Glass Floor By NoviBet το επικρατέστερο όνομα που βρίσκεται στα σχέδια της EuroLeague, για να αναλάβει ως νέο CEO της διοργάνωσης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/buenos.jpg?itok=Fo3sCA9C",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages_bueno.jpg?itok=5979mhSz",
           "source": "Gazzetta"
         },
         {
@@ -1009,7 +1009,7 @@
           "source": "Trifilara"
         },
         {
-          "title": "Παναθηναϊκός: Διαθέσιμα λίγα επιπλέον εισιτήρια για το παιχνίδι με τη Ρεάλ!",
+          "title": "Παναθηναϊκός: Διαθέσιμα επιπλέον εισιτήρια με Ρεάλ εκτάκτως!",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-diathesima-liga-epipleon-eisithria-gia-to-sold-out-me-th-real/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-diathesima-liga-epipleon-eisithria-gia-to-sold-out-me-th-real",
           "pubDate": "Wed, 28 Jan 2026 14:55:53 +0000",
           "description": "Η ΚΑΕ Παναθηναϊκός AKTOR ανακοίνωσε την έκτακτη διάθεση περιορισμένου αριθμού εισιτηρίων για την αναμέτρηση με τη Ρεάλ Μαδρίτης. Σημαντική ενημέρωση για τους φίλους του Παναθηναϊκού εξέδωσε η ΚΑΕ, ενόψει της αναμέτρησης με την Ρεάλ Μαδρίτης την Τρίτη (03/02, 21:15), στο πλαίσιο της 26ης αγωνιστικής της regular season της EuroLeague. Παρότι το παιχνίδι έχει ανακοινωθεί ως […]",
