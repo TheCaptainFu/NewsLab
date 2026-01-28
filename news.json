@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T08:45:28.370Z",
+  "lastUpdated": "2026-01-28T08:50:27.171Z",
   "totalArticles": 178,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Θεσσαλονίκη: Συνελήφθησαν 2 ανήλικες για τον βάρβαρο ξυλοδαρμό της 17χρονης – Τραβούσαν σε βίντεο τα βασανιστήριά της",
+          "link": "https://www.newsit.gr/ellada/thessaloniki-synelifthisan-2-anilikes-gia-ton-varvaro-ksylodarmo-tis-17xronis-travousan-se-vinteo-ta-vasanistiria-tis/4585468/",
+          "pubDate": "Wed, 28 Jan 2026 08:47:18 +0000",
+          "description": "Χειροπέδες σε 2 ανήλικες πέρασαν οι αρχές για τον άγριο ξυλοδαρμό της 17χρονης στη Θεσσαλονίκη. Το θύμα νοσηλεύτηκε στο νοσοκομείο με μετατόπιση σπονδύλου και κρανιοεγκεφαλικές ...  \nTo άρθρο Θεσσαλονίκη: Συνελήφθησαν 2 ανήλικες για τον βάρβαρο ξυλοδαρμό της 17χρονης – Τραβούσαν σε βίντεο τα βασανιστήριά της δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1136756030-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Οπαδοί του ΠΑΟΚ τίμησαν τους επτά νεκρούς στο σημείο του τροχαίου δυστυχήματος στη Ρουμανία, δείτε βίντεο",
           "link": "https://www.protothema.gr/greece/article/1764637/opadoi-tou-paok-timisan-tous-epta-nekrous-sto-simeio-tou-trohaiou-dustuhimatos-sti-roumania-deite-video/?utm_source=rss",
@@ -185,6 +193,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "H SpaceX έτοιμη για εκρηκτική είσοδο στο χρηματιστήριο με αποτίμηση 1,5 τρισ.",
+          "link": "https://www.in.gr/2026/01/28/in-science/space/h-spacex-etoimi-gia-ekriktiki-eisodo-sto-xrimatistirio-apotimisi-15-tris/",
+          "pubDate": "Wed, 28 Jan 2026 10:47:39 +0300",
+          "description": "Η ενδεχόμενη δημόσια προσφορά της SpaceX θα ήταν η μεγαλύτερη όλων των εποχών, γράφουν οι Financial Times.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/spacex-1024x764-1-768x573.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Κρήτη: Δικάζονται σήμερα δύο γυναίκες που πήγαν να βάλουν φωτιά σε καφετέρια και παραλίγο να καούν ζωντανές, δείτε βίντεο",
           "link": "https://www.protothema.gr/greece/article/1764594/kriti-dikazodai-simera-duo-gunaikes-pou-pigan-na-valoun-fotia-se-kafeteria-kai-paraligo-na-kaoun-zodanes-deite-video/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 09:46:00 +0200",
@@ -212,7 +228,7 @@
           "title": "Ελένη Βουλγαράκη: Παραιτήθηκε από το ραδιόφωνο και θα ζήσει μόνιμα στη Λισαβόνα με τον Ιωαννίδη",
           "link": "https://www.in.gr/2026/01/28/go-fun/fizz/eleni-voulgaraki-paraitithike-apo-radiofono-kai-tha-zisei-monima-sti-lisavona-ton-ioannidi/",
           "pubDate": "Wed, 28 Jan 2026 10:35:32 +0300",
-          "description": "Η Ελένη Βουλγαράκη στο πλευρό του αγαπημένου της Φώτη Ιωαννίδη.",
+          "description": "Η Ελένη Βουλγαράκη στο πλευρό του αγαπημένου της Φώτη Ιωαννίδη. «Η αλήθεια είναι ότι είχαμε βάλει ένα deadline. Υπάρχουν υποχρεώσεις, στις οποίες δεν μπορώ να είμαι σωστή».",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/IMG_9709-1-768x429.jpg",
           "source": "In.gr"
         },
@@ -231,22 +247,6 @@
           "description": "Στο πλευρό των τραυματιών που άφησε πίσω του το τραγικό τροχαίο δυστύχημα στη Ρουμανία, βρέθηκε μερίδα οπαδών του ΠΑΟΚ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6826958-1-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Άδωνις Γεωργιάδης για το τροχαίο με τους οπαδούς του ΠΑΟΚ: Οι δύο τραυματίες μπορούν να επιστρέψουν και ο τρίτος είναι πολυτραυματίας",
-          "link": "https://www.newsit.gr/ellada/adonis-georgiadis-gia-to-troxaio-me-tous-opadous-tou-paok-oi-dyo-traymaties-mporoun-na-epistrepsoun-kai-o-tritos-einai-polytraymatias/4585365/",
-          "pubDate": "Wed, 28 Jan 2026 07:32:44 +0000",
-          "description": "Για την κατάσταση των τραυματιών οπαδών του ΠΑΟΚ που νοσηλεύονται σε νοσοκομείο στην Τιμισοάρα της Ρουμανίας μετά το τροχαίο δυστύχημα με τους επτά νεκρούς χθες ...  \nTo άρθρο Άδωνις Γεωργιάδης για το τροχαίο με τους οπαδούς του ΠΑΟΚ: Οι δύο τραυματίες μπορούν να επιστρέψουν και ο τρίτος είναι πολυτραυματίας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roumania-sintrimia-1200x781.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Βιολάντα: Η έλλειψη ανιχνευτών και το υπόγειο που μετατράπηκε σε «βόμβα» προπανίου προκαλώντας την φονική έκρηξη",
-          "link": "https://www.newsit.gr/ellada/violanta-i-elleipsi-anixneyton-kai-to-ypogeio-pou-metatrapike-se-vomva-propaniou-prokalontas-tin-foniki-ekriksi/4585375/",
-          "pubDate": "Wed, 28 Jan 2026 07:30:52 +0000",
-          "description": "Οι διάτρητες σωλήνες στο υπέδαφος του εργοστασίου «Βιολάντα», η διαρροή προπανίου για τουλάχιστον μια εβδομάδα και το σφραγισμένο υπόγειο που μετατράπηκε σε «δεξαμενή» του συγκεκριμένου ...  \nTo άρθρο Βιολάντα: Η έλλειψη ανιχνευτών και το υπόγειο που μετατράπηκε σε «βόμβα» προπανίου προκαλώντας την φονική έκρηξη δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekrixi-violanta-ergostasio-eurok-1200x721.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Αλ. Τσίπρας για τροχαίο με φιλάθλους του ΠΑΟΚ: Όταν 7 νέοι άνθρωποι χάνουν τη ζωή τους, οι λέξεις χάνουν τη σημασία τους",
+          "link": "https://www.naftemporiki.gr/politics/2064876/al-tsipras-gia-trochaio-me-filathloys-toy-paok-otan-7-neoi-anthropoi-chanoyn-ti-zoi-toys-oi-lexeis-chanoyn-ti-simasia-toys/?utm_source=rss&utm_medium=rss&utm_campaign=al-tsipras-gia-trochaio-me-filathloys-toy-paok-otan-7-neoi-anthropoi-chanoyn-ti-zoi-toys-oi-lexeis-chanoyn-ti-simasia-toys",
+          "pubDate": "Wed, 28 Jan 2026 08:49:46 +0000",
+          "description": "Τα συλλυπητηριά του στις οικογένειες των θυμάτων του πολύνεκρου τροχαίου που σημειώθηκε χθες στη Ρουμανία με βαν που μετέφερε φιλάθλους του ΠΑΟΚ εκφράζει ο πρώην πρωθυπουργός Αλ. Τσίπρας.\nΑλ. Τσίπρας για τροχαίο με φιλάθλους του ΠΑΟΚ: Όταν 7 νέοι άνθρωποι χάνουν τη ζωή τους, οι λέξεις χάνουν τη σημασία τους - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Αλέξης Τσίπρας: «Στεκόμαστε πλάι στα σπίτια που ορφάνεψαν, πλάι στον ΠΑΟΚ»",
           "link": "https://www.tanea.gr/2026/01/28/politics/aleksis-tsipras-stekomaste-plai-sta-spitia-poy-orfanepsan-plai-ston-paok/",
@@ -485,14 +493,6 @@
           "description": "Ο Δήμαρχος Πειραιά συμμετείχε σε εκδηλώσεις της Αδελφότητας Κρητών, του Ναυτικού Μουσείου, της Πανελλήνιας Ναυτικής Ομοσπονδίας και του Ηπειρωτικού Συνδέσμου, επισημαίνοντας τη σημασία της παράδοσης, της ιστορίας και της ενεργής συμμετοχής των πολιτών στα κοινά.",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/4C5A4163-1024x683.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Αλ. Χαρίτσης από τα Τρίκαλα: Ευθύνες για το εργατικό δυστύχημα υπάρχουν και στο κράτος",
-          "link": "https://www.naftemporiki.gr/politics/2064538/al-charitsis-apo-ta-trikala-eythynes-gia-to-ergatiko-dystychima-yparchoyn-kai-sto-kratos/?utm_source=rss&utm_medium=rss&utm_campaign=al-charitsis-apo-ta-trikala-eythynes-gia-to-ergatiko-dystychima-yparchoyn-kai-sto-kratos",
-          "pubDate": "Tue, 27 Jan 2026 13:10:17 +0000",
-          "description": "Τα συλλυπητήριά του στις οικογένειες και τους οικείους των πέντε εργατριών, που έχασαν τη ζωή τους στο εργατικό δυστύχημα στα Τρίκαλα, εξέφρασε ο πρόεδρος της Νέας Αριστεράς, Αλέξης Χαρίτσης, σε…\nΑλ. Χαρίτσης από τα Τρίκαλα: Ευθύνες για το εργατικό δυστύχημα υπάρχουν και στο κράτος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΑΕΚ - Ολυμπιακός: Ο elite Ντάνι Μάκελι για το ντέρμπι της 19ης αγωνιστικής",
+          "link": "https://www.gazzetta.gr/football/superleague/2510836/aek-olympiakos-o-elite-ntani-makeli-gia-ntermpi-tis-19is-agonistikis",
+          "pubDate": "Wed, 28 Jan 2026 10:49:18 +0200",
+          "description": "Γνωστοί έγιναν οι διαιτητές για την 19η αγωνιστική της Stoiximan Superleague με τον elite Ντάνι Μάκελι να είναι ο εκλεκτός για το ντέρμπι της ΑΕΚ με τον Ολυμπιακό.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2021-06/makeli_2.jpg?itok=iWp8xpes",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Συλλυπητήρια επιστολή από τον πρόεδρο της Κυπριακής Ομοσπονδίας ποδοσφαίρου",
           "link": "https://www.gazzetta.gr/football/europa-league/2510834/paok-dystyhima-sti-roymania-syllypitiria-epistoli-apo-ton-proedro",
           "pubDate": "Wed, 28 Jan 2026 10:41:46 +0200",
@@ -763,11 +771,19 @@
           "source": "Gazzetta"
         },
         {
+          "title": "Βιολάντα: Αυτοψία στα χωριά των γυναικών που έχασαν τη ζωή τους",
+          "link": "https://www.gazzetta.gr/plus/2510835/biolanta-aytopsia-sta-horia-ton-gynaikon-poy-ehasan-ti-zoi-toys",
+          "pubDate": "Wed, 28 Jan 2026 10:38:44 +0200",
+          "description": "Βουβός πόνος στα χωριά των γυναικών - Όταν μια τέτοια τραγωδία βρίσκει έναν τόσο μικρό τόπο, ο πόνος βιώνεται συλλογικά.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/trikala-violanta-nekres-1.jpg?itok=NaijPyA3",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: «Μπλόκαρε το τιμόνι» αποκάλυψε τραυματίας σε Έλληνα γιατρό",
           "link": "https://www.gazzetta.gr/football/europa-league/2510832/paok-dystyhima-sti-roymania-mplokare-timoni-apokalypse-traymatias-se",
           "pubDate": "Wed, 28 Jan 2026 10:37:52 +0200",
           "description": "Ο γιατρός Δημήτρης Κουκουλάς αποκαλύπτει τι του είπε ένας από τους τραυματίες οπαδούς του ΠΑΟΚ για τη στιγμή της σύγκρουσης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_troxaio_3_1.jpg?itok=8jUtxpFI",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/troxaio-paok.jpg?itok=e9PTS7fm",
           "source": "Gazzetta"
         },
         {
@@ -969,22 +985,6 @@
           "description": "Κάθε μέρα είναι ευκαιρία να κάνουμε «βουτιά» στην ιστορία της Formula 1 και του μηχανοκίνητου αθλητισμού. Ας δούμε τα πιο σημαντικά γεγονότα της ημέρας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dnomhenx0amh0bo.jpeg?itok=1lI8ZOZP",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ - Ολυμπιακός: Το παρελθόν κλείνει το... μάτι στους «ερυθρόλευκους»",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510760/agiax-olympiakos-parelthon-kleinei-mati-stoys-erythroleykoys",
-          "pubDate": "Wed, 28 Jan 2026 09:00:00 +0200",
-          "description": "Ο Ολυμπιακός έχει την παράδοση με το μέρος του κόντρα στον Άγιαξ, με δυο θρύλους του παρελθόντος να του δείχνουν τον δρόμο ενόψει της επίσκεψης στο Άμστερνταμ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/8496_1.jpg?itok=h-pKVUNk",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Η Μενεξιά του MasterChef έπαιξε με διαφορετικό όνομα στο Ρουκ Ζουκ και το X την περίμενε στη γωνία",
-          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
-          "pubDate": "Wed, 28 Jan 2026 09:00:00 +0200",
-          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/menexia.jpg.png?itok=e9IUIlW4",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Απίστευτο: Αποκαλύφθηκε ο λόγος που έγινε το δυστύχημα!",
+          "link": "https://panathinaikos24.gr/2026/01/28/618022/apisteyto-apokalyfthike-o-logos-pou-egine-to-dystyxima/",
+          "pubDate": "Wed, 28 Jan 2026 08:45:27 +0000",
+          "description": "Όλα όσα γίνονται γνωστά.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3811.webp?fit=560%2C315&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Το νέο μήνυμα του Ματίας Λεσόρ για το δυστύχημα στη Ρουμανία! (pic)",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/to-neo-mhnuma-tou-matias-lessort-gia-to-dustuxhma-sth-roumania-pic/?utm_source=rss&utm_medium=rss&utm_campaign=to-neo-mhnuma-tou-matias-lessort-gia-to-dustuxhma-sth-roumania-pic",
@@ -1206,14 +1214,6 @@
           "pubDate": "Tue, 27 Jan 2026 14:30:14 +0000",
           "description": "«Πάγωσε» η Ελλάδα με το σοκαριστικό τροχαίο στη Ρουμανία με επτά οπαδούς του ΠΑΟΚ νεκρούς.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/kataghrafi-Cp8jk.webp?fit=1300%2C700&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Δημοσκόπηση Metron Analysis: Η πρώτη πραγματική αναμέτρηση Καρυστιανού – Κωνσταντοπούλου έχει ξεκάθαρο νικητή",
-          "link": "https://panathinaikos24.gr/2026/01/27/617432/dimoskopisi-metron-analysis-i-proti-pragmatiki-anametrisi-karystianou-konstantopoulou-exei-ksekatharo-nikiti/",
-          "pubDate": "Tue, 27 Jan 2026 13:47:19 +0000",
-          "description": "Τι δείχνει η πρώτη δημοσκόπηση μετά τη συνέντευξη περί αμβλώσεων.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-23_08-27-22_855823-scaled-1.jpg?fit=1024%2C698&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
