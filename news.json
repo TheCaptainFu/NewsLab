@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T12:50:30.138Z",
+  "lastUpdated": "2026-01-28T12:55:24.256Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τραγωδία στον ΠΑΟΚ: Την Πέμπτη επιστρέφουν στη Θεσσαλονίκη οι τραυματίες",
+          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-tin-pempti-epistrefoun-sti-thessaloniki-oi-traymaties/4585739/",
+          "pubDate": "Wed, 28 Jan 2026 12:53:10 +0000",
+          "description": "Η νέα τραγωδία με τους οπαδούς του ΠΑΟΚ στη Ρουμανία έχει “παγώσει” την Ελλάδα και τα μονά αισιόδοξα μηνύματα έρχονται από την πλευρά των τραυματιών. ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Την Πέμπτη επιστρέφουν στη Θεσσαλονίκη οι τραυματίες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-2.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Σοκ από τη διπλή τραγωδία: Διαρροή- θάνατος στη Βιολάντα στα Τρίκαλα, ερωτήματα για το τροχαίο που σκότωσε 7 νέα παιδιά στην Τιμισοάρα",
+          "link": "https://www.protothema.gr/greece/article/1764806/sok-apo-ti-dipli-tragodia-diarroi-thanatos-sti-violada-erotimata-gia-to-trohaio-pou-skotose-7-nea-paidia/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 14:53:00 +0200",
+          "description": "Το protothema.gr μεταφέρει τις τελευταίες εξελίξεις από τα σημεία των γεγονότων- Διαρροή προπανίου σε φθαρμένο υπογειοποιημένο σωλήνα στη Βιολάντα -Αναμένονται ανακοινώσεις από την Πυροσβεστική - Ταυτοποιήθηκαν οι σοροί των επτά οπαδών του ΠΑΟΚ στη Ρουμανία",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/dipli_tragodia_maketa1.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Νέα απειλή Τραμπ: «Τεράστια αρμάδα κατευθύνεται προς το Ιράν, ικανή να εκτελέσει με βία την αποστολή της αν χρειαστεί»",
           "link": "https://www.newsit.gr/kosmos/nea-apeili-tramp-terastia-armada-kateythynetai-pros-to-iran-ikani-na-ektelesei-me-via-tin-apostoli-tis-an-xreiastei/4585738/",
@@ -29,7 +45,7 @@
           "link": "https://www.newsit.gr/oikonomia/finance/se-troxia-eksomalynsis-oi-eksagoges-trofimon-tis-ee-meta-to-rekor-tou-oktovriou/4585689/",
           "pubDate": "Wed, 28 Jan 2026 12:47:56 +0000",
           "description": "Μετά το ιστορικό υψηλό που καταγράφηκε τον Οκτώβριο του 2025, οι εξαγωγές αγροδιατροφικών προϊόντων της Ευρωπαϊκής Ένωσης (ΕΕ) επανέρχονται σε πιο ήπιους ρυθμούς, αποτυπώνοντας μια ...  \nTo άρθρο Σε τροχιά εξομάλυνσης οι εξαγωγές τροφίμων της ΕΕ μετά το ρεκόρ του Οκτωβρίου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/08/istock-1340887706-1200x675.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/istock-2216153772.jpg",
           "source": "NewsIT"
         },
         {
@@ -43,7 +59,7 @@
         {
           "title": "Στον εισαγγελέα οι τρεις συλληφθέντες για την τραγωδία στη Βιολάντα",
           "link": "https://www.protothema.gr/greece/article/1764805/ston-eisaggelea-oi-treis-sullifthedes-gia-tin-tragodia-sti-violada/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 14:43:47 +0200",
+          "pubDate": "Wed, 28 Jan 2026 14:43:00 +0200",
           "description": "Για την τραγωδία συνελήφθησαν ο ιδιοκτήτης του εργοστασίου Βιολάντα, ο τεχνικός ασφαλείας και ο υπεύθυνος βάρδιας",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/trikalabiolanta-xrm.jpg",
           "source": "Πρώτο Θέμα"
@@ -153,12 +169,20 @@
           "source": "NewsIT"
         },
         {
-          "title": "Στο 1,74% το επιτόκιο στα τρίμηνα έντοκα γραμμάτια του Ελληνικού Δημοσίου",
-          "link": "https://www.newsit.gr/oikonomia/finance/sto-1-74-to-epitokio-sta-trimina-entoka-grammatia-tou-ellinikou-dimosiou/4585692/",
-          "pubDate": "Wed, 28 Jan 2026 11:51:55 +0000",
-          "description": "Με ελαφρώς αυξημένο επιτόκιο θα γίνει η διάθεση της νέας σειράς τρίμηνων εντόκων γραμματίων του Ελληνικού Δημοσίου. Συγκεκριμένα, στη δημοπρασία εντόκων γραμματίων του Ελληνικού Δημοσίου ...  \nTo άρθρο Στο 1,74% το επιτόκιο στα τρίμηνα έντοκα γραμμάτια του Ελληνικού Δημοσίου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-2013089711-2-1200x675-1.jpg",
-          "source": "NewsIT"
+          "title": "Εργατικό δυστύχημα στα Τρίκαλα: «Όλοι έλεγαν ότι μυρίζει στο εργοστάσιο – Δεν θα το καταθέσουν γιατί φοβούνται»",
+          "link": "https://www.in.gr/2026/01/28/greece/ergatiko-dystyxima-sta-trikala-oloi-elegan-oti-myrizei-sto-ergostasio-den-tha-katathesoun-giati-fovountai/",
+          "pubDate": "Wed, 28 Jan 2026 14:54:56 +0300",
+          "description": "Μαρτυρίες εργαζομένων και συγγενών θυμάτων κάνουν λόγο για προειδοποιητικά σημάδια στο εργοστάσιο στα Τρίκαλα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827005-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Μαχαιρώθηκαν οπαδοί της Τσέλσι στην Ιταλία (vid, pics)",
+          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/maxairothikan-opadoi-tis-tselsi-stin-italia-vid-pics/",
+          "pubDate": "Wed, 28 Jan 2026 14:54:17 +0300",
+          "description": "Ενώ ο ποδοσφαιρικός κόσμος θρηνεί τον χαμό των επτά οπαδών του ΠΑΟΚ, με μηνύματα συμπαράστασης από οπαδικά κινήματα σε ολόκληρο τον κόσμο, στη Νάπολη μαχαιρώθηκαν δύο οπαδοί της Τσέλσι πριν το ματς της τοπικής ομάδας με τους «μπλε».",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/napoli-fans-28126-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Ο Γρηγόρης Αρναούτογλου σταματά προσωρινά τις εκπομπές στο ραδιόφωνο σε ένδειξη πένθους για τους νεκρούς στη Βιολάντα και στο τροχαίο με τους οπαδούς του ΠΑΟΚ",
@@ -166,6 +190,14 @@
           "pubDate": "Wed, 28 Jan 2026 11:51:55 +0000",
           "description": "Το σοκαριστικό τροχαίο δυστύχημα στη Ρουμανία που στοίχησε τη ζωή σε 7 νέους ανθρώπους – οπαδούς του ΠΑΟΚ που ταξίδευαν στη Λυών για να στηρίξουν ...  \nTo άρθρο Ο Γρηγόρης Αρναούτογλου σταματά προσωρινά τις εκπομπές στο ραδιόφωνο σε ένδειξη πένθους για τους νεκρούς στη Βιολάντα και στο τροχαίο με τους οπαδούς του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grigoris-arnaoutoglou-ndp-1200x707.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Στο 1,74% το επιτόκιο στα τρίμηνα έντοκα γραμμάτια του Ελληνικού Δημοσίου",
+          "link": "https://www.newsit.gr/oikonomia/finance/sto-1-74-to-epitokio-sta-trimina-entoka-grammatia-tou-ellinikou-dimosiou/4585692/",
+          "pubDate": "Wed, 28 Jan 2026 11:51:55 +0000",
+          "description": "Με ελαφρώς αυξημένο επιτόκιο θα γίνει η διάθεση της νέας σειράς τρίμηνων εντόκων γραμματίων του Ελληνικού Δημοσίου. Συγκεκριμένα, στη δημοπρασία εντόκων γραμματίων του Ελληνικού Δημοσίου ...  \nTo άρθρο Στο 1,74% το επιτόκιο στα τρίμηνα έντοκα γραμμάτια του Ελληνικού Δημοσίου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-2013089711-2-1200x675-1.jpg",
           "source": "NewsIT"
         },
         {
@@ -215,38 +247,6 @@
           "description": "Τρεις επιβάτες του βαν τραυματίστηκαν, ενώ ο οδηγός του λεωφορείου και οι 35 μαθητές που επέβαιναν σε αυτό είναι καλά στην υγεία τους",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/leoforeio.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Κρίστι Νόεμ: Μετά τον διοικητή της ICE Γκρεγκ Μποβίνο, στο στόχαστρο η «Homeland Barbie»",
-          "link": "https://www.newsit.gr/kosmos/kristi-noem-meta-ton-dioikiti-tis-ice-gkregk-mpovino-sto-stoxastro-i-homeland-barbie/4585674/",
-          "pubDate": "Wed, 28 Jan 2026 11:46:00 +0000",
-          "description": "Ξεχειλίζει η οργή στη Μινεάπολη μετά τις εν ψυχρώ εκτελέσεις δύο νέων ανθρώπων, της Ρενέ Γκουντ και του Άλεξ Πρέτι από πράκτορες της ICE – ...  \nTo άρθρο Κρίστι Νόεμ: Μετά τον διοικητή της ICE Γκρεγκ Μποβίνο, στο στόχαστρο η «Homeland Barbie» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kristi-noem-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Lane Assist: Πώς λειτουργεί, σε τι χρησιμεύει, τι πρέπει να προσέξουμε",
-          "link": "https://www.newsit.gr/auto/lane-assist-pos-leitourgei-se-ti-xrisimeyei-ti-prepei-na-proseksoume/4585676/",
-          "pubDate": "Wed, 28 Jan 2026 11:42:07 +0000",
-          "description": "Το τρομερό τροχαίο δυστύχημα με 7 συνανθρώπους μας, Έλληνες, να χάνουν τη ζωή τους στο δρόμο, έφερε στο προσκήνιο, ύστερα και από αναφορά ενός εκ ...  \nTo άρθρο Lane Assist: Πώς λειτουργεί, σε τι χρησιμεύει, τι πρέπει να προσέξουμε δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lane-assist-01.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συμμορία με ποδήλατα διέρρηξε τα ΚΤΕΛ Καλαμάτας: Ξήλωσαν το παράθυρο, μπήκαν έρποντας και πήραν 200 ευρώ, δείτε βίντεο",
-          "link": "https://www.protothema.gr/greece/article/1764766/summoria-me-podilata-dierrixe-ta-ktel-kalamatas-xilosan-to-parathuro-bikan-erpodas-kai-piran-200-euro-deite-video/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 13:41:48 +0200",
-          "description": "Γνώριζαν πως πέρα από τις κάμερες υπάρχει και συναγερμός που προσπάθησαν να τον αποφύγουν κάνοντας… έρπειν",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/kalamata.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ιδιωτική οικοδομική δραστηριότητα: Μείωση όγκου αλλά αύξηση αδειών τον Οκτώβριο",
-          "link": "https://www.newsit.gr/oikonomia/finance/idiotiki-oikodomiki-drastiriotita-meiosi-ogkou-alla-ayksisi-adeion-ton-oktovrio/4585670/",
-          "pubDate": "Wed, 28 Jan 2026 11:41:40 +0000",
-          "description": "Μείωση 4,4% καταγράφηκε στον όγκο της ιδιωτικής οικοδομικής δραστηριότητας τον Οκτώβριο πέρυσι, σύμφωνα με στοιχεία της ΕΛΣΤΑΤ. Σύμφωνα με την ΕΛΣΤΑΤ, τον συγκεκριμένο μήνα εκδόθηκαν ...  \nTo άρθρο Ιδιωτική οικοδομική δραστηριότητα: Μείωση όγκου αλλά αύξηση αδειών τον Οκτώβριο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1944772735-1200x675-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Π. Μαρινάκης: Οι μεγαλύτεροι πολιτικοί απατεώνες κάνουν «καριέρα» πάνω σε τραγωδίες",
+          "link": "https://www.naftemporiki.gr/politics/2065004/p-marinakis-oi-megalyteroi-politikoi-apateones-kanoyn-kariera-pano-se-tragodies/?utm_source=rss&utm_medium=rss&utm_campaign=p-marinakis-oi-megalyteroi-politikoi-apateones-kanoyn-kariera-pano-se-tragodies",
+          "pubDate": "Wed, 28 Jan 2026 12:51:31 +0000",
+          "description": "Για τις εξελίξεις γύρω από τη φονική έκρηξη στο εργοστάσιο της «Βιολάντα» στα Τρίκαλα, αλλά και για τη συζήτηση που άνοιξε αναφορικά με τα εργατικά δυστυχήματα στη χώρα μας τοποθετήθηκε…\nΠ. Μαρινάκης: Οι μεγαλύτεροι πολιτικοί απατεώνες κάνουν «καριέρα» πάνω σε τραγωδίες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "ΠΑΣΟΚ: «Σκληρή θεσμικότητα» μπροστά στις νάρκες",
           "link": "https://www.tanea.gr/print/2026/01/28/politics/skliri-thesmikotita-mprosta-stis-narkes/",
@@ -485,14 +493,6 @@
           "description": "«Είμαστε έτοιμοι να παράσχουμε κάθε είδους βοήθεια που θα χρειαστεί ή να τους μεταφέρουμε στην Ελλάδα εάν αυτό κρίνουν οι γιατροί», σημείωσε σε ανάρτησή του ο υπουργός Υγείας για το τροχαίο στη Ρουμανία.",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/01/21/Adonis-Georgiadis-1024x678.jpg",
           "source": "Το Βήμα"
-        },
-        {
-          "title": "Ν. Βλαχάκος: Δέχθηκα προσωπική προσβολή από τη Ζωή Κωνσταντοπούλου",
-          "link": "https://www.naftemporiki.gr/politics/2064593/n-vlachakos-dechthika-prosopiki-prosvoli-apo-ti-zoi-konstantopoyloy/?utm_source=rss&utm_medium=rss&utm_campaign=n-vlachakos-dechthika-prosopiki-prosvoli-apo-ti-zoi-konstantopoyloy",
-          "pubDate": "Tue, 27 Jan 2026 14:32:59 +0000",
-          "description": "Για προσωπική προσβολή μίλησε ο Νικόλαος Βλαχάκος, βουλευτής ΝΔ και αδελφός του ήρωα των Ιμίων, Παναγιώτη Βλαχάκου, αναφερόμενος στη στάση της προέδρου της Πλεύσης Ελευθερίας, Ζωής Κωνσταντοπούλου η οποία τον…\nΝ. Βλαχάκος: Δέχθηκα προσωπική προσβολή από τη Ζωή Κωνσταντοπούλου - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -503,7 +503,7 @@
         {
           "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
           "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 12:49:59 GMT",
+          "pubDate": "Wed, 28 Jan 2026 12:50:06 GMT",
           "description": "He has been described as an avid outdoorsman who loved mountain biking.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/fc00db50-fb52-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
@@ -601,6 +601,14 @@
           "link": "http://gr.euronews.com/health/2026/01/28/countries-worldwide-must-improve-the-quality-of-school-food-as-child-obesity-rises-at-an-a",
           "pubDate": "Wed, 28 Jan 2026 11:37:17 +0100",
           "description": "Ένα στα δέκα παιδιά παγκοσμίως είναι παχύσαρκα. Ο ΠΟΥ καλεί τις κυβερνήσεις να αναθεωρήσουν τα σχολικά γεύματα και να διαμορφώσουν υγιεινές συνθήκες διατροφής.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Η τέχνη της αντίστασης: Η Ιρανή φωτογράφος Ayna Moazzen για ταυτότητα και γέφυρες πολιτισμού",
+          "link": "http://gr.euronews.com/culture/2026/01/28/the-art-of-resistance-iranian-photographer-ayna-moazzen-on-identity-and-building-cultural",
+          "pubDate": "Wed, 28 Jan 2026 11:28:07 +0100",
+          "description": "Η Ιρανή εικαστικός Άινα Μοαζέν ζει ανάμεσα σε Ιταλία, Αζερμπαϊτζάν και τον Κόλπο και επιδιώκει να μετατρέψει τη διεθνική της εμπειρία σε πολιτιστικό διάλογο και αντίσταση στη φονική καταστολή αντικυβερνητικών διαδηλώσεων από το καθεστώς της Τεχεράνης.",
           "thumbnail": null,
           "source": "Euronews"
         },
@@ -731,14 +739,6 @@
           "description": "Εναέριες εικόνες από πλημμυρισμένα χωράφια στα περίχωρα του Μαλστρουά, στο Μορμπιάν, ένα από τα τέσσερα διαμερίσματα της Βρετάνης σε συναγερμό για πλημμύρες από τη Météo-France.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Αυστραλία: Ακραίος καύσωνας με θερμοκρασίες που πλησιάζουν τους 50 βαθμούς",
-          "link": "http://gr.euronews.com/2026/01/28/aystralia-akraios-kaysonas-me-thermokrasies-poy-plisiazoyn-toys-50-vathmoys",
-          "pubDate": "Wed, 28 Jan 2026 09:47:04 +0100",
-          "description": "Αρκετοί αγώνες στο τουρνουά τένις Australian Open αναβλήθηκαν λόγω της ζέστης.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,30 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Μπενίτεθ: «Οι οπαδοί να πιστέψουν στο πλάνο, πιθανό να δούμε τον Αντίνο με την Κηφισιά»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510905/mpeniteth-oi-opadoi-na-pistepsoyn-sto-plano-pithano-na-doyme-ton",
+          "pubDate": "Wed, 28 Jan 2026 14:53:21 +0200",
+          "description": "Ο Ράφα Μπενίτεθ έκανε μία μεγάλη τοποθέτηση για όλα όσα συμβαίνουν στον Παναθηναϊκό με αφορμή την συνέντευξη Τύπου του αγώνα με την Ρομα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benitez_intime_8.jpg?itok=6b1NNxps",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τραγωδία στον ΠΑΟΚ: Την Πέμπτη επιστρέφουν στη Θεσσαλονίκη οι τραυματίες",
+          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-tin-pempti-epistrefoun-sti-thessaloniki-oi-traymaties/4585739/",
+          "pubDate": "Wed, 28 Jan 2026 12:53:10 +0000",
+          "description": "Η νέα τραγωδία με τους οπαδούς του ΠΑΟΚ στη Ρουμανία έχει “παγώσει” την Ελλάδα και τα μονά αισιόδοξα μηνύματα έρχονται από την πλευρά των τραυματιών. ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Την Πέμπτη επιστρέφουν στη Θεσσαλονίκη οι τραυματίες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-2.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ολυμπιακός: Ένα σημείο κλειδί της μεγάλης μάχης στο Άμστερνταμ",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510904/olympiakos-ena-simeio-kleidi-tis-megalis-mahis-sto-amsterntam",
+          "pubDate": "Wed, 28 Jan 2026 14:52:13 +0200",
+          "description": "Ο Κ. Νικολακόπουλος γράφει στο blog του στο gazzetta μία τελευταία λέξη για το μεγάλο παιχνίδι του Ολυμπιακού με τον Άγιαξ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/4937655.jpg?itok=UGOAtBgm",
+          "source": "Gazzetta"
+        },
         {
           "title": "Καθημερινό «μαρτύριο» στον Κηφισό: Αυτές είναι οι προτάσεις που εξετάστηκαν (vid)",
           "link": "https://www.gazzetta.gr/plus/2510900/kykloforiako-martyrio-ston-kifiso-aytes-einai-oi-protaseis-poy-exetastikan",
@@ -960,30 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 13:27:46 +0200",
           "description": "Για τη διαδικασία ταυτοποίησης των οπαδών του ΠΑΟΚ που έχασαν τη ζωή τους στη Ρουμανία αναφέρθηκε ο Γιάννης Λοβέρδος.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_2_0.jpg?itok=e1G24PFB",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Επαγγελματίας ο Βανδήρας",
-          "link": "https://www.gazzetta.gr/football/superleague/2510883/panathinaikos-epaggelmatias-o-bandiras",
-          "pubDate": "Wed, 28 Jan 2026 13:21:45 +0200",
-          "description": "Το πρώτο του επαγγελματικό συμβόλαιο υπέγραψε ο Αλέξανδρος Βανδήρας και ανήκει με κάθε επισημότητα στην οικογένεια του Παναθηναϊκού, ο οποίος θα φοράει τα πράσινα μέχρι το καλοκαίρι του 2028.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bandiras.jpg?itok=PtJKQmEB",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ρόμα: Με Ντιμπάλα και Τσιμίκα η αποστολή ενόψει Παναθηναϊκού",
-          "link": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2510882/roma-me-ntimpala-kai-tsimika-i-apostoli-enopsei",
-          "pubDate": "Wed, 28 Jan 2026 13:19:15 +0200",
-          "description": "Ο Τζαν Πιέρο Γκασπερίνι ανακοίνωσε την αποστολή της Ρόμα ενόψει του αυριανού (29/1, 22:00) αγώνα στην Αθήνα με τον Παναθηναϊκό. Μέσα Ντιμπάλα και Τσιμίκας. Ποιοι απουσιάζουν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/tsimikas_roma.jpg?itok=YY_vnNA4",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οι θύρες στο Groupama Stasdium που θα μείνουν κλειστές",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510881/paok-dystyhima-sti-roymania-oi-thyres-sto-groupama-stasdium-poy-tha",
-          "pubDate": "Wed, 28 Jan 2026 13:17:59 +0200",
-          "description": "Οι οπαδοί του ΠΑΟΚ σ' ένδειξη πένθους δεν θα βρεθούν στο γήπεδο της Λυών και η ΠΑΕ κάλεσε τον κόσμο να σεβαστεί την απόφαση.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_3_1.jpg?itok=sst-fINQ",
           "source": "Gazzetta"
         }
       ]
