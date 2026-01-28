@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T16:00:41.529Z",
+  "lastUpdated": "2026-01-28T16:05:29.319Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,9 +9,25 @@
       "color": "red",
       "articles": [
         {
-          "title": "Την Πέμπτη η κηδεία της Σταυρούλας Μπουκουβάλα που έχασε τη ζωή της στο εργοστάσιο της Βιολάντα",
+          "title": "ΠΑΟΚ: Βαρύ το κλίμα στην αναχώρηση της αποστολής του Δικεφάλου για το παιχνίδι με τη Λιόν",
+          "link": "https://www.newsit.gr/athlitika/paok-vary-to-klima-stin-anaxorisi-tis-apostolis-tou-dikefalou-gia-to-paixnidi-me-ti-lion/4585987/",
+          "pubDate": "Wed, 28 Jan 2026 16:01:13 +0000",
+          "description": "Η αποστολή του ΠΑΟΚ αναχώρησε για τη Γαλλία με το κλίμα να είναι βαρύ ενόψει του παιχνιδιού κόντρα στη Λιόν (29/01/26, 22:00), με το οποίο ...  \nTo άρθρο ΠΑΟΚ: Βαρύ το κλίμα στην αναχώρηση της αποστολής του Δικεφάλου για το παιχνίδι με τη Λιόν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/konstantelias-3-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΣΥΡΙΖΑ κατά Παύλου Μαρινάκη για τις δηλώσεις του σχετικά με το δυστύχημα στα Τρίκαλα: Ντροπή",
+          "link": "https://www.newsit.gr/politikh/syriza-kata-paylou-marinaki-gia-tis-diloseis-tou-sxetika-me-to-dystyxima-sta-trikala-ntropi/4585975/",
+          "pubDate": "Wed, 28 Jan 2026 16:00:26 +0000",
+          "description": "Σκληρή κριτική στον κυβερνητικό εκπρόσωπο, Παύλο Μαρινάκη, ασκεί ο ΣΥΡΙΖΑ, με αφορμή τη δήλωσή του ότι το πολύνεκρο δυστύχημα στο εργοστάσιο «Βιολάντα»  στα Τρίκαλα «δεν ...  \nTo άρθρο ΣΥΡΙΖΑ κατά Παύλου Μαρινάκη για τις δηλώσεις του σχετικά με το δυστύχημα στα Τρίκαλα: Ντροπή δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grafeia-syriza-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Την Πέμπτη η κηδεία της Σταυρούλας Μπουκοβάλα που έχασε τη ζωή της στο εργοστάσιο της Βιολάντα",
           "link": "https://www.protothema.gr/greece/article/1764918/tin-pebti-i-kideia-tis-stauroulas-boukouvala-pou-ehase-ti-zoi-tis-sto-ergostasio-tis-violada/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 17:58:32 +0200",
+          "pubDate": "Wed, 28 Jan 2026 17:58:00 +0200",
           "description": "Η εξόδιος ακολουθία θα πραγματοποιηθεί στις 14:00, στον Ιερό Ναό Αγίου Αθανασίου στο Προάστιο Καρδίτσας",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/xrwma-boukovala.jpg",
           "source": "Πρώτο Θέμα"
@@ -177,6 +193,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Η εταιρεία crypto που θέλει να γίνει κεντρική τράπεζα",
+          "link": "https://www.in.gr/2026/01/28/economy/diethnis-oikonomia/etaireia-crypto-pou-thelei-na-ginei-kentriki-trapeza/",
+          "pubDate": "Wed, 28 Jan 2026 18:00:57 +0300",
+          "description": "Η Tether αποσκοπεί να γίνει μια από τις μεγαλύτερες κεντρικές τράπεζες χρυσού στον κόσμο",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T173634Z_1122562651_RC22PGAELBNM_RTRMADP_5_GLOBAL-GOLD-TETHER-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Πέθανε ο Ανδρέας Μπέλλης – Η συνεργασία με τον Μιχάλη Κακογιάννη και η «Ρόζα»",
+          "link": "https://www.in.gr/2026/01/28/life/culture-live/pethane-o-andreas-mpellis-synergasia-ton-mixali-kakogianni-kai-roza/",
+          "pubDate": "Wed, 28 Jan 2026 18:00:45 +0300",
+          "description": "Ο Ανδρέας Μπέλλης, ο οποίος πέθανε στις 28 Ιανουαρίου σε ηλικία 87 ετών, διετέλεσε διευθυντής φωτογραφίας σε μια σειρά από ταινίες που έγραψαν ιστορία.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/h0484656-768x576.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Νεκροί οπαδοί του ΠΑΟΚ: «Τα θυμάμαι όλα, θρηνώ τους φίλους μου, ήμασταν αδέρφια» λέει τραυματίας του τροχαίου στη Ρουμανία",
           "link": "https://www.newsit.gr/ellada/nekroi-opadoi-tou-paok-ta-thymamai-ola-thrino-tous-filous-mou-imastan-aderfia-leei-traymatias-tou-troxaiou-sti-roumania/4585888/",
           "pubDate": "Wed, 28 Jan 2026 14:58:24 +0000",
@@ -215,38 +247,6 @@
           "description": "Ο πρωταθλητής του αλπικού σκι Αλέξανδρος Γκιννής επελέγη από την Ελληνική Ολυμπιακή Επιτροπή ως Σημαιοφόρος της Ελλάδας στο Μιλάνο-Κορτίνα 2026.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/A.-ΓΚΙΝΝΗΣ-768x513.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Ολυμπιακός – Μπαρτσελόνα: Με Κλάιμπερν οι Καταλανοί στο ΣΕΦ",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-mpartselona-me-klaimpern-oi-katalanoi-sto-sef/4585886/",
-          "pubDate": "Wed, 28 Jan 2026 14:50:49 +0000",
-          "description": "Ενισχυμένη θα παραταχθεί η Μπαρτσελόνα στο ΣΕΦ για την αναμέτρηση με τον Ολυμπιακό για την 25η αγωνιστική της Euroleague. Ο Ολυμπιακό αντιμετωπίζει την Μπαρτσελόνα το ...  \nTo άρθρο Ολυμπιακός – Μπαρτσελόνα: Με Κλάιμπερν οι Καταλανοί στο ΣΕΦ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/clyburn-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τραμπ: Μεγάλη αμερικανική «αρμάδα» κινείται προς το Ιράν",
-          "link": "https://www.in.gr/2026/01/28/world/tramp-megali-amerikaniki-armada-kineitai-pros-iran/",
-          "pubDate": "Wed, 28 Jan 2026 17:48:58 +0300",
-          "description": "O Τραμπ ανέφερε ότι η αρμάδα, με επικεφαλής το αεροπλανοφόρο USS Abraham Lincoln, κινείται με «μεγάλη ταχύτητα, με μεγάλη ισχύ, ενθουσιασμό και αποφασιστικότητα» προς το Ιράν",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-28T023524Z_136559852_RC22AJASVW10_RTRMADP_5_USA-TRUMP-768x520.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Mercedes-Benz: Προσθέτει ψηφιακά εργαλεία στα ελαφρά επαγγελματικά της",
-          "link": "https://www.newsit.gr/auto/mercedes-benz-prosthetei-psifiaka-ergaleia-sta-elafra-epaggelmatika-tis/4584865/",
-          "pubDate": "Wed, 28 Jan 2026 14:48:53 +0000",
-          "description": "Αναβαθμίζει τις παροχές της προς τους επαγγελματίες οδηγούς η Mercedes-Benz Vans, καθώς προσθέτει ψηφιακά εργαλεία που ενισχύουν τη συνδεσιμότητα, την αποδοτικότητα και τον προγραμματισμό στην ...  \nTo άρθρο Mercedes-Benz: Προσθέτει ψηφιακά εργαλεία στα ελαφρά επαγγελματικά της δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mercedes-benz-vito-digital-01.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Το Ιράν δηλώνει «έτοιμο» για συνομιλίες με τις ΗΠΑ όμως «θα απαντήσει αν προκληθεί»",
-          "link": "https://www.newsit.gr/kosmos/to-iran-dilonei-etoimo-gia-synomilies-me-tis-ipa-omos-tha-apantisei-an-proklithei/4585901/",
-          "pubDate": "Wed, 28 Jan 2026 14:48:46 +0000",
-          "description": "Το Ιράν είναι προετοιμασμένο για συνομιλίες με τις ΗΠΑ αλλά θα αμυνθεί εάν προκληθεί, διαμήνυσε σήμερα η διπλωματική αποστολή της Τεχεράνης στον ΟΗΕ. «Το Ιράν ...  \nTo άρθρο Το Ιράν δηλώνει «έτοιμο» για συνομιλίες με τις ΗΠΑ όμως «θα απαντήσει αν προκληθεί» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iran-12-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -255,7 +255,7 @@
       "color": "purple",
       "articles": [
         {
-          "title": "Βουλή: Εκρηκτική αντιπαράθεση για τα Ίμια  – «Κυβέρνηση Σημίτη, Αρσένης και Πάγκαλος τραγικοί, μοιραίοι και άβουλοι»",
+          "title": "Βουλή: Εκρηκτική αντιπαράθεση για τα Ίμια – «Κυβέρνηση Σημίτη, Αρσένης και Πάγκαλος, τραγικοί, μοιραίοι και άβουλοι»",
           "link": "https://www.tanea.gr/2026/01/28/politics/voyli-ekriktiki-antiparathesi-gia-ta-imia-kyvernisi-simiti-arsenis-kai-pagkalos-tragikoi-m/",
           "pubDate": "Wed, 28 Jan 2026 15:55:46 +0000",
           "description": "Τα θέματα των Ιμίων και των κυριαρχικών δικαιωμάτων της χώρας αποτέλεσαν σημείο έντονης αντιπαράθεσης στην Ολομέλεια κατά την συζήτηση του νομοσχεδίου του Υπουργείου Πολιτισμού για την προστασία των έργων τέχνης και των συλλεκτικών αντικειμένων. Ο κοινοβουλευτικός εκπρόσωπος της ΝΔ Μακάριος Λαζαρίδης απαντώντας στον πρόεδρο της “Νίκης” Δημήτρη Νατσιό για τις αναφορές που έκανε νωρίτερα σχετικά […]",
@@ -561,7 +561,7 @@
           "link": "https://www.bbc.com/news/articles/cd6wpdpylj1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 14:54:59 GMT",
           "description": "Donald Trump's son told officers he had seen the victim being beaten up during a video call in January 2025.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac3/live/c16467a0-f7a6-11f0-9dfa-8ff76e953b19.jpg",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca7/live/fe544c10-fc61-11f0-9972-d3f265c101c6.jpg",
           "source": "BBC News"
         },
         {
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ηρακλής - Κολοσσός 80-76: Άλλαξε πρόσωπο και πανηγύρισε ιστορική πρόκριση ο «γηραιός»!",
+          "link": "https://www.gazzetta.gr/basketball/kypello-elladas-mpasket/2510953/iraklis-kolossos-80-76-allaxe-prosopo-kai-panigyrise",
+          "pubDate": "Wed, 28 Jan 2026 18:03:39 +0200",
+          "description": "Ο Ηρακλής πανηγύρισε την πρόκριση στο Final 8 του Κυπέλλου στην Κρήτη, επικρατώντας του Κολοσσού με 80-76 στο Ιβανώφειο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/forman_eurokinisi.jpg?itok=Sz75K93N",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Βαρύ το κλίμα στην αναχώρηση της αποστολής του Δικεφάλου για το παιχνίδι με τη Λιόν",
+          "link": "https://www.newsit.gr/athlitika/paok-vary-to-klima-stin-anaxorisi-tis-apostolis-tou-dikefalou-gia-to-paixnidi-me-ti-lion/4585987/",
+          "pubDate": "Wed, 28 Jan 2026 16:01:13 +0000",
+          "description": "Η αποστολή του ΠΑΟΚ αναχώρησε για τη Γαλλία με το κλίμα να είναι βαρύ ενόψει του παιχνιδιού κόντρα στη Λιόν (29/01/26, 22:00), με το οποίο ...  \nTo άρθρο ΠΑΟΚ: Βαρύ το κλίμα στην αναχώρηση της αποστολής του Δικεφάλου για το παιχνίδι με τη Λιόν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/konstantelias-3-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Η εργασιακή ασφάλεια σε κατάρρευση: Μόλις τρεις επιθεωρητές για 6.000 επιχειρήσεις σε Τρίκαλα-Καρδίτσα",
           "link": "https://www.gazzetta.gr/plus/2510952/i-ergasiaki-asfaleia-se-katarreysi-molis-treis-epitheorites-gia-6000-epiheiriseis-se",
           "pubDate": "Wed, 28 Jan 2026 17:59:00 +0200",
@@ -799,7 +815,7 @@
           "link": "https://www.gazzetta.gr/football/champions-league/2510949/olympiakos-gemizei-me-erythroleykoys-filathloys-i-damm-square-vid",
           "pubDate": "Wed, 28 Jan 2026 17:40:42 +0200",
           "description": "Το Άμστερνταμ χορεύει από νωρίς στους ρυθμούς των συνθημάτων των φίλων του Ολυμπιακού. ΑΠΟΣΤΟΛΗ ΣΤΗΝ ΟΛΛΑΝΔΙΑ ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kosmos_1_oly_2.jpg?itok=Padfzrvx",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/opadoi-amsterdam.jpeg?itok=txwbW_3K",
           "source": "Gazzetta"
         },
         {
@@ -969,22 +985,6 @@
           "description": "Μαζικές απολύσεις ετοιμάζεται να κάνει η Amazon αφού θα περικόψει 16.000 θέσεις εργασίας παγκοσμίως.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bryan-angelo-ftixadbtqgy-unsplash.jpg?itok=xo_3aAd7",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Φουρνιέ στους οπαδούς του Ολυμπιακού ενόψει Μπαρτσελόνα: «Χρειαζόμαστε να ταρακουνήσετε το ΣΕΦ»",
-          "link": "https://www.newsit.gr/athlitika/fournie-stous-opadous-tou-olympiakou-enopsei-mpartselona-xreiazomaste-na-tarakounisete-to-sef/4585881/",
-          "pubDate": "Wed, 28 Jan 2026 14:37:54 +0000",
-          "description": "Ο Ολυμπιακός θα αντιμετωπίσει την Μπαρτσελόνα στο πλαίσιο της 25ης αγωνιστικής της Euroleague (29/01/26, 21:15) και ο Εβάν Φουρνιέ μέσω των social media έδωσε το ...  \nTo άρθρο Φουρνιέ στους οπαδούς του Ολυμπιακού ενόψει Μπαρτσελόνα: «Χρειαζόμαστε να ταρακουνήσετε το ΣΕΦ» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fournier-4-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός: Ο Αντρέ Λουίζ στο Άμστερνταμ, θα παρακολουθήσει από κοντά τον «τελικό» των Πειραιωτών",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-o-antre-louiz-sto-amsterntam-tha-parakolouthisei-apo-konta-ton-teliko-ton-peiraioton/4585887/",
-          "pubDate": "Wed, 28 Jan 2026 14:37:46 +0000",
-          "description": "Στην “Johan Cruyff Arena” θα βρεθεί το βράδυ (28.01.2026, 22:00) ο Αντρέ Λουίς, προκειμένου να παρακολουθήσει από κοντά το Άγιαξ – Ολυμπιακός, για το φινάλε ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Ο Αντρέ Λουίζ στο Άμστερνταμ, θα παρακολουθήσει από κοντά τον «τελικό» των Πειραιωτών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/andreluiz-1200x842.jpg",
-          "source": "NewsIT"
         }
       ]
     },
