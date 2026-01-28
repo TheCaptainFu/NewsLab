@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T20:20:32.453Z",
+  "lastUpdated": "2026-01-28T20:25:25.848Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τραγωδία ΠΑΟΚ: Στην Τούμπα ο Βαρθολομαίος με λευκά τριαντάφυλλα – «Ο πόνος είναι δυσβάσταχτος»",
+          "link": "https://www.newsit.gr/ellada/tragodia-paok-stin-toumpa-o-vartholomaios-me-leyka-triantafylla-o-ponos-einai-dysvastaxtos/4586218/",
+          "pubDate": "Wed, 28 Jan 2026 20:23:41 +0000",
+          "description": "Ο Οικουμενικός Πατριάρχης, Βαρθολομαίος, βρέθηκε στην Τούμπα για να αποτίσει φόρο τιμής στους 7 φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο τροχαίο δυστύχημα ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Στην Τούμπα ο Βαρθολομαίος με λευκά τριαντάφυλλα – «Ο πόνος είναι δυσβάσταχτος» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vartholomaios-1200x801.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Έκρηξη στη Βιολάντα: Έφοδος του Ρουβίκωνα στο σπίτι του ιδιοκτήτη της βιομηχανίας Κωνσταντίνου Τζιωρτζιώτη",
           "link": "https://www.newsit.gr/ellada/ekriksi-sti-violanta-efodos-tou-rouvikona-sto-spiti-tou-idioktiti-tis-viomixanias-konstantinou-tziortzioti/4586206/",
@@ -73,11 +81,11 @@
           "source": "NewsIT"
         },
         {
-          "title": "Συντετριμμένος ο Πατριάρχης Βαρθολομαίος επισκέφθηκε την Τούμπα ",
+          "title": "Συντετριμμένος ο Πατριάρχης Βαρθολομαίος επισκέφθηκε την Τούμπα: Είμαι κοντά στους οικείους και σε όλους τους οπαδούς του ΠΑΟΚ",
           "link": "https://www.protothema.gr/greece/article/1765083/sudetrimmenos-o-patriarhis-vartholomaios-episkefthike-tin-touba/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 21:56:00 +0200",
           "description": "Σε τέτοιες στιγμές τα πολλά λόγια δεν ωφελούν και δύσκολα καταπραΰνουν τον ανείπωτο πόνο, ανέφερε σε δηλώσεις του",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-28/bartholomaios.jpeg",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2026-01-28/vartholomaios_2.jpeg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -145,12 +153,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Καλή ευκαιρία του Ολυμπιακού με Κοστίνια (vid)",
+          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/kali-eykairia-tou-olympiakou-kostinia-vid/",
+          "pubDate": "Wed, 28 Jan 2026 22:23:15 +0300",
+          "description": "Ο Πορτογάλος έπιασε κεφαλιά μετά από κόρνερ του Ροντινέι αλλά ο Γιάρος μπλόκαρε με διπλή προσπάθεια",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828641-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά",
           "link": "https://www.newsit.gr/athlitika/o-panathinaikos-kineitai-gia-tin-apoktisi-tou-etien-kamara-tis-sarleroua/4586180/",
           "pubDate": "Wed, 28 Jan 2026 19:22:01 +0000",
           "description": "Ο Παναθηναϊκός είναι γνωστό ότι είνια στην αγορά για την απόκτηση παίκτη στα χαφ και μετά το διαφαινόμενο «ναυάγιο» στην υπόθεση του Κραλ, φαίνεται πως ...  \nTo άρθρο Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/camara-1-1200x837.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Βιολάντα: Τα νέα ερωτήματα που προέκυψαν – Οι ανιχνευτές αερίου, οι αισθητήρες και οι σωληνώσεις",
+          "link": "https://www.in.gr/2026/01/28/greece/violanta-ta-nea-erotimata-pou-proekypsan-oi-anixneytes-aeriou-oi-aisthitires-kai-oi-solinoseis/",
+          "pubDate": "Wed, 28 Jan 2026 22:21:18 +0300",
+          "description": "Νέες αποκαλύψεις έρχονται στο φως της δημοσιότητας για τα ελλιπή μέτρα ασφαλείας στο εργοστάσιο της Βιολάντα, όπου έχασαν την ζωή τους 5 εργαζόμενες σε φρικτό εργατικό δυστύχημα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/DJI_20260127084323_0083_D_VERVE-1-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Βαρύ πρόστιμο στην πολιτικό από την Ελβετία που χρησιμοποίησε εικόνα της Παναγίας ως στόχο σκοποβολής",
@@ -222,30 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 18:59:55 +0000",
           "description": "Αγωνία για ένα βρέφος, μόλις 5 ημερών που δίνει «μάχη» για να κρατηθεί στη ζωή στη Μονάδα Εντατικής Θεραπείας Νεογνών του Βενιζέλειου Νοσοκομείου στο Ηράκλειο ...  \nTo άρθρο Κρήτη: «Μάχη» για τη ζωή δίνει πέντε ημερών βρέφος στο Βενιζέλειο νοσοκομείο στο Ηράκλειο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-baby2-1200x675.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "LIVE: Κλάμπ Μπριζ – Μαρσέιγ",
-          "link": "https://www.in.gr/matchcenter/4947190/",
-          "pubDate": "Wed, 28 Jan 2026 21:57:47 +0300",
-          "description": "LIVE: Κλάμπ Μπριζ – Μαρσέιγ. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Κλάμπ Μπριζ – Μαρσέιγ για την 8η αγωνιστική της League Phase του Champions League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/900-0-1768932162xbryzh-386-768x500.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "LIVE: Η τελευταία αγωνιστική της League Phase του Champions League",
-          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/live-teleytaia-agonistiki-tis-league-phase-tou-champions-league-2/",
-          "pubDate": "Wed, 28 Jan 2026 21:57:25 +0300",
-          "description": "Παρακολουθήστε live από to10.gr την εξέλιξη όλων των αναμετρήσεων της 8ης και τελευταίας αγωνιστικής της League Phase του Champions League, με αρκετά από αυτά τα ματς να ενδιαφέρουν και τον Ολυμπιακό",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/b653329169452b75ebba141c19510c90fd546b68136d8c15eec2839adc18aeae-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ο Μαρκ Άντονι και η Νάντια Φερέιρα θα αποκτήσουν 2ο παιδί: Η πόζα με τη φουσκωμένη κοιλίτσα του μοντέλου",
-          "link": "https://www.newsit.gr/lifestyle/o-mark-antoni-kai-i-nantia-fereira-tha-apoktisoun-2o-paidi-i-poza-me-ti-fouskomeni-koilitsa-tou-montelou/4586142/",
-          "pubDate": "Wed, 28 Jan 2026 18:57:15 +0000",
-          "description": "Ο Μαρκ Άντονι και η καλλονή σύζυγός του, Νάντια Φερέιρα, πρόκειται να αποκτήσουν σύντομα το δεύτερο παιδί τους.  Τη χαρμόσυνη ανακοίνωση έκαναν γνωστή ο διάσημος ...  \nTo άρθρο Ο Μαρκ Άντονι και η Νάντια Φερέιρα θα αποκτήσουν 2ο παιδί: Η πόζα με τη φουσκωμένη κοιλίτσα του μοντέλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nadia-ferreira-ap-1200x687.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Λεβερκούζεν - Βιγιαρεάλ: Γκέλα τερματοφύλακα και γκολ ο Τίλμαν",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511043/leberkoyzen-bigiareal-gkela-termatofylaka-kai-gkol-o-tilman",
+          "pubDate": "Wed, 28 Jan 2026 22:23:59 +0200",
+          "description": "Μία τρομερή γκάφα του Τένας έδωσε την ευκαιρία στη Λεβερκούζεν να προηγηθεί από νωρίς ενάντια στη Βιγιαρεάλ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/leverkusen_1.jpg?itok=iLlp0COc",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κιλκίς - ΑΕΚ 31-31: Ξεκίνημα στο 2026 με «στραβοπάτημα» για την Ένωση",
+          "link": "https://www.gazzetta.gr/handball/a1-andron/2511042/kilkis-aek-31-31-xekinima-sto-2026-me-strabopatima-gia-tin-enosi",
+          "pubDate": "Wed, 28 Jan 2026 22:23:54 +0200",
+          "description": "Ισόπαλες έμειναν το Κιλκίς και η ΑΕΚ με σκορ 31-31 για την εξ' αναβολής 14η αγωνιστική της Handball Premier...",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_handball_0.jpg?itok=vePqj65S",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Άγιαξ - Ολυμπιακός: Το υπέροχο κορεό των οπαδών του «Αίαντα»",
           "link": "https://www.gazzetta.gr/football/champions-league/2511041/agiax-olympiakos-yperoho-koreo-ton-opadon-toy-aianta",
           "pubDate": "Wed, 28 Jan 2026 22:17:59 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 21:07:50 +0200",
           "description": "Ο Παναθηναϊκός πλησιάζει στην απόκτηση του 22χρονου μέσου Ετιέν Καμαρά, που ανήκει στην Σαρλερουά.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/etienne_camara_getty.jpg?itok=LTy2V19k",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Στο χειρουργείο ένας οπαδός",
-          "link": "https://www.gazzetta.gr/football/europa-league/2511022/paok-dystyhima-sti-roymania-sto-heiroyrgeio-enas-opados",
-          "pubDate": "Wed, 28 Jan 2026 21:07:14 +0200",
-          "description": "Ο Υπουργός Υγείας Άδωνις Γεωργιάδης ενημέρωση για την κατάσταση των τραυματιών οπαδών του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_1_2.jpg?itok=SfczxHnz",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "LIVE TV: Η συνέντευξη Τύπου του ΠΑΟΚ ενόψει Λιόν",
-          "link": "https://www.gazzetta.gr/football/europa-league/2511011/live-tv-i-synenteyxi-typoy-toy-paok-enopsei-lion",
-          "pubDate": "Wed, 28 Jan 2026 21:07:00 +0200",
-          "description": "Οι Ραζβάν Λουτσέσκου και Ντέγιαν Λόβρεν μιλάνε στη συνέντευξη Τύπου στη Γαλλία ενόψει της αυριανής αναμέτρησης του ΠΑΟΚ με τη Λιόν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lucescu_2.jpg?itok=RB-sFhYK",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Ξημέρωσε η νέα εποχή του Chrome: Από απλός browser σε ψηφιακός «πράκτορας» με το Gemini 3",
+          "link": "https://www.techgear.gr/ximerose-i-nea-epochi-toy-chrome-apo-aplos-browser-se-psifiakos-praktoras-me-to-gemini-3-47367",
+          "pubDate": "Wed, 28 Jan 2026 22:22:00 +0200",
+          "description": "Η εποχή που ο browser ήταν απλώς ένα παράθυρο ανάγνωσης φαίνεται να περνάει ανεπιστρεπτί. Η Google προχωρά στη μεγαλύτερη αναβάθμιση στην ιστορία του ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/google-chrome-update.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "PS Plus Φεβρουάριος 2026: Αποκαλύφθηκαν τα 4 δωρεάν games για όλους τους συνδρομητές",
           "link": "https://www.techgear.gr/ps-plus-fevroyarios-2026-apokalyfthikan-ta-4-dorean-games-gia-oloys-toys-syndromites-47366",
           "pubDate": "Wed, 28 Jan 2026 22:05:00 +0200",
@@ -1469,14 +1477,6 @@
           "description": "Από την ανώνυμη προβολή Stories μέχρι το AI εργαλείο \"Vibes\" και τον ψηφιακό πράκτορα \"Manus\", η αυτοκρατορία του Zuckerberg βάζει paywall σε premium λειτουργίες.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/i/instagram-/instagram-facebook-and-whatsapp-to-test-subscriptions-for-pr_yxwe.jpg",
           "source": "PC Magazine"
-        },
-        {
-          "title": "Ιαπωνία vs Κίνα: Το πλοίο Chikyu αναζητά σπάνιες γαίες σε βάθος 6 χλμ.",
-          "link": "https://www.techgear.gr/iaponia-vs-kina-to-ploio-chikyu-anazita-spanies-gaies-se-vathos-6-chlm-47345",
-          "pubDate": "Tue, 27 Jan 2026 17:12:00 +0200",
-          "description": "Σε μια κίνηση που θυμίζει περισσότερο στρατηγικό ελιγμό στη σκακιέρα της γεωπολιτικής παρά απλή επιστημονική αποστολή, το ιαπωνικό γεωτρητικό ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/chikyu.jpg",
-          "source": "Techgear"
         }
       ]
     }
