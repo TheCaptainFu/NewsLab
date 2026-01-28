@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T15:15:27.430Z",
+  "lastUpdated": "2026-01-28T15:17:56.788Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τραγωδία ΠΑΟΚ: Κλίμα οδύνης στην Τούμπα, τελέστηκε επιμνημόσυνη δέηση εντός γηπέδου για τους αδικοχαμένους οπαδούς",
+          "link": "https://www.newsit.gr/athlitika/tragodia-paok-klima-odynis-stin-toumpa-telestike-epimnimosyni-deisi-entos-gipedou-gia-tous-adikoxamenous-opadous/4585932/",
+          "pubDate": "Wed, 28 Jan 2026 15:15:53 +0000",
+          "description": "Στιγμές συγκίνησης! Σε κλίμα οδύνης τελέστηκε το μεσημέρι της Τετάρτης (28.01.2026) στην Τούμπα επιμνημόσυνη δέηση, στη μνήμη των φίλων του ΠΑΟΚ που έχασαν την ζωή ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Κλίμα οδύνης στην Τούμπα, τελέστηκε επιμνημόσυνη δέηση εντός γηπέδου για τους αδικοχαμένους οπαδούς δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-eurokinissi-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ο Ανδρουλάκης καλεί Μητσοτάκη και Γεραπετρίτη να τοποθετηθούν στα όσα είπε ο Λαζαρίδης για τα Ίμια:  «Ντροπή, δεν υπάρχει γκριζάρισμα στο Αιγαίο»",
           "link": "https://www.newsit.gr/politikh/o-androulakis-kalei-mitsotaki-kai-gerapetriti-na-topothetithoun-sta-osa-eipe-o-lazaridis-gia-ta-imia-ntropi-den-yparxei-gkrizarisma-sto-aigaio/4585915/",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 14:00:00 +0000",
           "description": "Αυτά τα θρυλικά τετράγωνα με αλατισμένη καραμέλα βουτύρου, ήρθαν στη ζωή μου μέσω ενός παλιού βιβλίου μαγειρικής. Ενώ τα περισσότερα υλικά σε αυτή τη συνταγή ...  \nTo άρθρο Συνταγή για μπάρες καραμέλας βουτύρου με μπισκότο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1459531624-1200x823.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Κινούμαι Ηλεκτρικά»: Μπαίνουν νέα χρήματα στο πρόγραμμα που συνεχίζεται και μετά τον Μάρτιο",
-          "link": "https://www.newsit.gr/oikonomia/xristika/kinoumai-ilektrika-mpainoun-nea-xrimata-sto-programma-pou-synexizetai-kai-meta-ton-martio/4585823/",
-          "pubDate": "Wed, 28 Jan 2026 13:55:50 +0000",
-          "description": "Τη δέσμευσή του ότι το πρόγραμμα «Κινούμαι Ηλεκτρικά» θα συνεχιστεί και πέραν του Μαρτίου έδωσε το υπουργείο Υποδομών και Μεταφορών. Όπως δήλωσε σήμερα (28.1.2026) στο ...  \nTo άρθρο «Κινούμαι Ηλεκτρικά»: Μπαίνουν νέα χρήματα στο πρόγραμμα που συνεχίζεται και μετά τον Μάρτιο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1662932717-1.jpg",
           "source": "NewsIT"
         }
       ]
@@ -525,10 +525,10 @@
           "source": "Euronews"
         },
         {
-          "title": "Trump warns Iran 'time is running out' as US military builds up in Gulf",
+          "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
           "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 14:36:22 GMT",
-          "description": "The US president, who has previously vowed to \"rescue\" protesters in Iran, says a \"massive Armada\" is on the way to the country.",
+          "description": "The US president says a \"massive Armada\" is sailing to Iran.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg",
           "source": "BBC News"
         },
