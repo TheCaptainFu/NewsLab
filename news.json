@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T08:15:31.402Z",
+  "lastUpdated": "2026-01-28T08:20:28.324Z",
   "totalArticles": 178,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ηράκλειο: Αυτοκίνητο παρέσυρε παιδί έξω από σχολείο – Μεταφέρθηκε στο νοσοκομείο με τραύμα στο κεφάλι",
+          "link": "https://www.newsit.gr/ellada/irakleio-aytokinito-paresyre-paidi-ekso-apo-sxoleio-metaferthike-sto-nosokomeio-me-trayma-sto-kefali/4585434/",
+          "pubDate": "Wed, 28 Jan 2026 08:15:29 +0000",
+          "description": "Τροχαίο σημειώθηκε το πρωί της Τετάρτης (28.01.2026) έξω από σχολείο στο Ηράκλειο, όταν αυτοκίνητο παρέσυρε παιδί προκαλώντας του ελαφρά τραύματα. Το τροχαίο έγινε έξω από ...  \nTo άρθρο Ηράκλειο: Αυτοκίνητο παρέσυρε παιδί έξω από σχολείο – Μεταφέρθηκε στο νοσοκομείο με τραύμα στο κεφάλι δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peripoliko-eurok-2-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ματίας Λεσόρ για τους οπαδούς του ΠΑΟΚ: «Θεέ μου, δεν ήθελα να δω αυτό το βίντεο»",
           "link": "https://www.newsit.gr/athlitika/matias-lesor-gia-tous-opadous-tou-paok-thee-mou-den-ithela-na-do-ayto-to-vinteo/4585435/",
@@ -169,12 +177,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Και δεύτερη αρμάδα στη Μέση Ανατολή στέλνει ο Τραμπ – «Ελπίζω ότι το Ιράν θα κάνει συμφωνία»",
+          "link": "https://www.in.gr/2026/01/28/world/kai-deyteri-armada-sti-mesi-anatoli-stelnei-o-tramp-elpizo-oti-iran-tha-kanei-symfonia/",
+          "pubDate": "Wed, 28 Jan 2026 10:17:13 +0300",
+          "description": "«Παρεμπιπτόντως, υπάρχει μια άλλη όμορφη αρμάδα που πλέει προς το Ιράν αυτή τη στιγμή», είπε ο Τραμπ στη διάρκεια ομιλίας του",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/700961-1200x675-1-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Νεκρό μεταφέρθηκε βρέφος στο Παίδων «Αγία Σοφία» – Το είχαν πάει αρχικά σε κτηνιατρείο",
           "link": "https://www.newsit.gr/ellada/nekro-metaferthike-vrefos-sto-paidon-agia-sofia-to-eixan-paei-arxika-se-ktiniatreio/4585379/",
           "pubDate": "Wed, 28 Jan 2026 07:16:20 +0000",
           "description": "Στο νοσοκομείο Παίδων «Αγία Σοφία» μεταφέρθηκε νωρίς το πρωί της Τετάρτης (28.01.2026) από την Καλλιθέα ένα βρέφος χωρίς τις αισθήσεις του, όπου και διαπιστώθηκε ο ...  \nTo άρθρο Νεκρό μεταφέρθηκε βρέφος στο Παίδων «Αγία Σοφία» – Το είχαν πάει αρχικά σε κτηνιατρείο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-525734880-1200x675-1.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Βενεζουέλα: Ο Ρούμπιο απειλεί με νέα επίθεση εάν η κυβέρνηση δεν συνεργαστεί – Οι ΗΠΑ αμφιβάλουν για τη Ροντρίγκες",
+          "link": "https://www.in.gr/2026/01/28/world/venezouela-o-roumpio-apeilei-nea-epithesi-ean-kyvernisi-den-synergastei-oi-ipa-amfivaloun-gia-ti-rontrigkes/",
+          "pubDate": "Wed, 28 Jan 2026 10:15:50 +0300",
+          "description": "Αμφιβολίες έχουν οι ΗΠΑ για το κατά πόσο μπορούν να ελέγξουν πλήρως την Ροντρίγκες με τον Ρούμπιο να επαναφέρει τη στρατιωτική απειλή για τη Βενεζουέλα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-27T235820Z_136828431_RC2W1JAV8ZXU_RTRMADP_5_USA-VENEZUELA-RODRIGUEZ-INTEL-768x517.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Γιάννης Παπαστεφανάκης για το δυστύχημα των οπαδών: «Ο ΠΑΟΚ είναι ψυχές»",
@@ -209,43 +233,19 @@
           "source": "In.gr"
         },
         {
+          "title": "Οι αθλητικές μεταδόσεις της ημέρας (28/1): «Δράση» με Champions League και ντέρμπι «αιωνίων» στο μπάσκετ γυναικών",
+          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/oi-athlitikes-metadoseis-tis-imeras-28-1-drasi-champions-league-kai-ntermpi-aionion-sto-mpasket-gynaikon/",
+          "pubDate": "Wed, 28 Jan 2026 10:08:59 +0300",
+          "description": "Αυτό είναι το πλήρες πρόγραμμα με τις αθλητικές μεταδόσεις της ημέρας (28/1).",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6819356-768x511.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Κίνηση στους δρόμους: «Στα κόκκινα» Κηφισός – 30λεπτες καθυστερήσεις στην Αττική Οδό",
           "link": "https://www.newsit.gr/ellada/kinisi-stous-dromous-sta-kokkina-kifisos-30leptes-kathysteriseis-stin-attiki-odo/4585364/",
           "pubDate": "Wed, 28 Jan 2026 07:02:21 +0000",
           "description": "Ακόμη μία ημέρα, με την κίνηση να φτάνει στα κόκκινα στους δρόμους της Αττικής. Πολλές μεγάλες οδικές αρτηρίες, είναι “φραγμένες” από την κίνηση με τους ...  \nTo άρθρο Κίνηση στους δρόμους: «Στα κόκκινα» Κηφισός – 30λεπτες καθυστερήσεις στην Αττική Οδό δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kifisos-kinisi-eurok-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σκύλος μόνος στο μπαλκόνι: Πώς επηρεάζεται η ψυχολογία του",
-          "link": "https://www.in.gr/2026/01/28/pet-stories/skylos-monos-sto-mpalkoni-pos-epireazetai-psyxologia-tou/",
-          "pubDate": "Wed, 28 Jan 2026 10:00:56 +0300",
-          "description": "Οι συμπεριφορές που μπορεί να εκδηλώσει ο σκύλος, πώς νιώθει όταν τον αφήνουμε στο μπαλκόνι όσο είμαστε απόντες.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/KENTRIKH-8-768x512.gif",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ινδονησία: 34 νεκροί από κατολισθήσεις, χωριά βυθίστηκαν στη λάσπη – Σκάβουν με τα χέρια τους για να βρουν επιζώντες",
-          "link": "https://www.newsit.gr/kosmos/indonisia-34-nekroi-apo-katolisthiseis-xoria-vythistikan-sti-laspi-skavoun-me-ta-xeria-tous-gia-na-vroun-epizontes/4585341/",
-          "pubDate": "Wed, 28 Jan 2026 07:00:26 +0000",
-          "description": "Ανείπωτη τραγωδία χτυπά την Ινδονησία, τις τελευταίες ημέρες, μετά από σφοδρή κατολίσθηση που ισοπέδωσε χωριά κοντά στην Μπαντούνγκ. Μέχρι και σήμερα (28.01.2026) 34 άτομα έχουν ...  \nTo άρθρο Ινδονησία: 34 νεκροί από κατολισθήσεις, χωριά βυθίστηκαν στη λάσπη – Σκάβουν με τα χέρια τους για να βρουν επιζώντες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/indonisia-katolisthisi-r7-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συγκλονισμένος ο Άγγελος Αναστασιάδης για την τραγωδία του ΠΑΟΚ: «Έτρεμαν τα πόδια μου»",
-          "link": "https://www.newsit.gr/athlitika/sygklonismenos-o-aggelos-anastasiadis-gia-tin-tragodia-tou-paok-etreman-ta-podia-mou/4585354/",
-          "pubDate": "Wed, 28 Jan 2026 06:57:00 +0000",
-          "description": "Ο θρύλος του ΠΑΟΚ, Άγγελος Αναστασιάδης έζησε μία ακόμη τραγωδία με οπαδούς του “Δικεφάλου του Βορρά” και στις πρώτες του δηλώσεις σημείωσε τη δύσκολη ψυχολογική ...  \nTo άρθρο Συγκλονισμένος ο Άγγελος Αναστασιάδης για την τραγωδία του ΠΑΟΚ: «Έτρεμαν τα πόδια μου» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aggelos-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Δημήτρης Κίτσος για τη «Μεγάλη Χίμαιρα»: Οι ερωτικές σκηνές που σχολιάζονται, είναι πολύ προσεγμένες",
-          "link": "https://www.newsit.gr/media/dimitris-kitsos-gia-ti-megali-ximaira-oi-erotikes-skines-pou-sxoliazontai-einai-poly-prosegmenes/4585351/",
-          "pubDate": "Wed, 28 Jan 2026 06:55:39 +0000",
-          "description": "Ο Δημήτρης Κίτσος παραχώρησε συνέντευξη στην εκπομπή «The 2night Show» και μίλησε για τις κοινωνικές ανησυχίες του, την απόφαση που πήρε να ασχοληθεί με την ...  \nTo άρθρο Δημήτρης Κίτσος για τη «Μεγάλη Χίμαιρα»: Οι ερωτικές σκηνές που σχολιάζονται, είναι πολύ προσεγμένες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kitsos-arxiki-1200x723.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ - δυστύχημα Ρουμανία: Η απάντηση των οπαδών του Δικεφάλου στον έρανο των ultras Poli Timisoara",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510825/paok-dystyhima-roymania-i-apantisi-ton-opadon-toy-dikefaloy-ston",
+          "pubDate": "Wed, 28 Jan 2026 10:18:20 +0200",
+          "description": "Η απάντηση των οπαδών του «Δικέφαλου το Βορρά» στη σπουδαία κίνηση των Ρουμάνων.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ultras_timisoara.jpg?itok=gx5ATGGf",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ματίας Λεσόρ για τους οπαδούς του ΠΑΟΚ: «Θεέ μου, δεν ήθελα να δω αυτό το βίντεο»",
+          "link": "https://www.newsit.gr/athlitika/matias-lesor-gia-tous-opadous-tou-paok-thee-mou-den-ithela-na-do-ayto-to-vinteo/4585435/",
+          "pubDate": "Wed, 28 Jan 2026 08:13:58 +0000",
+          "description": "Συγκλονισμένος για την τραγωδία με τους 7 νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία είναι και ο σέντερ του Παναθηναϊκού, Ματίας Λεσόρ, ο οποίος και τόνισε ...  \nTo άρθρο Ματίας Λεσόρ για τους οπαδούς του ΠΑΟΚ: «Θεέ μου, δεν ήθελα να δω αυτό το βίντεο» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/lessort-2-1200x799.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "ΠΑΟΚ - Δυστύχημα στην Ρουμανία: Γραμμή υποστήριξης για τις οικογένειες των θυμάτων",
           "link": "https://www.gazzetta.gr/football/superleague/2510824/paok-dystyhima-stin-roymania-grammi-ypostirixis-gia-tis-oikogeneies",
           "pubDate": "Wed, 28 Jan 2026 10:08:31 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 08:32:32 +0200",
           "description": "Από λαχταριστούς χυμούς, μέχρι “μαγικά” επιθέματα για τα πόδια που υπόσχονται θαύματα, η αποτοξίνωση γίνεται η νέα μόδα και στη χώρα μας. Αξίζει τον κόπο;",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2197117722-1280x859.jpg?itok=Wjx6TkR8",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Αισιοδοξία και για τους τρεις τραυματίες οπαδούς στο νοσοκομείο",
-          "link": "https://www.newsit.gr/athlitika/paok-aisiodoksia-kai-gia-tous-treis-traymaties-opadous-sto-nosokomeio/4585329/",
-          "pubDate": "Wed, 28 Jan 2026 06:30:06 +0000",
-          "description": "Επιτέλους και ένα θετικό νέο από το τροχαίο δυστύχημα που “πάγωσε” την Ελλάδα, καθώς φαίνεται ότι υπάρχει αισιοδοξία για την κατάσταση των τριών τραυματιών οπαδών ...  \nTo άρθρο ΠΑΟΚ: Αισιοδοξία και για τους τρεις τραυματίες οπαδούς στο νοσοκομείο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-12-1200x900.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Κόντρα στον Άγιαξ, η πραγματική αίσθηση του καιρού που μπορεί να φτάσει τους -5",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510778/olympiakos-kontra-ston-agiax-i-pragmatiki-aisthisi-toy-kairoy-poy",
-          "pubDate": "Wed, 28 Jan 2026 08:30:00 +0200",
-          "description": "Ο Ολυμπιακός αντιμετωπίζει τον Άγιαξ με στόχο τη νίκη και την πρόκριση στην επόμενη φάση του Champions League, με την πραγματική αίσθηση της θερμοκρασίας να φτάνει τους -5. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/medililibar.jpg?itok=2SLxA_2z",
           "source": "Gazzetta"
         }
       ]
