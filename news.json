@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-28T21:30:31.616Z",
+  "lastUpdated": "2026-01-28T21:35:30.100Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
@@ -119,6 +119,14 @@
           "description": "Η Γαλλία ζητά να ενταχθούν οι «Φρουροί της Επανάστασης» του Ιράν στην λίστα στην ευρωπαϊκή λίστα των τρομοκρατικών οργανώσεων, ανακοίνωσε σήμερα Τετάρτη (28/01/2026) το Ελιζέ. ...  \nTo άρθρο Η Γαλλία ζητά να συμπεριληφθούν οι «Φρουροί της Επανάστασης» του Ιράν στην λίστα με τις τρομοκρατικές οργανώσεις δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/macron-3-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Η Κέιτ Μος και οι «αγενείς άνδρες» που την προσπέρασαν ελαφρά τη καρδία σε επίδειξη μόδας στο Παρίσι",
+          "link": "https://www.in.gr/2026/01/28/go-fun/style/keit-mos-kai-oi-ageneis-andres-pou-tin-prosperasan-elafra-ti-kardia-se-epideiksi-modas-sto-parisi/",
+          "pubDate": "Wed, 28 Jan 2026 23:30:23 +0300",
+          "description": "Η Κέιτ Μος ήταν μία από τις VIP καλεσμένες στην επίδειξη μόδας του οίκου Saint Laurent και, πριν προλάβουν οι φωτογράφοι να απαθανατίσουν κάθε της κίνηση, δύο «αγενείς» άνδρες της έκλεισαν τον δρόμο.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2023-09-26T185041Z_899927998_RC2IG3AR8UJZ_RTRMADP_5_FASHION-PARIS-SAINT-LAURENT-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Περιστέρι Betsson – Σαραγόσα 86-70: Μεγάλη νίκη και πρόκριση για τους Περιστεριώτες",
@@ -239,14 +247,6 @@
           "description": "Οι αστυνομικοί έχουν κλείσει την πρόσβαση στην Ομήρου μέχρι να ολοκληρωθεί ο έλεγχος",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/omirou_xr.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Κλειστή η Ομήρου στο κέντρο: ΤΕΕΜ ελέγχουν ύποπτη μηχανή έξω από την Τράπεζα της Ελλάδος",
-          "link": "https://www.newsit.gr/ellada/kleisti-i-omirou-sto-kentro-teem-elegxoun-ypopti-mixani-ekso-apo-tin-trapeza-tis-ellados/4586199/",
-          "pubDate": "Wed, 28 Jan 2026 19:57:57 +0000",
-          "description": "Συναγερμός σήμανε το βράδυ της Τετάρτης (29.01.2026) στο κέντρο της Αθήνας, έπειτα από ύποπτη μοτοσικλέτα έξω από την Τράπεζα της Ελλάδος. Η κινητοποίηση των πυροτεχνουργών ...  \nTo άρθρο Κλειστή η Ομήρου στο κέντρο: ΤΕΕΜ ελέγχουν ύποπτη μηχανή έξω από την Τράπεζα της Ελλάδος δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/teem-motosikleta-1200x740.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,52 +747,12 @@
       "color": "green",
       "articles": [
         {
-          "title": "ΑΕΚ: Τα Highlights της νίκης επί της Άλμπα",
-          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511063/aek-ta-highlights-tis-nikis-epi-tis-almpa",
-          "pubDate": "Wed, 28 Jan 2026 23:27:16 +0200",
-          "description": "Οι καλύτερες φάσεις και τα  highlights της νίκης της ΑΕΚ επί της Άλμπα, στην... καυτή ατμόσφαιρα της «Sunel Arena».",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_bc_eurokinisi.jpg?itok=xp4KPT0q",
-          "source": "Gazzetta"
-        },
-        {
           "title": "Άγιαξ – Ολυμπιακός: Το γκολ του Ζέλσον Μαρτίνς για το 0-1",
           "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-to-gkol-tou-zelson-martins-gia-to-0-1/4586264/",
           "pubDate": "Wed, 28 Jan 2026 21:25:20 +0000",
           "description": "Ο Ολυμπιακός ευτύχησε να προηγηθεί στα πρώτα λεπτά του δευτέρου ημιχρόνου κόντρα στον Άγιαξ στο Άμστερνταμ. Στο 52ο λεπτό, ο Ζέλσον Μαρτίνς και ο Ταρέμι ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Το γκολ του Ζέλσον Μαρτίνς για το 0-1 δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zelson-martins-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Αϊντχόφεν - Μπάγερν Μονάχου: Το γκολ του Μουσιάλα",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511062/ainthofen-mpagern-monahoy-gkol-toy-moysiala",
-          "pubDate": "Wed, 28 Jan 2026 23:21:51 +0200",
-          "description": "Το γκολ του Μουσιάλα στο 58ο λεπτό έφερε το 1-0 για την Μπάγερν Μονάχου στο εκτός έδρας ματς με την Αϊντχόφεν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/musiala.jpg?itok=sKoql694",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Τρέλα στην εξέδρα στο γκολ του Ζέλσον κόντρα στον Άγιαξ (vid)",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511061/olympiakos-trela-stin-exedra-sto-gkol-toy-zelson-kontra-ston",
-          "pubDate": "Wed, 28 Jan 2026 23:20:29 +0200",
-          "description": "Ο Ολυμπιακός άνοιξε το σκορ με τον Ζέλσον κόντρα στον Αγιαξ και... τρέλα στην εξέδρα από τους φίλους της ομάδας! ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/panigurismoi1.jpg?itok=-X-Bj-LJ",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λίβερπουλ - Καραμπάγκ: Ο Σαλάχ με ένα εξαιρετικό σουτ στο παραθυράκι έκανε το 3-0",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511060/liberpoyl-karampagk-o-salah-me-ena-exairetiko-soyt-sto",
-          "pubDate": "Wed, 28 Jan 2026 23:18:11 +0200",
-          "description": "Ο Σαλάχ με ένα εξαιρετικό σουτ στο παραθυράκι, έγραψε το 3-0 για την Λίβερπουλ κόντρα στην Καραμπάγκ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/salah_liverpool_4.jpg?itok=CKljA6xU",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ - Ολυμπιακός: Το γκολ του Ζέλσον Μαρτίνς για το 0-1",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511059/agiax-olympiakos-gkol-toy-zelson-martins-gia-0-1",
-          "pubDate": "Wed, 28 Jan 2026 23:17:59 +0200",
-          "description": "Στο 52' ο Ολυμπιακός με έναν πανέμορφο συνδυασμό από Ζέλσον Μαρτίνς και Ταρέμι πήρε το προβάδισμα με γκολ του πρώτου κόντρα στον Άγιαξ!",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gelson.jpg?itok=o0iTnAVo",
-          "source": "Gazzetta"
         },
         {
           "title": "Ο Βαγγέλης Παυλίδης είχε γκολ και ασίστ στο Μπενφίκα – Ρεάλ Μαδρίτης",
@@ -803,68 +763,12 @@
           "source": "NewsIT"
         },
         {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Τρομερή κίνηση των οπαδών της Τιμισοάρα",
-          "link": "https://www.gazzetta.gr/football/europa-league/2511058/paok-dystyhima-sti-roymania-tromeri-kinisi-ton-opadon-tis-timisoara",
-          "pubDate": "Wed, 28 Jan 2026 23:09:39 +0200",
-          "description": "Φοβερή κίνηση των οπαδών της Τιμισοάρα, έστησαν ένα μνημείο στον τρόπο της τραγωδίας με τα επτά αετόπουλα του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_9.jpg?itok=bYIin93O",
-          "source": "Gazzetta"
-        },
-        {
           "title": "Ο Λορέντζο Πιρόλα έγινε αναγκαστική αλλαγή στο Άγιαξ – Ολυμπιακός",
           "link": "https://www.newsit.gr/athlitika/o-lorentzo-pirola-egine-anagkastiki-allagi-sto-agiaks-olympiakos/4586237/",
           "pubDate": "Wed, 28 Jan 2026 21:08:10 +0000",
           "description": "Με ένα σημαντικό πρόβλημα ολοκλήρωσε ο Ολυμπιακός το πρώτο ημίχρονο στην έδρα του Άγιαξ, αφού αναγκάστηκε να προχωρήσει σε αναγκαστική αλλαγή, με τον Πιρόλα να ...  \nTo άρθρο Ο Λορέντζο Πιρόλα έγινε αναγκαστική αλλαγή στο Άγιαξ – Ολυμπιακός δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/piorola-eurokinissi-1200x799.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Α1 Γυναικών: Συνεχίζει πρώτος ο Αθηναϊκός!",
-          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2511056/a1-gynaikon-synehizei-protos-o-athinaikos",
-          "pubDate": "Wed, 28 Jan 2026 23:06:06 +0200",
-          "description": "Εύκολο ήταν το απόγευμα για τον Αθηναϊκό, μετά την επικράτηση με 72-84 επί του Πανσερραϊκού στις Σέρρες, όπου παρέμεινε στην κορυφή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kaltsidou.jpg?itok=Jr4ppfiN",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός - Βριλήσσια 31-27: Επιστροφή στη Handball Premier με νίκη",
-          "link": "https://www.gazzetta.gr/handball/a1-andron/2511055/olympiakos-brilissia-31-27-epistrofi-sti-handball-premier-me-niki",
-          "pubDate": "Wed, 28 Jan 2026 22:59:56 +0200",
-          "description": "Τη νίκη απέναντι στα Βριλήσσια με σκορ 31-27 πανηγύρισε ο Ολυμπιακός για την εξ' αναβολής 13η αγωνιστική της Handball Premier...",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_vs_vrilissia.jpg?itok=1pQp-wQM",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ - Ολυμπιακός: Ο Φουρνιέ... ζήλεψε τις φανέλες των «ερυθρόλευκων»",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2511054/agiax-olympiakos-o-foyrnie-zilepse-tis-faneles-ton-erythroleykon",
-          "pubDate": "Wed, 28 Jan 2026 22:57:24 +0200",
-          "description": "Όπως φαίνεται, ο Εβάν Φουρνιέ παρακολουθεί την αναμέτρηση του Ολυμπιακού με τον Άγιαξ στο Άμστερνταμ για το Champions League και αποθέωσε τις φανέλες των «ερυθρόλευκων».",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fournier23.jpg?itok=BIuDFNqG",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μπενφίκα - Ρεάλ Μαδρίτης: Ο Παυλίδης έφερε... τούμπα το ματς κόντρα στους Μαδριλένους",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511053/mpenfika-real-madritis-o-paylidis-efere-toympa-mats-kontra-stoys",
-          "pubDate": "Wed, 28 Jan 2026 22:56:45 +0200",
-          "description": "Η Μπενφίκα γύρισε το παιχνίδι απέναντι στην Ρεάλ Μαδρίτης προτού βγει το ημίχρονο με τον Παυλίδη να δίνει την ασίστ στο πρώτο και να σκοράρει το δεύτερο γκολ της ομάδας του.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pavlidis_1.jpg?itok=gcAV5wec",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Στίβεν Άνταμς: Τέλος η σεζόν για τον σέντερ των Ρόκετς",
-          "link": "https://www.gazzetta.gr/basketball/nba/2511052/stiben-antams-telos-i-sezon-gia-ton-senter-ton-rokets",
-          "pubDate": "Wed, 28 Jan 2026 22:55:53 +0200",
-          "description": "Σημαντικό πρόβλημα προέκυψε στους Χιούστον Ρόκετς καθώς ο Στίβεν Άνταμς θα περάσει την πόρτα του χειρουργείου με αποτέλεσμα να τεθεί νοκ άουτ για τη συνέχεια της σεζόν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-06/adams_rockets_getty.jpg?itok=eq6JzuZk",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λύθηκε δεκαετές μυστήριο εξαφάνισης Αμερικανού νεαρού χάρη στην εξέταση DNA",
-          "link": "https://www.gazzetta.gr/plus/2510884/lythike-dekaetes-mystirio-exafanisis-amerikanoy-nearoy-hari-stin-exetasi-dna",
-          "pubDate": "Wed, 28 Jan 2026 22:53:55 +0200",
-          "description": "Το μυστήριο της εξαφάνισης ενός νεαρού στις ΗΠΑ, που διήρκεσε πάνω από μια δεκαετία, λύθηκε επιτέλους μετά από μια σημαντική εξέλιξη στις εξετάσεις DNA.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/19-florida.jpg?itok=boxkUXLq",
-          "source": "Gazzetta"
         },
         {
           "title": "Περιστέρι Betsson – Σαραγόσα 86-70: Θριαμβευτική πρόκριση στα προημιτελικά του FIBA Europe Cup για τους Περιστεριώτες",
@@ -875,30 +779,6 @@
           "source": "NewsIT"
         },
         {
-          "title": "Λίβερπουλ - Καραμπάγκ: ΜακΆλιστερ και Βιρτζ το 2-0 για τους Reds (vid)",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511051/liberpoyl-karampagk-makalister-kai-birtz-2-0-gia-toys-reds",
-          "pubDate": "Wed, 28 Jan 2026 22:47:50 +0200",
-          "description": "Με δύο γκολ του ΜακΆλιστερ και του Βιρτζ, η Λίβερπουλ προηγείται της Καραμπάγκ με 2-0.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mcallister.jpg?itok=qqgBiMh7",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Νάπολι - Τσέλσι: Ο Βεργκάρα έκανε τον... Μαραντόνα για το 1-1 (vid)",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511050/napoli-tselsi-o-bergkara-ekane-ton-marantona-gia-1-1-vid",
-          "pubDate": "Wed, 28 Jan 2026 22:43:26 +0200",
-          "description": "Απίθανο γκολ από τον Αντόνιο Βεργκάρα, ο οποίος έκανε ό,τι ήθελε την άμυνα της Τσέλσι και με γκολ αλά... Ντιέγκο Μαραντόνα ισοφάρισε 1-1 για τη Νάπολι.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vergara_napoli.jpg?itok=7DBB0esS",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ - Ολυμπιακός: Το γκολ του Ντόλμπεργκ που δεν μέτρησε για οφσάιντ",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511049/agiax-olympiakos-gkol-toy-ntolmpergk-poy-den-metrise-gia-ofsaint",
-          "pubDate": "Wed, 28 Jan 2026 22:42:34 +0200",
-          "description": "Στο 32' ο Άγιαξ βρήκε δίχτυα με τον Ντόλμπεργκ, ωστόσο η σημαία του βοηθού σηκώθηκε για οφσάιντ, κάτι που επιβεβαιώθηκε και από το VAR.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/var.jpg?itok=gtVGo7A2",
-          "source": "Gazzetta"
-        },
-        {
           "title": "Πανιώνιος – Λόντον Λάιονς 79-78: Ο Λιούις χάρισε τη νίκη στον Ιστορικό στο Eurocup",
           "link": "https://www.newsit.gr/athlitika/panionios-lonton-laions-79-78-o-liouis-xarise-ti-niki-ston-istoriko-sto-eurocup/4586230/",
           "pubDate": "Wed, 28 Jan 2026 20:40:36 +0000",
@@ -907,84 +787,204 @@
           "source": "NewsIT"
         },
         {
-          "title": "Μπενφίκα - Ρεάλ Μαδρίτης: Γκολ με κεφαλιά ο Μπαπέ",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511048/mpenfika-real-madritis-gkol-me-kefalia-o-mpape",
-          "pubDate": "Wed, 28 Jan 2026 22:37:13 +0200",
-          "description": "Η Ρεάλ Μαδρίτης έκανε το 1-0 ενάντια στην Μπενφίκα του Παυλίδη με κεφαλιά του Μπαπέ 30ό λεπτό του αγώνα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mbappe_0.jpg?itok=3fXhIa6I",
-          "source": "Gazzetta"
+          "title": "Λουτσέσκου: Να παίξουμε για τα παιδιά του ΠΑΟΚ, υπάρχει τεράστια στεναχώρια",
+          "link": "https://www.newsit.gr/athlitika/loutseskou-na-paiksoume-gia-ta-paidia-tou-paok-yparxei-terastia-stenaxoria/4586204/",
+          "pubDate": "Wed, 28 Jan 2026 20:05:56 +0000",
+          "description": "Ο Ραζβάν Λουτσέσκου δεν θα μπορούσε να μην αναφερθεί στους 7 φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο τροχαίο δυστύχημα στη Ρουμανία. Στη ...  \nTo άρθρο Λουτσέσκου: Να παίξουμε για τα παιδιά του ΠΑΟΚ, υπάρχει τεράστια στεναχώρια δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/luceskou-1200x798.jpg",
+          "source": "NewsIT"
         },
         {
-          "title": "Άγιαξ - Ολυμπιακός: Φοβερό τάκλιν του Έσε σε σουτ του Γκλουκ από τη μικρή περιοχή",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511047/agiax-olympiakos-fobero-taklin-toy-ese-se-soyt-toy-gkloyk-apo-ti",
-          "pubDate": "Wed, 28 Jan 2026 22:36:53 +0200",
-          "description": "Στο 25' ο Άγιαξ είχε την πρώτη πολύ μεγάλη ευκαιρία του ματς, αλλά ο Έσε με εξαιρετικό τάκλιν έσωσε ένα πιθανό γκολ του Αίαντα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hezze.jpg?itok=WYJAbu0C",
-          "source": "Gazzetta"
+          "title": "Champions League live με το μεγάλο φινάλε της League Phase",
+          "link": "https://www.newsit.gr/athlitika/champions-league-live-me-to-megalo-finale-tis-league-phase/4585909/",
+          "pubDate": "Wed, 28 Jan 2026 19:51:04 +0000",
+          "description": "Πέφτει η «αυλαία» της League Phase του Champiosn League, καθώς το βράδυ της Τετάρτης (28.01.2026) έχουμε την 8η και τελευταία αγωνιστική της φάσης. Στο τέλος ...  \nTo άρθρο Champions League live με το μεγάλο φινάλε της League Phase δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lewandowski-1200x877.jpg",
+          "source": "NewsIT"
         },
         {
-          "title": "Άγιαξ - Ολυμπιακός: Ο Πιρόλα έγινε αναγκαστική αλλαγή",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511046/agiax-olympiakos-o-pirola-egine-anagkastiki-allagi",
-          "pubDate": "Wed, 28 Jan 2026 22:36:39 +0200",
-          "description": "Ζημιά στον Ολυμπιακό με τον Λορέντσο Πιρόλα, ο οποίος τραυματίστηκε κι αντικαταστάθηκε από τον Μπιανκόν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pirola_1.jpg?itok=QFkqzAZD",
-          "source": "Gazzetta"
+          "title": "Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου",
+          "link": "https://www.newsit.gr/athlitika/tragodia-paok-ypodoxi-ton-epta-soron-sto-aerodromio-apo-tous-syndesmous-tou-dikefalou/4586194/",
+          "pubDate": "Wed, 28 Jan 2026 19:50:21 +0000",
+          "description": "Οι οργανωμένοι οπαδοί του ΠΑΟΚ θα υποδεχθούν τις επτά σορούς των αδικοχαμένων φίλων της ομάδας στο αεροδρόμιο. Οι σοροί των επτά φίλων του ΠΑΟΚ θα ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-1.jpg",
+          "source": "NewsIT"
         },
         {
-          "title": "Παρί Σεν Ζερμέν - Νιούκαστλ: Ο Βιτίνια έδωσε το προβάδισμα (vid)",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511045/pari-sen-zermen-nioykastl-o-bitinia-edose-probadisma-vid",
-          "pubDate": "Wed, 28 Jan 2026 22:30:21 +0200",
-          "description": "Ο Βιτίνια με ένα εξαιρετικό σουτ άνοιξε το σκορ για την Παρί Σεν Ζερμέν κόντρα στην Νιούκαστλ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vitinhia.jpg?itok=lvJVYBoB",
-          "source": "Gazzetta"
+          "title": "Λόβρεν: «Μεγάλη τραγωδία για τον ΠΑΟΚ, έχουμε έξτρα κίνητρο»",
+          "link": "https://www.newsit.gr/athlitika/lovren-megali-tragodia-gia-ton-paok-exoume-ekstra-kinitro/4586191/",
+          "pubDate": "Wed, 28 Jan 2026 19:36:41 +0000",
+          "description": "Ο Ντέγιαν Λόβρεν εκπροσώπησε τους παίκτες του ΠΑΟΚ στη συνέντευξη Τύπου για τον αγώνα με τη Λιόν στη Γαλλία για την τελευταία αγωνιστική της League ...  \nTo άρθρο Λόβρεν: «Μεγάλη τραγωδία για τον ΠΑΟΚ, έχουμε έξτρα κίνητρο» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lovren-2-1200x800.jpg",
+          "source": "NewsIT"
         },
         {
-          "title": "ΠΑΟΚ: Οι «εξέδρες» των ελληνικών γηπέδων απέτισαν φόρο τιμής στους οπαδούς",
-          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2510992/panathinaikos-aek-pano-se-leoforo-kai-sunel-arena-gia-toys",
-          "pubDate": "Wed, 28 Jan 2026 22:30:00 +0200",
-          "description": "Η χώρα μας διανύει μέρες πένθους μετά την τραγωδία στη Ρουμανία που στέρησε τη ζωή σε επτά φίλους του ΠΑΟΚ. Τα ελληνικά γήπεδα τίμησαν τους αδικοχαμένους φιλάθλους με πανό στις εξέδρες κατά τη διάρκεια των σημερινών αναμετρήσεων (28/01).",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gipeda_eurokinissi.jpg?itok=m42W4K02",
-          "source": "Gazzetta"
+          "title": "Άγιαξ – Ολυμπιακός live για το φινάλε της League Phase του Champions League",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-live-gia-to-finale-tis-league-phase-tou-champions-league/4585899/",
+          "pubDate": "Wed, 28 Jan 2026 19:32:22 +0000",
+          "description": "Μετά τις δύο σερί νίκες στη League Phase του Champions League, ο Ολυμπιακός παίζει στην “Johan Cruyff Arena” του Άγιαξ, σε… τελικό πρόκρισης στην επόμενη ...  \nTo άρθρο Άγιαξ – Ολυμπιακός live για το φινάλε της League Phase του Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-ajax-eurokinissi-2-4-1200x801.jpg",
+          "source": "NewsIT"
         },
         {
-          "title": "Περιστέρι - Σαραγόσα 86-70: «Πέταξε» στα προημιτελικά και συνεχίζει να... ονειρεύεται",
-          "link": "https://www.gazzetta.gr/basketball/fiba-europe-cup/2511044/peristeri-saragosa-86-70-petaxe-kai-synehizei-na-oneireyetai",
-          "pubDate": "Wed, 28 Jan 2026 22:29:07 +0200",
-          "description": "Τεράστια νίκη για το Περιστέρι, αφού επικράτησε της Σαραγόσα με 86-70 και πανηγύρισε την πρόκρισή του στα προημιτελικά του FIBA Europe Cup.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/nikols_intime.jpg?itok=waZEr_zQ",
-          "source": "Gazzetta"
+          "title": "Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά",
+          "link": "https://www.newsit.gr/athlitika/o-panathinaikos-kineitai-gia-tin-apoktisi-tou-etien-kamara-tis-sarleroua/4586180/",
+          "pubDate": "Wed, 28 Jan 2026 19:22:01 +0000",
+          "description": "Ο Παναθηναϊκός είναι γνωστό ότι είνια στην αγορά για την απόκτηση παίκτη στα χαφ και μετά το διαφαινόμενο «ναυάγιο» στην υπόθεση του Κραλ, φαίνεται πως ...  \nTo άρθρο Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/camara-1-1200x837.jpg",
+          "source": "NewsIT"
         },
         {
-          "title": "Λεβερκούζεν - Βιγιαρεάλ: Γκέλα του τερματοφύλακα και γκολ ο Τίλμαν",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511043/leberkoyzen-bigiareal-gkela-termatofylaka-kai-gkol-o-tilman",
-          "pubDate": "Wed, 28 Jan 2026 22:23:59 +0200",
-          "description": "Μία τρομερή γκάφα του Τένας έδωσε την ευκαιρία στη Λεβερκούζεν να προηγηθεί από νωρίς ενάντια στη Βιγιαρεάλ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/leverkusen_1.jpg?itok=iLlp0COc",
-          "source": "Gazzetta"
+          "title": "ΑΕΚ – Άλμπα Βερολίνου 88-80: Ο τρομερός Μπάρτλεϊ και o εκτελεστής Χαραλαμπόπουλος λύγισαν τους Γερμανούς",
+          "link": "https://www.newsit.gr/athlitika/aek-almpa-verolinou-88-80-o-tromeros-mpartlei-kai-o-ektelestis-xaralampopoulos-lygisan-tous-germanous/4586144/",
+          "pubDate": "Wed, 28 Jan 2026 19:03:16 +0000",
+          "description": "Με τον Φρανκ Μπάρτλεϊ να είναι σε σεληνιασμένο βράδυ, η ΑΕΚ επικράτησε εντός έδρας της Άλμπα Βερολίνου με 88-80 και έκανε το 2/2 στη δεύτερη ...  \nTo άρθρο ΑΕΚ – Άλμπα Βερολίνου 88-80: Ο τρομερός Μπάρτλεϊ και o εκτελεστής Χαραλαμπόπουλος λύγισαν τους Γερμανούς δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bartley-aek-2-1200x798.jpg",
+          "source": "NewsIT"
         },
         {
-          "title": "Κιλκίς - ΑΕΚ 31-31: Ξεκίνημα στο 2026 με «στραβοπάτημα» για την Ένωση",
-          "link": "https://www.gazzetta.gr/handball/a1-andron/2511042/kilkis-aek-31-31-xekinima-sto-2026-me-strabopatima-gia-tin-enosi",
-          "pubDate": "Wed, 28 Jan 2026 22:23:54 +0200",
-          "description": "Ισόπαλες έμειναν το Κιλκίς και η ΑΕΚ με σκορ 31-31 για την 14η αγωνιστική της Handball Premier...",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_handball_0.jpg?itok=vePqj65S",
-          "source": "Gazzetta"
+          "title": "Άγιαξ – Ολυμπιακός: Η άφιξη των Πειραιωτών στην Johan Cruyff Arena και η ερυθρόλευκη εξέδρα",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-i-afiksi-ton-peiraioton-stin-johan-cruyff-arena-kai-i-erythroleyki-eksedra/4586151/",
+          "pubDate": "Wed, 28 Jan 2026 19:02:59 +0000",
+          "description": "Ο Ολυμπιακός παίζει στην έδρα του Άγιαξ για τη νίκη που θα του εξασφαλίσει μια θέση στην πρώτη 24άδα της League Phase του Champions League ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Η άφιξη των Πειραιωτών στην Johan Cruyff Arena και η ερυθρόλευκη εξέδρα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ajax-olympiakos-afiksi-eurokinissi-1-1200x800.jpg",
+          "source": "NewsIT"
         },
         {
-          "title": "Άγιαξ - Ολυμπιακός: Το υπέροχο κορεό των οπαδών του «Αίαντα»",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511041/agiax-olympiakos-yperoho-koreo-ton-opadon-toy-aianta",
-          "pubDate": "Wed, 28 Jan 2026 22:17:59 +0200",
-          "description": "Οι οπαδοί του Άγιαξ φρόντισαν να δημιουργήσουν μία «καυτή» ατμόσφαιρα στην «Γιόχαν Κρόιφ Αρίνα» πριν το παιχνίδι της ομάδας τους με τον Ολυμπιακό.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ajax_olympiakos_intime.jpg?itok=rp131gCH",
-          "source": "Gazzetta"
+          "title": "Νίνης για το Παναθηναϊκός – Ρόμα: «Να πάρουμε θετικό αποτέλεσμα και να θυμηθούμε τα παλιά»",
+          "link": "https://www.newsit.gr/athlitika/ninis-gia-to-panathinaikos-roma-na-paroume-thetiko-apotelesma-kai-na-thymithoume-ta-palia/4586149/",
+          "pubDate": "Wed, 28 Jan 2026 19:00:33 +0000",
+          "description": "Ο Σωτήρης Νίνης ήταν πρωταγωνιστής στο απίθανο διπλό του Παναθηναϊκού με 3-2 στην έδρα της Ρόμα το 2010 και η πράσινη ΠΑΕ ανέβασε βίντεο με ...  \nTo άρθρο Νίνης για το Παναθηναϊκός – Ρόμα: «Να πάρουμε θετικό αποτέλεσμα και να θυμηθούμε τα παλιά» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ninis.jpg",
+          "source": "NewsIT"
         },
         {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οι οπαδοί θα συνοδεύσουν τα επτά αετόπουλα",
-          "link": "https://www.gazzetta.gr/football/europa-league/2511040/paok-dystyhima-sti-roymania-oi-opadoi-tha-synodeysoyn-ta-epta",
-          "pubDate": "Wed, 28 Jan 2026 22:16:39 +0200",
-          "description": "Οι οπαδοί του ΠΑΟΚ θα υποδεχθούν τα επτά αετόπουλα στο αεροδρόμιο και από εκεί ραντεβού στη θ4 της Τούμπας.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_6_0.jpg?itok=cqBQz0qS",
-          "source": "Gazzetta"
+          "title": "Άγιαξ – Ολυμπιακός: Οι ενδεκάδες των δυο ομάδων για τον «τελικό» πρόκρισης στα playoffs του Champions League",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-oi-endekades-ton-dyo-omadon-gia-ton-teliko-prokrisis-sta-playoffs-tou-champions-league/4586136/",
+          "pubDate": "Wed, 28 Jan 2026 18:52:26 +0000",
+          "description": "Ο Ολυμπιακός αντιμετωπίζει τον Άγιαξ στο Άμστερνταμ (28.01.2026, 22:00, Newsit.gr, MEGA COSMOTE SPORT 2HD) με στόχο τη νίκη που θα τον οδηγήσει στα playoffs του ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Οι ενδεκάδες των δυο ομάδων για τον «τελικό» πρόκρισης στα playoffs του Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-ajax-eurokinissi-1200x799.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία ΠΑΟΚ: Τα πανό που ανέβασαν οι φίλοι του Παναθηναϊκού και της ΑΕΚ για τους αδικοχαμένους οπαδούς του Δικεφάλου",
+          "link": "https://www.newsit.gr/athlitika/tragodia-paok-ta-pano-pou-anevasan-oi-filoi-tou-panathinaikou-kai-tis-aek-gia-tous-adikoxamenous-opadous-tou-dikefalou/4586126/",
+          "pubDate": "Wed, 28 Jan 2026 18:28:50 +0000",
+          "description": "Οι οπαδοί του Παναθηναϊκού και της ΑΕΚ σε Τάφο του Ινδού και Sunel Arena αντίστοιχα ανέβασαν πανό για να αποχαιρετήσουν τους αδικοχαμένους οπαδούς του ΠΑΟΚ. ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Τα πανό που ανέβασαν οι φίλοι του Παναθηναϊκού και της ΑΕΚ για τους αδικοχαμένους οπαδούς του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-pano-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Παναθηναϊκός – Ολυμπιακός 88-85: Το ντέρμπι της Α1 μπάσκετ γυναικών βάφτηκε πράσινο",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-olympiakos-88-85-to-ntermpi-tis-a1-mpasket-gynaikon-vaftike-prasino/4586101/",
+          "pubDate": "Wed, 28 Jan 2026 18:10:46 +0000",
+          "description": "Ο Παναθηναϊκός ήταν ο μεγάλος νικητής του ντέρμπι της 14ης αγωνιστικής της Α1 Γυναικών. Η ομάδα της Σελέν Ερντέμ επικράτησε εντός έδρας του Ολυμπιακού με ...  \nTo άρθρο Παναθηναϊκός – Ολυμπιακός 88-85: Το ντέρμπι της Α1 μπάσκετ γυναικών βάφτηκε πράσινο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-3-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Σάσα Βεζένκοφ: Η ΔΕΑΒ κάλεσε τον παίκτη του Ολυμπιακού για το επεισόδιο με Ανδρέα Πετρόπουλο",
+          "link": "https://www.newsit.gr/athlitika/sasa-vezenkof-i-deav-kalese-ton-paikti-tou-olympiakou-gia-to-epeisodio-me-andrea-petropoulo/4586111/",
+          "pubDate": "Wed, 28 Jan 2026 18:04:42 +0000",
+          "description": "Η σύρραξη μεταξύ Σάσα Βεζένοφ και Ανδρέα Πατρόπουλου στο ματς Κολοσσός Ρόδου – Ολυμπιακός για τη GBL, ήταν αρκετή για να επέμβει η Διαρκής Επιτροπή ...  \nTo άρθρο Σάσα Βεζένκοφ: Η ΔΕΑΒ κάλεσε τον παίκτη του Ολυμπιακού για το επεισόδιο με Ανδρέα Πετρόπουλο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/bezenkof-eurokinissi-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Μπαχτσεσεχίρ – Άρης Betsson 81-79: Αδίκησε τον εαυτό του και ηττήθηκε με καλάθι του Φλιν στο φινάλε",
+          "link": "https://www.newsit.gr/athlitika/mpaxtsesexir-aris-betsson-81-79-adikise-ton-eayto-tou-kai-ittithike-me-kalathi-tou-flin-sto-finale/4586097/",
+          "pubDate": "Wed, 28 Jan 2026 18:03:37 +0000",
+          "description": "Ο Άρης Betsson πάλεψε για ένα τεράστιο διπλό στην Τουρκία, έφτασε μία “ανάσα” από τη νίκη κόντρα στην Μπαχτσεσεχίρ, ωστόσο στο φινάλε οι Τούρκοι έκαναν ...  \nTo άρθρο Μπαχτσεσεχίρ – Άρης Betsson 81-79: Αδίκησε τον εαυτό του και ηττήθηκε με καλάθι του Φλιν στο φινάλε δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-mitroulong-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τσιμίκας για το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ: «Θλιβερό, ο Θεός να δώσει δύναμη στις οικογένειες των θυμάτων»",
+          "link": "https://www.newsit.gr/athlitika/tsimikas-gia-to-tragiko-dystyxima-me-tous-opadous-tou-paok-thlivero-o-theos-na-dosei-dynami-stis-oikogeneies-ton-thymaton/4586085/",
+          "pubDate": "Wed, 28 Jan 2026 17:45:29 +0000",
+          "description": "Ο Κώστας Τσιμίκας μίλησε στη συνέντευξη Τύπου για το παιχνίδι του Παναθηναϊκού με τη Ρόμα (29/01/26, 22:00), αλλά και για την τραγωδία με τους αδικοχαμένους ...  \nTo άρθρο Τσιμίκας για το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ: «Θλιβερό, ο Θεός να δώσει δύναμη στις οικογένειες των θυμάτων» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tsimikas-4-1200x801.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία ΠΑΟΚ: Ενός λεπτού σιγή και χειροκρότημα από τους οπαδούς της ΑΕΚ στη Sunel Arena",
+          "link": "https://www.newsit.gr/athlitika/tragodia-paok-enos-leptou-sigi-kai-xeirokrotima-apo-tous-opadous-tis-aek-sti-sunel-arena/4586075/",
+          "pubDate": "Wed, 28 Jan 2026 17:37:47 +0000",
+          "description": "H ΑΕΚ υποδέχεται την Άλμπα Βερολίνου στη “Sunel Arena” των Άνω Λιοσίων, σε ματς για τη δεύτερη αγωνιστική της φάσης των “16” του Basketball Champions ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Ενός λεπτού σιγή και χειροκρότημα από τους οπαδούς της ΑΕΚ στη Sunel Arena δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aek-enos-leptoy-sigi-eurokinissi-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Παναθηναϊκός – Ρόμα: Πολλές απουσίες για το «τριφύλλι» στο τελευταίο παιχνίδι της League Phase του Europa League",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-roma-polles-apousies-gia-to-trifylli-sto-teleytaio-paixnidi-tis-league-phase-tou-europa-league/4586072/",
+          "pubDate": "Wed, 28 Jan 2026 17:34:34 +0000",
+          "description": "Ο Παναθηναϊκός θα αντιμετωπίσει τη Ρόμα για την τελευταία αγωνιστική του Europa League και θα παραταχθεί χωρίς τους Πελίστρι, Τζούρισιτς και Τσιριβέγια. Ο Φακούντο Πελίστρι ...  \nTo άρθρο Παναθηναϊκός – Ρόμα: Πολλές απουσίες για το «τριφύλλι» στο τελευταίο παιχνίδι της League Phase του Europa League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pellistri-1200x799.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία στον ΠΑΟΚ: Οι φίλοι του Ολυμπιακού ύψωσαν πανό στο Άμστερνταμ για τους αδικοχαμένους οπαδούς του Δικεφάλου",
+          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-oi-filoi-tou-olympiakou-ypsosan-pano-sto-amsterntam-gia-tous-adikoxamenous-opadous-tou-dikefalou/4586045/",
+          "pubDate": "Wed, 28 Jan 2026 17:22:41 +0000",
+          "description": "Οι φίλαθλοι του Ολυμπιακού στέκονται στο πλευρό του ΠΑΟΚ, υψώνοντας ένα πανό στο Άμστερνταμ στη μνήμη των επτά οπαδών του Δικεφάλου. Η Ελλάδα θρηνεί για ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Οι φίλοι του Ολυμπιακού ύψωσαν πανό στο Άμστερνταμ για τους αδικοχαμένους οπαδούς του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-pano-paok.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σοροί των αδικοχαμένων οπαδών του «δικεφάλου» με πτήση της Πολεμικής Αεροπορίας",
+          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-epistrefoun-tin-pempti-oi-7-soroi-ton-adikoxamenon-opadon-tou-dikefalou-me-ptisi-tis-polemikis-aeroporias/4586042/",
+          "pubDate": "Wed, 28 Jan 2026 17:09:01 +0000",
+          "description": "Η οικογένεια του ΠΑΟΚ και το ελληνικό ποδόσφαιρο παραμένουν συγκλονισμένοι από τον τραγικό θάνατο των επτά οπαδών του δικεφάλου -σε τροχαίο στη Ρουμανία το μεσημέρι ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σοροί των αδικοχαμένων οπαδών του «δικεφάλου» με πτήση της Πολεμικής Αεροπορίας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-reuters-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ο Γιάννης Αντετοκούνμπο είναι έτοιμος να αλλάξει πόλη και ομάδα: Βόμβα από το ESPN",
+          "link": "https://www.newsit.gr/athlitika/o-giannis-antetokounmpo-einai-etoimos-na-allaksei-poli-kai-omada-vomva-apo-to-espn/4586026/",
+          "pubDate": "Wed, 28 Jan 2026 16:55:27 +0000",
+          "description": "Aπομένουν λίγες μέρες μέχρι την Trade Deadline (22:00 Ελλάδας το βράδυ της 5ης Φεβρουαρίου) και ο Σαμς Σαράνια τάραξε τα νερά του NBA, αποκαλύπτοντας ότι ...  \nTo άρθρο Ο Γιάννης Αντετοκούνμπο είναι έτοιμος να αλλάξει πόλη και ομάδα: Βόμβα από το ESPN δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/antetokounmpo-6-1200x675.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Corriere dello Sport: To OAKA είναι μια καταστροφή με γερανούς και κλειστές κερκίδες",
+          "link": "https://www.newsit.gr/athlitika/corriere-dello-sport-to-oaka-einai-mia-katastrofi-me-geranous-kai-kleistes-kerkides/4586009/",
+          "pubDate": "Wed, 28 Jan 2026 16:38:40 +0000",
+          "description": "Η Ρόμα βρίσκεται στην Αθήνα για τον αγώνα της με τον Παναθηναϊκό για το Europa League (29/1, 22:00), με την “Corriere dello Sport” να σχολιάζει ...  \nTo άρθρο Corriere dello Sport: To OAKA είναι μια καταστροφή με γερανούς και κλειστές κερκίδες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roma-2-1200x803.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Άγιαξ – Ολυμπιακός: Στα ερυθρόλευκα η Damm Square από τους φίλους των Πειραιωτών",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-sta-erythroleyka-i-damm-square-apo-tous-filous-ton-peiraioton/4586013/",
+          "pubDate": "Wed, 28 Jan 2026 16:32:30 +0000",
+          "description": "Ο Ολυμπιακός αντιμετωπίζει τον Άγιαξ στο Άμστερνταμ (28.01.2026, 22:00, Newsit.gr, MEGA COSMOTE SPORT 2HD) με στόχο τη νίκη που θα τον οδηγήσει στα playoffs του ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Στα ερυθρόλευκα η Damm Square από τους φίλους των Πειραιωτών δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-opadoi-eurokinissi-2-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Άγιαξ – Ολυμπιακός: Η φανέλα που θα φορέσουν οι Πειραιώτες στον «τελικό» πρόκρισης στα νοκ άουτ του Champions League",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-i-fanela-pou-tha-foresoun-oi-peiraiotes-ston-teliko-prokrisis-sta-nok-aout-tou-champions-league/4586001/",
+          "pubDate": "Wed, 28 Jan 2026 16:20:41 +0000",
+          "description": "Ο Ολυμπιακός λίγες ώρες πριν την σπουδαία αναμέτρηση κόντρα στον Άγιαξ που θα κρίνει την παρουσία του στα νοκ άουτ του Champions League, ενημέρωσε ότι ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Η φανέλα που θα φορέσουν οι Πειραιώτες στον «τελικό» πρόκρισης στα νοκ άουτ του Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/el-kaabi-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ηρακλής – Κολοσσός Ρόδου 80-76: Στο Final 8 του Κυπέλλου οι Θεσσαλονικείς",
+          "link": "https://www.newsit.gr/athlitika/iraklis-kolossos-rodou-80-76-sto-final-8-tou-kypellou-oi-thessalonikeis/4585994/",
+          "pubDate": "Wed, 28 Jan 2026 16:16:03 +0000",
+          "description": "Το εισιτήριο για το Final 8 του Κυπέλλου Ελλάδας στο μπάσκετ “τσέκαρε” ο Ηρακλής, ο οποίος επικράτησε του Κολοσσού Ρόδου με 80-76 στη Θεσσαλονίκη. Ο ...  \nTo άρθρο Ηρακλής – Κολοσσός Ρόδου 80-76: Στο Final 8 του Κυπέλλου οι Θεσσαλονικείς δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iraklis-kolossos-1200x801.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΟΚ: Βαρύ το κλίμα στην αναχώρηση της αποστολής του Δικεφάλου για το παιχνίδι με τη Λιόν",
+          "link": "https://www.newsit.gr/athlitika/paok-vary-to-klima-stin-anaxorisi-tis-apostolis-tou-dikefalou-gia-to-paixnidi-me-ti-lion/4585987/",
+          "pubDate": "Wed, 28 Jan 2026 16:01:13 +0000",
+          "description": "Η αποστολή του ΠΑΟΚ αναχώρησε για τη Γαλλία με το κλίμα να είναι βαρύ ενόψει του παιχνιδιού κόντρα στη Λιόν (29/01/26, 22:00), με το οποίο ...  \nTo άρθρο ΠΑΟΚ: Βαρύ το κλίμα στην αναχώρηση της αποστολής του Δικεφάλου για το παιχνίδι με τη Λιόν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/konstantelias-3-1200x800.jpg",
+          "source": "NewsIT"
         }
       ]
     },
