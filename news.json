@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T18:45:30.816Z",
+  "lastUpdated": "2026-01-28T18:49:36.174Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τροχαίο στη Ρουμανία: Στο χειρουργείο ένας εκ των τραυματιών – Οι υπόλοιποι θα μεταφερθούν στην Ελλάδα την Πέμπτη",
+          "link": "https://www.newsit.gr/ellada/troxaio-sti-roumania-sto-xeirourgeio-enas-ek-ton-traymation-oi-ypoloipoi-tha-metaferthoun-stin-ellada-tin-pempti/4586139/",
+          "pubDate": "Wed, 28 Jan 2026 18:44:14 +0000",
+          "description": "Τους δύο από τους τρεις τραυματίες οπαδούς του ΠΑΟΚ που νοσηλεύονται στην Ρουμανίας μετά το πολύνεκρο τροχαίο δυστύχημα με τους επτά νεκρούς θα μεταφέρει αεροσκάφος ...  \nTo άρθρο Τροχαίο στη Ρουμανία: Στο χειρουργείο ένας εκ των τραυματιών – Οι υπόλοιποι θα μεταφερθούν στην Ελλάδα την Πέμπτη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-1200x900.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Στο χειρουργείο μετά από επιπλοκή ένας από τους τραυματισμένους οπαδούς του ΠΑΟΚ, η ανάρτηση Γεωργιάδη\n",
           "link": "https://www.protothema.gr/greece/article/1765039/sto-heirourgeio-auti-tin-ora-enas-apo-tous-traumatismenous-opadous-tou-paok-i-anartisi-georgiadi/?utm_source=rss",
@@ -145,12 +153,28 @@
           "source": "NewsIT"
         },
         {
+          "title": "Συγκλονίζει το πανό των οπαδών του Ολυμπιακού για τους αδικοχαμένους οπαδούς του ΠΑΟΚ (pic)",
+          "link": "https://www.in.gr/2026/01/28/sports/football/sygklonizei-pano-ton-opadon-tou-olympiakou-gia-tous-adikoxamenous-opadous-tou-paok-pic/",
+          "pubDate": "Wed, 28 Jan 2026 20:48:21 +0300",
+          "description": "Οι οπαδοί του Ολυμπιακού που βρίσκονται στο Άμστερνταμ για το παιχνίδι με τον Άγιαξ, τίμησαν τη μνήμη των οπαδών του ΠΑΟΚ που έχασαν τη ζωή τους στο τραγικό δυστύχημα της Ρουμανίας.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pano-olympiacos-paok-e1769625193808-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "ΗΠΑ: Μετέωρη η «αποκλιμάκωση» που υποσχέθηκε ο Τραμπ στη Μινεάπολη – «Ο δήμαρχος Φρέι παίζει με τη φωτιά»",
           "link": "https://www.newsit.gr/kosmos/ipa-meteori-i-apoklimakosi-pou-yposxethike-o-tramp-sti-mineapoli-o-dimarxos-frei-paizei-me-ti-fotia/4586069/",
           "pubDate": "Wed, 28 Jan 2026 17:46:41 +0000",
           "description": "Η «μικρή αποκλιμάκωση» που είχε υποσχεθεί ο Ντόναλντ Τραμπ στη Μινεάπολη, μετά τον δεύτερο θάνατο Αμερικανού πολίτη από πυρά ομοσπονδιακών πρακτόρων της ICE στην πόλη, ...  \nTo άρθρο ΗΠΑ: Μετέωρη η «αποκλιμάκωση» που υποσχέθηκε ο Τραμπ στη Μινεάπολη – «Ο δήμαρχος Φρέι παίζει με τη φωτιά» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/minneapolis-usa.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΣΟΚ για «γκρίζες ζώνες»: Μετά τη σαφή αποδοκιμασία Γεραπετρίτη, ο Μητσοτάκης οφείλει να απομακρύνει τον Λαζαρίδη – Εκτός κι αν συμφωνεί",
+          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/pasok-gia-gkrizes-zones-meta-ti-safi-apodokimasia-gerapetriti-o-mitsotakis-ofeilei-na-apomakrynei-ton-lazaridi-ektos-ki-symfonei/",
+          "pubDate": "Wed, 28 Jan 2026 20:46:20 +0300",
+          "description": "«Οι διχαστικές και εθνικά επικίνδυνες δηλώσεις του Μακάριου Λαζαριδη στη Βουλή αναπαράγουν την ίδια την προπαγάνδα και τις παράνομες διεκδικήσεις της Τουρκίας στο Αιγαίο», τονίζει το ΠΑΣΟΚ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pasok_2-2-768x432.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Τσιμίκας για το τραγικό δυστύχημα με τους οπαδούς του ΠΑΟΚ: «Θλιβερό, ο Θεός να δώσει δύναμη στις οικογένειες των θυμάτων»",
@@ -223,30 +247,6 @@
           "description": "Ο Παναθηναϊκός θα αντιμετωπίσει τη Ρόμα για την τελευταία αγωνιστική του Europa League και θα παραταχθεί χωρίς τους Πελίστρι, Τζούρισιτς και Τσιριβέγια. Ο Φακούντο Πελίστρι ...  \nTo άρθρο Παναθηναϊκός – Ρόμα: Πολλές απουσίες για το «τριφύλλι» στο τελευταίο παιχνίδι της League Phase του Europa League δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pellistri-1200x799.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Συμφωνία ΕΕ – Ινδίας: Απογοητευμένος από τους Ευρωπαίους δηλώνει ο υπουργός Οικονομικών των ΗΠΑ",
-          "link": "https://www.newsit.gr/oikonomia/diethni/symfonia-ee-indias-apogoiteymenos-apo-tous-eyropaious-dilonei-o-ypourgos-oikonomikon-ton-ipa/4586067/",
-          "pubDate": "Wed, 28 Jan 2026 17:32:55 +0000",
-          "description": "«Μεγάλη απογοήτευση» προκαλούν οι χώρες της Ευρωπαϊκής Ένωσης (ΕΕ) δήλωσε σήμερα (28.01.2026) ο υπουργός Οικονομικών των ΗΠΑ, Σκοτ Μπέσεντ, εξαιτίας της εμπορικής συμφωνίας που συνάφθηκε ...  \nTo άρθρο Συμφωνία ΕΕ – Ινδίας: Απογοητευμένος από τους Ευρωπαίους δηλώνει ο υπουργός Οικονομικών των ΗΠΑ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/india-eu-trade-reuters-1200x764.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Marseaux: «Η Eurovision ήταν το όνειρό μου, έλεγα στους γονείς μου ότι θέλω κι εγώ να πάω»",
-          "link": "https://www.newsit.gr/media/marseaux-i-eurovision-itan-to-oneiro-mou-elega-stous-goneis-mou-oti-thelo-ki-ego-na-pao/4586043/",
-          "pubDate": "Wed, 28 Jan 2026 17:32:06 +0000",
-          "description": "Η Marseaux θεωρείται ένα από τα μεγάλα φαβορί για την εκπροσώπηση της Ελλάδας στην Eurovision που θα γίνει φέτος στη Βιέννη. Η νεαρή καλλιτέχνιδα το ...  \nTo άρθρο Marseaux: «Η Eurovision ήταν το όνειρό μου, έλεγα στους γονείς μου ότι θέλω κι εγώ να πάω» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marseaux-ndp-1-1200x740.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ειρήνη Κουμαριανού: Τι θυμάται η εγγονή της, 13 χρόνια μετά από το θάνατο της ηθοποιού",
-          "link": "https://www.in.gr/2026/01/28/go-fun/fizz/eirini-koumarianou-ti-thymatai-eggoni-tis-13-xronia-meta-apo-thanato-tis-ithopoiou/",
-          "pubDate": "Wed, 28 Jan 2026 20:30:50 +0300",
-          "description": "Η Ειρήνη Κουμαριανού πέθανε στις 25 Ιανουαρίου 2013.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/iriniaa-768x502.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Η Nova παρουσιάζει το ντοκιμαντέρ «Μην τα παρατάς ποτέ» για το Basketaki AμεA - Μια ιστορία ζωής, ισότητας και έμπνευσης",
+          "link": "https://www.gazzetta.gr/basketball/basketaki-erasitehniko-protathlima-mpasket/2511016/i-nova-paroysiazei-ntokimanter-min-ta",
+          "pubDate": "Wed, 28 Jan 2026 20:48:37 +0200",
+          "description": "Σε μια ειδική πρεμιέρα σε κεντρικό κινηματογράφο της Αττικής, προβλήθηκε από τη Nova και το Basketaki AμεΑ το ντοκιμαντέρ powered by ΑΦΗΣ το οποίο φιλοδοξεί να αγγίξει το ευρύ κοινό, να εμπνεύσει και να υπενθυμίσει ότι ο αθλητισμός, όταν υπηρετεί τον άνθρωπο, γίνεται φορέας ελπίδας, αποδοχής και ισότητας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/photo3.jpg?itok=lu_aMCmf",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ξενοδοχείο στη Σελήνη μέχρι το 2032: Εταιρεία δέχεται ήδη προκαταβολές εκατομμυρίων (vid)",
+          "link": "https://www.gazzetta.gr/plus/2510972/xenodoheio-sti-selini-mehri-2032-etaireia-dehetai-idi-prokataboles-ekatommyrion-vid",
+          "pubDate": "Wed, 28 Jan 2026 20:46:00 +0200",
+          "description": "Νοσύστατη εταιρεία στην Καλιφόρνια άρχισε να δέχεται προκαταβολές έως και 1 εκατομμυρίου δολαρίων από ταξιδιώτες που επιθυμούν να είναι οι πρώτοι που θα μείνουν σε ξενοδοχείο στη Σελήνη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/xenodoheio-selhnh.jpg?itok=dWseM9s0",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Άγιαξ: Βαρελότα και βεγγαλικά από τους φίλους του πριν τον Ολυμπιακό!",
           "link": "https://www.gazzetta.gr/football/champions-league/2511015/agiax-barelota-kai-beggalika-apo-toys-filoys-toy-prin-ton",
           "pubDate": "Wed, 28 Jan 2026 20:37:38 +0200",
@@ -969,22 +985,6 @@
           "description": "Ο Κωνσταντίνος Τσιμίκας αναφέρθηκε στην τραγωδία με τους οπαδούς του ΠΑΟΚ, στην αναμέτρηση με τον Παναθηναϊκό και στη Λίβερπουλ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/tsimikas.jpg?itok=ikQ2WuFe",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Αστέρας AKTOR, μεταγραφές: Ψηλά στη λίστα ο Στέφαν Μίτροβιτς",
-          "link": "https://www.gazzetta.gr/football/superleague/2510986/asteras-aktor-metagrafes-psila-sti-lista-o-stefan-mitrobits",
-          "pubDate": "Wed, 28 Jan 2026 19:30:06 +0200",
-          "description": "Ο Αστέρας ΑΚΤΟR βρίσκεται σε επαφές με την Ελλάς Βερόνα για την απόκτηση του Στέφαν Μίτροβιτς.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mitrovic.jpg?itok=x1-bRWS-",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γκασπερίνι: «Σπουδαίος επαγγελματίας ο Μπενίτεθ»",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510985/gkasperini-spoydaios-epaggelmatias-o-mpeniteth",
-          "pubDate": "Wed, 28 Jan 2026 19:29:51 +0200",
-          "description": "Δείτε όσα ανέφερε ο Τζαν Πιέρο Γκασπερίνι ενόψει του αγώνα της Ρόμα με τον Παναθηναϊκό για το Europa League.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gasperini.jpg?itok=5SYbxHA2",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -1012,7 +1012,7 @@
           "title": "Συγκλονιστικό πανό στον «Τάφο του Ινδού» για τους οπαδούς του ΠΑΟΚ που έχασαν τη ζωή τους! (pic)",
           "link": "https://trifilara.gr/sygklonistiko-pano-ston-tafo-tou-indou-gia-tous-opadous-tou-paok-pou-echasan-ti-zoi-tous-pic/?utm_source=rss&utm_medium=rss&utm_campaign=sygklonistiko-pano-ston-tafo-tou-indou-gia-tous-opadous-tou-paok-pou-echasan-ti-zoi-tous-pic",
           "pubDate": "Wed, 28 Jan 2026 18:29:20 +0000",
-          "description": "Με τον δικό τους ξεχωριστό τρόπο θέλησαν να τιμήσουν τη μνήμη των αδικοχαμένων οπαδών του ΠΑΟΚ οι «πράσινοι» οπαδοί στον «Τάφο του Ινδού». Συγκεκριμένα, κατά τη διάρκεια της αναμέτρησης για το μπάσκετ γυναικών μεταξύ Παναθηναϊκού και Ολυμπιακού, αναρτήθηκε ένα πανό που έγραφε… «ΚΑΛΟ ΤΑΞΙΔΙ ΑΕΤΟΙ – ΘΥΡΑ 13». Δείτε την εικόνα:\nThe post Συγκλονιστικό πανό στον «Τάφο του Ινδού» για τους οπαδούς του ΠΑΟΚ που έχασαν τη ζωή τους! (pic) appeared first on Trifilara.gr.",
+          "description": "Με τον δικό τους ξεχωριστό τρόπο θέλησαν να τιμήσουν τη μνήμη των αδικοχαμένων οπαδών του ΠΑΟΚ οι «πράσινοι» οπαδοί στον «Τάφο του Ινδού». Συγκεκριμένα, κατά τη διάρκεια της αναμέτρησης για το μπάσκετ γυναικών μεταξύ Παναθηναϊκού και Ολυμπιακού, αναρτήθηκε ένα πανό που έγραφε… «ΚΑΛΟ ΤΑΞΙΔΙ ΑΕΤΟΙ – ΘΥΡΑ 13». Δείτε την εικόνα και το βίντεο:\nThe post Συγκλονιστικό πανό στον «Τάφο του Ινδού» για τους οπαδούς του ΠΑΟΚ που έχασαν τη ζωή τους! (pic) appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
         },
