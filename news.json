@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T07:25:25.341Z",
+  "lastUpdated": "2026-01-28T07:27:22.507Z",
   "totalArticles": 179,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ευαγγελία Μουμούρη: Για τα γυρίσματα του «Ριφιφί», έφυγα τρεις μήνες από το σπίτι μου",
+          "link": "https://www.newsit.gr/media/eyaggelia-moumouri-gia-ta-gyrismata-tou-rififi-efyga-treis-mines-apo-to-spiti-mou/4585331/",
+          "pubDate": "Wed, 28 Jan 2026 07:25:01 +0000",
+          "description": "«Δεν ήταν κάτι συνειδητό, ήταν απλώς μια διαδικασία που αποφάσισα να την κάνω έτσι» ανέφερε μεταξύ άλλων η Ευαγγελία Μουμούρη.  Δηλώσεις στους δημοσιογράφους των ψυχαγωγικών ...  \nTo άρθρο Ευαγγελία Μουμούρη: Για τα γυρίσματα του «Ριφιφί», έφυγα τρεις μήνες από το σπίτι μου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/moumouri-ndp-1200x823.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Σοφία Μαριόλα για Στράτο Τζώρτζογλου: Υπάρχει πόνος στο διαζύγιο αλλά υπάρχει πόνος και στο γάμο",
           "link": "https://www.newsit.gr/lifestyle/sofia-mariola-gia-strato-tzortzoglou-yparxei-ponos-sto-diazygio-alla-yparxei-ponos-kai-sto-gamo/4585350/",
@@ -239,14 +247,6 @@
           "description": "Πιάτο για χορτοφάγους αλλά και για όσους αγαπούν τις εντάσεις. Το κλειδί της γεύσης σε αυτό το πιάτο είναι η ένταση που δίνει τη πάστα ...  \nTo άρθρο Συνταγή για ρεβίθια με γλυκοπατάτες σε σάλτσα κάρι δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1137780156-1200x801.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Φωτογραφία από το σημείο της διαρροής προπανίου, «τους λέγαμε μυρίζει υγραέριο» δηλώνουν οι εργαζόμενοι ",
-          "link": "https://www.protothema.gr/greece/article/1764540/sto-eisaggelea-odigoudai-simera-o-idioktitis-tou-ergostasiou-violada-kai-akomi-duo-stelehi/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 07:59:00 +0200",
-          "description": "Στον εισαγγελέα σήμερα οι τρεις συλληφθέντες για τη φονική έκρηξη στο εργοστάσιο Βιολάντα, ενώ συνεχίζεται η έρευνα για την έκρηξη που προκάλεσε τον θάνατο 5 γυναικών - Κατά την αυτοψία, εντοπίστηκαν στο υπόγειο σωλήνες προπάνιου οι οποίοι είχαν υποστεί διάτρηση",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/violanta-mak2.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
