@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T00:45:28.247Z",
+  "lastUpdated": "2026-01-28T00:50:30.521Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
+          "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 00:46:53 GMT",
+          "description": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fb/live/714cbd90-fb9c-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "'My prosthetic leg represents my love for this country'",
           "link": "https://www.bbc.com/news/articles/cwy11q1pwpgo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 00:17:35 GMT",
@@ -587,14 +595,6 @@
           "description": "Οι ανησυχίες της διεθνούς κοινότητας για τις Ηνωμένες Πολιτείες ως οικοδεσπότες πηγάζουν από την επεκτατική στάση του Τραμπ στη Γροιλανδία, τις ταξιδιωτικές απαγορεύσεις και την επιθετική τακτική στην αντιμετώπιση των διαδηλωτών για την επιβολή της μετανάστευσης.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
-          "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 20:39:46 GMT",
-          "description": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fb/live/714cbd90-fb9c-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
         },
         {
           "title": "Ο Τζέικομπ Ελόρντι για Τζέιμς Μποντ; Ο νεαρός φέρεται να έκανε δοκιμαστικό με τον Ντενί Βιλνέβ",
