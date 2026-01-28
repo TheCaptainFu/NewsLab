@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-28T15:00:51.674Z",
+  "lastUpdated": "2026-01-28T15:05:26.741Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
@@ -169,6 +169,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Πώς να επενδύσετε σε χρυσό – Τι πυροδοτεί το ράλι",
+          "link": "https://www.in.gr/2026/01/28/economy/diethnis-oikonomia/pos-na-ependysete-se-xryso-ti-pyrodotei-rali/",
+          "pubDate": "Wed, 28 Jan 2026 17:00:37 +0300",
+          "description": "Ο χρυσός σπάει απανωτά ρεκόρ – Ποιοι τρόποι υπάρχουν για να επενδύσει κανείς σε αυτόν",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/jingming-pan-iYsrkq5qq0Q-unsplash-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Πώς έγινε η φονική έκρηξη στο εργοστάσιο «Βιολάντα» – Το 3D γράφημα της Πυροσβεστικής",
+          "link": "https://www.in.gr/2026/01/28/greece/pos-egine-foniki-ekriksi-sto-ergostasio-violanta-3d-grafima-tis-pyrosvestikis/",
+          "pubDate": "Wed, 28 Jan 2026 17:00:28 +0300",
+          "description": "Πώς έγινε η έκρηξη στο εργοστάσιο «Βιολάντα» που στοίχισε τη ζωή σε πέντε εργαζόμενες.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6826881-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Μινεάπολη: Ενός λεπτού σιγή κράτησαν οι συνάδελφοι του δολοφονημένου από την ICE Άλεξ Πρέτι – Συγκλονιστική εικόνα",
           "link": "https://www.newsit.gr/kosmos/mineapoli-enos-leptou-sigi-kratisan-oi-synadelfoi-tou-dolofonimenou-apo-tin-ice-aleks-preti-sygklonistiki-eikona/4585824/",
           "pubDate": "Wed, 28 Jan 2026 14:00:13 +0000",
@@ -193,6 +209,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Γαβρήλος: Η κυβέρνηση φέρνει ακέραια την ευθύνη για την αύξηση των εργατικών δυστυχημάτων – Επανασύσταση Γραμματείας ΣΕΠΕ",
+          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/gavrilos-kyvernisi-fernei-akeraia-tin-eythyni-gia-tin-ayksisi-ton-ergatikon-dystyximaton-epanasystasi-grammateias-sepe/",
+          "pubDate": "Wed, 28 Jan 2026 16:55:46 +0300",
+          "description": "«Τις μέρες της ΝΔ, τις χαρακτηρίζουν η αποδόμηση του εργατικού και συλλογικού δικαίου. Οι απλήρωτες υπερωρίες, το 13ωρο, η υπερεργασία», τόνισε ο Γιώργος Γαβρήλος από τον ΣΥΡΙΖΑ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2345-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ερυθρόλευκη… τρέλα: Κοκκινίζει το Άμστερνταμ – Χιλιάδες οπαδοί του Ολυμπιακού (vids)",
+          "link": "https://www.in.gr/2026/01/28/sports/football/erythroleyki-trela-kokkinizei-amsterntam-xiliades-opadoi-tou-olympiakou-vid/",
+          "pubDate": "Wed, 28 Jan 2026 16:55:07 +0300",
+          "description": "Ο κόσμος του Ολυμπιακού έχει αρχίσει ήδη να συγκεντρώνεται σε κεντρικά σημεία του Άμστερνταμ, ενόψει της αποψινής αναμέτρησης με τον Άγιαξ (22:00).",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/osfp-kosmos-amstern-768x482.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Διοικητικοί Δικαστές: Το 95,4% είπε «όχι» στο σχέδιο αναθεωρημένου Κώδικα Διοικητικής Δικονομίας ",
           "link": "https://www.protothema.gr/greece/article/1764836/dioikitikoi-dikastes-to-954-eipe-ohi-sto-shedio-anatheorimenou-kodika-dioikitikis-dikonomias/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 15:54:00 +0200",
@@ -214,38 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 13:48:56 +0000",
           "description": "Ο ΠΑΟΚ βυθίστηκε στο πένθος από το θάνατο 7 οπαδών του σε τροχαίο δυστύχημα στη Ρουμανία και η UEFA έδωσε τα συλλυπητήριά της μέσα από ...  \nTo άρθρο Συλλυπητήρια από την UEFA στην ΕΠΟ για την τραγωδία του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2024/05/CEFERIN_REUTERS.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τροχαίο με νεκρούς οπαδούς του ΠΑΟΚ: Κεριά και λουλούδια έξω από το κατάστημα που εργαζόταν ο 30χρονος που σκοτώθηκε στη Ρουμανία",
-          "link": "https://www.newsit.gr/ellada/troxaio-me-nekrous-opadous-tou-paok-keria-kai-louloudia-ekso-apo-to-katastima-pou-ergazotan-o-30xronos-pou-skotothike-sti-roumania/4585768/",
-          "pubDate": "Wed, 28 Jan 2026 13:41:14 +0000",
-          "description": "Ένα 24ωρο μετά το σοκαριστικό τροχαίο δυστύχημα στο οποίο βρήκαν τραγικό θάνατο 7 νεαροί οπαδοί του ΠΑΟΚ στη Ρουμανία, όλη η Ελλάδα πενθεί τον χαμό ...  \nTo άρθρο Τροχαίο με νεκρούς οπαδούς του ΠΑΟΚ: Κεριά και λουλούδια έξω από το κατάστημα που εργαζόταν ο 30χρονος που σκοτώθηκε στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/magazi-paok-troxaio-7.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η Κέιτ Μος στο Παρίσι με σέξι δερμάτινη φούστα και μαύρο lingerie",
-          "link": "https://www.newsit.gr/lifestyle/i-keit-mos-sto-parisi-me-seksi-dermatini-fousta-kai-mayro-lingerie/4585783/",
-          "pubDate": "Wed, 28 Jan 2026 13:39:45 +0000",
-          "description": "Στο Παρίσι, για το ανδρικό σόου του Yves Saint Laurent, βρέθηκε η Κέιτ Μος, τραβώντας τα βλέμματα και ποζάροντας στους φωτογράφους, πριν μπει στην αίθουσα. ...  \nTo άρθρο Η Κέιτ Μος στο Παρίσι με σέξι δερμάτινη φούστα και μαύρο lingerie δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kate-moss-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Πολεμική Αεροπορία: Συμμετέχει στο σχολείο «Top Gun» του NATO με F-16 για να συνεχίσει την θετική της παράδοση",
-          "link": "https://www.newsit.gr/ellada/polemiki-aeroporia-symmetexei-sto-sxoleio-top-gun-tou-nato-me-f-16-gia-na-synexisei-tin-thetiki-tis-paradosi/4585789/",
-          "pubDate": "Wed, 28 Jan 2026 13:39:33 +0000",
-          "description": "Στο Αλμπαθέτε της Ισπανίας, εκεί όπου «χτυπά» ο παλμός του Tactical Leadership Programme (TLP) και εκπαιδεύονται οι αυριανοί ηγέτες των σύνθετων αεροπορικών επιχειρήσεων του NATO, ...  \nTo άρθρο Πολεμική Αεροπορία: Συμμετέχει στο σχολείο «Top Gun» του NATO με F-16 για να συνεχίσει την θετική της παράδοση δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/f-16-viper-polemiki-aeroporia-2-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Eurovision 2026: Η Ελλάδα στην 3η θέση στα στοιχήματα, λίγες ημέρες πριν την ανάδειξη του εκπροσώπου της",
-          "link": "https://www.newsit.gr/media/eurovision-2026-i-ellada-stin-3i-thesi-sta-stoiximata-liges-imeres-prin-tin-anadeiksi-tou-ekprosopou-tis/4585775/",
-          "pubDate": "Wed, 28 Jan 2026 13:29:25 +0000",
-          "description": "Στα μέσα Φεβρουαρίου η Ελλάδα θα μάθει ποιος θα είναι ο φιλόδοξος καλλιτέχνης που θα εκπροσωπήσει τη χώρα μας στη φετινή Eurovision που θα γίνει ...  \nTo άρθρο Eurovision 2026: Η Ελλάδα στην 3η θέση στα στοιχήματα, λίγες ημέρες πριν την ανάδειξη του εκπροσώπου της δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eurovision-reuters-1200x730.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "US YouTube star IShowSpeed to get Ghanaian passport as Africa tour ends",
+          "link": "https://www.bbc.com/news/articles/czx12q8qnweo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 15:01:28 GMT",
+          "description": "Ghana's foreign minister says the influencer is a \"worthy ambassador\", but some Ghanaians criticised the move.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd17/live/230592d0-fc26-11f0-a47f-d352a7d9988a.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Εμπορική συμφωνία με Ινδία εδραιώνει τη φωνή της ΕΕ σε «πολυπολικό κόσμο», λέει Κόστα στο Euronews",
           "link": "http://gr.euronews.com/my-europe/2026/01/28/indias-trade-deal-strengthens-the-eus-position-in-a-multipolar-world-costa-tells-euronews",
           "pubDate": "Wed, 28 Jan 2026 15:48:17 +0100",
@@ -579,14 +587,6 @@
           "description": "Σε αποκλειστική συνέντευξη που παραχώρησε στο Euronews στο Νέο Δελχί, ο Πρόεδρος του Ευρωπαϊκού Συμβουλίου λέει πως η συμφωνία στέλνει ένα \"μήνυμα στη διεθνή κοινότητα\" ότι \"αξιόπιστοι εταίροι μπορούν να εργαστούν για το καλό στον κόσμο\"",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "US YouTube star IShowSpeed to get Ghanaian passport as Africa tour ends",
-          "link": "https://www.bbc.com/news/articles/czx12q8qnweo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 13:25:56 GMT",
-          "description": "Ghana's foreign minister says the influencer is a \"worthy ambassador\", but some Ghanaians criticised the move.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd17/live/230592d0-fc26-11f0-a47f-d352a7d9988a.jpg",
-          "source": "BBC News"
         },
         {
           "title": "Τη νύχτα ρωσικά μη επανδρωμένα έπληξαν κατοικίες, ζημιές σε μονή στην Οδησσό",
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Η αντοχή ως στρατηγική: ο Άγιαξ και το νέο του όπλο",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510938/i-antohi-os-stratigiki-o-agiax-kai-neo-toy-oplo",
+          "pubDate": "Wed, 28 Jan 2026 17:05:07 +0200",
+          "description": "Με σχεδόν πλήρες ρόστερ, παρά το ασφυκτικό πρόγραμμα των τελευταίων εβδομάδων, ο Άγιαξ πηγαίνει στο κρίσιμο ματς με τον Ολυμπιακό έχοντας ένα ξεκάθαρο πλεονέκτημα: τη φυσική του κατάσταση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ajax_win.jpg?itok=8xkfdWb9",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ολυμπιακός: Από Έβρο μέχρι Λευκωσία στο Άμστερνταμ χωρίς εισιτήριο για τη νίκη-πρόκριση επί του Άγιαξ (vid)  ",
           "link": "https://www.gazzetta.gr/football/champions-league/2510937/olympiakos-apo-ebro-mehri-leykosia-sto-amsterntam-horis-eisitirio",
           "pubDate": "Wed, 28 Jan 2026 17:00:27 +0200",
@@ -766,7 +774,7 @@
           "title": "Stoiximan Super League 1: Κανένα αίτημα για αναβολή από την Λίγκα ",
           "link": "https://www.gazzetta.gr/football/superleague/2510935/stoiximan-super-league-1-kanena-aitima-gia-anaboli-apo-tin-ligka",
           "pubDate": "Wed, 28 Jan 2026 16:54:56 +0200",
-          "description": "Η Λίγκα δεν έχει αποστείλει σύμφωνα με τις πληροφορίες που υπάρχουν αίτημα για αναβολή της επικείμενης 19ης αγωνιστικής της Stoiximan Super League 1.",
+          "description": "Η Λίγκα δεν έχει αποστείλει κανένα αίτημα για αναβολή της επικείμενης 19ης αγωνιστικής του Πρωταθλήματος της Stoiximan Super League 1.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sl_1_2.jpg?itok=0v3ihfqI",
           "source": "Gazzetta"
         },
@@ -784,6 +792,14 @@
           "pubDate": "Wed, 28 Jan 2026 16:51:26 +0200",
           "description": "Απρόσμενους επισκέπτες είχε η Μπαρτσελόνα πριν από το ματς με την Κοπεγχάγη, καθώς αρουραίοι βρέθηκαν να κάνουν βόλτες στο «Καμπ Νόου».",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/rata1.jpg?itok=K6CJQFd7",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Φάνης Λαμπρόπουλος: Τα πρώτα σχόλια για την αποχώρηση της Ελένης Βουλγαράκη (vid)",
+          "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
+          "pubDate": "Wed, 28 Jan 2026 16:51:00 +0200",
+          "description": "Λίγο πριν ψηφίσετε στα Gazzetta Awards δείτε πόσο καλά θυμάστε τι έκαναν μέσα στο 2025 10 ομάδες μας, Εθνικές και σύλλογοι.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fanis-lampropoylos.jpg.png?itok=LQ9cIHis",
           "source": "Gazzetta"
         },
         {
@@ -969,22 +985,6 @@
           "description": "Ο Αναπληρωτής Υπουργός Αθλητισμού άφησε ανοικτό το ενδεχόμενο αναβολής της 19ης αγωνιστικής της Superleague.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-07/vroutsis_intime.jpg?itok=YkX_o80q",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Συγκλονισμένοι και στη Ρουμανία από το πολύνεκρο δυστύχημα",
-          "link": "https://www.newsit.gr/athlitika/paok-sygklonismenoi-kai-sti-roumania-apo-to-polynekro-dystyxima/4585757/",
-          "pubDate": "Wed, 28 Jan 2026 13:07:42 +0000",
-          "description": "Το τραγικό δυστύχημα με τους 7 νεκρούς και τους 3 τραυματίες οπαδούς του ΠΑΟΚ, έχει συγκλονίσει και τη Ρουμανία, όπου και έλαβε χώρα το φρικτό ...  \nTo άρθρο ΠΑΟΚ: Συγκλονισμένοι και στη Ρουμανία από το πολύνεκρο δυστύχημα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-3.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Παραλίγο ξύλο στο Θάντερ-Πέλικανς: Ο Ντορτ γράπωσε από την φανέλα τον Φίαρς (vid)",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510908/paraligo-xylo-sto-thanter-pelikans-o-ntort-grapose-apo-tin-fanela-ton-fiars",
-          "pubDate": "Wed, 28 Jan 2026 15:06:38 +0200",
-          "description": "Το ματς των Θάντερ με τους Πέλικανς δεν ήταν ήρεμο και ο Ντορτ παραλίγο να το τινάξει στον... αέρα στο τέλος.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dort.jpg?itok=Wfk1pDOO",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -993,10 +993,18 @@
       "color": "lime",
       "articles": [
         {
-          "title": "Παναθηναϊκός: Διαθέσιμα λίγα επιπλέον εισιτήρια για το sold out με τη Ρεάλ!",
+          "title": "Έκτακτη διάθεση εισιτηρίων για το Παναθηναϊκός – Ρεάλ Μαδρίτης!",
+          "link": "https://trifilara.gr/ektakth-diathesh-eisithriwn-gia-to-panathinaikos-real-madriths/?utm_source=rss&utm_medium=rss&utm_campaign=ektakth-diathesh-eisithriwn-gia-to-panathinaikos-real-madriths",
+          "pubDate": "Wed, 28 Jan 2026 15:03:24 +0000",
+          "description": "Η ΚΑΕ Παναθηναϊκός AKTOR ανακοίνωσε την έκτακτη διάθεση περιορισμένου αριθμού εισιτηρίων για την αναμέτρηση με τη Ρεάλ Μαδρίτης.\nThe post Έκτακτη διάθεση εισιτηρίων για το Παναθηναϊκός – Ρεάλ Μαδρίτης! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Παναθηναϊκός: Διαθέσιμα λίγα επιπλέον εισιτήρια για το παιχνίδι με τη Ρεάλ!",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-diathesima-liga-epipleon-eisithria-gia-to-sold-out-me-th-real/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-diathesima-liga-epipleon-eisithria-gia-to-sold-out-me-th-real",
           "pubDate": "Wed, 28 Jan 2026 14:55:53 +0000",
-          "description": "Η ΚΑΕ Παναθηναϊκός AKTOR ανακοίνωσε την έκτακτη διάθεση περιορισμένου αριθμού εισιτηρίων για την αναμέτρηση με τη Ρεάλ Μαδρίτης. Σημαντική ενημέρωση για τους φίλους του Παναθηναϊκός AKTOR εξέδωσε η ΚΑΕ, ενόψει της αναμέτρησης με την Ρεάλ Μαδρίτης την Τρίτη (03/02, 21:15), στο πλαίσιο της 26ης αγωνιστικής της regular season της EuroLeague. Παρότι το παιχνίδι έχει ανακοινωθεί […]\nThe post Παναθηναϊκός: Διαθέσιμα λίγα επιπλέον εισιτήρια για το sold out με τη Ρεάλ! appeared first on Όλα Πράσινα.",
+          "description": "Η ΚΑΕ Παναθηναϊκός AKTOR ανακοίνωσε την έκτακτη διάθεση περιορισμένου αριθμού εισιτηρίων για την αναμέτρηση με τη Ρεάλ Μαδρίτης. Σημαντική ενημέρωση για τους φίλους του Παναθηναϊκού εξέδωσε η ΚΑΕ, ενόψει της αναμέτρησης με την Ρεάλ Μαδρίτης την Τρίτη (03/02, 21:15), στο πλαίσιο της 26ης αγωνιστικής της regular season της EuroLeague. Παρότι το παιχνίδι έχει ανακοινωθεί ως […]\nThe post Παναθηναϊκός: Διαθέσιμα λίγα επιπλέον εισιτήρια για το παιχνίδι με τη Ρεάλ! appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/sima.webp",
           "source": "Όλα Πράσινα"
         },
@@ -1215,14 +1223,6 @@
           "description": "Ο Αλέξανδρος Βανδήρας υπέγραψε επαγγελματικό συμβόλαιο με τον Παναθηναϊκό έως το 2028.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5006057.jpg?fit=1200%2C799&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Πήρε νέο «διαμαντάκι» ο Παναθηναϊκός!",
-          "link": "https://trifilara.gr/phre-neo-diamantaki-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=phre-neo-diamantaki-o-panathinaikos",
-          "pubDate": "Wed, 28 Jan 2026 11:27:31 +0000",
-          "description": "Ο Παναθηναϊκός συνεχίζει να επενδύει στις Ακαδημίες, «δένοντας» με επαγγελματικό συμβόλαιο ένα ακόμη ταλέντο.\nThe post Πήρε νέο «διαμαντάκι» ο Παναθηναϊκός! appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         },
         {
           "title": "Ο φαύλος κύκλος και η σταθερότητα ως προαπαιτούμενο",
