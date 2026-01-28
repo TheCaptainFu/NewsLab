@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T23:15:32.331Z",
+  "lastUpdated": "2026-01-28T23:20:29.479Z",
   "totalArticles": 178,
   "totalFeeds": 24,
   "successfulFeeds": 14,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βαθμολογία UEFA: Η Ελλάδα απειλεί την Τσεχία και κάνει όνειρα για 10άδα μετά την πρόκριση του Ολυμπιακού",
+          "link": "https://www.newsit.gr/athlitika/vathmologia-uefa-i-ellada-apeilei-tin-tsexia-kai-kanei-oneira-gia-10ada-meta-tin-prokrisi-tou-olympiakou/4586312/",
+          "pubDate": "Wed, 28 Jan 2026 23:17:27 +0000",
+          "description": "Η Ελλάδα συνέχισε την ανοδική πορεία της στη βαθμολογία της UEFA μετά τη θριαμβευτική πρόκριση του Ολυμπιακού στα πλέι οφ του Champions League. H χώρα ...  \nTo άρθρο Βαθμολογία UEFA: Η Ελλάδα απειλεί την Τσεχία και κάνει όνειρα για 10άδα μετά την πρόκριση του Ολυμπιακού δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-sipioni-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Μεντιλίμπαρ για την πρόκριση του Ολυμπιακού: «Δεν υπάρχει κάποιο μαγικό, τα αποτελέσματα έρχονται με τη δουλειά»",
           "link": "https://www.newsit.gr/athlitika/mentilimpar-gia-tin-prokrisi-tou-olympiakou-den-yparxei-kapoio-magiko-ta-apotelesmata-erxontai-me-ti-douleia/4586313/",
@@ -239,14 +247,6 @@
           "description": "Οι οπαδοί του ΠΑΟΚ, αλλά και του Πανιώνιου που έσπευσαν να εκφράσουν τη στήριξή τους, δημιούργησαν ένα μικρό, μνημείο, άναψαν κεριά και άφησαν κασκόλ",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/omonoia_paok.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Champions League: Δείτε όλα τα ζευγάρια των πλέι οφ",
-          "link": "https://www.in.gr/2026/01/29/sports/football/champions-league/champions-league-deite-ola-ta-zeygaria-ton-plei/",
-          "pubDate": "Thu, 29 Jan 2026 00:35:28 +0300",
-          "description": "Η κλήρωση για τα πλέι οφ του Champions League, στα οποία θα βρίσκεται και ο Ολυμπιακός μετά τη μεγάλη νίκη επί του Άγιαξ, θα λάβει χώρα την Παρασκευή (30/1, 13:00)",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_xvK8EbUAAdb3--e1769639171613-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Βαθμολογία UEFA: Η Ελλάδα απειλεί την Τσεχία και κάνει όνειρα για 10άδα μετά την πρόκριση του Ολυμπιακού",
+          "link": "https://www.newsit.gr/athlitika/vathmologia-uefa-i-ellada-apeilei-tin-tsexia-kai-kanei-oneira-gia-10ada-meta-tin-prokrisi-tou-olympiakou/4586312/",
+          "pubDate": "Wed, 28 Jan 2026 23:17:27 +0000",
+          "description": "Η Ελλάδα συνέχισε την ανοδική πορεία της στη βαθμολογία της UEFA μετά τη θριαμβευτική πρόκριση του Ολυμπιακού στα πλέι οφ του Champions League. H χώρα ...  \nTo άρθρο Βαθμολογία UEFA: Η Ελλάδα απειλεί την Τσεχία και κάνει όνειρα για 10άδα μετά την πρόκριση του Ολυμπιακού δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-sipioni-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Μαρτίνς: «Η ομάδα δεν τα παρατάει ποτέ, κάναμε το ιδανικό παιχνίδι»",
           "link": "https://www.gazzetta.gr/football/champions-league/2511102/martins-i-omada-den-ta-parataei-pote-kaname-idaniko-paihnidi",
           "pubDate": "Thu, 29 Jan 2026 01:08:22 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Thu, 29 Jan 2026 00:06:34 +0200",
           "description": "Ο Ολυμπιακός προκρίθηκε και αναμένει την κλήρωση των play-offs του Champions League, η οποία είναι προγραμματισμένη για τις 30 Ιανουαρίου στη Νιόν της Ελβετίας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiacos_win_amsterdam.jpg?itok=vQSNQnuR",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Ατελείωτο πάρτι μετά την επική πρόκριση από παίκτες, ομάδα και κόσμο! (vids)",
-          "link": "https://www.gazzetta.gr/football/2511079/olympiakos-ateleioto-parti-meta-tin-epiki-prokrisi-apo-paiktes-omada-kai-kosmo",
-          "pubDate": "Thu, 29 Jan 2026 00:05:09 +0200",
-          "description": "Ο Ολυμπιακός είναι στην επόμενη φάση του Champions League με νίκη πρόκριση και τεράστια μαγκιά! Δείτε τους πανηγυρισμούς από ομάδα και κόσμο! ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kosmos_paiktes.jpg?itok=A-cYGH18",
           "source": "Gazzetta"
         }
       ]
