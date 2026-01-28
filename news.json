@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-28T03:20:29.522Z",
+  "lastUpdated": "2026-01-28T03:22:02.770Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
@@ -581,6 +581,14 @@
           "source": "BBC News"
         },
         {
+          "title": "Ο Ρούτε αντιμετωπίζει αντιδράσεις επειδή είπε στους Ευρωπαίους να \"συνεχίσουν να ονειρεύονται\" την ανεξαρτησία από την ασφάλεια των ΗΠΑ",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/o-royte-antimetwpizei-antidraseis-epeidh-eipe-stoys-eyrwpaioys-na-synexisoyn-na-oneireyon",
+          "pubDate": "Tue, 27 Jan 2026 22:52:17 +0100",
+          "description": "Ο Γενικός Γραμματέας του ΝΑΤΟ Μαρκ Ρούτε δέχεται πυρά για τα απορριπτικά του σχόλια σχετικά με την ιδέα του ευρωπαϊκού διαχωρισμού από την προστασία της Ουάσινγκτον. \"Δεν μπορείτε, δεν μπορούμε\", δήλωσε.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Zelensky condemns deadly Russian drone strike on passenger train",
           "link": "https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 21:48:09 GMT",
@@ -589,12 +597,60 @@
           "source": "BBC News"
         },
         {
+          "title": "Βαθμολογία Michelin και στα οινοποιεία",
+          "link": "http://gr.euronews.com/culture/2026/01/27/ba8mologia-michelin-kai-sta-oinopoieia",
+          "pubDate": "Tue, 27 Jan 2026 22:39:20 +0100",
+          "description": "Οι δύο πρώτες τοποθεσίες που μελετήθηκαν είναι η Βουργουνδία και το Μπορντό. Οι Ούγγροι οινοπαραγωγοί ελπίζουν ότι θα μπορέσουν να βγουν στην επιφάνεια. Το κράτος υποστηρίζει την παρουσία του οδηγού Michelin στην Ουγγαρία.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Κλιμακώνεται η ένταση για τη συμμετοχή του Ισραήλ στη Eurovision 2026",
+          "link": "http://gr.euronews.com/culture/2026/01/27/klimakwnetai-h-entash-gia-th-symmetoxh-toy-israhl-sth-eurovision-2026",
+          "pubDate": "Tue, 27 Jan 2026 22:23:47 +0100",
+          "description": "Η RAI ζητά εμφάνιση Παλαιστίνιου καλλιτέχνη «εκτός διαγωνισμού» στη Βιέννη",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Who is Tom Homan, Trump's 'border tsar' deployed to Minneapolis?",
           "link": "https://www.bbc.com/news/articles/cjw1pn4lwjqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 21:17:35 GMT",
           "description": "The US border tsar has long been a ferocious defender of Donald Trump's immigration policies.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc4/live/0f179390-fbae-11f0-b852-153f64f31c74.jpg",
           "source": "BBC News"
+        },
+        {
+          "title": "Ενισχύεται η δυναμική στην ΕΕ για χαρακτηρισμό των Φρουρών της Ισλαμικής Επανάστασης ως τρομοκρατικής οργάνωσης",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/enisxyetai-h-dynamikh-sthn-ee-gia-xarakthrismo-twn-froyrwn-ths-islamikhs-epanastashs-ws-tr",
+          "pubDate": "Tue, 27 Jan 2026 21:47:56 +0100",
+          "description": "Στροφή της Ιταλίας και αυξανόμενες πιέσεις για νέες κυρώσεις κατά του Ιράν",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Ο πρώην πρόεδρος της FIFA Zεπ Μπλάτερ υποστηρίζει τις εκκλήσεις για μποϊκοτάζ του Παγκοσμίου Κυπέλλου στις ΗΠΑ",
+          "link": "http://gr.euronews.com/2026/01/27/o-prwhn-proedros-ths-fifa-zep-mplater-yposthrizei-tis-ekklhseis-gia-mpoikotaz-toy-pagkosmi",
+          "pubDate": "Tue, 27 Jan 2026 21:43:21 +0100",
+          "description": "Οι ανησυχίες της διεθνούς κοινότητας για τις Ηνωμένες Πολιτείες ως οικοδεσπότες πηγάζουν από την επεκτατική στάση του Τραμπ στη Γροιλανδία, τις ταξιδιωτικές απαγορεύσεις και την επιθετική τακτική στην αντιμετώπιση των διαδηλωτών για την επιβολή της μετανάστευσης.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Ο Τζέικομπ Ελόρντι για Τζέιμς Μποντ; Ο νεαρός φέρεται να έκανε δοκιμαστικό με τον Ντενί Βιλνέβ",
+          "link": "http://gr.euronews.com/culture/2026/01/27/is-jacob-elordi-about-to-become-the-youngest-and-tallest-james-bond-yet",
+          "pubDate": "Tue, 27 Jan 2026 21:37:24 +0100",
+          "description": "Η κούρσα για τον νέο Τζέιμς Μποντ φουντώνει. Νέο ρεπορτάζ αναφέρει πως ο αγαπημένος του διαδικτύου, Τζέικομπ Ελόρντι, έκανε δοκιμαστικό με τον Ντενί Βιλνέβ, σκηνοθέτη του Bond 26.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Μείωση αιτήσεων ασύλου και απονομών ιθαγένειας στη Γαλλία το 2025",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/meiwsh-aithsewn-asyloy-kai-aponomwn-i8ageneias-sth-gallia-to-2025",
+          "pubDate": "Tue, 27 Jan 2026 21:28:28 +0100",
+          "description": "Αυστηρότερα κριτήρια παραμονής και πολιτογράφησης μετά τις εγκυκλίους Ρεταγιό",
+          "thumbnail": null,
+          "source": "Euronews"
         },
         {
           "title": "TikTok US pushes back on claims it is censoring content",
@@ -613,12 +669,52 @@
           "source": "BBC News"
         },
         {
+          "title": "Παιχνίδι εξουσίας για την Τεχνητή Νοημοσύνη: Μπορεί η Ευρώπη να φτάσει τις ΗΠΑ και την Κίνα;",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/eu-xl-power-play-gia-texniti-noimosini",
+          "pubDate": "Tue, 27 Jan 2026 21:17:48 +0100",
+          "description": "Η ΕΕ ηγείται της κούρσας της ΤΝ με βασικές πολιτικές, όπως ο νόμος για την ΤΝ, αλλά οι ΗΠΑ και η Κίνα προηγούνται με την καινοτομία και τις επενδύσεις. Μπορεί η ΕΕ να καλύψει το χάσμα και να καλύψει το χαμένο έδαφος;",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Βιώσιμος τουρισμός στην Ευρώπη: Πρωτοβουλίες που προστατεύουν φύση, κοινωνία και οικονομία",
+          "link": "http://gr.euronews.com/my-europe/2026/01/27/biwsimos-toyrismos-sthn-eyrwph-prwtoboylies-poy-prostateyoyn-fysh-koinwnia-kai-oikonomia",
+          "pubDate": "Tue, 27 Jan 2026 21:15:04 +0100",
+          "description": "Καινοτόμα παραδείγματα από Γερμανία, Ελλάδα και Σερβία παρουσιάστηκαν σε έκθεση στο Ευρωπαϊκό Κοινοβούλιο",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
           "link": "https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 19:13:55 GMT",
           "description": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/322a/live/92240d60-fb7f-11f0-bbb4-c5bf37339933.jpg",
           "source": "BBC News"
+        },
+        {
+          "title": "Ιράν: Φόβοι για δεκάδες χιλιάδες νεκρούς στις διαδηλώσεις",
+          "link": "http://gr.euronews.com/2026/01/27/iran-foboi-gia-dekades-xiliades-nekroys-stis-diadhlwseis",
+          "pubDate": "Tue, 27 Jan 2026 19:51:29 +0100",
+          "description": "Μπλακ άουτ επικοινωνιών, αντικρουόμενες εκτιμήσεις και καταγγελίες για συστηματική εξόντωση τραυματιών",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Ανάλυση: Οι διαμαρτυρίες του Ιράν και η παγκόσμια ευθύνη",
+          "link": "http://gr.euronews.com/2026/01/27/analysh-oi-diamartyries-toy-iran-kai-h-pagkosmia-ey8ynh",
+          "pubDate": "Tue, 27 Jan 2026 19:11:43 +0100",
+          "description": "Οι αναλυτές συμφωνούν ότι το καθεστώς του Ιράν αποφάσισε μαζικές δολοφονίες για να επιβιώσει των διαδηλώσεων που προκλήθηκαν από την οικονομική κατάρρευση, με σαφείς εντολές για θανατηφόρα βία εναντίον άοπλων διαδηλωτών.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Γαλλίδα βουλευτής ζητά «να λάμψει η αλήθεια» στη δίκη πρώην γερουσιαστή",
+          "link": "http://gr.euronews.com/2026/01/27/gallida-boyleyths-zhta-na-lampsei-h-alh8eia-sth-dikh-prwhn-geroysiasth",
+          "pubDate": "Tue, 27 Jan 2026 18:35:13 +0100",
+          "description": "Καταγγελία για χορήγηση ναρκωτικών με σκοπό τη σεξουαλική επίθεση – «Φοβήθηκα ότι θα με βιάσει»",
+          "thumbnail": null,
+          "source": "Euronews"
         },
         {
           "title": "TikTok settles just before social media addiction trial to begin",
@@ -629,116 +725,20 @@
           "source": "BBC News"
         },
         {
-          "title": "Nipah virus outbreak in India triggers Asia airport screenings",
-          "link": "https://www.bbc.com/news/articles/cd7zp581q5do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 17:06:44 GMT",
-          "description": "Airports in Thailand and Nepal have begun screening passengers from West Bengal.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17af/live/4f397450-fb56-11f0-80ad-435009e66207.jpg",
-          "source": "BBC News"
+          "title": "Ισπανία: Η κυβέρνηση ανακοίνωσε βοήθεια για τα θύματα των σιδηροδρομικών δυστυχημάτων",
+          "link": "http://gr.euronews.com/2026/01/27/ispania-h-kybernhsh-anakoinwse-boh8eia-gia-ta-8ymata-twn-sidhrodromikwn-dystyxhmatwn",
+          "pubDate": "Tue, 27 Jan 2026 18:21:26 +0100",
+          "description": "Το Υπουργικό Συμβούλιο ενέκρινε μια σειρά επειγόντων μέτρων για τη στήριξη των θυμάτων των σιδηροδρομικών δυστυχημάτων Adamuz και Gelida. Ο υπουργός Μεταφορών διαβεβαίωσε ότι η συνείδησή του είναι \"καθαρή\"- το Εθνικό Ανώτατο Δικαστήριο κίνησε προκαταρκτική διαδικασία εναντίον του.",
+          "thumbnail": null,
+          "source": "Euronews"
         },
         {
-          "title": "Spain plans to give half a million undocumented migrants legal status",
-          "link": "https://www.bbc.com/news/articles/c62n6gw1dp9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 16:59:49 GMT",
-          "description": "The process will be available to foreign nationals without a criminal record who can prove they lived in Spain for five months prior to 31 December 2025.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c743/live/4120f660-fb9a-11f0-a1ee-f9a3598885a9.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
-          "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 16:17:46 GMT",
-          "description": "He has been described as an avid outdoorsman who loved mountain biking.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/fc00db50-fb52-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Rwanda takes legal action against UK over axed migrant deal",
-          "link": "https://www.bbc.com/news/articles/czx32yxnvzro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 15:17:38 GMT",
-          "description": "The African nation argues it is owed payments but Downing Street says it will fight the case.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8177/live/7b11f3e0-fb8d-11f0-bd4c-9d8c48f8eab8.png",
-          "source": "BBC News"
-        },
-        {
-          "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
-          "link": "https://www.bbc.com/news/articles/cpqyp9w84eeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 14:49:44 GMT",
-          "description": "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc12/live/bdf0fa00-fb4f-11f0-8a3f-efae3b17f55b.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "'Crying horse' toys go viral in China ahead of Lunar New Year",
-          "link": "https://www.bbc.com/news/articles/c70l7zndy3jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 14:05:17 GMT",
-          "description": "Shop owners say the frowning toys - originally made in error - are resonating with young workers.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a78/live/e6b6c3b0-fb78-11f0-9fd1-99e08ea50909.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Watch: Huge landslide in Sicily after Storm Harry",
-          "link": "https://www.bbc.com/news/videos/cql4p6w2gl5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:42:09 GMT",
-          "description": "More than 1,000 residents have been evacuated from their homes on the Italian island.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2305/live/458e8550-fb7c-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "'It's 2C in our flat': Inside Kyiv apartment as Russia targets power and heating",
-          "link": "https://www.bbc.com/news/videos/crlepd1pkwxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:32:22 GMT",
-          "description": "Russian strikes targeting energy infrastructure have left millions without power in freezing temperatures.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32c8/live/8bb60870-fb7a-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
-          "link": "https://www.bbc.com/news/articles/c4gw49gk13xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:26:00 GMT",
-          "description": "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9095/live/97688110-fb71-11f0-b7fd-f5e7f9ed0815.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "India and EU announce 'mother of all trade deals'",
-          "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:23:54 GMT",
-          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "One Battle After Another leads Bafta nominations",
-          "link": "https://www.bbc.com/news/articles/cwyn2gqwx9ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 12:15:13 GMT",
-          "description": "The political thriller has 14 nominations, with Sinners, Hamnet and Marty Supreme also recognised.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c94/live/ea4594f0-fb66-11f0-a47f-d352a7d9988a.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump raises US tariffs on South Korea imports to 25%",
-          "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 09:56:04 GMT",
-          "description": "Trump has accused Seoul of \"not living up\" to a trade deal that was reached last year.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5081/live/22f93670-fb18-11f0-a2c0-71839ce781f8.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Philippines' Duterte fit to face ICC proceedings, judges say",
-          "link": "https://www.bbc.com/news/articles/c0lx2pj84l4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 07:12:55 GMT",
-          "description": "The 80-year-old is accused of crimes of humanity over his bloody war on drugs that left thousands killed.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/801b/live/07d9eec0-fb4a-11f0-8a3f-efae3b17f55b.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Japan court orders compensation for migrants lured to North Korea",
-          "link": "https://www.bbc.com/news/articles/c23r2l81708o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 02:23:45 GMT",
-          "description": "The plaintiffs said North Korea was marketed to them as \"paradise on Earth\".",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b5/live/2716d0d0-fb1f-11f0-95a7-23b039032098.jpg",
-          "source": "BBC News"
+          "title": "Οι άνθρωποι στην κεντρική Κίνα κατασκεύαζαν εργαλεία με λαβές πριν από 70.000 χρόνια",
+          "link": "http://gr.euronews.com/culture/2026/01/27/oi-an8rwpoi-sthn-kentrikh-kina-kataskeyazan-ergaleia-me-labes-prin-apo-70000-xronia",
+          "pubDate": "Tue, 27 Jan 2026 18:12:08 +0100",
+          "description": "Μια διεθνής μελέτη τεκμηριώνει την παραγωγή και τη συνεχή χρήση εργαλείων με πέτρινη λαβή στην κεντρική Κίνα μεταξύ 160.000 και 72.000 ετών πριν, μια τεχνολογική καινοτομία νωρίτερα από ό,τι είχε θεωρηθεί στην Ανατολική Ασία.",
+          "thumbnail": null,
+          "source": "Euronews"
         }
       ]
     },
