@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-01-28T17:30:40.577Z",
+  "lastUpdated": "2026-01-28T17:35:26.745Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Συμφωνία ΕΕ – Ινδίας: Απογοητευμένος από τους Ευρωπαίους δηλώνει ο υπουργός Οικονομικών των ΗΠΑ",
+          "link": "https://www.newsit.gr/oikonomia/diethni/symfonia-ee-indias-apogoiteymenos-apo-tous-eyropaious-dilonei-o-ypourgos-oikonomikon-ton-ipa/4586067/",
+          "pubDate": "Wed, 28 Jan 2026 17:32:55 +0000",
+          "description": "«Μεγάλη απογοήτευση» προκαλούν οι χώρες της Ευρωπαϊκής Ένωσης (ΕΕ) δήλωσε σήμερα (28.01.2026) ο υπουργός Οικονομικών των ΗΠΑ, Σκοτ Μπέσεντ, εξαιτίας της εμπορικής συμφωνίας που συνάφθηκε ...  \nTo άρθρο Συμφωνία ΕΕ – Ινδίας: Απογοητευμένος από τους Ευρωπαίους δηλώνει ο υπουργός Οικονομικών των ΗΠΑ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/india-eu-trade-reuters-1200x764.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Marseaux: «Η Eurovision ήταν το όνειρό μου, έλεγα στους γονείς μου ότι θέλω κι εγώ να πάω»",
+          "link": "https://www.newsit.gr/media/marseaux-i-eurovision-itan-to-oneiro-mou-elega-stous-goneis-mou-oti-thelo-ki-ego-na-pao/4586043/",
+          "pubDate": "Wed, 28 Jan 2026 17:32:06 +0000",
+          "description": "Η Marseaux θεωρείται ένα από τα μεγάλα φαβορί για την εκπροσώπηση της Ελλάδας στην Eurovision που θα γίνει φέτος στη Βιέννη. Η νεαρή καλλιτέχνιδα το ...  \nTo άρθρο Marseaux: «Η Eurovision ήταν το όνειρό μου, έλεγα στους γονείς μου ότι θέλω κι εγώ να πάω» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marseaux-ndp-1-1200x740.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Σε δίκη δύο Γάλλοι streamers για τον θάνατο ενός 46χρονου σε live μετάδοση – Έκαναν βίντεο με βασανισμούς και ωμή βία",
           "link": "https://www.newsit.gr/kosmos/se-diki-dyo-galloi-streamers-gia-ton-thanato-enos-46xronou-se-live-metadosi-ekanan-vinteo-me-vasanismous-kai-omi-via/4586041/",
@@ -51,7 +67,7 @@
         {
           "title": "Επαναπατρίζονται αύριο 7 σοροί και ένας τραυματίας του δυστυχήματος με τους οπαδούς του ΠΑΟΚ στη Ρουμανία ",
           "link": "https://www.protothema.gr/greece/article/1764980/epanapatrizodai-aurio-7-soroi-kai-enas-traumatias-tou-dustuhimatos-me-tous-opadous-tou-paok-sti-roumania/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 19:16:15 +0200",
+          "pubDate": "Wed, 28 Jan 2026 19:16:00 +0200",
           "description": "Οι 7 σοροί θα επιστρέψουν στη Θεσσαλονίκη με ειδική πτήση της Πολεμικής Αεροπορίας - Στο νοσοκομείο της Ρουμανίας θα παραμείνει ο τρίτος τραυματίας, καθώς η κατάστασή του δεν επιτρέπει ακόμη να μετακινηθεί",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/xrwma-van-roumania_2.jpg",
           "source": "Πρώτο Θέμα"
@@ -231,22 +247,6 @@
           "description": "Ο γνωστός ηθοποιός Πάτρικ Τζ. Άνταμς και η σύζυγός του, Τρόιαν Μπελισάριο βρίσκονται στην καλύτερη φάση της ζωής του, καθώς την Τρίτη (27.01.2026) απέκτησαν το ...  \nTo άρθρο Πάτρικ Τζ. Άνταμς και Τρόιαν Μπελισάριο έγιναν ξανά γονείς: Η ανακοίνωση του συμπρωταγωνιστή της Μέγκαν Μαρκλ στο «Suits» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/patrick-j-adams-ap-1200x757.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Δίωξη για ανθρωποκτονία και θανατηφόρο βιασμό στον 52χρονο που ομολόγησε πως έπνιξε 46χρονη στη Θεσσαλονίκη - Συνελήφθη 50χρονος",
-          "link": "https://www.protothema.gr/greece/article/1764947/dioxi-gia-anthropoktonia-kai-thanatiforo-viasmo-ston-52hrono-pou-omologise-pos-epnixe-46hroni-sti-thessaloniki/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 18:29:00 +0200",
-          "description": "Ο 52χρονος κρατείται και εις βάρος του εκδόθηκε ένταλμα σύλληψης, σε εκτέλεση του οποίου θα οδηγηθεί στον ανακριτή Θεσσαλονίκης προκειμένου να απολογηθεί",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/thessaloniki-xrwma.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Καιρός: Πορτοκαλί συναγερμός από την ΕΜΥ για σφοδρές καταιγίδες σε όλη τη χώρα – Συστάσεις από την Πολιτική Προστασία",
-          "link": "https://www.newsit.gr/ellada/kairos-portokali-synagermos-apo-tin-emy-gia-sfodres-kataigides-se-oli-ti-xora-systaseis-apo-tin-politiki-prostasia/4585977/",
-          "pubDate": "Wed, 28 Jan 2026 16:28:58 +0000",
-          "description": "Νέο κύμα κακοκαιρίας αναμένεται να «χτυπήσει» την χώρα τα επόμενα 24ωρα, με ισχυρές βροχές και καταιγίδες καθώς και χιόνια στα ορεινά. Η Εθνική Μετεωρολογική Υπηρεσία ...  \nTo άρθρο Καιρός: Πορτοκαλί συναγερμός από την ΕΜΥ για σφοδρές καταιγίδες σε όλη τη χώρα – Συστάσεις από την Πολιτική Προστασία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos-vroxi-kakoakiria.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -335,12 +335,28 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Θρήνος στο ΠαΣοΚ, πέθανε η Αριστέα Καζάκου σε ηλικία 40 ετών",
+          "link": "https://www.tovima.gr/2026/01/28/politics/thrinos-sto-pasok-pethane-i-aristea-kazakou-se-ilikia-40-eton/",
+          "pubDate": "Wed, 28 Jan 2026 18:40:39 +0300",
+          "description": "Την τελευταία της πνοή σε ηλικία 40 ετών άφησε η Αριστέα Καζάκου, η οποία υπήρξε στέλεχος του ΠαΣοΚ και δικηγόρος.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/kazakou-1024x682.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Ν. Ανδρουλάκης: Είστε υπόλογοι για τη βαθιά θεσμική κρίση – Δεν θα επιτρέψουμε να συνεχιστεί ο θεσμικός κατήφορος",
           "link": "https://www.naftemporiki.gr/politics/2065155/n-androylakis-eiste-ypologoi-gia-ti-vathia-thesmiki-krisi-den-tha-epitrepsoyme-na-synechistei-o-thesmikos-katiforos/?utm_source=rss&utm_medium=rss&utm_campaign=n-androylakis-eiste-ypologoi-gia-ti-vathia-thesmiki-krisi-den-tha-epitrepsoyme-na-synechistei-o-thesmikos-katiforos",
           "pubDate": "Wed, 28 Jan 2026 15:29:09 +0000",
           "description": "Σε παρέμβασή του στη Βουλή, ο πρόεδρος του ΠΑΣΟΚ- Κινήματος Αλλαγής, Νίκος Ανδρουλάκης, καταδίκασε εμφατικά τις αναφορές του βουλευτή της ΝΔ, Μακάριου Λαζαρίδη, περί «γκριζαρίσματος» περιοχών στο Αιγαίο μετά τη…\nΝ. Ανδρουλάκης: Είστε υπόλογοι για τη βαθιά θεσμική κρίση – Δεν θα επιτρέψουμε να συνεχιστεί ο θεσμικός κατήφορος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Κριτική Ανδρουλάκη στη κυβέρνηση για τα εργατικά δυστυχήματα και την ευλογιά – Η απάντηση για τα Ίμια",
+          "link": "https://www.tovima.gr/2026/01/28/politics/kritiki-androulaki-sti-kyvernisi-gia-ta-ergatika-dystyximata-kai-tin-eylogia-i-apantisi-gia-ta-imia/",
+          "pubDate": "Wed, 28 Jan 2026 17:10:20 +0300",
+          "description": "Έντονη αντιπαράθεση στη Βουλή προκάλεσαν οι δηλώσεις Λαζαρίδη περί «γκριζαρίσματος» στο Αιγαίο, με τον Νίκο Ανδρουλάκη να ζητά την αποδοκιμασία τους από την κυβέρνηση, ασκώντας παράλληλα σκληρή κριτική για τα εργατικά δυστυχήματα και τη διαχείριση της ευλογιάς",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/21/androulakis-1024x683.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Συνάντηση Κ. Μητσοτάκη με την υπουργό Ενόπλων Δυνάμεων της Γαλλίας την Πέμπτη",
@@ -399,6 +415,14 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Βουλή: Καυγάς για τα Ίμια – Οι βαριές κατηγορίες Λαζαρίδη, η απάντηση Χρηστίδη",
+          "link": "https://www.tovima.gr/2026/01/28/politics/vouli-kaygas-gia-ta-imia-oi-varies-katigories-lazaridi-i-apantisi-xristidi/",
+          "pubDate": "Wed, 28 Jan 2026 15:20:36 +0300",
+          "description": "Υψηλοί τόνοι στη Βουλή 30 χρόνια μετά τα Ίμια - Πώς «άναψαν τα αίματα» μεταξύ Λαζαρίδη και Χρηστίδη - Τι είπαν οι υπόλοιποι.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/imia-1024x679.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Εξεταστική για ΟΠΕΚΕΠΕ- Κ. Μπατζελή: Το «μυστικό» δεν είναι ο «τεχνικός σύμβουλος» αλλά το πότε «ανοίγεις» τις αιτήσεις",
           "link": "https://www.naftemporiki.gr/politics/2064994/exetastiki-gia-opekepe-k-mpatzeli-to-mystiko-den-einai-o-technikos-symvoylos-alla-to-pote-anoigeis-tis-aitiseis/?utm_source=rss&utm_medium=rss&utm_campaign=exetastiki-gia-opekepe-k-mpatzeli-to-mystiko-den-einai-o-technikos-symvoylos-alla-to-pote-anoigeis-tis-aitiseis",
           "pubDate": "Wed, 28 Jan 2026 12:15:40 +0000",
@@ -431,6 +455,22 @@
           "source": "Τα Νέα"
         },
         {
+          "title": "Η οδική ασφάλεια στις προτεραιότητες του Τασούλα – Ποιους υποδέχθηκε στο Προεδρικό Μέγαρο",
+          "link": "https://www.tovima.gr/2026/01/28/politics/i-odiki-asfaleia-stis-proteraiotites-tou-tasoula-poious-ypodexthike-sto-proedriko-megaro/",
+          "pubDate": "Wed, 28 Jan 2026 14:38:17 +0300",
+          "description": "Συνάντηση του Προέδρου της Δημοκρατίας Κωνσταντίνου Τασούλα με φορείς οδικής ασφάλειας για την καλλιέργεια οδικής συνείδησης, τη στήριξη θυμάτων τροχαίων και τη συνέχιση της μείωσης των θανατηφόρων ατυχημάτων",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/03/13/tasoulas3-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Τσιάρας: Στόχος να κλείσουμε τον κύκλο της ευλογιάς χωρίς εμβολιασμό",
+          "link": "https://www.tovima.gr/2026/01/28/politics/tsiaras-stoxos-na-kleisoume-ton-kyklo-tis-eylogias-xoris-emvoliasmo/",
+          "pubDate": "Wed, 28 Jan 2026 14:13:00 +0300",
+          "description": "«Ζωτικής σημασίας να εκριζώσουμε την ευλογιά των αιγοπροβάτων μέχρι το τέλος του έτους», σημείωσε ο υπουργός Αγροτικής Ανάπτυξης και Τροφίμων, Κώστας Τσιάρας σε συνέντευξή του.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/tsiaras-1-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
           "title": "Στο μικροσκόπιο των Βρυξελλών και ο «νέος ΟΠΕΚΕΠΕ»",
           "link": "https://www.tanea.gr/print/2026/01/28/politics/mikropolitikos/sto-mikroskopio-ton-vryksellon-kai-o-neos-opekepe/",
           "pubDate": "Wed, 28 Jan 2026 11:10:00 +0000",
@@ -453,46 +493,6 @@
           "description": "Τα ειλικρινή του συλλυπητήρια για τις δύο τραγωδίες των τελευταίων ημερών στο εργοστάσιο της «Βιολάντα» στα Τρίκαλα με τον θάνατο πέντε εργαζομένων γυναικών και με τον τραγικό χαμό επτά φιλάθλων…\nΤ. Θεοδωρικάκος: Εθνική υποχρέωση να στηρίξουν τα κόμματα την επιστολική ψήφο των ομογενών - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Ν. Δένδιας: Συνάντηση στη φρεγάτα «Κίμων» με την υπουργό Ενόπλων Δυνάμεων της Γαλλίας την Πέμπτη – Τι θα συζητήσουν",
-          "link": "https://www.naftemporiki.gr/politics/2064890/n-dendias-synantisi-epi-tis-fregatas-kimon-me-tin-ypoyrgo-enoplon-dynameon-tis-gallias-tis-pempti-ti-tha-syzitisoyn/?utm_source=rss&utm_medium=rss&utm_campaign=n-dendias-synantisi-epi-tis-fregatas-kimon-me-tin-ypoyrgo-enoplon-dynameon-tis-gallias-tis-pempti-ti-tha-syzitisoyn",
-          "pubDate": "Wed, 28 Jan 2026 09:12:58 +0000",
-          "description": "Συνάντηση με την υπουργό Ενόπλων Δυνάμεων της Γαλλίας, Κατρίν Βοτρέν, πρόκειται να έχει αύριο, Πέμπτη 29 Ιανουαρίου 2026, ο υπουργός Εθνικής Άμυνας Νίκος Δένδιας.\nΝ. Δένδιας: Συνάντηση στη φρεγάτα «Κίμων» με την υπουργό Ενόπλων Δυνάμεων της Γαλλίας την Πέμπτη – Τι θα συζητήσουν - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Αλ. Τσίπρας για τροχαίο με φιλάθλους του ΠΑΟΚ: Όταν 7 νέοι άνθρωποι χάνουν τη ζωή τους, οι λέξεις χάνουν τη σημασία τους",
-          "link": "https://www.naftemporiki.gr/politics/2064876/al-tsipras-gia-trochaio-me-filathloys-toy-paok-otan-7-neoi-anthropoi-chanoyn-ti-zoi-toys-oi-lexeis-chanoyn-ti-simasia-toys/?utm_source=rss&utm_medium=rss&utm_campaign=al-tsipras-gia-trochaio-me-filathloys-toy-paok-otan-7-neoi-anthropoi-chanoyn-ti-zoi-toys-oi-lexeis-chanoyn-ti-simasia-toys",
-          "pubDate": "Wed, 28 Jan 2026 08:49:46 +0000",
-          "description": "Τα συλλυπητηριά του στις οικογένειες των θυμάτων του πολύνεκρου τροχαίου που σημειώθηκε χθες στη Ρουμανία με βαν που μετέφερε φιλάθλους του ΠΑΟΚ εκφράζει ο πρώην πρωθυπουργός Αλ. Τσίπρας.\nΑλ. Τσίπρας για τροχαίο με φιλάθλους του ΠΑΟΚ: Όταν 7 νέοι άνθρωποι χάνουν τη ζωή τους, οι λέξεις χάνουν τη σημασία τους - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Αλέξης Τσίπρας: «Στεκόμαστε πλάι στα σπίτια που ορφάνεψαν, πλάι στον ΠΑΟΚ»",
-          "link": "https://www.tanea.gr/2026/01/28/politics/aleksis-tsipras-stekomaste-plai-sta-spitia-poy-orfanepsan-plai-ston-paok/",
-          "pubDate": "Wed, 28 Jan 2026 08:34:31 +0000",
-          "description": "Ο Αλέξης Τσίπρας εξέφρασε τα συλλυπητήριά του για την απώλεια των επτά οπαδών του ΠΑΟΚ, τονίζοντας πως όταν χάνονται νέοι άνθρωποι σε μια στιγμή χαράς",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/tsipras-5-1024x683.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Τετ α τετ Γεραπετρίτη – Γκουτέρες στη Νέα Υόρκη",
-          "link": "https://www.tanea.gr/2026/01/28/politics/tet-a-tet-gerapetriti-gkouteres-sti-nea-yorki/",
-          "pubDate": "Wed, 28 Jan 2026 05:38:21 +0000",
-          "description": "Η ατζέντα της σημερινής συνάντησης του Έλληνα ΥΠΕΞ με τον ΓΓ. του ΟΗΕ",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/gerapetritis-2-1-1024x682.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "«Ψάχνονται» στο Μαξίμου για λύσεις καθημερινότητας και στη ΝΔ για τα προσυνέδρια – Συσκέψεις και αναθεωρήσεις",
-          "link": "https://www.tanea.gr/2026/01/28/politics/psaxnontai-sto-maksimou-gia-lyseis-kathimerinotitas-kai-sti-nd-gia-ta-prosynedria-syskepseis-kai-anatheoriseis/",
-          "pubDate": "Wed, 28 Jan 2026 05:27:12 +0000",
-          "description": "Σύσκεψη Μητσοτάκη και υπουργών σήμερα για το κυκλοφοριακό της Αττικής. Ζητούμενα ο κυβερνητικός και ο κομματικός συντονισμός.",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/megaro-maximou-8-e1768154172300.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "'Don't take us to a hospital': Iran protesters treated in secret to avoid arrest",
+          "link": "https://www.bbc.com/news/articles/c5yx015nkplo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 17:28:08 GMT",
+          "description": "Wounded demonstrators tell the BBC they are relying on medics willing to risk their own safety by treating them at their homes.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac65/live/c974c300-fc6e-11f0-a8b8-bdd2c5f9bcad.jpg",
+          "source": "BBC News"
+        },
         {
           "title": "Ειδήσεις | 28 Ιανουαρίου 2026 - Βραδινό δελτίο",
           "link": "http://gr.euronews.com/video/2026/01/28/eidhseis-28-ianoyarioy-2026-bradino-deltio",
@@ -731,14 +739,6 @@
           "description": "Ρωσικές δυνάμεις εξαπέλυσαν τη νύχτα επιθέσεις με drones στην Ουκρανία, πλήττοντας κατοικημένες περιοχές στην περιφέρεια Κιέβου και στην Οδησσό, σύμφωνα με ουκρανικές αρχές.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Amazon confirms 16,000 job cuts after accidental email",
-          "link": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 13:11:09 GMT",
-          "description": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceca/live/1b3c5410-faf7-11f0-8d99-4d63080b9583.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Παναθηναϊκός - Ρόμα: Ο Τσιμίκας μιλησε για το δυστύχημα με τους οπαδούς του ΠΑΟΚ",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510987/panathinaikos-roma-o-tsimikas-milise-gia-dystyhima-me-toys-opadoys",
+          "pubDate": "Wed, 28 Jan 2026 19:30:32 +0200",
+          "description": "Ο Κωνσταντίνος Τσιμίκας αναφέρθηκε στην τραγωδία με τους οπαδούς του ΠΑΟΚ, στην αναμέτρηση με τον Παναθηναϊκό και στη Λίβερπουλ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/tsimikas.jpg?itok=ikQ2WuFe",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αστέρας AKTOR, μεταγραφές: Ψηλά στη λίστα ο Στέφαν Μίτροβιτς",
+          "link": "https://www.gazzetta.gr/football/superleague/2510986/asteras-aktor-metagrafes-psila-sti-lista-o-stefan-mitrobits",
+          "pubDate": "Wed, 28 Jan 2026 19:30:06 +0200",
+          "description": "Ο Αστέρας ΑΚΤΟR βρίσκεται σε επαφές με την Ελλάς Βερόνα για την απόκτηση του Στέφαν Μίτροβιτς.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mitrovic.jpg?itok=x1-bRWS-",
+          "source": "Gazzetta"
+        },
         {
           "title": "Γκασπερίνι: «Σπουδαίος επαγγελματίας ο Μπενίτεθ»",
           "link": "https://www.gazzetta.gr/football/europa-league/2510985/gkasperini-spoydaios-epaggelmatias-o-mpeniteth",
@@ -969,22 +985,6 @@
           "description": "Το πιο απλό που μπορείς να κάνεις στην καθημερινότητά σου.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vladislav-muslakov-cwiu33kgtoc-unsplash.jpg?itok=rzBuWXHF",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η Κ19 Δικεφάλου και Βόλου άφησαν λουλούδια",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510957/paok-dystyhima-sti-roymania-i-k19-dikefaloy-kai-boloy-afisan",
-          "pubDate": "Wed, 28 Jan 2026 18:09:55 +0200",
-          "description": "Οι παίκτες του ΠΑΟΚ Κ19 και του Βόλου Κ19 άφησαν λουλούδια στην Τούμπα για τα παιδιά που έφυγαν από τη ζωή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_4_1.jpg?itok=cZFZdNCo",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ιράν: Παρέδωσαν σορό με τον όρο η οικογένεια να δηλώσει δυστύχημα",
-          "link": "https://www.gazzetta.gr/football/2510956/iran-paredosan-soro-me-ton-oro-i-oikogeneia-na-dilosei-dystyhima",
-          "pubDate": "Wed, 28 Jan 2026 18:09:25 +0200",
-          "description": "Μία σοκαριστική είδηση έρχεται από το Ιράν, όπου οι Αρχές φέρονται να παρέδωσαν σορό παλαίμαχου αθλητή στην οικογένειά του υπό τον όρο να δηλωθεί ο θάνατος ως δυστύχημα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/iranos_0.jpg?itok=yLN8mPbp",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Ανακοίνωση Ολυμπιακού για Παναθηναϊκό και ΕΡΤ: «Συγχαρητήρια, κάνουν μούντζες και χειρονομίες!» (vid)",
+          "link": "https://trifilara.gr/anakoinosi-olybiakou-gia-panathinaiko-kai-ert-sygcharitiria-kanoun-mountzes-kai-cheironomies-vid/?utm_source=rss&utm_medium=rss&utm_campaign=anakoinosi-olybiakou-gia-panathinaiko-kai-ert-sygcharitiria-kanoun-mountzes-kai-cheironomies-vid",
+          "pubDate": "Wed, 28 Jan 2026 17:34:15 +0000",
+          "description": "Τα παράπονα του προς την ΕΡΤ για τη μετάδοση του ντέρμπι της Α1 μπάσκετ γυναικών με αντίπαλο τον Παναθηναϊκό στη Λεωφόρο εξέφρασε μέσω ανάρτησης στα social media ο Ερασιτέχνης Ολυμπιακός.\nThe post Ανακοίνωση Ολυμπιακού για Παναθηναϊκό και ΕΡΤ: «Συγχαρητήρια, κάνουν μούντζες και χειρονομίες!» (vid) appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Ολυμπιακός: «Επιδίδονται ζωντανά σε χειρονομίες και μούντζες – Συγχαρητήρια στην ΕΡΤ!» (vid)",
+          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/olybiakos-epididontai-zontana-se-ch/?utm_source=rss&utm_medium=rss&utm_campaign=olybiakos-epididontai-zontana-se-ch",
+          "pubDate": "Wed, 28 Jan 2026 17:30:53 +0000",
+          "description": "Παράπονα για τη μετάδοση της ΕΡΤ2 ΣΠΟΡ για το ντέρμπι μεταξύ Παναθηναϊκού και Ολυμπιακού για το μπάσκετ γυναικών εξέφρασαν οι Πειραιώτες. «Συγχαρητήρια στην ΕΡΤ που αποδέχεται να πραγματοποιεί μεταδόσεις κάτω από αυτές τις συνθήκες. Με πλάνο από τα κεφάλια οπαδών με καπέλα που επιδίδονται σε χειρονομίες και μούντζες, η εικόνα του αγώνα περνάει για ακόμα […]",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/gynaikon-1-1.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Παναθηναϊκός: Με «μισή» ομάδα η αποστολή για Ρόμα!",
           "link": "https://trifilara.gr/panathinaikos-me-misi-omada-i-apostoli-gia-roma/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-me-misi-omada-i-apostoli-gia-roma",
@@ -1199,22 +1215,6 @@
           "description": "Οι δηλώσεις του Μίλος Πάντοβιτς στη συνέντευξη Τύπου ενόψει του αυριανού ματς του Παναθηναϊκού με τη Ρόμα.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5006855.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Πάντοβιτς: «Το κεφάλι χαμηλά – Έχω κάποιες καλές στιγμές πίσω μου»",
-          "link": "https://trifilara.gr/pantovits-to-kefali-chamila-echo-kapoies-kales-stigmes-piso-mou/?utm_source=rss&utm_medium=rss&utm_campaign=pantovits-to-kefali-chamila-echo-kapoies-kales-stigmes-piso-mou",
-          "pubDate": "Wed, 28 Jan 2026 12:27:34 +0000",
-          "description": "Ο Μίλος Πάντοβιτς μίλησε στη συνέντευξη Τύπου στο ΟΑΚΑ ενόψει της αναμέτρησης του Παναθηναϊκού με τη Ρόμα.\nThe post Πάντοβιτς: «Το κεφάλι χαμηλά – Έχω κάποιες καλές στιγμές πίσω μου» appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Τρομερή κίνηση από οπαδό του Παναθηναϊκού για να τιμήσει τα αδικοχαμένα «αετόπουλα» (pic)",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/tromerh-kinhsh-apo-opado-tou-panathinaikou-gia-na-timhsei-ta-adikoxamena-aetopoula-pic/?utm_source=rss&utm_medium=rss&utm_campaign=tromerh-kinhsh-apo-opado-tou-panathinaikou-gia-na-timhsei-ta-adikoxamena-aetopoula-pic",
-          "pubDate": "Wed, 28 Jan 2026 12:21:55 +0000",
-          "description": "Μια εικόνα που ξεπέρασε τα χρώματα και έστειλε μήνυμα ενότητας μετά την ανείπωτη απώλεια των επτά οπαδών του ΠΑΟΚ. Η τραγωδία στη Ρουμανία, που στοίχισε τη ζωή σε επτά φίλους του ΠΑΟΚ, έχει βυθίσει στο πένθος όχι μόνο την οικογένεια του συλλόγου, αλλά ολόκληρο τον φίλαθλο κόσμο, με τον πόνο να μετατρέπεται σε μήνυμα ενότητας […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Toumpa-NekroiOpadoiPAOK-full.webp",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "LIVE TV: Η συνέντευξη Τύπου ενόψει του Παναθηναϊκός-Ρόμα",
