@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T11:40:27.847Z",
+  "lastUpdated": "2026-01-28T11:43:38.340Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,30 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Lane Assist: Πώς λειτουργεί, σε τι χρησιμεύει, τι πρέπει να προσέξουμε",
+          "link": "https://www.newsit.gr/uncategorized/lane-assist-pos-leitourgei-se-ti-xrisimeyei-ti-prepei-na-proseksoume/4585676/",
+          "pubDate": "Wed, 28 Jan 2026 11:42:07 +0000",
+          "description": "Το τρομερό τροχαίο δυστύχημα με 7 συνανθρώπους μας, Έλληνες, να χάνουν τη ζωή τους στο δρόμο, έφερε στο προσκήνιο, ύστερα και από αναφορά ενός εκ ...  \nTo άρθρο Lane Assist: Πώς λειτουργεί, σε τι χρησιμεύει, τι πρέπει να προσέξουμε δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lane-assist-02-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Συμμορία με ποδήλατα διέρρηξε τα ΚΤΕΛ Καλαμάτας: Ξήλωσαν το παράθυρο, μπήκαν έρποντας και πήραν 200 ευρώ, δείτε βίντεο",
+          "link": "https://www.protothema.gr/greece/article/1764766/summoria-me-podilata-dierrixe-ta-ktel-kalamatas-xilosan-to-parathuro-bikan-erpodas-kai-piran-200-euro-deite-video/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 13:41:48 +0200",
+          "description": "Γνώριζαν πως πέρα από τις κάμερες υπάρχει και συναγερμός που προσπάθησαν να τον αποφύγουν κάνοντας… έρπειν",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/kalamata.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Ιδιωτική οικοδομική δραστηριότητα: Μείωση όγκου αλλά αύξηση αδειών τον Οκτώβριο",
+          "link": "https://www.newsit.gr/oikonomia/finance/idiotiki-oikodomiki-drastiriotita-meiosi-ogkou-alla-ayksisi-adeion-ton-oktovrio/4585670/",
+          "pubDate": "Wed, 28 Jan 2026 11:41:40 +0000",
+          "description": "Μείωση 4,4% καταγράφηκε στον όγκο της ιδιωτικής οικοδομικής δραστηριότητας τον Οκτώβριο πέρυσι, σύμφωνα με στοιχεία της ΕΛΣΤΑΤ. Σύμφωνα με την ΕΛΣΤΑΤ, τον συγκεκριμένο μήνα εκδόθηκαν ...  \nTo άρθρο Ιδιωτική οικοδομική δραστηριότητα: Μείωση όγκου αλλά αύξηση αδειών τον Οκτώβριο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1944772735-1200x675-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Super League: Ενός λεπτού σιγή σε όλους τους αγώνες της για τους νεκρούς οπαδούς του ΠΑΟΚ",
           "link": "https://www.newsit.gr/athlitika/super-league-enos-leptou-sigi-se-olous-tous-agones-tis-gia-tous-nekrous-opadous-tou-paok/4585671/",
@@ -157,7 +181,7 @@
           "link": "https://www.newsit.gr/ellada/tragodia-me-opadous-tou-paok-sti-roumania-taytopoiithikan-oi-soroi-ton-7-ellinon-pou-skotothikan-sto-troxaio/4585645/",
           "pubDate": "Wed, 28 Jan 2026 11:03:16 +0000",
           "description": "Από έγγραφα που βρέθηκαν ανάμεσα στα συντρίμμια του μοιραίου βαν, ταυτοποιήθηκαν σήμερα (28.01.2025) οι σοροί των 7 Ελλήνων και οπαδών του ΠΑΟΚ που σκοτώθηκαν στον ...  \nTo άρθρο Τραγωδία με οπαδούς του ΠΑΟΚ στη Ρουμανία: Ταυτοποιήθηκαν οι σοροί των 7 Ελλήνων που σκοτώθηκαν στο τροχαίο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-12-1200x900.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roumania-sintrimia-1200x675-1.webp",
           "source": "NewsIT"
         },
         {
@@ -222,30 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 10:55:00 +0000",
           "description": "Διπλή ήταν η πρωτιά της VW στην Ευρώπη, το 2025, καθώς πούλησε τα περισσότερα οχήματα και τα περισσότερα ηλεκτρικά. Πράγματι, η γερμανική μάρκα πέραν των ...  \nTo άρθρο Volkswagen: Πρώτη σε πωλήσεις οχημάτων, συνολικά, πρώτη και στα ηλεκτρικά δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vw-id-4.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Το χρονικό των μυστηριωδών εξαφανίσεων των δύο νεκρών γυναικών στη Θεσσαλονίκη: Οι καταθέσεις, η ανάρτηση στα social media και το τέλος στο υπόγειο\n",
-          "link": "https://www.protothema.gr/greece/article/1764700/itan-eguos-kai-apevale-prin-ton-gamo-ti-apokalupse-filos-tis-46hronis-pou-vrethike-nekri-se-upogeio-sti-thessaloniki/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 12:50:11 +0200",
-          "description": "Η δεύτερη γυναίκα που βρέθηκε νεκρή είχε κάνει μία ανάρτηση στα social media πριν την εξαφάνισή της - Τα ίχνη και των δύο είχαν χαθεί και αναζητούνταν από τους οικείους τους",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/maketa-thessaloniki.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Καλαμάτα: Διαρρήκτες με ποδήλατα χτύπησαν στο ΚΤΕΛ – Με λοστό ξήλωσαν το παράθυρο",
-          "link": "https://www.newsit.gr/ellada/kalamata-diarriktes-me-podilata-xtypisan-sto-ktel-me-losto-ksilosan-to-parathyro/4585608/",
-          "pubDate": "Wed, 28 Jan 2026 10:49:51 +0000",
-          "description": "Στόχος διάρρηξης έγιναν τα γραφεία του Αστικού ΚΤΕΛ Καλαμάτας, όταν τα ξημερώματα προχθές τέσσερα άτομα εισέβαλαν στον χώρο. Οι δράστες που μπήκαν στα γραφεία του ...  \nTo άρθρο Καλαμάτα: Διαρρήκτες με ποδήλατα χτύπησαν στο ΚΤΕΛ – Με λοστό ξήλωσαν το παράθυρο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/listeia-ktel-1200x758.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μαχαίρωσαν δύο οπαδούς της Τσέλσι πριν το παιχνίδι με τη Νάπολι",
-          "link": "https://www.newsit.gr/athlitika/maxairosan-dyo-opadous-tis-tselsi-prin-to-paixnidi-me-ti-napoli/4585575/",
-          "pubDate": "Wed, 28 Jan 2026 10:49:15 +0000",
-          "description": "Η Τσέλσι θα αντιμετωπίσει εκτός έδρας τη Νάπολι στην τελευταία αγωνιστική της League Phase του Champions League, με σοβαρά επεισόδια να έχουν ήδη ξεκινήσει στο ...  \nTo άρθρο Μαχαίρωσαν δύο οπαδούς της Τσέλσι πριν το παιχνίδι με τη Νάπολι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/maxairomata-1200x861.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,12 +501,36 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Trump says US will 'no longer help Iraq' if it picks Maliki as PM",
+          "link": "https://www.bbc.com/news/articles/cn0kpk3drgjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 11:40:51 GMT",
+          "description": "The US president said Iraq would have \"zero\" chance of success without American support.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce8/live/acec9ec0-fbeb-11f0-a47f-d352a7d9988a.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Three brothers die after falling in frozen Texas pond",
           "link": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 11:34:47 GMT",
           "description": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f348/live/74b52030-fc3c-11f0-a422-4ba8a094a8fa.jpg",
           "source": "BBC News"
+        },
+        {
+          "title": "Μινεάπολη: Βουλευτής των Δημοκρατικών δέχθηκε επίθεση με υγρό - Συνελήφθη ο δράστης",
+          "link": "http://gr.euronews.com/2026/01/28/mineapoli-voyleytis-ton-dimokratikon-dexthike-epithesi-sinelifthi-o-drastis",
+          "pubDate": "Wed, 28 Jan 2026 12:27:06 +0100",
+          "description": "Η Ιλχάν Ομάρ ζήτησε από την υπουργό Εσωτερικής Ασφάλειας Νόεμ να παραιτηθεί",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Η Τουρκία εξάρθρωσε ιρανικό δίκτυο κατασκοπείας με στόχο τη βάση του Ιντσιρλίκ",
+          "link": "http://gr.euronews.com/2026/01/28/h-toyrkia-e3ar8rwse-iraniko-diktyo-kataskopeias-me-stoxo-th-bash-toy-intsirlik",
+          "pubDate": "Wed, 28 Jan 2026 12:22:31 +0100",
+          "description": "Έξι άτομα προφυλακίστηκαν με απόφαση του Πρωτοδικείου της Κωνσταντινούπολης",
+          "thumbnail": null,
+          "source": "Euronews"
         },
         {
           "title": "Ειδήσεις | 28 Ιανουαρίου 2026 - Μεσημβρινό δελτίο",
@@ -715,30 +739,6 @@
           "description": "Οι βίαιες ενέργειες των ομοσπονδιακών πρακτόρων έχουν προκαλέσει πανικό στην τοπική κοινωνία",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Πόλεμος στην Ουκρανία: Ρωσικό πλήγμα σε επιβατική αμαξοστοιχία στο Χάρκοβο - Πέντε νεκροί",
-          "link": "http://gr.euronews.com/2026/01/28/oykrania-rosiko-plhgma-epibatikh-amaxostoixia-xarkobo-pente-nekroi",
-          "pubDate": "Wed, 28 Jan 2026 08:14:00 +0100",
-          "description": "«Τρομοκρατική ενέργεια» καταγγέλλει ο Ζελένσκι - Νέο κύμα επιθέσεων σε Οδησσό και Κίεβο - 710.000 νοικοκυριά στην ουκρανική πρωτεύουσα παραμένουν χωρίς ηλεκτρικό ρεύμα",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Δεν ξέρετε πού να πάτε; Το ωροσκόπιο μπορεί να σας βοηθήσει να αποφασίσετε το 2026",
-          "link": "http://gr.euronews.com/travel/2026/01/28/do-you-need-to-know-where-to-go-the-horoscope-can-help-you-decide-in-2026",
-          "pubDate": "Wed, 28 Jan 2026 08:00:18 +0100",
-          "description": "Όλο και περισσότεροι ταξιδιώτες λαμβάνουν υπόψη τα άστρα όταν αποφασίζουν πότε, πώς και πού να ταξιδέψουν. Για πολλούς, το ωροσκόπιο πριν την κράτηση ευθυγραμμίζει προορισμό, διάθεση και εμπειρία.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "ΗΠΑ: Συνοριοφύλακες πυροβόλησαν και τραυμάτισαν 34χρονο στην Αριζόνα",
-          "link": "http://gr.euronews.com/2026/01/28/hpa-synoriofylakes-pyrobolhsan-traymatisan-arizona",
-          "pubDate": "Wed, 28 Jan 2026 07:58:15 +0100",
-          "description": "Μετά την Μινεάπολη, νέο περιστατικό με εμπλοκή πρακτόρων υπηρεσίας μετανάστευσης αυτή τη φορά κοντά στα σύνορα με το Μεξικό - Αλλαγή στάσης του Ντόναλντ Τραμπ μετά τον θανάσιμο τραυματισμό διαδηλωτή στη Μινεσότα και την κατακραυγή για τη δράση της ICE",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Με τα ονομάτων των 8 αδικοχαμένων φίλων του Δικεφάλου οι φανέλες στην μπουτίκ",
+          "link": "https://www.gazzetta.gr/football/superleague/2510889/paok-dystyhima-sti-roymania-me-ta-onomaton-ton-8-adikohamenon-filon",
+          "pubDate": "Wed, 28 Jan 2026 13:43:00 +0200",
+          "description": "Μία συγκινητική κίνηση έκανε ο ΠΑΟΚ καθώς στην μπουτίκ του φαίνονται τα ονόματα των επτά αδικοχαμένων οπαδών του και του ενός που έφυγε από τη ζωή μετά από καρδιακή προσβολή στη Λάρισα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/64d45277-c6e1-475a-907c-42e973aae7b5.jpg?itok=IhYEntWG",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μπαρτζώκας: «Τα λόγια κάθε φορά αδικούν τα συναισθήματα»",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510887/mpartzokas-ta-logia-kathe-fora-adikoyn-ta-synaisthimata",
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 12:16:50 +0200",
           "description": "Ο προπονητής που έγραψε ιστορία με την ΑΕΚ, Νίκος Κωτσοβός,  παραιτήθηκε , όπως έκανε γνωστό ο σύλλογος με επίσημη ανακοίνωση.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/nikos_kotsovos.jpg?itok=iKZR5Yyn",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "F1 - Αβέβαιη η συμμετοχή της Red Bull τις επόμενες ημέρες στη Βαρκελώνη",
-          "link": "https://www.gazzetta.gr/gmotion/2510847/f1-abebaii-i-symmetohi-tis-red-bull-tis-epomenes-imeres-sti-barkeloni",
-          "pubDate": "Wed, 28 Jan 2026 12:15:00 +0200",
-          "description": "Μεγάλο πισωγύρισμα η έξοδος του Ίσακ Χατζάρ την Τρίτη στη Βαρκελώνη, που δημιουργεί ερωτήματα σχετικά με τα διαθέσιμα ανταλλακτικά.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/si202601270642.jpg?itok=AFJWkI_x",
           "source": "Gazzetta"
         }
       ]
