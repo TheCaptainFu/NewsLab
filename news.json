@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T22:15:25.882Z",
+  "lastUpdated": "2026-01-28T22:20:29.814Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βαθμολογία Champions League: Ο 18ος Ολυμπιακός, η πρώτη οκτάδα και οι ομάδες που αποκλείστηκαν",
+          "link": "https://www.newsit.gr/athlitika/vathmologia-champions-league-o-18os-olympiakos-i-proti-oktada-kai-oi-omades-pou-apokleistikan/4586288/",
+          "pubDate": "Wed, 28 Jan 2026 22:18:56 +0000",
+          "description": "Η League Phase του Champions League ολοκληρώθηκε με συγκλονιστικό τρόπο, με τον Ολυμπιακό να παίρνει μία επική πρόκριση για τα πλέι οφ της διοργάνωσης, τερματίζοντας ...  \nTo άρθρο Βαθμολογία Champions League: Ο 18ος Ολυμπιακός, η πρώτη οκτάδα και οι ομάδες που αποκλείστηκαν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-2-4-1200x801.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Θρήνος στην Κολομβία: Νεκροί και οι 15 επιβαίνοντες μετά από συντριβή αεροσκάφους",
+          "link": "https://www.newsit.gr/kosmos/thrinos-stin-kolomvia-nekroi-kai-oi-15-epivainontes-meta-apo-syntrivi-aeroskafous/4586295/",
+          "pubDate": "Wed, 28 Jan 2026 22:18:06 +0000",
+          "description": "Αεροσκάφος με 15 επιβαίνοντες συνετρίβη σήμερα (28/01/2026) σε ορεινή περιοχή στη βόρεια Κολομβία και δεν υπάρχουν επιζώντες, όπως ανακοίνωσε η υπηρεσία πολιτικής αεροπορίας. Το αεροσκάφος ...  \nTo άρθρο Θρήνος στην Κολομβία: Νεκροί και οι 15 επιβαίνοντες μετά από συντριβή αεροσκάφους δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/colombia-airplane-1200x719.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΠΑΟΚ: Πορεία οπαδών στην Ομόνοια με καπνογόνα – «Αδέλφια ζείτε, εσείς μας οδηγείτε»",
           "link": "https://www.newsit.gr/athlitika/paok-poreia-opadon-stin-omonoia-me-kapnogona-adelfia-zeite-eseis-mas-odigeite/4586274/",
@@ -113,6 +129,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Ραντεβού και του χρόνου στη League Phase του Champions League αν πάρει το πρωτάθλημα ο Ολυμπιακός",
+          "link": "https://www.in.gr/2026/01/29/sports/football/champions-league/rantevou-kai-tou-xronou-sti-league-phase-tou-champions-league-parei-protathlima-o-olympiakos/",
+          "pubDate": "Thu, 29 Jan 2026 00:16:12 +0300",
+          "description": "Ο Ολυμπιακός έχει πλέον ευρωπαϊκό συντελεστή που δεν μπορούν να φτάσουν ούτε η Ρέιντζερς, ούτε η Κοπεγχάγη, αν φυσικά στεφθούν πρωταθλήτριες",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/zelson-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Οργή στη Γαλλία για τις δηλώσεις Ρούτε περί ΗΠΑ και ευρωπαϊκής άμυνας",
+          "link": "https://www.in.gr/2026/01/29/world/orgi-sti-gallia-gia-tis-diloseis-route-peri-ipa-kai-eyropaikis-amynas/",
+          "pubDate": "Thu, 29 Jan 2026 00:15:51 +0300",
+          "description": "Πυρά ομαδόν από Ευρωπαίους αξιωματούχους κατά του γενικού γραμματέα του ΝΑΤΟ, Μαρκ Ρούτε – Στη Γαλλία θίχτηκαν",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T151710Z_615115665_RC219JAVLVSN_RTRMADP_5_USA-TRUMP-GREENLAND-NATO-768x511.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Γυναίκες έκλεψαν κόσμημα αξίας από κοσμηματοπωλείο στο Αγρίνιο",
           "link": "https://www.protothema.gr/greece/article/1765122/gunaikes-eklepsan-kosmima-axias-apo-kedriko-kosmimatopoleio-sto-agrinio/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 23:14:00 +0200",
@@ -169,7 +201,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Άγιαξ – Ολυμπιακός 1-2: Θρυλικοί «ερυθρόλευκοι», πήραν τεράστια πρόκριση στο Άμστερνταμ!",
+          "title": "Άγιαξ – Ολυμπιακός 1-2: Θρυλικοί «ερυθρόλευκοι», πήραν τεράστια πρόκριση στο Άμστερνταμ! (vids)",
           "link": "https://www.in.gr/2026/01/28/sports/football/agiaks-olympiakos-1-2-thrylikoi-erythroleykoi-piran-terastia-prokrisi-sto-amsterntam/",
           "pubDate": "Wed, 28 Jan 2026 23:58:24 +0300",
           "description": "Ένας μεγάλος Ολυμπιακός στο Άμστερνταμ, νίκησε τον Άγιαξ με 2-1 και προκρίθηκε στην επόμενη φάση του Champions League – Ζέλσον Μαρτίνς (52’) και Έσε (79’) τα γκολ του «ερυθρόλευκου» θριάμβου.",
@@ -215,38 +247,6 @@
           "description": "Ο καγκελάριος Μερτς ζήτησε να ληφθεί «τελική απόφαση» για την εμπορική συμφωνία, καθώς θεωρεί ότι οι απειλές Τραμπ αποσύρθηκαν. Το Ευρωκοινοβούλιο ζητά μια ρήτρα ακύρωσης, αν ο Αμερικανός πρόεδρος επανέλθει.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-21T123645Z_546999887_RC2Z4JANQBPL_RTRMADP_5_EU-MERCOSUR-1-768x513.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Θάνος Πλεύρης: Καμία διαδικασία νομιμοποίησης ατόμων που βρίσκονται παράνομα στη χώρα",
-          "link": "https://www.newsit.gr/politikh/thanos-pleyris-kamia-diadikasia-nomimopoiisis-atomon-pou-vriskontai-paranoma-sti-xora/4586246/",
-          "pubDate": "Wed, 28 Jan 2026 20:49:54 +0000",
-          "description": "Ο υπουργός Μετανάστευσης και Ασύλου Θάνος Πλεύρης μιλώντας στη Βουλή στη συζήτηση για το νομοσχέδιο για τη μετανάστευση ξεκαθάρισε πως «δεν πρόκειται να υπάρξει καμία ...  \nTo άρθρο Θάνος Πλεύρης: Καμία διαδικασία νομιμοποίησης ατόμων που βρίσκονται παράνομα στη χώρα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/plevris-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τεράστιος Ολυμπιακός και νέο προβάδισμα για τους «ερυθρόλευκους», με κεφαλιά του Έσε (1-2 vids)",
-          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/terastios-olympiakos-kai-neo-provadisma-gia-tous-erythroleykous-kefalia-tou-ese-1-2-vids/",
-          "pubDate": "Wed, 28 Jan 2026 23:46:44 +0300",
-          "description": "Οι «ερυθρόλευκοι» πήραν εκ νέου το προβάδισμα, με ωραία κεφαλιά του Αργεντίνου μέσου στο 79'",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828896-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Σλοβακία και Λευκός Οίκος διαψεύδουν πως ο Φίτσο ανησυχεί για την ψυχολογική κατάσταση του Τραμπ",
-          "link": "https://www.in.gr/2026/01/28/world/slovakia-kai-leykos-oikos-diapseydoun-pos-o-fitso-anisyxei-gia-tin-psyxologiki-katastasi-tou-tramp/",
-          "pubDate": "Wed, 28 Jan 2026 23:41:37 +0300",
-          "description": "Με ανακοινώσεις τους ο Λευκός Οίκος και ο ίδιος ο Φίτσο διέψευσαν το δημοσίευμα, στο οποίο αναφέρονταν πως ο Φίτσο μίλησε αρνητικά για την ψυχική υγεία του Τραμπ στην έκτακτη Σύνοδο Κορυφής",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-28T173605Z_461890836_RC2FAJAT2S58_RTRMADP_5_USA-TRUMP-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Πανιώνιος – Λόντον Λάιονς 79-78: Ο Λιούις χάρισε τη νίκη στον Ιστορικό στο Eurocup",
-          "link": "https://www.newsit.gr/athlitika/panionios-lonton-laions-79-78-o-liouis-xarise-ti-niki-ston-istoriko-sto-eurocup/4586230/",
-          "pubDate": "Wed, 28 Jan 2026 20:40:36 +0000",
-          "description": "Ο Πανιώνιος επικράτησε με 79-78 των Λόντον Λάιονς στο κλειστό «Μάκης Λιούγκας», για τη 16η αγωνιστική του Eurocup, βελτιώνοντας σε 3-13 το ρεκόρ του στον ...  \nTo άρθρο Πανιώνιος – Λόντον Λάιονς 79-78: Ο Λιούις χάρισε τη νίκη στον Ιστορικό στο Eurocup δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lewis-1200x801.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Η Γαλλία και η Ισπανία υποστηρίζουν τον χαρακτηρισμό των Φρουρών της Επανάστασης του Ιράν ως τρομοκρατική οργάνωση",
+          "link": "http://gr.euronews.com/my-europe/2026/01/28/h-gallia-kai-h-ispania-yposthrizoyn-ton-xarakthrismo-twn-froyrwn-ths-epanastashs-toy-iran",
+          "pubDate": "Wed, 28 Jan 2026 23:12:11 +0100",
+          "description": "Αλλαγή στάσης μεγάλων κρατών-μελών της ΕΕ ανοίγει τον δρόμο για μαύρη λίστα, μετά την αιματηρή καταστολή διαδηλώσεων στο Ιράν",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Αεροσκάφος με 15 επιβαίνοντες κατέπεσε στη βορειοανατολική Κολομβία",
           "link": "http://gr.euronews.com/2026/01/28/aeroskafos-me-15-epibainontes-katepese-sth-boreioanatolikh-kolombia",
           "pubDate": "Wed, 28 Jan 2026 22:55:26 +0100",
@@ -731,14 +739,6 @@
           "description": "The prime minister seeks to strengthen ties with China but faces fierce criticism from opponents at home.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65bf/live/0634a150-fc49-11f0-a8b8-bdd2c5f9bcad.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Η Χάγη διατάζει την Ολλανδία να προστατεύσει κατοίκους βυθιζόμενου νησιού από την κλιματική αλλαγή",
-          "link": "http://gr.euronews.com/green/2026/01/28/hague-orders-the-dutch-government-to-protect-residents-on-this-sinking-island-from-climate",
-          "pubDate": "Wed, 28 Jan 2026 16:20:28 +0100",
-          "description": "Σε μια σαρωτική νίκη για τους κατοίκους του Μποναίρ, το Πρωτοδικείο της Χάγης έκρινε ότι οι ολλανδικές αρχές είχαν προβεί σε διακρίσεις εις βάρος τους.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Μπενφίκα - Ρεάλ Μαδρίτης: Πρόκριση με γκολ του τερματοφύλακα",
+          "link": "https://www.gazzetta.gr/2511084/mpenfika-real-madritis-prokrisi-me-gkol-toy-termatofylaka",
+          "pubDate": "Thu, 29 Jan 2026 00:15:43 +0200",
+          "description": "Η Μπενφίκα πέρασε στα νοκ άουτ του Champions League χάρη σε γκολ του Τρούμπιν στο όγδοο λεπτό των καθυστερήσεων!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/trubin.jpg?itok=hI7v7Nrq",
+          "source": "Gazzetta"
+        },
         {
           "title": "Άγιαξ - Ολυμπιακός: Τα highlights από την τεράστια νίκη-πρόκριση των ερυθρόλευκων στο Άμστερνταμ!",
           "link": "https://www.gazzetta.gr/football/champions-league/2511083/agiax-olympiakos-ta-highlights-apo-tin-terastia-niki-prokrisi-ton",
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 23:18:11 +0200",
           "description": "Ο Σαλάχ με ένα εξαιρετικό σουτ στο παραθυράκι, έγραψε το 3-0 για την Λίβερπουλ κόντρα στην Καραμπάγκ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/salah_liverpool_4.jpg?itok=CKljA6xU",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ - Ολυμπιακός: Το γκολ του Ζέλσον Μαρτίνς για το 0-1",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511059/agiax-olympiakos-gkol-toy-zelson-martins-gia-0-1",
-          "pubDate": "Wed, 28 Jan 2026 23:17:59 +0200",
-          "description": "Στο 52' ο Ολυμπιακός με έναν πανέμορφο συνδυασμό από Ζέλσον Μαρτίνς και Ταρέμι πήρε το προβάδισμα με γκολ του πρώτου κόντρα στον Άγιαξ!",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gelson.jpg?itok=o0iTnAVo",
           "source": "Gazzetta"
         }
       ]
