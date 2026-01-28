@@ -1,18 +1,26 @@
 {
-  "lastUpdated": "2026-01-28T07:20:35.006Z",
-  "totalArticles": 180,
+  "lastUpdated": "2026-01-28T07:25:25.341Z",
+  "totalArticles": 179,
   "totalFeeds": 24,
-  "successfulFeeds": 13,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
         {
-          "title": "Χωρίς τις αισθήσεις του βρέφος στο Παίδων «Αγία Σοφία» – Το είχαν πάει αρχικά σε κτηνιατρείο",
-          "link": "https://www.newsit.gr/ellada/xoris-tis-aisthiseis-tou-vrefos-sto-paidon-agia-sofia-to-eixan-paei-arxika-se-ktiniatreio/4585379/",
+          "title": "Σοφία Μαριόλα για Στράτο Τζώρτζογλου: Υπάρχει πόνος στο διαζύγιο αλλά υπάρχει πόνος και στο γάμο",
+          "link": "https://www.newsit.gr/lifestyle/sofia-mariola-gia-strato-tzortzoglou-yparxei-ponos-sto-diazygio-alla-yparxei-ponos-kai-sto-gamo/4585350/",
+          "pubDate": "Wed, 28 Jan 2026 07:19:58 +0000",
+          "description": "«Η κατάθλιψη του Στράτου επηρέασε το γάμο μας» είπε η Σοφία Μαριόλα λίγες μέρες μετά την επιβεβαίωση του χωρισμού της και τις δηλώσεις που έκανε ...  \nTo άρθρο Σοφία Μαριόλα για Στράτο Τζώρτζογλου: Υπάρχει πόνος στο διαζύγιο αλλά υπάρχει πόνος και στο γάμο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tzortzoglou-ndp-1-1200x787.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Νεκρό μεταφέρθηκε βρέφος στο Παίδων «Αγία Σοφία» – Το είχαν πάει αρχικά σε κτηνιατρείο",
+          "link": "https://www.newsit.gr/ellada/nekro-metaferthike-vrefos-sto-paidon-agia-sofia-to-eixan-paei-arxika-se-ktiniatreio/4585379/",
           "pubDate": "Wed, 28 Jan 2026 07:16:20 +0000",
-          "description": "Στο νοσοκομείο Παίδων «Αγία Σοφία» μεταφέρθηκε νωρίς το πρωί της Τετάρτης (28.01.2026) από την Καλλιθέα ένα βρέφος χωρίς τις αισθήσεις του.\nTo άρθρο Χωρίς τις αισθήσεις του βρέφος στο Παίδων «Αγία Σοφία» – Το είχαν πάει αρχικά σε κτηνιατρείο δημοσιεύτηκε στο NewsIT .",
+          "description": "Στο νοσοκομείο Παίδων «Αγία Σοφία» μεταφέρθηκε νωρίς το πρωί της Τετάρτης (28.01.2026) από την Καλλιθέα ένα βρέφος χωρίς τις αισθήσεις του, όπου και διαπιστώθηκε ο ...  \nTo άρθρο Νεκρό μεταφέρθηκε βρέφος στο Παίδων «Αγία Σοφία» – Το είχαν πάει αρχικά σε κτηνιατρείο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-525734880-1200x675-1.jpg",
           "source": "NewsIT"
         },
@@ -137,6 +145,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Η ανακοίνωση της ΠΑΕ ΠΑΟΚ για την ακύρωση των εκδρομών: «Παρακαλούμε να σεβαστούν την απόφαση»",
+          "link": "https://www.in.gr/2026/01/28/sports/football/anakoinosi-tis-pae-paok-gia-tin-akyrosi-ton-ekdromon-parakaloume-na-sevastoun-tin-apofasi/",
+          "pubDate": "Wed, 28 Jan 2026 09:24:14 +0300",
+          "description": "Η ανακοίνωση της ΠΑΕ ΠΑΟΚ για την ακύρωση των εκδρομών στη Γαλλία και το ματς με τη Λιόν, μετά το τραγικό δυστύχημα στη Ρουμανία.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6826977-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Η χώρα χρειάζεται βαθιές προοδευτικές αλλαγές, όχι έκρηξη θυμού, ούτε θολά οράματα",
+          "link": "https://www.in.gr/2026/01/28/editorial/xora-xreiazetai-vathies-proodeytikes-allages-oxi-ekriksi-thymou-oute-thola-oramata/",
+          "pubDate": "Wed, 28 Jan 2026 09:21:26 +0300",
+          "description": "Το μεγάλο ερώτημα είναι ποιες αλλαγές πρέπει και μπορούν όντως να γίνουν στη χώρα για να μη συνεχιστεί η σημερινή κατάσταση",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_2398309581-768x502.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Αποτελέσματα NBA: Νέα ήττα για τους Μιλγουόκι Μπακς χωρίς τον Γιάννη Αντετοκούνμπο",
           "link": "https://www.newsit.gr/athlitika/apotelesmata-nba-nea-itta-gia-tous-milgouoki-mpaks-xoris-ton-gianni-antetokounmpo-2/4585309/",
           "pubDate": "Wed, 28 Jan 2026 06:18:34 +0000",
@@ -223,30 +247,6 @@
           "description": "Στον εισαγγελέα σήμερα οι τρεις συλληφθέντες για τη φονική έκρηξη στο εργοστάσιο Βιολάντα, ενώ συνεχίζεται η έρευνα για την έκρηξη που προκάλεσε τον θάνατο 5 γυναικών - Κατά την αυτοψία, εντοπίστηκαν στο υπόγειο σωλήνες προπάνιου οι οποίοι είχαν υποστεί διάτρηση",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/violanta-mak2.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Κρήτη: Δικάζεται ο παππούς για κακοποίηση – Στο Βενιζέλιο η φιλοξενία των οκτώ παιδιών",
-          "link": "https://www.in.gr/2026/01/28/greece/kriti-dikazetai-o-pappous-gia-kakopoiisi-sto-venizelio-filoksenia-ton-okto-paidion/",
-          "pubDate": "Wed, 28 Jan 2026 08:52:06 +0300",
-          "description": "Στην φυλακή οι γονείς των παιδιών – Στο πλευρό των παιδιών όλο το διοικητικό, ιατρικό και νοσηλευτικό προσωπικό",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/venizeleio.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τροχαίο δυστύχημα με οπαδούς του ΠΑΟΚ: Αισιόδοξα νέα για τους 3 τραυματίες – Νοσηλεύονται σε σταθερή κατάσταση",
-          "link": "https://www.newsit.gr/ellada/troxaio-dystyxima-me-opadous-tou-paok-aisiodoksa-nea-gia-tous-3-traymaties-nosileyontai-se-statheri-katastasi/4585303/",
-          "pubDate": "Wed, 28 Jan 2026 05:51:13 +0000",
-          "description": "Αισιόδοξα είναι τα νέα από το νοσοκομείο της Τιμισοάρα για την κατάσταση των 3 τραυματιών από το πολύνεκρο τροχαίο που έγινε την Τρίτη 27.01.2026 στον ...  \nTo άρθρο Τροχαίο δυστύχημα με οπαδούς του ΠΑΟΚ: Αισιόδοξα νέα για τους 3 τραυματίες – Νοσηλεύονται σε σταθερή κατάσταση δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-4.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο «δρόμος του θανάτου» στη Ρουμανία: 70 νεκροί τον χρόνο στον DN6 όπου «έσβησαν» οι 7 οπαδοί του ΠΑΟΚ",
-          "link": "https://www.newsit.gr/kosmos/o-dromos-tou-thanatou-sti-roumania-70-nekroi-ton-xrono-ston-dn6-opou-esvisan-oi-7-opadoi-tou-paok/4585304/",
-          "pubDate": "Wed, 28 Jan 2026 05:48:46 +0000",
-          "description": "Δρόμος καρμανιόλα ή αλλιώς ο «δρόμος του θανάτου» είναι αυτός που σημειώθηκε η τραγωδία με τους 7 νεκρούς φιλάθλους του ΠΑΟΚ στη Ρουμανία. Ένας δρόμος ...  \nTo άρθρο Ο «δρόμος του θανάτου» στη Ρουμανία: 70 νεκροί τον χρόνο στον DN6 όπου «έσβησαν» οι 7 οπαδοί του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-fans-1200x675-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,46 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Κώστας Σκανδαλίδης: Δεν έχει όριο ο γκεμπελισμός της ΝΔ",
+          "link": "https://www.tovima.gr/2026/01/28/politics/kostas-skandalidis-den-exei-orio-o-gkempelismos-tis-nd/",
+          "pubDate": "Wed, 28 Jan 2026 08:56:11 +0300",
+          "description": "Ο πρώην υπουργός έκανε λόγο για απόπειρα διαστρέβλωσης από τη Νέα Δημοκρατία της κατάθεσής του στην Εξεταστική Επιτροπή για τον ΟΠΕΚΕΠΕ",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/TSE_1_GIAN-4-1024x684.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Τετ α τετ Γεραπετρίτη – Γκουτέρες στη Νέα Υόρκη",
+          "link": "https://www.tanea.gr/2026/01/28/politics/tet-a-tet-gerapetriti-gkouteres-sti-nea-yorki/",
+          "pubDate": "Wed, 28 Jan 2026 05:38:21 +0000",
+          "description": "Η ατζέντα της σημερινής συνάντησης του Έλληνα ΥΠΕΞ με τον ΓΓ. του ΟΗΕ",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/gerapetritis-2-1-1024x682.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "«Ψάχνονται» στο Μαξίμου για λύσεις καθημερινότητας και στη ΝΔ για τα προσυνέδρια – Συσκέψεις και αναθεωρήσεις",
+          "link": "https://www.tanea.gr/2026/01/28/politics/psaxnontai-sto-maksimou-gia-lyseis-kathimerinotitas-kai-sti-nd-gia-ta-prosynedria-syskepseis-kai-anatheoriseis/",
+          "pubDate": "Wed, 28 Jan 2026 05:27:12 +0000",
+          "description": "Σύσκεψη Μητσοτάκη και υπουργών σήμερα για το κυκλοφοριακό της Αττικής. Ζητούμενα ο κυβερνητικός και ο κομματικός συντονισμός.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/megaro-maximou-8-e1768154172300.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "ΚΚΕ: Ξεκινάει σήμερα το 22ο Συνέδριο – Η ιστορία των προηγούμενων συνεδρίων",
+          "link": "https://www.tovima.gr/2026/01/28/politics/kke-ksekinaei-simera-to-22o-synedrio-i-istoria-ton-proigoumenon-synedrion/",
+          "pubDate": "Wed, 28 Jan 2026 06:41:55 +0300",
+          "description": "Με έναν διαφορετικό σε σχέση με το παρελθόν τρόπο ανοίγει τις πύλες του σήμερα το 22ο Συνέδριο του ΚΚΕ, το οποίο θα κληθεί να δώσει τις δικές του απαντήσεις στις προκλήσεις του σήμερα.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2024/09/19/EV_KKE16-1024x682.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Δοκιμασία Αξιοπιστίας για την Ευρωπαϊκή Πολιτική Αλιείας",
+          "link": "https://www.tovima.gr/2026/01/28/politics/dokimasia-aksiopistias-gia-tin-eyropaiki-politiki-alieias/",
+          "pubDate": "Wed, 28 Jan 2026 06:00:44 +0300",
+          "description": "«Οι ευρωπαίοι αλιείς δεν θα ωφεληθούν από την επαναδιαπραγμάτευση  της ΚΟΙΝΗΣ ΑΛΙΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ , που έχει ήδη αποδειχθεί αποτελεσματική» - Το κείμενο γράφτηκε για το POLITICO το οποίο παραχώρησε το δικαίωμα ταυτόχρονης δημοσίευσης στο ΒΗΜΑ.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/fishboat-1024x680.jpg",
+          "source": "Το Βήμα"
+        },
         {
           "title": "Πηγές ΠΑΣΟΚ: Η στρεψοδικία και η προπαγάνδα δεν έχουν όρια για τη ΝΔ και τους αήθεις εντολοδόχους της",
           "link": "https://www.naftemporiki.gr/politics/2064717/piges-pasok-i-strepsodikia-kai-i-propaganda-den-echoyn-oria-gia-ti-nd-kai-toys-aitheis-entolodochoys-tis/?utm_source=rss&utm_medium=rss&utm_campaign=piges-pasok-i-strepsodikia-kai-i-propaganda-den-echoyn-oria-gia-ti-nd-kai-toys-aitheis-entolodochoys-tis",
@@ -271,6 +311,22 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Θάνος Πλεύρης: Κανένας παράνομος «μετανάστης» δεν θα γίνεται νόμιμος – Τα πάνω κάτω με το νέο νομοσχέδιο",
+          "link": "https://www.tanea.gr/2026/01/27/politics/thanos-pleyris-kanenas-paranomos-metanastis-den-tha-ginetai-nomimos-ta-pano-kato-me-to-neo-nomosxedio/",
+          "pubDate": "Tue, 27 Jan 2026 17:45:31 +0000",
+          "description": "Σε κλίμα πολιτικής αντιπαράθεσης διεξάγεται στη Βουλή η συζήτηση για το νομοσχέδιο του υπουργείου Μετανάστευσης και Ασύλου, με το οποίο η κυβέρνηση επιχειρεί την αναμόρφωση του Κώδικα Μετανάστευσης. Το νομοσχέδιο αντιμετωπίζει ευρύ αλλά ετερόκλητο μέτωπο ενστάσεων από την αντιπολίτευση, τόσο στα δεξιά όσο και στα αριστερά της Νέας Δημοκρατίας. Παρουσιάζοντας το σκεπτικό των νέων διατάξεων, […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/pleuris-1024x682.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Δύο δεσπότες κρίνουν τη μάχη της Κρήτης",
+          "link": "https://www.tanea.gr/print/2026/01/27/politics/dyo-despotes-krinoun-ti-maxi-tis-kritis/",
+          "pubDate": "Tue, 27 Jan 2026 15:50:00 +0000",
+          "description": "Αυστηρές προειδοποιήσεις από Φανάρι και κυβέρνηση - Το παρασκήνιο της αυριανής διπλής εκλογής",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/agios-minas-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Στον Πρόεδρο της Βουλής για αντικοινοβουλευτική συμπεριφορά παραπέμπεται η Ζωή Κωνσταντοπούλου",
           "link": "https://www.naftemporiki.gr/politics/2064629/ston-proedro-tis-voylis-gia-antikoinovoyleytiki-symperifora-parapempetai-i-zoi-konstantopoyloy/?utm_source=rss&utm_medium=rss&utm_campaign=ston-proedro-tis-voylis-gia-antikoinovoyleytiki-symperifora-parapempetai-i-zoi-konstantopoyloy",
           "pubDate": "Tue, 27 Jan 2026 15:24:08 +0000",
@@ -285,6 +341,22 @@
           "description": "Με βαθιά οδύνη πληροφορηθήκαμε τον τραγικό θάνατο επτά φιλάθλων του ΠΑΟΚ και τον τραυματισμό τριών σε τροχαίο δυστύχημα στη Ρουμανία, σημειώνει σε ανακοίνωσή του ο πρόεδρος του ΣΥΡΙΖΑ, Σωκράτης Φάμελλος.…\nΣ. Φάμελλος: Συλλυπητήρια στις οικογένειες των θυμάτων και στη μεγάλη οικογένεια του ΠΑΟΚ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Δυστύχημα Ρουμανία – Μητσοτάκης: «Είμαι βαθιά συγκλονισμένος» για το τροχαίο με τους 7 νεκρούς οπαδούς του ΠΑΟΚ",
+          "link": "https://www.tanea.gr/2026/01/27/politics/dystyxima-roymania-mitsotakis-eimai-vathia-sygklonismenos-gia-to-troxaio-me-toys-7-nekroys/",
+          "pubDate": "Tue, 27 Jan 2026 14:59:07 +0000",
+          "description": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης εξέφρασε τη βαθιά του θλίψη για το δυστύχημα με τους επτά νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/kiriakos-mitsotakis-3-1024x681.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Γεωργιάδης για τροχαίο στη Ρουμανία: «Οι τρεις τραυματίες έχουν συνείδηση»",
+          "link": "https://www.tovima.gr/2026/01/27/society/georgiadis-gia-troxaio-sti-roumania-oi-treis-traymaties-exoun-syneidisi/",
+          "pubDate": "Tue, 27 Jan 2026 17:37:44 +0300",
+          "description": "«Είμαστε έτοιμοι να παράσχουμε κάθε είδους βοήθεια που θα χρειαστεί ή να τους μεταφέρουμε στην Ελλάδα εάν αυτό κρίνουν οι γιατροί», σημείωσε σε ανάρτησή του ο υπουργός Υγείας για το τροχαίο στη Ρουμανία.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/01/21/Adonis-Georgiadis-1024x678.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "Ν. Βλαχάκος: Δέχθηκα προσωπική προσβολή από τη Ζωή Κωνσταντοπούλου",
@@ -311,12 +383,36 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Μια απλή δέσμευση",
+          "link": "https://www.tanea.gr/print/2026/01/27/politics/mia-apli-desmeysi/",
+          "pubDate": "Tue, 27 Jan 2026 14:13:00 +0000",
+          "description": "Ακουγα χθες τον εκπρόσωπο Τύπου του ΣΥΡΙΖΑ Κώστα Ζαχαριάδη, σε μια πρωινή εκπομπή. Μίλησε σκληρά για την κυβέρνηση λέγοντας ότι βουλιάζει στην αναξιοπιστία, στη διαφθορά και στα σκάνδαλα κι ως τέτοιο χαρακτήρισε και την τελευταία νομοθετική ρύθμιση για τη συνεπιμέλεια, την οποία χαρακτήρισε «φωτογραφική» – κάτι σαν δώρο της κυβέρνησης στην Ολγα Κεφαλογιάννη που έσπευσε με […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/zaxariadis-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Ελληνικό ΥΠΕΞ: Βρισκόμαστε σε συνεχή επαφή με τις ρουμανικές αρχές μετά το τροχαίο με θύματα 7 οπαδούς του ΠΑΟΚ",
+          "link": "https://www.tanea.gr/2026/01/27/politics/elliniko-ypeks-vriskomaste-se-synexi-epafi-me-tis-roymanikes-arxes-meta-to-troxaio-me-thym/",
+          "pubDate": "Tue, 27 Jan 2026 14:07:20 +0000",
+          "description": "Το ελληνικό ΥΠΕΞ βρίσκεται σε στενή συνεργασία με τις ρουμανικές αρχές μετά το τραγικό τροχαίο στη Ρουμανία, όπου έχασαν τη ζωή τους επτά φίλαθλοι",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/YPEX-scaled-e1755013438981-1024x678.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Υπ. Αγροτικής Ανάπτυξης κατά Χαριλάου Τρικούπη: «Το ΠΑΣΟΚ επιλέγει να γίνει ουρά του Βελόπουλου και της Λατινοπούλου»",
           "link": "https://www.naftemporiki.gr/politics/2064563/yp-agrotikis-anaptyxis-kata-charilaoy-trikoypi-to-pasok-epilegei-na-ginei-oyra-toy-velopoyloy-kai-tis-latinopoyloy/?utm_source=rss&utm_medium=rss&utm_campaign=yp-agrotikis-anaptyxis-kata-charilaoy-trikoypi-to-pasok-epilegei-na-ginei-oyra-toy-velopoyloy-kai-tis-latinopoyloy",
           "pubDate": "Tue, 27 Jan 2026 14:06:10 +0000",
           "description": "Στην αντεπίθεση κατά του ΠΑΣΟΚ πέρασε το υπουργείο Αγροτικής Ανάπτυξης, απαντώντας στα «πυρά» που εξαπέλυσε η αξιωματική αντιπολίτευση προς την κυβέρνηση με αιχμή την ευλογιά των αιγοπροβάτων και ειδικότερα για…\nΥπ. Αγροτικής Ανάπτυξης κατά Χαριλάου Τρικούπη: «Το ΠΑΣΟΚ επιλέγει να γίνει ουρά του Βελόπουλου και της Λατινοπούλου» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Μητσοτάκης: «Βαθιά συγκλονισμένος για το τραγικό δυστύχημα στη Ρουμανία»",
+          "link": "https://www.tovima.gr/2026/01/27/politics/mitsotakis-vathia-sygklonismenos-gia-to-tragiko-dystyxima-sti-roumania/",
+          "pubDate": "Tue, 27 Jan 2026 16:58:29 +0300",
+          "description": "«Τούτες τις δύσκολες στιγμές, μαζί με όλες τις Ελληνίδες και όλους τους Έλληνες, εκφράζω τα πιο ειλικρινή συλλυπητήριά μου στους συγγενείς των θυμάτων και στην οικογένεια του ΠΑΟΚ» έγραψε ο πρωθυπουργός στο μήνυμα συμπαράστασης.",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/kyriakos2-1024x683.jpg",
+          "source": "Το Βήμα"
         },
         {
           "title": "ΝΔ: Παραπομπή της Ζωής Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας της Βουλής",
@@ -327,12 +423,44 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Η ΝΔ στέλνει στην επιτροπή Δεοντολογίας την Κωνσταντοπούλου – Οι αναφορές στα Ίμια",
+          "link": "https://www.tovima.gr/2026/01/27/politics/i-nd-stelnei-stin-epitropi-deontologias-tin-konstantopoulou-oi-anafores-sta-imia/",
+          "pubDate": "Tue, 27 Jan 2026 16:41:43 +0300",
+          "description": "Παραπέμπεται στην επιτροπή Δεοντολογίας η Ζωή Κωνσταντοπούλου για αντικοινοβουλευτική συμπεριφορά - «Αυτό που είπε με αυτό τον απαράδεκτο τρόπο το ψάξε να βρεις τι έγινε στα Ίμια, είναι προσβολή στο πρόσωπο του ήρωα».",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/KONSTANTOPOYLOY-1024x681.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Ταμείο Καινοτομίας Φαρμάκου: «Πράσινο φως» για ταχύτερη πρόσβαση σε νέα θεραπείες",
+          "link": "https://www.tanea.gr/print/2026/01/27/politics/taxyteri-prosvasi-asthenon-se-nees-therapeies/",
+          "pubDate": "Tue, 27 Jan 2026 13:39:00 +0000",
+          "description": "Το νομοσχέδιο για τη σύσταση του Ταμείου Καινοτομίας Φαρμάκου παρουσίασαν στο Υπουργικό Συμβούλιο ο υπουργός Υγείας Αδωνις Γεωργιάδης και ο υφυπουργός Δημήτρης Βαρτζόπουλος. Σκοπός του Ταμείου Καινοτομίας, ως μια διακριτής κατηγορίας φαρμακευτικής δαπάνης, είναι να αλλάξει την πρόσβαση σε καινοτόμα φάρμακα, μειώνοντας καθυστερήσεις και ενισχύοντας τη φαρμακευτική καινοτομία. Ετσι, σύμφωνα με το υπουργείο Υγείας, θα […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/nosokomeio-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Πηγές ΝΔ: Ο Γ. Καρασμάνης επιβεβαίωσε τη θέση της ΝΔ για χειρισμούς και παραλείψεις δεκαετιών με αποτέλεσμα τη σημερινή κατάσταση στον ΟΠΕΚΕΠΕ",
           "link": "https://www.naftemporiki.gr/politics/2064550/piges-nd-o-g-karasmanis-epivevaiose-ti-thesi-tis-nd-gia-cheirismoys-kai-paraleipseis-dekaetion-me-apotelesma-ti-simerini-katastasi-ston-opekepe/?utm_source=rss&utm_medium=rss&utm_campaign=piges-nd-o-g-karasmanis-epivevaiose-ti-thesi-tis-nd-gia-cheirismoys-kai-paraleipseis-dekaetion-me-apotelesma-ti-simerini-katastasi-ston-opekepe",
           "pubDate": "Tue, 27 Jan 2026 13:36:56 +0000",
           "description": "«Με τα όσα δήλωσε ο πρώην υπουργός Αγροτικής Ανάπτυξης, Γιώργος Καρασμάνης, επιβεβαίωσε τη θέση της Νέας Δημοκρατίας για χειρισμούς και παραλείψεις δεκαετιών με αποτέλεσμα τη σημερινή κατάσταση στον ΟΠΕΚΕΠΕ», υποστήριξαν…\nΠηγές ΝΔ: Ο Γ. Καρασμάνης επιβεβαίωσε τη θέση της ΝΔ για χειρισμούς και παραλείψεις δεκαετιών με αποτέλεσμα τη σημερινή κατάσταση στον ΟΠΕΚΕΠΕ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Μάχη για την ψήφο των αποδήμων: Επιστολική κάλπη και νέα περιφέρεια στο τραπέζι",
+          "link": "https://www.tanea.gr/print/2026/01/27/politics/skiniko-kaxypopsias-gia-tin-psifo-ton-apodimon/",
+          "pubDate": "Tue, 27 Jan 2026 13:15:00 +0000",
+          "description": "Η επιστολική, η τριεδρική περιφέρεια και η αντίδραση της αντιπολίτευσης - Τα μηνύματα Μητσοτάκη στο Υπουργικό Συμβούλιο",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/11/maximou-1.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Ο Δήμαρχος Πειραιά Γιάννης Μώραλης στις εκδηλώσεις κοπής πίτας συλλόγων και φορέων",
+          "link": "https://www.tanea.gr/2026/01/27/politics/o-dimarxos-peiraia-giannis-moralis-stis-ekdiloseis-kopis-pitas-syllogon-kai-foreon/",
+          "pubDate": "Tue, 27 Jan 2026 13:13:49 +0000",
+          "description": "Ο Δήμαρχος Πειραιά συμμετείχε σε εκδηλώσεις της Αδελφότητας Κρητών, του Ναυτικού Μουσείου, της Πανελλήνιας Ναυτικής Ομοσπονδίας και του Ηπειρωτικού Συνδέσμου, επισημαίνοντας τη σημασία της παράδοσης, της ιστορίας και της ενεργής συμμετοχής των πολιτών στα κοινά.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/4C5A4163-1024x683.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "Αλ. Χαρίτσης από τα Τρίκαλα: Ευθύνες για το εργατικό δυστύχημα υπάρχουν και στο κράτος",
@@ -343,154 +471,26 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Αιφνιδιασμός από ΕΛΣΤΑΤ – Οι περιφέρειες αντιδρούν",
+          "link": "https://www.tanea.gr/2026/01/27/politics/aifnidiasmos-apo-elstat-oi-perifereies-antidroyn/",
+          "pubDate": "Tue, 27 Jan 2026 13:04:32 +0000",
+          "description": "Η Ένωση Περιφερειών Ελλάδας (ΕΝΠΕ) εκφράζει έντονη αντίθεση στην απόφαση της ΕΛΣΤΑΤ να μεταφέρει τους Αναπτυξιακούς Οργανισμούς στους φορείς της Γενικής Κυβέρνησης, κάνοντας λόγο για αιφνιδιασμό και σοβαρές επιπτώσεις στις περιφέρειες.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/enpe-1024x611.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Νέες παρεμβάσεις για προσιτή στέγη: Επιστροφή δύο ενοικίων και περιορισμοί στα Airbnb",
+          "link": "https://www.tanea.gr/print/2026/01/27/politics/tesseris-nees-paremvaseis-gia-prositi-stegi/",
+          "pubDate": "Tue, 27 Jan 2026 13:00:00 +0000",
+          "description": "Νέο πρόγραμμα «Κατασκευάζω – Νοικιάζω», επιστροφή χωρίς εισοδηματικά κριτήρια δύο ενοικίων αντί ενός σε περίπου 50.000 ιατρούς, νοσηλευτές και εκπαιδευτικούς που υπηρετούν «εκτός έδρας» και επέκταση των περιορισμών για τις βραχυχρόνιες μισθώσεις δρομολογεί η κυβέρνηση στο πλαίσιο αντιμετώπισης του στεγαστικού προβλήματος. Ο Κυριάκος Πιερρακάκης και η Δόμνα Μιχαηλίδου παρουσίασαν χθες στο Υπουργικό Συμβούλιο τις βασικές […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/11/akinita.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Βουλή: Κατά της άρσης ασυλίας του Δ. Κουτσούμπα η Επιτροπή Δεοντολογίας",
           "link": "https://www.naftemporiki.gr/politics/2064508/voyli-kata-tis-arsis-asylias-toy-d-koytsoympa-i-epitropi-deontologias/?utm_source=rss&utm_medium=rss&utm_campaign=voyli-kata-tis-arsis-asylias-toy-d-koytsoympa-i-epitropi-deontologias",
           "pubDate": "Tue, 27 Jan 2026 12:32:14 +0000",
           "description": "Κατά της άρσης ασυλίας του γενικού γραμματέα της Κ.Ε. του ΚΚΕ, Δημήτρη Κουτσούμπα αποφάσισε και θα εισηγηθεί στην Ολομέλεια της Βουλής, η Επιτροπή Δεοντολογίας.\nΒουλή: Κατά της άρσης ασυλίας του Δ. Κουτσούμπα η Επιτροπή Δεοντολογίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Ν. Ανδρουλάκης για Ημέρα Μνήμης Ολοκαυτώματος: Η μνήμη είναι φρουρός για τη θωράκιση της δημοκρατίας",
-          "link": "https://www.naftemporiki.gr/politics/2064492/n-androylakis-gia-imera-mnimis-olokaytomatos-i-mnimi-einai-froyros-gia-ti-thorakisi-tis-dimokratias/?utm_source=rss&utm_medium=rss&utm_campaign=n-androylakis-gia-imera-mnimis-olokaytomatos-i-mnimi-einai-froyros-gia-ti-thorakisi-tis-dimokratias",
-          "pubDate": "Tue, 27 Jan 2026 12:11:46 +0000",
-          "description": "Τη σημασία της μνήμης για τη θωράκιση της δημοκρατίας, υπογραμμίζει ο πρόεδρος του ΠΑΣΟΚ-Κινήματος Αλλαγής σε μήνυμά του για Διεθνή Ημέρα Μνήμης του Ολοκαυτώματος.\nΝ. Ανδρουλάκης για Ημέρα Μνήμης Ολοκαυτώματος: Η μνήμη είναι φρουρός για τη θωράκιση της δημοκρατίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Κ. Τασούλας για Ημέρα Μνήμης θυμάτων του Ολοκαυτώματος: Στοιχειώδες χρέος μας να θυμόμαστε",
-          "link": "https://www.naftemporiki.gr/politics/2064469/k-tasoylas-gia-imera-mnimis-thymaton-toy-olokaytomatos-stoicheiodes-chreos-mas-na-thymomaste/?utm_source=rss&utm_medium=rss&utm_campaign=k-tasoylas-gia-imera-mnimis-thymaton-toy-olokaytomatos-stoicheiodes-chreos-mas-na-thymomaste",
-          "pubDate": "Tue, 27 Jan 2026 11:37:46 +0000",
-          "description": "Την ανάγκη διατήρησης της συλλογικής μνήμης ώστε το «δεν ξεχνώ» να αποτελεί «έναν θώρακα απέναντι στο κακό που πάντα ελλοχεύει» τονίζει ο Πρόεδρος της Δημοκρατίας Κωνσταντίνος Αν. Τασούλας,  με αφορμή…\nΚ. Τασούλας για Ημέρα Μνήμης θυμάτων του Ολοκαυτώματος: Στοιχειώδες χρέος μας να θυμόμαστε - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Ευλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού",
-          "link": "https://www.naftemporiki.gr/politics/2064454/eylogia-aigoprovaton-krisimo-to-epomeno-trimino-k-mitsotakis-den-syzitame-katholoy-zitimata-emvoliasmoy/?utm_source=rss&utm_medium=rss&utm_campaign=eylogia-aigoprovaton-krisimo-to-epomeno-trimino-k-mitsotakis-den-syzitame-katholoy-zitimata-emvoliasmoy",
-          "pubDate": "Tue, 27 Jan 2026 11:09:02 +0000",
-          "description": "Η κρισιμότητα του επόμενου τριμήνου για την πορεία της ευλογιάς των αιγοπροβάτων και η ανάγκη οριζόντιας και αυστηρής εφαρμογής των μέτρων βιοασφάλειας, ώστε να αξιοποιηθεί η αποκλιμάκωση των κρουσμάτων, τονίστηκε…\nΕυλογιά αιγοπροβάτων: Κρίσιμο το επόμενο τρίμηνο – Κ. Μητσοτάκης: Δεν συζητάμε καθόλου ζητήματα εμβολιασμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Κ. Μητσοτάκης για Ημέρα Μνήμης θυμάτων του Ολοκαυτώματος: Η μισαλλοδοξία και ο αντισημιτισμός δεν έχουν θέση στις κοινωνίες μας",
-          "link": "https://www.naftemporiki.gr/politics/2064421/k-mitsotakis-gia-imera-mnimis-thymaton-toy-olokaytomatos-i-misallodoxia-kai-o-antisimitismos-den-echoyn-thesi-stis-koinonies-mas/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-gia-imera-mnimis-thymaton-toy-olokaytomatos-i-misallodoxia-kai-o-antisimitismos-den-echoyn-thesi-stis-koinonies-mas",
-          "pubDate": "Tue, 27 Jan 2026 10:12:37 +0000",
-          "description": "Την ανάγκη της συνεχούς εγρήγορση απέναντι στις δυνάμεις του μίσους και του διχασμού επισημαίνει ο πρωθυπουργός Κυριάκος Μητσοτάκης σε ανάρτησή του για τη σημερινή Ημέρα Μνήμης των θυμάτων του Ολοκαυτώματος.…\nΚ. Μητσοτάκης για Ημέρα Μνήμης θυμάτων του Ολοκαυτώματος: Η μισαλλοδοξία και ο αντισημιτισμός δεν έχουν θέση στις κοινωνίες μας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "ΠΑΣΟΚ: Ασύστολα ψεύδη της κυβέρνησης για την ευλογιά των αιγοπροβάτων",
-          "link": "https://www.naftemporiki.gr/politics/2064428/pasok-asystola-pseydi-tis-kyvernisis-gia-tin-eylogia-ton-aigoprovaton/?utm_source=rss&utm_medium=rss&utm_campaign=pasok-asystola-pseydi-tis-kyvernisis-gia-tin-eylogia-ton-aigoprovaton",
-          "pubDate": "Tue, 27 Jan 2026 10:09:08 +0000",
-          "description": "Για καθυστέρηση στη διαχείριση της ευλογιάς των αιγοπροβάτων κατηγορεί την κυβέρνηση το ΠΑΣΟΚ–Κίνημα Αλλαγής, με ανακοίνωσή του.\nΠΑΣΟΚ: Ασύστολα ψεύδη της κυβέρνησης για την ευλογιά των αιγοπροβάτων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Δημοσκόπηση Interview: Ενισχύει το προβάδισμά της η Ν.Δ. – Πόσο έπληξαν τη Μ. Καρυστιανού οι δηλώσεις για τις αμβλώσεις",
-          "link": "https://www.naftemporiki.gr/politics/2064323/dimoskopisi-interview-enischyei-to-provadisma-tis-i-n-d-poso-eplixan-ti-m-karystianoy-oi-diloseis-gia-tis-amvloseis/?utm_source=rss&utm_medium=rss&utm_campaign=dimoskopisi-interview-enischyei-to-provadisma-tis-i-n-d-poso-eplixan-ti-m-karystianoy-oi-diloseis-gia-tis-amvloseis",
-          "pubDate": "Tue, 27 Jan 2026 08:15:05 +0000",
-          "description": "Πλήγμα στην εικόνα της Μαρίας Καρυστιανού, αλλά χωρίς ουσιαστικό αντίκτυπο στη δυνητική ψήφο προς το πρόσωπό της, επέφεραν η πρόσφατη συνέντευξή της και οι επίμαχες δηλώσεις της για τις αμβλώσεις,…\nΔημοσκόπηση Interview: Ενισχύει το προβάδισμά της η Ν.Δ. – Πόσο έπληξαν τη Μ. Καρυστιανού οι δηλώσεις για τις αμβλώσεις - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Σύσκεψη στο Μαξίμου για την ευλογιά αιγοπροβάτων",
-          "link": "https://www.naftemporiki.gr/politics/2064279/syskepsi-sto-maximoy-gia-tin-eylogia-aigoprovaton/?utm_source=rss&utm_medium=rss&utm_campaign=syskepsi-sto-maximoy-gia-tin-eylogia-aigoprovaton",
-          "pubDate": "Tue, 27 Jan 2026 04:21:39 +0000",
-          "description": "Σύσκεψη στο Μέγαρο Μαξίμου με αντικείμενο την εφαρμογή και την αυστηροποίηση των μέτρων βιοασφάλειας για την αντιμετώπιση της ευλογιάς των αιγοπροβάτων προεδρεύει σήμερα ο πρωθυπουργός Κυριάκος Μητσοτάκης.\nΣύσκεψη στο Μαξίμου για την ευλογιά αιγοπροβάτων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Η συζήτηση για την ενότητα διχάζει την ευρύτερη κεντροαριστερά",
-          "link": "https://www.naftemporiki.gr/politics/2064215/i-syzitisi-gia-tin-enotita-dichazei-tin-eyryteri-kentroaristera/?utm_source=rss&utm_medium=rss&utm_campaign=i-syzitisi-gia-tin-enotita-dichazei-tin-eyryteri-kentroaristera",
-          "pubDate": "Mon, 26 Jan 2026 19:17:40 +0000",
-          "description": "Είναι από τα παράδοξα της Αριστεράς ότι η συζήτηση για την απαιτούμενη ενότητα της Αριστεράς προκειμένου να προκύψει αξιόπιστη εναλλακτική στην κυβέρνηση Μητσοτάκη προκαλεί νέους διχασμούς.\nΗ συζήτηση για την ενότητα διχάζει την ευρύτερη κεντροαριστερά - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "SAFE: Εγκρίθηκε από την Κομισιόν το δεύτερο πακέτο 74 δισ. ευρώ – Η Ελλάδα μεταξύ των 8 νέων χωρών",
-          "link": "https://www.naftemporiki.gr/politics/2064149/safe-egkrithike-apo-tin-komision-to-deytero-paketo-74-dis-eyro-i-ellada-metaxy-ton-8-neon-choron/?utm_source=rss&utm_medium=rss&utm_campaign=safe-egkrithike-apo-tin-komision-to-deytero-paketo-74-dis-eyro-i-ellada-metaxy-ton-8-neon-choron",
-          "pubDate": "Mon, 26 Jan 2026 16:56:08 +0000",
-          "description": "Μετά την έγκριση του πρώτου κύματος χρηματοδότησης της άμυνας, η Ευρωπαϊκή Επιτροπή ενέκρινε μια δεύτερη ομάδα εθνικών αμυντικών σχεδίων στο πλαίσιο της πρωτοβουλίας «Δράση για την ασφάλεια στην Ευρώπη» (SAFE),…\nSAFE: Εγκρίθηκε από την Κομισιόν το δεύτερο πακέτο 74 δισ. ευρώ – Η Ελλάδα μεταξύ των 8 νέων χωρών - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Πηγές ΝΔ: Η κατάθεση Χαλικιά χάλασε το αφήγημα της αντιπολίτευσης και άφησε το ΠΑΣΟΚ χωρίς άλλοθι",
-          "link": "https://www.naftemporiki.gr/politics/2064116/piges-nd-i-katathesi-chalikia-chalase-to-afigima-tis-antipoliteysis-kai-afise-to-pasok-choris-allothi/?utm_source=rss&utm_medium=rss&utm_campaign=piges-nd-i-katathesi-chalikia-chalase-to-afigima-tis-antipoliteysis-kai-afise-to-pasok-choris-allothi",
-          "pubDate": "Mon, 26 Jan 2026 16:17:26 +0000",
-          "description": "«Η κατάθεση της πρώην αντιπροέδρου του ΟΠΕΚΕΠΕ, Δήμητρας Χαλικιά, στην Εξεταστική Επιτροπή αποτέλεσε -και με τη βούλα- την στιγμή που κατέρρευσε με πάταγο το βολικό αφήγημα της αντιπολίτευσης -και κυρίως…\nΠηγές ΝΔ: Η κατάθεση Χαλικιά χάλασε το αφήγημα της αντιπολίτευσης και άφησε το ΠΑΣΟΚ χωρίς άλλοθι - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Γ. Γεραπετρίτης: Επίσκεψη του ΥΠΕΞ στη Νέα Υόρκη – Το πρόγραμμά του",
-          "link": "https://www.naftemporiki.gr/politics/2064111/g-gerapetritis-episkepsi-toy-ypex-sti-nea-yorki-to-programma-toy/?utm_source=rss&utm_medium=rss&utm_campaign=g-gerapetritis-episkepsi-toy-ypex-sti-nea-yorki-to-programma-toy",
-          "pubDate": "Mon, 26 Jan 2026 15:56:56 +0000",
-          "description": "Ο υπουργός Εξωτερικών, Γιώργος Γεραπετρίτης, θα πραγματοποιήσει επίσκεψη στη Νέα Υόρκη, από αύριο Τρίτη 27 Ιανουαρίου και μέχρι τις 31 Ιανουαρίου.\nΓ. Γεραπετρίτης: Επίσκεψη του ΥΠΕΞ στη Νέα Υόρκη – Το πρόγραμμά του - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Πηγές ΠΑΣΟΚ για κατάθεση Δ.Χαλικιά: Επιχείρησε να «αθωώσει» σχεδόν όλους τους πρωταγωνιστές του σκανδάλου του ΟΠΕΚΕΠΕ",
-          "link": "https://www.naftemporiki.gr/politics/2064092/piges-pasok-gia-katathesi-d-chalikia-epicheirise-na-athoosei-schedon-oloys-toys-protagonistes-toy-skandaloy-toy-opekepe/?utm_source=rss&utm_medium=rss&utm_campaign=piges-pasok-gia-katathesi-d-chalikia-epicheirise-na-athoosei-schedon-oloys-toys-protagonistes-toy-skandaloy-toy-opekepe",
-          "pubDate": "Mon, 26 Jan 2026 15:46:11 +0000",
-          "description": "«Με εμφανή απουσία πρωτογενούς πληροφόρησης και γνώσης επί των θεμάτων στα οποία αναφερόταν, η κυρία Χαλικιά αντιπρόεδρος του ΟΠΕΚΕΠΕ την περίοδο Ιανουάριος 2013-Απρίλιος 2014, τοποθετήθηκε στην εξεταστική επιτροπή επί ώρα…\nΠηγές ΠΑΣΟΚ για κατάθεση Δ.Χαλικιά: Επιχείρησε να «αθωώσει» σχεδόν όλους τους πρωταγωνιστές του σκανδάλου του ΟΠΕΚΕΠΕ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Θεσσαλονίκη: Το Σερβικό προξενείο θα φιλοξενεί και το Ουγγρικό",
-          "link": "https://www.naftemporiki.gr/politics/2064074/thessaloniki-to-serviko-proxeneio-tha-filoxenei-kai-to-oyggriko/?utm_source=rss&utm_medium=rss&utm_campaign=thessaloniki-to-serviko-proxeneio-tha-filoxenei-kai-to-oyggriko",
-          "pubDate": "Mon, 26 Jan 2026 15:26:29 +0000",
-          "description": "Το Γενικό Προξενείο της Σερβίας στη Θεσσαλονίκη, θα φιλοξενεί από σήμερα και την προξενική αποστολή της Ουγγαρίας, βάσει συμφωνίας των δύο χωρών.\nΘεσσαλονίκη: Το Σερβικό προξενείο θα φιλοξενεί και το Ουγγρικό - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Εθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού",
-          "link": "https://www.naftemporiki.gr/politics/2064055/ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy/?utm_source=rss&utm_medium=rss&utm_campaign=ethnikes-ekloges-epistoliki-psifos-gia-toys-ektos-elladas-eklogeis-triedriki-eklogiki-perifereia-apodimoy-ellinismoy",
-          "pubDate": "Mon, 26 Jan 2026 15:03:01 +0000",
-          "description": "Τη νομοθετική πρωτοβουλία για την επιστολική ψήφο στους εκτός Ελλάδας εκλογείς κατά τις βουλευτικές εκλογές και τον ορισμό τριεδρικής εκλογικής περιφέρειας Απόδημου Ελληνισμού παρουσίασε τη Δευτέρα στο πρώτο υπουργικό συμβούλιο…\nΕθνικές εκλογές: Επιστολική ψήφος για τους εκτός Ελλάδας εκλογείς – Τριεδρική εκλογική περιφέρεια Απόδημου Ελληνισμού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "ΟΠΕΚΕΠΕ: 1.199.149,87 ευρώ «πίσω»,  για αχρεωστήτως καταβληθείσες ενισχύσεις σε παραγωγούς",
-          "link": "https://www.naftemporiki.gr/politics/2064049/opekepe-1-199-14987-eyro-piso-gia-achreostitos-katavlitheises-enischyseis-se-paragogoys/?utm_source=rss&utm_medium=rss&utm_campaign=opekepe-1-199-14987-eyro-piso-gia-achreostitos-katavlitheises-enischyseis-se-paragogoys",
-          "pubDate": "Mon, 26 Jan 2026 14:58:37 +0000",
-          "description": "Στα 1.199.149,87 ευρώ ανέρχεται το ποσό που είχε ανακτηθεί μέχρι το τέλος του 2025, για αχρεωστήτως καταβληθείσες ενισχύσεις σε παραγωγούς, μετά την ολοκλήρωση των απαιτούμενων διασταυρωτικών ελέγχων και διαδικασιών, οι…\nΟΠΕΚΕΠΕ: 1.199.149,87 ευρώ «πίσω»,  για αχρεωστήτως καταβληθείσες ενισχύσεις σε παραγωγούς - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Πηγές ΝΔ: Εκθέτει Τυχεροπούλου και Σημανδράκο η Δήμητρα Χαλικιά – Υπάλληλοι του ΟΠΕΚΕΠΕ άλλαζαν τις δηλώσεις ΟΣΔΕ",
-          "link": "https://www.naftemporiki.gr/politics/2064019/piges-nd-ekthetei-tycheropoyloy-kai-simandrako-i-dimitra-chalikia-ypalliloi-toy-opekepe-allazan-tis-diloseis-osde/?utm_source=rss&utm_medium=rss&utm_campaign=piges-nd-ekthetei-tycheropoyloy-kai-simandrako-i-dimitra-chalikia-ypalliloi-toy-opekepe-allazan-tis-diloseis-osde",
-          "pubDate": "Mon, 26 Jan 2026 13:56:09 +0000",
-          "description": "«Πλήρως εκτεθειμένα βρίσκονται, πλέον, τα κόμματα της αντιπολίτευσης που ανέδειξαν τη Παρασκευή Τυχεροπούλου ως αρχάγγελο της κάθαρσης στον ΟΠΕΚΕΠΕ, μετά την κατάθεση της πρώην αντιπροέδρου του ΟΠΕΚΕΠΕ την περίοδο 2013-2014…\nΠηγές ΝΔ: Εκθέτει Τυχεροπούλου και Σημανδράκο η Δήμητρα Χαλικιά – Υπάλληλοι του ΟΠΕΚΕΠΕ άλλαζαν τις δηλώσεις ΟΣΔΕ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Παρέμβαση Μ. Καρυστιανού για τα ελληνοτουρκικά: Ζητεί ενημέρωση για την ατζέντα της συνάντησης Μητσοτάκη – Ερντογάν",
-          "link": "https://www.naftemporiki.gr/politics/2063999/paremvasi-m-karystianoy-gia-ta-ellinotoyrkika-zitei-enimerosi-gia-tin-atzenta-tis-synantisis-mitsotaki-erntogan/?utm_source=rss&utm_medium=rss&utm_campaign=paremvasi-m-karystianoy-gia-ta-ellinotoyrkika-zitei-enimerosi-gia-tin-atzenta-tis-synantisis-mitsotaki-erntogan",
-          "pubDate": "Mon, 26 Jan 2026 13:41:00 +0000",
-          "description": "Με ανάρτησή της, η Μαρία Καρυστιανού καλεί τον πρωθυπουργό να ενημερώσει τους πολίτες για την ατζέντα της επικείμενης συνάντησής του με τον Τούρκο πρόεδρο Ρετζέπ Ταγίπ Ερντογάν, τονίζοντας πως η…\nΠαρέμβαση Μ. Καρυστιανού για τα ελληνοτουρκικά: Ζητεί ενημέρωση για την ατζέντα της συνάντησης Μητσοτάκη – Ερντογάν - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "«The Greek AI Accelerator»: Αναβάλλεται λόγω της τραγωδίας στα Τρίκαλα η εκδήλωση όπου θα συμμετείχε ο Κ. Μητσοτάκης",
-          "link": "https://www.naftemporiki.gr/politics/2063993/the-greek-ai-accelerator-anavalletai-logo-tis-tragodias-sta-trikala-i-ekdilosi-opoy-tha-symmeteiche-o-k-mitsotakis/?utm_source=rss&utm_medium=rss&utm_campaign=the-greek-ai-accelerator-anavalletai-logo-tis-tragodias-sta-trikala-i-ekdilosi-opoy-tha-symmeteiche-o-k-mitsotakis",
-          "pubDate": "Mon, 26 Jan 2026 13:32:55 +0000",
-          "description": "Λόγω του τραγικού δυστυχήματος στα Τρίκαλα ο Πρωθυπουργός, σύμφωνα με κυβερνητικές πηγές, δεν θα λάβει μέρος στην προγραμματισμένη για το απόγευμα συζήτηση για το πρόγραμμα «The Greek AI Accelerator» στο…\n«The Greek AI Accelerator»: Αναβάλλεται λόγω της τραγωδίας στα Τρίκαλα η εκδήλωση όπου θα συμμετείχε ο Κ. Μητσοτάκης - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
@@ -1149,14 +1149,6 @@
           "link": "https://trifilara.gr/panathinaikos-ta-neotera-gia-osman-mitoglou-nan-kai-giourtseven-me-vilerban/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ta-neotera-gia-osman-mitoglou-nan-kai-giourtseven-me-vilerban",
           "pubDate": "Tue, 27 Jan 2026 16:00:04 +0000",
           "description": "Με προπόνηση στο Telekom Center Athens ξεκίνησε σήμερα η προετοιμασία του Παναθηναϊκού AKTOR ενόψει της εκτός έδρας αναμέτρησης με τη Βιλερμπάν για τη συνέχεια της Euroleague, με το ιατρικό δελτίο να παρουσιάζει μικρές αλλά ουσιαστικές εξελίξεις.\nThe post Παναθηναϊκός: Τα νεότερα για Οσμάν, Μήτογλου, Ναν και Γιούρτσεβεν με Βιλερμπάν! appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!»",
-          "link": "https://trifilara.gr/ceo-maccabi-tel-aviv-o-ataman-einai-provokataros/?utm_source=rss&utm_medium=rss&utm_campaign=ceo-maccabi-tel-aviv-o-ataman-einai-provokataros",
-          "pubDate": "Tue, 27 Jan 2026 15:59:24 +0000",
-          "description": "Ο CEO της Μακάμπι, Αβί Μπεν Ταν, σε δηλώσεις του στο «BasketNews» αναφέρθηκε στην επίθεση που δέχθηκε ο Εργκίν Αταμάν.\nThe post CEO Μακάμπι Τελ Αβίβ: «Ο Αταμάν είναι προβοκάτορας!» appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
         },
