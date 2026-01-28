@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T05:20:29.386Z",
+  "lastUpdated": "2026-01-28T05:25:24.926Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -37,7 +37,7 @@
           "link": "https://www.newsit.gr/ellada/dystyxima-me-opadous-tou-paok-sti-roumania-stin-timisoara-200-opadoi-tou-dikefalou-tou-vorra-anatrixiastikes-stigmes/4585297/",
           "pubDate": "Wed, 28 Jan 2026 05:10:36 +0000",
           "description": "Σε πένθος βρίσκεται η Ελλάδα μετά το σοβαρό τροχαίο δυστύχημα στη Ρουμανία, στο οποίο σκοτώθηκαν 7 φίλαθλοι του ΠΑΟΚ και τραυματίστηκαν άλλοι τρεις. Οι οπαδοί ...  \nTo άρθρο Δυστύχημα με οπαδούς του ΠΑΟΚ στη Ρουμανία: Στην Τιμισοάρα 200 οπαδοί του δικέφαλου του βορρά – Ανατριχιαστικές στιγμές δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-7-1200x800.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-11-1200x800.jpg",
           "source": "NewsIT"
         },
         {
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Ανακοινώθηκε το Reigns: The Witcher - Ημερομηνία κυκλοφορίας και τιμή για το νέο spin-off",
+          "link": "https://www.techgear.gr/anakoinothike-to-reigns-the-witcher-imerominia-kykloforias-kai-timi-gia-to-neo-spin-off-47355",
+          "pubDate": "Wed, 28 Jan 2026 07:25:00 +0200",
+          "description": "Σε μια κίνηση που αιφνιδίασε ευχάριστα τη gaming κοινότητα, η CD Projekt RED ανακοίνωσε μια συνεργασία-έκπληξη με την Devolver Digital. Ενώ τα ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/reigns-the-witcher.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "«Συναγερμός» για χρήστες Chrome: Τα extensions που πρέπει να διαγράψετε τώρα",
           "link": "https://www.techgear.gr/synagermos-gia-christes-chrome-ta-extensions-poy-prepei-na-diagrapsete-tora-47354",
           "pubDate": "Wed, 28 Jan 2026 07:18:00 +0200",
@@ -1469,14 +1477,6 @@
           "description": "Η Apple προχώρησε σήμερα σε μια συντονισμένη διάθεση ενημερώσεων λογισμικού, κυκλοφορώντας ταυτόχρονα το iOS 26.2.1 και το watchOS ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/ios-apple-tag-2.jpg",
           "source": "Techgear"
-        },
-        {
-          "title": "Resident Evil Requiem Preview: Η Grace φέρνει τον τρόμο του RE2 και ο Leon τη δράση του RE4",
-          "link": "https://gr.pcmag.com/games/51132/resident-evil-requiem-preview-e-grace-phernei-ton-tromo-tou-re2-kai-o-leon-te-drase-tou-re4",
-          "pubDate": "Mon, 26 Jan 2026 18:34:50 +0000",
-          "description": "Παίξαμε τρεις ώρες το επερχόμενο Resident Evil 9 και αναλύουμε πώς η Capcom συνδυάζει ιδανικά το κλασικό survival horror με την καταιγιστική δράση, λίγο πριν την κυκλοφορία του στις 27 Φεβρουαρίου.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/i/i-played-3/i-played-3-hours-of-resident-evil-requiem-and-i-cant-wait-to_ts4d.jpg",
-          "source": "PC Magazine"
         }
       ]
     }
