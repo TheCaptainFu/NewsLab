@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T05:05:25.003Z",
+  "lastUpdated": "2026-01-28T05:10:30.543Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,26 @@
       "color": "red",
       "articles": [
         {
-          "title": "Βιολάντα: Το σημείο «μηδέν» της διαρροής προπανίου που οδήγησε στον θάνατο τις 5 εργάτριες – Συλλήψεις στελεχών της εταιρίας",
-          "link": "https://www.newsit.gr/ellada/violanta-to-simeio-miden-tis-diarrois-propaniou-pou-odigise-ston-thanato-tis-5-ergatries-syllipseis-stelexon-tis-etairias/4585295/",
+          "title": "Καιρός: Νεφώσεις και τοπικές βροχές σήμερα, σοβαρή επιδείνωση από το βράδυ της Τετάρτης",
+          "link": "https://www.protothema.gr/greece/article/1764532/kairos-nefoseis-kai-topikes-vrohes-simera-sovari-epideinosi-apo-to-vradu-tis-tetartis/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 07:05:00 +0200",
+          "description": "Δείτε σε ποιες περιοχές της χώρας θα βρέξει σήμερα και πού σημειωθούν φαινόμενα με έντονο χαρακτήρα την Πέμπτη - Αναλυτικά η πρόγνωση του Γιάννη Καλλιάνου",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/vroxi-mak1.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Τι αλλάζει στους φορολογικούς ελέγχους το 2026: Ψηφιακός εκσυγχρονισμός και ΑΙ στην καταπολέμηση της φοροδιαφυγής\n",
+          "link": "https://www.protothema.gr/greece/article/1764530/ti-allazei-stous-forologikous-eleghous-to-2026-psifiakos-eksughronismos-kai-ai-stin-katapolemisi-tis-forodiafugis/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 07:04:00 +0200",
+          "description": "Ριζική αναβάθμιση της ΑΑΔΕ με την ψηφιοποίηση των φορολογικών ελέγχων -  Στόχος η πλήρης ψηφιοποίηση και η ενίσχυση της φορολογικής συμμόρφωσης",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/fori_forologia_eforia_taxes-6pexels-mikhail-nilov-6964138-scaled.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Βιολάντα: Το σημείο «μηδέν» της διαρροής προπανίου που οδήγησε στον θάνατο τις 5 εργάτριες – Στον εισαγγελέα σήμερα οι συλληφθέντες",
+          "link": "https://www.newsit.gr/ellada/violanta-to-simeio-miden-tis-diarrois-propaniou-pou-odigise-ston-thanato-tis-5-ergatries-ston-eisaggelea-simera-oi-syllifthentes/4585295/",
           "pubDate": "Wed, 28 Jan 2026 05:02:14 +0000",
-          "description": "Τα αίτια της τραγωδίας στο εργοστάσιο μπισκοτοβιομηχανίας «Βιολάντα» στα Τρίκαλα με τις 5 νεκρές γυναίκες προσπαθούν να εξακριβώσουν οι αρχές με τη διαρροή προπανίου να ...  \nTo άρθρο Βιολάντα: Το σημείο «μηδέν» της διαρροής προπανίου που οδήγησε στον θάνατο τις 5 εργάτριες – Συλλήψεις στελεχών της εταιρίας δημοσιεύτηκε στο NewsIT .",
+          "description": "Τα αίτια της τραγωδίας στο εργοστάσιο μπισκοτοβιομηχανίας «Βιολάντα» στα Τρίκαλα με τις 5 νεκρές γυναίκες προσπαθούν να εξακριβώσουν οι αρχές με τη διαρροή προπανίου να ...  \nTo άρθρο Βιολάντα: Το σημείο «μηδέν» της διαρροής προπανίου που οδήγησε στον θάνατο τις 5 εργάτριες – Στον εισαγγελέα σήμερα οι συλληφθέντες δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio2-1200x675-1.jpg",
           "source": "NewsIT"
         },
@@ -230,22 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 05:00:41 +0300",
           "description": "Η Ουάσιγκτον, απομακρυνόμενη από παραδοσιακές αρχές και αντιλήψεις, κάνει όλους τους συμμάχους της να μουδιάζουν και να ψάχνονται.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-21T141126Z_985816938_RC2Q5JAMJ5P5_RTRMADP_5_DAVOS-MEETING-TRUMP-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ουκρανία – Ρωσία: Σχεδόν 2 εκατ. θύματα στις τάξεις των στρατών των δυο χωρών (CSIS)",
-          "link": "https://www.in.gr/2026/01/28/world/oukrania-rosia-sxedon-2-ekat-thymata-stis-takseis-ton-straton-ton-dyo-xoron-csis/",
-          "pubDate": "Wed, 28 Jan 2026 04:32:37 +0300",
-          "description": "Κατά τον πόλεμο στην Ουκρανία έχουν υπάρξει θύματα και από τα δύο εμπόλεμα μέρη σχεδόν της τάξης των δύο εκατομμυρίων",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-27T194646Z_1439392645_RC2T9JA86CAL_RTRMADP_5_UKRAINE-CRISIS-RUSSIA-768x477.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Η εξάρτηση της παγκόσμιας οικονομίας από το δημόσιο χρέος",
-          "link": "https://www.in.gr/2026/01/28/economy/diethnis-oikonomia/eksartisi-tis-pagkosmias-oikonomias-apo-dimosio-xreos/",
-          "pubDate": "Wed, 28 Jan 2026 04:04:19 +0300",
-          "description": "Τι τροφοδοτεί την επικίνδυνη τάση προς ελλειμματικές δαπάνες σε ολόκληρη την παγκόσμια οικονομία, συσσωρεύοντας δημόσιο χρέος",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/debt-scaled-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -509,7 +509,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Minnesota congresswoman Ilhan Omar attacked with 'unknown liquid' during town hall",
+          "title": "Minnesota congresswoman Ilhan Omar attacked with unknown liquid during town hall",
           "link": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 03:25:28 GMT",
           "description": "Omar was uninjured and continued to speak at the event following the incident.",
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "«Lockdown» στο WhatsApp: Η νέα ρύθμιση που μπλοκάρει τους hackers και πώς να την ενεργοποιήσετε",
+          "link": "https://www.techgear.gr/lockdown-sto-whatsapp-i-nea-rythmisi-poy-mplokarei-toys-hackers-kai-pos-na-tin-energopoiisete-47353",
+          "pubDate": "Wed, 28 Jan 2026 07:06:00 +0200",
+          "description": "Η Meta ανακοίνωσε την ενεργοποίηση μιας νέας δέσμης προστασίας στο WhatsApp, υπό την ονομασία «Αυστηρές Ρυθμίσεις Λογαριασμού» (Strict Account ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/whatsapp-safeguard.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Γράφεις έρευνα ή πτυχιακή; Η OpenAI μόλις παρουσίασε το δωρεάν Prism",
           "link": "https://www.techgear.gr/grafeis-ereyna-i-ptychiaki-i-openai-molis-paroysiase-to-dorean-prism-47352",
           "pubDate": "Tue, 27 Jan 2026 22:26:00 +0200",
@@ -1469,14 +1477,6 @@
           "description": "Η δημοφιλής πλατφόρμα ανακοίνωσε το πλάνο της για το 2026, εστιάζοντας στην υποστήριξη του SteamOS και στον πλήρη εκσυγχρονισμό του Vortex για ευκολότερη διαχείριση mods σε περιβάλλον Linux.",
           "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/n/nexus-mods/nexus-mods-pledges-to-add-native-steam-deck-steam-machine-su_k53a.jpg",
           "source": "PC Magazine"
-        },
-        {
-          "title": "MAIA 200: Η Microsoft χτίζει την επόμενη οικονομία Τεχνητής Νοημοσύνης",
-          "link": "https://www.techgear.gr/maia-200-i-microsoft-chtizei-tin-epomeni-oikonomia-technitis-noimosynis-47332",
-          "pubDate": "Mon, 26 Jan 2026 19:03:00 +0200",
-          "description": "Η Microsoft παρουσιάζει το επόμενο μεγάλο ορόσημο για τις υποδομές τεχνητής νοημοσύνης: Το Maia 200, έναν πρωτοποριακό επιταχυντή σχεδιασμένο για το ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/maia-2000-microsoft.jpg",
-          "source": "Techgear"
         }
       ]
     }
