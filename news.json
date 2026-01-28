@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T03:10:32.359Z",
+  "lastUpdated": "2026-01-28T03:15:27.177Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Mexico president asks South Korea for more BTS concerts",
+          "link": "https://www.bbc.com/news/articles/cz7y2gy4p24o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 03:07:18 GMT",
+          "description": "About a million fans were vying for 150,000 concert tickets, which sold out in less than 40 minutes.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e52/live/1ba30aa0-fbf3-11f0-ada1-cfc803f2af2b.jpg",
+          "source": "BBC News"
+        },
+        {
+          "title": "Republicans criticise immigration force but steer clear of Trump attacks",
+          "link": "https://www.bbc.com/news/articles/cj3vp84j1l3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 02:29:26 GMT",
+          "description": "Lawmakers are questioning the crackdown while anger grows over two citizens killed by federal agents.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/480f/live/5a709bd0-fbe4-11f0-a47f-d352a7d9988a.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Trump says US will 'no longer help Iraq' if it picks Maliki as PM",
           "link": "https://www.bbc.com/news/articles/cn0kpk3drgjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 01:54:51 GMT",
@@ -721,22 +737,6 @@
           "link": "http://gr.euronews.com/culture/2026/01/27/oi-an8rwpoi-sthn-kentrikh-kina-kataskeyazan-ergaleia-me-labes-prin-apo-70000-xronia",
           "pubDate": "Tue, 27 Jan 2026 18:12:08 +0100",
           "description": "Μια διεθνής μελέτη τεκμηριώνει την παραγωγή και τη συνεχή χρήση εργαλείων με πέτρινη λαβή στην κεντρική Κίνα μεταξύ 160.000 και 72.000 ετών πριν, μια τεχνολογική καινοτομία νωρίτερα από ό,τι είχε θεωρηθεί στην Ανατολική Ασία.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Nipah virus outbreak in India triggers Asia airport screenings",
-          "link": "https://www.bbc.com/news/articles/cd7zp581q5do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 17:06:44 GMT",
-          "description": "Airports in Thailand and Nepal have begun screening passengers from West Bengal.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17af/live/4f397450-fb56-11f0-80ad-435009e66207.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Εργασία κατά τη διάρκεια των σπουδών: Ποιες χώρες της ΕΕ έχουν τα υψηλότερα ποσοστά και γιατί;",
-          "link": "http://gr.euronews.com/my-europe/2026/01/27/ergasia-kata-ti-diarkeia-ton-spoydon-poies-xores-tis-ee-exoyn-ta-ipsilotera-pososta-giati",
-          "pubDate": "Tue, 27 Jan 2026 18:06:34 +0100",
-          "description": "Η εργασία κατά τη διάρκεια των σπουδών δεν αποτελεί κανόνα για τους περισσότερους εργαζόμενους στην ΕΕ. Ωστόσο, η οικονομική ανάγκη και οι φιλοδοξίες σταδιοδρομίας μπορεί να παρακινήσουν ορισμένους να το κάνουν.",
           "thumbnail": null,
           "source": "Euronews"
         }
