@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T13:30:32.400Z",
+  "lastUpdated": "2026-01-28T13:35:29.671Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Eurovision 2026: Η Ελλάδα στην 3η θέση των στοιχημάτων, λίγες ημέρες πριν την ανάδειξη του εκπροσώπου της",
+          "link": "https://www.newsit.gr/media/eurovision-2026-i-ellada-stin-3i-thesi-ton-stoiximaton-liges-imeres-prin-tin-anadeiksi-tou-ekprosopou-tis/4585775/",
+          "pubDate": "Wed, 28 Jan 2026 13:29:25 +0000",
+          "description": "Στα μέσα Φεβρουαρίου η Ελλάδα θα μάθει ποιος θα είναι ο φιλόδοξος καλλιτέχνης που θα εκπροσωπήσει τη χώρα μας στη φετινή Eurovision που θα γίνει ...  \nTo άρθρο Eurovision 2026: Η Ελλάδα στην 3η θέση των στοιχημάτων, λίγες ημέρες πριν την ανάδειξη του εκπροσώπου της δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eurovision-reuters-1200x730.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Live οι ανακοινώσεις της Πυροσβεστικής για τη φονική έκρηξη στο εργοστάσιο της Βιολάντα",
           "link": "https://www.protothema.gr/greece/article/1764802/live-oi-anakoinoseis-tis-purosvestikis-gia-tin-ekrixi-sto-ergostasio-tis-violada/?utm_source=rss",
@@ -97,10 +105,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Σοκ από τη διπλή τραγωδία: Διαρροή-θάνατος στη Βιολάντα στα Τρίκαλα, ερωτήματα για το τροχαίο που σκότωσε 7 νέα παιδιά στην Τιμισοάρα- Δείτε live",
+          "title": "Σοκ από τη διπλή τραγωδία: Διαρροή-θάνατος στη Βιολάντα στα Τρίκαλα, ερωτήματα για το τροχαίο που σκότωσε 7 νέα παιδιά στην Τιμισοάρα",
           "link": "https://www.protothema.gr/greece/article/1764806/sok-apo-ti-dipli-tragodia-diarroi-thanatos-sti-violada-erotimata-gia-to-trohaio-pou-skotose-7-nea-paidia/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 14:53:00 +0200",
-          "description": "Το protothema.gr μεταφέρει τις τελευταίες εξελίξεις από τα σημεία των γεγονότων- Διαρροή προπανίου σε φθαρμένο υπογειοποιημένο σωλήνα στη Βιολάντα -Αναμένονται ανακοινώσεις από την Πυροσβεστική - Ταυτοποιήθηκαν οι σοροί των επτά οπαδών του ΠΑΟΚ στη Ρουμανία",
+          "description": "Το protothema.gr μεταφέρει τις τελευταίες εξελίξεις από τα σημεία των γεγονότων- Διαρροή προπανίου σε φθαρμένο υπογειοποιημένο σωλήνα στη Βιολάντα -Από λεπτό σε λεπτό οι ανακοινώσεις από την Πυροσβεστική - Ταυτοποιήθηκαν οι σοροί των επτά οπαδών του ΠΑΟΚ στη Ρουμανία",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/dipli_tragodia_maketa1.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -177,6 +185,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Αθηνά Ωνάση: Σπάνια εμφάνιση στην εβδομάδα μόδας του Παρισιού",
+          "link": "https://www.in.gr/2026/01/28/go-fun/fizz/athina-onasi-spania-emfanisi-stin-evdomada-modas-tou-parisiou/",
+          "pubDate": "Wed, 28 Jan 2026 15:30:56 +0300",
+          "description": "Η Αθηνά Ωνάση σε μια σπάνια δημόσια εμφάνιση. Στις 29 Ιανουαρίου γίνεται 41 χρόνων.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/onassis-768x543.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Γιάννης Βρούτσης για την τραγωδία του ΠΑΟΚ: «Θα στηρίξουμε κάθε αίτημα για διακοπή αθλητικών δραστηριοτήτων»",
           "link": "https://www.newsit.gr/athlitika/giannis-vroutsis-gia-tin-tragodia-tou-paok-tha-stiriksoume-kathe-aitima-gia-diakopi-athlitikon-drastiriotiton/4585716/",
           "pubDate": "Wed, 28 Jan 2026 12:26:08 +0000",
@@ -230,22 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 15:13:32 +0300",
           "description": "Παρά τα ρεκόρ κερδών, η Amazon περιορίζει το εταιρικό προσωπικό για να μειώσει τη γραφειοκρατία και να χρηματοδοτήσει την κούρσα της ΑΙ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/amazon-1024x613-1-768x460.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τραγωδία στον ΠΑΟΚ: Φανέλες με τα ονόματα των νεκρών στην μπουτίκ",
-          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-faneles-me-ta-onomata-ton-nekron-stin-mpoutik/4585694/",
-          "pubDate": "Wed, 28 Jan 2026 12:10:44 +0000",
-          "description": "Ο ΠΑΟΚ θρηνεί για το χαμό 7 οπαδών του σε τροχαίο δυστύχημα στη Ρουμανία και στην μπουτίκ της ομάδας της Θεσσαλονίκης προχώρησαν σε μία συμβολική ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Φανέλες με τα ονόματα των νεκρών στην μπουτίκ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tumba-4-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η ΚΕΔΕ τίμησε τη μνήμη των θυμάτων με ενός λεπτού σιγή",
-          "link": "https://www.in.gr/2026/01/28/politics/aftodioikisi/kede-timise-ti-mnimi-ton-thymaton-enos-leptou-sigi/",
-          "pubDate": "Wed, 28 Jan 2026 15:10:39 +0300",
-          "description": "Πένθος, αλληλεγγύη και αποφάσεις ευθύνης για το μέλλον των Δήμων, στο διοικητικό συμβούλιο της 28ης Ιανουαρίου της Κεντρικής Ένωσης Δήμων Ελλάδας.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/JIM_3510-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Όσο της επιτίθενται ανεβαίνει: Το συντριπτικό ποσοστό της Μαρίας Καρυστιανού στην Α’ Αθήνας",
+          "link": "https://panathinaikos24.gr/2026/01/28/618079/oso-tis-epitithentai-anevainei-to-syntriptiko-pososto-tis-marias-karystianou-stin-a-athinas/",
+          "pubDate": "Wed, 28 Jan 2026 13:35:19 +0000",
+          "description": "Αν συνεχίσουν να την κάνουν κεντρικό αντίπαλο, μπορεί να της χτίσουν μόνοι τους την είσοδο στο παιχνίδι",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-28_08-58-25_785529-scaled-1.jpg?fit=1024%2C597&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
           "title": "Τα «θέλω» του Μπενίτεθ για το αμυντικό χαφ που ψάχνει ο Παναθηναϊκός!",
           "link": "https://trifilara.gr/ta-thelw-tou-benites-gia-to-amuntiko-xaf-pou-psaxnei-o-panathinaikos/?utm_source=rss&utm_medium=rss&utm_campaign=ta-thelw-tou-benites-gia-to-amuntiko-xaf-pou-psaxnei-o-panathinaikos",
           "pubDate": "Wed, 28 Jan 2026 13:23:35 +0000",
@@ -1222,14 +1230,6 @@
           "pubDate": "Wed, 28 Jan 2026 08:24:57 +0000",
           "description": "Με την εμβόλιμη 16η αγωνιστική συνεχίζεται απόψε το πρωτάθλημα της Α1 μπάσκετ γυναικών, εκεί όπου ο Παναθηναϊκός υποδέχεται στο κλειστό «Παύλος Γιαννακόπουλος» της Λεωφόρου, τον Ολυμπιακό στο μεγάλο ντέρμπι (18:15, ΕΡΤ2 Σπορ).",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3810.jpeg?fit=750%2C422&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Επίσημο: Στο ΟΑΚΑ ο αγώνας των κοριτσιών και κόντρα στη Μερσίν!",
-          "link": "https://panathinaikos24.gr/2026/01/28/618015/episimo-sto-oaka-o-agonas-ton-koritsion-kai-kontra-sti-mersin/",
-          "pubDate": "Wed, 28 Jan 2026 06:20:17 +0000",
-          "description": "Όλα τα δεδομένα.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3809.jpeg?fit=750%2C422&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
