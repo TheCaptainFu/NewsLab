@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T08:22:54.238Z",
+  "lastUpdated": "2026-01-28T08:25:28.606Z",
   "totalArticles": 178,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -177,20 +177,20 @@
           "source": "NewsIT"
         },
         {
+          "title": "Και δεύτερη αρμάδα στη Μέση Ανατολή στέλνει ο Τραμπ – «Ελπίζω ότι το Ιράν θα κάνει συμφωνία»",
+          "link": "https://www.in.gr/2026/01/28/world/kai-deyteri-armada-sti-mesi-anatoli-stelnei-o-tramp-elpizo-oti-iran-tha-kanei-symfonia/",
+          "pubDate": "Wed, 28 Jan 2026 10:21:13 +0300",
+          "description": "«Παρεμπιπτόντως, υπάρχει μια άλλη όμορφη αρμάδα που πλέει προς το Ιράν αυτή τη στιγμή», είπε ο Τραμπ στη διάρκεια ομιλίας του",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/700961-1200x675-1-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Σοφία Μαριόλα για Στράτο Τζώρτζογλου: Υπάρχει πόνος στο διαζύγιο αλλά υπάρχει πόνος και στο γάμο",
           "link": "https://www.newsit.gr/lifestyle/sofia-mariola-gia-strato-tzortzoglou-yparxei-ponos-sto-diazygio-alla-yparxei-ponos-kai-sto-gamo/4585350/",
           "pubDate": "Wed, 28 Jan 2026 07:19:58 +0000",
           "description": "«Η κατάθλιψη του Στράτου επηρέασε το γάμο μας» είπε η Σοφία Μαριόλα λίγες μέρες μετά την επιβεβαίωση του χωρισμού της και τις δηλώσεις που έκανε ...  \nTo άρθρο Σοφία Μαριόλα για Στράτο Τζώρτζογλου: Υπάρχει πόνος στο διαζύγιο αλλά υπάρχει πόνος και στο γάμο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tzortzoglou-ndp-1-1200x787.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Και δεύτερη αρμάδα στη Μέση Ανατολή στέλνει ο Τραμπ – «Ελπίζω ότι το Ιράν θα κάνει συμφωνία»",
-          "link": "https://www.in.gr/2026/01/28/world/kai-deyteri-armada-sti-mesi-anatoli-stelnei-o-tramp-elpizo-oti-iran-tha-kanei-symfonia/",
-          "pubDate": "Wed, 28 Jan 2026 10:17:13 +0300",
-          "description": "«Παρεμπιπτόντως, υπάρχει μια άλλη όμορφη αρμάδα που πλέει προς το Ιράν αυτή τη στιγμή», είπε ο Τραμπ στη διάρκεια ομιλίας του",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/700961-1200x675-1-768x432.jpg",
-          "source": "In.gr"
         },
         {
           "title": "Νεκρό μεταφέρθηκε βρέφος στο Παίδων «Αγία Σοφία» – Το είχαν πάει αρχικά σε κτηνιατρείο",
@@ -747,7 +747,23 @@
       "color": "green",
       "articles": [
         {
-          "title": "Ολυμπιακός: Τι αποτελέσματα περιμένει από εννιά αναμετρήσεις για να πάρει την πρόκριση",
+          "title": "Kaspersky Premium, μία απόλυτα ολοκληρωμένη πρόταση προστασίας στο διαδίκτυο",
+          "link": "https://www.gazzetta.gr/plus/2510261/kaspersky-premium-mia-apolyta-olokliromeni-protasi-prostasias-sto-diadiktyo",
+          "pubDate": "Wed, 28 Jan 2026 10:24:10 +0200",
+          "description": "Το Kaspersky Premium μπορεί να σας καλύψει στα πάντα",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/23_q4_all_en_b2c_bf_psm_rtg_v2_1200x628.jpg?itok=6GjfCx52",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο Ολυμπιακός στην Ολλανδία για την νίκη που τον εκτοξεύει!",
+          "link": "https://www.gazzetta.gr/2510828/o-olympiakos-stin-ollandia-gia-tin-niki-poy-ton-ektoxeyei",
+          "pubDate": "Wed, 28 Jan 2026 10:22:55 +0200",
+          "description": "Ο Ολυμπιακός υποδέχεται τον Άγιαξ για την τελευταία αγωνιστική της League Phase του Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiacos_axia.jpg?itok=J4FqjEXI",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Τι αποτελέσματα περιμένει από εννιά αναμετρήσεις στο Champions League",
           "link": "https://www.gazzetta.gr/football/champions-league/2510826/olympiakos-ti-apotelesmata-perimenei-apo-ennia-anametriseis-gia",
           "pubDate": "Wed, 28 Jan 2026 10:22:04 +0200",
           "description": "Την ίδια ώρα που ο Ολυμπιακός θα αντιμετωπίζει τον Άγιαξ, το ακουστικό θα βρίσκεται σε άλλα εννιά γήπεδα στη μάχη για πρόκριση στο Champions League.",
@@ -969,22 +985,6 @@
           "description": "Ο ΠΑΟΚ θα αγωνιστεί κανονικά με τη Λιόν για το Europa League, λίγες μόνο ώρες μετά το φρικτό δυστύχημα των οπαδών του στη Ρουμανία, αλλά ...  \nTo άρθρο ΠΑΕ ΠΑΟΚ: «Θα παραμείνει κλειστή η κερκίδα των φιλοξενούμενων σε ένδειξη πένθους» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-simaia-eurokinissi-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Α1 Γυναικών: Πού θα δείτε το Παναθηναϊκός-Ολυμπιακός ",
-          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2510806/a1-gynaikon-poy-tha-deite-panathinaikos-olympiakos",
-          "pubDate": "Wed, 28 Jan 2026 08:39:42 +0200",
-          "description": "Το πρωτάθλημα της Α1 Γυναικών συνεχίζεται την Τετάρτη 28/1 με τη διεξαγωγή της εμβόλιμης 16ης αγωνιστικής, όπου ξεχωρίζει το Παναθηναϊκός–Ολυμπιακός στο «Π. Γιαννακόπουλος».",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/panathinaikos_olympiacos_0.jpg?itok=0bYI-dKw",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: Συγκλονισμένος ο Άγγελος Αναστασιάδης (vid)",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510805/paok-dystyhima-sti-roymania-sygklonismenos-o-aggelos-anastasiadis",
-          "pubDate": "Wed, 28 Jan 2026 08:39:06 +0200",
-          "description": "Ο Άγγελος Αναστασιάδης μίλησε σε πρωινή εκπομπή για την τραγωδία στη Ρουμανία, δηλώνοντας συγκλονισμένος με τα όσα είδε και έμαθε.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-01/anastasiadis.jpg?itok=Dg45zBic",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Για τη νίκη στο ντέρμπι αιωνίων",
+          "link": "https://panathinaikos24.gr/2026/01/28/618019/gia-ti-niki-sto-ntermpi-aionion/",
+          "pubDate": "Wed, 28 Jan 2026 08:24:57 +0000",
+          "description": "Με την εμβόλιμη 16η αγωνιστική συνεχίζεται απόψε το πρωτάθλημα της Α1 μπάσκετ γυναικών, εκεί όπου ο Παναθηναϊκός υποδέχεται στο κλειστό «Παύλος Γιαννακόπουλος» της Λεωφόρου, τον Ολυμπιακό στο μεγάλο ντέρμπι (18:15, ΕΡΤ2 Σπορ).",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3810.jpeg?fit=750%2C422&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Δουβίκας: «Ο Ράφα Μπενίτεθ με δίδαξε πάρα πολλά!»",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/doubikas-o-rafa-benites-me-didakse-para-polla/?utm_source=rss&utm_medium=rss&utm_campaign=doubikas-o-rafa-benites-me-didakse-para-polla",
@@ -1206,14 +1214,6 @@
           "pubDate": "Tue, 27 Jan 2026 13:47:19 +0000",
           "description": "Τι δείχνει η πρώτη δημοσκόπηση μετά τη συνέντευξη περί αμβλώσεων.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-23_08-27-22_855823-scaled-1.jpg?fit=1024%2C698&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Αδιανόητη τραγωδία στην άσφαλτο με οπαδούς του ΠΑΟΚ – Τουλάχιστον 7 νεκροί και 3 τραυματίες στη Ρουμανία",
-          "link": "https://panathinaikos24.gr/2026/01/27/617953/adianoiti-tragodia-stin-asfalto-me-opadous-tou-paok-toulaxiston-6-nekroi-kai-3-traymaties-sti-roumania/",
-          "pubDate": "Tue, 27 Jan 2026 13:17:58 +0000",
-          "description": "Τι αναφέρουν οι πρώτες πληροφορίες.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/cc341d68-troxaio-roumania.jpg?fit=1000%2C601&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
