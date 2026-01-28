@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T23:00:41.021Z",
+  "lastUpdated": "2026-01-28T23:01:12.584Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Μουρίνιο: «Μην πηδήξετε από μπαλκόνια, θα ξαναχάσουμε...»",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511098/moyrinio-min-pidixete-apo-mpalkonia-tha-xanahasoyme",
+          "pubDate": "Thu, 29 Jan 2026 01:00:32 +0200",
+          "description": "Ο Ζοσέ Μουρίνιο έκανε μερικές τουλάχιστον ενδιαφέρουσες δηλώσεις μετά την επική πρόκριση της Μπενφίκα στο Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mourinho_benfica.jpg?itok=bRwQMjOq",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μεντιλίμπαρ: «Δεν υπάρχει κάποιο μαγικό, τα αποτελέσματα έρχονται με τη δουλειά»",
           "link": "https://www.gazzetta.gr/football/champions-league/2511096/mentilimpar-den-yparhei-kapoio-magiko-ta-apotelesmata-erhontai-me",
           "pubDate": "Thu, 29 Jan 2026 00:53:55 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Thu, 29 Jan 2026 00:01:02 +0200",
           "description": "Νίκη χωρίς αντίκρισμα για την Πάφο, η οποία επιβλήθηκε με 4-1 της Σλάβια Πράγας, όμως δεν μπόρεσε να μπει στην 24αδα λόγω συντελεστή.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pafos_intime.jpg?itok=dwH0J0E8",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κλαμπ Μπριζ - Μαρσέιγ 3-0: Κάθαρισαν από το πρώτο μέρος οι Βέλγοι του Τζόλη",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511074/klamp-mpriz-marseig-3-0-katharisan-apo-proto-meros-oi-belgoi-toy",
-          "pubDate": "Wed, 28 Jan 2026 23:58:25 +0200",
-          "description": "Η Κλαμπ Μπριζ επικράτησε με 2-0 της Μαρσέιγ με αποτέλεσμα να προκριθούν και οι δύο ομάδες στη ενδιάμεση νοκ άουτ φάση.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/club_brugge_getty.jpg?itok=uux4gpUH",
           "source": "Gazzetta"
         }
       ]
