@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T16:46:34.397Z",
+  "lastUpdated": "2026-01-28T16:50:30.873Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ελένη Μενεγάκη: Η κόρη της, Βαλέρια Λάτσιου, έγινε 18 ετών – Οι ευχές και η εκπληκτική ομοιότητα με την παρουσιάστρια",
+          "link": "https://www.newsit.gr/lifestyle/eleni-menegaki-i-kori-tis-valeria-latsiou-egine-18-eton-oi-eyxes-kai-i-ekpliktiki-omoiotita-me-tin-parousiastria/4586017/",
+          "pubDate": "Wed, 28 Jan 2026 16:48:37 +0000",
+          "description": "Μία ιδιαίτερη ημέρα χαράς είναι η σημερινή για την Ελένη Μενεγάκη που εκτός από μία επιτυχημένη επαγγελματίας είναι – πάνω απ’ όλα – μία στοργική ...  \nTo άρθρο Ελένη Μενεγάκη: Η κόρη της, Βαλέρια Λάτσιου, έγινε 18 ετών – Οι ευχές και η εκπληκτική ομοιότητα με την παρουσιάστρια δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/eleni-menegaki-valeria-1200x741.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Θλίψη στο ΠΑΣΟΚ: Πέθανε σε ηλικία 40 ετών η υποψήφια βουλευτής, Αριστέα Καζάκου",
           "link": "https://www.newsit.gr/politikh/thlipsi-sto-pasok-pethane-se-ilikia-40-eton-i-ypopsifia-vouleytis-aristea-kazakou/4586012/",
@@ -65,9 +73,9 @@
           "source": "NewsIT"
         },
         {
-          "title": "Δίωξη για ανθρωποκτονία και θανατηφόρο βιασμό στον 52χρονο που ομολόγησε πως έπνιξε 46χρονη στη Θεσσαλονίκη",
+          "title": "Δίωξη για ανθρωποκτονία και θανατηφόρο βιασμό στον 52χρονο που ομολόγησε πως έπνιξε 46χρονη στη Θεσσαλονίκη - Συνελήφθη 50χρονος",
           "link": "https://www.protothema.gr/greece/article/1764947/dioxi-gia-anthropoktonia-kai-thanatiforo-viasmo-ston-52hrono-pou-omologise-pos-epnixe-46hroni-sti-thessaloniki/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 18:29:35 +0200",
+          "pubDate": "Wed, 28 Jan 2026 18:29:00 +0200",
           "description": "Ο 52χρονος κρατείται και εις βάρος του εκδόθηκε ένταλμα σύλληψης, σε εκτέλεση του οποίου θα οδηγηθεί στον ανακριτή Θεσσαλονίκης προκειμένου να απολογηθεί",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/thessaloniki-xrwma.jpg",
           "source": "Πρώτο Θέμα"
@@ -217,6 +225,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Με λευκά τριαντάφυλλα η ομάδα του Άρη στην Τούμπα, τίμησε τη μνήμη των οπαδών του ΠΑΟΚ (pics)",
+          "link": "https://www.in.gr/2026/01/28/sports/football/timise-ti-mnimi-ton-opadon-tou-paok-o-aris-pics/",
+          "pubDate": "Wed, 28 Jan 2026 18:49:42 +0300",
+          "description": "Αντιπροσωπεία της ΠΑΕ Άρης, με επικεφαλής τους Ρέγες και Γκουγκουλιά, έδωσε το «παρών» στη Τούμπα, όπου και εναπόθεσε λουλούδια προς τιμήν των αδικοχαμένων οπαδών του ΠΑΟΚ στο δυστύχημα της Ρουμανίας.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ARIS-TOUMPA-768x554.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ο Ιβάν Σαββίδης καλύπτει όλα τα έξοδα των αδικοχαμένων φιλάθλων του ΠΑΟΚ",
           "link": "https://www.newsit.gr/athlitika/o-ivan-savvidis-kalyptei-ola-ta-eksoda-ton-adikoxamenon-filathlon-tou-paok/4585962/",
           "pubDate": "Wed, 28 Jan 2026 15:49:26 +0000",
@@ -225,28 +241,12 @@
           "source": "NewsIT"
         },
         {
-          "title": "Επιπλέον δημοσιονομικό «μαξιλάρι» 750 εκατ. ευρώ για μέτρα και φοροελαφρύνσεις το 2026 – Ποιες είναι οι προϋποθέσεις για δαπάνες και έσοδα",
-          "link": "https://www.newsit.gr/oikonomia/finance/epipleon-dimosionomiko-maksilari-750-ekat-eyro-gia-metra-kai-foroelafrynseis-to-2026-poies-einai-oi-proypotheseis-gia-dapanes-kai-esoda/4585940/",
-          "pubDate": "Wed, 28 Jan 2026 15:49:12 +0000",
-          "description": "Πρόσθετος δημοσιονομικός χώρος περίπου 0,3% του ΑΕΠ, δηλαδή γύρω στα 750 εκατ. ευρώ που θα μπορούσαν να αξιοποιηθούν σε μέτρα στήριξης των πολιτών και φοροελαφρύνσεις, ...  \nTo άρθρο Επιπλέον δημοσιονομικό «μαξιλάρι» 750 εκατ. ευρώ για μέτρα και φοροελαφρύνσεις το 2026 – Ποιες είναι οι προϋποθέσεις για δαπάνες και έσοδα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-909395114-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Πρόστιμο 2.090 ευρώ και αφαίρεση διπλώματος για 7 χρόνια σε 52χρονο που ενεπλάκη σε τροχαίο υπό την επήρεια αλκοόλ\n",
-          "link": "https://www.protothema.gr/greece/article/1764891/sullipsi-52hronou-sto-argostoli-gia-odigisi-upo-tin-epireia-alkool/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 17:46:39 +0200",
-          "description": "To τροχαίο σημειώθηκε στην περιοχή του Αργοστολίου",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-11-05/papajim-alkotest.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Με καταιγίδες, χαλάζι και ισχυρούς ανέμους έρχεται η κακοκαιρία Kristin: Την Πέμπτη θα επηρεαστεί η Αττική, νέο κύμα από το Σαββατοκύριακο",
-          "link": "https://www.protothema.gr/greece/article/1764838/me-kataigides-halazi-kai-ishurous-anemous-erhetai-i-kakokairia-kristin-tin-pebti-tha-epireastei-i-attiki-neo/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 17:46:00 +0200",
-          "description": "Ποιες περιοχές χρειάζονται προσοχή ενόψει της κακοκαιρίας - Η πρόγνωση του καιρού από τον Θοδωρή Κολυδά και τον Γιώργο Τσατραφύλλια",
-          "thumbnail": "https://i1.prth.gr/images/w640/1/jpg/files/2026-01-26/vroxi_attiki__2_.jpg",
-          "source": "Πρώτο Θέμα"
+          "title": "Κακοκαιρία Κριστίν: Τουλάχιστον τρεις νεκροί στην Πορτογαλία – Σφοδρό πλήγμα και στην Ισπανία",
+          "link": "https://www.in.gr/2026/01/28/world/kakokairia-kristin-toulaxiston-treis-nekroi-stin-portogalia-sfodro-pligma-kai-stin-ispania/",
+          "pubDate": "Wed, 28 Jan 2026 18:49:17 +0300",
+          "description": "Μεγάλα προβλήματα έχει προκαλέσει στην Ιβηρική η κακοκαιρία Κριστίν, την οποία περιμένουμε και στη χώρα μας. Ισχυροί άνεμοι, βροχοπτώσεις και χιόνια έπληξαν Ισπανία και Πορτογαλία.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_wBGwfWQAA5gmL-768x500.jpg",
+          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,22 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Πέθανε σε ηλικία 40 ετών η τομεάρχης Πολιτισμού του ΠΑΣΟΚ, Αριστέα Καζάκου",
+          "link": "https://www.naftemporiki.gr/politics/2065181/pethane-se-ilikia-40-eton-i-tomearchis-politismoy-toy-pasok-aristea-kazakoy/?utm_source=rss&utm_medium=rss&utm_campaign=pethane-se-ilikia-40-eton-i-tomearchis-politismoy-toy-pasok-aristea-kazakoy",
+          "pubDate": "Wed, 28 Jan 2026 16:49:22 +0000",
+          "description": "«Έφυγε» από τη ζωή σε ηλικία μόλις 40 ετών η τομεάρχης Πολιτισμού του ΠΑΣΟΚ – Κινήματος Αλλαγής, Αριστέα Καζάκου.\nΠέθανε σε ηλικία 40 ετών η τομεάρχης Πολιτισμού του ΠΑΣΟΚ, Αριστέα Καζάκου - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Παρέμβαση Γεραπετρίτη στο Σ.Α του ΟΗΕ: Η μελλοντική ανοικοδόμηση της Γάζας να εδράζεται σε νομιμοποιημένες δομές διακυβέρνησης",
+          "link": "https://www.tanea.gr/2026/01/28/politics/paremvasi-gerapetriti-sto-s-a-tou-oie-i-mellontiki-anoikodomisi-tis-gazas-na-edrazetai-se-nomimopoiimenes-domes-diakyvernisis/",
+          "pubDate": "Wed, 28 Jan 2026 16:48:18 +0000",
+          "description": "Η παρέμβαση του Ελληνα υπουργού Εξωτερικών, Γιώργου Γεραπετρίτη στο ΣΑ του ΟΗΕ για τη Μέση Ανατολή, έχει ως εξής: «Η Ελλάδα συνεχίζει τη θητεία της στο Συμβούλιο Ασφαλείας με σαφήνεια σκοπού και έντονο αίσθημα ευθύνης. Σε μια περίοδο κατά την οποία το διεθνές σύστημα αντιμετωπίζει έντονες προκλήσεις, ο ΟΗΕ —και ιδίως το Συμβούλιο Ασφαλείας— συνεχίζουν […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/gerapetritis-5-1024x471.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Θλίψη στο ΠΑΣΟΚ: Έφυγε από τη ζωή σε ηλικία μόλις 40 ετών το στέλεχος του κόμματος Αριστέα Καζάκου",
           "link": "https://www.tanea.gr/2026/01/28/politics/thlipsi-sto-pasok-efyge-apo-ti-zoi-se-ilikia-molis-40-eton-to-stelexos-tou-kommatos-aristea-kazakou/",
@@ -279,7 +295,7 @@
           "source": "Ναυτεμπορική"
         },
         {
-          "title": "Βουλή: Εκρηκτική αντιπαράθεση για τα Ίμια – «Κυβέρνηση Σημίτη, Αρσένης και Πάγκαλος, τραγικοί, μοιραίοι και άβουλοι»",
+          "title": "Βουλή: Εκρηκτική αντιπαράθεση για τα Ίμια – «Κυβέρνηση Σημίτη, Αρσένης και Πάγκαλος τραγικοί, μοιραίοι και άβουλοι»",
           "link": "https://www.tanea.gr/2026/01/28/politics/voyli-ekriktiki-antiparathesi-gia-ta-imia-kyvernisi-simiti-arsenis-kai-pagkalos-tragikoi-m/",
           "pubDate": "Wed, 28 Jan 2026 15:55:46 +0000",
           "description": "Τα θέματα των Ιμίων και των κυριαρχικών δικαιωμάτων της χώρας αποτέλεσαν σημείο έντονης αντιπαράθεσης στην Ολομέλεια κατά την συζήτηση του νομοσχεδίου του Υπουργείου Πολιτισμού για την προστασία των έργων τέχνης και των συλλεκτικών αντικειμένων. Ο κοινοβουλευτικός εκπρόσωπος της ΝΔ Μακάριος Λαζαρίδης απαντώντας στον πρόεδρο της “Νίκης” Δημήτρη Νατσιό για τις αναφορές που έκανε νωρίτερα σχετικά […]",
@@ -477,22 +493,6 @@
           "description": "Ο Αλέξης Τσίπρας εξέφρασε τα συλλυπητήριά του για την απώλεια των επτά οπαδών του ΠΑΟΚ, τονίζοντας πως όταν χάνονται νέοι άνθρωποι σε μια στιγμή χαράς",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/tsipras-5-1024x683.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Τσίπρας για την τραγωδία με οπαδούς του ΠΑΟΚ: «Οι λέξεις χάνουν τη σημασία τους»",
-          "link": "https://www.tovima.gr/2026/01/28/politics/tsipras-gia-tin-tragodia-me-opadous-tou-paok-oi-lekseis-xanoun-ti-simasia-tous/",
-          "pubDate": "Wed, 28 Jan 2026 10:38:13 +0300",
-          "description": "Η ανάρτηση του Αλέξη Τσίπρα για τον χαμό επτά νεαρών οπαδών του ΠΑΟΚ και το μήνυμα συμπαράστασης στις οικογένειες των θυμάτων",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/11/13/tsipras-3-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Ενοπλες Δυνάμεις: Μαζικές παραιτήσεις στελεχών, εικόνα κρίσης",
-          "link": "https://www.tovima.gr/2026/01/28/politics/enoples-dynameis-mazikes-paraitiseis-stelexon-eikona-krisis/",
-          "pubDate": "Wed, 28 Jan 2026 09:49:20 +0300",
-          "description": "Εντονος προβληματισμός στην ηγεσία του Πολεμικού Ναυτικού αλλά και γενικότερα των Ενόπλων δυνάμεων από το ρεκόρ παραιτήσεων",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/gian7755_11768488981-1024x683.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Χειμερινοί Ολυμπιακοί Αγώνες: Η ελληνική αποστολή για το Μιλάνο",
+          "link": "https://www.gazzetta.gr/heimerina-athlimata/olympiakoi-agones/2510967/heimerinoi-olympiakoi-agones-i-elliniki-apostoli-gia",
+          "pubDate": "Wed, 28 Jan 2026 18:49:30 +0200",
+          "description": "Η Ελληνική Ολυμπιακή Επιτροπή ανακοίνωσε τη σύνθεση της ελληνικής ομάδας για τους Χειμερινούς Ολυμπιακούς Αγώνες που θα διεξαχθούν από τις 6 έως τις 22 Φεβρουαρίου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gkinnis.jpg?itok=o03cP6ss",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λαπροβίτολα ενόψει Ολυμπιακού: «Στην έδρα τους, θα είναι πολύ δύσκολο»",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510966/laprobitola-enopsei-olympiakoy-stin-edra-toys-tha-einai-poly-dyskolo",
+          "pubDate": "Wed, 28 Jan 2026 18:46:47 +0200",
+          "description": "Στο τι πρέπει να κάνει σωστά η ομάδα του και να πάρει τη νίκη, αλλά και στην ατμόσφαιρα στο ΣΕΦ, αναφέρθηκε ο Νίκο Λαποροβίτολα στις δηλώσεις τους ενόψει Ολυμπιακού.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-04/laprovitola_eurokinissi.jpg?itok=xw9Z298R",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Αντετοκούνμπο: «Έτοιμος για trade ο Γιάννης από τους Μπακς» γράφει το ESPN",
           "link": "https://www.gazzetta.gr/basketball/nba/2510965/antetokoynmpo-etoimos-gia-trade-o-giannis-apo-toys-mpaks-grafei-espn",
           "pubDate": "Wed, 28 Jan 2026 18:45:34 +0200",
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 17:31:25 +0200",
           "description": "Ο Αντώνης Καλκαβούρας αποκάλυψε στο Glass Floor By NoviBet το επικρατέστερο όνομα που βρίσκεται στα σχέδια της EuroLeague, για να αναλάβει ως νέο CEO της διοργάνωσης.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kalkavouras_0.jpg?itok=7zuzJluv",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Οι δύο κορυφαίοι ψήστες στον κόσμο που δάμασαν τη φωτιά",
-          "link": "https://www.gazzetta.gr/plus/2510940/oi-dyo-koryfaioi-psistes-ston-kosmo-poy-damasan-ti-fotia",
-          "pubDate": "Wed, 28 Jan 2026 17:30:00 +0200",
-          "description": "````````",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/psistes.jpg?itok=yKkKQpRu",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Australian Open: Ο Τζόκοβιτς έχανε και πήρε την πρόκριση στα ημιτελικά",
-          "link": "https://www.gazzetta.gr/tennis/australian-open/2510944/australian-open-o-tzokobits-ehane-kai-pire-tin-prokrisi-sta",
-          "pubDate": "Wed, 28 Jan 2026 17:29:54 +0200",
-          "description": "Ο Λορέντζο Μουζέτι προηγήθηκε με 2-0 στα σετ απέναντι στον Νόβακ Τζόκοβιτς, όμως ο τραυματισμός του έβαλε πρόωρο τέλος στην πορεία του στο Australian Open...",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/djokovic_musetti_ausopen.jpg?itok=j11eYgmI",
           "source": "Gazzetta"
         }
       ]
