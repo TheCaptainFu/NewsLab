@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T08:05:28.581Z",
+  "lastUpdated": "2026-01-28T08:10:31.602Z",
   "totalArticles": 179,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,18 @@
       "color": "red",
       "articles": [
         {
-          "title": "Θεσσαλονίκη: Δύο ανήλικες συνελήφθησαν για τον ξυλοδαρμό της 17χρονης και αναζητούνται ακόμα δύο - Τραβούσαν βίντεο και το ανέβασαν στα social media",
+          "title": "Διονύσης Σχοινάς για Καίτη Γαρμπή: «30 χρόνια τη φροντίζω, τώρα δεν θα τη φροντίσω;»",
+          "link": "https://www.newsit.gr/lifestyle/dionysis-sxoinas-gia-kaiti-garmpi-30-xronia-ti-frontizo-tora-den-tha-ti-frontiso/4585427/",
+          "pubDate": "Wed, 28 Jan 2026 08:07:43 +0000",
+          "description": "Καίτη Γαρμπή και Διονύσης Σχοινάς παραχώρησαν δηλώσεις που προβλήθηκαν από το «Happy Day» το πρωί της Τετάρτης (28-01-2026), μετά την επίσημη πρεμιέρα της παράστασης «Σεσουάρ ...  \nTo άρθρο Διονύσης Σχοινάς για Καίτη Γαρμπή: «30 χρόνια τη φροντίζω, τώρα δεν θα τη φροντίσω;» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/garbi-ndp-1200x869.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Θεσσαλονίκη: Δύο ανήλικες συνελήφθησαν για τον ξυλοδαρμό της 17χρονης - Τραβούσαν βίντεο και το ανέβασαν στα social media",
           "link": "https://www.protothema.gr/greece/article/1764608/thessaloniki-anilikes-sunelifthisan-xulodarmo-17hronis-anazitoudai-duo-travousan-video-kai-to-anevasan-sta-social-media/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 10:04:02 +0200",
-          "description": "H 17χρονη μετά την επίθεση μεταφέρθηκε στο νοσοκομείο και διαγνώστηκε με κρανιοεγκεφαλικές κακώσεις και μετατόπιση σπονδύλου",
+          "pubDate": "Wed, 28 Jan 2026 10:04:00 +0200",
+          "description": "Αναζητούνται ακόμα δύο ανήλικες - H 17χρονη μετά την επίθεση μεταφέρθηκε στο νοσοκομείο και διαγνώστηκε με κρανιοεγκεφαλικές κακώσεις και μετατόπιση σπονδύλου",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-10-22/astynomia_peripoliko.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -53,7 +61,7 @@
           "link": "https://www.newsit.gr/ellada/tragodia-ston-paok-se-etoimotita-c-130-gia-tin-amesi-epistrofi-ton-soron-stin-ellada/4585409/",
           "pubDate": "Wed, 28 Jan 2026 07:52:45 +0000",
           "description": "Ο ΠΑΟΚ και ολόκληρη η Ελλάδα θρηνούν για το θάνατο 7 οπαδών του στο τραγικό δυστύχημα στη Ρουμανία, με τις σορούς των νεκρών να αναμένονται ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Σε ετοιμότητα C-130 για την άμεση επιστροφή των σορών στην Ελλάδα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-3.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-2.jpg",
           "source": "NewsIT"
         },
         {
@@ -177,6 +185,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Κυβέρνηση: Με εισαγωγή ψηφοφόρων ψάχνει την ανάκαμψη",
+          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/kyvernisi-eisagogi-psifoforon-psaxnei-tin-anakampsi/",
+          "pubDate": "Wed, 28 Jan 2026 10:09:09 +0300",
+          "description": "Τι κρύβεται πίσω από τις νέες εξαγγελίες της κυβέρνησης για τους ομογενείς.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/dGwBGddw-scaled-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Κίνηση στους δρόμους: «Στα κόκκινα» Κηφισός – 30λεπτες καθυστερήσεις στην Αττική Οδό",
           "link": "https://www.newsit.gr/ellada/kinisi-stous-dromous-sta-kokkina-kifisos-30leptes-kathysteriseis-stin-attiki-odo/4585364/",
           "pubDate": "Wed, 28 Jan 2026 07:02:21 +0000",
@@ -231,22 +247,6 @@
           "description": "Με 18 σπουδαίες αναμετρήσεις ολοκληρώνεται το βράδυ της Τετάρτης η League Phase του φετινού Champions League, με την 8η και τελευταία αγωνιστική της κορυφαίας διασυλλογικής διοργάνωσης.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pavlidis-28126-768x461.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Μανώλης Μητσιάς: Ανακοίνωσε ότι αποχωρεί από το τραγούδι",
-          "link": "https://www.in.gr/2026/01/28/go-fun/fizz/manolis-mitsias-anakoinose-oti-apoxorei-apo-tragoudi/",
-          "pubDate": "Wed, 28 Jan 2026 09:48:35 +0300",
-          "description": "Ο Μανώλης Μητσιάς σε μια εκ βαθέων εξομολόγηση.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1D8A6815-768x538.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Σταθερά επιτόκια από τη Fed, μετά από τρεις μειώσεις, προβλέπει η αγορά",
-          "link": "https://www.newsit.gr/oikonomia/diethni/stathera-epitokia-apo-ti-fed-meta-apo-treis-meioseis-provlepei-i-agora/4585334/",
-          "pubDate": "Wed, 28 Jan 2026 06:46:28 +0000",
-          "description": "Στροφή της προσοχής στα θεμελιώδη της οικονομίας ενδέχεται να επιχειρηθεί αυτή την εβδομάδα από τον πρόεδρο της Ομοσπονδιακής Τράπεζας των ΗΠΑ, Τζερόμ Πάουελ, καθώς αναμένεται ...  \nTo άρθρο Σταθερά επιτόκια από τη Fed, μετά από τρεις μειώσεις, προβλέπει η αγορά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/usa-fed-reuters-scaled-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -509,6 +509,14 @@
           "source": "BBC News"
         },
         {
+          "title": "Από τα drones στην παραπληροφόρηση: Η νέα φάση της ρωσικής πίεσης στην Ευρώπη",
+          "link": "http://gr.euronews.com/2026/01/28/apo-ta-drones-sthn-paraplhroforhsh-h-nea-fash-ths-rwsikhs-pieshs-sthn-eyrwph",
+          "pubDate": "Wed, 28 Jan 2026 09:03:21 +0100",
+          "description": "Η Ρωσία εντείνει υβριδικές επιχειρήσεις στην Ευρώπη, με drones, παραπληροφόρηση και πίεση σε κρίσιμες υποδομές. Η έλλειψη σαφών κόκκινων γραμμών ευνοεί τη συνέχιση των επιθέσεων, προειδοποιεί ο επικεφαλής της OpenMinds σε συνέντευξή του στο Euronews.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "ΗΠΑ: Τρόμος στην λατινοαμερικανική κοινότητα της Μινεσότα λόγω ICE",
           "link": "http://gr.euronews.com/2026/01/28/hpa-tromos-sthn-latinoamerikanikh-koinothta-ths-minesota-logw-ice",
           "pubDate": "Wed, 28 Jan 2026 08:40:15 +0100",
@@ -517,7 +525,7 @@
           "source": "Euronews"
         },
         {
-          "title": "South Korea's ex-first lady jailed 20 months for bribery",
+          "title": "South Korea's ex-first lady jailed for 20 months for bribery",
           "link": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 07:16:59 GMT",
           "description": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
@@ -731,14 +739,6 @@
           "description": "Ο Γενικός Γραμματέας του ΝΑΤΟ Μαρκ Ρούτε δέχεται πυρά για τα απορριπτικά του σχόλια σχετικά με την ιδέα του ευρωπαϊκού διαχωρισμού από την προστασία της Ουάσινγκτον. \"Δεν μπορείτε, δεν μπορούμε\", δήλωσε.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Βαθμολογία Michelin και στα οινοποιεία",
-          "link": "http://gr.euronews.com/culture/2026/01/27/ba8mologia-michelin-kai-sta-oinopoieia",
-          "pubDate": "Tue, 27 Jan 2026 22:39:20 +0100",
-          "description": "Οι δύο πρώτες τοποθεσίες που μελετήθηκαν είναι η Βουργουνδία και το Μπορντό. Οι Ούγγροι οινοπαραγωγοί ελπίζουν ότι θα μπορέσουν να βγουν στην επιφάνεια. Το κράτος υποστηρίζει την παρουσία του οδηγού Michelin στην Ουγγαρία.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,38 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στην Ρουμανία: Γραμμή υποστήριξης για τις οικογένειες των θυμάτων",
+          "link": "https://www.gazzetta.gr/football/superleague/2510824/paok-dystyhima-stin-roymania-grammi-ypostirixis-gia-tis-oikogeneies",
+          "pubDate": "Wed, 28 Jan 2026 10:08:31 +0200",
+          "description": "Η ΠΑΕ ΠΑΟΚ προχώρησε στη δημιουργία ειδικής τηλεφωνικής γραμμής αποκλειστικά για τις οικογένειες των θυμάτων, ζητώντας να γίνει απόλυτα σεβαστό το πλαίσιο χρήσης της.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_toumba_tragodia.jpg?itok=lWESbb3t",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ, Δυστύχημα στη Ρουμανία: Οπαδοί του Δικεφάλου σκέπασαν με κασκόλ και σημαίες τα συντρίμμια",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510823/paok-dystyhima-sti-roymania-opadoi-toy-dikefaloy-skepasan-me-kaskol",
+          "pubDate": "Wed, 28 Jan 2026 10:06:25 +0200",
+          "description": "Στην Τιμοσοάρα της Ρουμανίας μετέβησαν αργά το βράδυ της Τρίτης (27/01) περίπου 200 οπαδοί του ΠΑΟΚ και σκέπασαν τα συντρίμμια με κασκόλ και σημαίες της ομάδας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/0dd43e4f-cc6e-41b7-9871-48e845feb871.jpg?itok=MvkOIsq5",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κύπελλο Ελλάδας: Πού θα δείτε το Ηρακλής-Κολοσσός με φόντο το Final 8 ",
+          "link": "https://www.gazzetta.gr/basketball/kypello-elladas-mpasket/2510822/kypello-elladas-poy-tha-deite-iraklis-kolossos-me-fonto",
+          "pubDate": "Wed, 28 Jan 2026 10:04:46 +0200",
+          "description": "Ο Ηρακλής υποδέχεται τον Κολοσσό Ρόδου στο Ιβανώφειο, στο πλαίσιο του Play-in του Κυπέλλου Ελλάδας, και ο νικητής εξασφαλίζει την πρόκριση στο Final 8 του θεσμού.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/iraklis_foreman_eurokinissi.jpg?itok=CEizisR1",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: «Εντολή Σαββίδη να φροντίσουμε τα πάντα για τους οπαδούς»",
+          "link": "https://www.newsit.gr/athlitika/paok-entoli-savvidi-na-frontisoume-ta-panta-gia-tous-opadous/4585425/",
+          "pubDate": "Wed, 28 Jan 2026 08:03:26 +0000",
+          "description": "Η οικογένεια του ΠΑΟΚ ζει μία νέα τραγωδία με το θάνατο 7 οπαδών του στη Ρουμανία και ο Ιβάν Σαββίδης έχει δώσει εντολή στους ανθρώπους ...  \nTo άρθρο ΠΑΟΚ: «Εντολή Σαββίδη να φροντίσουμε τα πάντα για τους οπαδούς» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/08/ivan-savvidis-1200x803.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Μέλος ΔΣ ΠΑΟΚ: «Είμαστε στην Τιμισοάρα και θα κάνουμε τα πάντα για τους τραυματίες» (vid)",
           "link": "https://www.gazzetta.gr/football/europa-league/2510821/melos-ds-paok-eimaste-stin-timisoara-kai-tha-kanoyme-ta-panta-gia",
@@ -952,38 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 08:30:00 +0200",
           "description": "Ο Ολυμπιακός αντιμετωπίζει τον Άγιαξ με στόχο τη νίκη και την πρόκριση στην επόμενη φάση του Champions League, με την πραγματική αίσθηση της θερμοκρασίας να φτάνει τους -5. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/medililibar.jpg?itok=2SLxA_2z",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "NBA: Κυρίαρχοι Νικς κόντρα στους Κινγκς, επιστροφή στις νίκες για τους Θάντερ",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510803/nba-kyriarhoi-niks-kontra-stoys-kingks-epistrofi-stis-nikes-gia-toys-thanter",
-          "pubDate": "Wed, 28 Jan 2026 08:23:16 +0200",
-          "description": "Οι Θάντερ επέστρεψαν στα θετικά αποτελέσματα, επικρατώντας των Πέλικανς με 104-95, ενώ οι Νικς επιβλήθηκαν των Κινγκς με 103-87, έχοντας ως πρωταγωνιστή τον Τζέιλεν Μπράνσον.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/alexander_thunder_getty.jpg?itok=UX8R5NQq",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τι είναι το «χρυσό αίμα» που κυλά στις φλέβες μόνο 50 ανθρώπων στον κόσμο",
-          "link": "https://www.gazzetta.gr/plus/2510802/ti-einai-hryso-aima-poy-kyla-stis-flebes-mono-50-anthropon-ston-kosmo",
-          "pubDate": "Wed, 28 Jan 2026 08:21:21 +0200",
-          "description": "Είναι τόσο σπάνιο που οι επιστήμονες προσπαθούν να το «καλλιεργήσουν» σε εργαστήριο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2234214263-1280x853.jpg?itok=xwaiK8HC",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αποτελέσματα NBA: Νέα ήττα για τους Μιλγουόκι Μπακς χωρίς τον Γιάννη Αντετοκούνμπο",
-          "link": "https://www.newsit.gr/athlitika/apotelesmata-nba-nea-itta-gia-tous-milgouoki-mpaks-xoris-ton-gianni-antetokounmpo-2/4585309/",
-          "pubDate": "Wed, 28 Jan 2026 06:18:34 +0000",
-          "description": "Με τον Γιάννη Αντετοκούνμπο “παροπλισμένο” με νέο τραυματισμό, οι Μιλγουόκι Μπακς γνώρισαν μία ακόμη ήττα, με 139-122 στην έδρα των Φιλαδέλφεια Σίξερς και συνεχίζουν την ...  \nTo άρθρο Αποτελέσματα NBA: Νέα ήττα για τους Μιλγουόκι Μπακς χωρίς τον Γιάννη Αντετοκούνμπο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/rollins-2-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Όσοι είναι επαγγελματικά καταξιωμένοι κάνουν 3 πράγματα, που σχεδόν όλοι προσπερνούν, σύμφωνα με το Χάρβαρντ",
-          "link": "https://www.gazzetta.gr/plus/2510801/osoi-einai-epaggelmatika-kataxiomenoi-kanoyn-3-pragmata-poy-shedon-oloi-prospernoyn",
-          "pubDate": "Wed, 28 Jan 2026 08:17:23 +0200",
-          "description": "Μπορεί για τους περισσότερους αυτά τα τρία πράγματα να αποτελούν “ψιλά γράμματα”, όμως για τους ανθρώπους που έχουν καταφέρει να πετύχουν σε προσωπικό και επαγγελματικό επίπεδο, αποτελούν κομβικό σημείο για την καριέρα τους.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/luca-bravo-9l_326fiszk-unsplash.jpg?itok=7wncvLz5",
           "source": "Gazzetta"
         }
       ]
@@ -1233,7 +1233,7 @@
         {
           "title": "Από εχθρός, σύμμαχος: Οι επιστήμονες μετατρέπουν τον μηχανισμό εξάπλωσης του καρκίνου σε θεραπεία",
           "link": "https://www.techgear.gr/apo-echthros-symmachos-oi-epistimones-metatrepoyn-ton-michanismo-exaplosis-toy-karkinoy-se-therapeia-47358",
-          "pubDate": "Wed, 28 Jan 2026 10:04:00 +0200",
+          "pubDate": "Wed, 28 Jan 2026 10:05:00 +0200",
           "description": "Η επιστημονική κοινότητα αντιμετωπίζει εδώ και δεκαετίες τη μετάσταση ως μια βίαιη, σχεδόν χαοτική διαδικασία: καρκινικά κύτταρα που αποκολλώνται από ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/tiny-bubbles-cancer.jpg",
           "source": "Techgear"
