@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T21:15:27.091Z",
+  "lastUpdated": "2026-01-28T21:20:32.218Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ο Βαγγέλης Παυλίδης είχε γκολ και ασίστ στο Μπενφίκα – Ρεάλ Μαδρίτης",
+          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-eixe-gkol-kai-asist-sto-mpenfika-real-madritis/4586259/",
+          "pubDate": "Wed, 28 Jan 2026 21:16:23 +0000",
+          "description": "Ο Βαγγέλης Παυλίδης ήταν ο μεγάλος πρωταγωνιστής της Μπενφίκα στο πρώτο ημίχρονο του αγώνα με τη Ρεάλ Μαδρίτης στην Πορτογαλία για το Champions League. Η ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης είχε γκολ και ασίστ στο Μπενφίκα – Ρεάλ Μαδρίτης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-benfica-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Γυναίκες έκλεψαν κόσμημα αξίας από κοσμηματοπωλείο στο Αγρίνιο",
           "link": "https://www.protothema.gr/greece/article/1765122/gunaikes-eklepsan-kosmima-axias-apo-kedriko-kosmimatopoleio-sto-agrinio/?utm_source=rss",
@@ -97,10 +105,18 @@
           "source": "NewsIT"
         },
         {
+          "title": "Άνοιξε το σκορ ο Ολυμπιακός με γκολάρα του Ζέλσον (0-1, vid)",
+          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/anoikse-skor-o-olympiakos-gkolara-tou-zelson-0-1-vid/",
+          "pubDate": "Wed, 28 Jan 2026 23:16:25 +0300",
+          "description": "Ο Ζέλσον εκμεταλλεύτηκε την εξαιρετική πάσα του Ταρέμι και με ωραίο σουτ έστειλε την μπάλα στα δίχτυα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828829-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Τραγωδία στη Ρουμανία: Τι έσωσε τη ζωή των τριών τραυματιών – «Έκανε S στον δρόμο» λέει μάρτυρας του τροχαίου",
           "link": "https://www.in.gr/2026/01/28/greece/tragodia-sti-roumania-ti-esose-ti-zoi-ton-trion-traymation-ekane-s-ston-dromo-leei-martyras-tou-troxaiou/",
           "pubDate": "Wed, 28 Jan 2026 23:14:05 +0300",
-          "description": "Σοκ και ανείπωτη θλίψη έχει προκαλέσει στο πανελλήνιο και την οικογένεια του ΠΑΟΚ το πολύνεκρο τροχαίο δυστύχημα που σημειώθηκε στη Ρουμανία, στο οποίο έχασαν τη ζωή τους επτά φίλαθλοι της ομάδας και τραυματίστηκαν άλλοι τρεις. Τα νεότερα δεδομένα αφορούν κυρίως την αλλαγή στον σχεδιασμό της αεροδιακομιδής των τριών τραυματιών, ο οποίοι νοσηλεύονται στην Τιμισοάρα. Ενώ […]",
+          "description": "Σύμφωνα με μάρτυρα της τραγωδίας στη Ρουμανία, ο οδηγός του μίνι βαν στο οποίο επέβαιναν οι φίλαθλοι του ΠΑΟΚ αντιλήφθηκε κατά τη διάρκεια της προσπέρασης ότι δεν μπορούσε να την ολοκληρώσει",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/roumania-troxaio-768x376.jpg",
           "source": "In.gr"
         },
@@ -231,22 +247,6 @@
           "description": "Ο Ταρέμι βρέθηκε σε καλή θέση, έκανε το σουτ αλλά η μπάλα κόντραρε στον Ρέγκερ",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828715-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Champions League live με το μεγάλο φινάλε της League Phase",
-          "link": "https://www.newsit.gr/athlitika/champions-league-live-me-to-megalo-finale-tis-league-phase/4585909/",
-          "pubDate": "Wed, 28 Jan 2026 19:51:04 +0000",
-          "description": "Πέφτει η «αυλαία» της League Phase του Champiosn League, καθώς το βράδυ της Τετάρτης (28.01.2026) έχουμε την 8η και τελευταία αγωνιστική της φάσης. Στο τέλος ...  \nTo άρθρο Champions League live με το μεγάλο φινάλε της League Phase δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paulidis-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου",
-          "link": "https://www.newsit.gr/athlitika/tragodia-paok-ypodoxi-ton-epta-soron-sto-aerodromio-apo-tous-syndesmous-tou-dikefalou/4586194/",
-          "pubDate": "Wed, 28 Jan 2026 19:50:21 +0000",
-          "description": "Οι οργανωμένοι οπαδοί του ΠΑΟΚ θα υποδεχθούν τις επτά σορούς των αδικοχαμένων φίλων της ομάδας στο αεροδρόμιο. Οι σοροί των επτά φίλων του ΠΑΟΚ θα ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "During heated hearing, Rubio insists US action in Venezuela will lead to prosperity and security",
+          "link": "https://www.bbc.com/news/articles/c1evy87qd1no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 21:05:52 GMT",
+          "description": "The US Secretary of State remained robustly on message when asked about the legality of Maduro's removal, plans for oil sales, and the future of Venezuela.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ce/live/31bafeb0-fc7f-11f0-b9c1-0d3cbd49d190.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
           "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 18:58:42 GMT",
@@ -731,14 +739,6 @@
           "description": "The EU foreign policy chief's remarks come days after Nato's secretary general said Europe needed the US for its defence.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c1/live/8d5097d0-fc39-11f0-a47f-d352a7d9988a.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Ο CEO της Anthropic: «Η ανθρωπότητα πρέπει να ξυπνήσει» μπροστά στις απειλές της ΤΝ",
-          "link": "http://gr.euronews.com/next/2026/01/28/humanity-needs-to-wake-up-to-ai-threats-anthropic-ceo-says",
-          "pubDate": "Wed, 28 Jan 2026 15:28:55 +0100",
-          "description": "Ο Ντάριο Αμοντέι, CEO της Anthropic, προειδοποιεί ότι η ανθρωπότητα πρέπει να ρυθμίσει τη χρήση της ΤΝ, αλλιώς κινδυνεύουμε με αυταρχικές κυβερνήσεις που θα καταπιέζουν τους πολίτες με την τεχνολογία.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,30 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Λίβερπουλ - Καραμπάγκ: Ο Σαλάχ με ένα εξαιρετικό σουτ στο παραθυράκι έκανε το 3-0",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511060/liberpoyl-karampagk-o-salah-me-ena-exairetiko-soyt-sto",
+          "pubDate": "Wed, 28 Jan 2026 23:18:11 +0200",
+          "description": "Ο Σαλάχ με ένα εξαιρετικό σουτ στο παραθυράκι, έγραψε το 3-0 για την Λίβερπουλ κόντρα στην Καραμπάγκ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/salah_liverpool_4.jpg?itok=CKljA6xU",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άγιαξ - Ολυμπιακός: Το γκολ του Ζέλσον Μαρτίνς για το 0-1",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511059/agiax-olympiakos-gkol-toy-zelson-martins-gia-0-1",
+          "pubDate": "Wed, 28 Jan 2026 23:17:59 +0200",
+          "description": "Στο 52' ο Ολυμπιακός με έναν πανέμορφο συνδυασμό από Ζέλσον Μαρτίνς και Ταρέμι πήρε το προβάδισμα με γκολ του πρώτου κόντρα στον Άγιαξ!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gelson.jpg?itok=o0iTnAVo",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο Βαγγέλης Παυλίδης είχε γκολ και ασίστ στο Μπενφίκα – Ρεάλ Μαδρίτης",
+          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-eixe-gkol-kai-asist-sto-mpenfika-real-madritis/4586259/",
+          "pubDate": "Wed, 28 Jan 2026 21:16:23 +0000",
+          "description": "Ο Βαγγέλης Παυλίδης ήταν ο μεγάλος πρωταγωνιστής της Μπενφίκα στο πρώτο ημίχρονο του αγώνα με τη Ρεάλ Μαδρίτης στην Πορτογαλία για το Champions League. Η ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης είχε γκολ και ασίστ στο Μπενφίκα – Ρεάλ Μαδρίτης δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-benfica-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Τρομερή κίνηση των οπαδών της Τιμισοάρα",
           "link": "https://www.gazzetta.gr/football/europa-league/2511058/paok-dystyhima-sti-roymania-tromeri-kinisi-ton-opadon-tis-timisoara",
@@ -961,30 +985,6 @@
           "description": "Η Παρτίζαν ανακοίνωσε την απόκτηση του Αλέξα Ραντάνοφ για να ενισχύσει τη σέρβικη ομάδα στις θέσεις των φόργουορντ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/radanof.jpg?itok=-0QOuZJu",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Champions League live με το μεγάλο φινάλε της League Phase",
-          "link": "https://www.newsit.gr/athlitika/champions-league-live-me-to-megalo-finale-tis-league-phase/4585909/",
-          "pubDate": "Wed, 28 Jan 2026 19:51:04 +0000",
-          "description": "Πέφτει η «αυλαία» της League Phase του Champiosn League, καθώς το βράδυ της Τετάρτης (28.01.2026) έχουμε την 8η και τελευταία αγωνιστική της φάσης. Στο τέλος ...  \nTo άρθρο Champions League live με το μεγάλο φινάλε της League Phase δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paulidis-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ρολόι της Αποκάλυψης: Πόσα δευτερόλεπτα απέχουμε από την καταστροφή",
-          "link": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
-          "pubDate": "Wed, 28 Jan 2026 21:51:00 +0200",
-          "description": "Στα 85 δευτερόλεπτα πριν τα «μεσάνυχτα» το Ρολόι της Αποκάλυψης - Προειδοποιούν οι επιστήμονες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-05/ef84781a-apokalypsi.jpg?itok=pLcAnDCR",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου",
-          "link": "https://www.newsit.gr/athlitika/tragodia-paok-ypodoxi-ton-epta-soron-sto-aerodromio-apo-tous-syndesmous-tou-dikefalou/4586194/",
-          "pubDate": "Wed, 28 Jan 2026 19:50:21 +0000",
-          "description": "Οι οργανωμένοι οπαδοί του ΠΑΟΚ θα υποδεχθούν τις επτά σορούς των αδικοχαμένων φίλων της ομάδας στο αεροδρόμιο. Οι σοροί των επτά φίλων του ΠΑΟΚ θα ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-1.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Micron: Επενδύσεις-μαμούθ 24 δισ. στη Σιγκαπούρη για να «σώσει» την παγκόσμια αγορά μνήμης",
+          "link": "https://gr.pcmag.com/components/51149/micron-ependuseis-mamouth-24-dis-ste-sigkapoure-gia-na-sosei-ten-pagkosmia-agora-mnemes",
+          "pubDate": "Wed, 28 Jan 2026 21:03:50 +0000",
+          "description": "Ενώ η ζήτηση για AI και NAND εκτοξεύεται, η Micron επεκτείνεται σε Ασία και ΗΠΑ, όμως θα χρειαστεί να περάσει χρόνος μέχρι να τεθεί σε λειτουργία η νέα μονάδα παραγωγής.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/m/micron-ple/micron-pledges-24-billion-for-new-memory-fab-but-theres-a-ca_dtrx.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "WhatsApp: Έρχεται το «Lockdown Mode» για προστασία από εξελιγμένες επιθέσεις",
           "link": "https://gr.pcmag.com/security/51148/whatsapp-erkhetai-to-lockdown-mode-gia-prostasia-apo-exeligmenes-epitheseis",
           "pubDate": "Wed, 28 Jan 2026 20:53:00 +0000",
@@ -1468,14 +1476,6 @@
           "pubDate": "Tue, 27 Jan 2026 22:03:00 +0200",
           "description": "Η Google ανακοίνωσε μια σειρά από καίριες αλλαγές στην πλατφόρμα του Google Search. Στο επίκεντρο αυτών των εξελίξεων βρίσκεται η φιλοσοφία του «Just ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/google-ask-anything.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Η ΕΕ βάζει οριστικό «λουκέτο» στο ρωσικό αέριο μέχρι το 2027",
-          "link": "https://www.techgear.gr/i-ee-vazei-oristiko-loyketo-sto-rosiko-aerio-mechri-to-2027-47348",
-          "pubDate": "Tue, 27 Jan 2026 21:52:00 +0200",
-          "description": "Μια απόφαση-σταθμό για το ενεργειακό μέλλον της Γηραιάς Ηπείρου έλαβε το Συμβούλιο της Ευρωπαϊκής Ένωσης, εγκρίνοντας και τυπικά τον κανονισμό που ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/europe-russian-gas.jpg",
           "source": "Techgear"
         }
       ]
