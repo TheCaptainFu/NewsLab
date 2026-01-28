@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T19:25:24.264Z",
+  "lastUpdated": "2026-01-28T19:30:34.238Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Δεν είναι το Έβερεστ: Το βουνό που βρίσκεται πιο κοντά στον Ήλιο (vid)",
+          "link": "https://www.gazzetta.gr/plus/2511007/den-einai-eberest-boyno-poy-brisketai-pio-konta-ston-ilio-vid",
+          "pubDate": "Wed, 28 Jan 2026 21:28:00 +0200",
+          "description": "Η κορυφή του Έβερεστ θεωρείται η ψηλότερη του πλανήτη, όμως ένα ηφαίστειο στον Ισημερινό είναι τεχνικά πιο κοντά στον Ήλιο και πιο μακριά από το κέντρο της Γης.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/chimborazo.jpg?itok=VKN_-CfF",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Καρλοβάρσκο - Ολυμπιακός 3-2: Νέα ήττα και αποκλεισμός",
+          "link": "https://www.gazzetta.gr/volleyball/cev-cup/2511029/karlobarsko-olympiakos-3-2-nea-itta-kai-apokleismos",
+          "pubDate": "Wed, 28 Jan 2026 21:26:52 +0200",
+          "description": "Ο Ολυμπιακός ηττήθηκε από την Καρλοβάσκα με 3-2 σετ, στη ρεβάνς για τη φάση των \"16\" του CEV Cup και αποκλείστηκε από τη συνέχεια του θεσμού...",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_-_kalrobaska.jpg?itok=CFNK_2wA",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Έβαλε δίποντο και αποθεώθηκε ο Γιόβιτς!",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511028/aek-ebale-diponto-kai-apotheothike-o-giobits",
+          "pubDate": "Wed, 28 Jan 2026 21:25:45 +0200",
+          "description": "Ο Λούκα Γιόβιτς, αμέσως μετά τη νίκη της ΑΕΚ επί της Άλμπα (88-80), ευστόχησε σε δίποντο και αποθεώθηκε από τον κόσμο της Ένωσης.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jovic_eurokinisi_0.jpg?itok=NBnRnzVj",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά",
           "link": "https://www.newsit.gr/athlitika/o-panathinaikos-kineitai-gia-tin-apoktisi-tou-etien-kamara-tis-sarleroua/4586180/",
           "pubDate": "Wed, 28 Jan 2026 19:22:01 +0000",
@@ -755,19 +779,19 @@
           "source": "NewsIT"
         },
         {
-          "title": "Η Βαλέρια Λάτσιου ενηλικιώθηκε: Η ανάρτηση της Ελένης Μενεγάκη με τις τρομερές ομοιότητες (pics)",
-          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
-          "pubDate": "Wed, 28 Jan 2026 21:16:00 +0200",
-          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/menegaki-eleni.jpg.jpg?itok=Pm_h1ji_",
-          "source": "Gazzetta"
-        },
-        {
           "title": "Ολυμπιακός: LIVE η βαθμολογία του Champions League",
           "link": "https://www.gazzetta.gr/football/champions-league/2510931/olympiakos-live-i-bathmologia-toy-champions-league",
           "pubDate": "Wed, 28 Jan 2026 21:15:00 +0200",
           "description": "Ο Ολυμπιακός παίζει... τελικό πρόκρισης στο Αμστερνταμ κόντρα στον Αγιαξ και το Gazzetta σας παρουσιάζει LIVE βαθμολογία και το πώς θα διαμορφώνεται ανά λεπτό η κατάσταση στην τελευταία αγωνιστική της League Phase του Champions League!",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vathmologia_generic_cl_article.jpg?itok=b_kxzeFF",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Η Βαλέρια Λάτσιου ενηλικιώθηκε: Η ανάρτηση της Ελένης Μενεγάκη με τις τρομερές ομοιότητες (pics)",
+          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
+          "pubDate": "Wed, 28 Jan 2026 21:14:00 +0200",
+          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/menegaki-eleni.jpg.jpg?itok=Pm_h1ji_",
           "source": "Gazzetta"
         },
         {
@@ -961,30 +985,6 @@
           "description": "Οι οπαδοί του Παναθηναϊκού και της ΑΕΚ σε Τάφο του Ινδού και Sunel Arena αντίστοιχα ανέβασαν πανό για να αποχαιρετήσουν τους αδικοχαμένους οπαδούς του ΠΑΟΚ. ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Τα πανό που ανέβασαν οι φίλοι του Παναθηναϊκού και της ΑΕΚ για τους αδικοχαμένους οπαδούς του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-pano-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Μίλιτσιτς: «Στο τέλος δεν ανταποκριθήκαμε στην τακτική μας»",
-          "link": "https://www.gazzetta.gr/basketball/eurocup/2511009/militsits-sto-telos-den-antapokrithikame-stin-taktiki-mas",
-          "pubDate": "Wed, 28 Jan 2026 20:28:27 +0200",
-          "description": "Σκασμένος από τον τρόπο της ήττας, ο Ιγκόρ Μίλιτσιτς αναφέρθηκε στην επιθετική αφλογιστία της ομάδας του στην ήττα από την Μπαχτσεσεχίρ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6810860_1_1.jpg?itok=iKl9uike",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Θλίψη στο ΠΑΣΟΚ: Πέθανε η υποψήφια βουλεύτρια Αριστέα Καζάκου σε ηλικία 40 ετών",
-          "link": "https://www.gazzetta.gr/plus/2511008/thlipsi-sto-pasok-pethane-i-ypopsifia-boyleytria-aristea-kazakoy-se-ilikia-40-eton",
-          "pubDate": "Wed, 28 Jan 2026 20:24:33 +0200",
-          "description": "Πέθανε η υποψήφια βουλεύτρια του ΠΑΣΟΚ και μάχιμη δικηγόρος από την Κυπαρίσσια, Αριστέα Κοζάκου σε ηλικία 40 ετών.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aristea-kozakoy-pasok.jpg?itok=z99h5CFP",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μακεδονικός: Τέλος ο Τυριακίδης από την τεχνική ηγεσία",
-          "link": "https://www.gazzetta.gr/football/superleague-2/2511006/makedonikos-telos-o-tyriakidis-apo-tin-tehniki-igesia",
-          "pubDate": "Wed, 28 Jan 2026 20:21:45 +0200",
-          "description": "Ο Γιώργος Τυριακίδης αποχώρησε από την τεχνική ηγεσία του Μακεδονικού με την παραίτησή του να γίνεται δεκτή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/tyriakidis.jpg?itok=sFf2tW0m",
-          "source": "Gazzetta"
         }
       ]
     },
