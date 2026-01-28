@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T04:45:31.453Z",
+  "lastUpdated": "2026-01-28T04:50:30.897Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,18 @@
       "color": "red",
       "articles": [
         {
-          "title": "Τραγωδία στη Θεσσαλονίκη: Νεκρό βρέφος 3 μηνών – Του έκαναν ανάνηψη 50 λεπτά",
-          "link": "https://www.newsit.gr/ellada/tragodia-sti-thessaloniki-nekro-vrefos-3-minon-tou-ekanan-ananipsi-50-lepta/4585294/",
+          "title": "Ζημιογόνες οι μονάδες αερίου στην Ελλάδα το 2030 λόγω των εγκαταστάσεων αποθήκευσης ενέργειας",
+          "link": "https://www.newsit.gr/oikonomia/finance/zimiogones-oi-monades-aeriou-stin-ellada-to-2030-logo-ton-egkatastaseon-apothikeysis-energeias/4584887/",
+          "pubDate": "Wed, 28 Jan 2026 04:48:00 +0000",
+          "description": "Προ ημερών παραδόθηκε από το Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης στον ΑΔΜΗΕ η μελέτη επάρκειας συστήματος, ένα κείμενο που θα αποτελέσει τον οδηγό για τις αποφάσεις που ...  \nTo άρθρο Ζημιογόνες οι μονάδες αερίου στην Ελλάδα το 2030 λόγω των εγκαταστάσεων αποθήκευσης ενέργειας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lng-exports-reuters-scaled-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Θεσσαλονίκη: Νεκρό βρέφος 3 μηνών – Του έκαναν ανάνηψη 50 λεπτά",
+          "link": "https://www.newsit.gr/ellada/thessaloniki-nekro-vrefos-3-minon-tou-ekanan-ananipsi-50-lepta/4585294/",
           "pubDate": "Wed, 28 Jan 2026 04:32:07 +0000",
-          "description": "Τραγωδία σημειώθηκε το πρωί της Τρίτης 27.01.2026 στη Θεσσαλονίκη, με ένα μωρό να χάνει τη ζωή του. Το 3 μηνών μωρό, μεταφέρθηκε χωρίς τις αισθήσεις ...  \nTo άρθρο Τραγωδία στη Θεσσαλονίκη: Νεκρό βρέφος 3 μηνών – Του έκαναν ανάνηψη 50 λεπτά δημοσιεύτηκε στο NewsIT .",
+          "description": "Τραγωδία σημειώθηκε το πρωί της Τρίτης 27.01.2026 στη Θεσσαλονίκη, με ένα μωρό να χάνει τη ζωή του. Το 3 μηνών μωρό, μεταφέρθηκε χωρίς τις αισθήσεις ...  \nTo άρθρο Θεσσαλονίκη: Νεκρό βρέφος 3 μηνών – Του έκαναν ανάνηψη 50 λεπτά δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-baby2-1200x675.jpg",
           "source": "NewsIT"
         },
@@ -239,14 +247,6 @@
           "description": "Φωταγωγήθηκε η πρόσοψη του Μεγάρου της Βουλής των Ελλήνων στο πλαίσιο της Διεθνούς Ημέρας Μνήμης του Ολοκαυτώματος, με το θεματικό λογότυπο της διεθνούς εκστρατείας #WE ...  \nTo άρθρο Φωταγωγήθηκε η Βουλή στη μνήμη του Ολοκαυτώματος δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vouli-fotagogisi-28012026.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Γερμανία: Υπέρ μιας Ευρώπης «δύο ταχυτήτων» τάσσεται ο υπ. Οικονομικών Κλινγκμπάιλ",
-          "link": "https://www.in.gr/2026/01/28/world/germania-yper-mias-eyropis-dyo-taxytiton-tassetai-o-yp-oikonomikon-klingkmpail/",
-          "pubDate": "Wed, 28 Jan 2026 02:31:48 +0300",
-          "description": "Ο υπ. Οικονομικών Κλινγκμπάιλ, προωθεί σχήμα με τις 6 ισχυρότερες οικονομίες της ΕΕ, με τη Γερμανία και τη Γαλλία ως «αιχμή του δόρατος»",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/morteza-mohammadi-l0QB40LUoXA-unsplash-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
