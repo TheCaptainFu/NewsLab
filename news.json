@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T08:40:26.878Z",
+  "lastUpdated": "2026-01-28T08:45:28.370Z",
   "totalArticles": 178,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Οπαδοί του ΠΑΟΚ τίμησαν τους επτά νεκρούς στο σημείο του τροχαίου δυστυχήματος στη Ρουμανία, δείτε βίντεο",
+          "link": "https://www.protothema.gr/greece/article/1764637/opadoi-tou-paok-timisan-tous-epta-nekrous-sto-simeio-tou-trohaiou-dustuhimatos-sti-roumania-deite-video/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 10:44:00 +0200",
+          "description": "Οι οπαδοί του ΠΑΟΚ που επέστρεφαν στην Ελλάδα, απέτισαν φόρο τιμής στους αδικοχαμένους νέους",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/kapnogona_troxaiopaok_maketa.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "«Χάσαμε άδικα τα αδέρφια μας στον δρόμο»: Το συγκινητικό μήνυμα του μικρού Γιαννάκη για την τραγωδία στην Ρουμανία",
           "link": "https://www.protothema.gr/greece/article/1764633/hasame-adika-ta-aderfia-mas-ston-dromo-to-suginitiko-minuma-tou-mikrou-giannaki-gia-tin-tragodia-stin-roumania/?utm_source=rss",
@@ -34,7 +42,7 @@
         },
         {
           "title": "Αλέξης Τσίπρας για το τροχαίο με τους οπαδούς του ΠΑΟΚ: Στεκόμαστε όλοι πλάι στα σπίτια που ορφάνεψαν",
-          "link": "https://www.newsit.gr/politikh/aleksis-tsipras-gia-to-troxaio-me-tous-opadous-tou-paok-stekomaste-oloi-plai-sta-spitia-pou-orfanepsan/4585443/",
+          "link": "https://www.newsit.gr/ellada/aleksis-tsipras-gia-to-troxaio-me-tous-opadous-tou-paok-stekomaste-oloi-plai-sta-spitia-pou-orfanepsan/4585443/",
           "pubDate": "Wed, 28 Jan 2026 08:32:22 +0000",
           "description": "Τα συλλυπητήρια του στην οικογένεια του ΠΑΟΚ για τους επτά οπαδούς που έχασαν τη ζωή τους στο τροχαίο δυστύχημα στη Ρουμανία το μεσημέρι της Τρίτης ...  \nTo άρθρο Αλέξης Τσίπρας για το τροχαίο με τους οπαδούς του ΠΑΟΚ: Στεκόμαστε όλοι πλάι στα σπίτια που ορφάνεψαν δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-1.jpg",
@@ -65,15 +73,15 @@
           "source": "NewsIT"
         },
         {
-          "title": "Η SpaceX του Έλον Μασκ σχεδιάζει την ιστορική IPO των 50 δισ. δολαρίων",
-          "link": "https://www.newsit.gr/oikonomia/diethni/i-spacex-tou-elon-mask-sxediazei-tin-istoriki-ipo-ton-50-dis-dolarion/4585432/",
+          "title": "Η SpaceX του Έλον Μασκ σχεδιάζει ιστορική δημόσια εγγραφή, με άλμα αποτίμησης σε 1,5 τρισ. δολάρια",
+          "link": "https://www.newsit.gr/oikonomia/diethni/i-spacex-tou-elon-mask-sxediazei-istoriki-dimosia-eggrafi-me-alma-apotimisis-se-1-5-tris-dolaria/4585432/",
           "pubDate": "Wed, 28 Jan 2026 08:26:14 +0000",
-          "description": "Το ενδεχόμενο να προχωρήσει σε αρχική προσφορά νέων μετοχών με δημόσια εγγραφή (IPO) στα μέσα Ιουνίου, εξετάζει η SpaceX του Έλον Μασκ, με στόχο να ...  \nTo άρθρο Η SpaceX του Έλον Μασκ σχεδιάζει την ιστορική IPO των 50 δισ. δολαρίων δημοσιεύτηκε στο NewsIT .",
+          "description": "Το ενδεχόμενο να προχωρήσει σε αρχική προσφορά νέων μετοχών με δημόσια εγγραφή (IPO) στα μέσα Ιουνίου, εξετάζει η SpaceX του Έλον Μασκ, με στόχο να ...  \nTo άρθρο Η SpaceX του Έλον Μασκ σχεδιάζει ιστορική δημόσια εγγραφή, με άλμα αποτίμησης σε 1,5 τρισ. δολάρια δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/spacex-elon-mask.jpg",
           "source": "NewsIT"
         },
         {
-          "title": "«Μπλόκαρε το τιμόνι κατά την προσπέραση» αποκάλυψε τραυματίας οπαδός του ΠΑΟΚ στον Έλληνα γιατρό που βρέθηκε στο σημείο του φονικού τροχαίου",
+          "title": "«Μπλόκαρε το τιμόνι κατά την προσπέραση» αποκάλυψε τραυματίας οπαδός του ΠΑΟΚ στον Έλληνα γιατρό που βρέθηκε στο νοσοκομείο μετά το φονικό τροχαίο",
           "link": "https://www.protothema.gr/greece/article/1764626/blokare-to-timoni-kata-tin-prosperasi-apokalupse-traumatias-opados-tou-paok/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 10:21:00 +0200",
           "description": "Συγκλονισμένος ο γιατρός Δημήτρης Κούκουλας ανέφερε ότι ένας από τους τραυματίες του είπε ότι κόλλησε το τιμόνι κατά την προσπέραση λόγω  lane assistant - Η έρευνα θα δείξει αν αυτή είναι η αιτία του φονικού τροχαίου",
@@ -239,14 +247,6 @@
           "description": "Οι διάτρητες σωλήνες στο υπέδαφος του εργοστασίου «Βιολάντα», η διαρροή προπανίου για τουλάχιστον μια εβδομάδα και το σφραγισμένο υπόγειο που μετατράπηκε σε «δεξαμενή» του συγκεκριμένου ...  \nTo άρθρο Βιολάντα: Η έλλειψη ανιχνευτών και το υπόγειο που μετατράπηκε σε «βόμβα» προπανίου προκαλώντας την φονική έκρηξη δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekrixi-violanta-ergostasio-eurok-1200x721.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Στη ΜΕΘ λόγω γρίπης αγόρι 4 ετών στο «Αγία Σοφία», διακομίστηκε με ανακοπή στο νοσοκομείο\n",
-          "link": "https://www.protothema.gr/greece/article/1764585/sti-meth-logo-gripis-agori-4-eton-sto-agia-sofia-diakomistike-me-anakopi-sto-nosokomeio/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 09:26:00 +0200",
-          "description": "Σύμφωνα με πληροφορίες το αγόρι που κατοικεί σε περιοχή της Αττικής μετέφεραν στο νοσοκομείο χθες, Τρίτη, οι γονείς του",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-07-28/xrwma-nosokomeio.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "South Korea's ex-first lady jailed for 20 months for bribery",
+          "link": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 08:43:43 GMT",
+          "description": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5584/live/d60b0530-fc13-11f0-8618-c12486cd8cf5.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Επίσκεψη του ισραηλινού ΥΠΕΞ στο Μπακού εν μέσω περιφερειακών εντάσεων",
           "link": "http://gr.euronews.com/2026/01/28/episkepsh-toy-israhlinoy-ype3-sto-mpakoy-en-mesw-perifereiakwn-entasewn",
           "pubDate": "Wed, 28 Jan 2026 09:27:40 +0100",
@@ -539,14 +547,6 @@
           "description": "Οι βίαιες ενέργειες των ομοσπονδιακών πρακτόρων έχουν προκαλέσει πανικό στην τοπική κοινωνία",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "South Korea's ex-first lady jailed for 20 months for bribery",
-          "link": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 07:16:59 GMT",
-          "description": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5584/live/d60b0530-fc13-11f0-8618-c12486cd8cf5.jpg",
-          "source": "BBC News"
         },
         {
           "title": "Minnesota congresswoman Ilhan Omar attacked with unknown liquid during town hall",
@@ -645,10 +645,10 @@
           "source": "Euronews"
         },
         {
-          "title": "Αμερικανική διαστημική νεοφυής εταιρεία ανοίγει κρατήσεις για φουσκωτό ξενοδοχείο στη Σελήνη",
+          "title": "Αμερικανική διαστημική νεοφυής εταιρεία ανοίγει κρατήσεις για \"φουσκωτό\" ξενοδοχείο στη Σελήνη",
           "link": "http://gr.euronews.com/next/2026/01/28/us-space-start-up-begins-taking-bookings-for-an-inflatable-hotel-on-the-moon",
           "pubDate": "Wed, 28 Jan 2026 07:00:14 +0100",
-          "description": "Το ξενοδοχείο θα μπορεί να φιλοξενεί έως τέσσερις επισκέπτες. Οι αρχικές δοκιμές στη Σελήνη έχουν προγραμματιστεί για το 2031, έναν χρόνο πριν από τις πρώτες διαμονές.",
+          "description": "Το ξενοδοχείο θα μπορεί να φιλοξενεί έως τέσσερις επισκέπτες. Οι αρχικές δοκιμές στη Σελήνη έχουν προγραμματιστεί για το 2031, έναν χρόνο πριν από τις πρώτες αφίξεις",
           "thumbnail": null,
           "source": "Euronews"
         },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Συλλυπητήρια επιστολή από τον πρόεδρο της Κυπριακής Ομοσπονδίας ποδοσφαίρου",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510834/paok-dystyhima-sti-roymania-syllypitiria-epistoli-apo-ton-proedro",
+          "pubDate": "Wed, 28 Jan 2026 10:41:46 +0200",
+          "description": "Ο πρόεδρος της Κυπριακής Ομοσπονδίας ποδοσφαίρου, Χάρης Λοϊζίδης έστειλε συλλυπητήρια επιστολή στον πρόεδρο της ΕΠΟ, Μάκη Γκαγκάτση για τον θάνατο των επτά οπαδών του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6827230.jpg?itok=7klEsi4q",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γουίζαρντς-Μπλέιζερς 115-111: Επιστροφή στις νίκες με μπροστάρη τον Σαρ",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510833/goyizarnts-mpleizers-115-111-epistrofi-stis-nikes-me-mprostari-ton-sar",
+          "pubDate": "Wed, 28 Jan 2026 10:39:43 +0200",
+          "description": "Ο Άλεξ Σαρ ηγήθηκε των Γουάσινγκτον Γουίζαρντς (11-34) στη νίκη επί των Πόρτλαντ Τρέιλ Μπλέιζερς (23-25) με 115-111, επιστρέφοντας στα θετικά αποτελέσματα μετά από εννιά σερί ήττες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sarr_wizards_nba_getty.jpg?itok=JPv0Zplb",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: «Μπλόκαρε το τιμόνι» αποκάλυψε τραυματίας σε Έλληνα γιατρό",
           "link": "https://www.gazzetta.gr/football/europa-league/2510832/paok-dystyhima-sti-roymania-mplokare-timoni-apokalypse-traymatias-se",
@@ -969,22 +985,6 @@
           "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/menexia.jpg.png?itok=e9IUIlW4",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Το πιθανότερο σχέδιο για τον... τελικό στην Ολλανδία!",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510749/olympiakos-pithanotero-shedio-gia-ton-teliko-stin-ollandia",
-          "pubDate": "Wed, 28 Jan 2026 08:59:00 +0200",
-          "description": "Ο Βάσκος προπονητής δεν προσανατολίζεται σύμφωνα με τις πληροφορίες και τις εκτιμήσεις να αλλάξει πολλά από την... συνταγή με Λεβερκούζεν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mendi_oly_ajax_1.jpg?itok=TfzQSyyn",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Συγκλονισμένος ο Άγγελος Αναστασιάδης για την τραγωδία του ΠΑΟΚ: «Έτρεμαν τα πόδια μου»",
-          "link": "https://www.newsit.gr/athlitika/sygklonismenos-o-aggelos-anastasiadis-gia-tin-tragodia-tou-paok-etreman-ta-podia-mou/4585354/",
-          "pubDate": "Wed, 28 Jan 2026 06:57:00 +0000",
-          "description": "Ο θρύλος του ΠΑΟΚ, Άγγελος Αναστασιάδης έζησε μία ακόμη τραγωδία με οπαδούς του “Δικεφάλου του Βορρά” και στις πρώτες του δηλώσεις σημείωσε τη δύσκολη ψυχολογική ...  \nTo άρθρο Συγκλονισμένος ο Άγγελος Αναστασιάδης για την τραγωδία του ΠΑΟΚ: «Έτρεμαν τα πόδια μου» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aggelos-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
