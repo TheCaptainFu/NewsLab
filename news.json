@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T18:40:29.789Z",
+  "lastUpdated": "2026-01-28T18:45:30.816Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,9 +9,17 @@
       "color": "red",
       "articles": [
         {
-          "title": "Αγωνία για νεογέννητο 5 ημερών, επείγουσα αεροδιακομιδή από τη Ρόδο στο Ηράκλειο",
+          "title": "Στο χειρουργείο μετά από επιπλοκή ένας από τους τραυματισμένους οπαδούς του ΠΑΟΚ, η ανάρτηση Γεωργιάδη\n",
+          "link": "https://www.protothema.gr/greece/article/1765039/sto-heirourgeio-auti-tin-ora-enas-apo-tous-traumatismenous-opadous-tou-paok-i-anartisi-georgiadi/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 20:40:43 +0200",
+          "description": "Η απόφαση ελήφθη από τους Ρουμάνους γιατρούς, μετά από νέα μαγνητική τομογραφία",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/troxaio-paok.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Αγωνία για νεογέννητο 5 ημερών, μεταφέρθηκε επειγόντως  από τη Ρόδο στο Ηράκλειο",
           "link": "https://www.protothema.gr/greece/article/1765038/agonia-gia-neogennito-5-imeron-epeigousa-aerodiakomidi-apo-ti-rodo-sto-irakleio/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 20:32:05 +0200",
+          "pubDate": "Wed, 28 Jan 2026 20:32:00 +0200",
           "description": "Το μικρό αγγελούδι ταξίδεψε από τη Ρόδο με το αεροσκάφος αεροδιακομιδών του ΕΚΑΒ και μεταφέρθηκε με ασφάλεια στη Μονάδα Εντατικής Θεραπείας Νεογνών",
           "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-28/paidi-diakomidi.png",
           "source": "Πρώτο Θέμα"
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 20:30:50 +0300",
           "description": "Η Ειρήνη Κουμαριανού πέθανε στις 25 Ιανουαρίου 2013.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/iriniaa-768x502.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Οργή στη Δανία: Η αμερικανική πρεσβεία αφαίρεσε τις σημαίες με τα ονόματα των πεσόντων Δανών στρατιωτών",
-          "link": "https://www.in.gr/2026/01/28/world/orgi-sti-dania-amerikaniki-presveia-afairese-tis-simaies-ta-onomata-ton-pesonton-danon-stratioton/",
-          "pubDate": "Wed, 28 Jan 2026 20:30:48 +0300",
-          "description": "Βετεράνοι στην Δανία εξέφρασαν έντονη αγανάκτηση προς την αμερικανική πρεσβεία στην Κοπεγχάγη, αφού αφαιρέθηκαν οι σημαίες που είχαν τοποθετηθεί προς τιμήν των στρατιωτών που σκοτώθηκαν στο Αφγανιστάν",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/a4fd03ac-eb3f-4281-87d0-634d30ab758b-768x422.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ρουμανία: Όλα τα ενδεχόμενα ανοιχτά για το δυστύχημα με οπαδούς του ΠΑΟΚ",
+          "link": "http://gr.euronews.com/2026/01/28/roymania-ola-ta-endexomena-anoixta-gia-to-dystyxhma-me-opadoys-toy-paok",
+          "pubDate": "Wed, 28 Jan 2026 19:38:40 +0100",
+          "description": "Σοκ και πένθος για την τραγωδία που στοίχισε τη ζωή σε επτά Έλληνες φιλάθλους. Οι αρχές διερευνούν κάθε πιθανό σενάριο.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Κουμπίλιους στο Euronews: Η ΕΕ δεν αντικαθιστά ακόμη το Starlink του Μασκ, αλλά είναι σε καλό δρόμο",
+          "link": "http://gr.euronews.com/my-europe/2026/01/28/the-eu-cannot-yet-replace-musks-starlink-but-is-on-the-right-track-kubilius-tells-euronews",
+          "pubDate": "Wed, 28 Jan 2026 19:32:23 +0100",
+          "description": "Ο επίτροπος Άμυνας της ΕΕ στο Euronews: οι ΗΠΑ είναι αναντικατάστατες στην ασφάλεια. «Με IRIS² θα είναι καλύτερο από το Starlink», όμως η ΕΕ δεν είναι ακόμη εκεί.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Υποψίες για ξέπλυμα χρήματος: ¨¨Έρευνες στην Deutsche Bank",
           "link": "http://gr.euronews.com/business/2026/01/28/ypopsies-gia-3eplyma-xrhmatos-ereynes-sthn-deutsche-bank",
           "pubDate": "Wed, 28 Jan 2026 19:18:13 +0100",
@@ -721,22 +737,6 @@
           "link": "http://gr.euronews.com/my-europe/2026/01/28/eu-xl-ai-kai-european-union-tha-prolavei-i-enosi",
           "pubDate": "Wed, 28 Jan 2026 15:22:56 +0100",
           "description": "Ο νόμος για την τεχνητή νοημοσύνη τοποθετεί τις Βρυξέλλες ως παγκόσμιο παράγοντα θέσπισης κανόνων, αλλά η υιοθέτηση και οι επενδύσεις στην τεχνητή νοημοσύνη παραμένουν χαμηλές. Μπορεί η Ευρώπη να καλύψει το χάσμα με τις ΗΠΑ και την Κίνα να επιμείνει; Παρακολουθήστε το βίντεο.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Μέσα στο εργαστήριο αποκατάστασης που διατηρεί το παρελθόν της Κεντρικής Ασίας",
-          "link": "http://gr.euronews.com/culture/2026/01/28/mesa-sto-ergasthrio-apokatastashs-poy-diathrei-to-parel8on-ths-kentrikhs-asias",
-          "pubDate": "Wed, 28 Jan 2026 15:00:29 +0100",
-          "description": "Καθώς είναι κάτι παραπάνω από ένας χώρος εργασίας, αυτό το εργαστήριο αποκατάστασης είναι το μέρος όπου το εύθραυστο παρελθόν της Κεντρικής Ασίας αποκαλύπτεται και διατηρείται μέσω της επιστήμης, της διαίσθησης και της υπομονής.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "PFAS: Τα «αιώνια» χημικά που βρίσκονται παντού και απειλούν την υγεία μας",
-          "link": "http://gr.euronews.com/green/2026/01/28/pfas-ta-aiwnia-xhmika-poy-briskontai-pantoy-kai-apeiloyn-thn-ygeia-mas",
-          "pubDate": "Wed, 28 Jan 2026 15:00:09 +0100",
-          "description": "Η υψηλή έκθεση σε PFAS σχετίζεται με αυξημένο κίνδυνο εμφάνισης ορισμένων μορφών καρκίνου, καθώς και με μειωμένη γονιμότητα και εξασθενημένη ανοσοποιητική λειτουργία. Η ΕΕ ενισχύει το κανονιστικό της οπλοστάσιο για να αντιμετωπίσει μία από τις μεγαλύτερες περιβαλλοντικές απειλές και ελάχιστα γνωστή",
           "thumbnail": null,
           "source": "Euronews"
         }
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Ερντέμ: «Πολύ σημαντικό για μένα – Αγαπώ τον Παναθηναϊκό και όλο τον κόσμο μας!»",
+          "link": "https://trifilara.gr/erntem-poly-simantiko-gia-mena-agapo-ton-panathinaiko-kai-olo-ton-kosmo-mas/?utm_source=rss&utm_medium=rss&utm_campaign=erntem-poly-simantiko-gia-mena-agapo-ton-panathinaiko-kai-olo-ton-kosmo-mas",
+          "pubDate": "Wed, 28 Jan 2026 18:43:38 +0000",
+          "description": "Όσα δήλωσε η Σελέν Ερντέμ μετά τη μεγάλη νίκη του Παναθηναϊκού με σκορ 88-85 στο ντέρμπι «αιωνίων» της Α1 Γυναικών.\nThe post Ερντέμ: «Πολύ σημαντικό για μένα – Αγαπώ τον Παναθηναϊκό και όλο τον κόσμο μας!» appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
           "title": "Ερντέμ: «Αγαπώ τον Παναθηναϊκό κι όλο τον κόσμο μας!» – Το «ευχαριστώ» της (vid)",
           "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/erntem-agapo-ton-panathinaiko-ki-olo-t/?utm_source=rss&utm_medium=rss&utm_campaign=erntem-agapo-ton-panathinaiko-ki-olo-t",
           "pubDate": "Wed, 28 Jan 2026 18:39:16 +0000",
@@ -1199,14 +1207,6 @@
           "description": "Aναβολή σε αγώνα του Παναθηναϊκού ελέω του πένθους για την τραγωδία με τους οπαδούς του ΠΑΟΚ.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/flagdefault-min.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Μπενίτεθ για Αντίνο: «Σε μια άσκηση δεν μπορούσε κανείς να τον σταματήσει!»",
-          "link": "https://trifilara.gr/benites-gia-andino-se-mia-askhsh-den-mporouse-kaneis-na-ton-stamathsei/?utm_source=rss&utm_medium=rss&utm_campaign=benites-gia-andino-se-mia-askhsh-den-mporouse-kaneis-na-ton-stamathsei",
-          "pubDate": "Wed, 28 Jan 2026 14:06:56 +0000",
-          "description": "Ο Ράφα Μπενίτεθ στις δηλώσεις του κατά την διάρκεια της συνέντευξης Τύπου αποθέωσε τον  Σαντίνο Αντίνο τονίζοντας πως βρίσκεται σε πολύ καλή κατάσταση.\nThe post Μπενίτεθ για Αντίνο: «Σε μια άσκηση δεν μπορούσε κανείς να τον σταματήσει!» appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         },
         {
           "title": "Ντόρτμουντ – Ίντερ με «Ενίσχυση» στην απόλυτη γερμανική παράδοση",
