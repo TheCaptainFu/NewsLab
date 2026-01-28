@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T21:55:26.013Z",
+  "lastUpdated": "2026-01-28T21:58:44.261Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Άγιαξ – Ολυμπιακός 1-2: Τεράστια ερυθρόλευκη νίκη στο Άμστερνταμ και πρόκριση στα playoffs του Champions League",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-1-2-terastia-erythroleyki-niki-sto-amsterntam-kai-prokrisi-sta-playoffs-tou-champions-league/4586134/",
+          "pubDate": "Wed, 28 Jan 2026 21:54:37 +0000",
+          "description": "Μια θρυλική βραδιά στην Ευρώπη! Ο Ολυμπιακός έδωσε μεγάλη “μάχη” στην έδρα του Άγιαξ και πήρε πανάξια πρόκριση στα playoffs του Champipons League. Οι “ερυθρόλευκοι” ...  \nTo άρθρο Άγιαξ – Ολυμπιακός 1-2: Τεράστια ερυθρόλευκη νίκη στο Άμστερνταμ και πρόκριση στα playoffs του Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ese-goal-eurokinissi-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Wall Street: Έντονη μεταβλητότητα υπό τη σκιά της Fed",
           "link": "https://www.newsit.gr/oikonomia/agores/wall-street-entoni-metavlitotita-ypo-ti-skia-tis-fed/4586269/",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 23:16:25 +0300",
           "description": "Ο Ζέλσον εκμεταλλεύτηκε την εξαιρετική πάσα του Ταρέμι και με ωραίο σουτ έστειλε την μπάλα στα δίχτυα",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828829-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τραγωδία στη Ρουμανία: Τι έσωσε τη ζωή των τριών τραυματιών – «Έκανε S στον δρόμο» λέει μάρτυρας του τροχαίου",
-          "link": "https://www.in.gr/2026/01/28/greece/tragodia-sti-roumania-ti-esose-ti-zoi-ton-trion-traymation-ekane-s-ston-dromo-leei-martyras-tou-troxaiou/",
-          "pubDate": "Wed, 28 Jan 2026 23:14:05 +0300",
-          "description": "Σύμφωνα με μάρτυρα της τραγωδίας στη Ρουμανία, ο οδηγός του μίνι βαν στο οποίο επέβαιναν οι φίλαθλοι του ΠΑΟΚ αντιλήφθηκε κατά τη διάρκεια της προσπέρασης ότι δεν μπορούσε να την ολοκληρώσει",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/roumania-troxaio-768x376.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Colombia launches search for missing plane carrying 15 people",
+          "link": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 21:54:32 GMT",
+          "description": "Contact with the aircraft was lost just minutes before it was due to land in northern Colombia, state airline Satena says.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a666/live/a3a35320-fc92-11f0-be91-9d19f55ba3e3.png",
+          "source": "BBC News"
+        },
+        {
           "title": "Η Ομοσπονδιακή Τράπεζα διατηρεί αμετάβλητα τα επιτόκια αν και ο Τραμπ θέλει τη μείωσή τους",
           "link": "http://gr.euronews.com/business/2026/01/28/h-omospondiakh-trapeza-diathrei-ametablhta-ta-epitokia-an-kai-o-tramp-8elei-th-meiwsh-toys",
           "pubDate": "Wed, 28 Jan 2026 22:46:07 +0100",
@@ -731,14 +739,6 @@
           "description": "Η καταιγίδα Κρίστιν σκότωσε 2 άνδρες στην Πορτογαλία, τραυματίες και 3.000 κλήσεις βοήθειας. Συνεχίζονται διακοπές ρεύματος, πολλοί δρόμοι και σχολεία κλειστά.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Man guilty of assault after Barron Trump reported attack to UK police",
-          "link": "https://www.bbc.com/news/articles/cd6wpdpylj1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 14:54:59 GMT",
-          "description": "Donald Trump's son told officers he had seen the victim being beaten up during a video call in January 2025.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca7/live/fe544c10-fc61-11f0-9972-d3f265c101c6.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,38 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Σεν Ζιλουάζ - Αταλάντα 1-0: Αποκλείστηκαν με ψηλά... το κεφάλι οι Βέλγοι",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511072/sen-ziloyaz-atalanta-1-0-apokleistikan-me-psila-kefali-oi-belgoi",
+          "pubDate": "Wed, 28 Jan 2026 23:57:30 +0200",
+          "description": "Η Ουνιόν Σεν Ζιλουάζ νίκησε την Αταλάντα με 1-0, ωστόσο αυτό δεν έφτασε για να καταφέρει να προλάβει την πρώτη 24αδα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/saintgilloise.jpg?itok=rXkqGCw-",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Επτά δουλειές με μεγάλο μισθό χωρίς πτυχίο",
+          "link": "https://www.gazzetta.gr/2436947/boyliazoyn-10-ipeirotikoi-proorismoi-gia-pasha",
+          "pubDate": "Wed, 28 Jan 2026 23:56:00 +0200",
+          "description": "Τα κορυφαία επτά επαγγέλματα για το 2026 όπου το μισθολόγιο εξακολουθεί να είναι υψηλό, χωρίς την κατοχή πανεπιστημιακού τίτλου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dj.png?itok=7dam_XB5",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγιαξ - Ολυμπιακός 1-2: Μέγας είσαι Θρύλε και θαυμαστά τα έργα σου!",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511071/agiax-olympiakos-1-2-megas-eisai-thryle-kai-thaymasta-ta-erga-soy",
+          "pubDate": "Wed, 28 Jan 2026 23:54:37 +0200",
+          "description": "Ο σπουδαίος Ολυμπιακός έγραψε ξανά ευρωπαϊκή ιστορία! Εστησε... λάβαρο πρόκρισης στο Αμστερνταμ, νίκησε με 2-1 (Zέλσον, Εσε) τον Άγιαξ και πέρασε 18ος στην επόμενη φάση του Champions League.  ΑΜΣΤΕΡΝΤΑΜ, αποστολή: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_14.jpg?itok=4tBDvIh0",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άγιαξ – Ολυμπιακός 1-2: Τεράστια ερυθρόλευκη νίκη στο Άμστερνταμ και πρόκριση στα playoffs του Champions League",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-1-2-terastia-erythroleyki-niki-sto-amsterntam-kai-prokrisi-sta-playoffs-tou-champions-league/4586134/",
+          "pubDate": "Wed, 28 Jan 2026 21:54:37 +0000",
+          "description": "Μια θρυλική βραδιά στην Ευρώπη! Ο Ολυμπιακός έδωσε μεγάλη “μάχη” στην έδρα του Άγιαξ και πήρε πανάξια πρόκριση στα playoffs του Champipons League. Οι “ερυθρόλευκοι” ...  \nTo άρθρο Άγιαξ – Ολυμπιακός 1-2: Τεράστια ερυθρόλευκη νίκη στο Άμστερνταμ και πρόκριση στα playoffs του Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ese-goal-eurokinissi-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Άγιαξ - Ολυμπιακός: Ο Ρέτσος απομακρύνει λίγο πριν η μπάλα περάσει τη γραμμή",
           "link": "https://www.gazzetta.gr/football/champions-league/2511070/agiax-olympiakos-o-retsos-apomakrynei-ligo-prin-i-mpala-perasei",
@@ -952,38 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 22:47:50 +0200",
           "description": "Με δύο γκολ του ΜακΆλιστερ και του Βιρτζ, η Λίβερπουλ προηγείται της Καραμπάγκ με 2-0.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mcallister.jpg?itok=qqgBiMh7",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Νάπολι - Τσέλσι: Ο Βεργκάρα έκανε τον... Μαραντόνα για το 1-1 (vid)",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511050/napoli-tselsi-o-bergkara-ekane-ton-marantona-gia-1-1-vid",
-          "pubDate": "Wed, 28 Jan 2026 22:43:26 +0200",
-          "description": "Απίθανο γκολ από τον Αντόνιο Βεργκάρα, ο οποίος έκανε ό,τι ήθελε την άμυνα της Τσέλσι και με γκολ αλά... Ντιέγκο Μαραντόνα ισοφάρισε 1-1 για τη Νάπολι.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vergara_napoli.jpg?itok=7DBB0esS",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ - Ολυμπιακός: Το γκολ του Ντόλμπεργκ που δεν μέτρησε για οφσάιντ",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511049/agiax-olympiakos-gkol-toy-ntolmpergk-poy-den-metrise-gia-ofsaint",
-          "pubDate": "Wed, 28 Jan 2026 22:42:34 +0200",
-          "description": "Στο 32' ο Άγιαξ βρήκε δίχτυα με τον Ντόλμπεργκ, ωστόσο η σημαία του βοηθού σηκώθηκε για οφσάιντ, κάτι που επιβεβαιώθηκε και από το VAR.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/var.jpg?itok=gtVGo7A2",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πανιώνιος – Λόντον Λάιονς 79-78: Ο Λιούις χάρισε τη νίκη στον Ιστορικό στο Eurocup",
-          "link": "https://www.newsit.gr/athlitika/panionios-lonton-laions-79-78-o-liouis-xarise-ti-niki-ston-istoriko-sto-eurocup/4586230/",
-          "pubDate": "Wed, 28 Jan 2026 20:40:36 +0000",
-          "description": "Ο Πανιώνιος επικράτησε με 79-78 των Λόντον Λάιονς στο κλειστό «Μάκης Λιούγκας», για τη 16η αγωνιστική του Eurocup, βελτιώνοντας σε 3-13 το ρεκόρ του στον ...  \nTo άρθρο Πανιώνιος – Λόντον Λάιονς 79-78: Ο Λιούις χάρισε τη νίκη στον Ιστορικό στο Eurocup δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lewis-1200x801.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μπενφίκα - Ρεάλ Μαδρίτης: Γκολ με κεφαλιά ο Μπαπέ",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511048/mpenfika-real-madritis-gkol-me-kefalia-o-mpape",
-          "pubDate": "Wed, 28 Jan 2026 22:37:13 +0200",
-          "description": "Η Ρεάλ Μαδρίτης έκανε το 1-0 ενάντια στην Μπενφίκα του Παυλίδη με κεφαλιά του Μπαπέ 30ό λεπτό του αγώνα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mbappe_0.jpg?itok=3fXhIa6I",
           "source": "Gazzetta"
         }
       ]
