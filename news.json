@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T13:05:23.987Z",
+  "lastUpdated": "2026-01-28T13:10:31.205Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τροχαίο με τους οπαδούς του ΠΑΟΚ: Τα πρόσωπα της τραγωδίας – Ήταν όλοι από 20 έως 30 ετών",
+          "link": "https://www.newsit.gr/uncategorized/troxaio-me-tous-opadous-tou-paok-ta-prosopa-tis-tragodias-itan-oloi-apo-20-eos-30-eton/4585730/",
+          "pubDate": "Wed, 28 Jan 2026 13:09:04 +0000",
+          "description": "Σοκαρισμένο παραμένει το πανελλήνιο από τον τραγικό θάνατο των επτά οπαδών του ΠΑΟΚ στο τροχαίο στη Ρουμανία το μεσημέρι της Τρίτης (27.1.26) και ενώ ταξίδευαν ...  \nTo άρθρο Τροχαίο με τους οπαδούς του ΠΑΟΚ: Τα πρόσωπα της τραγωδίας – Ήταν όλοι από 20 έως 30 ετών δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-2.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΟΚ: Συγκλονισμένοι και στη Ρουμανία από το πολύνεκρο δυστύχημα",
+          "link": "https://www.newsit.gr/athlitika/paok-sygklonismenoi-kai-sti-roumania-apo-to-polynekro-dystyxima/4585757/",
+          "pubDate": "Wed, 28 Jan 2026 13:07:42 +0000",
+          "description": "Το τραγικό δυστύχημα με τους 7 νεκρούς και τους 3 τραυματίες οπαδούς του ΠΑΟΚ, έχει συγκλονίσει και τη Ρουμανία, όπου και έλαβε χώρα το φρικτό ...  \nTo άρθρο ΠΑΟΚ: Συγκλονισμένοι και στη Ρουμανία από το πολύνεκρο δυστύχημα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-3.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΗΠΑ: Αυξήθηκαν τα επιτόκια στεγαστικών δανείων για πρώτη φορά σε τέσσερις εβδομάδες",
           "link": "https://www.newsit.gr/oikonomia/diethni/ipa-ayksithikan-ta-epitokia-stegastikon-daneion-gia-proti-fora-se-tesseris-evdomades/4585737/",
@@ -161,6 +177,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Κακοκαιρία Kristin: Τι ξέρουμε για το φαινόμενο που θα «χτυπήσει» τη χώρα",
+          "link": "https://www.in.gr/2026/01/28/greece/kakokairia-kristin-ti-kseroume-gia-fainomeno-pou-tha-xtypisei-ti-xora/",
+          "pubDate": "Wed, 28 Jan 2026 15:06:47 +0300",
+          "description": "Προ των πυλών νέα κακοκαιρία που αναμένεται να «χτυπήσει» τη χώρα την Πέμπτη - Τι λέει ο Τσατραφύλλιας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/PAN_1298-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Τουρκία: Εκδοτικός οίκος κατηγορείται για «χρηματοδότηση τρομοκρατίας»",
           "link": "https://www.newsit.gr/kosmos/tourkia-ekdotikos-oikos-katigoreitai-gia-xrimatodotisi-tromokratias/4585700/",
           "pubDate": "Wed, 28 Jan 2026 12:04:40 +0000",
@@ -223,30 +247,6 @@
           "description": "Το σοκαριστικό τροχαίο δυστύχημα στη Ρουμανία που στοίχησε τη ζωή σε 7 νέους ανθρώπους – οπαδούς του ΠΑΟΚ που ταξίδευαν στη Λυών για να στηρίξουν ...  \nTo άρθρο Ο Γρηγόρης Αρναούτογλου σταματά προσωρινά τις εκπομπές στο ραδιόφωνο σε ένδειξη πένθους για τους νεκρούς στη Βιολάντα και στο τροχαίο με τους οπαδούς του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grigoris-arnaoutoglou-ndp-1200x707.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Στο 1,74% το επιτόκιο στα τρίμηνα έντοκα γραμμάτια του Ελληνικού Δημοσίου",
-          "link": "https://www.newsit.gr/oikonomia/finance/sto-1-74-to-epitokio-sta-trimina-entoka-grammatia-tou-ellinikou-dimosiou/4585692/",
-          "pubDate": "Wed, 28 Jan 2026 11:51:55 +0000",
-          "description": "Με ελαφρώς αυξημένο επιτόκιο θα γίνει η διάθεση της νέας σειράς τρίμηνων εντόκων γραμματίων του Ελληνικού Δημοσίου. Συγκεκριμένα, στη δημοπρασία εντόκων γραμματίων του Ελληνικού Δημοσίου ...  \nTo άρθρο Στο 1,74% το επιτόκιο στα τρίμηνα έντοκα γραμμάτια του Ελληνικού Δημοσίου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-2013089711-2-1200x675-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Φίλιππος Σαχινίδης για Νίνα Κασιμάτη: «Αν θέλει να επιστρέψει στο ΠΑΣΟΚ, να ζητήσει άφεση αμαρτιών»",
-          "link": "https://www.newsit.gr/politikh/filippos-saxinidis-gia-nina-kasimati-an-thelei-na-epistrepsei-sto-pasok-na-zitisei-afesi-amartion/4585684/",
-          "pubDate": "Wed, 28 Jan 2026 11:50:33 +0000",
-          "description": "Με αιχμές, αλλά και με έναν… θρησκευτικό τόνο, σχολίασε ο πρώην υπουργός του ΠΑΣΟΚ, Φίλιππος Σαχινίδης, τα σενάρια που κυκλοφορούν περί ενδεχόμενης επιστροφής στη Χαριλάου ...  \nTo άρθρο Φίλιππος Σαχινίδης για Νίνα Κασιμάτη: «Αν θέλει να επιστρέψει στο ΠΑΣΟΚ, να ζητήσει άφεση αμαρτιών» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/filippos-sahinidis-pasok-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Διαρροή προπανίου σε φθαρμένο υπογειοποιημένο σωλήνα στη Βιολάντα - Ανακοινώσεις σε λίγο από την Πυροσβεστική ",
-          "link": "https://www.protothema.gr/greece/article/1764771/violada-anamenodai-anakoinoseis-apo-tin-purosvestiki-ola-deihnoun-diarroi-propaniou/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 13:50:00 +0200",
-          "description": "Η Πυροσβεστική εντόπισε και το σημείο της διαρροής – Πώς ξεκίνησε η πυρκαγιά, που προκάλεσε τον θάνατο των πέντε εργατριών",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/solinasert-xrm.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Πυρά ΣΥΡΙΖΑ κατά Π. Μαρινάκη με αιχμή τις δηλώσεις του για την τραγωδία στα Τρίκαλα",
+          "link": "https://www.naftemporiki.gr/politics/2065041/pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala/?utm_source=rss&utm_medium=rss&utm_campaign=pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala",
+          "pubDate": "Wed, 28 Jan 2026 13:06:35 +0000",
+          "description": "Πυρά κατά του κυβερνητικού εκπροσώπου με αιχμή τη δήλωσή του ότι το τραγικό δυστύχημα στα Τρίκαλα «δεν ακουμπάει θέματα εργασίας» εξαπολύει ο ΣΥΡΙΖΑ.\nΠυρά ΣΥΡΙΖΑ κατά Π. Μαρινάκη με αιχμή τις δηλώσεις του για την τραγωδία στα Τρίκαλα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Π. Μαρινάκης: Οι μεγαλύτεροι πολιτικοί απατεώνες κάνουν «καριέρα» πάνω σε τραγωδίες",
           "link": "https://www.naftemporiki.gr/politics/2065004/p-marinakis-oi-megalyteroi-politikoi-apateones-kanoyn-kariera-pano-se-tragodies/?utm_source=rss&utm_medium=rss&utm_campaign=p-marinakis-oi-megalyteroi-politikoi-apateones-kanoyn-kariera-pano-se-tragodies",
@@ -485,14 +493,6 @@
           "description": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης εξέφρασε τη βαθιά του θλίψη για το δυστύχημα με τους επτά νεκρούς οπαδούς του ΠΑΟΚ στη Ρουμανία",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/kiriakos-mitsotakis-3-1024x681.jpg",
           "source": "Τα Νέα"
-        },
-        {
-          "title": "Γεωργιάδης για τροχαίο στη Ρουμανία: «Οι τρεις τραυματίες έχουν συνείδηση»",
-          "link": "https://www.tovima.gr/2026/01/27/society/georgiadis-gia-troxaio-sti-roumania-oi-treis-traymaties-exoun-syneidisi/",
-          "pubDate": "Tue, 27 Jan 2026 17:37:44 +0300",
-          "description": "«Είμαστε έτοιμοι να παράσχουμε κάθε είδους βοήθεια που θα χρειαστεί ή να τους μεταφέρουμε στην Ελλάδα εάν αυτό κρίνουν οι γιατροί», σημείωσε σε ανάρτησή του ο υπουργός Υγείας για το τροχαίο στη Ρουμανία.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/01/21/Adonis-Georgiadis-1024x678.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
+          "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 13:05:30 GMT",
+          "description": "The killing of Alex Pretti over the weekend led Minnesota officials and locals to renew calls for Trump to end his immigration operation there.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2254/live/8dc47bd0-fbd7-11f0-8102-f9e135ba58e0.jpg",
+          "source": "BBC News"
+        },
         {
           "title": "'I don't let bullies win,' says US congresswoman Omar after substance thrown at her",
           "link": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
@@ -731,14 +739,6 @@
           "description": "Fifa had accused Malaysia's football association of doctoring citizenship documents.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc1/live/1f6dde60-fc2c-11f0-9554-45dc30088314.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Σφοδρές βροχές πλημμύρισαν τη γαλλική Βρετάνη, η περιφέρεια σε συναγερμό πλημμυρών",
-          "link": "http://gr.euronews.com/video/2026/01/28/heavy-rainfall-has-led-to-flooding-across-brittany-france-as-the-region-remains-under-floo",
-          "pubDate": "Wed, 28 Jan 2026 09:50:36 +0100",
-          "description": "Εναέριες εικόνες από πλημμυρισμένα χωράφια στα περίχωρα του Μαλστρουά, στο Μορμπιάν, ένα από τα τέσσερα διαμερίσματα της Βρετάνης σε συναγερμό για πλημμύρες από τη Météo-France.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,38 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: Ο Βρούτσης άφησε ανοιχτό το ενδεχόμενο αναβολής της αγωνιστικής του πρωταθλήματος",
+          "link": "https://www.gazzetta.gr/football/superleague/2510910/paok-dystyhima-sti-roymania-o-broytsis-afise-anoihto-endehomeno",
+          "pubDate": "Wed, 28 Jan 2026 15:09:17 +0200",
+          "description": "Ο Αναπληρωτής Υπουργός Αθλητισμού άφησε ανοικτό το ενδεχόμενο αναβολής της 19ης αγωνιστικής της Superleague.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-07/vroutsis_intime.jpg?itok=YkX_o80q",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Συγκλονισμένοι και στη Ρουμανία από το πολύνεκρο δυστύχημα",
+          "link": "https://www.newsit.gr/athlitika/paok-sygklonismenoi-kai-sti-roumania-apo-to-polynekro-dystyxima/4585757/",
+          "pubDate": "Wed, 28 Jan 2026 13:07:42 +0000",
+          "description": "Το τραγικό δυστύχημα με τους 7 νεκρούς και τους 3 τραυματίες οπαδούς του ΠΑΟΚ, έχει συγκλονίσει και τη Ρουμανία, όπου και έλαβε χώρα το φρικτό ...  \nTo άρθρο ΠΑΟΚ: Συγκλονισμένοι και στη Ρουμανία από το πολύνεκρο δυστύχημα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-3.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Παραλίγο ξύλο στο Θάντερ-Πέλικανς: Ο Ντορτ γράπωσε από την φανέλα τον Φίαρς (vid)",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510908/paraligo-xylo-sto-thanter-pelikans-o-ntort-grapose-apo-tin-fanela-ton-fiars",
+          "pubDate": "Wed, 28 Jan 2026 15:06:38 +0200",
+          "description": "Το ματς των Θάντερ με τους Πέλικανς δεν ήταν ήρεμο και ο Ντορτ παραλίγο να το τινάξει στον... αέρα στο τέλος.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dort.jpg?itok=Wfk1pDOO",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμάνια: Το συλλυπητήριο μήνυμα του Φονσέκα και του Μεϊτλαντ-Νάιλς στη συνέντευξη Τύπου",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510907/paok-dystyhima-sti-roymania-syllypitirio-minyma-toy-fonseka-kai-toy",
+          "pubDate": "Wed, 28 Jan 2026 15:06:24 +0200",
+          "description": "Τόσο ο προπονητής της Λιόν, Πάουλο Φονσέκα όσο και ο Εϊνσλέι Μέιτλαντ-Νάιλς έδειξαν τη στήριξή τους για τους επτά αδικοχαμένους οπαδούς του ΠΑΟΚ μιλώντας στη συνέντευξη Τύπου.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-12/fonseca_milan.jpg?itok=f91cR5tR",
+          "source": "Gazzetta"
+        },
         {
           "title": "Άρης: Επιβεβαιώνει τη συμφωνία με τον Μπενχαμίν Γκαρέ",
           "link": "https://www.gazzetta.gr/football/superleague/2510906/aris-epibebaionei-ti-symfonia-me-ton-mpenhamin-gkare",
@@ -791,7 +823,7 @@
           "link": "https://www.gazzetta.gr/football/champions-league/2510903/oi-odigies-stoys-opadoys-toy-olympiakoy-sta-ellinika-horis",
           "pubDate": "Wed, 28 Jan 2026 14:46:05 +0200",
           "description": "Η κεντρική πλατεία του Άμστερνταμ έχει πάρει ερυθρόλευκο χρώμα και παντού υπάρχουν ταμπέλες με οδηγίες στα ελληνικά. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dam.jpg?itok=j30RLD9X",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sima-dala.jpeg?itok=U0xUKh2U",
           "source": "Gazzetta"
         },
         {
@@ -952,38 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 11:35:15 +0000",
           "description": "Ο ΠΑΟΚ βυθίστηκε στο πένθος από το θάνατο 7 οπαδών του στη Ρουμανία και ολόκληρο το ελληνικό ποδόσφαιρο θρηνεί για την απώλειά τους, με τη ...  \nTo άρθρο Super League: Ενός λεπτού σιγή σε όλους τους αγώνες της για τους νεκρούς οπαδούς του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tumba-2-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Ενός λεπτού σιγή στα ματς της Super League",
-          "link": "https://www.gazzetta.gr/football/superleague/2510886/paok-dystyhima-sti-roymania-enos-leptoy-sigi-sta-mats-tis-super-league",
-          "pubDate": "Wed, 28 Jan 2026 13:32:28 +0200",
-          "description": "Η απόφαση της Super League για την τήρηση ενός λεπτού σιγής για τα επτά αετόπουλα του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_5_0.jpg?itok=oo3JyWOq",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Νέα SEAT Ibiza και Arona: Ανανεωμένα και με ανταγωνιστικές τιμές",
-          "link": "https://www.gazzetta.gr/gmotion/2510644/nea-seat-ibiza-kai-arona-ananeomena-kai-me-antagonistikes-times",
-          "pubDate": "Wed, 28 Jan 2026 13:30:00 +0200",
-          "description": "Η SEAT αναβαθμίζει τα δύο δημοφιλέστερα μοντέλα της με φρέσκια σχεδίαση και πλούσιο εξοπλισμό, προσφέροντας το Ibiza από 16.690€ και το Arona από 18.990€.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/new_seat_ibiza.jpg?itok=YyGwtwwt",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τι περιέχει το «κουτί της αποκάλυψης» που σχεδιάστηκε για ανάκαμψη μετά από παγκόσμια καταστροφή (vid)",
-          "link": "https://www.gazzetta.gr/plus/2510870/ti-periehei-koyti-tis-apokalypsis-poy-shediastike-gia-anakampsi-meta-apo-pagkosmia",
-          "pubDate": "Wed, 28 Jan 2026 13:29:03 +0200",
-          "description": "Πριν από 25 χρόνια σχεδιάστηκε στο Σάσεξ του Ηνωμένου Βασιλείου ένα τεράστιο θησαυροφυλάκιο, το οποίο θα βοηθήσει τον κόσμο να ανακάμψει μετά από παγκόσμια καταστροφή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ssssdd.jpg?itok=Q4g-pPr1",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αναβλήθηκε το ΠΑΟΚ – Μύκονος Betsson λόγω του πένθους στους Θεσσαλονικείς",
-          "link": "https://www.newsit.gr/athlitika/anavlithike-to-paok-mykonos-betsson-logo-tou-penthous-stous-thessalonikeis/4585665/",
-          "pubDate": "Wed, 28 Jan 2026 11:28:44 +0000",
-          "description": "Ο ΠΑΟΚ πενθεί για το χαμό 7 οπαδών του στο τραγικό δυστύχημα της Ρουμανίας και ζήτησε από την GBL να αναβληθεί ο αγώνας του με ...  \nTo άρθρο Αναβλήθηκε το ΠΑΟΚ – Μύκονος Betsson λόγω του πένθους στους Θεσσαλονικείς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/10/paokbc-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
