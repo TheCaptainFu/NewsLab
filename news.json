@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T15:40:27.417Z",
+  "lastUpdated": "2026-01-28T15:45:32.227Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Eπίδομα Παιδιού και Στέγασης, Ελάχιστο Εγγυημένο Εισόδημα και Αναπηρικά – Πάνω από 197 εκατ. ευρώ καταβάλλει ο ΟΠΕΚΑ σε ενισχύσεις την Παρασκευή 30 Ιανουαρίου",
+          "link": "https://www.newsit.gr/oikonomia/xristika/epidoma-paidiou-kai-stegasis-elaxisto-eggyimeno-eisodima-kai-anapirika-pano-apo-197-ekat-eyro-katavallei-o-opeka-se-enisxyseis-tin-paraskeyi-30-ianouariou/4585957/",
+          "pubDate": "Wed, 28 Jan 2026 15:41:19 +0000",
+          "description": "Σειρά κοινωνικών επιδομάτων για τον μήνα Ιανουάριο, όπως Επίδομα Παιδιού, Επίδομα Στέγασης, Αναπηρικά επιδόματα κ.α. αναμένεται να καταβληθούν από τον ΟΠΕΚΑ την Παρασκευή (30.01.2026) σύμφωνα ...  \nTo άρθρο Eπίδομα Παιδιού και Στέγασης, Ελάχιστο Εγγυημένο Εισόδημα και Αναπηρικά – Πάνω από 197 εκατ. ευρώ καταβάλλει ο ΟΠΕΚΑ σε ενισχύσεις την Παρασκευή 30 Ιανουαρίου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-847815224-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Κυριάκος Μητσοτάκης για την εκλογή νέων Μητροπολιτών στην Κρήτη: «Ξεκινά μια νέα εποχή με μήνυμα ενότητας και ελπίδας»",
           "link": "https://www.newsit.gr/politikh/kyriakos-mitsotakis-gia-tin-eklogi-neon-mitropoliton-stin-kriti-ksekina-mia-nea-epoxi-me-minyma-enotitas-kai-elpidas/4585949/",
@@ -177,6 +185,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Έρχεται νέο «Ανακαινίζω» – Πότε «ανοίγει»",
+          "link": "https://www.in.gr/2026/01/28/economy/erxetai-neo-anakainizo-pote-anoigei/",
+          "pubDate": "Wed, 28 Jan 2026 17:40:41 +0300",
+          "description": "Νέο πρόγραμμα «Ανακαινίζω» ανήγγειλε ο υφυπουργός Εθνικής Οικονομίας και Οικονομικών, Νίκος Παπαθανάσης",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/immo-renovation-UqNEbyRQ660-unsplash-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Κακοκαιρία Kristin: Συστάσεις της Πολιτικής Προστασίας στους πολίτες",
           "link": "https://www.in.gr/2026/01/28/greece/kakokairia-kristin-systaseis-tis-politikis-prostasias-stous-polites/",
           "pubDate": "Wed, 28 Jan 2026 17:38:42 +0300",
@@ -231,22 +247,6 @@
           "description": "Μέγα γκάφα έκανε η Amazon αφού έστειλε κατά λάθος email που αποκάλυψε τις απολύσεις 16.000 υπαλλήλων, πριν καν ενημερώσει τους ίδιους τους εργαζόμενους. Ο αμερικανικός ...  \nTo άρθρο Γκάφα της Amazon: Έστειλε κατά λάθος το email που αποκάλυπτε τις απολύσεις 16.000 υπαλλήλων δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/amazon-1200x763.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "ΝΑΤΟ: Η «εξαιρετική σχέση» Ρούτε-Τραμπ φέρνει τον γενικό γραμματέα σε σύγκρουση με τις ευρωπαϊκές πρωτεύουσες",
-          "link": "https://www.in.gr/2026/01/28/world/nato-eksairetiki-sxesi-route-tramp-fernei-ton-geniko-grammatea-se-sygkrousi-tis-eyropaikes-proteyouses/",
-          "pubDate": "Wed, 28 Jan 2026 17:28:48 +0300",
-          "description": "Οι στενές σχέσεις που καλλιεργεί ο γ.γ. του ΝΑΤΟ με τον Τραμπ έχει προκαλέσει ανησυχία στις ευρωπαϊκές πρωτεύουσες. Φοβούνται ότι ο Ρούτε λειτουργεί ως εκπρόσωπος του Αμερικανού προέδρου στη Συμμαχία.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-23T010314Z_1231346018_RC2U5JAG5J2O_RTRMADP_5_USA-EUROPE-DILEMMAS-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Σύγκρουση Λαζαρίδη και Χρηστίδη στη Βουλή για τα Ίμια: «Οδηγήσατε τους τρεις ήρωες στον θάνατο» – «Να ανακαλέσει το “γκριζάρισμα” στο Αιγαίο»",
-          "link": "https://www.newsit.gr/politikh/sygkrousi-lazaridi-kai-xristidi-sti-vouli-gia-ta-imia-odigisate-tous-treis-iroes-ston-thanato-na-anakalesei-to-gkrizarisma-sto-aigaio/4585850/",
-          "pubDate": "Wed, 28 Jan 2026 14:22:26 +0000",
-          "description": "Σε μείζον πεδίο πολιτικής αντιπαράθεσης εξελίχθηκε στη Βουλή το ζήτημα των Ιμίων και των κυριαρχικών δικαιωμάτων της χώρας, κατά τη συζήτηση του νομοσχεδίου του Υπουργείου ...  \nTo άρθρο Σύγκρουση Λαζαρίδη και Χρηστίδη στη Βουλή για τα Ίμια: «Οδηγήσατε τους τρεις ήρωες στον θάνατο» – «Να ανακαλέσει το “γκριζάρισμα” στο Αιγαίο» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/makarios-lazaridis-nd-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "«Μετωπική» Λαζαρίδη-Χρηστίδη στη Βουλή για τα Ίμια: «Το ΠΑΣΟΚ οδήγησε στο γκριζάρισμα του Αιγαίου» – «Να ανακαλέσετε»",
+          "link": "https://www.naftemporiki.gr/politics/2065159/metopiki-lazaridi-christidi-sti-voyli-gia-ta-imia-to-pasok-odigise-sto-gkrizarisma-toy-aigaioy-na-anakalesete/?utm_source=rss&utm_medium=rss&utm_campaign=metopiki-lazaridi-christidi-sti-voyli-gia-ta-imia-to-pasok-odigise-sto-gkrizarisma-toy-aigaioy-na-anakalesete",
+          "pubDate": "Wed, 28 Jan 2026 15:44:53 +0000",
+          "description": "Έντονη αντιπαράθεση σημειώθηκε νωρίτερα σήμερα στη Βουλή μεταξύ του κοινοβουλευτικού εκπροσώπου της ΝΔ, Μακάριου Λαζαρίδη και του κοινοβουλευτικού εκπροσώπου του ΠΑΣΟΚ, Παύλου Χρηστίδη, με φόντο την κρίση των Ιμίων.\n«Μετωπική» Λαζαρίδη-Χρηστίδη στη Βουλή για τα Ίμια: «Το ΠΑΣΟΚ οδήγησε στο γκριζάρισμα του Αιγαίου» – «Να ανακαλέσετε» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Ν. Ανδρουλάκης: Είστε υπόλογοι για τη βαθιά θεσμική κρίση – Δεν θα επιτρέψουμε να συνεχιστεί ο θεσμικός κατήφορος",
           "link": "https://www.naftemporiki.gr/politics/2065155/n-androylakis-eiste-ypologoi-gia-ti-vathia-thesmiki-krisi-den-tha-epitrepsoyme-na-synechistei-o-thesmikos-katiforos/?utm_source=rss&utm_medium=rss&utm_campaign=n-androylakis-eiste-ypologoi-gia-ti-vathia-thesmiki-krisi-den-tha-epitrepsoyme-na-synechistei-o-thesmikos-katiforos",
@@ -485,14 +493,6 @@
           "description": "«Οι ευρωπαίοι αλιείς δεν θα ωφεληθούν από την επαναδιαπραγμάτευση  της ΚΟΙΝΗΣ ΑΛΙΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ , που έχει ήδη αποδειχθεί αποτελεσματική» - Το κείμενο γράφτηκε για το POLITICO το οποίο παραχώρησε το δικαίωμα ταυτόχρονης δημοσίευσης στο ΒΗΜΑ.",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/fishboat-1024x680.jpg",
           "source": "Το Βήμα"
-        },
-        {
-          "title": "Πηγές ΠΑΣΟΚ: Η στρεψοδικία και η προπαγάνδα δεν έχουν όρια για τη ΝΔ και τους αήθεις εντολοδόχους της",
-          "link": "https://www.naftemporiki.gr/politics/2064717/piges-pasok-i-strepsodikia-kai-i-propaganda-den-echoyn-oria-gia-ti-nd-kai-toys-aitheis-entolodochoys-tis/?utm_source=rss&utm_medium=rss&utm_campaign=piges-pasok-i-strepsodikia-kai-i-propaganda-den-echoyn-oria-gia-ti-nd-kai-toys-aitheis-entolodochoys-tis",
-          "pubDate": "Tue, 27 Jan 2026 18:39:29 +0000",
-          "description": "«Η σημερινή εξέταση του πρώην Υπουργού Αγροτικής Ανάπτυξης και Τροφίμων, κ. Κώστα Σκανδαλίδη, στην Εξεταστική Επιτροπή για τον ΟΠΕΚΕΠΕ επιβεβαίωσε αυτό που ο σύλλογος κτηνοτρόφων του Νομού Καβάλας έχει επισημάνει,…\nΠηγές ΠΑΣΟΚ: Η στρεψοδικία και η προπαγάνδα δεν έχουν όρια για τη ΝΔ και τους αήθεις εντολοδόχους της - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
         }
       ]
     },
@@ -500,6 +500,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)",
       "color": "blue",
       "articles": [
+        {
+          "title": "Is the US preparing to strike Iran?",
+          "link": "https://www.bbc.com/news/articles/cly5pd98z87o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 15:36:11 GMT",
+          "description": "Satellite images show a steady and significant build-up of US military forces in the region.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/020f/live/81653710-fc51-11f0-9aca-0d1869acdee8.jpg",
+          "source": "BBC News"
+        },
         {
           "title": "US YouTube star IShowSpeed to get Ghanaian passport as Africa tour ends",
           "link": "https://www.bbc.com/news/articles/czx12q8qnweo?at_medium=RSS&at_campaign=rss",
@@ -731,14 +739,6 @@
           "description": "Οι εντάσεις γύρω από την εμπορική συμφωνία ΕΕ-Mercosur δεν φαίνεται να πρόκειται να εκλείψουν. Πολλοί επικριτές υποστηρίζουν ότι θα οδηγήσει σε πλημμύρα τοξικών προϊόντων στην ευρωπαϊκή αγορά, αλλά πόσο αληθινό είναι αυτό;",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Former Iraqi PM Maliki denounces Trump threats to end support if he returns to power",
-          "link": "https://www.bbc.com/news/articles/cn0kpk3drgjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 11:44:34 GMT",
-          "description": "The US president said Iraq would have \"zero\" chance of success without American support.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce8/live/acec9ec0-fbeb-11f0-a47f-d352a7d9988a.jpg",
-          "source": "BBC News"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Κατοικία: Η… κρυφή αιτία που μειώνει την αξία των διαμερισμάτων στην Ελλάδα έως και 20%",
+          "link": "https://www.gazzetta.gr/plus/2510941/katoikia-i-kryfi-aitia-poy-meionei-tin-axia-ton-diamerismaton-stin-ellada-eos-kai-20",
+          "pubDate": "Wed, 28 Jan 2026 17:43:00 +0200",
+          "description": "111111",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/spitia-athina.jpg?itok=6PSH4oZ6",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Γεμίζει με ερυθρόλευκους φιλάθλους η Damm Square (vid)",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510949/olympiakos-gemizei-me-erythroleykoys-filathloys-i-damm-square-vid",
+          "pubDate": "Wed, 28 Jan 2026 17:40:42 +0200",
+          "description": "Το Άμστερνταμ χορεύει από νωρίς στους ρυθμούς των συνθημάτων των φίλων του Ολυμπιακού. ΑΠΟΣΤΟΛΗ ΣΤΗΝ ΟΛΛΑΝΔΙΑ ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kosmos_1_oly_2.jpg?itok=Padfzrvx",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Ενός λεπτού σιγή στην αγωνιστική των Ρουμάνων",
           "link": "https://www.gazzetta.gr/football/2510948/paok-dystyhima-sti-roymania-enos-leptoy-sigi-stin-agonistiki-tis-roymanias",
@@ -767,7 +783,7 @@
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510945/apokalypsi-kalkaboyra-sto-gazz-floor-novibet-o-tsoys-mpoyeno-ehei-ton",
           "pubDate": "Wed, 28 Jan 2026 17:31:25 +0200",
           "description": "Ο Αντώνης Καλκαβούρας αποκάλυψε στο Glass Floor By NoviBet το επικρατέστερο όνομα που βρίσκεται στα σχέδια της EuroLeague, για να αναλάβει ως νέο CEO της διοργάνωσης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages_bueno.jpg?itok=5979mhSz",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kalkavouras_0.jpg?itok=7zuzJluv",
           "source": "Gazzetta"
         },
         {
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 16:10:22 +0200",
           "description": "Τι δείχνουν τα δεδομένα για ένα ρόφημα που θεωρείται «αθώο», αλλά μπορεί να επηρεάζει τον κιρκάδιο ρυθμό και την ποιότητα του ύπνου.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dan-gold-tlqebgku1di-unsplash.jpg?itok=bpV9UqDr",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Αντιπροσωπεία της ΠΑΕ Άρης στην Τούμπα για να τιμήσει τη μνήμη των οπαδών του Δικεφάλου",
-          "link": "https://www.gazzetta.gr/football/superleague/2510924/paok-dystyhima-sti-roymania-antiprosopeia-tis-pae-aris-stin-toympa-gia",
-          "pubDate": "Wed, 28 Jan 2026 16:05:54 +0200",
-          "description": "Σε μία συγκινητική κίνηση προχώρησαν οι άνθρωποι της ΠΑΕ Άρης καθώς αντιπροσωπεία της ομάδας βρέθηκε στην Τούμπα για να τιμήσει του επτά αδικοχαμένους οπαδούς του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aris_1.jpg?itok=Qp4Mvub-",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Ο κίνδυνος να χαλάσει η Αστυνομία τα σχέδια των οπαδών του",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510923/olympiakos-o-kindynos-na-halasei-i-astynomia-ta-shedia-ton-filon",
-          "pubDate": "Wed, 28 Jan 2026 16:01:23 +0200",
-          "description": "Τα σημεία όπου μπορούν οι πάνω από 7.000 φίλοι του Ολυμπιακού να δουν το ματς από την τηλεόραση κι ο κίνδυνος να μην καταφέρουν ούτε αυτό! ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/astynomia-dala.jpg?itok=b41UusJD",
           "source": "Gazzetta"
         }
       ]
