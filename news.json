@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T22:50:27.555Z",
+  "lastUpdated": "2026-01-28T22:55:26.760Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βαγγέλης Μαρινάκης: «Μεγάλη παλικαρίσια πρόκριση, το αξίζαμε – Ζήτω ο Ολυμπιακός»",
+          "link": "https://www.newsit.gr/athlitika/vaggelis-marinakis-megali-palikarisia-prokrisi-to-aksizame-zito-o-olympiakos/4586306/",
+          "pubDate": "Wed, 28 Jan 2026 22:53:04 +0000",
+          "description": "Το δικό του μήνυμα για την μεγάλη πρόκριση του Ολυμπιακού στα πλέι οφ του Champions League έστειλε ο Βαγγέλης Μαρινάκης. Ο Ολυμπιακός νίκησε τον Άγιαξ ...  \nTo άρθρο Βαγγέλης Μαρινάκης: «Μεγάλη παλικαρίσια πρόκριση, το αξίζαμε – Ζήτω ο Ολυμπιακός» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marinakis1-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Champions League: Η Μπενφίκα με γκολ του τερματοφύλακά της πήρε απίθανη πρόκριση, η Άρσεναλ έκανε το απόλυτο και τερμάτισε πρώτη",
+          "link": "https://www.newsit.gr/athlitika/champions-league-i-mpenfika-me-gkol-tou-termatofylaka-tis-pire-apithani-prokrisi-i-arsenal-ekane-to-apolyto-kai-termatise-proti/4586304/",
+          "pubDate": "Wed, 28 Jan 2026 22:51:10 +0000",
+          "description": "Πολλές «βόμβες» έφερε η τελευταία αγωνιστική της League Phase του Champions League, με τη μεγαλύτερη να «πυροδοτείται» στη Λισαβόνα, όπου η Μπενφίκα άφησε εκτός οκτάδας ...  \nTo άρθρο Champions League: Η Μπενφίκα με γκολ του τερματοφύλακά της πήρε απίθανη πρόκριση, η Άρσεναλ έκανε το απόλυτο και τερμάτισε πρώτη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/benfica-2-1200x787.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Champions League: Τα πιθανά ζευγάρια της φάσης των 16 – Με Άρσεναλ ή Μπάγερν Μονάχου ο Ολυμπιακός",
           "link": "https://www.newsit.gr/athlitika/champions-league-ta-pithana-zeygaria-tis-fasis-ton-16-me-arsenal-i-mpagern-monaxou-o-olympiakos/4586301/",
@@ -105,8 +121,16 @@
           "source": "NewsIT"
         },
         {
+          "title": "Το μήνυμα του Βαγγέλη Μαρινάκη για τον θρίαμβο του Ολυμπιακού στο Άμστερνταμ (pic)",
+          "link": "https://www.in.gr/2026/01/29/sports/football/minyma-tou-vaggeli-marinaki-gia-ton-thriamvo-tou-olympiakou-sto-amsterntam-pic/",
+          "pubDate": "Thu, 29 Jan 2026 00:52:39 +0300",
+          "description": "«Μια μεγάλη παλικαρίσια πρόκριση. Συγχαρητήρια στην ομάδα μας και τον υπέροχο κόσμο μας», σημειώνει, μεταξύ άλλων, στο συγχαρητήριο μήνυμά του, ο ισχυρός άνδρας της ΠΑΕ Ολυμπιακός, Βαγγέλης Μαρινάκης.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6751462-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Έσε: «Δείξαμε πως μπορούμε να αντιμετωπίσουμε οποιονδήποτε αντίπαλο»",
-          "link": "https://www.in.gr/2026/01/29/sports/football/ese-deiksame-pos-mporoume-na-antimetopisoume-opoiondipote-antipalo/",
+          "link": "https://www.in.gr/2026/01/29/sports/football/champions-league/ese-deiksame-pos-mporoume-na-antimetopisoume-opoiondipote-antipalo/",
           "pubDate": "Thu, 29 Jan 2026 00:48:37 +0300",
           "description": "Με γκολ του Σαντιάγκο Έσε ο Ολυμπιακός νίκησε με 2-1 τον Άγιαξ και ο Αργεντινός παίκτης μίλησε για το ματς αλλά και για την επόμενη μέρα των Πειραιωτών",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ΕΣΕ-768x512.jpg",
@@ -222,30 +246,6 @@
           "pubDate": "Thu, 29 Jan 2026 00:22:39 +0300",
           "description": "Ο Ολυμπιακός έλαμψε για μια ακόμη βραδιά στην Ευρώπη, παίρνοντας το εισιτήριο για τα πλέι οφ του Champions League, μετά το εκτός έδρας 2-1 επί του Αγιαξ",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ολυμπιακος-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ο Βαγγέλης Παυλίδης είχε γκολ και ασίστ στο Μπενφίκα – Ρεάλ Μαδρίτης",
-          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-eixe-gkol-kai-asist-sto-mpenfika-real-madritis/4586259/",
-          "pubDate": "Wed, 28 Jan 2026 21:16:23 +0000",
-          "description": "Ο Βαγγέλης Παυλίδης ήταν ο μεγάλος πρωταγωνιστής της Μπενφίκα στο πρώτο ημίχρονο του αγώνα με τη Ρεάλ Μαδρίτης στην Πορτογαλία για το Champions League. Η ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης είχε γκολ και ασίστ στο Μπενφίκα – Ρεάλ Μαδρίτης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-benfica-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ραντεβού και του χρόνου στη League Phase του Champions League αν πάρει το πρωτάθλημα ο Ολυμπιακός",
-          "link": "https://www.in.gr/2026/01/29/sports/football/champions-league/rantevou-kai-tou-xronou-sti-league-phase-tou-champions-league-parei-protathlima-o-olympiakos/",
-          "pubDate": "Thu, 29 Jan 2026 00:16:12 +0300",
-          "description": "Ο Ολυμπιακός έχει πλέον ευρωπαϊκό συντελεστή που δεν μπορούν να φτάσουν ούτε η Ρέιντζερς, ούτε η Κοπεγχάγη, αν φυσικά στεφθούν πρωταθλήτριες",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/zelson-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Οργή στη Γαλλία για τις δηλώσεις Ρούτε περί ΗΠΑ και ευρωπαϊκής άμυνας",
-          "link": "https://www.in.gr/2026/01/29/world/orgi-sti-gallia-gia-tis-diloseis-route-peri-ipa-kai-eyropaikis-amynas/",
-          "pubDate": "Thu, 29 Jan 2026 00:15:51 +0300",
-          "description": "Πυρά ομαδόν από Ευρωπαίους αξιωματούχους κατά του γενικού γραμματέα του ΝΑΤΟ, Μαρκ Ρούτε – Στη Γαλλία θίχτηκαν",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T151710Z_615115665_RC219JAVLVSN_RTRMADP_5_USA-TRUMP-GREENLAND-NATO-768x511.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Εκτοξεύτηκαν στα 42 εκατ. ευρώ τα έσοδά του!",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511095/olympiakos-ektoxeytikan-sta-42-ekat-eyro-ta-esoda-toy",
+          "pubDate": "Thu, 29 Jan 2026 00:53:51 +0200",
+          "description": "Ο Ολυμπιακός δεν πέτυχε μόνο μία σπουδαία πρόκριση για την συνέχεια του Champions League αλλά βγαίνει και κερδισμένος οικονομικά.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_pan_hezze_1.jpg?itok=BFzCEzZ3",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Βαγγέλης Μαρινάκης: «Μεγάλη παλικαρίσια πρόκριση, το αξίζαμε – Ζήτω ο Ολυμπιακός»",
+          "link": "https://www.newsit.gr/athlitika/vaggelis-marinakis-megali-palikarisia-prokrisi-to-aksizame-zito-o-olympiakos/4586306/",
+          "pubDate": "Wed, 28 Jan 2026 22:53:04 +0000",
+          "description": "Το δικό του μήνυμα για την μεγάλη πρόκριση του Ολυμπιακού στα πλέι οφ του Champions League έστειλε ο Βαγγέλης Μαρινάκης. Ο Ολυμπιακός νίκησε τον Άγιαξ ...  \nTo άρθρο Βαγγέλης Μαρινάκης: «Μεγάλη παλικαρίσια πρόκριση, το αξίζαμε – Ζήτω ο Ολυμπιακός» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marinakis1-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Champions League: Η Μπενφίκα με γκολ του τερματοφύλακά της πήρε απίθανη πρόκριση, η Άρσεναλ έκανε το απόλυτο και τερμάτισε πρώτη",
+          "link": "https://www.newsit.gr/athlitika/champions-league-i-mpenfika-me-gkol-tou-termatofylaka-tis-pire-apithani-prokrisi-i-arsenal-ekane-to-apolyto-kai-termatise-proti/4586304/",
+          "pubDate": "Wed, 28 Jan 2026 22:51:10 +0000",
+          "description": "Πολλές «βόμβες» έφερε η τελευταία αγωνιστική της League Phase του Champions League, με τη μεγαλύτερη να «πυροδοτείται» στη Λισαβόνα, όπου η Μπενφίκα άφησε εκτός οκτάδας ...  \nTo άρθρο Champions League: Η Μπενφίκα με γκολ του τερματοφύλακά της πήρε απίθανη πρόκριση, η Άρσεναλ έκανε το απόλυτο και τερμάτισε πρώτη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/benfica-2-1200x787.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ολυμπιακός: Οι τέσσερις φορές στο παρελθόν που βρέθηκε στα νοκ άουτ του Champions League",
           "link": "https://www.gazzetta.gr/football/champions-league/2511094/olympiakos-oi-tesseris-fores-sto-parelthon-poy-brethike-sta-nok",
           "pubDate": "Thu, 29 Jan 2026 00:46:53 +0200",
@@ -960,30 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 23:56:00 +0200",
           "description": "Τα κορυφαία επτά επαγγέλματα για το 2026 όπου το μισθολόγιο εξακολουθεί να είναι υψηλό, χωρίς την κατοχή πανεπιστημιακού τίτλου.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dj.png?itok=7dam_XB5",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αγιαξ - Ολυμπιακός 1-2: Μέγας είσαι Θρύλε και θαυμαστά τα έργα σου!",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511071/agiax-olympiakos-1-2-megas-eisai-thryle-kai-thaymasta-ta-erga-soy",
-          "pubDate": "Wed, 28 Jan 2026 23:54:37 +0200",
-          "description": "Ο σπουδαίος Ολυμπιακός έγραψε ξανά ευρωπαϊκή ιστορία! Εστησε... λάβαρο πρόκρισης στο Αμστερνταμ, νίκησε με 2-1 τον Άγιαξ και πέρασε 18ος στην επόμενη φάση του Champions League.  ΑΜΣΤΕΡΝΤΑΜ, αποστολή: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_14.jpg?itok=4tBDvIh0",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός 1-2: Τεράστια ερυθρόλευκη νίκη στο Άμστερνταμ και πρόκριση στα playoffs του Champions League",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-1-2-terastia-erythroleyki-niki-sto-amsterntam-kai-prokrisi-sta-playoffs-tou-champions-league/4586134/",
-          "pubDate": "Wed, 28 Jan 2026 21:54:37 +0000",
-          "description": "Μια θρυλική βραδιά στην Ευρώπη! Ο Ολυμπιακός έδωσε μεγάλη “μάχη” στην έδρα του Άγιαξ και πήρε πανάξια πρόκριση στα playoffs του Champipons League. Οι “ερυθρόλευκοι” ...  \nTo άρθρο Άγιαξ – Ολυμπιακός 1-2: Τεράστια ερυθρόλευκη νίκη στο Άμστερνταμ και πρόκριση στα playoffs του Champions League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ese-goal-eurokinissi-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγιαξ - Ολυμπιακός: Ο Ρέτσος απομακρύνει λίγο πριν η μπάλα περάσει τη γραμμή",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511070/agiax-olympiakos-o-retsos-apomakrynei-ligo-prin-i-mpala-perasei",
-          "pubDate": "Wed, 28 Jan 2026 23:53:58 +0200",
-          "description": "Εκπληκτικός Ρέτσος, ο οποίος στο 86' έσωσε λίγο πριν η μπάλα περάσει τη γραμμή μετά την κεφαλιά του Βέγκχορστ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/retsos_1.jpg?itok=ww1Atkt0",
           "source": "Gazzetta"
         }
       ]
