@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T05:40:29.695Z",
+  "lastUpdated": "2026-01-28T05:43:40.205Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Εσωκομματικά πυρά και καταγγελίες για αλχημείες στο ΠΑΣΟΚ",
+          "link": "https://www.newsit.gr/politikh/esokommatika-pyra-kai-kataggelies-gia-alximeies-sto-pasok/4585302/",
+          "pubDate": "Wed, 28 Jan 2026 05:40:36 +0000",
+          "description": "Δε λέει να κοπάσει η εσωκομματική κρίση που έχει ξεσπάσει στο ΠΑΣΟΚ, ακριβώς τη στιγμή που η ενότητα και ο κοινός αγώνας φαίνεται να είναι ...  \nTo άρθρο Εσωκομματικά πυρά και καταγγελίες για αλχημείες στο ΠΑΣΟΚ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pasok-3.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Τι λένε τα ζώδια για σήμερα Τετάρτη 28 Ιανουαρίου 2026",
           "link": "https://www.newsit.gr/lifestyle/ti-lene-ta-zodia-gia-simera-tetarti-28-ianouariou-2026/4585094/",
@@ -145,6 +153,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Φοροδιαφυγή: Έλεγχοι με AI και άλλα ψηφιακά «όπλα» από την ΑΑΔΕ",
+          "link": "https://www.in.gr/2026/01/28/economy/oikonomikes-eidiseis/forodiafygi-elegxoi-ai-kai-alla-psifiaka-opla-apo-tin-aade/",
+          "pubDate": "Wed, 28 Jan 2026 07:10:30 +0300",
+          "description": "Η ΑΑΔΕ, ενεργοποιεί έξι νέα ψηφιακά εργαλεία για να αντιμετωπίσει τη φοροδιαφυγή, με ένταξη και προγνωστικών μοντέλων Τεχνητής Νοημοσύνης",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ot_aade3-768x606-1-3-1-768x606.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Συνταγή: Σπιτική καρυδόπιτα",
           "link": "https://www.in.gr/2026/01/28/life/geysi/syntagi-spitiki-karydopita/",
           "pubDate": "Wed, 28 Jan 2026 07:00:36 +0300",
@@ -153,19 +169,19 @@
           "source": "In.gr"
         },
         {
-          "title": "Καρδιά: Προληπτική φροντίδα, κίνδυνoι και σημάδια εμφράγματος",
-          "link": "https://www.newsit.gr/ygeia/kardia-proliptiki-frontida-kindynoi-kai-simadia-emfragmatos/4584998/",
-          "pubDate": "Wed, 28 Jan 2026 04:00:00 +0000",
-          "description": "Είναι ζωτικής σημασίας να είμαστε ενημερωμένοι για όλα όσα αφορούν στην καλή υγεία της καρδιάς μας. Ποιες καθημερινές συνήθειες, όπως η άσκηση και η διατροφή, ...  \nTo άρθρο Καρδιά: Προληπτική φροντίδα, κίνδυνoι και σημάδια εμφράγματος δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1920398838.jpg",
-          "source": "NewsIT"
-        },
-        {
           "title": "Το ταξίδι για το «όνειρο» μετατράπηκε σε εφιάλτη – Επτά νεκροί οπαδοί του ΠΑΟΚ στο σοκαριστικό δυστύχημα στη Ρουμανία",
           "link": "https://www.newsit.gr/ellada/to-taksidi-gia-to-oneiro-metatrapike-se-efialti-epta-nekroi-opadoi-tou-paok-sto-sokaristiko-dystyxima-sti-roumania/4585225/",
           "pubDate": "Wed, 28 Jan 2026 04:00:00 +0000",
           "description": "Το τραγικό δυστύχημα των οπαδών του ΠΑΟΚ στη Ρουμανία το μεσημέρι της Τρίτης 27 Ιανουαρίου επισκίασε όλα τα γεγονότα της ημέρας και γέμισε με πόνο ...  \nTo άρθρο Το ταξίδι για το «όνειρο» μετατράπηκε σε εφιάλτη – Επτά νεκροί οπαδοί του ΠΑΟΚ στο σοκαριστικό δυστύχημα στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roumania-sinthesi-1200x789.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Καρδιά: Προληπτική φροντίδα, κίνδυνoι και σημάδια εμφράγματος",
+          "link": "https://www.newsit.gr/ygeia/kardia-proliptiki-frontida-kindynoi-kai-simadia-emfragmatos/4584998/",
+          "pubDate": "Wed, 28 Jan 2026 04:00:00 +0000",
+          "description": "Είναι ζωτικής σημασίας να είμαστε ενημερωμένοι για όλα όσα αφορούν στην καλή υγεία της καρδιάς μας. Ποιες καθημερινές συνήθειες, όπως η άσκηση και η διατροφή, ...  \nTo άρθρο Καρδιά: Προληπτική φροντίδα, κίνδυνoι και σημάδια εμφράγματος δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1920398838.jpg",
           "source": "NewsIT"
         },
         {
@@ -231,22 +247,6 @@
           "description": "Σύμφωνα με πληροφορίες από το Πυροσβεστικό Σώμα, οι τρεις συλληφθέντες κατηγορούνται καθώς από την αυτοψία στο εργοστάσιο εντοπίστηκαν στο χώρο του υπογείου σωλήνες προπάνιου οι οποίοι είχαν υποστεί διάτρηση.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/violanta-1200x700-768x448.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Πώς πρόδωσαν οι στρατηγοί τον Σι Τζινπίνγκ;",
-          "link": "https://www.in.gr/2026/01/28/world/pos-prodosan-oi-stratigoi-ton-si-tzinpingk/",
-          "pubDate": "Wed, 28 Jan 2026 06:00:56 +0300",
-          "description": "Η έρευνα για διαφθορά εναντίον του Ζανγκ Γουσία, δεδομένης της βαθιάς φιλίας του με τον κινέζο πρόεδρο, κάνει τους αναλυτές να μιλούν ακόμη και για προετοιμασία πραξικοπήματος",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T093525Z_1518803822_RC21KGA1IR0X_RTRMADP_5_CHINA-MILITARY-768x513.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Στρατοκρατία, δολοφονίες πολιτών και φάσμα εμφυλίου- Οι ΗΠΑ σε «σημείο βρασμού» στον ένα χρόνο Τραμπ 2.0",
-          "link": "https://www.in.gr/2026/01/28/world/stratokratia-dolofonies-politon-kai-fasma-emfyliou-oi-ipa-se-simeio-vrasmou-ston-ena-xrono-tramp-2-0/",
-          "pubDate": "Wed, 28 Jan 2026 06:00:32 +0300",
-          "description": "Η φονική δράση των ομοσπονδιακών υπηρεσιών μετανάστευσης στη Μινεσότα, η επικοινωνιακή αναδίπλωση Τραμπ και οι κρίσιμες ενδιάμεσες εκλογές του Νοεμβρίου στις ΗΠΑ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-23T222150Z_1071747409_RC297JA9836C_RTRMADP_5_USA-TRUMP-NEW-YORK-PROTESTS-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Τετ α τετ Γεραπετρίτη – Γκουτέρες στη Νέα Υόρκη",
+          "link": "https://www.tanea.gr/2026/01/28/politics/tet-a-tet-gerapetriti-gkouteres-sti-nea-yorki/",
+          "pubDate": "Wed, 28 Jan 2026 05:38:21 +0000",
+          "description": "Η ατζέντα της σημερινής συνάντησης του Έλληνα ΥΠΕΞ με τον ΓΓ. του ΟΗΕ",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/gerapetritis-2-1-1024x682.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "«Ψάχνονται» στο Μαξίμου για λύσεις καθημερινότητας και στη ΝΔ για τα προσυνέδρια – Συσκέψεις και αναθεωρήσεις",
           "link": "https://www.tanea.gr/2026/01/28/politics/psaxnontai-sto-maksimou-gia-lyseis-kathimerinotitas-kai-sti-nd-gia-ta-prosynedria-syskepseis-kai-anatheoriseis/",
@@ -485,14 +493,6 @@
           "description": "Τη σημασία της μνήμης για τη θωράκιση της δημοκρατίας, υπογραμμίζει ο πρόεδρος του ΠΑΣΟΚ-Κινήματος Αλλαγής σε μήνυμά του για Διεθνή Ημέρα Μνήμης του Ολοκαυτώματος.\nΝ. Ανδρουλάκης για Ημέρα Μνήμης Ολοκαυτώματος: Η μνήμη είναι φρουρός για τη θωράκιση της δημοκρατίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Κύμα ανακλήσεων ασύλου για τούρκους γκιουλενιστές",
-          "link": "https://www.tanea.gr/print/2026/01/27/politics/mikropolitikos/kyma-anakliseon-asylou-gia-tourkous-gkioulenistes/",
-          "pubDate": "Tue, 27 Jan 2026 12:10:00 +0000",
-          "description": "Η πρόσφατη εξέλιξη ήταν η ανάκληση του ασύλου ενός παλαιστίνιου πρόσφυγα, κατόπιν πληροφοριών που έφτασαν στις ελληνικές Αρχές από την πρεσβεία του Ισραήλ – όπως επιβεβαίωσε ο Θάνος Πλεύρης – για αναρτήσεις του που επικροτούσαν τη δράση της Χαμάς. Μαθαίνω, όμως, πως υπάρχουν δεκάδες ανακλήσεις ασύλου τον τελευταίο χρόνο που έχουν περάσει «κάτω από το […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/thanos-plevris-2-1024x683.jpg",
-          "source": "Τα Νέα"
         }
       ]
     },
