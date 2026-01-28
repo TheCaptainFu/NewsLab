@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T11:35:24.974Z",
+  "lastUpdated": "2026-01-28T11:40:27.847Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Super League: Ενός λεπτού σιγή σε όλους τους αγώνες της για τους νεκρούς οπαδούς του ΠΑΟΚ",
+          "link": "https://www.newsit.gr/athlitika/super-league-enos-leptou-sigi-se-olous-tous-agones-tis-gia-tous-nekrous-opadous-tou-paok/4585671/",
+          "pubDate": "Wed, 28 Jan 2026 11:35:15 +0000",
+          "description": "Ο ΠΑΟΚ βυθίστηκε στο πένθος από το θάνατο 7 οπαδών του στη Ρουμανία και ολόκληρο το ελληνικό ποδόσφαιρο θρηνεί για την απώλειά τους, με τη ...  \nTo άρθρο Super League: Ενός λεπτού σιγή σε όλους τους αγώνες της για τους νεκρούς οπαδούς του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tumba-2-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Νέοι μητροπολίτες σε Χανιά και Σπήλι: Η απόφαση της Εκκλησίας της Κρήτης",
           "link": "https://www.protothema.gr/greece/article/1764749/neoi-mitropolites-se-hania-kai-spili-i-apofasi-tis-ekklisia-tis-kritis/?utm_source=rss",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 10:49:15 +0000",
           "description": "Η Τσέλσι θα αντιμετωπίσει εκτός έδρας τη Νάπολι στην τελευταία αγωνιστική της League Phase του Champions League, με σοβαρά επεισόδια να έχουν ήδη ξεκινήσει στο ...  \nTo άρθρο Μαχαίρωσαν δύο οπαδούς της Τσέλσι πριν το παιχνίδι με τη Νάπολι δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/maxairomata-1200x861.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Γιώργος Μαυρίδης για το τροχαίο στη Ρουμανία με 7 νεκρούς οπαδούς του ΠΑΟΚ: «Ήταν να πάω και εγώ οδικώς στη Λιόν»",
-          "link": "https://www.newsit.gr/ellada/giorgos-mayridis-gia-to-troxaio-sti-roumania-me-7-nekrous-opadous-tou-paok-itan-na-pao-kai-ego-odikos-sti-lion/4585601/",
-          "pubDate": "Wed, 28 Jan 2026 10:45:55 +0000",
-          "description": "Ο Γιώργος Μαυρίδης, γνωστός φίλαθλος του ΠΑΟΚ, μίλησε για το τροχαίο δυστύχημα στη Ρουμανία που στοίχισε τη ζωή σε 7 Έλληνες φιλάθλους και σκόρπισε θλίψη ...  \nTo άρθρο Γιώργος Μαυρίδης για το τροχαίο στη Ρουμανία με 7 νεκρούς οπαδούς του ΠΑΟΚ: «Ήταν να πάω και εγώ οδικώς στη Λιόν» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mavridis-ndp-1200x936.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,20 +501,12 @@
       "color": "blue",
       "articles": [
         {
-          "title": "Μινεάπολη: Βουλευτής των Δημοκρατικών δέχθηκε επίθεση με υγρό - Συνελήφθη ο δράστης",
-          "link": "http://gr.euronews.com/2026/01/28/mineapoli-voyleytis-ton-dimokratikon-dexthike-epithesi-sinelifthi-o-drastis",
-          "pubDate": "Wed, 28 Jan 2026 12:27:06 +0100",
-          "description": "Η Ιλχάν Ομάρ ζήτησε από την υπουργό Εσωτερικής Ασφάλειας Νόεμ να παραιτηθεί",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Η Τουρκία εξάρθρωσε ιρανικό δίκτυο κατασκοπείας με στόχο τη βάση του Ιντσιρλίκ",
-          "link": "http://gr.euronews.com/2026/01/28/h-toyrkia-e3ar8rwse-iraniko-diktyo-kataskopeias-me-stoxo-th-bash-toy-intsirlik",
-          "pubDate": "Wed, 28 Jan 2026 12:22:31 +0100",
-          "description": "Έξι άτομα προφυλακίστηκαν με απόφαση του Πρωτοδικείου της Κωνσταντινούπολης",
-          "thumbnail": null,
-          "source": "Euronews"
+          "title": "Three brothers die after falling in frozen Texas pond",
+          "link": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 11:34:47 GMT",
+          "description": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f348/live/74b52030-fc3c-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC News"
         },
         {
           "title": "Ειδήσεις | 28 Ιανουαρίου 2026 - Μεσημβρινό δελτίο",
@@ -547,14 +539,6 @@
           "description": "Έκθεση της υπηρεσίας καταγράφει αύξηση ρεκόρ στη διακίνηση κοκαΐνης, με χρήση ημιβυθιζόμενων, μεταφορτώσεις στον Ατλαντικό και στροφή σε μικρά λιμάνια. Οι νέες μέθοδοι δυσκολεύουν τον εντοπισμό και ενισχύουν τη βία.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Three brothers die after falling in frozen Texas pond",
-          "link": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 10:18:57 GMT",
-          "description": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe93/live/c04dc0c0-fc36-11f0-a92b-d7b0082c10c4.jpg",
-          "source": "BBC News"
         },
         {
           "title": "'I don't let bullies win': US congresswoman Omar defiant after substance thrown at her",
@@ -739,6 +723,22 @@
           "description": "«Τρομοκρατική ενέργεια» καταγγέλλει ο Ζελένσκι - Νέο κύμα επιθέσεων σε Οδησσό και Κίεβο - 710.000 νοικοκυριά στην ουκρανική πρωτεύουσα παραμένουν χωρίς ηλεκτρικό ρεύμα",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "Δεν ξέρετε πού να πάτε; Το ωροσκόπιο μπορεί να σας βοηθήσει να αποφασίσετε το 2026",
+          "link": "http://gr.euronews.com/travel/2026/01/28/do-you-need-to-know-where-to-go-the-horoscope-can-help-you-decide-in-2026",
+          "pubDate": "Wed, 28 Jan 2026 08:00:18 +0100",
+          "description": "Όλο και περισσότεροι ταξιδιώτες λαμβάνουν υπόψη τα άστρα όταν αποφασίζουν πότε, πώς και πού να ταξιδέψουν. Για πολλούς, το ωροσκόπιο πριν την κράτηση ευθυγραμμίζει προορισμό, διάθεση και εμπειρία.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "ΗΠΑ: Συνοριοφύλακες πυροβόλησαν και τραυμάτισαν 34χρονο στην Αριζόνα",
+          "link": "http://gr.euronews.com/2026/01/28/hpa-synoriofylakes-pyrobolhsan-traymatisan-arizona",
+          "pubDate": "Wed, 28 Jan 2026 07:58:15 +0100",
+          "description": "Μετά την Μινεάπολη, νέο περιστατικό με εμπλοκή πρακτόρων υπηρεσίας μετανάστευσης αυτή τη φορά κοντά στα σύνορα με το Μεξικό - Αλλαγή στάσης του Ντόναλντ Τραμπ μετά τον θανάσιμο τραυματισμό διαδηλωτή στη Μινεσότα και την κατακραυγή για τη δράση της ICE",
+          "thumbnail": null,
+          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Μπαρτζώκας: «Τα λόγια κάθε φορά αδικούν τα συναισθήματα»",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510887/mpartzokas-ta-logia-kathe-fora-adikoyn-ta-synaisthimata",
+          "pubDate": "Wed, 28 Jan 2026 13:39:32 +0200",
+          "description": "Ο Γιώργος Μπαρτζώκας, στο περιθώριο της Media Day ενόψει του αγώνα με την Μπαρτσελόνα, αναφέρθηκε στο τροχαίο δυστύχημα στη Ρουμανία, που κόστισε τη ζωή σε επτά φίλους του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bartzokas_eurokinissi_0.jpg?itok=xLxtbkn9",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Super League: Ενός λεπτού σιγή σε όλους τους αγώνες της για τους νεκρούς οπαδούς του ΠΑΟΚ",
+          "link": "https://www.newsit.gr/athlitika/super-league-enos-leptou-sigi-se-olous-tous-agones-tis-gia-tous-nekrous-opadous-tou-paok/4585671/",
+          "pubDate": "Wed, 28 Jan 2026 11:35:15 +0000",
+          "description": "Ο ΠΑΟΚ βυθίστηκε στο πένθος από το θάνατο 7 οπαδών του στη Ρουμανία και ολόκληρο το ελληνικό ποδόσφαιρο θρηνεί για την απώλειά τους, με τη ...  \nTo άρθρο Super League: Ενός λεπτού σιγή σε όλους τους αγώνες της για τους νεκρούς οπαδούς του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tumba-2-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Ενός λεπτού σιγή στα ματς της Super League",
           "link": "https://www.gazzetta.gr/football/superleague/2510886/paok-dystyhima-sti-roymania-enos-leptoy-sigi-sta-mats-tis-super-league",
@@ -969,22 +985,6 @@
           "description": "Μεγάλο πισωγύρισμα η έξοδος του Ίσακ Χατζάρ την Τρίτη στη Βαρκελώνη, που δημιουργεί ερωτήματα σχετικά με τα διαθέσιμα ανταλλακτικά.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/si202601270642.jpg?itok=AFJWkI_x",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Νίκη για το Βιρτζίνια Τεκ του Αβδάλα – Τι έκαναν οι Έλληνες στο NCAA",
-          "link": "https://www.gazzetta.gr/basketball/ncaa/2510865/niki-gia-birtzinia-tek-toy-abdala-ti-ekanan-oi-ellines-sto-ncaa",
-          "pubDate": "Wed, 28 Jan 2026 12:14:48 +0200",
-          "description": "Το Βιρτζίνια Τεκ του Νεοκλή Αβδάλα συνέχισε με νίκη στο NCAA, επικρατώντας 71-65 του Τζόρτζια Τεκ τα ξημερώματα της Τετάρτης 28/1.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/avdalas_virginia_tech.jpg?itok=a5BB625r",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άρης: Πέτυχε τη συμφωνία που ήθελε, με τον τρόπο που ήθελε",
-          "link": "https://www.gazzetta.gr/basketball/eurocup/2510861/aris-petyhe-ti-symfonia-poy-ithele-me-ton-tropo-poy-ithele",
-          "pubDate": "Wed, 28 Jan 2026 12:09:57 +0200",
-          "description": "Η επέκταση συνεργασίας με τον Αμίν Νούα έδειξε τις προθέσεις του Άρη (και) για την ερχόμενη αγωνιστική περίοδο και παράλληλα «έδιωξε» έναν μεγάλο βραχνά…",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/6789532_2_1.jpg?itok=cjRxZ1iT",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Πααθηναϊκός: Στο Telekom Center Athens και ο προημιτελικός με τη Μερσίν!",
+          "link": "https://panathinaikos24.gr/2026/01/28/618033/paathinaikos-sto-telekom-center-athens-kai-o-proimitelikos-me-ti-mersin/",
+          "pubDate": "Wed, 28 Jan 2026 11:38:30 +0000",
+          "description": "O Παναθηναϊκός Α.Ο. γνωστοποίησε ότι και η αναμέτρηση της ομάδας μπάσκετ γυναικών με τη Μερσίν για τα προημιτελικά του Eurocup θα διεξαχθεί στο Τelekom Center Athens!",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4998680.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Παναθηναϊκός: Επαγγελματικό συμβόλαιο στον νεαρό Βανδήρα",
           "link": "https://panathinaikos24.gr/2026/01/28/618028/panathinaikos-epaggelmatiko-symvolaio-ston-nearo-vandira/",
@@ -1222,14 +1230,6 @@
           "pubDate": "Tue, 27 Jan 2026 15:44:12 +0000",
           "description": "Ο επίσημος σύνδεσμος οπαδών του Παναθηναϊκού, η Θύρα 13 θέλησε με τη σειρά της να αποχαιρετήσει τους αδικοχαμένους οπαδούς του ΠΑΟΚ.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/12/panathinaikos_intime_kosmos_1.webp?fit=1200%2C675&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "ΚΑΕ Παναθηναϊκός: «Βαθιά οδύνη για την απώλεια των φίλων του ΠΑΟΚ»",
-          "link": "https://panathinaikos24.gr/2026/01/27/617974/kae-panathinaikos-vathia-odyni-gia-tin-apoleia-ton-filon-tou-paok/",
-          "pubDate": "Tue, 27 Jan 2026 15:21:36 +0000",
-          "description": "Η ΚΑΕ Παναθηναϊκός θέλησε να στείλει τα συλλυπητήριά της στην οικογένεια του ΠΑΟΚ.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/paobc.jpg?fit=719%2C448&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
