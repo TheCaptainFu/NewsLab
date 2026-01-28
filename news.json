@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T13:25:25.388Z",
+  "lastUpdated": "2026-01-28T13:30:32.400Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Live οι ανακοινώσεις της Πυροσβεστικής για τη φονική έκρηξη στο εργοστάσιο της Βιολάντα",
+          "link": "https://www.protothema.gr/greece/article/1764802/live-oi-anakoinoseis-tis-purosvestikis-gia-tin-ekrixi-sto-ergostasio-tis-violada/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 15:28:00 +0200",
+          "description": "Διευκρινήσεις από τους αξιωματικούς της Διεύθυνσης Αντιμετώπισης Εγκλημάτων Εμπρησμού",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/violanta-mak.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ράφα Μπενίτεθ: «Έχουν γίνει λάθη, εγγυώμαι ότι του χρόνου θα είμαστε καλύτεροι – Ντεμπούτο με Κηφισιά ο Αντίνο»",
           "link": "https://www.newsit.gr/athlitika/rafa-mpeniteth-exoun-ginei-lathi-eggyomai-oti-tou-xronou-tha-eimaste-kalyteroi-ntempouto-me-kifisia-o-antino/4585771/",
@@ -177,6 +185,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Τσουκαλάς: Εργασιακή Διαύγεια για να μη θρηνήσουμε ξανά θύματα σε εργασιακούς χώρους",
+          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/tsoukalas-ergasiaki-diaygeia-gia-na-mi-thrinisoume-ksana-thymata-se-ergasiakous-xorous/",
+          "pubDate": "Wed, 28 Jan 2026 15:26:07 +0300",
+          "description": "«Πρέπει να είναι δεδομένη η ασφάλεια ως δικαίωμα στους χώρους εργασίας», τόνισε ο Κώστας Τσουκαλάς",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/745.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Στη Σικελία η Μελόνι: «Η πόλη Νισέμι κινδυνεύει να καταρρεύσει από τις κατολισθήσεις»",
           "link": "https://www.newsit.gr/kosmos/sti-sikelia-i-meloni-i-poli-nisemi-kindyneyei-na-katarreysei-apo-tis-katolisthiseis/4585711/",
           "pubDate": "Wed, 28 Jan 2026 12:24:17 +0000",
@@ -230,22 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 15:10:39 +0300",
           "description": "Πένθος, αλληλεγγύη και αποφάσεις ευθύνης για το μέλλον των Δήμων, στο διοικητικό συμβούλιο της 28ης Ιανουαρίου της Κεντρικής Ένωσης Δήμων Ελλάδας.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/JIM_3510-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Κλείνουν τα σχολεία όπου φοιτούν ανήλικοι των φυλακών Κασσαβέτειας μετά τα κρούσματα φυματίωσης",
-          "link": "https://www.protothema.gr/greece/article/1764784/kleinoun-ta-sholeia-opou-foitoun-anilikoi-ton-fulakon-kassaveteias-meta-ta-krousmata-fumatiosis/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 14:07:00 +0200",
-          "description": "Θετικοί στο τεστ mantoux έχουν βρεθεί 34 κρατούμενοι, στην πλειονότητά τους ανήλικοι, καθώς και ένας φύλακας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-20/kassaveteia-fylakes.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Κακοκαιρία Kristin: Τι ξέρουμε για το φαινόμενο που θα «χτυπήσει» τη χώρα",
-          "link": "https://www.in.gr/2026/01/28/greece/kakokairia-kristin-ti-kseroume-gia-fainomeno-pou-tha-xtypisei-ti-xora/",
-          "pubDate": "Wed, 28 Jan 2026 15:06:47 +0300",
-          "description": "Προ των πυλών νέα κακοκαιρία που αναμένεται να «χτυπήσει» τη χώρα την Πέμπτη - Τι λέει ο Τσατραφύλλιας",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/PAN_1298-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Τη νύχτα ρωσικά μη επανδρωμένα έπληξαν κατοικίες, ζημιές σε μονή στην Οδησσό",
+          "link": "http://gr.euronews.com/video/2026/01/28/overnight-russian-drones-struck-homes-and-caused-damage-to-a-monastery-in-odesa",
+          "pubDate": "Wed, 28 Jan 2026 14:13:49 +0100",
+          "description": "Ρωσικές δυνάμεις εξαπέλυσαν τη νύχτα επιθέσεις με drones στην Ουκρανία, πλήττοντας κατοικημένες περιοχές στην περιφέρεια Κιέβου και στην Οδησσό, σύμφωνα με ουκρανικές αρχές.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Amazon confirms 16,000 job cuts after accidental email",
           "link": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 13:11:09 GMT",
@@ -731,14 +739,6 @@
           "description": "Με την ευκαιρία της επίσκεψης o καθηγητής δημοσίου δικαίου Έρικ Καρπανό τονίζει στο Euronews ότι κάθε λύση για τη Γροιλανδία πρέπει να σέβεται το διεθνές δίκαιο.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Κύπρος: Αναβάθμιση του ΚΕΠΥ Πουρνάρα ενόψει των μεταρρυθμίσεων της ΕΕ για τους αιτούντες άσυλο",
-          "link": "http://gr.euronews.com/2026/01/28/kypros-anaba8mish-toy-kepy-poyrnara-enopsei-twn-metarry8misewn-ths-ee-gia-toys-aitoyntes-a",
-          "pubDate": "Wed, 28 Jan 2026 10:07:53 +0100",
-          "description": "Το Κέντρο Υποδοχής Πουρνάρα αναβαθμίζεται ώστε να ανταποκριθεί στις νέες απαιτήσεις",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ο Τζόσεφ & αυτά που φέρνει στον Ολυμπιακό, η ζωή χωρίς τον Ναν στον ΠΑΟ | Gazz Floor LIVE by Novibet",
+          "link": "https://www.gazzetta.gr/2510915/o-tzosef-ayta-poy-fernei-ston-olympiako-i-zoi-horis-ton-nan-ston-pao-gazz-floor-live",
+          "pubDate": "Wed, 28 Jan 2026 15:26:52 +0200",
+          "description": "Το Gazz Floor LIVE by Novibet επιστρέφει με πλούσιο ρεπορτάζ από Ολυμπιακό και Παναθηναϊκό. Οι Αντώνης Καλκαβούρας, Νίκος Παπαδογιάννης, Ευτυχία Οικονομίδου και Δημήτρης Κωνςταντινίδης, θα είναι παρέα στο στούντιο, σχολιάζοντας όλα τα νέα στον Παναθηναϊκό, τον Ολυμπιακό και όχι μόνο",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/title_copy_2.jpg?itok=NIBexey8",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κολύμπησε 1,25 μίλια μέχρι το Αλκατράζ και τώρα ζει σαν βασιλιάς: Το κογιότ που βρήκε απρόσμενο «μπουφέ» στο θρυλικό νησί",
+          "link": "https://www.gazzetta.gr/plus/2510888/kolympise-125-milia-mehri-alkatraz-kai-tora-zei-san-basilias-kogiot-poy-brike",
+          "pubDate": "Wed, 28 Jan 2026 15:26:33 +0200",
+          "description": "Το κογιότ όχι μόνο επέζησε, αλλά φαίνεται να απολαμβάνει μια απροσδόκητα άνετη ζωή στο πρώην νησί-φυλακή.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/coyote_alcatraz.jpg?itok=dkCRR565",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ράφα Μπενίτεθ: «Έχουν γίνει λάθη, εγγυώμαι ότι του χρόνου θα είμαστε καλύτεροι – Ντεμπούτο με Κηφισιά ο Αντίνο»",
           "link": "https://www.newsit.gr/athlitika/rafa-mpeniteth-exoun-ginei-lathi-eggyomai-oti-tou-xronou-tha-eimaste-kalyteroi-ntempouto-me-kifisia-o-antino/4585771/",
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 13:59:00 +0200",
           "description": "Το θεμέλιο πάνω στο οποίο χτίστηκε το success story της φέτας, η ελληνική αιγοπροβατοτροφία, σιγά σιγά ραγίζει...",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/feta.jpg?itok=jrg3Txuc",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "10 προορισμοί ιδανικοί για το τριήμερο της Καθαράς Δευτέρας",
-          "link": "https://www.gazzetta.gr/plus/2510893/10-proorismoi-idanikoi-gia-triimero-tis-katharas-deyteras",
-          "pubDate": "Wed, 28 Jan 2026 13:50:24 +0200",
-          "description": "Το τριήμερο της Καθαράς Δευτέρας πλησιάζει και μας βάζει σε διάθεση για μια σύντομη απόδραση.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/travel-28-1-26.jpg?itok=3dcUrpQu",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Αναμένεται στην Ολλανδία ο Αντρέ Λουίζ",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510890/olympiakos-anamenetai-stin-ollandia-o-antre-loyiz",
-          "pubDate": "Wed, 28 Jan 2026 13:49:55 +0200",
-          "description": "Ο Αντρέ Λουίζ θεωρείται ποδοσφαιριστής του Ολυμπιακού και απομένουν μόνο οι ανακοινώσεις, με τον ίδιο να παίρνει το αεροπλάνο για την Ολλανδία για να δει από κοντά τη νέα του ομάδα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/andre_luiz_getty.jpg?itok=YQhN4U7z",
           "source": "Gazzetta"
         }
       ]
