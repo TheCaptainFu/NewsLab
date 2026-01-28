@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T07:27:22.507Z",
+  "lastUpdated": "2026-01-28T07:30:32.732Z",
   "totalArticles": 179,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Στη ΜΕΘ λόγω γρίπης αγόρι 4 ετών στο «Αγία Σοφία», διακομίστηκε με ανακοπή στο νοσοκομείο\n",
+          "link": "https://www.protothema.gr/greece/article/1764585/sti-meth-logo-gripis-agori-4-eton-sto-agia-sofia-diakomistike-me-anakopi-sto-nosokomeio/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 09:26:00 +0200",
+          "description": "Σύμφωνα με πληροφορίες το αγόρι που κατοικεί σε περιοχή της Αττικής μετέφεραν στο νοσοκομείο χθες, Τρίτη, οι γονείς του",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-07-28/xrwma-nosokomeio.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ευαγγελία Μουμούρη: Για τα γυρίσματα του «Ριφιφί», έφυγα τρεις μήνες από το σπίτι μου",
           "link": "https://www.newsit.gr/media/eyaggelia-moumouri-gia-ta-gyrismata-tou-rififi-efyga-treis-mines-apo-to-spiti-mou/4585331/",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 06:00:09 +0000",
           "description": "Τη «μάστιγα» του κυκλοφοριακού, με έμφαση στον Κηφισό, επιχειρεί να διαχειριστεί η κυβέρνηση, επιστρατεύοντας ακόμη και drones και την τεχνητή νοημοσύνη (AI) αλλά και δρομολογώντας ...  \nTo άρθρο Σύσκεψη στο Μαξίμου για το κυκλοφοριακό: Επιστρατεύονται drones και AI – Σημαντικά τα έργα υποδομών δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kinisi-mpotiliarisma-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συνταγή για ρεβίθια με γλυκοπατάτες σε σάλτσα κάρι",
-          "link": "https://www.newsit.gr/tasteit/syntagi-gia-revithia-me-glykopatates-se-saltsa-kari/4571967/",
-          "pubDate": "Wed, 28 Jan 2026 06:00:00 +0000",
-          "description": "Πιάτο για χορτοφάγους αλλά και για όσους αγαπούν τις εντάσεις. Το κλειδί της γεύσης σε αυτό το πιάτο είναι η ένταση που δίνει τη πάστα ...  \nTo άρθρο Συνταγή για ρεβίθια με γλυκοπατάτες σε σάλτσα κάρι δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1137780156-1200x801.jpg",
           "source": "NewsIT"
         }
       ]
@@ -513,7 +513,7 @@
           "link": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 07:15:12 GMT",
           "description": "Omar was uninjured and continued to speak at the event following the incident.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f1b/live/e58e3e70-fc16-11f0-b385-5f48925de19a.jpg",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba4/live/c7d28fe0-fc1a-11f0-a47f-d352a7d9988a.jpg",
           "source": "BBC News"
         },
         {
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: Η επίσημη ενημέρωση Γεωργιάδη για τους τρεις τραυματίες (vid)",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510817/paok-dystyhima-sti-roymania-i-episimi-enimerosi-georgiadi-gia-toys",
+          "pubDate": "Wed, 28 Jan 2026 09:28:54 +0200",
+          "description": "Ο Υπουργός Υγείας, Άδωνις Γεωργιάδης, έδωσε τις τελευταίες πληροφορίες σχετικά με τους τρεις τραυματίες οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/troxaio-roymania-opadoi-paok_2.jpg?itok=GsX9X5ST",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Παναθηναϊκός: Διαθέτει μόλις 16 ετοιμοπόλεμους παίκτες για το ματς με την Ρόμα",
           "link": "https://www.gazzetta.gr/football/europa-league/2510816/panathinaikos-diathetei-molis-16-etoimopolemoys-paiktes-gia-mats-me",
           "pubDate": "Wed, 28 Jan 2026 09:17:16 +0200",
@@ -977,14 +985,6 @@
           "description": "Ο τελικός πρόκρισης του Ολυμπιακού με τον Άγιαξ στο Champions League, ξεχωρίζει από το τηλεοπτικό αθλητικό πρόγραμμα της Τετάρτης 28 Ιανουαρίου 2026, το οποίο περιλαμβάνει ...  \nTo άρθρο Με Άγιαξ – Ολυμπιακός οι αθλητικές μεταδόσεις της ημέρας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/10/olyall-1-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "H Τεχνητή Νοημοσύνη εντοπίζει 800 άγνωστες κοσμικές ανωμαλίες σε εικόνες του Hubble",
-          "link": "https://www.gazzetta.gr/plus/2510774/h-tehniti-noimosyni-entopizei-800-agnostes-kosmikes-anomalies-se-eikones-toy-hubble",
-          "pubDate": "Wed, 28 Jan 2026 08:00:32 +0200",
-          "description": "Αλγόριθμος της ESA ανέλυσε 100 εκατ. εικόνες του Hubble και αποκάλυψε εκατοντάδες πρωτοφανή κοσμικά φαινόμενα κρυμμένα επί δεκαετίες.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/planet.jpg?itok=ce80pttP",
-          "source": "Gazzetta"
         }
       ]
     },
