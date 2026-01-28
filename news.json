@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T20:25:25.848Z",
+  "lastUpdated": "2026-01-28T20:30:36.299Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,10 +9,10 @@
       "color": "red",
       "articles": [
         {
-          "title": "Τραγωδία ΠΑΟΚ: Στην Τούμπα ο Βαρθολομαίος με λευκά τριαντάφυλλα – «Ο πόνος είναι δυσβάσταχτος»",
-          "link": "https://www.newsit.gr/ellada/tragodia-paok-stin-toumpa-o-vartholomaios-me-leyka-triantafylla-o-ponos-einai-dysvastaxtos/4586218/",
+          "title": "Τραγωδία με οπαδούς του ΠΑΟΚ: Στην Τούμπα ο Βαρθολομαίος με λευκά τριαντάφυλλα – «Ο πόνος είναι δυσβάσταχτος»",
+          "link": "https://www.newsit.gr/ellada/tragodia-me-opadous-tou-paok-stin-toumpa-o-vartholomaios-me-leyka-triantafylla-o-ponos-einai-dysvastaxtos/4586218/",
           "pubDate": "Wed, 28 Jan 2026 20:23:41 +0000",
-          "description": "Ο Οικουμενικός Πατριάρχης, Βαρθολομαίος, βρέθηκε στην Τούμπα για να αποτίσει φόρο τιμής στους 7 φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο τροχαίο δυστύχημα ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Στην Τούμπα ο Βαρθολομαίος με λευκά τριαντάφυλλα – «Ο πόνος είναι δυσβάσταχτος» δημοσιεύτηκε στο NewsIT .",
+          "description": "Ο Οικουμενικός Πατριάρχης, Βαρθολομαίος, βρέθηκε στην Τούμπα για να αποτίσει φόρο τιμής στους 7 φίλους του ΠΑΟΚ που έχασαν τη ζωή τους στο τροχαίο δυστύχημα ...  \nTo άρθρο Τραγωδία με οπαδούς του ΠΑΟΚ: Στην Τούμπα ο Βαρθολομαίος με λευκά τριαντάφυλλα – «Ο πόνος είναι δυσβάσταχτος» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vartholomaios-1200x801.jpg",
           "source": "NewsIT"
         },
@@ -153,6 +153,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Η Ουκρανία ζητά «ενεργειακή κατάπαυση πυρός» – Δύσκολες οι επόμενες εβδομάδες λόγω του παγετού",
+          "link": "https://www.in.gr/2026/01/28/world/oukrania-zita-energeiaki-katapaysi-pyros-dyskoles-oi-epomenes-evdomades-logo-tou-pagetou/",
+          "pubDate": "Wed, 28 Jan 2026 22:25:46 +0300",
+          "description": "Ο υδράργυρος θα υποχωρήσει την επόμενη εβδομάδα στους -20 βαθμούς Κελσίου, σε αρκετές περιοχές στη βόρεια και ανατολική Ουκρανία, σύμφωνα με τις προβλέψεις των μετεωρολόγων - Χωρίς θέρμανση και ρεύμα εκατομμύρια κάτοικοι",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/UKRAINE-CRISIS-ENERGY-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ελένη Μενεγάκη: Η κόρη της Βαλέρια έγινε 18 χρονών – «Μια νεαρή γυναίκα που με γεμίζει περηφάνια»",
+          "link": "https://www.in.gr/2026/01/28/go-fun/fizz/eleni-menegaki-kori-tis-valeria-egine-18-xronon-mia-neari-gynaika-pou-gemizei-perifania/",
+          "pubDate": "Wed, 28 Jan 2026 22:25:34 +0300",
+          "description": "Η Ελένη Μενεγάκη θέλησε να ευχηθεί στην αγαπημένη της κόρη Βαλέρια για τα 18α γενέθλια της, δημοσιεύοντας στον προσωπικό της λογαριασμό στο Instagram ένα καρουζέλ με μοναδικές φωτογραφίες.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/SnapInsta-5-768x476.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Καλή ευκαιρία του Ολυμπιακού με Κοστίνια (vid)",
           "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/kali-eykairia-tou-olympiakou-kostinia-vid/",
           "pubDate": "Wed, 28 Jan 2026 22:23:15 +0300",
@@ -230,22 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 19:01:07 +0000",
           "description": "Η Νέα Δημοκρατία διατηρεί ευρύ προβάδισμα έναντι του ΠΑΣΟΚ με 13,7 μονάδες σύμφωνα με την δημοσκόπηση της GPO για το κεντρικό δελτίο ειδήσεων του Star. ...  \nTo άρθρο Δημοσκόπηση GPO: Στις 13,7 μονάδες η διαφορά ΝΔ και ΠΑΣΟΚ – Στο 20% οι πιθανοί ψηφοφόροι της Καρυστιανού δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekloges-kalpi-1-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Νίνης για το Παναθηναϊκός – Ρόμα: «Να πάρουμε θετικό αποτέλεσμα και να θυμηθούμε τα παλιά»",
-          "link": "https://www.newsit.gr/athlitika/ninis-gia-to-panathinaikos-roma-na-paroume-thetiko-apotelesma-kai-na-thymithoume-ta-palia/4586149/",
-          "pubDate": "Wed, 28 Jan 2026 19:00:33 +0000",
-          "description": "Ο Σωτήρης Νίνης ήταν πρωταγωνιστής στο απίθανο διπλό του Παναθηναϊκού με 3-2 στην έδρα της Ρόμα το 2010 και η πράσινη ΠΑΕ ανέβασε βίντεο με ...  \nTo άρθρο Νίνης για το Παναθηναϊκός – Ρόμα: «Να πάρουμε θετικό αποτέλεσμα και να θυμηθούμε τα παλιά» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ninis.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Κρήτη: «Μάχη» για τη ζωή δίνει πέντε ημερών βρέφος στο Βενιζέλειο νοσοκομείο στο Ηράκλειο",
-          "link": "https://www.newsit.gr/ellada/kriti-maxi-gia-ti-zoi-dinei-pente-imeron-vrefos-sto-venizeleio-nosokomeio-sto-irakleio/4586138/",
-          "pubDate": "Wed, 28 Jan 2026 18:59:55 +0000",
-          "description": "Αγωνία για ένα βρέφος, μόλις 5 ημερών που δίνει «μάχη» για να κρατηθεί στη ζωή στη Μονάδα Εντατικής Θεραπείας Νεογνών του Βενιζέλειου Νοσοκομείου στο Ηράκλειο ...  \nTo άρθρο Κρήτη: «Μάχη» για τη ζωή δίνει πέντε ημερών βρέφος στο Βενιζέλειο νοσοκομείο στο Ηράκλειο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-baby2-1200x675.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,7 +747,15 @@
       "color": "green",
       "articles": [
         {
-          "title": "Λεβερκούζεν - Βιγιαρεάλ: Γκέλα τερματοφύλακα και γκολ ο Τίλμαν",
+          "title": "Περιστέρι - Σαραγόσα 86-70: «Πέταξε» και συνεχίζει να... ονειρεύεται το Περιστέρι ",
+          "link": "https://www.gazzetta.gr/basketball/fiba-europe-cup/2511044/peristeri-saragosa-86-70-petaxe-kai-synehizei-na-oneireyetai",
+          "pubDate": "Wed, 28 Jan 2026 22:29:07 +0200",
+          "description": "Τεράστια νίκη για το Περιστέρι, αφού επικράτησε της Σαραγόσα με 86-70 και πανηγύρισε την πρόκρισή του στα προημιτελικά του FIBA Europe Cup.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/nikols_intime.jpg?itok=waZEr_zQ",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λεβερκούζεν - Βιγιαρεάλ: Γκέλα του τερματοφύλακα και γκολ ο Τίλμαν",
           "link": "https://www.gazzetta.gr/football/champions-league/2511043/leberkoyzen-bigiareal-gkela-termatofylaka-kai-gkol-o-tilman",
           "pubDate": "Wed, 28 Jan 2026 22:23:59 +0200",
           "description": "Μία τρομερή γκάφα του Τένας έδωσε την ευκαιρία στη Λεβερκούζεν να προηγηθεί από νωρίς ενάντια στη Βιγιαρεάλ.",
@@ -758,7 +766,7 @@
           "title": "Κιλκίς - ΑΕΚ 31-31: Ξεκίνημα στο 2026 με «στραβοπάτημα» για την Ένωση",
           "link": "https://www.gazzetta.gr/handball/a1-andron/2511042/kilkis-aek-31-31-xekinima-sto-2026-me-strabopatima-gia-tin-enosi",
           "pubDate": "Wed, 28 Jan 2026 22:23:54 +0200",
-          "description": "Ισόπαλες έμειναν το Κιλκίς και η ΑΕΚ με σκορ 31-31 για την εξ' αναβολής 14η αγωνιστική της Handball Premier...",
+          "description": "Ισόπαλες έμειναν το Κιλκίς και η ΑΕΚ με σκορ 31-31 για την 14η αγωνιστική της Handball Premier...",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_handball_0.jpg?itok=vePqj65S",
           "source": "Gazzetta"
         },
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 21:09:22 +0200",
           "description": "Δείτε τι έκανε ο Γκρεγκ Μπράουν στο ντεμπούτο του με την ΑΕΚ κόντρα στην Άλμπα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/brown2323.jpg?itok=JnswVU-X",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Κοντά στον Ετιέν Καμαρά το «τριφύλλι»",
-          "link": "https://www.gazzetta.gr/football/superleague/2511023/panathinaikos-konta-ston-etien-kamara-trifylli",
-          "pubDate": "Wed, 28 Jan 2026 21:07:50 +0200",
-          "description": "Ο Παναθηναϊκός πλησιάζει στην απόκτηση του 22χρονου μέσου Ετιέν Καμαρά, που ανήκει στην Σαρλερουά.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/etienne_camara_getty.jpg?itok=LTy2V19k",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Pinterest: Απολύει το 15% του προσωπικού του για να επενδύσει στην ΑΙ",
+          "link": "https://gr.pcmag.com/social-media-1/51146/pinterest-apoluei-to-15-tou-prosopikou-tou-gia-na-ependusei-sten-ai",
+          "pubDate": "Wed, 28 Jan 2026 20:30:10 +0000",
+          "description": "Η πλατφόρμα θυσιάζει 780 θέσεις εργασίας με στόχο τη μεταμόρφωσή της σε έναν καθολικό «AI βοηθό αγορών» και την ενίσχυση της οπτικής αναζήτησης.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/p/pinterest-/pinterest-to-lay-off-15-of-its-workforce-as-it-doubles-down_8dyh.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "Ξημέρωσε η νέα εποχή του Chrome: Από απλός browser σε ψηφιακός «πράκτορας» με το Gemini 3",
           "link": "https://www.techgear.gr/ximerose-i-nea-epochi-toy-chrome-apo-aplos-browser-se-psifiakos-praktoras-me-to-gemini-3-47367",
           "pubDate": "Wed, 28 Jan 2026 22:22:00 +0200",
@@ -1469,14 +1477,6 @@
           "description": "Η Meta ανοίγει ένα νέο κεφάλαιο στην ιστορία της, εγκαινιάζοντας μια σημαντική στροφή στο επιχειρηματικό της μοντέλο. Η εταιρεία επιβεβαίωσε ότι ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/meta-subscription.jpg",
           "source": "Techgear"
-        },
-        {
-          "title": "Τέλος στα δωρεάν Social Media; Η Meta φέρνει συνδρομές σε Instagram, Facebook και WhatsApp",
-          "link": "https://gr.pcmag.com/social-media-1/51138/telos-sta-dorean-social-media-e-meta-phernei-sundromes-se-instagram-facebook-kai-whatsapp",
-          "pubDate": "Tue, 27 Jan 2026 15:13:18 +0000",
-          "description": "Από την ανώνυμη προβολή Stories μέχρι το AI εργαλείο \"Vibes\" και τον ψηφιακό πράκτορα \"Manus\", η αυτοκρατορία του Zuckerberg βάζει paywall σε premium λειτουργίες.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/i/instagram-/instagram-facebook-and-whatsapp-to-test-subscriptions-for-pr_yxwe.jpg",
-          "source": "PC Magazine"
         }
       ]
     }
