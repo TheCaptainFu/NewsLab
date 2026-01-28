@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T02:05:27.816Z",
+  "lastUpdated": "2026-01-28T02:10:28.768Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Καιρός σήμερα: Τοπικές βροχές και καταιγίδες με ανέμους 7 μποφόρ και μικρή άνοδο της θερμοκρασίας",
+          "link": "https://www.newsit.gr/ellada/kairos-simera-topikes-vroxes-kai-kataigides-me-anemous-7-mpofor-kai-mikri-anodo-tis-thermokrasias/4584999/",
+          "pubDate": "Wed, 28 Jan 2026 02:02:00 +0000",
+          "description": "Άστατος θα είναι ο καιρός σήμερα Τετάρτη, 28 Ιανουαρίου σε αρκετές περιοχές της χώρας. Τοπικά θα εκδηλωθούν βροχές και καταιγίδες. Η θερμοκρασία θα σημειώσει μικρή ...  \nTo άρθρο Καιρός σήμερα: Τοπικές βροχές και καταιγίδες με ανέμους 7 μποφόρ και μικρή άνοδο της θερμοκρασίας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kairos-3-2.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Η εξάρτηση της παγκόσμιας οικονομίας από το δημόσιο χρέος",
           "link": "https://www.in.gr/2026/01/28/economy/diethnis-oikonomia/eksartisi-tis-pagkosmias-oikonomias-apo-dimosio-xreos/",
@@ -238,14 +246,6 @@
           "pubDate": "Tue, 27 Jan 2026 23:04:11 +0200",
           "description": "Διαβάστε τι αναφέρουν σε κοινή τους ανακοίνωση οι οργανωμένοι φίλαθλοι του ΠΑΟΚ  μετά την τραγωδία στη Ρουμανία",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/paok_people-xrwma.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Μεσίστιες οι σημαίες στο Καυταντζόγλειο και στα ΕΑΚ σε ένδειξη πένθους για το τροχαίο με οπαδούς του ΠΑΟΚ",
-          "link": "https://www.protothema.gr/greece/article/1764480/mesisties-oi-simaies-sto-kautadzogleio-kai-sta-eak-se-endeixi-penthous-gia-to-trohaio-me-opadous-tou-paok/?utm_source=rss",
-          "pubDate": "Tue, 27 Jan 2026 23:02:41 +0200",
-          "description": "Στην ανάρτησή του, ο Γιάννης Βρούτσης εξέφρασε τη βαθιά του οδύνη και τα συλλυπητήρια στις οικογένειες και στον σύλλογο, τονίζοντας ότι ο ελληνικός αθλητισμός πενθεί για την τραγική απώλεια",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/paok-touba-eurokinissi-2-xrwma.jpg",
           "source": "Πρώτο Θέμα"
         }
       ]
