@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T17:22:30.864Z",
+  "lastUpdated": "2026-01-28T17:25:29.788Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Συνεργασία του υπουργείου Υγείας με το «Χαμόγελο του Παιδιού»: Η αυτοκτονία είναι η τρίτη αιτία θανάτου για άτομα ηλικίας 15 - 29 ετών",
+          "link": "https://www.protothema.gr/greece/article/1764991/sunergasia-tou-upourgeiou-ugeias-me-to-hamogelo-tou-paidiou-i-autoktonia-einai-i-triti-aitia-thanatou/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 19:23:00 +0200",
+          "description": "Το 2025, ο οργανισμός «Το Χαμόγελο του Παιδιού», διαχειρίστηκε 764 περιστατικά αυτοκτονικότητας και αυτοτραυματικής συμπεριφοράς - Το το 33,5% των περιστατικών αφορούσε κορίτσια 13 έως 15 ετών",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2022-11-16/aytoktonia.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Τραγωδία στον ΠΑΟΚ: Οι φίλοι του Ολυμπιακού ύψωσαν πανό στο Άμστερνταμ για τους αδικοχαμένους οπαδούς του Δικεφάλου",
+          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-oi-filoi-tou-olympiakou-ypsosan-pano-sto-amsterntam-gia-tous-adikoxamenous-opadous-tou-dikefalou/4586045/",
+          "pubDate": "Wed, 28 Jan 2026 17:22:41 +0000",
+          "description": "Οι φίλαθλοι του Ολυμπιακού στέκονται στο πλευρό του ΠΑΟΚ, υψώνοντας ένα πανό στο Άμστερνταμ στη μνήμη των επτά οπαδών του Δικεφάλου. Η Ελλάδα θρηνεί για ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Οι φίλοι του Ολυμπιακού ύψωσαν πανό στο Άμστερνταμ για τους αδικοχαμένους οπαδούς του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-pano-paok.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Αυτή την Κυριακή με το Πρώτο Θέμα",
           "link": "https://www.protothema.gr/greece/article/1764989/auti-tin-kuriaki-me-to-proto-thema/?utm_source=rss",
@@ -231,22 +247,6 @@
           "description": "Δείτε την απόφαση που υπογράφει ο υπ. Περιβάλλοντος, Σταύρος Παπασταύρου - Την υπόθεση είχε αποκαλύψει το protothema.gr προ 11 μηνών - Τα ευρήματα από τις αυτοψίες",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-02-04/milos-mak-velos.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Η ΕΕ αρχίζει να ανησυχεί για την εξάρτησή της από το αμερικανικό φυσικό αέριο και ψάχνει νέους προμηθευτές",
-          "link": "https://www.newsit.gr/kosmos/i-ee-arxizei-na-anisyxei-gia-tin-eksartisi-tis-apo-to-amerikaniko-fysiko-aerio-kai-psaxnei-neous-promitheytes/4586004/",
-          "pubDate": "Wed, 28 Jan 2026 16:23:21 +0000",
-          "description": "Η Ευρωπαϊκή Ένωση, η οποία αντικατέστησε σε μεγάλο βαθμό το ρωσικό φυσικό αέριο με το αμερικανικό υγροποιημένο φυσικό αέριο (LNG), αρχίζει να ανησυχεί για αυτή ...  \nTo άρθρο Η ΕΕ αρχίζει να ανησυχεί για την εξάρτησή της από το αμερικανικό φυσικό αέριο και ψάχνει νέους προμηθευτές δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/natural-gas-russia-reuters.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός: Η φανέλα που θα φορέσουν οι Πειραιώτες στον «τελικό» πρόκρισης στα νοκ άουτ του Champions League",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-i-fanela-pou-tha-foresoun-oi-peiraiotes-ston-teliko-prokrisis-sta-nok-aout-tou-champions-league/4586001/",
-          "pubDate": "Wed, 28 Jan 2026 16:20:41 +0000",
-          "description": "Ο Ολυμπιακός λίγες ώρες πριν την σπουδαία αναμέτρηση κόντρα στον Άγιαξ που θα κρίνει την παρουσία του στα νοκ άουτ του Champions League, ενημέρωσε ότι ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Η φανέλα που θα φορέσουν οι Πειραιώτες στον «τελικό» πρόκρισης στα νοκ άουτ του Champions League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/el-kaabi-1-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Δικηγόρος εταιρίας ενοικίασης του βαν που επέβαιναν οι φίλαθλοι του ΠΑΟΚ: «Δεν διέθετε lane assist» (vid)",
+          "link": "https://www.gazzetta.gr/plus/2510983/dikigoros-etairias-enoikiasis-toy-ban-poy-epebainan-oi-filathloi-toy-paok-den-diethete",
+          "pubDate": "Wed, 28 Jan 2026 19:23:40 +0200",
+          "description": "Κατηγορηματικά διαψεύδει η εταιρεία ενοικίασης κάθε ενδεχόμενο τεχνικής βλάβης στο μίνι βαν του δυστυχήματος στη Ρουμανία, ξεκαθαρίζοντας πως το όχημα δεν διέθετε σύστημα lane assist.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/van-roumania-paok.jpg?itok=KFqkjQO-",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τραγωδία στον ΠΑΟΚ: Οι φίλοι του Ολυμπιακού ύψωσαν πανό στο Άμστερνταμ για τους αδικοχαμένους οπαδούς του Δικεφάλου",
+          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-oi-filoi-tou-olympiakou-ypsosan-pano-sto-amsterntam-gia-tous-adikoxamenous-opadous-tou-dikefalou/4586045/",
+          "pubDate": "Wed, 28 Jan 2026 17:22:41 +0000",
+          "description": "Οι φίλαθλοι του Ολυμπιακού στέκονται στο πλευρό του ΠΑΟΚ, υψώνοντας ένα πανό στο Άμστερνταμ στη μνήμη των επτά οπαδών του Δικεφάλου. Η Ελλάδα θρηνεί για ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Οι φίλοι του Ολυμπιακού ύψωσαν πανό στο Άμστερνταμ για τους αδικοχαμένους οπαδούς του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-pano-paok.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "ΑΕΚ- Άλμπα: Τρέλα για Βίντα, Μουκουντί, Γιόβιτς και Γκατσίνοβιτς στη SUNEL Arena ",
           "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510980/aek-almpa-trela-gia-binta-moykoynti-giobits-kai",
           "pubDate": "Wed, 28 Jan 2026 19:20:06 +0200",
@@ -771,10 +787,10 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σοροί των αδικοχαμένων οπαδών του «δικεφάλου» με πτήση της πολεμικής αεροπορίας",
+          "title": "Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σοροί των αδικοχαμένων οπαδών του «δικεφάλου» με πτήση της Πολεμικής Αεροπορίας",
           "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-epistrefoun-tin-pempti-oi-7-soroi-ton-adikoxamenon-opadon-tou-dikefalou-me-ptisi-tis-polemikis-aeroporias/4586042/",
           "pubDate": "Wed, 28 Jan 2026 17:09:01 +0000",
-          "description": "Η οικογένεια του ΠΑΟΚ και το ελληνικό ποδόσφαιρο παραμένουν συγκλονισμένοι από τον τραγικό θάνατο των επτά οπαδών του δικεφάλου -σε τροχαίο στη Ρουμανία το μεσημέρι ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σοροί των αδικοχαμένων οπαδών του «δικεφάλου» με πτήση της πολεμικής αεροπορίας δημοσιεύτηκε στο NewsIT .",
+          "description": "Η οικογένεια του ΠΑΟΚ και το ελληνικό ποδόσφαιρο παραμένουν συγκλονισμένοι από τον τραγικό θάνατο των επτά οπαδών του δικεφάλου -σε τροχαίο στη Ρουμανία το μεσημέρι ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Επιστρέφουν την Πέμπτη οι 7 σοροί των αδικοχαμένων οπαδών του «δικεφάλου» με πτήση της Πολεμικής Αεροπορίας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-reuters-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 18:08:26 +0200",
           "description": "Ο Γκρεγκ Μπράουν προετοιμάζεται για το ντεμπούτο του στην αναμέτρηση της ΑΕΚ με την Άλμπα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/brown21.jpg?itok=65ySCa0k",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Ερυθρόλευκη λαοθάλασσα και η πορεία προς το γήπεδο! (vids)",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510949/olympiakos-gemizei-me-erythroleykoys-filathloys-i-damm-square-vid",
-          "pubDate": "Wed, 28 Jan 2026 18:05:42 +0200",
-          "description": "Το Άμστερνταμ χορεύει από νωρίς στους ρυθμούς των συνθημάτων των φίλων του Ολυμπιακού. ΑΠΟΣΤΟΛΗ ΣΤΗΝ ΟΛΛΑΝΔΙΑ ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/photo_oly_1_new_1.jpg?itok=25FO_58D",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ηρακλής - Κολοσσός 80-76: Άλλαξε πρόσωπο και πανηγύρισε ιστορική πρόκριση ο «γηραιός»!",
-          "link": "https://www.gazzetta.gr/basketball/kypello-elladas-mpasket/2510953/iraklis-kolossos-80-76-allaxe-prosopo-kai-panigyrise",
-          "pubDate": "Wed, 28 Jan 2026 18:03:39 +0200",
-          "description": "Ο Ηρακλής πανηγύρισε την πρόκριση στο Final 8 του Κυπέλλου στην Κρήτη, επικρατώντας του Κολοσσού με 80-76 στο Ιβανώφειο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/forman_eurokinisi.jpg?itok=Sz75K93N",
           "source": "Gazzetta"
         }
       ]
