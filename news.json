@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T14:20:27.212Z",
+  "lastUpdated": "2026-01-28T14:25:24.588Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Σύγκρουση Λαζαρίδη και Χρηστίδη στη Βουλή για τα Ίμια: «Οδηγήσατε τους τρεις ήρωες στον θάνατο» – «Να ανακαλέσει το “γκριζάρισμα”»",
+          "link": "https://www.newsit.gr/politikh/sygkrousi-lazaridi-kai-xristidi-sti-vouli-gia-ta-imia-odigisate-tous-treis-iroes-ston-thanato-na-anakalesei-to-gkrizarisma/4585850/",
+          "pubDate": "Wed, 28 Jan 2026 14:22:26 +0000",
+          "description": "Σε μείζον πεδίο πολιτικής αντιπαράθεσης εξελίχθηκε στη Βουλή το ζήτημα των Ιμίων και των κυριαρχικών δικαιωμάτων της χώρας, κατά τη συζήτηση του νομοσχεδίου του Υπουργείου ...  \nTo άρθρο Σύγκρουση Λαζαρίδη και Χρηστίδη στη Βουλή για τα Ίμια: «Οδηγήσατε τους τρεις ήρωες στον θάνατο» – «Να ανακαλέσει το “γκριζάρισμα”» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/makarios-lazaridis-nd-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΟΚ: Αντιπροσωπεία του Άρη στην Τούμπα για να αποτίσει φόρο τιμής στους φίλους του αδικοχαμένους «δικεφάλου»",
+          "link": "https://www.newsit.gr/athlitika/paok-antiprosopeia-tou-ari-stin-toumpa-gia-na-apotisei-foro-timis-stous-filous-tou-adikoxamenous-dikefalou/4585858/",
+          "pubDate": "Wed, 28 Jan 2026 14:20:26 +0000",
+          "description": "Η οικογένεια του Άρη έδειξε για μια ακόμα φορά ότι η οδύνη για τους νεκρούς μιας ομάδας δεν κάνει διακρίσεις, ούτε όταν αφορά των “μεγάλο” ...  \nTo άρθρο ΠΑΟΚ: Αντιπροσωπεία του Άρη στην Τούμπα για να αποτίσει φόρο τιμής στους φίλους του αδικοχαμένους «δικεφάλου» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-paok-opadoi-eurokinissi-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ολυμπιακός: Σε προχωρημένες συζητήσεις με Λιόν για Γιάρεμτσουκ σύμφωνα με Βέλγο δημοσιογράφο",
           "link": "https://www.newsit.gr/athlitika/olympiakos-se-proxorimenes-syzitiseis-me-lion-gia-giaremtsouk-symfona-me-velgo-dimosiografo/4585849/",
@@ -137,12 +153,44 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Περιφέρειες Ελλάδας: Η σύνταξη του νέου Κώδικα Τοπικής Αυτοδιοίκησης αποτελεί ιστορική στιγμή",
+          "link": "https://www.in.gr/2026/01/28/politics/aftodioikisi/perifereies-elladas-syntaksi-tou-neou-kodika-topikis-aytodioikisis-apotelei-istoriki-stigmi/",
+          "pubDate": "Wed, 28 Jan 2026 16:24:12 +0300",
+          "description": "Ο θεσμός των Περιφερειών, στα 16 χρόνια ζωής με τη σημερινή μορφή του, λειτουργεί χωρίς δικό του Κώδικα, αναφέρει η ΕΝΠΕ σε ανακοίνωση της με αφορμή την συνάντηση των Περιφερειαρχών με τον Υπουργό Εσωτερικών.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ENPE-2026-01-28-768x576.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ο Μπενίτεθ εγγυήθηκε ότι ο Παναθηναϊκός θα βελτιωθεί: «Είμαι σίγουρος ότι θα γίνουμε καλύτεροι»",
+          "link": "https://www.in.gr/2026/01/28/sports/football/europa-league/mpeniteth-eimai-sigouros-oti-sto-mellon-tha-eimaste-kalyteroi-to-eggyomai-ayto/",
+          "pubDate": "Wed, 28 Jan 2026 16:23:53 +0300",
+          "description": "Παρά τα τραγικά αποτελέσματα, ο Ράφα Μπενίτεθ δήλωσε ευχαριστημένος με τον τρόπο που δουλεύει ο Παναθηναϊκός και ενόψει του ματς με τη Ρόμα, ο Ισπανός τεχνικός εγγυήθηκε... μελλοντική βελτίωση.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827661-768x511.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Μάρκος Βαφειάδης: Η «επεξεργασία»",
+          "link": "https://www.in.gr/2026/01/28/istoriko-arxeio/markos-vafeiadis-epeksergasia/",
+          "pubDate": "Wed, 28 Jan 2026 16:21:43 +0300",
+          "description": "Η αυθαίρετη, η λαθεμένη θέση του κόμματός μας για «Βαλκανική Ομοσπονδία», για «Ενιαία και ανεξάρτητη Μακεδονία»",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/vafeiadis.proti_-600x440.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ράφα Μπενίτεθ: «Έχουν γίνει λάθη, εγγυώμαι ότι του χρόνου θα είμαστε καλύτεροι – Ντεμπούτο με Κηφισιά ο Αντίνο»",
           "link": "https://www.newsit.gr/athlitika/rafa-mpeniteth-exoun-ginei-lathi-eggyomai-oti-tou-xronou-tha-eimaste-kalyteroi-ntempouto-me-kifisia-o-antino/4585771/",
           "pubDate": "Wed, 28 Jan 2026 13:21:25 +0000",
           "description": "Ο Παναθηναϊκός ετοιμάζεται για το ματς με τη Ρόμα στην τελευταία αγωνιστική της League Phase του Champions League και ο Ράφα Μπενίτεθ μίλησε για το ...  \nTo άρθρο Ράφα Μπενίτεθ: «Έχουν γίνει λάθη, εγγυώμαι ότι του χρόνου θα είμαστε καλύτεροι – Ντεμπούτο με Κηφισιά ο Αντίνο» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/venitez-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Ειλικρινά, τι μας νοιάζει τι κάνουν οι Μπέκαμ; Τι μας δείχνει το viral οικογενειακό δράμα για τα social media",
+          "link": "https://www.in.gr/2026/01/28/go-fun/perierga/eilikrina-ti-mas-noiazei-ti-kanoun-oi-mpekam-ti-mas-deixnei-viral-oikogeneiako-drama-gia-ta-social-media/",
+          "pubDate": "Wed, 28 Jan 2026 16:20:05 +0300",
+          "description": "Η δημόσια ρήξη του Μπρούκλιν Μπέκαμ δεν έχει σημασία ως κουτσομπολιό αλλά ως σύμπτωμα. Τα memes και η μαζική συμμετοχή του κοινού δείχνουν πώς τα social media μετατρέπουν την ιδιωτική σύγκρουση σε θέαμα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/VOGUE-WORLD-with-our-EXPRESS-family.-So-in-love-with-this-moment-and-these-custom-@express-looks-1-768x607.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Τα πρόσωπα της τραγωδίας του ΠΑΟΚ, θρήνος για τα «αετόπουλα» που σκοτώθηκαν στο τροχαίο της Ρουμανίας",
@@ -199,54 +247,6 @@
           "description": "Το τραγικό δυστύχημα με τους 7 νεκρούς και τους 3 τραυματίες οπαδούς του ΠΑΟΚ, έχει συγκλονίσει και τη Ρουμανία, όπου και έλαβε χώρα το φρικτό ...  \nTo άρθρο ΠΑΟΚ: Συγκλονισμένοι και στη Ρουμανία από το πολύνεκρο δυστύχημα δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-3.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Αναβλήθηκε το ΠΑΟΚ – Μύκονος Betsson",
-          "link": "https://www.in.gr/2026/01/28/sports/basketball/anavlithike-paok-mykonos-betsson/",
-          "pubDate": "Wed, 28 Jan 2026 16:04:22 +0300",
-          "description": "Την αναβολή του αγώνα μεταξύ του ΠΑΟΚ και της Μυκόνου Betsson για την Stoiximan GBL ανακοίνωσε ο  ΕΣΑΚΕ, ενώ ενός λεπτού σιγή θα κρατηθεί στους υπόλοιπους αγώνες του πρωταθλήματος μπασκετ.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6815621-1-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "ΗΠΑ: Αυξήθηκαν τα επιτόκια στεγαστικών δανείων για πρώτη φορά σε τέσσερις εβδομάδες",
-          "link": "https://www.newsit.gr/oikonomia/diethni/ipa-ayksithikan-ta-epitokia-stegastikon-daneion-gia-proti-fora-se-tesseris-evdomades/4585737/",
-          "pubDate": "Wed, 28 Jan 2026 12:57:12 +0000",
-          "description": "Αύξηση σημείωσαν για πρώτη φορά σε τέσσερις εβδομάδες τα επιτόκια στεγαστικών δανείων στις ΗΠΑ, ανακόπτοντας την άνοδο δραστηριότητας της αγοράς και αναχρηματοδότησης κατοικιών στις αρχές ...  \nTo άρθρο ΗΠΑ: Αυξήθηκαν τα επιτόκια στεγαστικών δανείων για πρώτη φορά σε τέσσερις εβδομάδες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-2178617444.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "H καταιγίδα Kristin σαρώνει Πορτογαλία και Ισπανία: Τρεις νεκροί και τεράστιες καταστροφές",
-          "link": "https://www.newsit.gr/kosmos/h-kataigida-kristin-saronei-portogalia-kai-ispania-treis-nekroi-kai-terasties-katastrofes/4585743/",
-          "pubDate": "Wed, 28 Jan 2026 12:55:03 +0000",
-          "description": "Τον θάνατο τουλάχιστον δύο ανθρώπων και πολλές ζημιές στην περιοχή της Λισαβόνας και στο κέντρο της χώρας, προκάλεσαν οι έντονες βροχοπτώσεις και οι ισχυροί άνεμοι ...  \nTo άρθρο H καταιγίδα Kristin σαρώνει Πορτογαλία και Ισπανία: Τρεις νεκροί και τεράστιες καταστροφές δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/storm-kristin-1200x900.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Νέο κλειστό προπονητήριο στη Νέα Ερυθραία",
-          "link": "https://www.in.gr/2026/01/28/politics/aftodioikisi/neo-kleisto-proponitirio-sti-nea-erythraia/",
-          "pubDate": "Wed, 28 Jan 2026 15:54:29 +0300",
-          "description": "Ο Δήμαρχος Κηφισιάς ανακοίνωσε την έγκριση χρηματοδότησης για την δημιουργία κλειστού γυμναστηρίου στο Μορτερό της Νέας Ερυθραίας.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/623302781_1415092690024822_5941044054059019810_n.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τραγωδία στον ΠΑΟΚ: Την Πέμπτη επιστρέφουν στη Θεσσαλονίκη οι τραυματίες",
-          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-tin-pempti-epistrefoun-sti-thessaloniki-oi-traymaties/4585739/",
-          "pubDate": "Wed, 28 Jan 2026 12:53:10 +0000",
-          "description": "Η νέα τραγωδία με τους οπαδούς του ΠΑΟΚ στη Ρουμανία έχει “παγώσει” την Ελλάδα και τα μονά αισιόδοξα μηνύματα έρχονται από την πλευρά των τραυματιών. ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Την Πέμπτη επιστρέφουν στη Θεσσαλονίκη οι τραυματίες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-2.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σοκ από τη διπλή τραγωδία: Διαρροή-θάνατος στη Βιολάντα στα Τρίκαλα, ερωτήματα για το τροχαίο που σκότωσε 7 νέα παιδιά στην Τιμισοάρα",
-          "link": "https://www.protothema.gr/greece/article/1764806/sok-apo-ti-dipli-tragodia-diarroi-thanatos-sti-violada-erotimata-gia-to-trohaio-pou-skotose-7-nea-paidia/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 14:53:00 +0200",
-          "description": "Το protothema.gr μεταφέρει τις τελευταίες εξελίξεις από τα σημεία των γεγονότων- Διαρροή προπανίου σε φθαρμένο υπογειοποιημένο σωλήνα στη Βιολάντα -Από λεπτό σε λεπτό οι ανακοινώσεις από την Πυροσβεστική - Ταυτοποιήθηκαν οι σοροί των επτά οπαδών του ΠΑΟΚ στη Ρουμανία",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/dipli_tragodia_maketa1.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Φόβοι για serial killer στη Θεσσαλονίκη: Την εμπλοκή του 52χρονου και στη δεύτερη νεκρή εξετάζουν οι αρχές",
+          "link": "https://www.gazzetta.gr/plus/2510927/foboi-gia-serial-killer-sti-thessaloniki-tin-emploki-toy-52hronoy-kai-sti-deyteri",
+          "pubDate": "Wed, 28 Jan 2026 16:23:57 +0200",
+          "description": "Ένας 52χρονος άνδρας στη Μενεμένη Θεσσαλονίκης ομολόγησε τη δολοφονία 46χρονης. Οι αρχές εξετάζουν αν εμπλέκεται και στην υπόθεση της σορού 41χρονης στο ίδιο δώμα.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2026-01/pagkrati-astynomia.jpg.png?itok=HepTpXqp",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Αντιπροσωπεία του Άρη στην Τούμπα για να αποτίσει φόρο τιμής στους φίλους του αδικοχαμένους «δικεφάλου»",
+          "link": "https://www.newsit.gr/athlitika/paok-antiprosopeia-tou-ari-stin-toumpa-gia-na-apotisei-foro-timis-stous-filous-tou-adikoxamenous-dikefalou/4585858/",
+          "pubDate": "Wed, 28 Jan 2026 14:20:26 +0000",
+          "description": "Η οικογένεια του Άρη έδειξε για μια ακόμα φορά ότι η οδύνη για τους νεκρούς μιας ομάδας δεν κάνει διακρίσεις, ούτε όταν αφορά των “μεγάλο” ...  \nTo άρθρο ΠΑΟΚ: Αντιπροσωπεία του Άρη στην Τούμπα για να αποτίσει φόρο τιμής στους φίλους του αδικοχαμένους «δικεφάλου» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-paok-opadoi-eurokinissi-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ολυμπιακός: Σε προχωρημένες συζητήσεις με Λιόν για Γιάρεμτσουκ σύμφωνα με Βέλγο δημοσιογράφο",
           "link": "https://www.newsit.gr/athlitika/olympiakos-se-proxorimenes-syzitiseis-me-lion-gia-giaremtsouk-symfona-me-velgo-dimosiografo/4585849/",
           "pubDate": "Wed, 28 Jan 2026 14:14:39 +0000",
@@ -758,7 +774,7 @@
           "title": "Κάλεσμα Φουρνιέ ενόψει Μπαρτσελόνα: «Σας χρειαζόμαστε να “ροκάρουμε” στο ΣΕΦ»",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510926/kalesma-foyrnie-enopsei-mpartselona-sas-hreiazomaste-na-rokaroyme-sto",
           "pubDate": "Wed, 28 Jan 2026 16:13:24 +0200",
-          "description": "Ο Εβάν Φουρνιέ, μέσω ανάρτησης που πραγματοποίησε, κάλεσε τον κόσμο του Ολυμπιακού να γεμίσει το ΣΕΦ, για την αυριανή αναμέτρηση κόντρα στην Μπαρτσελόνα.",
+          "description": "Ο Εβάν Φουρνιέ μέσω ανάρτησης που πραγματοποίησε, κάλεσε τον κόσμο του Ολυμπιακού να γεμίσει το ΣΕΦ, για την αυριανή αναμέτρηση κόντρα στην Μπαρτσελόνα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fournier24.jpg?itok=05SB1cve",
           "source": "Gazzetta"
         },
@@ -783,7 +799,7 @@
           "link": "https://www.gazzetta.gr/football/champions-league/2510923/olympiakos-o-kindynos-na-halasei-i-astynomia-ta-shedia-ton-filon",
           "pubDate": "Wed, 28 Jan 2026 16:01:23 +0200",
           "description": "Τα σημεία όπου μπορούν οι πάνω από 7.000 φίλοι του Ολυμπιακού να δουν το ματς από την τηλεόραση κι ο κίνδυνος να μην καταφέρουν ούτε αυτό! ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oll12.jpg?itok=WbQzKS6v",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/astynomia-dala.jpg?itok=b41UusJD",
           "source": "Gazzetta"
         },
         {
@@ -969,22 +985,6 @@
           "description": "Το ματς του Ολυμπιακού με τον ΠΑΟΚ για την Α1 Γυναικών αναβλήθηκε λόγω του τροχαίου δυστυχήματος που κόστισε τη ζωή σε 7 οπαδούς της ομάδας της Θεσσαλονίκης",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_4_0.jpg?itok=UbdF6M8p",
           "source": "Gazzetta"
-        },
-        {
-          "title": "F1 - Λεκλέρ: «Ελπίζω φέτος να είναι η χρονιά μας»",
-          "link": "https://www.gazzetta.gr/gmotion/2510864/f1-lekler-elpizo-fetos-na-einai-i-hronia-mas",
-          "pubDate": "Wed, 28 Jan 2026 14:30:00 +0200",
-          "description": "Ο Μονεγάσκος έστειλε μήνυμα προς πάσα κατεύθυνση, με την επιθυμία του να είναι να επιστρέψει την ιταλική ομάδα στην κορυφή της Formula 1.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/g_rc6ugxaaa1y5r1.jpg?itok=lbvPxBa8",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Champions League: Αυλαία στη league phase με 18 αγώνες και αγωνία",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510118/champions-league-pandaisia-me-18-agones-kai-agonia-sto-kokkino",
-          "pubDate": "Wed, 28 Jan 2026 14:30:00 +0200",
-          "description": "Η league phase του Champions League ολοκληρώνεται με 18 αγώνες, όλους στις 22:00 και εννέα θέσεις για τα νοκ άουτ ανοιχτές.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/champions_league.jpg?itok=k_8X1Vks",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Επισπεύδεται το ντεμπούτο του Αντίνο!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-epispeudetai-to-debouto-tou-andino/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-epispeudetai-to-debouto-tou-andino",
+          "pubDate": "Wed, 28 Jan 2026 14:25:00 +0000",
+          "description": "Ο Σαντίνο Αντίνο βρίσκεται ένα βήμα πριν την πρώτη του εμφάνιση με τα «πράσινα», με τον Μπενίτεθ να τον υπολογίζει για το ματς της Κυριακής με την Κηφισιά. Η ανυπομονησία του κόσμου για να τον δει σε αγωνιστική δράση είναι μεγάλη και όλα δείχνουν πως αυτό μπορεί να συμβεί την προσεχή Κυριακή (1/2), όταν το […]\nThe post Παναθηναϊκός: Επισπεύδεται το ντεμπούτο του Αντίνο! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Andino-1-2.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Παναθηναϊκός: Αναβολή αγώνα λόγω πένθους",
           "link": "https://panathinaikos24.gr/2026/01/28/618098/panathinaikos-anavoli-agona-logo-penthous/",
@@ -1215,14 +1223,6 @@
           "description": "Όλα τα βλέμματα στρέφονται στο ντέρμπι «αιωνίων» που θα διεξαχθεί στο «Παύλος Γιαννακόπουλος».\nThe post Παναθηναϊκός – Ολυμπιακός: Ώρα – Κανάλι – Μετάδοση appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Οι απουσίες φέρνουν αλλαγές: Η πιθανή ενδεκάδα του Παναθηναϊκού με τη Ρόμα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/oi-apousies-fernoun-allages-h-pithanh-endekada-tou-panathinaikou-me-th-roma/?utm_source=rss&utm_medium=rss&utm_campaign=oi-apousies-fernoun-allages-h-pithanh-endekada-tou-panathinaikou-me-th-roma",
-          "pubDate": "Wed, 28 Jan 2026 10:25:26 +0000",
-          "description": "Με περιορισμένες επιλογές και αλλαγές στο πλάνο, ο Παναθηναϊκός υποδέχεται τη Ρόμα στο ΟΑΚΑ για την τελευταία αγωνιστική του Europa League. Ο Παναθηναϊκός ρίχνεται στη μάχη της τελευταίας αγωνιστικής της League Phase του Europa League, αντιμετωπίζοντας τη Ρόμα στο ΟΑΚΑ, σε ένα παιχνίδι που κλείνει τον ευρωπαϊκό κύκλο της ομάδας σε αυτή τη φάση της […]\nThe post Οι απουσίες φέρνουν αλλαγές: Η πιθανή ενδεκάδα του Παναθηναϊκού με τη Ρόμα! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/benitez-4.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Ο φαύλος κύκλος και η σταθερότητα ως προαπαιτούμενο",
