@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T05:03:12.074Z",
+  "lastUpdated": "2026-01-28T05:05:25.003Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βιολάντα: Το σημείο «μηδέν» της διαρροής προπανίου που οδήγησε στον θάνατο τις 5 εργάτριες – Συλλήψεις στελεχών της εταιρίας",
+          "link": "https://www.newsit.gr/ellada/violanta-to-simeio-miden-tis-diarrois-propaniou-pou-odigise-ston-thanato-tis-5-ergatries-syllipseis-stelexon-tis-etairias/4585295/",
+          "pubDate": "Wed, 28 Jan 2026 05:02:14 +0000",
+          "description": "Τα αίτια της τραγωδίας στο εργοστάσιο μπισκοτοβιομηχανίας «Βιολάντα» στα Τρίκαλα με τις 5 νεκρές γυναίκες προσπαθούν να εξακριβώσουν οι αρχές με τη διαρροή προπανίου να ...  \nTo άρθρο Βιολάντα: Το σημείο «μηδέν» της διαρροής προπανίου που οδήγησε στον θάνατο τις 5 εργάτριες – Συλλήψεις στελεχών της εταιρίας δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-ergostasio2-1200x675-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Η ακρίβεια βλάπτει (και) τις επενδύσεις ^ τι πραγματικά σημαίνει μεγαλύτερη κατανάλωση ^ οι αδύναμοι κρίκοι της οικονομίας ^ έξι δυνατά «χαρτιά» ^ ασταμάτητη η ΓΕΚ ΤΕΡΝΑ ^ ο χρυσός της Χαλκιδικής",
           "link": "https://www.newsit.gr/blogs/apocryptografos/i-akriveia-vlaptei-kai-tis-ependyseis-ti-pragmatika-simainei-megalyteri-katanalosi-oi-adynamoi-krikoi-tis-oikonomias-eksi-dynata-xartia-astamatiti-i-gek-terna-o-xrysos-tis-xalkidikis/4585095/",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 04:04:19 +0300",
           "description": "Τι τροφοδοτεί την επικίνδυνη τάση προς ελλειμματικές δαπάνες σε ολόκληρη την παγκόσμια οικονομία, συσσωρεύοντας δημόσιο χρέος",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/debt-scaled-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ο πρώην αντιπρόεδρος του Παναμά, Χοσέ Γκαμπριέλ Καρίσο, συνελήφθη με κατηγορίες για παράνομο πλουτισμό",
-          "link": "https://www.in.gr/2026/01/28/world/o-proin-antiproedros-tou-panama-xose-gkampriel-kariso-synelifthi-katigories-gia-paranomo-ploutismo/",
-          "pubDate": "Wed, 28 Jan 2026 03:33:41 +0300",
-          "description": "Πριν ορκιστεί και αναλάβει τα βουλευτικά του καθήκοντα, ο Χοσέ Γκαμπριέλ Καρίσο συνελήφθη όπως επέστρεφε από τη Γουατεμάλα στον Παναμά, πριν αποκτήσει ασυλία",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Jose-Gabriel-Carrizo-768x476.jpg",
           "source": "In.gr"
         }
       ]
