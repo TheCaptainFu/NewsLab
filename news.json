@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-01-28T14:55:32.183Z",
+  "lastUpdated": "2026-01-28T15:00:51.674Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Νεκροί οπαδοί του ΠΑΟΚ: «Τα θυμάμαι όλα, θρηνώ τους φίλους μου, ήμασταν αδέρφια» λέει τραυματίας του τροχαίου στη Ρουμανία",
+          "link": "https://www.newsit.gr/ellada/nekroi-opadoi-tou-paok-ta-thymamai-ola-thrino-tous-filous-mou-imastan-aderfia-leei-traymatias-tou-troxaiou-sti-roumania/4585888/",
+          "pubDate": "Wed, 28 Jan 2026 14:58:24 +0000",
+          "description": "Στην Τιμισοάρα της Ρουμανίας νοσηλεύονται οι τραυματίες και μοναδικοί επιζώντες του πολύνεκρου τροχαίου δυστυχήματος με το βαν, στο οποίο επέβαιναν 10 οπαδοί του ΠΑΟΚ, με ...  \nTo άρθρο Νεκροί οπαδοί του ΠΑΟΚ: «Τα θυμάμαι όλα, θρηνώ τους φίλους μου, ήμασταν αδέρφια» λέει τραυματίας του τροχαίου στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-troxaio-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ο Πούτιν συνεχάρη τον αλ Σάρα: «Αποκατέστησες την εδαφική ακεραιότητα και την σταθερότητα στη Συρία»",
+          "link": "https://www.newsit.gr/kosmos/o-poutin-synexari-ton-al-sara-apokatestises-tin-edafiki-akeraiotita-kai-tin-statherotita-sti-syria/4585902/",
+          "pubDate": "Wed, 28 Jan 2026 14:55:41 +0000",
+          "description": "Σε μια κρίσιμη χρονική συγκυρία για την Συρία, με μια εύθραυστη εκεχειρία ανάμεσα στους Κούρδους μαχητές και τις κυβερνητικές δυνάμεις, ο de facto ηγέτης της ...  \nTo άρθρο Ο Πούτιν συνεχάρη τον αλ Σάρα: «Αποκατέστησες την εδαφική ακεραιότητα και την σταθερότητα στη Συρία» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/putin-alsharaa-reuters-3-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ολυμπιακός – Μπαρτσελόνα: Με Κλάιμπερν οι Καταλανοί στο ΣΕΦ",
           "link": "https://www.newsit.gr/athlitika/olympiakos-mpartselona-me-klaimpern-oi-katalanoi-sto-sef/4585886/",
@@ -201,14 +217,6 @@
           "source": "NewsIT"
         },
         {
-          "title": "Κόντρα για τα Ίμια στη Βουλή – «Καρφιά» Λαζαρίδη στο ΠΑΣΟΚ για «γκριζάρισμα» του Αιγαίου – «Βρώμικες πρακτικές προπαγάνδας», απαντά ο Χριστίδης",
-          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/kontra-gia-ta-imia-sti-vouli-karfia-lazaridi-sto-pasok-gia-gkrizarisma-tou-aigaiou-vromikes-praktikes-propagandas-apanta-o-xristidis/",
-          "pubDate": "Wed, 28 Jan 2026 16:42:00 +0300",
-          "description": "«Ποτέ μα ποτέ δεν υιοθέτησαν τις πιο βρώμικες πρακτικές προπαγάνδας του κινδύνου εξ ανατολών», τόνισε ο κοινοβουλευτικός εκπρόσωπος του ΠΑΣΟΚ, κάνοντας λόγο για «φτηνή εσωτερική αντιπαράθεση»",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/NMTR7497-768x513.jpg",
-          "source": "In.gr"
-        },
-        {
           "title": "Τροχαίο με νεκρούς οπαδούς του ΠΑΟΚ: Κεριά και λουλούδια έξω από το κατάστημα που εργαζόταν ο 30χρονος που σκοτώθηκε στη Ρουμανία",
           "link": "https://www.newsit.gr/ellada/troxaio-me-nekrous-opadous-tou-paok-keria-kai-louloudia-ekso-apo-to-katastima-pou-ergazotan-o-30xronos-pou-skotothike-sti-roumania/4585768/",
           "pubDate": "Wed, 28 Jan 2026 13:41:14 +0000",
@@ -231,14 +239,6 @@
           "description": "Στο Αλμπαθέτε της Ισπανίας, εκεί όπου «χτυπά» ο παλμός του Tactical Leadership Programme (TLP) και εκπαιδεύονται οι αυριανοί ηγέτες των σύνθετων αεροπορικών επιχειρήσεων του NATO, ...  \nTo άρθρο Πολεμική Αεροπορία: Συμμετέχει στο σχολείο «Top Gun» του NATO με F-16 για να συνεχίσει την θετική της παράδοση δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/f-16-viper-polemiki-aeroporia-2-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Διαιτητές Super League: «Ανείπωτη τραγωδία για την οικογένεια του ΠΑΟΚ και το ελληνικό ποδόσφαιρο»",
-          "link": "https://www.in.gr/2026/01/28/sports/football/diaitites-super-league-aneipoti-tragodia-gia-tin-oikogeneia-tou-paok-kai-elliniko-podosfairo/",
-          "pubDate": "Wed, 28 Jan 2026 16:37:51 +0300",
-          "description": "Οι διαιτητές της Super League εξέδωσαν ανακοίνωση για το τραγικό συμβάν στη Ρουμανία, όπου έχασαν τη ζωή τους επτά φίλαθλοι του ΠΑΟΚ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/REFEREE-3-768x512.jpg",
-          "source": "In.gr"
         },
         {
           "title": "Eurovision 2026: Η Ελλάδα στην 3η θέση στα στοιχήματα, λίγες ημέρες πριν την ανάδειξη του εκπροσώπου της",
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Εμπορική συμφωνία με Ινδία εδραιώνει τη φωνή της ΕΕ σε «πολυπολικό κόσμο», λέει Κόστα στο Euronews",
+          "link": "http://gr.euronews.com/my-europe/2026/01/28/indias-trade-deal-strengthens-the-eus-position-in-a-multipolar-world-costa-tells-euronews",
+          "pubDate": "Wed, 28 Jan 2026 15:48:17 +0100",
+          "description": "Ο πρόεδρος του Ευρωπαϊκού Συμβουλίου λέει στο Euronews ότι η συμφωνία ελεύθερου εμπορίου με την Ινδία θα στηρίξει την παγκόσμια οικονομία, κλονισμένη από δασμούς. Μειώνονται οι δασμοί σε πάνω από 90% των εξαγωγών της ΕΕ.",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Η φονική κακοκαιρία «Κρίστιν» σαρώνει την Πορτογαλία",
           "link": "http://gr.euronews.com/green/2026/01/28/h-fonikh-kakokairia-kristin-sarwnei-thn-portogalia",
           "pubDate": "Wed, 28 Jan 2026 15:45:57 +0100",
@@ -731,14 +739,6 @@
           "description": "Η Ιρανή εικαστικός Άινα Μοαζέν ζει ανάμεσα σε Ιταλία, Αζερμπαϊτζάν και τον Κόλπο και επιδιώκει να μετατρέψει τη διεθνική της εμπειρία σε πολιτιστικό διάλογο και αντίσταση στη φονική καταστολή αντικυβερνητικών διαδηλώσεων από το καθεστώς της Τεχεράνης.",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Κυπριακό: Πρόταση 5 σημείων από τον Νίκο Χριστοδουλίδη- «Θα συνεχίσουμε τη συζήτηση»",
-          "link": "http://gr.euronews.com/2026/01/28/kypriako-trimerhs-paketo-pente-shmeion-xristodoylidhs",
-          "pubDate": "Wed, 28 Jan 2026 11:26:53 +0100",
-          "description": "«Η πρότασή αφορά την ουσία του προβλήματος και τα Μέτρα Οικοδομήσης Εμπιστοσύνης.  Δεν είμαι απογοητευμένος» δήλωσε ο Πρόεδρος της Κυπριακής Δημοκρατίας",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,30 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ολυμπιακός: Από Έβρο μέχρι Λευκωσία στο Άμστερνταμ χωρίς εισιτήριο για τη νίκη-πρόκριση επί του Άγιαξ (vid)  ",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510937/olympiakos-apo-ebro-mehri-leykosia-sto-amsterntam-horis-eisitirio",
+          "pubDate": "Wed, 28 Jan 2026 17:00:27 +0200",
+          "description": "Χιλιάδες φίλαθλοι του Ολυμπιακού είναι στο Άμστερνταμ με εισιτήριο μόνο την... αγάπη τους για την ομάδα τους. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/opadoi_amsterdam1.jpg?itok=hsLKuh7s",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Εκτός προπόνησης ο Χολμς - Το status του Ναν",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2510936/panathinaikos-ektos-proponisis-o-holms-status-toy-nan",
+          "pubDate": "Wed, 28 Jan 2026 16:57:04 +0200",
+          "description": "Ατομικό πρόγραμμα ακολούθησε ο Κέντρικ Ναν στη σημερινή προπόνηση του Παναθηναϊκού, την ώρα που εκτός έμεινε ο Χολμς, λόγω στομαχικών διαταραχών.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/nun.jpg?itok=g6qqxpdm",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Stoiximan Super League 1: Κανένα αίτημα για αναβολή από την Λίγκα ",
+          "link": "https://www.gazzetta.gr/football/superleague/2510935/stoiximan-super-league-1-kanena-aitima-gia-anaboli-apo-tin-ligka",
+          "pubDate": "Wed, 28 Jan 2026 16:54:56 +0200",
+          "description": "Η Λίγκα δεν έχει αποστείλει σύμφωνα με τις πληροφορίες που υπάρχουν αίτημα για αναβολή της επικείμενης 19ης αγωνιστικής της Stoiximan Super League 1.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sl_1_2.jpg?itok=0v3ihfqI",
+          "source": "Gazzetta"
+        },
         {
           "title": "Λεβαδειακός: Ανακοίνωσε τον Χρήστο Παπαδόπουλο",
           "link": "https://www.gazzetta.gr/football/superleague/2510934/lebadeiakos-anakoinose-ton-hristo-papadopoylo",
@@ -961,30 +985,6 @@
           "description": "Το ματς των Θάντερ με τους Πέλικανς δεν ήταν ήρεμο και ο Ντορτ παραλίγο να το τινάξει στον... αέρα στο τέλος.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dort.jpg?itok=Wfk1pDOO",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμάνια: Το συλλυπητήριο μήνυμα του Φονσέκα και του Μεϊτλαντ-Νάιλς στη συνέντευξη Τύπου",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510907/paok-dystyhima-sti-roymania-syllypitirio-minyma-toy-fonseka-kai-toy",
-          "pubDate": "Wed, 28 Jan 2026 15:06:24 +0200",
-          "description": "Τόσο ο προπονητής της Λιόν, Πάουλο Φονσέκα όσο και ο Εϊνσλέι Μέιτλαντ-Νάιλς έδειξαν τη στήριξή τους για τους επτά αδικοχαμένους οπαδούς του ΠΑΟΚ μιλώντας στη συνέντευξη Τύπου.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-12/fonseca_milan.jpg?itok=f91cR5tR",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άρης: Επιβεβαιώνει τη συμφωνία με τον Μπενχαμίν Γκαρέ",
-          "link": "https://www.gazzetta.gr/football/superleague/2510906/aris-epibebaionei-ti-symfonia-me-ton-mpenhamin-gkare",
-          "pubDate": "Wed, 28 Jan 2026 14:59:33 +0200",
-          "description": "Ο Μπενχαμίν Γκαρέ θα πρέπει να θεωρείται παίκτης του Άρη καθώς οι «κίτρινοι» επιβεβαιώνουν τη συμφωνία για τον δανεισμό του 25χρονου Αργεντίνου επιθετικού.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gkare.jpg?itok=k0wvun_J",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μπενίτεθ: «Οι οπαδοί να πιστέψουν στο πλάνο, πιθανό να δούμε τον Αντίνο με την Κηφισιά»",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510905/mpeniteth-oi-opadoi-na-pistepsoyn-sto-plano-pithano-na-doyme-ton",
-          "pubDate": "Wed, 28 Jan 2026 14:53:21 +0200",
-          "description": "Ο Ράφα Μπενίτεθ έκανε μία μεγάλη τοποθέτηση για όλα όσα συμβαίνουν στον Παναθηναϊκό με αφορμή την συνέντευξη Τύπου του αγώνα με την Ρομα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benitez_intime_8.jpg?itok=6b1NNxps",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Διαθέσιμα λίγα επιπλέον εισιτήρια για το sold out με τη Ρεάλ!",
+          "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/panathinaikos-diathesima-liga-epipleon-eisithria-gia-to-sold-out-me-th-real/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-diathesima-liga-epipleon-eisithria-gia-to-sold-out-me-th-real",
+          "pubDate": "Wed, 28 Jan 2026 14:55:53 +0000",
+          "description": "Η ΚΑΕ Παναθηναϊκός AKTOR ανακοίνωσε την έκτακτη διάθεση περιορισμένου αριθμού εισιτηρίων για την αναμέτρηση με τη Ρεάλ Μαδρίτης. Σημαντική ενημέρωση για τους φίλους του Παναθηναϊκός AKTOR εξέδωσε η ΚΑΕ, ενόψει της αναμέτρησης με την Ρεάλ Μαδρίτης την Τρίτη (03/02, 21:15), στο πλαίσιο της 26ης αγωνιστικής της regular season της EuroLeague. Παρότι το παιχνίδι έχει ανακοινωθεί […]\nThe post Παναθηναϊκός: Διαθέσιμα λίγα επιπλέον εισιτήρια για το sold out με τη Ρεάλ! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/sima.webp",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Παναθηναϊκός: Μια επιστροφή κι ένα νέο πρόβλημα ενόψει Βιλερμπάν!",
           "link": "https://trifilara.gr/panathinaikos-mia-epistrofi-ki-ena-neo-provlima-enopsei-vilerban/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-mia-epistrofi-ki-ena-neo-provlima-enopsei-vilerban",
@@ -1215,14 +1223,6 @@
           "description": "Ο Παναθηναϊκός συνεχίζει να επενδύει στις Ακαδημίες, «δένοντας» με επαγγελματικό συμβόλαιο ένα ακόμη ταλέντο.\nThe post Πήρε νέο «διαμαντάκι» ο Παναθηναϊκός! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Επίσημο: Στον Παναθηναϊκό ο Βανδήρας! – Η διάρκεια του συμβολαίου!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/epishmo-ston-panathinaiko-o-vandhras-h-diarkeia-tou-sumvolaiou/?utm_source=rss&utm_medium=rss&utm_campaign=epishmo-ston-panathinaiko-o-vandhras-h-diarkeia-tou-sumvolaiou",
-          "pubDate": "Wed, 28 Jan 2026 11:15:20 +0000",
-          "description": "Ο Παναθηναϊκός συνεχίζει να επενδύει στις Ακαδημίες, «δένοντας» με επαγγελματικό συμβόλαιο ένα ακόμη ταλέντο. Την ενίσχυση των τμημάτων υποδομής του συνεχίζει ο Παναθηναϊκός, ανακοινώνοντας την απόκτηση του νεαρού Αλέξανδρου Βανδήρα, στο πλαίσιο της στρατηγικής επένδυσης στο ελληνικό ταλέντο. Ο 16χρονος μεσοεπιθετικός υπέγραψε το πρώτο επαγγελματικό συμβόλαιο της καριέρας του με το «τριφύλλι», το οποίο θα […]\nThe post Επίσημο: Στον Παναθηναϊκό ο Βανδήρας! – Η διάρκεια του συμβολαίου! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Vandyras.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Ο φαύλος κύκλος και η σταθερότητα ως προαπαιτούμενο",
