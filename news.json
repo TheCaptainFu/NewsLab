@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T19:50:28.305Z",
+  "lastUpdated": "2026-01-28T19:55:24.925Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Champions League live με το μεγάλο φινάλε της League Phase",
+          "link": "https://www.newsit.gr/athlitika/champions-league-live-me-to-megalo-finale-tis-league-phase/4585909/",
+          "pubDate": "Wed, 28 Jan 2026 19:51:04 +0000",
+          "description": "Πέφτει η «αυλαία» της League Phase του Champiosn League, καθώς το βράδυ της Τετάρτης (28.01.2026) έχουμε την 8η και τελευταία αγωνιστική της φάσης. Στο τέλος ...  \nTo άρθρο Champions League live με το μεγάλο φινάλε της League Phase δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/real-madrid-empape-reuters.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου",
+          "link": "https://www.newsit.gr/athlitika/tragodia-paok-ypodoxi-ton-epta-soron-sto-aerodromio-apo-tous-syndesmous-tou-dikefalou/4586194/",
+          "pubDate": "Wed, 28 Jan 2026 19:50:21 +0000",
+          "description": "Οι οργανωμένοι οπαδοί του ΠΑΟΚ θα υποδεχθούν τις επτά σορούς των αδικοχαμένων φίλων της ομάδας στο αεροδρόμιο. Οι σοροί των επτά φίλων του ΠΑΟΚ θα ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΗΠΑ: Σε διαθεσιμότητα οι πράκτορες της CBP που πυροβόλησαν και σκότωσαν τον 37χρονο Άλεξ Πρέτι στη Μινεάπολη",
           "link": "https://www.newsit.gr/kosmos/ipa-se-diathesimotita-oi-praktores-tis-cbp-pou-pyrovolisan-kai-skotosan-ton-37xrono-aleks-preti-sti-mineapoli/4586193/",
@@ -113,6 +129,30 @@
           "source": "NewsIT"
         },
         {
+          "title": "LIVE: Ντόρτμουντ – Ίντερ",
+          "link": "https://www.in.gr/matchcenter/4947125/",
+          "pubDate": "Wed, 28 Jan 2026 21:54:28 +0300",
+          "description": "LIVE: Ντόρτμουντ – Ίντερ. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Ντόρτμουντ – Ίντερ για την 8η αγωνιστική της League Phase του Champions League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/omqe9gu8_team-inter-milan-afp_62-768x472.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "LIVE: Λεβερκούζεν – Βιγιαρεάλ",
+          "link": "https://www.in.gr/matchcenter/4947167/",
+          "pubDate": "Wed, 28 Jan 2026 21:53:28 +0300",
+          "description": "LIVE: Λεβερκούζεν – Βιγιαρεάλ. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Λεβερκούζεν – Βιγιαρεάλ για την 8η αγωνιστική της League Phase του Champions League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/crop_20260124_FS2_5802_859224_M-768x419.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "LIVE: Μονακό – Γιουβέντους",
+          "link": "https://www.in.gr/matchcenter/4947203/",
+          "pubDate": "Wed, 28 Jan 2026 21:53:13 +0300",
+          "description": "LIVE: Μονακό – Γιουβέντους. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Μονακό – Γιουβέντους για την 8η αγωνιστική της League Phase του Champions League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pfwgkxcxilqyargzeh5f-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Έσπασαν τα ισόβια για τον δολοφόνο της 43χρονης εν διαστάσει συζύγου του στην Σωτηρίτσα Λάρισας",
           "link": "https://www.protothema.gr/greece/article/1765052/espasan-ta-isovia-gia-ton-dolofono-tis-43hronis-en-diastasei-suzugou-tou-stin-sotiritsa-larisas/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 20:53:00 +0200",
@@ -127,6 +167,30 @@
           "description": "Ο Ολυμπιακός αντιμετωπίζει τον Άγιαξ στο Άμστερνταμ (28.01.2026, 22:00, Newsit.gr, MEGA COSMOTE SPORT 2HD) με στόχο τη νίκη που θα τον οδηγήσει στα playoffs του ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Οι ενδεκάδες των δυο ομάδων για τον «τελικό» πρόκρισης στα playoffs του Champions League δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-ajax-eurokinissi-1200x799.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "LIVE: Ατλέτικο Μαδρίτης – Μπόντο/Γκλιμτ",
+          "link": "https://www.in.gr/matchcenter/4947204/",
+          "pubDate": "Wed, 28 Jan 2026 21:52:18 +0300",
+          "description": "LIVE: Ατλέτικο Μαδρίτης – Μπόντο/Γκλιμτ. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Ατλέτικο Μαδρίτης – Μπόντο/Γκλιμτ για την 8η αγωνιστική της League Phase του Champions League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/i-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Συνέδριο Νέας Αριστεράς: Το μεγάλο ερώτημα μετά το παρ’ ολίγον διαζύγιο και ο εξαιρετικά δύσκολος δρόμος της συμπόρευσης",
+          "link": "https://www.in.gr/2026/01/28/politics/synedrio-neas-aristeras-megalo-erotima-meta-par-oligon-diazygio-kai-o-eksairetika-dyskolos-dromos-tis-symporeysis/",
+          "pubDate": "Wed, 28 Jan 2026 21:51:47 +0300",
+          "description": "Τα απόνερα του συνεδρίου της Νέας Αριστεράς και ο κίνδυνος όπως το κόμμα να οδηγηθεί σε περαιτέρω συρρίκνωση στο μέλλον. Οι βεβαιότητες, οι αμφιβολίες και το ζήτημα της αξιοπιστίας του χώρου της Αριστεράς.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/NEA-ARISTERA-2-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "LIVE: Αθλέτικ Μπιλμπάο – Σπόρτινγκ",
+          "link": "https://www.in.gr/matchcenter/4947227/",
+          "pubDate": "Wed, 28 Jan 2026 21:50:37 +0300",
+          "description": "LIVE: Αθλέτικ Μπιλμπάο – Σπόρτινγκ. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Αθλέτικ Μπιλμπάο – Σπόρτινγκ για την 8η αγωνιστική της League Phase του Champions League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_I3-SjXIAEyPhT-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Δολοφονία Δημοσθένους στην Κύπρο, για πρώτη φορά και οι 6 κατηγορούμενοι ενώπιον Δικαστηρίου\n",
@@ -182,70 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 21:46:36 +0300",
           "description": "LIVE: Παρί Σεν Ζερμέν – Νιουκάστλ. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Παρί Σεν Ζερμέν – Νιουκάστλ για την 8η αγωνιστική της League Phase του Champions League.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/paris-saint-germain-v-lille-osc-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "LIVE: Λίβερπουλ – Καραμπάγκ",
-          "link": "https://www.in.gr/matchcenter/4947143/",
-          "pubDate": "Wed, 28 Jan 2026 21:46:29 +0300",
-          "description": "LIVE: Λίβερπουλ – Καραμπάγκ. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Λίβερπουλ – Καραμπάγκ για την 8η αγωνιστική της League Phase του Champions League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/liverpool-fc-potm-241225_fcf86be-1-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "LIVE: Μπενφίκα – Ρεάλ Μαδρίτης",
-          "link": "https://www.in.gr/matchcenter/4947119/",
-          "pubDate": "Wed, 28 Jan 2026 21:45:37 +0300",
-          "description": "LIVE: Μπενφίκα – Ρεάλ Μαδρίτης. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Μπενφίκα – Ρεάλ Μαδρίτης για την 8η αγωνιστική της League Phase του Champions League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1ND_PREVIA_ALEGRIA_MBAPPE_ASENCI-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Μινεάπολη: Σε αργία τέθηκαν οι πράκτορες που σκότωσαν τον Άλεξ Πρέτι",
-          "link": "https://www.in.gr/2026/01/28/world/mineapoli-se-argia-tethikan-oi-praktores-pou-skotosan-ton-aleks-preti/",
-          "pubDate": "Wed, 28 Jan 2026 21:45:25 +0300",
-          "description": "Η δολοφονία του Πρέτι, ο δεύτερος θανατηφόρος πυροβολισμός από υπαλλήλους της ICE στη Μινεσότα αυτό το μήνα, έχει γίνει σημείο καμπής στην εκτεταμένη καταστολή της μετανάστευσης από την κυβέρνηση",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-28T140225Z_279772516_RC2BAJATAM2A_RTRMADP_5_USA-TRUMP-MINNESOTA-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τροχαίο στη Ρουμανία: Στο χειρουργείο ένας εκ των τραυματιών – Οι υπόλοιποι θα μεταφερθούν στην Ελλάδα την Πέμπτη",
-          "link": "https://www.newsit.gr/ellada/troxaio-sti-roumania-sto-xeirourgeio-enas-ek-ton-traymation-oi-ypoloipoi-tha-metaferthoun-stin-ellada-tin-pempti/4586139/",
-          "pubDate": "Wed, 28 Jan 2026 18:44:14 +0000",
-          "description": "Τους δύο από τους τρεις τραυματίες οπαδούς του ΠΑΟΚ που νοσηλεύονται στην Ρουμανίας μετά το πολύνεκρο τροχαίο δυστύχημα με τους επτά νεκρούς θα μεταφέρει αεροσκάφος ...  \nTo άρθρο Τροχαίο στη Ρουμανία: Στο χειρουργείο ένας εκ των τραυματιών – Οι υπόλοιποι θα μεταφερθούν στην Ελλάδα την Πέμπτη δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-1200x900.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Στο χειρουργείο μετά από επιπλοκή ένας από τους τραυματισμένους οπαδούς του ΠΑΟΚ, η ανάρτηση Γεωργιάδη\n",
-          "link": "https://www.protothema.gr/greece/article/1765039/sto-heirourgeio-auti-tin-ora-enas-apo-tous-traumatismenous-opadous-tou-paok-i-anartisi-georgiadi/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 20:40:43 +0200",
-          "description": "Η απόφαση ελήφθη από τους Ρουμάνους γιατρούς, μετά από νέα μαγνητική τομογραφία",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/troxaio-paok.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Τραγωδία στα Τρίκαλα: Παρέμβαση του Ρουβίκωνα στο σπίτι του ιδιοκτήτη του εργοστασίου",
-          "link": "https://www.in.gr/2026/01/28/greece/tragodia-sta-trikala-paremvasi-tou-rouvikona-sto-spiti-tou-idioktiti-tou-ergostasiou/",
-          "pubDate": "Wed, 28 Jan 2026 21:35:55 +0300",
-          "description": "Βίντεο από τη συγκεκριμένη παρέμβαση της συλλογικότητας.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/violanta-7-1152x864-768x576.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Καρλοβάρσκο – Ολυμπιακός 3-2 σετ: Πάλεψαν για την ανατροπή, αλλά «λύγισαν» οι Πειραιώτες",
-          "link": "https://www.in.gr/2026/01/28/sports/othersports/karlovarsko-olympiakos-3-2-palepsan-gia-tin-anatropi-alla-lygisan-oi-peiraiotes/",
-          "pubDate": "Wed, 28 Jan 2026 21:34:33 +0300",
-          "description": "Η ομάδα βόλεϊ Ανδρών του Ολυμπιακού ΟΝΕΧ ολοκλήρωσε το φετινό ευρωπαϊκό της ταξίδι στην Τσεχία, μετά την ήττα με 3-2 σετ από την Καρλοβάρσκο, οι οποίοι πήραν την πρόκριση για τους «8» τους CEV Cup.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6809526-1-1-768x511.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "LIVE: Άγιαξ – Ολυμπιακός",
-          "link": "https://www.in.gr/matchcenter/4947229/",
-          "pubDate": "Wed, 28 Jan 2026 21:34:26 +0300",
-          "description": "LIVE: Άγιαξ – Ολυμπιακός. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Άγιαξ – Ολυμπιακός για την 8η αγωνιστική της League Phase του Champions League. Τηλεοπτικά από MEGA και COSMOTE SPORT 2 HD.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6819440-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Champions League live με το μεγάλο φινάλε της League Phase",
+          "link": "https://www.newsit.gr/athlitika/champions-league-live-me-to-megalo-finale-tis-league-phase/4585909/",
+          "pubDate": "Wed, 28 Jan 2026 19:51:04 +0000",
+          "description": "Πέφτει η «αυλαία» της League Phase του Champiosn League, καθώς το βράδυ της Τετάρτης (28.01.2026) έχουμε την 8η και τελευταία αγωνιστική της φάσης. Στο τέλος ...  \nTo άρθρο Champions League live με το μεγάλο φινάλε της League Phase δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/real-madrid-empape-reuters.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ρολόι της Αποκάλυψης: Πόσα δευτερόλεπτα απέχουμε από την καταστροφή",
+          "link": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
+          "pubDate": "Wed, 28 Jan 2026 21:51:00 +0200",
+          "description": "Στα 85 δευτερόλεπτα πριν τα «μεσάνυχτα» το Ρολόι της Αποκάλυψης - Προειδοποιούν οι επιστήμονες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-05/ef84781a-apokalypsi.jpg?itok=pLcAnDCR",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου",
+          "link": "https://www.newsit.gr/athlitika/tragodia-paok-ypodoxi-ton-epta-soron-sto-aerodromio-apo-tous-syndesmous-tou-dikefalou/4586194/",
+          "pubDate": "Wed, 28 Jan 2026 19:50:21 +0000",
+          "description": "Οι οργανωμένοι οπαδοί του ΠΑΟΚ θα υποδεχθούν τις επτά σορούς των αδικοχαμένων φίλων της ομάδας στο αεροδρόμιο. Οι σοροί των επτά φίλων του ΠΑΟΚ θα ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Υποδοχή των επτά σορών στο αεροδρόμιο από τους συνδέσμους του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-1.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Πανιώνιος - Λόντον Λάιονς 79-78: Με σούπερ Τέιλορ και... clutch Λιούις",
           "link": "https://www.gazzetta.gr/basketball/eurocup/2511036/panionios-lonton-laions-79-78-me-soyper-teilor-kai-clutch-lioyis",
           "pubDate": "Wed, 28 Jan 2026 21:49:57 +0200",
@@ -961,30 +985,6 @@
           "description": "Η Ford αναβαθμίζει τα ηλεκτρικά Explorer και Capri με νέα μπαταρία LFP και ισχυρότερο ηλεκτροκινητήρα, αυξάνοντας αυτονομία και επιδόσεις.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ford.jpg?itok=Xkfp2k_7",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η τρομερή ιστορία επιζήσαντα οπαδού",
-          "link": "https://www.gazzetta.gr/football/europa-league/2511019/paok-dystyhima-sti-roymania-i-tromeri-istoria-epizisanta-opadoy",
-          "pubDate": "Wed, 28 Jan 2026 20:59:07 +0200",
-          "description": "Ένας από τους οπαδούς του ΠΑΟΚ που επέζησαν είχε τροχαίο με τη μηχανή του πριν τέσσερις μήνες, ενώ σε μικρή ηλικία έχασε τη μητέρα του.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_8.jpg?itok=nlErKCjb",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Οι επιλογές Μεντιλίμπαρ με Άγιαξ με Ταρέμι αντί Τσικίνιο",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511018/olympiakos-oi-epiloges-mentilimpar-me-agiax-me-taremi-anti",
-          "pubDate": "Wed, 28 Jan 2026 20:55:27 +0200",
-          "description": "Ο Ισπανός αποφάσισε για τη συγκρότηση της βασικής 11άδας του Ολυμπιακού για τον ματς - κλειδί με τον Άγιαξ στην Ολλανδία. ΑΠΟΣΤΟΛΗ - ΟΛΛΑΝΔΙΑ, ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/taremi_oly1.jpg?itok=aM0d5SXr",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παυλίδης: Βασικός στον «τελικό» της Μπενφίκα κόντρα στη Ρεάλ",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511017/paylidis-basikos-ston-teliko-tis-mpenfika-kontra-sti-real",
-          "pubDate": "Wed, 28 Jan 2026 20:54:35 +0200",
-          "description": "Φανέλα βασικού πήρε ο Παυλίδης για την κρίσιμη αναμέτρηση της Μπενφίκα κόντρα στη Ρεάλ Μαδρίτης στο «Ντα Λουζ» για την τελευταία αγωνιστική του Champions League.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pavlidis_benfica_0.jpg?itok=o9-RlfHh",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "«Προχωρά για τη μεταγραφή Καμαρά ο Παναθηναϊκός!»",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/prochora-gia-ti-metagrafi-kamara-o-pan/?utm_source=rss&utm_medium=rss&utm_campaign=prochora-gia-ti-metagrafi-kamara-o-pan",
+          "pubDate": "Wed, 28 Jan 2026 19:54:54 +0000",
+          "description": "Δημοσίευμα συνδέει τους «πράσινους» με τον Ετιέν Καμαρά της Σαρλερουά, την ώρα που το «Τριφύλλι» ψάχνει απεγνωσμένα χαφ πρώτης γραμμής. Από τη Γαλλία και το Βέλγιο προκύπτει νέο δημοσίευμα που φέρνει τον Παναθηναϊκό σε προχωρημένες διαπραγματεύσεις με τη Σαρλερουά για την απόκτηση του Ετιέν Καμαρά, ενός 22χρονου αμυντικού μέσου, με έντονα ανασταλτικά χαρακτηριστικά και ύψος που ξεχωρίζει για τη θέση […]",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/IMG_6093.jpeg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Όσο της επιτίθενται ανεβαίνει: Το συντριπτικό ποσοστό της Μαρίας Καρυστιανού στην Α’ Αθήνας",
           "link": "https://panathinaikos24.gr/2026/01/28/618079/oso-tis-epitithentai-anevainei-to-syntriptiko-pososto-tis-marias-karystianou-stin-a-athinas/",
@@ -1158,14 +1166,6 @@
           "pubDate": "Wed, 28 Jan 2026 17:14:22 +0000",
           "description": "Ολοκλήρωσε με πολλές απουσίες την προετοιμασία για Ρόμα ο Παναθηναϊκός. Με απογευματινή προπόνηση στο «Γ. Καλαφάτης» ολοκληρώθηκε την Τετάρτη η προετοιμασία του Παναθηναϊκού ενόψει της αυριανής αναμέτρησης με τη Ρόμα στο Ολυμπιακό Στάδιο, για την τελευταία αγωνιστική της League Phase του Europa League. Το πρόγραμμα περιελάμβανε προθέρμανση, rondo, τακτική και παιχνίδι σε περιορισμένο χώρο, με […]",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/podosfairo-2-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Παναθηναϊκός – Ολυμπιακός LIVE STREAMING | Μπάσκετ Γυναικών",
-          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/panathinaikos-olybiakos-live-streaming-basket/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-olybiakos-live-streaming-basket",
-          "pubDate": "Wed, 28 Jan 2026 17:09:48 +0000",
-          "description": "Παναθηναϊκός και Ολυμπιακός διασταυρώνουν τα ξίφη τους στο κλειστό «Παύλος Γιαννακόπουλος» για μια ακόμη φορά. Για την 16η στροφή της Α1 Γυναικών οι «πράσινες» υποδέχονται στο «Παύλος Γιαννακόπουλος» τις πρωταθλήτριες Ελλάδας, στο πιο σπουδαίο ματς της ημέρας. Ο Παναθηναϊκός είχε επικρατήσει στην παράταση στο ματς του πρώτου γύρου με σκορ 88-97, άρα αναμένεται ένα παιχνίδι […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/gynaikon-5.jpg",
           "source": "Όλα Πράσινα"
         },
         {
