@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T13:15:33.079Z",
+  "lastUpdated": "2026-01-28T13:20:31.012Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τα πρόσωπα της τραγωδίας του ΠΑΟΚ, θρήνος για τα «αετόπουλα» που σκοτώθηκαν στο τροχαίο της Ρουμανίας",
+          "link": "https://www.protothema.gr/greece/article/1764817/paok-ta-prosopa-tis-tragodias/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 15:19:00 +0200",
+          "description": "Ο 31χρονος Χρήστος από την Πολίχνη, ο Βάξος από την Κατερίνη και τα τρία ακόμη «αετόπουλα» από την Αλεξάνδρεια Ημαθίας που έχασαν τη ζωή τους",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/maketa-paoktzides.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Amazon: Περικοπή 16.000 θέσεων εργασίας σε όλο τον κόσμο",
+          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/amazon-perikopi-16-000-theseon-ergasias-se-olo-ton-kosmo/4585769/",
+          "pubDate": "Wed, 28 Jan 2026 13:17:43 +0000",
+          "description": "Στην περικοπή 16.000 θέσεων εργασίας σε όλο τον κόσμο προχωρά η Amazon, χωρίς να διευκρινίζει ποιους εργαζόμενους αφορά, ενώ επικεντρώνει τις προσπάθειες του στην τεχνητή ...  \nTo άρθρο Amazon: Περικοπή 16.000 θέσεων εργασίας σε όλο τον κόσμο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/amazon-reuters-scaled-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Βιολάντα: Η έκρηξη οφείλεται σε διαρροή προπανίου από σωληνώσεις",
           "link": "https://www.newsit.gr/ellada/violanta-i-ekriksi-ofeiletai-se-diarroi-propaniou-apo-solinoseis/4585657/",
@@ -29,7 +45,7 @@
           "link": "https://www.newsit.gr/ellada/troxaio-me-tous-opadous-tou-paok-ta-prosopa-tis-tragodias-itan-oloi-apo-20-eos-30-eton/4585730/",
           "pubDate": "Wed, 28 Jan 2026 13:09:04 +0000",
           "description": "Σοκαρισμένο παραμένει το πανελλήνιο από τον τραγικό θάνατο των επτά οπαδών του ΠΑΟΚ στο τροχαίο στη Ρουμανία το μεσημέρι της Τρίτης (27.1.26) και ενώ ταξίδευαν ...  \nTo άρθρο Τροχαίο με τους οπαδούς του ΠΑΟΚ: Τα πρόσωπα της τραγωδίας – Ήταν όλοι από 20 έως 30 ετών δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/troxaio-paok-2.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roumania-sintrimia-1200x675-1.webp",
           "source": "NewsIT"
         },
         {
@@ -169,6 +185,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "CEV Cup: Ο Ολυμπιακός ψάχνει ανατροπή και πρόκριση στην Τσεχία",
+          "link": "https://www.in.gr/2026/01/28/sports/othersports/cev-cup-o-olympiakos-psaxnei-anatropi-kai-prokrisi-stin-tsexia/",
+          "pubDate": "Wed, 28 Jan 2026 15:19:08 +0300",
+          "description": "Ο Ολυμπιακός αντιμετωπίζει το απόγευμα της Τετάρτης (28/1, 19:30) την Καρλοβάρσκο στην Τσεχία για τη φάση των «16» του CEV Cup και για να προκριθεί χρειάζεται νίκη με 3-0 ή 3-1 σετ και έπειτα να πάρει και το «χρυσό» σετ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6820435-768x513.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Κώστας Τσιάρας για ευλογιά προβάτων: «Ο εμβολιασμός δεν συνεπάγεται απαραίτητα τη μη θανάτωση των ζώων»",
           "link": "https://www.newsit.gr/politikh/kostas-tsiaras-gia-eylogia-provaton-o-emvoliasmos-den-synepagetai-aparaitita-ti-mi-thanatosi-ton-zoon/4585710/",
           "pubDate": "Wed, 28 Jan 2026 12:14:18 +0000",
@@ -223,30 +247,6 @@
           "description": "Η δικαιοσύνη στην Τουρκία έχει κινήσει διαδικασία διερεύνησης εις βάρος εκδοτικού οίκου για ενδεχόμενη «χρηματοδότηση της τρομοκρατίας», καθώς οποίος φέρεται να κατέβαλε αμοιβές πνευματικών δικαιωμάτων ...  \nTo άρθρο Τουρκία: Εκδοτικός οίκος κατηγορείται για «χρηματοδότηση τρομοκρατίας» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/turkey-police-reuters.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Λεωφορείο με μαθητές συγκρούστηκε με βαν στη Χαλκιδική – Τρεις τραυματίες",
-          "link": "https://www.in.gr/2026/01/28/greece/leoforeio-mathites-sygkroustike-van-sti-xalkidiki-treis-traymaties/",
-          "pubDate": "Wed, 28 Jan 2026 15:04:15 +0300",
-          "description": "Οι τραυματίες επέβαιναν στο βανάκι που κινούταν στην Παλαιοχωρίου - Αγίου Νικολάου στη Χαλκιδική. Σώοι οι 35 μαθητές στο λεωφορείο.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/23935794-768x481.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Δυστύχημα με οπαδούς του ΠΑΟΚ: Σοκαρισμένος ο οδηγός της νταλίκας που συγκρούστηκε με το βαν – «34 χρόνια, δεν έχω δεί κάτι τέτοιο»",
-          "link": "https://www.newsit.gr/kosmos/dystyxima-me-opadous-tou-paok-sokarismenos-o-odigos-tis-ntalikas-pou-sygkroustike-me-to-van-34-xronia-den-exo-dei-kati-tetoio/4585699/",
-          "pubDate": "Wed, 28 Jan 2026 12:00:44 +0000",
-          "description": "Επτά οπαδοί του ΠΑΟΚ, έχασαν τη ζωή τους και τρεις ακόμη τραυματίστηκαν στο πιο σοβαρό τροχαίο δυστύχημα που έχει σημειωθεί στην Τιμισοάρα της Ρουμανίας τα ...  \nTo άρθρο Δυστύχημα με οπαδούς του ΠΑΟΚ: Σοκαρισμένος ο οδηγός της νταλίκας που συγκρούστηκε με το βαν – «34 χρόνια, δεν έχω δεί κάτι τέτοιο» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Το άλλο το ανέκδοτο με τον Δημητριάδη σας το είπα;",
-          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/allo-anekdoto-ton-dimitriadi-sas-eipa/",
-          "pubDate": "Wed, 28 Jan 2026 15:00:18 +0300",
-          "description": "Δημοσιογραφία από τα Lidl και γκεμπελικές μέθοδοι",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/tsipras_deth-768x429.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,19 +747,19 @@
       "color": "green",
       "articles": [
         {
-          "title": "Eurovision: Στην τρίτη θέση εκτοξεύτηκε η Ελλάδα στα στοιχήματα",
-          "link": "https://www.gazzetta.gr/plus/2510913/eurovision-stin-triti-thesi-ektoxeytike-i-ellada-sta-stoihimata",
-          "pubDate": "Wed, 28 Jan 2026 15:14:35 +0200",
-          "description": "Μεγαλώνει το ενδιαφέρον για τη συμμετοχή της χώρας μας.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/49492fda-euroviosn.jpg?itok=HQ9dvFlx",
-          "source": "Gazzetta"
-        },
-        {
           "title": "ΠΑΟΚ – Δυστύχημα στη Ρουμανία: Συσσωμοί η οικογένεια του Δικεφάλου στην Τούμπα για την επιμνημόσυνη δέηση",
           "link": "https://www.gazzetta.gr/football/europa-league/2510911/paok-dystyhima-sti-roymania-syssomoi-i-oikogeneia-toy-dikefaloy-stin",
           "pubDate": "Wed, 28 Jan 2026 15:11:03 +0200",
           "description": "Ολόκληρη η οικογένεια του ΠΑΟΚ συγκεντρώθηκε στη Θύρα 4 της Τούμπας, όπου τελέστηκε επιμνημόσυνη δέηση για τους επτά νεαρούς φιλάθλους που έχασαν τη ζωή τους στη Ρουμανία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paokkk.jpg?itok=c3PRHPpB",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Eurovision: Στην τρίτη θέση εκτοξεύτηκε η Ελλάδα στα στοιχήματα",
+          "link": "https://www.gazzetta.gr/plus/2510913/eurovision-stin-triti-thesi-ektoxeytike-i-ellada-sta-stoihimata",
+          "pubDate": "Wed, 28 Jan 2026 15:09:35 +0200",
+          "description": "Μεγαλώνει το ενδιαφέρον για τη συμμετοχή της χώρας μας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/49492fda-euroviosn.jpg?itok=HQ9dvFlx",
           "source": "Gazzetta"
         },
         {
@@ -993,6 +993,14 @@
       "color": "lime",
       "articles": [
         {
+          "title": "Παναθηναϊκός: Τα χαρακτηριστικά που ζητά ο Μπενίτεθ για τη μεταγραφή αμυντικού χαφ!",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-ta-xarakthristika-pou-zhta-o-benites-gia-th-metagrafh-tou-amuntikou-xaf/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ta-xarakthristika-pou-zhta-o-benites-gia-th-metagrafh-tou-amuntikou-xaf",
+          "pubDate": "Wed, 28 Jan 2026 13:17:02 +0000",
+          "description": "Οι «πράσινοι» επιταχύνουν για την απόκτηση καθαρού αμυντικού χαφ, με τις επαφές να βρίσκονται σε προχωρημένο στάδιο. Ο τραυματισμός του Τσιριβέγια, που τον θέτει εκτός δράσης έως τα μέσα Μαρτίου, άλλαξε τα δεδομένα και ανάγκασε το «τριφύλλι» να ανεβάσει ρυθμούς, αναζητώντας ένα «6άρι» με ένταση, αθλητικά χαρακτηριστικά και την ετοιμότητα να μπει άμεσα στο βασικό […]\nThe post Παναθηναϊκός: Τα χαρακτηριστικά που ζητά ο Μπενίτεθ για τη μεταγραφή αμυντικού χαφ! appeared first on Όλα Πράσινα.",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/12/kotsolis-benitez.jpg",
+          "source": "Όλα Πράσινα"
+        },
+        {
           "title": "Ιταλικό σενάριο για ενδιαφέρον του Παναθηναϊκού για τον Γκάλο!",
           "link": "https://trifilara.gr/italiko-senario-gia-endiaferon-tou-panathinaikou-gia-ton-gkalo/?utm_source=rss&utm_medium=rss&utm_campaign=italiko-senario-gia-endiaferon-tou-panathinaikou-gia-ton-gkalo",
           "pubDate": "Wed, 28 Jan 2026 13:02:01 +0000",
@@ -1178,11 +1186,11 @@
         },
         {
           "title": "Απόλυτη δικαίωση Παναθηναϊκού στην προπαγάνδα με Ατρόμητο!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/apoluth-dikaiwsh-panathinaikou-sthn-propaganda-me-atromhto/?utm_source=rss&utm_medium=rss&utm_campaign=apoluth-dikaiwsh-panathinaikou-sthn-propaganda-me-atromhto",
-          "pubDate": "Wed, 28 Jan 2026 09:45:50 +0000",
-          "description": "Η Κεντρική Επιτροπή Διαιτησίας επανόρισε τους ίδιους διαιτητές, επιβεβαιώνοντας την απόφαση για τη μη υπόδειξη πέναλτι στο 3ο λεπτό. Την απόφασή της να στηρίξει πλήρως τους διαιτητές του αγώνα Ατρόμητος – Παναθηναϊκός (0-0) έδειξε έμπρακτα η Κεντρική Επιτροπή Διαιτησίας, ορίζοντάς τους εκ νέου σε αναμετρήσεις της 19ης αγωνιστικής της Stoiximan Super League. Στο παιχνίδι του […]\nThe post Απόλυτη δικαίωση Παναθηναϊκού στην προπαγάνδα με Ατρόμητο! appeared first on Όλα Πράσινα.",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/vergetis.jpg",
-          "source": "Όλα Πράσινα"
+          "link": "https://trifilara.gr/apoluth-dikaiwsh-panathinaikou-sthn-propaganda-me-atromhto/?utm_source=rss&utm_medium=rss&utm_campaign=apoluth-dikaiwsh-panathinaikou-sthn-propaganda-me-atromhto",
+          "pubDate": "Wed, 28 Jan 2026 09:50:15 +0000",
+          "description": "Η Κεντρική Επιτροπή Διαιτησίας επανόρισε τους ίδιους διαιτητές, επιβεβαιώνοντας την απόφαση για τη μη υπόδειξη πέναλτι στο 3ο λεπτό.\nThe post Απόλυτη δικαίωση Παναθηναϊκού στην προπαγάνδα με Ατρόμητο! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
         },
         {
           "title": "Ο φαύλος κύκλος και η σταθερότητα ως προαπαιτούμενο",
@@ -1222,14 +1230,6 @@
           "pubDate": "Wed, 28 Jan 2026 06:20:17 +0000",
           "description": "Όλα τα δεδομένα.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3809.jpeg?fit=750%2C422&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Το μήνυμα του Μητσοτάκη για την τραγωδία στη Ρουμανία: «Βαθιά συγκλονισμένος…» – Η πρώτη κίνηση της Κυβέρνησης",
-          "link": "https://panathinaikos24.gr/2026/01/27/617981/to-minyma-tou-mitsotaki-gia-tin-tragodia-sti-roumania-vathia-sygklonismenos-i-proti-kinisi-tis-kyvernisis/",
-          "pubDate": "Tue, 27 Jan 2026 18:56:39 +0000",
-          "description": "Ο Κυριάκος Μητσοτάκης έστειλε το μήνυμά του για την τραγωδία που έλαβε χώρα στη Ρουμανία με θύματα οπαδούς του ΠΑΟΚ.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2024/04/Mitsotakis-3-scaled-1.jpg?fit=1024%2C614&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
