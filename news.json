@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T23:01:12.584Z",
+  "lastUpdated": "2026-01-28T23:05:23.854Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -87,6 +87,14 @@
           "description": "Ο Ολυμπιακός έκανε ένα θρυλικό φινάλε στη League Phase του Champions League και με τρεις σερί νίκες πήρε το εισιτήριο για τα πλέι οφ της ...  \nTo άρθρο Ολυμπιακός: Με Αταλάντα ή Λεβερκούζεν στα πλέι οφ του Champions League δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-14-1200x799.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Βρέθηκε το αεροπλάνο που εξαφανίστηκε στην Κολομβία, δεν υπάρχουν επιζώντες",
+          "link": "https://www.in.gr/2026/01/29/world/vrethike-aeroplano-pou-eksafanistike-stin-kolomvia-den-yparxoun-epizontes/",
+          "pubDate": "Thu, 29 Jan 2026 01:01:14 +0300",
+          "description": "Βρέθηκε το ελικοφόρο αεροσκάφος που είχε εξαφανιστεί στην Κολομβία λίγο πριν την προσγείωση, συνετρίβη και δεν βρέθηκαν επιζώντες",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/beachcraft-1900d-768x425.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Formula 1: Η πρωταθλήτρια McLaren μπήκε στην πίστα",
@@ -239,14 +247,6 @@
           "description": "Ακόμη και την πρώτη 10άδα «βλέπει» πλέον η Ελλάδα στην ειδική βαθμολογία της UEFA, μετά την μεγάλη πρόκριση του Ολυμπιακού στο Άμστερνταμ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828939-768x513.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός: Το γκολ του Ζέλσον Μαρτίνς για το 0-1",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-to-gkol-tou-zelson-martins-gia-to-0-1/4586264/",
-          "pubDate": "Wed, 28 Jan 2026 21:25:20 +0000",
-          "description": "Ο Ολυμπιακός ευτύχησε να προηγηθεί στα πρώτα λεπτά του δευτέρου ημιχρόνου κόντρα στον Άγιαξ στο Άμστερνταμ. Στο 52ο λεπτό, ο Ζέλσον Μαρτίνς και ο Ταρέμι ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Το γκολ του Ζέλσον Μαρτίνς για το 0-1 δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zelson-martins-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Champions League: Τα 61 γκολ και τα highlights της 8η αγωνιστικής (vid)",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511101/champions-league-ta-61-gkol-kai-ta-highlights-tis-8i-agonistikis",
+          "pubDate": "Thu, 29 Jan 2026 01:03:35 +0200",
+          "description": "Απολαύστε τα 61 γκολ και τα highlights της τελευταίας αγωνιστικής της League Phase του Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/liverpool5.jpg?itok=zm9-J5sl",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Ο Αντρέ Λουίζ ήταν εκστασιασμένος με τον κόσμο και την πρόκριση",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511100/olympiakos-o-antre-loyiz-itan-ekstasiasmenos-me-ton-kosmo-kai-tin",
+          "pubDate": "Thu, 29 Jan 2026 01:03:25 +0200",
+          "description": "Παρών στο Άμστερνταμ ο Αντρέ Λουίζ. Ο Βραζιλιάνος εξτρέμ δεν έκρυψε τη χαρά του για την τεράστια πρόκριση του Ολυμπιακού.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/antre_loyiz_0.jpg?itok=pR6AtfpD",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Έσε: «Δουλεύουμε πολύ και το αξίζαμε, τώρα έχουμε ένα σημαντικό ματς με την ΑΕΚ»",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511099/ese-doyleyoyme-poly-kai-axizame-tora-ehoyme-ena-simantiko-mats-me",
+          "pubDate": "Thu, 29 Jan 2026 01:01:20 +0200",
+          "description": "Ο σκόρερ της νίκης του Ολυμπιακού επί του Άγιαξ, Σαντιάγο Έσε αναφέρθηκε στη σκληρή δουλειά για να έρθει η πρόκριση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hezze3.jpg?itok=VydaKfAP",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μουρίνιο: «Μην πηδήξετε από μπαλκόνια, θα ξαναχάσουμε...»",
           "link": "https://www.gazzetta.gr/football/champions-league/2511098/moyrinio-min-pidixete-apo-mpalkonia-tha-xanahasoyme",
           "pubDate": "Thu, 29 Jan 2026 01:00:32 +0200",
@@ -961,30 +985,6 @@
           "description": "Δείτε τις ημερομηνίες των νοκ άουτ του Champions League, από τα playoffs μέχρι τον τελικό της 30ής Μαΐου στη Βουδαπέστη.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiacos_0.jpg?itok=ipGvL4YT",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Με Αταλάντα ή Λεβερκούζεν στα πλέι οφ του Champions League",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-me-atalanta-i-leverkouzen-sta-plei-of-tou-champions-league/4586278/",
-          "pubDate": "Wed, 28 Jan 2026 22:02:04 +0000",
-          "description": "Ο Ολυμπιακός έκανε ένα θρυλικό φινάλε στη League Phase του Champions League και με τρεις σερί νίκες πήρε το εισιτήριο για τα πλέι οφ της ...  \nTo άρθρο Ολυμπιακός: Με Αταλάντα ή Λεβερκούζεν στα πλέι οφ του Champions League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-14-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Με Αταλάντα ή Λεβερκούζεν στα playoffs και στον ορίζοντα Άρσεναλ, Μπάγερν",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511076/olympiakos-me-atalanta-i-leberkoyzen-sta-playoffs-kai-ston",
-          "pubDate": "Thu, 29 Jan 2026 00:01:08 +0200",
-          "description": "Ο Ολυμπιακός στα playoffs του Champions League θα παίξει με την Αταλάντα ή τη Λεβερκούζεν. Αν περάσει στους «16» θ' αντιμετωπίσει την Άρσεναλ ή τη Μπάγερν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_7_0.jpg?itok=aFX01n4U",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πάφος - Σλάβια Πράγας 4-1: Οι Κύπριοι νίκησαν, αλλά αυτό δεν έφτασε",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511075/pafos-slabia-pragas-4-1-oi-kyprioi-nikisan-alla-ayto-den-eftase",
-          "pubDate": "Thu, 29 Jan 2026 00:01:02 +0200",
-          "description": "Νίκη χωρίς αντίκρισμα για την Πάφο, η οποία επιβλήθηκε με 4-1 της Σλάβια Πράγας, όμως δεν μπόρεσε να μπει στην 24αδα λόγω συντελεστή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pafos_intime.jpg?itok=dwH0J0E8",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Απίστευτο: Αποκαλύφθηκε ο λόγος που έγινε το δυστύχημα!",
+          "link": "https://panathinaikos24.gr/2026/01/28/618022/apisteyto-apokalyfthike-o-logos-pou-egine-to-dystyxima/",
+          "pubDate": "Wed, 28 Jan 2026 20:45:27 +0000",
+          "description": "Όλα όσα γίνονται γνωστά.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3811.webp?fit=560%2C315&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "«Ξυπνούν» οι μνήμες 16 χρόνια μετά!",
           "link": "https://panathinaikos24.gr/2026/01/28/618144/ksypnoun-oi-mnimes-16-xronia-meta/",
@@ -1223,14 +1231,6 @@
           "description": "Ο Σαντίνο Αντίνο βρίσκεται ένα βήμα πριν την πρώτη του εμφάνιση με τα «πράσινα», με τον Μπενίτεθ να τον υπολογίζει για το ματς της Κυριακής με την Κηφισιά.\nThe post Πιο κοντά από ποτέ το ντεμπούτο του Αντίνο με τα «πράσινα»! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Παναθηναϊκός: Αναβολή αγώνα λόγω πένθους",
-          "link": "https://panathinaikos24.gr/2026/01/28/618098/panathinaikos-anavoli-agona-logo-penthous/",
-          "pubDate": "Wed, 28 Jan 2026 14:08:23 +0000",
-          "description": "Aναβολή σε αγώνα του Παναθηναϊκού ελέω του πένθους για την τραγωδία με τους οπαδούς του ΠΑΟΚ.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/flagdefault-min.jpg?fit=900%2C600&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
