@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T14:15:29.680Z",
+  "lastUpdated": "2026-01-28T14:20:27.212Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ολυμπιακός: Σε προχωρημένες συζητήσεις με Λιόν για Γιάρεμτσουκ σύμφωνα με Βέλγο δημοσιογράφο",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-se-proxorimenes-syzitiseis-me-lion-gia-giaremtsouk-symfona-me-velgo-dimosiografo/4585849/",
+          "pubDate": "Wed, 28 Jan 2026 14:14:39 +0000",
+          "description": "Ο Ρόμαν Γιάρεμτσουκ είναι εξαιρετικά πιθανό να αποχωρήσει από τον Ολυμπιακό και να συνεχίσει την καριέρα του στη Λιόν. Αυτό υποστηρίζει τουλάχιστον ο έγκυρος Βέλγος ...  \nTo άρθρο Ολυμπιακός: Σε προχωρημένες συζητήσεις με Λιόν για Γιάρεμτσουκ σύμφωνα με Βέλγο δημοσιογράφο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/jaremtsouk-1200x799.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Κρεμλίνο: Ας έρθει στη Μόσχα ο Ζελένσκι αν θέλει συνομιλίες με τον Πούτιν – Η ασφάλειά του είναι εγγυημένη",
           "link": "https://www.newsit.gr/kosmos/kremlino-as-erthei-sti-mosxa-o-zelenski-an-thelei-synomilies-me-ton-poutin-i-asfaleia-tou-einai-eggyimeni/4585817/",
@@ -25,10 +33,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Αύριο στην Ελλάδα οι τραυματίες από το τροχαίο στη Ρουμανία",
+          "title": "Με ειδικά διαμορφωμένο αεροσκάφος μεταφέρονται αύριο στην Ελλάδα οι τραυματίες από το τροχαίο στη Ρουμανία",
           "link": "https://www.protothema.gr/greece/article/1764840/aurio-stin-ellada-oi-traumaties-apo-to-trohaio-sti-roumania/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 16:04:00 +0200",
-          "description": "Θα μεταφερθούν στο νοσοκομείο Παπαγεωργίου στη Θεσσαλονίκη",
+          "description": "Θα διακομιστούν στο νοσοκομείο Παπαγεωργίου στη Θεσσαλονίκη όπου και θα νοσηλευτούν",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/xrwma-van-roumania.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -153,6 +161,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "ASML, η μεγαλύτερη και σημαντικότερη εταιρεία που δεν γνωρίζετε",
+          "link": "https://www.in.gr/2026/01/28/in-science/technology/asml-megalyteri-kai-simantikoteri-etaireia-pou-den-gnorizete/",
+          "pubDate": "Wed, 28 Jan 2026 16:16:11 +0300",
+          "description": "Η ολλανδική ASML έχει το μονοπώλιο στην αγορά συστημάτων λιθογραφίας EUV, την τεχνολογία με την οποία παράγονται τα πιο προηγμένα τσιπ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/hero-image.fit_lim.v1715272186-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Βιολάντα: Πολύμηνη η διαρροή προπανίου – Από σπινθήρα η φονική έκρηξη στο εργοστάσιο των Τρικάλων",
           "link": "https://www.newsit.gr/ellada/violanta-polymini-i-diarroi-propaniou-apo-spinthira-i-foniki-ekriksi-sto-ergostasio-ton-trikalon/4585657/",
           "pubDate": "Wed, 28 Jan 2026 13:12:44 +0000",
@@ -231,22 +247,6 @@
           "description": "Το protothema.gr μεταφέρει τις τελευταίες εξελίξεις από τα σημεία των γεγονότων- Διαρροή προπανίου σε φθαρμένο υπογειοποιημένο σωλήνα στη Βιολάντα -Από λεπτό σε λεπτό οι ανακοινώσεις από την Πυροσβεστική - Ταυτοποιήθηκαν οι σοροί των επτά οπαδών του ΠΑΟΚ στη Ρουμανία",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/dipli_tragodia_maketa1.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Νέα απειλή Τραμπ: «Τεράστια αρμάδα κατευθύνεται προς το Ιράν, ικανή να εκτελέσει με βία την αποστολή της αν χρειαστεί»",
-          "link": "https://www.newsit.gr/kosmos/nea-apeili-tramp-terastia-armada-kateythynetai-pros-to-iran-ikani-na-ektelesei-me-via-tin-apostoli-tis-an-xreiastei/4585738/",
-          "pubDate": "Wed, 28 Jan 2026 12:48:41 +0000",
-          "description": "Με την ομάδα κρούσης του αεροπλανοφόρου «USS Abraham Lincoln» να πλησιάζει το Ιράν, ο Ντόναλντ Τραμπ έστειλε νέο «μήνυμα» ισχύος και αποτροπής στην Τεχεράνη, με ...  \nTo άρθρο Νέα απειλή Τραμπ: «Τεράστια αρμάδα κατευθύνεται προς το Ιράν, ικανή να εκτελέσει με βία την αποστολή της αν χρειαστεί» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/trump-reuters-9-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τραγωδία στη «Βιολάντα»: Στον εισαγγελέα οι 3 συλληφθέντες για την έκρηξη με τις 5 νεκρές εργαζόμενες",
-          "link": "https://www.newsit.gr/ellada/tragodia-sti-violanta-ston-eisaggelea-oi-3-syllifthentes-gia-tin-ekriksi-me-tis-5-nekres-ergazomenes/4585740/",
-          "pubDate": "Wed, 28 Jan 2026 12:48:35 +0000",
-          "description": "Ενώπιων εισαγγελέα, βρέθηκαν το μεσημέρι της Πέμπτης (28.01.2026) οι 3 συλληφθέντες για την ανείπωτη τραγωδία που χτύπησε τα Τρίκαλα, όταν έγινε η έκρηξη στο εργοστάσιο ...  \nTo άρθρο Τραγωδία στη «Βιολάντα»: Στον εισαγγελέα οι 3 συλληφθέντες για την έκρηξη με τις 5 νεκρές εργαζόμενες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta1-1-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -504,7 +504,7 @@
           "title": "Trump warns Iran 'time is running out' as US military builds up in Gulf",
           "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 14:04:42 GMT",
-          "description": "The US president, who has previously vowed to rescue protesters in Iran, says a \"massive Armada\"",
+          "description": "The US president, who has previously vowed to \"rescue\" protesters in Iran, says a \"massive Armada\" is on the way to the country.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg",
           "source": "BBC News"
         },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Σε προχωρημένες συζητήσεις με Λιόν για Γιάρεμτσουκ σύμφωνα με Βέλγο δημοσιογράφο",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-se-proxorimenes-syzitiseis-me-lion-gia-giaremtsouk-symfona-me-velgo-dimosiografo/4585849/",
+          "pubDate": "Wed, 28 Jan 2026 14:14:39 +0000",
+          "description": "Ο Ρόμαν Γιάρεμτσουκ είναι εξαιρετικά πιθανό να αποχωρήσει από τον Ολυμπιακό και να συνεχίσει την καριέρα του στη Λιόν. Αυτό υποστηρίζει τουλάχιστον ο έγκυρος Βέλγος ...  \nTo άρθρο Ολυμπιακός: Σε προχωρημένες συζητήσεις με Λιόν για Γιάρεμτσουκ σύμφωνα με Βέλγο δημοσιογράφο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/jaremtsouk-1200x799.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Κάλεσμα Φουρνιέ ενόψει Μπαρτσελόνα: «Σας χρειαζόμαστε να “ροκάρουμε” στο ΣΕΦ»",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2510926/kalesma-foyrnie-enopsei-mpartselona-sas-hreiazomaste-na-rokaroyme-sto",
           "pubDate": "Wed, 28 Jan 2026 16:13:24 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 14:30:00 +0200",
           "description": "Η league phase του Champions League ολοκληρώνεται με 18 αγώνες, όλους στις 22:00 και εννέα θέσεις για τα νοκ άουτ ανοιχτές.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/champions_league.jpg?itok=k_8X1Vks",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Τα συλλυπητήρια του Τσέφεριν για τους αδικοχαμένους οπαδούς ",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510898/paok-dystyhima-sti-roymania-ta-syllypitiria-toy-tseferin-gia-toys",
-          "pubDate": "Wed, 28 Jan 2026 14:27:42 +0200",
-          "description": "Τα ειλικρινή του συλλυπητήρια μετέφερε ο Αλεξάντερ Τσέφεριν στον Μάκη Γκαγκάτση για την τραγωδία που σημειώθηκε στη Ρουμανία και στοίχισε τη ζωή σε επτά οπαδούς του ΠΑΟΚ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-03/ceferin-uefa.jpg?itok=KlXnJ0fL",
           "source": "Gazzetta"
         }
       ]
