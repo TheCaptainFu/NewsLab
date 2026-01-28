@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T11:15:27.260Z",
+  "lastUpdated": "2026-01-28T11:20:30.300Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,54 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κλαίμε όλοι, να δώσει κουράγιο η αγκαλιά μας, συγκλονίζει ο «παπά - ΠΑΟΚ»",
+          "link": "https://www.protothema.gr/greece/article/1764746/klaime-oloi-na-dosei-kouragio-i-agalia-mas-suglonizei-o-papa-paok/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 13:20:07 +0200",
+          "description": "Όπως σημείωσε, γνώριζε προσωπικά τους νεαρούς που επέβαιναν στο βαν και ταξίδευαν οδικώς προς τη Γαλλία για να παρακολουθήσουν τον ΠΑΟΚ στο παιχνίδι με τη Λυών",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/maketa-papas-paok.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Ταυτοποιήθηκαν οι σοροί των επτά οπαδών του ΠΑΟΚ μετά το δυστύχημα στη Ρουμανία, σε εξέλιξη οι διαδικασίες επαναπατρισμού",
+          "link": "https://www.protothema.gr/greece/article/1764751/tautopoiithikan-oi-soroi-ton-epta-opadon-tou-paok-meta-to-dustuhima-sti-roumania-se-exelixi-diadikasies-epanapatrismou/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 13:19:36 +0200",
+          "description": "Αύριο αναμένεται να εκδοθούν τα απαραίτητα έγγραφα - Η μεταφορά τους στην Ελλάδα θα πραγματοποιηθεί με στρατιωτικό αεροσκάφος τύπου C-130, το οποίο βρίσκεται στην Ελευσίνα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/maketa-roumania-fortigo.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Στέφανος Παπαδόπουλος: Όλο το υπόμνημα που κατέθεσε για τον Γιώργο Μαζωνάκη – Τα ναρκωτικά, οι χειρονομίες και οι απειλές",
+          "link": "https://www.newsit.gr/ellada/stefanos-papadopoulos-olo-to-ypomnima-pou-katethese-gia-ton-giorgo-mazonaki-ta-narkotika-oi-xeironomies-kai-oi-apeiles/4585352/",
+          "pubDate": "Wed, 28 Jan 2026 11:19:08 +0000",
+          "description": "Όλο το υπόμνημα του Στέφανου Παπαδόπουλου, στο Προανακριτικό Τμήμα του Πρωτοδικείου Αθηνών για την πολύκροτη υπόθεση, με φόντο τη μήνυση που έχει υποβάλλει σε βάρος ...  \nTo άρθρο Στέφανος Παπαδόπουλος: Όλο το υπόμνημα που κατέθεσε για τον Γιώργο Μαζωνάκη – Τα ναρκωτικά, οι χειρονομίες και οι απειλές δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/stefanos-papadopoulos-1-1200x675-1.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Grand Hotel – επόμενο επεισόδιο: Η Κυβέλη καταλαβαίνει ότι ο Ρήγας βρίσκεται σε κίνδυνο και ψάχνει να τον βρει",
+          "link": "https://www.newsit.gr/media/grand-hotel-epomeno-epeisodio-i-kyveli-katalavainei-oti-o-rigas-vrisketai-se-kindyno-kai-psaxnei-na-ton-vrei/4585656/",
+          "pubDate": "Wed, 28 Jan 2026 11:18:09 +0000",
+          "description": "Εξελίξεις και ανατροπές έρχονται στο νέο διπλό επεισόδιο του «Grand Hotel» που θα προβληθεί απόψε Tετάρτη (28.01.2026) στις 21:00, μέσα από την συχνότητα του ΑΝΤ1. ...  \nTo άρθρο Grand Hotel – επόμενο επεισόδιο: Η Κυβέλη καταλαβαίνει ότι ο Ρήγας βρίσκεται σε κίνδυνο και ψάχνει να τον βρει δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/grand-hotel2-2-1200x717.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Μπαρτζώκας για το Ολυμπιακός – Μπαρτσελόνα: «Εντυπωσιάστηκα με τον Τζόσεφ – Επιστρέφει ο Μιλουτίνοφ, δεν θα αγωνιστεί ο Παπανικολάου»",
+          "link": "https://www.newsit.gr/athlitika/mpartzokas-gia-to-olympiakos-mpartselona-entyposiastika-me-ton-tzosef-epistrefei-o-miloutinof-den-tha-agonistei-o-papanikolaou/4585650/",
+          "pubDate": "Wed, 28 Jan 2026 11:17:05 +0000",
+          "description": "Ο Ολυμπιακός ετοιμάζεται για το παιχνίδι με την Μπαρτσελόνα στη Euroleague και ο Γιώργος Μπαρτζώκας μίλησε για τους παίκτες που θα έχει διαθέσιμους στο ματς, ...  \nTo άρθρο Μπαρτζώκας για το Ολυμπιακός – Μπαρτσελόνα: «Εντυπωσιάστηκα με τον Τζόσεφ – Επιστρέφει ο Μιλουτίνοφ, δεν θα αγωνιστεί ο Παπανικολάου» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mpartzokas-2-1200x801.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Φορολοταρία Δεκεμβρίου: Πραγματοποιήθηκε η κλήρωση – Δείτε αν κερδίσατε έως 50.000 ευρώ",
+          "link": "https://www.newsit.gr/oikonomia/xristika/forolotaria-dekemvriou-pragmatopoiithike-i-klirosi-deite-an-kerdisate-eos-50-000-eyro/4585653/",
+          "pubDate": "Wed, 28 Jan 2026 11:16:01 +0000",
+          "description": "Πραγματοποιήθηκε σήμερα (28.1.2025) η 52η κλήρωση της φορολοταρίας για τον Δεκέμβριο από την Ανεξάρτητη Αρχή Δημοσίων Εσόδων (ΑΑΔΕ). Σημειώνεται ότι ένας από τους τυχερούς λαχνούς ...  \nTo άρθρο Φορολοταρία Δεκεμβρίου: Πραγματοποιήθηκε η κλήρωση – Δείτε αν κερδίσατε έως 50.000 ευρώ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/euro-money-lefta-xartonomismata.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Η Ουκρανία κατέστρεψε 15 ρωσικά αεροσκάφη μέσα στο 2025",
           "link": "https://www.newsit.gr/kosmos/i-oukrania-katestrepse-15-rosika-aeroskafi-mesa-sto-2025/4585647/",
@@ -20,7 +68,7 @@
           "title": "Σύσκεψη στο Μαξίμου για το κυκλοφοριακό: Έξυπνα φανάρια στην Αττική, μείωση των φορτηγών στον Κηφισό και νέοι οδικοί άξονες",
           "link": "https://www.newsit.gr/politikh/syskepsi-sto-maksimou-gia-to-kykloforiako-eksypna-fanaria-stin-attiki-meiosi-ton-fortigon-ston-kifiso-kai-neoi-odikoi-aksones/4585646/",
           "pubDate": "Wed, 28 Jan 2026 11:12:56 +0000",
-          "description": "Ένα πλέγμα μέτρων τριών ταχυτήτων –άμεσων, μεσοπρόθεσμων και μακροπρόθεσμων– για την αντιμετώπιση του κυκλοφοριακού προβλήματος στην Αττική, με προτεραιότητα τον άξονα του Κηφισού, συζητήθηκε σε ...  \nTo άρθρο Σύσκεψη στο Μαξίμου για το κυκλοφοριακό: Έξυπνα φανάρια στην Αττική, μείωση των φορτηγών στον Κηφισό και νέοι οδικοί άξονες δημοσιεύτηκε στο NewsIT .",
+          "description": "Ένα πλέγμα μέτρων τριών ταχυτήτων –άμεσων, μεσοπρόθεσμων και μακροπρόθεσμων– για την αντιμετώπιση του κυκλοφοριακού στην Αττική, με προτεραιότητα τον άξονα του Κηφισού, συζητήθηκε σε κλειστή ...  \nTo άρθρο Σύσκεψη στο Μαξίμου για το κυκλοφοριακό: Έξυπνα φανάρια στην Αττική, μείωση των φορτηγών στον Κηφισό και νέοι οδικοί άξονες δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kinisi-mpotiliarisma-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -199,54 +247,6 @@
           "description": "Τερζούδης, Ματθαιόπουλος, Καπάκης και ο κάτοικος που καταδικάστηκε για τον εμπρησμό ζητούν και αναγνώριση ελαφρυντικών",
           "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2024-04-29/mati_diki_xr.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Θεσσαλονίκη: Ερευνούν αν ο 52χρονος που σκότωσε την 46χρονη εμπλέκεται και σε άλλες υποθέσεις",
-          "link": "https://www.protothema.gr/greece/article/1764718/thessaloniki-ereunoun-an-o-52hronos-pou-skotose-tin-46hroni-ebleketai-kai-se-alles-upotheseis/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 12:19:44 +0200",
-          "description": "Ο δράστης υποστήριξε ότι έκαναν μαζί με εκείνη και έναν ακόμα άνδρα, χρήση ναρκωτικών στο υπόγειό του όταν εκείνη άρχισε να φωνάζει και της έκλεισαν το στόμα προκαλώντας της ασφυξία",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpg/files/2026-01-27/thessaloniki-xrwma.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ρουμανία: «Ακόμα και αύριο ο επαναπατρισμός των 7 σορών των οπαδών του ΠΑΟΚ», δηλώνει η πρέσβης της Ελλάδας – «Ως μητέρα και ως Ελληνίδα έχω συγκλονιστεί»",
-          "link": "https://www.newsit.gr/ellada/roumania-akoma-kai-ayrio-o-epanapatrismos-ton-7-soron-ton-opadon-tou-paok-dilonei-i-presvis-tis-elladas-os-mitera-kai-os-ellinida-exo-sygklonistei/4585577/",
-          "pubDate": "Wed, 28 Jan 2026 10:17:43 +0000",
-          "description": "Δηλώσεις στους δημοσιογράφους έκανε η ελληνίδα πρέσβης στη Ρουμανία, Λιλή Γραμματίκα για την τραγωδία με τους 7 νεκρούς οπαδούς του ΠΑΟΚ αλλά και για την ...  \nTo άρθρο Ρουμανία: «Ακόμα και αύριο ο επαναπατρισμός των 7 σορών των οπαδών του ΠΑΟΚ», δηλώνει η πρέσβης της Ελλάδας – «Ως μητέρα και ως Ελληνίδα έχω συγκλονιστεί» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ellinida-presvis-1200x688.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΣΕΒ: Συγκριτικό πλεονέκτημα η ψηφιοποίηση του δημόσιου τομέα και το 5G",
-          "link": "https://www.newsit.gr/oikonomia/finance/sev-sygkritiko-pleonektima-i-psifiopoiisi-tou-dimosiou-tomea-kai-to-5g/4585559/",
-          "pubDate": "Wed, 28 Jan 2026 10:13:32 +0000",
-          "description": "Η ετήσια έκδοση του Παρατηρητηρίου Ψηφιακού Μετασχηματισμού για την ψηφιακή ωριμότητα της Ελλάδας παρουσιάστηκε από τον ΣΕΒ σε ειδική ψηφιακή εκδήλωση χθες (27.1.2026), με τίτλο ...  \nTo άρθρο ΣΕΒ: Συγκριτικό πλεονέκτημα η ψηφιοποίηση του δημόσιου τομέα και το 5G δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1867035079.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "«Μπλόκαρε το τιμόνι στην προσπέραση» είπε τραυματίας οπαδός του ΠΑΟΚ σε Έλληνα γιατρό - Οι 3 μπορούν να επιστρέψουν, δήλωσε ο διοικητής του νοσοκομείου της Τιμισοάρα",
-          "link": "https://www.protothema.gr/greece/article/1764626/blokare-to-timoni-kata-tin-prosperasi-apokalupse-traumatias-opados-tou-paok/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 12:13:00 +0200",
-          "description": "Ο Δημήτρης Κούκουλας ανέφερε ότι ένας από τους τραυματίες του είπε ότι κόλλησε το τιμόνι κατά την προσπέραση - Η έρευνα θα δείξει αν αυτή είναι στα αλήθεια η αιτία του φονικού τροχαίου - Στο νοσοκομείο και η Ελληνίδα πρέσβης της Ρουμανίας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/maketa-roumania-paok.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Τρίκαλα: Όλοι έλεγαν ότι μυρίζει στο εργοστάσιο, αλλά δεν θα το καταθέσουν γιατί φοβούνται, λέει αδερφή θύματος της τραγωδίας",
-          "link": "https://www.protothema.gr/greece/article/1764712/trikala-elegan-oti-murizei-sto-ergostasio-alla-den-tha-to-katathesoun-giati-fovoudai-leei-aderfi-thumatos-tis-tragodias/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 12:12:00 +0200",
-          "description": "«Ο ανιψιός μου λέει ''η μαμά μου έφυγε'' και ότι θέλει να τη θυμάται όπως όπως ήταν, αλλά η μαμά του κάηκε» λέει επίσης η ίδια",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/biolanta_maketa.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Λάρισα: «500 ευρώ ή σε αφήνουν ανάπηρο» – Χτύπησαν 15χρονο που δεν ενέδωσε στην απειλή",
-          "link": "https://www.in.gr/2026/01/28/greece/larisa-500-eyro-se-afinoun-anapiro-xtypisan-15xrono-pou-den-enedose-stin-apeili/",
-          "pubDate": "Wed, 28 Jan 2026 13:07:34 +0300",
-          "description": "Ο ανήλικος από τη Λάρισα δέχτηκε ένα σοκαριστικό τηλεφώνημα, όπου άγνωστοι τον απειλούσαν ότι θα στείλουν άτομα να του κάνουν κακό - Αποφάσισε να μην ενδώσει και τότε του επιτέθηκαν τραυματίζοντάς τον",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_64076404-1200x800-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Οι θύρες στο Groupama Stasdium που θα μείνουν κλειστές",
+          "link": "https://www.gazzetta.gr/football/europa-league/2510881/paok-dystyhima-sti-roymania-oi-thyres-sto-groupama-stasdium-poy-tha",
+          "pubDate": "Wed, 28 Jan 2026 13:17:59 +0200",
+          "description": "Οι οπαδοί του ΠΑΟΚ σ' ένδειξη πένθους δεν θα βρεθούν στο γήπεδο της Λυών και η ΠΑΕ κάλεσε τον κόσμο να σεβαστεί την απόφαση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_3_1.jpg?itok=sst-fINQ",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μπαρτζώκας για το Ολυμπιακός – Μπαρτσελόνα: «Εντυπωσιάστηκα με τον Τζόσεφ – Επιστρέφει ο Μιλουτίνοφ, δεν θα αγωνιστεί ο Παπανικολάου»",
+          "link": "https://www.newsit.gr/athlitika/mpartzokas-gia-to-olympiakos-mpartselona-entyposiastika-me-ton-tzosef-epistrefei-o-miloutinof-den-tha-agonistei-o-papanikolaou/4585650/",
+          "pubDate": "Wed, 28 Jan 2026 11:17:05 +0000",
+          "description": "Ο Ολυμπιακός ετοιμάζεται για το παιχνίδι με την Μπαρτσελόνα στη Euroleague και ο Γιώργος Μπαρτζώκας μίλησε για τους παίκτες που θα έχει διαθέσιμους στο ματς, ...  \nTo άρθρο Μπαρτζώκας για το Ολυμπιακός – Μπαρτσελόνα: «Εντυπωσιάστηκα με τον Τζόσεφ – Επιστρέφει ο Μιλουτίνοφ, δεν θα αγωνιστεί ο Παπανικολάου» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mpartzokas-2-1200x801.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: Αναβλήθηκε το ματς με τη Μύκονο",
+          "link": "https://www.gazzetta.gr/basketball/basket-league/2510880/paok-dystyhima-sti-roymania-anablithike-mats-me-ti-mykono",
+          "pubDate": "Wed, 28 Jan 2026 13:15:57 +0200",
+          "description": "Η ΚΑΕ ΠΑΟΚ ενημέρωσε ότι αναβλήθηκε ο προγραμματισμένος για το προσεχές Σάββατο 31/1 αγώνας με τη Μύκονο στην PAOK Sports Arena, μετά το δυστύχημα που κόστισε τη ζωή σε επτά φίλους του «Δικεφάλου του Βορρά».",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/beverley_eurokinissi.jpg?itok=zqAQA1dH",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: «Έσπασε» ο Άγγελος Αναστασιάδης έξω από την Τούμπα",
           "link": "https://www.gazzetta.gr/football/europa-league/2510879/paok-dystyhima-sti-roymania-espase-o-aggelos-anastasiadis-exo-apo",
           "pubDate": "Wed, 28 Jan 2026 13:09:30 +0200",
@@ -961,30 +985,6 @@
           "description": "Σε πένθος βρίσκεται ο ΠΑΟΚ από την είδηση του θανάτου 7 οπαδών του που ταξίδευαν προς το Λιόν για τον αγώνα της ομάδας τους στο ...  \nTo άρθρο ΠΑΟΚ: «Βαρύ» το κλίμα στη Νέα Μεσημβρία και ενός λεπτού σιγή για τους αδικοχαμένους οπαδούς δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tuba-1-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Τι είναι το lane keeping assist που πιθανολογείται ότι μπλόκαρε το τιμόνι στο βανάκι των οπαδών του ΠΑΟΚ",
-          "link": "https://www.gazzetta.gr/gmotion/2510854/ti-einai-lane-keeping-assist-poy-pithanologeitai-oti-mplokare-timoni-sto-banaki-ton",
-          "pubDate": "Wed, 28 Jan 2026 11:49:24 +0200",
-          "description": "Υπάρχει η πιθανότητα ένα σύστημα υποβοήθησης της οδήγησης να συνέβαλε στο τραγικό δυστύχημα;",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lane-support_elk-overtaking-traffic_2018.jpg?itok=VCP5bwR3",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Ενός λεπτού σιγή στο Παλατάκι για τα «αετόπουλα» ",
-          "link": "https://www.gazzetta.gr/volleyball/2510853/paok-dystyhima-sti-roymania-enos-leptoy-sigi-sto-palataki-gia-ta-aetopoyla",
-          "pubDate": "Wed, 28 Jan 2026 11:49:15 +0200",
-          "description": "Πριν τον αγώνα ΠΑΟΚ-Ποντολιάνι Χόροντοκ θα τηρηθεί ενός λεπτού σιγή για τα «αετόπουλα» που έφυγαν τόσο άδικα από τη ζωή.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_10.jpg?itok=0aXlXd6o",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Το καρφί Λιάγκα για το Καλημέρα Ελλάδα: «Δεν οφείλεται σε μας η καθυστέρηση, αλλά στην προηγούμενη εκπομπή»",
-          "link": "https://www.gazzetta.gr/2003724/tempi-i-profitiki-ataka-ton-syndikaliston-ston-yfypoyrgo-metaforon-prin-apo-ena-mina",
-          "pubDate": "Wed, 28 Jan 2026 11:43:00 +0200",
-          "description": "Τι είπε ο Τεντ Μπάντι πριν εκτελεστεί; Οι τελευταίες του λέξεις αποκαλύφθηκαν 36 χρόνια μετά από τον θάνατο του διαβόητου serial killer.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/giorgos-liagkas-proino_20_281_29_0.jpg.png?itok=Ni7dd28T",
-          "source": "Gazzetta"
         }
       ]
     },
