@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T19:49:19.837Z",
+  "lastUpdated": "2026-01-28T19:50:28.305Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "ΗΠΑ: Σε διαθεσιμότητα οι πράκτορες της CBP που πυροβόλησαν και σκότωσαν τον 37χρονο Άλεξ Πρέτι στη Μινεάπολη",
+          "link": "https://www.newsit.gr/kosmos/ipa-se-diathesimotita-oi-praktores-tis-cbp-pou-pyrovolisan-kai-skotosan-ton-37xrono-aleks-preti-sti-mineapoli/4586193/",
+          "pubDate": "Wed, 28 Jan 2026 19:48:45 +0000",
+          "description": "Τουλάχιστον δύο από τους ομοσπονδιακούς πράκτορες της συνοριοφυλακής (CBP) που εμπλέκονται στο επεισόδιο με πυροβολισμούς κατά το οποίο σκοτώθηκε ο 37χρονου Άλεξ Πρέτι, στη Μινεάπολη ...  \nTo άρθρο ΗΠΑ: Σε διαθεσιμότητα οι πράκτορες της CBP που πυροβόλησαν και σκότωσαν τον 37χρονο Άλεξ Πρέτι στη Μινεάπολη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/alex-pretti-minneapolis-1200x764.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Το Ιράν είναι «με το δάχτυλο στη σκανδάλη» αλλά δεν αποκλείει διαπραγματεύσεις για τα πυρηνικά",
+          "link": "https://www.newsit.gr/kosmos/to-iran-einai-me-to-daxtylo-sti-skandali-alla-den-apokleiei-diapragmateyseis-gia-ta-pyrinika/4586195/",
+          "pubDate": "Wed, 28 Jan 2026 19:46:35 +0000",
+          "description": "Ο στρατός του Ιράν είναι σε απόλυτα ετοιμότητα και με το «δάκτυλο στη σκανδάλη» λέει ο ΥΠΕΞ Αμπάς Αραγτσί, όμως άφησε ανοικτό το ενδεχόμενο διαπραγματεύσεων ...  \nTo άρθρο Το Ιράν είναι «με το δάχτυλο στη σκανδάλη» αλλά δεν αποκλείει διαπραγματεύσεις για τα πυρηνικά δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iran-13-1200x801.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Λόβρεν: «Μεγάλη τραγωδία για τον ΠΑΟΚ, έχουμε έξτρα κίνητρο»",
           "link": "https://www.newsit.gr/athlitika/lovren-megali-tragodia-gia-ton-paok-exoume-ekstra-kinitro/4586191/",
@@ -121,6 +137,30 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "LIVE: Νάπολι – Τσέλσι",
+          "link": "https://www.in.gr/matchcenter/4947113/",
+          "pubDate": "Wed, 28 Jan 2026 21:49:44 +0300",
+          "description": "LIVE: Νάπολι – Τσέλσι. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Νάπολι – Τσέλσι για την 8η αγωνιστική της League Phase του Champions League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Chelsea_players_celebrate_togeth-768x491.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "LIVE: Μπαρτσελόνα – Κοπεγχάγη",
+          "link": "https://www.in.gr/matchcenter/4947152/",
+          "pubDate": "Wed, 28 Jan 2026 21:48:42 +0300",
+          "description": "LIVE: Μπαρτσελόνα – Κοπεγχάγη. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Μπαρτσελόνα – Κοπεγχάγη για την 8η αγωνιστική της League Phase του Champions League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/gettyimages-2257468716-768x511.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "LIVE: Αϊντχόφεν – Μπάγερν Μονάχου",
+          "link": "https://www.in.gr/matchcenter/4947106/",
+          "pubDate": "Wed, 28 Jan 2026 21:48:31 +0300",
+          "description": "LIVE: Αϊντχόφεν – Μπάγερν Μονάχου. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Αϊντχόφεν – Μπάγερν Μονάχου για την 8η αγωνιστική της League Phase του Champions League.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/9e554298de81fcf33320487fd836cce8-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "LIVE: Μάντσεστερ Σίτι – Γαλατασαράι",
           "link": "https://www.in.gr/matchcenter/4947164/",
           "pubDate": "Wed, 28 Jan 2026 21:47:41 +0300",
@@ -207,46 +247,6 @@
           "description": "LIVE: Άγιαξ – Ολυμπιακός. Παρακολουθήστε live στις 22:00 την εξέλιξη της αναμέτρησης Άγιαξ – Ολυμπιακός για την 8η αγωνιστική της League Phase του Champions League. Τηλεοπτικά από MEGA και COSMOTE SPORT 2 HD.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6819440-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Αγωνία για νεογέννητο 5 ημερών, μεταφέρθηκε επειγόντως  από τη Ρόδο στο Ηράκλειο",
-          "link": "https://www.protothema.gr/greece/article/1765038/agonia-gia-neogennito-5-imeron-epeigousa-aerodiakomidi-apo-ti-rodo-sto-irakleio/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 20:32:00 +0200",
-          "description": "Το μικρό αγγελούδι ταξίδεψε από τη Ρόδο με το αεροσκάφος αεροδιακομιδών του ΕΚΑΒ και μεταφέρθηκε με ασφάλεια στη Μονάδα Εντατικής Θεραπείας Νεογνών",
-          "thumbnail": "https://i1.prth.gr/images/w640/png/files/2026-01-28/paidi-diakomidi.png",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Θεσσαλονίκη: Και δεύτερη σύλληψη στο θρίλερ με τον εντοπισμό των δύο σορών",
-          "link": "https://www.in.gr/2026/01/28/greece/thessaloniki-kai-deyteri-syllipsi-sto-thriler-ton-entopismo-ton-dyo-soron/",
-          "pubDate": "Wed, 28 Jan 2026 21:30:15 +0300",
-          "description": "Οι αστυνομικές αρχές εξέταζαν το ενδεχόμενο κατά συρροή εγκλημάτων στην Θεσσαλονίκη, μετά τη σύλληψη 52χρονου που είχε εμπλοκή και στα δύο περιστατικά",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_729802105-768x584.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Σοφία Φυρού: Τελείωσα και με τα χειρουργεία με το στήθος, το τελευταίο ήταν πριν από από 13 μέρες",
-          "link": "https://www.newsit.gr/lifestyle/sofia-fyrou-teleiosa-kai-me-ta-xeirourgeia-me-to-stithos-to-teleytaio-itan-prin-apo-apo-13-meres/4586122/",
-          "pubDate": "Wed, 28 Jan 2026 18:29:38 +0000",
-          "description": "Μετά από έναν χρόνο, η Σοφία Φυρού χαμογελάει και πάλι με ανακούφιση, καθώς, όπως αποκάλυψε, ολοκλήρωσε όλα τα απαραίτητα χειρουργεία που έπρεπε να κάνει στο ...  \nTo άρθρο Σοφία Φυρού: Τελείωσα και με τα χειρουργεία με το στήθος, το τελευταίο ήταν πριν από από 13 μέρες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/sofia-firoy-ndp-1200x690.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τραγωδία ΠΑΟΚ: Τα πανό που ανέβασαν οι φίλοι του Παναθηναϊκού και της ΑΕΚ για τους αδικοχαμένους οπαδούς του Δικεφάλου",
-          "link": "https://www.newsit.gr/athlitika/tragodia-paok-ta-pano-pou-anevasan-oi-filoi-tou-panathinaikou-kai-tis-aek-gia-tous-adikoxamenous-opadous-tou-dikefalou/4586126/",
-          "pubDate": "Wed, 28 Jan 2026 18:28:50 +0000",
-          "description": "Οι οπαδοί του Παναθηναϊκού και της ΑΕΚ σε Τάφο του Ινδού και Sunel Arena αντίστοιχα ανέβασαν πανό για να αποχαιρετήσουν τους αδικοχαμένους οπαδούς του ΠΑΟΚ. ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Τα πανό που ανέβασαν οι φίλοι του Παναθηναϊκού και της ΑΕΚ για τους αδικοχαμένους οπαδούς του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-pano-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Σε κρίσιμη κατάσταση πεζή που παρασύρθηκε από μηχανή  στη Θεσσαλονίκη",
-          "link": "https://www.protothema.gr/greece/article/1765029/se-krisimi-katastasi-pezi-pou-parasurthike-apo-mihani-sti-thessaloniki/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 20:28:14 +0200",
-          "description": "Στο σημείο έσπευσαν άμεσα οι Διασώστες του ΕΚΑΒ",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-11/ekav_arxeio_nn.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Πανιώνιος - Λόντον Λάιονς 79-78: Με σούπερ Τέιλορ και... clutch Λιούις",
+          "link": "https://www.gazzetta.gr/basketball/eurocup/2511036/panionios-lonton-laions-79-78-me-soyper-teilor-kai-clutch-lioyis",
+          "pubDate": "Wed, 28 Jan 2026 21:49:57 +0200",
+          "description": "Με σερί 6-0 στο τελευταίο δίλεπτο και με 2/2 βολές του Ματ Λιούις στα 0.9'' ο Πανιώνιος έφτασε σε μια νίκη ψυχολογίας απέναντι στους Λόντον Λάιονς με 79-78 λίγο πριν από το ματς «ζωής και θανάτου» στο Μαρούσι.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/taylor_panionios_intime_0.jpg?itok=qAxBfMZZ",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΑΕΛ Novibet: «Γηπεδούχος» στον Βόλο",
           "link": "https://www.gazzetta.gr/football/superleague/2511035/ael-novibet-gipedoyhos-ston-bolo",
           "pubDate": "Wed, 28 Jan 2026 21:45:26 +0200",
@@ -977,14 +985,6 @@
           "description": "Φανέλα βασικού πήρε ο Παυλίδης για την κρίσιμη αναμέτρηση της Μπενφίκα κόντρα στη Ρεάλ Μαδρίτης στο «Ντα Λουζ» για την τελευταία αγωνιστική του Champions League.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pavlidis_benfica_0.jpg?itok=o9-RlfHh",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός: Οι ενδεκάδες των δυο ομάδων για τον «τελικό» πρόκρισης στα playoffs του Champions League",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-oi-endekades-ton-dyo-omadon-gia-ton-teliko-prokrisis-sta-playoffs-tou-champions-league/4586136/",
-          "pubDate": "Wed, 28 Jan 2026 18:52:26 +0000",
-          "description": "Ο Ολυμπιακός αντιμετωπίζει τον Άγιαξ στο Άμστερνταμ (28.01.2026, 22:00, Newsit.gr, MEGA COSMOTE SPORT 2HD) με στόχο τη νίκη που θα τον οδηγήσει στα playoffs του ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Οι ενδεκάδες των δυο ομάδων για τον «τελικό» πρόκρισης στα playoffs του Champions League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-ajax-eurokinissi-1200x799.jpg",
-          "source": "NewsIT"
         }
       ]
     },
