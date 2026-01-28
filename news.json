@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T16:20:30.554Z",
+  "lastUpdated": "2026-01-28T16:25:28.944Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,38 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Διορία ενός μήνα για πλήρη αποκατάσταση του χώρου έδωσε το ΥΠΕΝ στην εταιρεία που έσκαψε το Σαρακήνικο για να χτίσει το 5στερο ξενοδοχείο έκτρωμα",
+          "link": "https://www.protothema.gr/greece/article/1764904/dioria-mina-gia-pliri-apokatastasi-tou-sarakinikou-dinei-to-upen-stin-etaireia-pou-ehtize-to-5stero-xenodoheio-ektroma/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 18:24:00 +0200",
+          "description": "Δείτε την απόφαση που υπογράφει ο υπ. Περιβάλλοντος, Σταύρος Παπασταύρου - Την υπόθεση είχε αποκαλύψει το protothema.gr προ 11 μηνών - Τα ευρήματα από τις αυτοψίες",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-02-04/milos-mak-velos.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Η ΕΕ αρχίζει να ανησυχεί για την εξάρτησή της από το αμερικανικό φυσικό αέριο και ψάχνει νέους προμηθευτές",
+          "link": "https://www.newsit.gr/kosmos/i-ee-arxizei-na-anisyxei-gia-tin-eksartisi-tis-apo-to-amerikaniko-fysiko-aerio-kai-psaxnei-neous-promitheytes/4586004/",
+          "pubDate": "Wed, 28 Jan 2026 16:23:21 +0000",
+          "description": "Η Ευρωπαϊκή Ένωση, η οποία αντικατέστησε σε μεγάλο βαθμό το ρωσικό φυσικό αέριο με το αμερικανικό υγροποιημένο φυσικό αέριο (LNG), αρχίζει να ανησυχεί για αυτή ...  \nTo άρθρο Η ΕΕ αρχίζει να ανησυχεί για την εξάρτησή της από το αμερικανικό φυσικό αέριο και ψάχνει νέους προμηθευτές δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/natural-gas-russia-reuters.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Άγιαξ – Ολυμπιακός: Η φανέλα που θα φορέσουν οι Πειραιώτες στον «τελικό» πρόκρισης στα νοκ άουτ του Champions League",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-i-fanela-pou-tha-foresoun-oi-peiraiotes-ston-teliko-prokrisis-sta-nok-aout-tou-champions-league/4586001/",
+          "pubDate": "Wed, 28 Jan 2026 16:20:41 +0000",
+          "description": "Ο Ολυμπιακός λίγες ώρες πριν την σπουδαία αναμέτρηση κόντρα στον Άγιαξ που θα κρίνει την παρουσία του στα νοκ άουτ του Champions League, ενημέρωσε ότι ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Η φανέλα που θα φορέσουν οι Πειραιώτες στον «τελικό» πρόκρισης στα νοκ άουτ του Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/el-kaabi-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ξεκινά η δίκη για τον θάνατο της Ράνιας στην Ανώπολη: Αν δεν υπήρχαν κενά θα ζούσε, λέει ο αδερφός της",
+          "link": "https://www.protothema.gr/greece/article/1764905/xekina-i-diki-gia-ton-thanato-tis-ranias-stin-anopoli-an-den-upirhan-kena-tha-zouse-leei-o-aderfos-tis/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 18:20:00 +0200",
+          "description": "Η 36χρονη βρισκόταν έξω από το σπίτι της όταν παρασύρθηκε από το ΙΧ που οδηγούσε ένας 33χρονος Γάλλος - Η παρέμβαση του αδερφού της μετά την πατροκτονία στη Γλυφάδα",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2024-12-19/kriti-mak2.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ηρακλής – Κολοσσός Ρόδου 80-76: Στο Final 8 του Κυπέλλου οι Θεσσαλονικείς",
           "link": "https://www.newsit.gr/athlitika/iraklis-kolossos-rodou-80-76-sto-final-8-tou-kypellou-oi-thessalonikeis/4585994/",
@@ -215,38 +247,6 @@
           "description": "Το ευρωπαϊκό βράδυ στο Άμστερνταμ κρύβει ένα μεγάλο οικονομικό διακύβευμα για τον «Αίαντα» σε μια κρίσιμη περίοδο για τον ολλανδικό σύλλογο.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ajax-768x556.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Ήμασταν σαν αδέρφια, θυμάμαι τα πάντα, λέει τραυματίας οπαδός του ΠΑΟΚ που διασώθηκε από το τροχαίο στη Ρουμανία",
-          "link": "https://www.protothema.gr/greece/article/1764869/imastan-san-aderfia-thumamai-ta-pada-leei-traumatias-opados-tou-paok-gia-to-trohaio-sti-roumania/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 17:18:00 +0200",
-          "description": "Τρεις από τους επιβάτες του βαν τραυματίστηκαν και νοσηλεύονται στο νοσοκομείο Τιμισοάρα ενώ την Πέμπτη αναμένεται να γίνει η διακομιδή τους στην Ελλάδα με ειδικά διαμορφωμένο αεροσκάφος",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/toumpa34.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Τραγωδία στον ΠΑΟΚ: Η Λιόν στο πλευρό του Δικεφάλου",
-          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-i-lion-sto-pleyro-tou-dikefalou/4585920/",
-          "pubDate": "Wed, 28 Jan 2026 15:17:13 +0000",
-          "description": "Ο προπονητής της Λιόν, Πάουλο Φονσέκα, καθώς και ο ποδοσφαιριστής της γαλλικής ομάδας, Μέιτλαντ-Νάιλς, έστειλαν μηνύματα συμπαράστασης στον ΠΑΟΚ στη συνέντευξη Τύπου για τον αγώνα ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Η Λιόν στο πλευρό του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fonseca-lyon-1200x799.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Τραγωδία ΠΑΟΚ: Κλίμα οδύνης στην Τούμπα, τελέστηκε επιμνημόσυνη δέηση εντός γηπέδου για τους αδικοχαμένους οπαδούς",
-          "link": "https://www.newsit.gr/athlitika/tragodia-paok-klima-odynis-stin-toumpa-telestike-epimnimosyni-deisi-entos-gipedou-gia-tous-adikoxamenous-opadous/4585932/",
-          "pubDate": "Wed, 28 Jan 2026 15:15:53 +0000",
-          "description": "Στιγμές συγκίνησης! Σε κλίμα οδύνης τελέστηκε το μεσημέρι της Τετάρτης (28.01.2026) στην Τούμπα επιμνημόσυνη δέηση, στη μνήμη των φίλων του ΠΑΟΚ που έχασαν την ζωή ...  \nTo άρθρο Τραγωδία ΠΑΟΚ: Κλίμα οδύνης στην Τούμπα, τελέστηκε επιμνημόσυνη δέηση εντός γηπέδου για τους αδικοχαμένους οπαδούς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-eurokinissi-1-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Ανδρουλάκης καλεί Μητσοτάκη και Γεραπετρίτη να τοποθετηθούν στα όσα είπε ο Λαζαρίδης για τα Ίμια:  «Ντροπή, δεν υπάρχει γκριζάρισμα στο Αιγαίο»",
-          "link": "https://www.newsit.gr/politikh/o-androulakis-kalei-mitsotaki-kai-gerapetriti-na-topothetithoun-sta-osa-eipe-o-lazaridis-gia-ta-imia-ntropi-den-yparxei-gkrizarisma-sto-aigaio/4585915/",
-          "pubDate": "Wed, 28 Jan 2026 15:11:39 +0000",
-          "description": "Την έντονη αντίδραση του Νίκου Ανδρουλάκη προκάλεσαν οι αναφορές του βουλευτή της ΝΔ, Μακάριου Λαζαρίδη, περί «γκριζαρίσματος» περιοχών του Αιγαίου μετά την κρίση των Ιμίων. ...  \nTo άρθρο Ο Ανδρουλάκης καλεί Μητσοτάκη και Γεραπετρίτη να τοποθετηθούν στα όσα είπε ο Λαζαρίδης για τα Ίμια:  «Ντροπή, δεν υπάρχει γκριζάρισμα στο Αιγαίο» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nikos-androulakis-pasok-2-1-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Ερώτηση Ε. Μελέτη προς Κομισιόν: «Πρέπει να σταματήσει η ανεξέλεγκτη προβολή σοκαριστικών εικόνων τραγωδίας στα ΜΜΕ»",
+          "link": "https://www.naftemporiki.gr/politics/2065176/erotisi-e-meleti-pros-komision-prepei-na-stamatisei-i-anexelegkti-provoli-sokaristikon-eikonon-tragodias-sta-mme/?utm_source=rss&utm_medium=rss&utm_campaign=erotisi-e-meleti-pros-komision-prepei-na-stamatisei-i-anexelegkti-provoli-sokaristikon-eikonon-tragodias-sta-mme",
+          "pubDate": "Wed, 28 Jan 2026 16:21:04 +0000",
+          "description": "Ερώτηση προς την Ευρωπαϊκή Επιτροπή σχετικά «με την αναπαραγωγή σοκαριστικού οπτικοακουστικού υλικού από τόπους τραγωδιών» με αφορμή «το σοβαρό τροχαίο στη Ρουμανία με επτά νεκρούς, του οποίου οι εικόνες μεταδίδονται…\nΕρώτηση Ε. Μελέτη προς Κομισιόν: «Πρέπει να σταματήσει η ανεξέλεγκτη προβολή σοκαριστικών εικόνων τραγωδίας στα ΜΜΕ» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
         {
           "title": "Κ. Μητσοτάκης: Ξεκινά μια νέα εποχή για την Εκκλησία της Κρήτης",
           "link": "https://www.naftemporiki.gr/politics/2065172/k-mitsotakis-xekina-mia-nea-epochi-gia-tin-ekklisia-tis-kritis/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-xekina-mia-nea-epochi-gia-tin-ekklisia-tis-kritis",
@@ -484,14 +492,6 @@
           "pubDate": "Wed, 28 Jan 2026 05:38:21 +0000",
           "description": "Η ατζέντα της σημερινής συνάντησης του Έλληνα ΥΠΕΞ με τον ΓΓ. του ΟΗΕ",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/gerapetritis-2-1-1024x682.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "«Ψάχνονται» στο Μαξίμου για λύσεις καθημερινότητας και στη ΝΔ για τα προσυνέδρια – Συσκέψεις και αναθεωρήσεις",
-          "link": "https://www.tanea.gr/2026/01/28/politics/psaxnontai-sto-maksimou-gia-lyseis-kathimerinotitas-kai-sti-nd-gia-ta-prosynedria-syskepseis-kai-anatheoriseis/",
-          "pubDate": "Wed, 28 Jan 2026 05:27:12 +0000",
-          "description": "Σύσκεψη Μητσοτάκη και υπουργών σήμερα για το κυκλοφοριακό της Αττικής. Ζητούμενα ο κυβερνητικός και ο κομματικός συντονισμός.",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/megaro-maximou-8-e1768154172300.jpg",
           "source": "Τα Νέα"
         }
       ]
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Άγιαξ – Ολυμπιακός: Η φανέλα που θα φορέσουν οι Πειραιώτες στον «τελικό» πρόκρισης στα νοκ άουτ του Champions League",
+          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-i-fanela-pou-tha-foresoun-oi-peiraiotes-ston-teliko-prokrisis-sta-nok-aout-tou-champions-league/4586001/",
+          "pubDate": "Wed, 28 Jan 2026 16:20:41 +0000",
+          "description": "Ο Ολυμπιακός λίγες ώρες πριν την σπουδαία αναμέτρηση κόντρα στον Άγιαξ που θα κρίνει την παρουσία του στα νοκ άουτ του Champions League, ενημέρωσε ότι ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Η φανέλα που θα φορέσουν οι Πειραιώτες στον «τελικό» πρόκρισης στα νοκ άουτ του Champions League δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/el-kaabi-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Ηρακλής – Κολοσσός Ρόδου 80-76: Στο Final 8 του Κυπέλλου οι Θεσσαλονικείς",
           "link": "https://www.newsit.gr/athlitika/iraklis-kolossos-rodou-80-76-sto-final-8-tou-kypellou-oi-thessalonikeis/4585994/",
           "pubDate": "Wed, 28 Jan 2026 16:16:03 +0000",
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 17:00:27 +0200",
           "description": "Χιλιάδες φίλαθλοι του Ολυμπιακού είναι στο Άμστερνταμ με εισιτήριο μόνο την... αγάπη τους για την ομάδα τους. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/opadoi_amsterdam1.jpg?itok=hsLKuh7s",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Εκτός προπόνησης ο Χολμς - Το status του Ναν",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2510936/panathinaikos-ektos-proponisis-o-holms-status-toy-nan",
-          "pubDate": "Wed, 28 Jan 2026 16:57:04 +0200",
-          "description": "Ατομικό πρόγραμμα ακολούθησε ο Κέντρικ Ναν στη σημερινή προπόνηση του Παναθηναϊκού, την ώρα που εκτός έμεινε ο Χολμς, λόγω στομαχικών διαταραχών.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/nun.jpg?itok=g6qqxpdm",
           "source": "Gazzetta"
         }
       ]
