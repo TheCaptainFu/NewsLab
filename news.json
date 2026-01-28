@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T15:05:26.741Z",
+  "lastUpdated": "2026-01-28T15:10:31.354Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "O Κούλλης Νικολάου σε βαρύ πένθος: Πέθανε ο αδελφός του, Νίκος",
+          "link": "https://www.newsit.gr/media/o-koullis-nikolaou-se-vary-penthos-pethane-o-adelfos-tou-nikos/4585914/",
+          "pubDate": "Wed, 28 Jan 2026 15:06:55 +0000",
+          "description": "Μία πολύ δυσάρεστη είδηση έκανε γνωστή ο Κούλλης Νικολάου, αποκαλύπτοντας ότι πέθανε ο μεγαλύτερος από τα 9 αδέλφια του, ο Νίκος. Όπως εξομολογήθηκε την Τετάρτη ...  \nTo άρθρο O Κούλλης Νικολάου σε βαρύ πένθος: Πέθανε ο αδελφός του, Νίκος δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/10/gi-elias-3-1200x729.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Παναθηναϊκός: Εκτός προπόνησης ο Χολμς με στομαχικές διαταραχές, ατομικό ο Ναν",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-ektos-proponisis-o-xolms-me-stomaxikes-diataraxes-atomiko-o-nan/4585917/",
+          "pubDate": "Wed, 28 Jan 2026 15:06:19 +0000",
+          "description": "Ο Παναθηναϊκός συνεχίζει την προετοιμασία του ενόψει του αγώνα με τη Βιλερμπάν (30/01/26, 21:45) και ο Κεντρικ Ναν παραμένει εκτός, ενώ και ο Χολμς δεν ...  \nTo άρθρο Παναθηναϊκός: Εκτός προπόνησης ο Χολμς με στομαχικές διαταραχές, ατομικό ο Ναν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/holmes-1200x819.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Νεκροί οπαδοί του ΠΑΟΚ: «Τα θυμάμαι όλα, θρηνώ τους φίλους μου, ήμασταν αδέρφια» λέει τραυματίας του τροχαίου στη Ρουμανία",
           "link": "https://www.newsit.gr/ellada/nekroi-opadoi-tou-paok-ta-thymamai-ola-thrino-tous-filous-mou-imastan-aderfia-leei-traymatias-tou-troxaiou-sti-roumania/4585888/",
@@ -231,22 +247,6 @@
           "description": "Η ψηφοφορία έγινε ηλεκτρονικά και μετείχε το 80% των μελών της Ένωσης Διοικητικών Δικαστών",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/edd.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "MasterChef: Απόψε η δεύτερη μπριγάδα αγωνίζεται για μία θέση στον διαγωνισμό μαγειρικής",
-          "link": "https://www.newsit.gr/media/masterchef-apopse-i-deyteri-mprigada-agonizetai-gia-mia-thesi-ston-diagonismo-mageirikis/4585816/",
-          "pubDate": "Wed, 28 Jan 2026 13:52:20 +0000",
-          "description": "Στο χθεσινό επεισόδιο του «MasterChef» (Τρίτη 27/1) 14 διαγωνιζόμενοι από την πρώτη μπριγάδα, πήραν την πολυπόθητη λευκή ποδιά και εξασφάλισαν μια θέση στον διαγωνισμό μαγειρικής. ...  \nTo άρθρο MasterChef: Απόψε η δεύτερη μπριγάδα αγωνίζεται για μία θέση στον διαγωνισμό μαγειρικής δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/masterchef-10-1-1200x704.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Συλλυπητήρια από την UEFA στην ΕΠΟ για την τραγωδία του ΠΑΟΚ",
-          "link": "https://www.newsit.gr/athlitika/syllypitiria-apo-tin-uefa-stin-epo-gia-tin-tragodia-tou-paok/4585809/",
-          "pubDate": "Wed, 28 Jan 2026 13:48:56 +0000",
-          "description": "Ο ΠΑΟΚ βυθίστηκε στο πένθος από το θάνατο 7 οπαδών του σε τροχαίο δυστύχημα στη Ρουμανία και η UEFA έδωσε τα συλλυπητήριά της μέσα από ...  \nTo άρθρο Συλλυπητήρια από την UEFA στην ΕΠΟ για την τραγωδία του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2024/05/CEFERIN_REUTERS.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παναθηναϊκός: Εκτός προπόνησης ο Χολμς με στομαχικές διαταραχές, ατομικό ο Ναν",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-ektos-proponisis-o-xolms-me-stomaxikes-diataraxes-atomiko-o-nan/4585917/",
+          "pubDate": "Wed, 28 Jan 2026 15:06:19 +0000",
+          "description": "Ο Παναθηναϊκός συνεχίζει την προετοιμασία του ενόψει του αγώνα με τη Βιλερμπάν (30/01/26, 21:45) και ο Κεντρικ Ναν παραμένει εκτός, ενώ και ο Χολμς δεν ...  \nTo άρθρο Παναθηναϊκός: Εκτός προπόνησης ο Χολμς με στομαχικές διαταραχές, ατομικό ο Ναν δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/holmes-1200x819.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Η αντοχή ως στρατηγική: ο Άγιαξ και το νέο του όπλο",
           "link": "https://www.gazzetta.gr/football/champions-league/2510938/i-antohi-os-stratigiki-o-agiax-kai-neo-toy-oplo",
           "pubDate": "Wed, 28 Jan 2026 17:05:07 +0200",
@@ -977,14 +985,6 @@
           "description": "Μεγαλώνει το ενδιαφέρον για τη συμμετοχή της χώρας μας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/49492fda-euroviosn.jpg?itok=HQ9dvFlx",
           "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: Ο Βρούτσης άφησε ανοιχτό το ενδεχόμενο αναβολής της αγωνιστικής του πρωταθλήματος",
-          "link": "https://www.gazzetta.gr/football/superleague/2510910/paok-dystyhima-sti-roymania-o-broytsis-afise-anoihto-endehomeno",
-          "pubDate": "Wed, 28 Jan 2026 15:09:17 +0200",
-          "description": "Ο Αναπληρωτής Υπουργός Αθλητισμού άφησε ανοικτό το ενδεχόμενο αναβολής της 19ης αγωνιστικής της Superleague.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-07/vroutsis_intime.jpg?itok=YkX_o80q",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Ατομικό ξανά ο Ναν, απρόοπτο με Χολμς – Προπονήθηκε κανονικά ο Γιούρτσεβεν",
+          "link": "https://panathinaikos24.gr/2026/01/28/618103/panathinaikos-atomiko-ksana-o-nan-aproopto-me-xolms-proponithike-kanonika-o-giourtseven/",
+          "pubDate": "Wed, 28 Jan 2026 15:09:29 +0000",
+          "description": "Λιγοστεύουν οι πιθανότητες για συμμετοχή του Κέντρικ Ναν κόντρα στη Βιλερμπάν, αφού ακολούθησε εκ νέου ατομικό πρόγραμμα την Τετάρτη (28/01). Απρόοπτο με Χολμς, επιστροφή για Γιούρτσεβεν.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6802168_165756.jpg?fit=880%2C528&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Έκτακτη διάθεση εισιτηρίων για το Παναθηναϊκός – Ρεάλ Μαδρίτης!",
           "link": "https://trifilara.gr/ektakth-diathesh-eisithriwn-gia-to-panathinaikos-real-madriths/?utm_source=rss&utm_medium=rss&utm_campaign=ektakth-diathesh-eisithriwn-gia-to-panathinaikos-real-madriths",
@@ -1222,14 +1230,6 @@
           "pubDate": "Wed, 28 Jan 2026 11:33:58 +0000",
           "description": "Ο Αλέξανδρος Βανδήρας υπέγραψε επαγγελματικό συμβόλαιο με τον Παναθηναϊκό έως το 2028.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5006057.jpg?fit=1200%2C799&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Ο φαύλος κύκλος και η σταθερότητα ως προαπαιτούμενο",
-          "link": "https://panathinaikos24.gr/2026/01/28/618025/o-faylos-kyklos-kai-i-statherotita-os-proapaitoumeno/",
-          "pubDate": "Wed, 28 Jan 2026 09:26:55 +0000",
-          "description": "Οι αλλεπάλληλες αλλαγές προπονητών την τελευταία διετία, οι εκτεταμένες ανανεώσεις στο ρόστερ και η διαρκής αντικατάσταση προσώπων σε καίρια πόστα, συνθέτουν εδώ και χρόνια ένα γνώριμο μοτίβο στον Παναθηναϊκό.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5005113.jpg?fit=1760%2C1168&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
