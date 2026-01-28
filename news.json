@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T02:00:37.033Z",
+  "lastUpdated": "2026-01-28T02:05:27.816Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Η εξάρτηση της παγκόσμιας οικονομίας από το δημόσιο χρέος",
+          "link": "https://www.in.gr/2026/01/28/economy/diethnis-oikonomia/eksartisi-tis-pagkosmias-oikonomias-apo-dimosio-xreos/",
+          "pubDate": "Wed, 28 Jan 2026 04:04:19 +0300",
+          "description": "Τι τροφοδοτεί την επικίνδυνη τάση προς ελλειμματικές δαπάνες σε ολόκληρη την παγκόσμια οικονομία, συσσωρεύοντας δημόσιο χρέος",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/debt-scaled-768x512.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Ο πρώην αντιπρόεδρος του Παναμά, Χοσέ Γκαμπριέλ Καρίσο, συνελήφθη με κατηγορίες για παράνομο πλουτισμό",
           "link": "https://www.in.gr/2026/01/28/world/o-proin-antiproedros-tou-panama-xose-gkampriel-kariso-synelifthi-katigories-gia-paranomo-ploutismo/",
@@ -239,14 +247,6 @@
           "description": "Στην ανάρτησή του, ο Γιάννης Βρούτσης εξέφρασε τη βαθιά του οδύνη και τα συλλυπητήρια στις οικογένειες και στον σύλλογο, τονίζοντας ότι ο ελληνικός αθλητισμός πενθεί για την τραγική απώλεια",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-27/paok-touba-eurokinissi-2-xrwma.jpg",
           "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Άκρως Ζωδιακό: Τα Do’s και Don’ts στα ζώδια σήμερα [Τετάρτη 28.01.2026]",
-          "link": "https://www.in.gr/2026/01/28/go-fun/stars/imerisia/akros-zodiako-ta-dos-kai-donts-sta-zodia-simera-tetarti-28-01-2026/",
-          "pubDate": "Wed, 28 Jan 2026 00:01:55 +0300",
-          "description": "Τα Do's και τα Don'ts στα ζώδια σήμερα από την Αγγελική Μανουσάκη - Άκρως Ζωδιακό και όποιος αντέξει.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/trevor-mckinnon-FxNbwRDvWnY-unsplash-1-768x480.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
+          "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 01:33:26 GMT",
+          "description": "The killing of Alex Pretti over the weekend led MInnesota officials and locals to renew calls for Trump to end his immigration operation there.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2254/live/8dc47bd0-fbd7-11f0-8102-f9e135ba58e0.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Canadian PM Carney denies walking back Davos speech in phone call with Trump",
           "link": "https://www.bbc.com/news/articles/c9qp3x5x2jpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 01:31:58 GMT",
@@ -731,14 +739,6 @@
           "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 27 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
           "thumbnail": null,
           "source": "Euronews"
-        },
-        {
-          "title": "Spain plans to give half a million undocumented migrants legal status",
-          "link": "https://www.bbc.com/news/articles/c62n6gw1dp9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 16:59:49 GMT",
-          "description": "The process will be available to foreign nationals without a criminal record who can prove they lived in Spain for five months prior to 31 December 2025.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c743/live/4120f660-fb9a-11f0-a1ee-f9a3598885a9.jpg",
-          "source": "BBC News"
         }
       ]
     },
