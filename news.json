@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T20:55:08.224Z",
+  "lastUpdated": "2026-01-28T21:00:37.390Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -129,6 +129,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Κίνα: Δεκάδες άγνωστα είδη ζώων, που ευημερούσαν 1 δισ. χρόνια πριν, βρέθηκαν στην Κίνα",
+          "link": "https://www.in.gr/2026/01/28/in-science/kina-dekades-agnosta-eidi-zoon-pou-eyimerousan-1-dis-xronia-prin-vrethikan-stin-kina/",
+          "pubDate": "Wed, 28 Jan 2026 22:55:27 +0300",
+          "description": "Άγνωστα ζώα που δεν είχαν μελετηθεί ποτέ στο παρελθόν και που επιβίωσαν από «περιστατικό μαζικής εξαφάνισης», βρέθηκαν απολιθωμένα στην Κίνα",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-28T155716Z_1600308451_RC2NH9AG8WUX_RTRMADP_5_SCIENCE-CAMBRIAN-768x513.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ένας 19χρονος στο Λουτράκι πήρε σβάρνα κολώνες και μάντρα με αυτοκίνητο και «καρφώθηκε» σε επιχείρηση, δείτε βίντεο\n",
           "link": "https://www.protothema.gr/greece/article/1765077/enas-19hronos-sto-loutraki-pire-svarna-kolones-kai-madra-me-autokinito-kai-karfothike-se-epiheirisi/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 21:55:21 +0200",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 22:31:54 +0300",
           "description": "Οι γηπεδούχοι απείλησαν με τον Γκλουκ στο 24’",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828642-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Η Ουκρανία ζητά «ενεργειακή κατάπαυση πυρός» – Δύσκολες οι επόμενες εβδομάδες λόγω του παγετού",
-          "link": "https://www.in.gr/2026/01/28/world/oukrania-zita-energeiaki-katapaysi-pyros-dyskoles-oi-epomenes-evdomades-logo-tou-pagetou/",
-          "pubDate": "Wed, 28 Jan 2026 22:25:46 +0300",
-          "description": "Ο υδράργυρος θα υποχωρήσει την επόμενη εβδομάδα στους -20 βαθμούς Κελσίου, σε αρκετές περιοχές στη βόρεια και ανατολική Ουκρανία, σύμφωνα με τις προβλέψεις των μετεωρολόγων - Χωρίς θέρμανση και ρεύμα εκατομμύρια κάτοικοι",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/UKRAINE-CRISIS-ENERGY-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,12 +747,44 @@
       "color": "green",
       "articles": [
         {
+          "title": "Άγιαξ - Ολυμπιακός: Ο Φουρνιέ... ζήλεψε τις φανέλες των «ερυθρόλευκων»",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2511054/agiax-olympiakos-o-foyrnie-zilepse-tis-faneles-ton-erythroleykon",
+          "pubDate": "Wed, 28 Jan 2026 22:57:24 +0200",
+          "description": "Όπως φαίνεται, ο Εβάν Φουρνιέ παρακολουθεί την αναμέτρηση του Ολυμπιακού με τον Άγιαξ στο Άμστερνταμ για το Champions League και αποθέωσε τις φανέλες των «ερυθρόλευκων».",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/fournier23.jpg?itok=BIuDFNqG",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μπενφίκα - Ρεάλ Μαδρίτης: Ο Παυλίδης έφερε... τούμπα το ματς κόντρα στους Μαδριλένους",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511053/mpenfika-real-madritis-o-paylidis-efere-toympa-mats-kontra-stoys",
+          "pubDate": "Wed, 28 Jan 2026 22:56:45 +0200",
+          "description": "Η Μπενφίκα γύρισε το παιχνίδι απέναντι στην Ρεάλ Μαδρίτης προτού βγει το ημίχρονο με τον Παυλίδη να δίνει την ασίστ στο πρώτο και να σκοράρει το δεύτερο γκολ της ομάδας του.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pavlidis_1.jpg?itok=gcAV5wec",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Στίβεν Άνταμς: Τέλος η σεζόν για τον σέντερ των Ρόκετς",
+          "link": "https://www.gazzetta.gr/basketball/nba/2511052/stiben-antams-telos-i-sezon-gia-ton-senter-ton-rokets",
+          "pubDate": "Wed, 28 Jan 2026 22:55:53 +0200",
+          "description": "Σημαντικό πρόβλημα προέκυψε στους Χιούστον Ρόκετς καθώς ο Στίβεν Άνταμς θα περάσει την πόρτα του χειρουργείου με αποτέλεσμα να τεθεί νοκ άουτ για τη συνέχεια της σεζόν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-06/adams_rockets_getty.jpg?itok=eq6JzuZk",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Λύθηκε δεκαετές μυστήριο εξαφάνισης Αμερικανού νεαρού χάρη στην εξέταση DNA",
           "link": "https://www.gazzetta.gr/plus/2510884/lythike-dekaetes-mystirio-exafanisis-amerikanoy-nearoy-hari-stin-exetasi-dna",
           "pubDate": "Wed, 28 Jan 2026 22:53:55 +0200",
           "description": "Το μυστήριο της εξαφάνισης ενός νεαρού στις ΗΠΑ, που διήρκεσε πάνω από μια δεκαετία, λύθηκε επιτέλους μετά από μια σημαντική εξέλιξη στις εξετάσεις DNA.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/19-florida.jpg?itok=boxkUXLq",
           "source": "Gazzetta"
+        },
+        {
+          "title": "Περιστέρι Betsson – Σαραγόσα 86-70: Θριαμβευτική πρόκριση στα προημιτελικά του FIBA Europe Cup για τους Περιστεριώτες",
+          "link": "https://www.newsit.gr/athlitika/peristeri-betsson-saragosa-86-70-thriamveytiki-prokrisi-sta-proimitelika-tou-fiba-europe-cup-gia-tous-peristeriotes/4586238/",
+          "pubDate": "Wed, 28 Jan 2026 20:53:22 +0000",
+          "description": "Το Περιστέρι Betsson επικράτησε της Σαραγόσα με 86-70 στο κατάμεστο “Γ. Παπανδρέου” για την 4η αγωνιστική του δεύτερου γύρου του Europe Cup και εξασφάλισε την ...  \nTo άρθρο Περιστέρι Betsson – Σαραγόσα 86-70: Θριαμβευτική πρόκριση στα προημιτελικά του FIBA Europe Cup για τους Περιστεριώτες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/peristeri-2-1200x799.jpg",
+          "source": "NewsIT"
         },
         {
           "title": "Λίβερπουλ - Καραμπάγκ: ΜακΆλιστερ και Βιρτζ το 2-0 για τους Reds (vid)",
@@ -903,7 +935,7 @@
           "link": "https://www.newsit.gr/athlitika/champions-league-live-me-to-megalo-finale-tis-league-phase/4585909/",
           "pubDate": "Wed, 28 Jan 2026 19:51:04 +0000",
           "description": "Πέφτει η «αυλαία» της League Phase του Champiosn League, καθώς το βράδυ της Τετάρτης (28.01.2026) έχουμε την 8η και τελευταία αγωνιστική της φάσης. Στο τέλος ...  \nTo άρθρο Champions League live με το μεγάλο φινάλε της League Phase δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mbappe-4-1200x800.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paulidis-1200x800.jpg",
           "source": "NewsIT"
         },
         {
@@ -953,38 +985,6 @@
           "description": "Ο κόσμος και οι παίκτες της ΑΕΚ πανηγύρισαν μαζί τη μεγάλη νίκη επί της Άλμπα στην... καυτή ατμόσφαιρα της Sunel Arena, αμέσως μετά τη λήξη της αναμέτρησης.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_eurokinisi_1.jpg?itok=tz1bQUDi",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Λόβρεν: «Μεγάλη τραγωδία για τον ΠΑΟΚ, έχουμε έξτρα κίνητρο»",
-          "link": "https://www.newsit.gr/athlitika/lovren-megali-tragodia-gia-ton-paok-exoume-ekstra-kinitro/4586191/",
-          "pubDate": "Wed, 28 Jan 2026 19:36:41 +0000",
-          "description": "Ο Ντέγιαν Λόβρεν εκπροσώπησε τους παίκτες του ΠΑΟΚ στη συνέντευξη Τύπου για τον αγώνα με τη Λιόν στη Γαλλία για την τελευταία αγωνιστική της League ...  \nTo άρθρο Λόβρεν: «Μεγάλη τραγωδία για τον ΠΑΟΚ, έχουμε έξτρα κίνητρο» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lovren-2-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Λουτσέσκου: «Να μετατρέψουμε τη στενοχώρια σε δύναμη και να παίξουμε και γι' αυτά τα παιδιά»",
-          "link": "https://www.gazzetta.gr/football/europa-league/2511032/loytseskoy-na-metatrepsoyme-ti-stenohoria-se-dynami-kai-na-paixoyme",
-          "pubDate": "Wed, 28 Jan 2026 21:35:48 +0200",
-          "description": "Ο τεχνικός του ΠΑΟΚ, Ραζβάν Λουτσέσκου στη συνέντευξη Τύπου ενόψει του αγώνα με τη Λιόν τόνισε πως οι παίκτες του θα πρέπει να βρουν κίνητρο και να αγωνιστούν για τα παιδιά που έχασαν τη ζωή τους. ΑΠΟΣΤΟΛΗ ΣΤΗ ΛΙΟΝ: ΣΤΑΥΡΟΣ ΣΟΥΝΤΟΥΛΙΔΗΣ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lucescu1.jpg?itok=KNslah2L",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΛ Novibet: Ο Σίστο στα «βυσσινί»",
-          "link": "https://www.gazzetta.gr/football/superleague/2511031/ael-novibet-o-sisto-sta-byssini",
-          "pubDate": "Wed, 28 Jan 2026 21:35:41 +0200",
-          "description": "Τα τυπικά απομένουν για τη μεταγραφή του Πιόνε Σίστο στην ΑΕΛ Novibet.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/sisto.jpg?itok=tn5g-UJD",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός live για το φινάλε της League Phase του Champions League",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-live-gia-to-finale-tis-league-phase-tou-champions-league/4585899/",
-          "pubDate": "Wed, 28 Jan 2026 19:32:22 +0000",
-          "description": "Μετά τις δύο σερί νίκες στη League Phase του Champions League, ο Ολυμπιακός παίζει στην “Johan Cruyff Arena” του Άγιαξ, σε… τελικό πρόκρισης στην επόμενη ...  \nTo άρθρο Άγιαξ – Ολυμπιακός live για το φινάλε της League Phase του Champions League δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-ajax-eurokinissi-2-3-1200x798.jpg",
-          "source": "NewsIT"
         }
       ]
     },
