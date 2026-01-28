@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T19:40:29.798Z",
+  "lastUpdated": "2026-01-28T19:45:25.715Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -13,7 +13,7 @@
           "link": "https://www.newsit.gr/athlitika/lovren-megali-tragodia-gia-ton-paok-exoume-ekstra-kinitro/4586191/",
           "pubDate": "Wed, 28 Jan 2026 19:36:41 +0000",
           "description": "Ο Ντέγιαν Λόβρεν εκπροσώπησε τους παίκτες του ΠΑΟΚ στη συνέντευξη Τύπου για τον αγώνα με τη Λιόν στη Γαλλία για την τελευταία αγωνιστική της League ...  \nTo άρθρο Λόβρεν: «Μεγάλη τραγωδία για τον ΠΑΟΚ, έχουμε έξτρα κίνητρο» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lovren-1200x796.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lovren-2-1200x800.jpg",
           "source": "NewsIT"
         },
         {
@@ -148,7 +148,7 @@
           "title": "Καρλοβάρσκο – Ολυμπιακός 3-2 σετ: Πάλεψαν για την ανατροπή, αλλά «λύγισαν» οι Πειραιώτες",
           "link": "https://www.in.gr/2026/01/28/sports/othersports/karlovarsko-olympiakos-3-2-palepsan-gia-tin-anatropi-alla-lygisan-oi-peiraiotes/",
           "pubDate": "Wed, 28 Jan 2026 21:34:33 +0300",
-          "description": "Ο Ολυμπιακός έδωσε μία σπουδαία μάχη απέναντι στην Καρλοβάρσκο, αλλά ηττήθηκε με 3-2 και οι γηπεδούχοι πήραν την πρόκριση για τους «8» τους CEV Cup.",
+          "description": "Η ομάδα βόλεϊ Ανδρών του Ολυμπιακού ΟΝΕΧ ολοκλήρωσε το φετινό ευρωπαϊκό της ταξίδι στην Τσεχία, μετά την ήττα με 3-2 σετ από την Καρλοβάρσκο, οι οποίοι πήραν την πρόκριση για τους «8» τους CEV Cup.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6809526-1-1-768x511.jpg",
           "source": "In.gr"
         },
@@ -255,11 +255,19 @@
       "color": "purple",
       "articles": [
         {
+          "title": "GPO: Επτά στους 10 θέλουν την εκλογή άλλης κυβέρνησης – Υψηλή δυνητική ψήφος για Καρυστιανού και Τσίπρα",
+          "link": "https://www.naftemporiki.gr/politics/2065255/gpo-epta-stoys-10-theloyn-tin-eklogi-allis-kyvernisis-ypsili-dynitiki-psifos-gia-karystianoy-kai-tsipra/?utm_source=rss&utm_medium=rss&utm_campaign=gpo-epta-stoys-10-theloyn-tin-eklogi-allis-kyvernisis-ypsili-dynitiki-psifos-gia-karystianoy-kai-tsipra",
+          "pubDate": "Wed, 28 Jan 2026 19:41:36 +0000",
+          "description": "Διψήφια διαφορά ανάμεσα σε ΝΔ και ΠΑΣΟΚ καταγράφει η νέα δημοσκόπηση της GPO, με περισσότερα κόμματα να εμφανίζουν πτώση, ενώ η δυνητική ψήφος προς το κόμμα της Μαρίας Καρυστιανού εκτοξεύεται…\nGPO: Επτά στους 10 θέλουν την εκλογή άλλης κυβέρνησης – Υψηλή δυνητική ψήφος για Καρυστιανού και Τσίπρα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "thumbnail": null,
+          "source": "Ναυτεμπορική"
+        },
+        {
           "title": "Δημοσκόπηση: Τα πάνω κάτω στις θέσεις των κομμάτων – Αυξάνονται οι αναποφάσιστοι – Ποιοι κερδίζουν και ποιοι χάνουν",
           "link": "https://www.tanea.gr/2026/01/28/politics/dimoskopisi-ta-pano-kato-stis-theseis-ton-kommaton-ayksanontai-oi-anapofasistoi-poioi-kerdizoun-kai-poioi-xanoun/",
           "pubDate": "Wed, 28 Jan 2026 19:33:14 +0000",
           "description": "Πτώση για τα περισσότερα κόμματα και θεαματική αύξηση της δεξαμενής των αναποφάσιστων καταγράφει η νέα δημοσκόπηση της GPO, η οποία παρουσιάστηκε στο κεντρικό δελτίο ειδήσεων του Star. Η έρευνα αποτυπώνει μεταβολές στην πρόθεση ψήφου και στις πολιτικές τάσεις ενόψει των επόμενων εκλογών. Στην πρόθεση ψήφου, η Νέα Δημοκρατία συγκεντρώνει 24,5%, έναντι 25,2% τον Νοέμβριο. Παρά […]",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/dimoskopisi-1.-jpeg.webp",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/kalpes-1-1024x683.jpg",
           "source": "Τα Νέα"
         },
         {
@@ -484,14 +492,6 @@
           "pubDate": "Wed, 28 Jan 2026 11:59:55 +0000",
           "description": "Η Κατερίνα Μπατζελή τόνισε πως το βασικό στη διανομή αγροτικών ενισχύσεων είναι το πότε ανοίγουν οι αιτήσεις, όχι ο ρόλος του τεχνικού συμβούλου. Αναφέρθηκε σε καθυστερήσεις και παρέμβαση στη δικαιοσύνη για παραβάσεις και απάτες.",
           "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/5006598-1024x683.jpg",
-          "source": "Τα Νέα"
-        },
-        {
-          "title": "Π. Μαρινάκης: Κίνημα «τυμβωρύχων» από πολιτικούς που κάνουν «καριέρα» πάνω σε τραγωδίες",
-          "link": "https://www.tanea.gr/2026/01/28/politics/p-marinakis-kinima-tymvoryxon-apo-politikoys-poy-kanoyn-kariera-pano-se-tragodies/",
-          "pubDate": "Wed, 28 Jan 2026 11:54:52 +0000",
-          "description": "Υπογράμμισε ότι η Ελλάδα έχει από τα λιγότερα εργατικά δυστυχήματα στην ΕΕ, καταγγέλλοντας προσπάθειες παραπληροφόρησης από μέσα και κόμματα.",
-          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/08/Paylos-Marinakis-2-1024x683.jpg",
           "source": "Τα Νέα"
         }
       ]
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Λόβρεν: «Έχουμε στην καρδιά μας μεγάλη στενοχώρια, πρέπει να επιστρέψουμε κάτι στους οπαδούς μας»",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511034/lobren-ehoyme-stin-kardia-mas-megali-stenohoria-prepei-na",
+          "pubDate": "Wed, 28 Jan 2026 21:42:24 +0200",
+          "description": "Ο αμυντικός του ΠΑΟΚ, Ντέγιαν Λόβρεν μιλώντας στη συνέντευξη Τύπου στη Λιόν αναφέρθηκε στο πόσο έχει επηρεάσει την ομάδα το τραγικό δυστύχημα, αλλά και το κίνητρο που υπάρχει. ΑΠΟΣΤΟΛΗ ΣΤΗ ΛΙΟΝ: ΣΤΑΥΡΟΣ ΣΟΥΝΤΟΥΛΙΔΗΣ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lovren.jpg?itok=s3YaXWmF",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΑΕΚ: Το... πάρτι του κόσμου με τους παίκτες μετά τη νίκη επί της Άλμπα",
           "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511033/aek-parti-toy-kosmoy-me-toys-paiktes-meta-ti-niki",
           "pubDate": "Wed, 28 Jan 2026 21:37:08 +0200",
@@ -759,7 +767,7 @@
           "link": "https://www.newsit.gr/athlitika/lovren-megali-tragodia-gia-ton-paok-exoume-ekstra-kinitro/4586191/",
           "pubDate": "Wed, 28 Jan 2026 19:36:41 +0000",
           "description": "Ο Ντέγιαν Λόβρεν εκπροσώπησε τους παίκτες του ΠΑΟΚ στη συνέντευξη Τύπου για τον αγώνα με τη Λιόν στη Γαλλία για την τελευταία αγωνιστική της League ...  \nTo άρθρο Λόβρεν: «Μεγάλη τραγωδία για τον ΠΑΟΚ, έχουμε έξτρα κίνητρο» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lovren-1200x796.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lovren-2-1200x800.jpg",
           "source": "NewsIT"
         },
         {
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 20:48:37 +0200",
           "description": "Σε μια ειδική πρεμιέρα σε κεντρικό κινηματογράφο της Αττικής, προβλήθηκε από τη Nova και το Basketaki AμεΑ το ντοκιμαντέρ powered by ΑΦΗΣ το οποίο φιλοδοξεί να αγγίξει το ευρύ κοινό, να εμπνεύσει και να υπενθυμίσει ότι ο αθλητισμός, όταν υπηρετεί τον άνθρωπο, γίνεται φορέας ελπίδας, αποδοχής και ισότητας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/photo3.jpg?itok=lu_aMCmf",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ξενοδοχείο στη Σελήνη μέχρι το 2032: Εταιρεία δέχεται ήδη προκαταβολές εκατομμυρίων (vid)",
-          "link": "https://www.gazzetta.gr/plus/2510972/xenodoheio-sti-selini-mehri-2032-etaireia-dehetai-idi-prokataboles-ekatommyrion-vid",
-          "pubDate": "Wed, 28 Jan 2026 20:46:00 +0200",
-          "description": "Νοσύστατη εταιρεία στην Καλιφόρνια άρχισε να δέχεται προκαταβολές έως και 1 εκατομμυρίου δολαρίων από ταξιδιώτες που επιθυμούν να είναι οι πρώτοι που θα μείνουν σε ξενοδοχείο στη Σελήνη.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/xenodoheio-selhnh.jpg?itok=dWseM9s0",
           "source": "Gazzetta"
         }
       ]
