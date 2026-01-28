@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T05:45:30.516Z",
+  "lastUpdated": "2026-01-28T05:50:27.279Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Δυστύχημα με οπαδούς του ΠΑΟΚ: 60-70 νεκροί τον χρόνο και 320 ατυχήματα στον «δρόμο του θανάτoυ» στη Ρουμανία",
+          "link": "https://www.newsit.gr/ellada/dystyxima-me-opadous-tou-paok-60-70-nekroi-ton-xrono-kai-320-atyximata-ston-dromo-tou-thanatoy-sti-roumania/4585304/",
+          "pubDate": "Wed, 28 Jan 2026 05:48:46 +0000",
+          "description": "Δρόμος καρμανιόλα ή αλλιώς ο «δρόμος του θανάτου» είναι αυτός που σημειώθηκε η τραγωδία με τους 7 νεκρούς φιλάθλους του ΠΑΟΚ στη Ρουμανία. Ένας δρόμος ...  \nTo άρθρο Δυστύχημα με οπαδούς του ΠΑΟΚ: 60-70 νεκροί τον χρόνο και 320 ατυχήματα στον «δρόμο του θανάτoυ» στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-fans-1200x675-1.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Εσωκομματικά πυρά και καταγγελίες για αλχημείες στο ΠΑΣΟΚ",
           "link": "https://www.newsit.gr/politikh/esokommatika-pyra-kai-kataggelies-gia-alximeies-sto-pasok/4585302/",
@@ -89,7 +97,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Καιρός: Νεφώσεις και τοπικές βροχές σήμερα, καταιγίδες από το βράδυ της Τετάρτης",
+          "title": "Καιρός: Νεφώσεις και τοπικές βροχές σήμερα, ξεκινά κύμα κακοκαιρίας από την Πέμπτη",
           "link": "https://www.protothema.gr/greece/article/1764532/kairos-nefoseis-kai-topikes-vrohes-simera-sovari-epideinosi-apo-to-vradu-tis-tetartis/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 07:05:00 +0200",
           "description": "Δείτε σε ποιες περιοχές της χώρας θα βρέξει σήμερα και πού σημειωθούν φαινόμενα με έντονο χαρακτήρα την Πέμπτη - Αναλυτικά η πρόγνωση του Γιάννη Καλλιάνου",
@@ -153,7 +161,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Το φρούρο που δεν ήξερες και μπορεί να γίνει το νέο superfood",
+          "title": "Το φρούτο που δεν ήξερες και μπορεί να γίνει το νέο superfood",
           "link": "https://www.in.gr/2026/01/28/plus/vita/frouro-pou-den-ikseres-kai-mporei-na-ginei-neo-superfood/",
           "pubDate": "Wed, 28 Jan 2026 07:30:42 +0300",
           "description": "Ένα φρούτο με μεγάλη ιστορία, που όμως τα τελευταία χρόνια έχει προσελκύσει το ενδιαφέρον των επιστημόνων χάρη στην υψηλή του περιεκτικότητα σε αντιοξειδωτικά.",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 06:02:56 +0300",
           "description": "Η πρωτοφανής ζήτηση για τους BTS στο Μεξικό έφτασε μέχρι το προεδρικό μέγαρο, με την Κλαούντια Σέινμπαουμ να ζητά περισσότερες συναυλίες από τον τον πρόεδρο της Νότιας Κορέας, Λι Τζε-Μιούνγκ",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-26T181010Z_312015543_RC259JAZM4RK_RTRMADP_5_MUSIC-BTS-MEXICO-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Πες «όχι», σου κάνει καλό",
-          "link": "https://www.in.gr/2026/01/28/plus/vita/pes-oxi-kanei-kalo/",
-          "pubDate": "Wed, 28 Jan 2026 06:01:23 +0300",
-          "description": "Το να λέμε «όχι» δεν μας κάνει λιγότερο καλούς ανθρώπους - mας κάνει πιο ειλικρινείς.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pawel-szvmanski-oUOxOSPbcJk-unsplash-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Νάγκετς-Πίστονς 107-109: Διπλό στο Ντένβερ με Κάνινγκχαμ και Χάρις",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510797/nagkets-pistons-107-109-diplo-sto-ntenber-me-kaningkham-kai-haris",
+          "pubDate": "Wed, 28 Jan 2026 07:48:11 +0200",
+          "description": "Οι Ντιτρόιτ Πίστονς (34-11) πέρασαν νικηφόρα από το Ντένβερ, επικρατώντας των Νάγκετς (31-16) με 109-107 και φτάνοντας τις εννέα νίκες στους τελευταίους 11 αγώνες.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/cade_cunningham_pistons_x.jpg?itok=Roue8hH9",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Σίξερς-Μπακς 139-122: Έκτη ήττα σε επτά ματς για τα «Ελάφια»",
           "link": "https://www.gazzetta.gr/basketball/nba/2510796/sixers-mpaks-139-122-ekti-itta-se-epta-mats-gia-ta-elafia",
           "pubDate": "Wed, 28 Jan 2026 07:29:58 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Tue, 27 Jan 2026 22:17:44 +0200",
           "description": "Τραγωδία δίχως τέλος. Πέθανε οπαδός του ΠΑΟΚ στη Λάρισα όταν έμαθε για τον θάνατο του φίλου του στη Ρουμανία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_4.jpg?itok=6d00LIII",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Βίντεο με τραυματία από το νοσοκομείο",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510753/paok-dystyhima-sti-roymania-binteo-me-traymatia-apo-nosokomeio",
-          "pubDate": "Tue, 27 Jan 2026 22:12:03 +0200",
-          "description": "Συγκλονιστικό βίντεο από το νοσοκομείο της Τιμισοάρα, όπου ένας από τους τραυματίες οπαδούς του ΠΑΟΚ μεταφέρεται έχοντας τις αισθήσεις του.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/video.jpg?itok=4G2igIb0",
           "source": "Gazzetta"
         }
       ]
