@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T19:15:30.358Z",
+  "lastUpdated": "2026-01-28T19:20:27.941Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -153,6 +153,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "«Παίζεις με την φωτιά»: Ο Τραμπ απειλεί τον δήμαρχο της Μινεάπολης για την άρνηση συνεργασίας με την ICE",
+          "link": "https://www.in.gr/2026/01/28/world/paizeis-tin-fotia-o-tramp-apeilei-ton-dimarxo-tis-mineapolis-gia-tin-arnisi-synergasias-tin-ice/",
+          "pubDate": "Wed, 28 Jan 2026 21:17:50 +0300",
+          "description": "Νέο μέτωπο σύγκρουσης άνοιξε ο Ντόναλντ Τραμπ με τη Μινεάπολη, κατηγορώντας τον δήμαρχο Τζέικομπ Φρέι ότι παραβιάζει την ομοσπονδιακή νομοθεσία μετανάστευσης",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-20T210657Z_1046583355_RC2XZIAPBEMV_RTRMADP_5_USA-TRUMP-MINNESOTA-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "ΑΕΚ – Άλμπα Βερολίνου 88-80: Εκανε ανατροπή με άμυνα και με οδηγό τον Χαραμπόπουλο",
+          "link": "https://www.in.gr/2026/01/28/inbox/aek-almpa-verolinou-88-80-ekane-anatropi-amyna-kai-odigo-ton-xarampopoulo/",
+          "pubDate": "Wed, 28 Jan 2026 21:17:41 +0300",
+          "description": "Φουλ για την πρώτη θέση του ομίλου πάει η ΑΕΚ αφού πέτυχε δεύτερη νίκη σε ισάριθμους αγώνες. Καθοριστική συμβολή είχε και ο Χαραλαμπόπουλος που σταμάτησε στους 13 πόντους, με 4 ριμπάουντ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/aek-768x511.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Στουρνάρας: Η ελληνική οικονομία διατηρεί την αναπτυξιακή δυναμική της με συνισταμένες την κατανάλωση και τις καθαρές εξαγωγές",
           "link": "https://www.newsit.gr/oikonomia/finance/stournaras-i-elliniki-oikonomia-diatirei-tin-anaptyksiaki-dynamiki-tis-me-synistamenes-tin-katanalosi-kai-tis-kathares-eksagoges/4586119/",
           "pubDate": "Wed, 28 Jan 2026 18:16:08 +0000",
@@ -230,22 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 20:56:40 +0300",
           "description": "Ο υπουργός Υγείας ενημέρωσε μέσω ανάρτησης ότι οι άλλοι δύο τραυματίες θα επιστρέψουν αύριο κανονικά στην Ελλάδα και θα τους παραλάβει το ΕΚΑΒ.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/xrwma-roumania2-768x431.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "7ο Φεστιβάλ 2510: Open call συμμετοχής σε καλλιτέχνες",
-          "link": "https://www.in.gr/2026/01/28/life/7o-festival-2510-open-call-symmetoxis-se-kallitexnes/",
-          "pubDate": "Wed, 28 Jan 2026 20:55:57 +0300",
-          "description": "Ανοιχτή πρόσκληση σε ηθοποιούς, θεατρικές ομάδες, χορευτές, μουσικούς και μουσικά σχήματα, ζωγράφους, φωτογράφους και όχι μόνο για το 7ο φεστιβάλ 2510.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/brecht-2510-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Κουτσούμπας στο 22ο Συνέδριο του ΚΚΕ: Ο λαός να πει «όχι» σε νέες θυσίες – Η κυβέρνηση μας σέρνει σε μακελειό",
-          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/koutsoumpas-sto-22o-synedrio-tou-kke-o-laos-na-pei-oxi-se-nees-thysies/",
-          "pubDate": "Wed, 28 Jan 2026 20:54:54 +0300",
-          "description": "Ο Κουτσούμπας ξεκαθαρίζει ότι το ΚΚΕ δεν μπαίνει σε κυβερνητικές συνεργασίες, παραμένει απέναντι στην κυβέρνηση και ασκεί κριτική σε Τσίπρα, Καρυστιανού και Κωνσταντοπούλου κατά την εναρκτήρια εκδήλωση του 22ου Συνεδρίου.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/photo_2026-01-28_20-26-18-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: LIVE η βαθμολογία του Champions League",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510931/olympiakos-live-i-bathmologia-toy-champions-league",
+          "pubDate": "Wed, 28 Jan 2026 21:15:00 +0200",
+          "description": "Ο Ολυμπιακός παίζει... τελικό πρόκρισης στο Αμστερνταμ κόντρα στον Αγιαξ και το Gazzetta σας παρουσιάζει LIVE βαθμολογία και το πώς θα διαμορφώνεται ανά λεπτό η κατάσταση στην τελευταία αγωνιστική της League Phase του Champions League!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vathmologia_generic_cl_article.jpg?itok=b_kxzeFF",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΑΕΚ: Η βαθμολογία μετά τη νίκη επί της Άλμπα",
           "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511027/aek-i-bathmologia-meta-ti-niki-epi-tis-almpa",
           "pubDate": "Wed, 28 Jan 2026 21:12:58 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 20:18:00 +0200",
           "description": "Στο παιχνίδι του Ολυμπιακού με την Μπαρτσελόνα, αλλά και στο τροχαίο δυστύχημα στη Ρουμανία στάθηκε ο Τάισον Γουόρντ στις δηλώσεις του ενόψει της αυριανής αναμέτρησης.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ward_0.jpg?itok=xd1gox8u",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός - Ολυμπιακός 88-85: Με... υπογραφή Σπανού το 2/2 στα ντέρμπι",
-          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2511002/panathinaikos-olympiakos-88-85-me-ypografi-spanoy-22-sta",
-          "pubDate": "Wed, 28 Jan 2026 20:10:55 +0200",
-          "description": "Ο Παναθηναϊκός αντιμετώπισε τον Ολυμπιακό σε ένα ντέρμπι με τα... όλα του για την Α1 Γυναικών με την Άρτεμη Σπανού να βάζει την υπογραφή της για τη νίκη των «πράσινων» με 88-85.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pao_oly_intime.jpg?itok=LaKpT-c8",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Εξέγερση στην Big Tech: Εργαζόμενοι πιέζουν τους CEOs να κόψουν τους δεσμούς με την ICE",
+          "link": "https://gr.pcmag.com/social-media-1/51141/exegerse-sten-big-tech-ergazomenoi-piezoun-tous-ceos-na-kopsoun-tous-desmous-me-ten-ice",
+          "pubDate": "Wed, 28 Jan 2026 19:07:52 +0000",
+          "description": "Ενώ οι Cook και Zuckerberg έχουν γίνει αυλοκόλακες του Τραμπ, εκατοντάδες υπάλληλοι απαιτούν την ακύρωση συμβολαίων με την Υπηρεσία Μετανάστευσης μετά τον θάνατο των Alex Pretti και Renée Good στη Μινεσότα.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/t/tech-worke/tech-workers-call-on-ceos-to-condemn-ice-pressure-trump-admi_fh25.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "GPT-5.2: Το νέο μοντέλο της OpenAI αντλεί πληροφορίες από την Grokipedia του Elon Musk",
           "link": "https://gr.pcmag.com/ai-2/51140/gpt-52-to-neo-montelo-tes-openai-antlei-plerophories-apo-ten-grokipedia-tou-elon-musk",
           "pubDate": "Wed, 28 Jan 2026 18:29:37 +0000",
@@ -1469,14 +1477,6 @@
           "description": "Η πιο πρόσφατη έρευνα της Kaspersky δείχνει ότι το 97% των ανθρώπων αλληλεπιδρούν με τα μέλη της οικογένειάς τους ψηφιακά. Η μελέτη αποκαλύπτει ότι το...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/kaspersky-home.jpg",
           "source": "Techgear"
-        },
-        {
-          "title": "AMD Ryzen 7 9850X3D: Έρχεται σε πανίσχυρο \"all-in-one\" bundle με RAM και ψύκτρα",
-          "link": "https://gr.pcmag.com/processors/51133/amd-ryzen-7-9850x3d-erkhetai-se-paniskhuro-all-in-one-bundle-me-ram-kai-psuktra",
-          "pubDate": "Tue, 27 Jan 2026 11:31:16 +0000",
-          "description": "Η απάντηση της AMD στην έλλειψη μνημών DDR5 και το στρατηγικό πακέτο με V-Color και Cooler Master που στοχεύει την κορυφή του gaming.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/l/leak-tips-/leak-tips-bundle-with-amd-ryzen-7-9850x3d-ram-and-cooler_373w.jpg",
-          "source": "PC Magazine"
         }
       ]
     }
