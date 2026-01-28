@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T17:40:28.957Z",
+  "lastUpdated": "2026-01-28T17:45:29.356Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Βιολάντα: Τα ερωτήματα και οι ευθύνες μετά το πόρισμα της Πυροσβεστικής για την πολύμηνη διαρροή που προκάλεσε τη φονική έκρηξη",
+          "link": "https://www.protothema.gr/greece/article/1764992/violada-ta-erotimata-kai-oi-euthunes-meta-to-porisma-tis-purosvestikis-gia-tin-polumini-diarroi/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 19:43:00 +0200",
+          "description": "Γιατί δεν διαπιστώθηκε η διάβρωση -Γιατί δεν λειτούργησαν οι μηχανισμοί ανίχνευσης του προπανίου -  Γιατί αγνοήθηκαν οι προειδοποιήσεις για μυρωδιά αερίου στο εργοστάσιο - Τι έλεγχοι γίνονταν, πώς πιστοποιούνταν- Το βίντεο της Πυροσβεστικής που εξηγεί τον μηχανισμό που οδήγησε στην έκρηξη με πέντε εργάτριες νεκρές",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/biolanta-ergostasio3-xrm.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Νεκρή πεζή στη Λάρισα, παρασύρθηκε από αυτοκίνητο",
+          "link": "https://www.protothema.gr/greece/article/1765006/nekri-pezi-sti-larisa-parasurthike-apo-autokinito/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 19:42:51 +0200",
+          "description": "Η Τροχαία διερευνά τα αίτια του δυστυχήματος",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-11-23/maketa-ekav.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Τραγωδία ΠΑΟΚ: Ενός λεπτού σιγή και χειροκρότημα από τους οπαδούς της ΑΕΚ στη Sunel Arena",
           "link": "https://www.newsit.gr/athlitika/tragodia-paok-enos-leptou-sigi-kai-xeirokrotima-apo-tous-opadous-tis-aek-sti-sunel-arena/4586075/",
@@ -230,22 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 16:42:51 +0000",
           "description": "Πένθος επικρατεί στον κόσμο του ΠΑΣΟΚ, μετά την είδηση θανάτου της δικηγόρου και υποψήφιας βουλευτή, Αριστέας Καζάκου, η οποία πέθανε σε ηλικία 40 ετών ύστερα ...  \nTo άρθρο Θλίψη στο ΠΑΣΟΚ: Πέθανε σε ηλικία 40 ετών η υποψήφια βουλευτής, Αριστέα Καζάκου δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aristea-kazakou-pasok.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ρούμπιο: «Επιστρέφει η διπλωματική παρουσία των ΗΠΑ στη Βενεζουέλα – Θα λαμβάνουμε πληροφορίες σε πραγματικό χρόνο»",
-          "link": "https://www.newsit.gr/kosmos/roumpio-epistrefei-i-diplomatiki-parousia-ton-ipa-sti-venezouela-tha-lamvanoume-plirofories-se-pragmatiko-xrono/4586003/",
-          "pubDate": "Wed, 28 Jan 2026 16:41:12 +0000",
-          "description": "Με γρήγορα αλλά σταθερά βήματα οι ΗΠΑ σχεδιάζουν τις επόμενες κινήσεις του στην Βενεζουέλα στην «μετά – Μαδούρο» εποχή, με τον Αμερικανό υπουργό Εξωτερικών Μάρκο ...  \nTo άρθρο Ρούμπιο: «Επιστρέφει η διπλωματική παρουσία των ΗΠΑ στη Βενεζουέλα – Θα λαμβάνουμε πληροφορίες σε πραγματικό χρόνο» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/marco-rubio-reuters-1200x811.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Corriere dello Sport: To OAKA είναι μια καταστροφή με γερανούς και κλειστές κερκίδες",
-          "link": "https://www.newsit.gr/athlitika/corriere-dello-sport-to-oaka-einai-mia-katastrofi-me-geranous-kai-kleistes-kerkides/4586009/",
-          "pubDate": "Wed, 28 Jan 2026 16:38:40 +0000",
-          "description": "Η Ρόμα βρίσκεται στην Αθήνα για τον αγώνα της με τον Παναθηναϊκό για το Europa League (29/1, 22:00), με την “Corriere dello Sport” να σχολιάζει ...  \nTo άρθρο Corriere dello Sport: To OAKA είναι μια καταστροφή με γερανούς και κλειστές κερκίδες δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/roma-2-1200x803.jpg",
           "source": "NewsIT"
         }
       ]
@@ -505,7 +505,7 @@
           "link": "https://www.bbc.com/news/articles/c5yx015nkplo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 17:28:08 GMT",
           "description": "Wounded demonstrators tell the BBC they are relying on medics willing to risk their own safety by treating them at their homes.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac65/live/c974c300-fc6e-11f0-a8b8-bdd2c5f9bcad.jpg",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b164/live/a27f6500-fc70-11f0-9972-d3f265c101c6.jpg",
           "source": "BBC News"
         },
         {
@@ -747,10 +747,18 @@
       "color": "green",
       "articles": [
         {
+          "title": "Παναθηναϊκός, ΑΕΚ: Πανό σε Λεωφόρο και SUNEL Arena για τους αδικοχαμένους φίλους του ΠΑΟΚ",
+          "link": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2510992/panathinaikos-aek-pano-se-leoforo-kai-sunel-arena-gia-toys",
+          "pubDate": "Wed, 28 Jan 2026 19:43:54 +0200",
+          "description": "Τον δικό του φόρο τιμής απέτισαν οι οπαδοί του Παναθηναϊκού και της ΑΕΚ για τον τραγικό θάνατο των επτά φίλων του ΠΑΟΚ στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pano.jpg?itok=lS7ad_a-",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ, δυστύχημα στη Ρουμανία: Πανό των φίλων του Ολυμπιακού που έγραφε «Πετάξτε ψηλά αετοί»",
           "link": "https://www.gazzetta.gr/football/champions-league/2510991/paok-dystyhima-sti-roymania-pano-ton-filon-toy-olympiakoy-poy",
           "pubDate": "Wed, 28 Jan 2026 19:37:48 +0200",
-          "description": "Ο κόσμος του Ολυμπιακού τίμησε και επί ολλανδικού εδάφους την μνήμη των επτά αδικοχαμένων φιλάθλων του ΠΑΟΚ της τραγωδίας στη Ρουμανία.",
+          "description": "Ο κόσμος του Ολυμπιακού τίμησε και επί ολλανδικού εδάφους την μνήμη των επτά αδικοχαμένων φιλάθλων του ΠΑΟΚ στην τραγωδία της Ρουμανίας.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_pano1.jpg?itok=VW6ALn5m",
           "source": "Gazzetta"
         },
@@ -977,14 +985,6 @@
           "description": "Ο Ολυμπιακός αντιμετωπίζει τον Άγιαξ στο Άμστερνταμ (28.01.2026, 22:00, Newsit.gr, MEGA COSMOTE SPORT 2HD) με στόχο τη νίκη που θα τον οδηγήσει στα playoffs του ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Στα ερυθρόλευκα η Damm Square από τους φίλους των Πειραιωτών δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiakos-opadoi-eurokinissi-2-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Volkswagen Golf R: Διαχρονικές επιδόσεις με τη νέα Black Edition (vid)",
-          "link": "https://www.gazzetta.gr/gmotion/2510550/volkswagen-golf-r-diahronikes-epidoseis-me-ti-nea-black-edition-vid",
-          "pubDate": "Wed, 28 Jan 2026 18:30:00 +0200",
-          "description": "Το εμβληματικό Golf R αναβαθμίζεται αισθητικά με την έκδοση Black Edition, συνδυάζοντας την τεχνολογία 4MOTION και τους 333 ίππους με μια επιβλητική, σκοτεινή εμφάνιση.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/db2024au00815_large_1.jpg?itok=bzzuwkM1",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Γκασπερίνι: «Πολύ μεγάλος ο Παναθηναϊκός – Απαράδεκτο αυτό που συμβαίνει με τις λίστες»",
+          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/gkasperini-poly-megalos-o-panathinai/?utm_source=rss&utm_medium=rss&utm_campaign=gkasperini-poly-megalos-o-panathinai",
+          "pubDate": "Wed, 28 Jan 2026 17:41:11 +0000",
+          "description": "Ο προπονητής της Ρόμα, Τζιάν Πιέρο Γκασπερίνι, μίλησε στη συνέντευξη Τύπου στο ΟΑΚΑ ενόψει του παιχνιδιού με τον Παναθηναϊκό. Αναλυτικά όλα όσα είπε: Για τον αγώνα: «Θα προσπαθήσουμε να πάρουμε αποτέλεσμα παρά τις απουσίες. Στόχος μας είναι να τερματίσουμε στην πρώτη οκτάδα, αν και αυτή τη στιγμή το πρωτάθλημα παραμένει προτεραιότητά μας». Για την κατάσταση […]",
+          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/gasperini.jpg",
+          "source": "Όλα Πράσινα"
+        },
         {
           "title": "Ανακοίνωση Ολυμπιακού για Παναθηναϊκό και ΕΡΤ: «Συγχαρητήρια, κάνουν μούντζες και χειρονομίες!» (vid)",
           "link": "https://trifilara.gr/anakoinosi-olybiakou-gia-panathinaiko-kai-ert-sygcharitiria-kanoun-mountzes-kai-cheironomies-vid/?utm_source=rss&utm_medium=rss&utm_campaign=anakoinosi-olybiakou-gia-panathinaiko-kai-ert-sygcharitiria-kanoun-mountzes-kai-cheironomies-vid",
@@ -1199,14 +1207,6 @@
           "description": "Μια εικόνα που ξεπέρασε τα χρώματα και έστειλε μήνυμα ενότητας μετά την ανείπωτη απώλεια των επτά οπαδών του ΠΑΟΚ.\nThe post Η συγκινητική κίνηση φίλου του Παναθηναϊκού προς του αδικοχαμένους οπαδούς του ΠΑΟΚ! (pic) appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Μπενίτεθ: «Είπαμε με Αλαφούζο ότι θα χρειαστούμε κι άλλες μεταγραφές – Ζητούν διάφορα πράγματα!»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/beniteth-eipame-me-alafouzo-oti-tha-chr/?utm_source=rss&utm_medium=rss&utm_campaign=beniteth-eipame-me-alafouzo-oti-tha-chr",
-          "pubDate": "Wed, 28 Jan 2026 12:34:31 +0000",
-          "description": "Ο Ράφα Μπενίτεθ μίλησε στην συνέντευξη Τύπου, πριν την αναμέτρηση του Παναθηναϊκού με τη Ρόμα. Όσα είπε στην συνέντευξη Τύπου ο Μπενίτεθ: «Πριν ξεκινήσουμε θα ήθελα να εκφράσω τα ειλικρινή μου συλλυπητήρια σε όλες τις οικογένειες των ανθρώπων που έχασαν χτες την ζωή τους σε αυτό το τραγικό δυστύχημα. Να έχουν μια γρήγορη ανάρρωση όσοι […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/benitez-2-4.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Πάντοβιτς: «Χαρούμενοι που έχουμε προκριθεί – Να βελτιώσουμε την εικόνα μας»",
