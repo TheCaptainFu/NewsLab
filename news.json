@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T08:20:28.324Z",
+  "lastUpdated": "2026-01-28T08:22:54.238Z",
   "totalArticles": 178,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "«Μπλόκαρε το τιμόνι κατά την προσπέραση» αποκάλυψε τραυματίας οπαδός του ΠΑΟΚ στον Έλληνα γιατρό που βρέθηκε στο σημείο του φονικού τροχαίου",
+          "link": "https://www.protothema.gr/greece/article/1764626/blokare-to-timoni-kata-tin-prosperasi-apokalupse-traumatias-opados-tou-paok/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 10:21:45 +0200",
+          "description": "",
+          "thumbnail": "https://i1.prth.gr/images/w640/2/jpeg/files/2024-12-11/xrvma_ektakth_epikairothta_1012242.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Ηράκλειο: Αυτοκίνητο παρέσυρε παιδί έξω από σχολείο – Μεταφέρθηκε στο νοσοκομείο με τραύμα στο κεφάλι",
           "link": "https://www.newsit.gr/ellada/irakleio-aytokinito-paresyre-paidi-ekso-apo-sxoleio-metaferthike-sto-nosokomeio-me-trayma-sto-kefali/4585434/",
@@ -239,14 +247,6 @@
           "description": "Αυτό είναι το πλήρες πρόγραμμα με τις αθλητικές μεταδόσεις της ημέρας (28/1).",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6819356-768x511.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Κίνηση στους δρόμους: «Στα κόκκινα» Κηφισός – 30λεπτες καθυστερήσεις στην Αττική Οδό",
-          "link": "https://www.newsit.gr/ellada/kinisi-stous-dromous-sta-kokkina-kifisos-30leptes-kathysteriseis-stin-attiki-odo/4585364/",
-          "pubDate": "Wed, 28 Jan 2026 07:02:21 +0000",
-          "description": "Ακόμη μία ημέρα, με την κίνηση να φτάνει στα κόκκινα στους δρόμους της Αττικής. Πολλές μεγάλες οδικές αρτηρίες, είναι “φραγμένες” από την κίνηση με τους ...  \nTo άρθρο Κίνηση στους δρόμους: «Στα κόκκινα» Κηφισός – 30λεπτες καθυστερήσεις στην Αττική Οδό δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kifisos-kinisi-eurok-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,7 +747,15 @@
       "color": "green",
       "articles": [
         {
-          "title": "ΠΑΟΚ - δυστύχημα Ρουμανία: Η απάντηση των οπαδών του Δικεφάλου στον έρανο των ultras Poli Timisoara",
+          "title": "Ολυμπιακός: Τι αποτελέσματα περιμένει από εννιά αναμετρήσεις για να πάρει την πρόκριση",
+          "link": "https://www.gazzetta.gr/football/champions-league/2510826/olympiakos-ti-apotelesmata-perimenei-apo-ennia-anametriseis-gia",
+          "pubDate": "Wed, 28 Jan 2026 10:22:04 +0200",
+          "description": "Την ίδια ώρα που ο Ολυμπιακός θα αντιμετωπίζει τον Άγιαξ, το ακουστικό θα βρίσκεται σε άλλα εννιά γήπεδα στη μάχη για πρόκριση στο Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/mendi.jpg?itok=3tzYfq2O",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: Η απάντηση των οπαδών του Δικεφάλου στον έρανο των ultras Poli Timisoara",
           "link": "https://www.gazzetta.gr/football/europa-league/2510825/paok-dystyhima-roymania-i-apantisi-ton-opadon-toy-dikefaloy-ston",
           "pubDate": "Wed, 28 Jan 2026 10:18:20 +0200",
           "description": "Η απάντηση των οπαδών του «Δικέφαλου το Βορρά» στη σπουδαία κίνηση των Ρουμάνων.",
@@ -977,14 +985,6 @@
           "description": "Ο Άγγελος Αναστασιάδης μίλησε σε πρωινή εκπομπή για την τραγωδία στη Ρουμανία, δηλώνοντας συγκλονισμένος με τα όσα είδε και έμαθε.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-01/anastasiadis.jpg?itok=Dg45zBic",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Detox: Η βιομηχανία της αποτοξίνωσης εξαπλώνεται και στην Ελλάδα",
-          "link": "https://www.gazzetta.gr/plus/2510804/detox-i-biomihania-tis-apotoxinosis-exaplonetai-kai-stin-ellada",
-          "pubDate": "Wed, 28 Jan 2026 08:32:32 +0200",
-          "description": "Από λαχταριστούς χυμούς, μέχρι “μαγικά” επιθέματα για τα πόδια που υπόσχονται θαύματα, η αποτοξίνωση γίνεται η νέα μόδα και στη χώρα μας. Αξίζει τον κόπο;",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2197117722-1280x859.jpg?itok=Wjx6TkR8",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -1023,6 +1023,14 @@
           "description": "Ο Δημήτρης Γιαννακόπουλος πήρε θέση με ανάρτηση στα social media, εκφράζοντας τη συμπαράσταση στον ΠΑΟΚ για την ανείπωτη απώλεια. Τη δική του δημόσια τοποθέτηση για το τραγικό δυστύχημα στη Ρουμανία έκανε το βράδυ της Τρίτης (27/1) ο Δημήτρης Γιαννακόπουλος, στέλνοντας μήνυμα ενότητας και σεβασμού απέναντι στα θύματα και τις οικογένειές τους. Ο ισχυρός άνδρας του […]\nThe post Η ανάρτηση του Δημήτρη Γιαννακόπουλου για το δυστύχημα με τους οπαδούς του ΠΑΟΚ! (pic) appeared first on Όλα Πράσινα.",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/05/giannakopoulos-32.jpg",
           "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Επίσημο: Στο ΟΑΚΑ ο αγώνας των κοριτσιών και κόντρα στη Μερσίν!",
+          "link": "https://panathinaikos24.gr/2026/01/28/618015/episimo-sto-oaka-o-agonas-ton-koritsion-kai-kontra-sti-mersin/",
+          "pubDate": "Wed, 28 Jan 2026 06:20:17 +0000",
+          "description": "Όλα τα δεδομένα.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3809.jpeg?fit=750%2C422&amp;ssl=1",
+          "source": "Panathinaikos24"
         },
         {
           "title": "Νέος θρήνος στην οικογένεια του ΠΑΟΚ μετά το δυστύχημα στη Ρουμανία!",
@@ -1206,14 +1214,6 @@
           "pubDate": "Tue, 27 Jan 2026 13:17:58 +0000",
           "description": "Τι αναφέρουν οι πρώτες πληροφορίες.",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/cc341d68-troxaio-roumania.jpg?fit=1000%2C601&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Το «αντίο» του Φικάι: «Για πάντα κομμάτι της ζωής μου ο Παναθηναϊκός»",
-          "link": "https://panathinaikos24.gr/2026/01/27/617945/to-antio-tou-fikai-gia-panta-kommati-tis-zois-mou-o-panathinaikos/",
-          "pubDate": "Tue, 27 Jan 2026 13:01:49 +0000",
-          "description": "Το μήνυμα του Έλτον Φικάι μετά την οριστικοποίηση της μεταγραφής του.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4917958.jpg?fit=900%2C600&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
