@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T15:55:23.987Z",
+  "lastUpdated": "2026-01-28T16:00:41.529Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Την Πέμπτη η κηδεία της Σταυρούλας Μπουκουβάλα που έχασε τη ζωή της στο εργοστάσιο της Βιολάντα",
+          "link": "https://www.protothema.gr/greece/article/1764918/tin-pebti-i-kideia-tis-stauroulas-boukouvala-pou-ehase-ti-zoi-tis-sto-ergostasio-tis-violada/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 17:58:32 +0200",
+          "description": "Η εξόδιος ακολουθία θα πραγματοποιηθεί στις 14:00, στον Ιερό Ναό Αγίου Αθανασίου στο Προάστιο Καρδίτσας",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/xrwma-boukovala.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Τραγωδία στη «Βιολάντα»: Νέες εικόνες από το κουφάρι του εργοστασίου – Για τρίτη ημέρα συνεχίζονται οι ρίψεις νερού",
           "link": "https://www.newsit.gr/ellada/tragodia-sti-violanta-nees-eikones-apo-to-koufari-tou-ergostasiou-gia-triti-imera-synexizontai-oi-ripseis-nerou/4585970/",
@@ -177,12 +185,36 @@
           "source": "NewsIT"
         },
         {
+          "title": "Σχεδόν το ένα τρίτο του νέου λογισμικού στις ΗΠΑ γράφεται με τη βοήθεια της ΑΙ",
+          "link": "https://www.in.gr/2026/01/28/in-science/technology/sxedon-ena-trito-tou-neou-logismikou-stis-ipa-grafetai-ti-voitheia-tis-ai/",
+          "pubDate": "Wed, 28 Jan 2026 17:57:47 +0300",
+          "description": "Η τεχνητή νοημοσύνη αλλάζει το τοπίο για τους δημιουργούς λογισμικού, όμως η αύξηση της παραγωγικότητας δείχνει περιορισμένη.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/image-from-rawpixel-id-680871-jpeg-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Ολλανδία: Άνοιξε ο δρόμος για σχηματισμό τρικομματικής κυβέρνησης μειοψηφίας υπό τον Ρομπ Γέτεν",
+          "link": "https://www.in.gr/2026/01/28/world/ollandia-anoikse-o-dromos-gia-sximatismo-trikommatikis-kyvernisis-meiopsifias-ypo-ton-romp-geten/",
+          "pubDate": "Wed, 28 Jan 2026 17:57:34 +0300",
+          "description": "Τρία κόμματα κατέληξαν σε συμφωνία για σχηματισμό κυβέρνησης στην Ολλανδία, τρεις μήνες μετά τη νίκη-ανατροπή του κόμματος D66. Ο ηγέτης του, Ρομπ Γέτεν, θα είναι ο νεότερος πρωθυπουργός στη χώρα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2025-10-30T102738Z_1156001163_RC2AMHARIB94_RTRMADP_5_NETHERLANDS-ELECTION-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ο Πούτιν συνεχάρη τον αλ Σάρα: «Αποκατέστησες την εδαφική ακεραιότητα και την σταθερότητα στη Συρία»",
           "link": "https://www.newsit.gr/kosmos/o-poutin-synexari-ton-al-sara-apokatestises-tin-edafiki-akeraiotita-kai-tin-statherotita-sti-syria/4585902/",
           "pubDate": "Wed, 28 Jan 2026 14:55:41 +0000",
           "description": "Σε μια κρίσιμη χρονική συγκυρία για την Συρία, με μια εύθραυστη εκεχειρία ανάμεσα στους Κούρδους μαχητές και τις κυβερνητικές δυνάμεις, ο de facto ηγέτης της ...  \nTo άρθρο Ο Πούτιν συνεχάρη τον αλ Σάρα: «Αποκατέστησες την εδαφική ακεραιότητα και την σταθερότητα στη Συρία» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/putin-alsharaa-reuters-3-1200x800.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Ο Αλέξανδρος Γκιννής Σημαιοφόρος της Ελλάδας στους Χειμερινούς Ολυμπιακούς Αγώνες",
+          "link": "https://www.in.gr/2026/01/28/sports/othersports/o-aleksandros-gkinnis-simaioforos-tis-elladas-stous-xeimerinous-olympiakous-agones/",
+          "pubDate": "Wed, 28 Jan 2026 17:55:02 +0300",
+          "description": "Ο πρωταθλητής του αλπικού σκι Αλέξανδρος Γκιννής επελέγη από την Ελληνική Ολυμπιακή Επιτροπή ως Σημαιοφόρος της Ελλάδας στο Μιλάνο-Κορτίνα 2026.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/A.-ΓΚΙΝΝΗΣ-768x513.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Ολυμπιακός – Μπαρτσελόνα: Με Κλάιμπερν οι Καταλανοί στο ΣΕΦ",
@@ -215,38 +247,6 @@
           "description": "Το Ιράν είναι προετοιμασμένο για συνομιλίες με τις ΗΠΑ αλλά θα αμυνθεί εάν προκληθεί, διαμήνυσε σήμερα η διπλωματική αποστολή της Τεχεράνης στον ΟΗΕ. «Το Ιράν ...  \nTo άρθρο Το Ιράν δηλώνει «έτοιμο» για συνομιλίες με τις ΗΠΑ όμως «θα απαντήσει αν προκληθεί» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/iran-12-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Καταδίκη για τον οδηγό που τραυμάτισε μαθητή έξω από δημοτικό των Χανίων, θα παρακολουθεί πρόγραμμα απεξάρτησης από το αλκοόλ",
-          "link": "https://www.protothema.gr/greece/article/1764866/katadiki-odigo-pou-traumatise-mathiti-exo-apo-dimotiko-ton-hanion-tha-parakolouthei-programma-apexartisis-apo-to-alkool/?utm_source=rss",
-          "pubDate": "Wed, 28 Jan 2026 16:46:20 +0200",
-          "description": "Η ποινή είναι με αναστολή - Ο οδηγός υπό την επήρεια αλκοόλ έπεσε πάνω σε οχήματα έξω από το σχολείο και τραυμάτισε ελαφρά έναν 10χρονο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-25/dikastirio.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Μιμή Ντενίση: Μετάνιωσα που δεν απέκτησα άλλα παιδιά, γιατί το “τέρας” η Μαριτίνα με εμπόδισε",
-          "link": "https://www.newsit.gr/lifestyle/mimi-ntenisi-metaniosa-pou-den-apektisa-alla-paidia-giati-to-teras-i-maritina-me-empodise/4585843/",
-          "pubDate": "Wed, 28 Jan 2026 14:44:00 +0000",
-          "description": "Μία αποκαλυπτική συνέντευξη έδωσε η Μιμή Ντενίση και μίλησε τόσο για την απόφασή της να μην αποκτήσει περισσότερα παιδιά, με την υιοθεσία της Μαριτίνας, όσο ...  \nTo άρθρο Μιμή Ντενίση: Μετάνιωσα που δεν απέκτησα άλλα παιδιά, γιατί το “τέρας” η Μαριτίνα με εμπόδισε δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mimi-ntenisi-1ndp-1200x722.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Για ξέπλυμα μαύρου χρήματος ερευνάται η Deutsche Bank – Έφοδος στα γραφεία της, στο μικροσκόπιο και ο Ρομάν Αμπράμοβιτς",
-          "link": "https://www.newsit.gr/oikonomia/diethni/gia-kseplyma-mayrou-xrimatos-ereynatai-i-deutsche-bank-efodos-sta-grafeia-tis-sto-mikroskopio-kai-o-roman-ampramovits/4585883/",
-          "pubDate": "Wed, 28 Jan 2026 14:41:20 +0000",
-          "description": "Στο μικροσκόπιο των δυνάμεων της Ομοσπονδιακής Υπηρεσίας κατά του Εγκλήματος (ΒΚΑ) έχει μπει η Deutsche Bank με έρευνα που διεξάγεται στα κεντρικά γραφεία της στην ...  \nTo άρθρο Για ξέπλυμα μαύρου χρήματος ερευνάται η Deutsche Bank – Έφοδος στα γραφεία της, στο μικροσκόπιο και ο Ρομάν Αμπράμοβιτς δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/deutschebank-reuters-scaled-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Έρχεται νέο «Ανακαινίζω» – Πότε «ανοίγει»",
-          "link": "https://www.in.gr/2026/01/28/economy/erxetai-neo-anakainizo-pote-anoigei/",
-          "pubDate": "Wed, 28 Jan 2026 17:40:41 +0300",
-          "description": "Νέο πρόγραμμα «Ανακαινίζω» ανήγγειλε ο υφυπουργός Εθνικής Οικονομίας και Οικονομικών, Νίκος Παπαθανάσης",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/immo-renovation-UqNEbyRQ660-unsplash-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -255,10 +255,18 @@
       "color": "purple",
       "articles": [
         {
-          "title": "Βουλή: «Μετωπική» Λαζαρίδη-Χρηστίδη στη Βουλή για τα Ίμια, «Το ΠΑΣΟΚ οδήγησε στο γκριζάρισμα του Αιγαίου» – «Να ανακαλέσετε»",
+          "title": "Βουλή: Εκρηκτική αντιπαράθεση για τα Ίμια  – «Κυβέρνηση Σημίτη, Αρσένης και Πάγκαλος τραγικοί, μοιραίοι και άβουλοι»",
+          "link": "https://www.tanea.gr/2026/01/28/politics/voyli-ekriktiki-antiparathesi-gia-ta-imia-kyvernisi-simiti-arsenis-kai-pagkalos-tragikoi-m/",
+          "pubDate": "Wed, 28 Jan 2026 15:55:46 +0000",
+          "description": "Τα θέματα των Ιμίων και των κυριαρχικών δικαιωμάτων της χώρας αποτέλεσαν σημείο έντονης αντιπαράθεσης στην Ολομέλεια κατά την συζήτηση του νομοσχεδίου του Υπουργείου Πολιτισμού για την προστασία των έργων τέχνης και των συλλεκτικών αντικειμένων. Ο κοινοβουλευτικός εκπρόσωπος της ΝΔ Μακάριος Λαζαρίδης απαντώντας στον πρόεδρο της “Νίκης” Δημήτρη Νατσιό για τις αναφορές που έκανε νωρίτερα σχετικά […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6827635-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "«Μετωπική» Λαζαρίδη-Χρηστίδη για τα Ίμια στη Βουλή: «Το ΠΑΣΟΚ οδήγησε στο γκριζάρισμα του Αιγαίου» – «Να ανακαλέσετε»",
           "link": "https://www.naftemporiki.gr/politics/2065159/metopiki-lazaridi-christidi-sti-voyli-gia-ta-imia-to-pasok-odigise-sto-gkrizarisma-toy-aigaioy-na-anakalesete/?utm_source=rss&utm_medium=rss&utm_campaign=metopiki-lazaridi-christidi-sti-voyli-gia-ta-imia-to-pasok-odigise-sto-gkrizarisma-toy-aigaioy-na-anakalesete",
           "pubDate": "Wed, 28 Jan 2026 15:44:53 +0000",
-          "description": "Έντονη αντιπαράθεση σημειώθηκε νωρίτερα σήμερα στη Βουλή μεταξύ του κοινοβουλευτικού εκπροσώπου της ΝΔ, Μακάριου Λαζαρίδη και του κοινοβουλευτικού εκπροσώπου του ΠΑΣΟΚ, Παύλου Χρηστίδη, με φόντο την κρίση των Ιμίων.\nΒουλή: «Μετωπική» Λαζαρίδη-Χρηστίδη στη Βουλή για τα Ίμια, «Το ΠΑΣΟΚ οδήγησε στο γκριζάρισμα του Αιγαίου» – «Να ανακαλέσετε» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "description": "Έντονη αντιπαράθεση σημειώθηκε νωρίτερα σήμερα στη Βουλή μεταξύ του κοινοβουλευτικού εκπροσώπου της ΝΔ, Μακάριου Λαζαρίδη και του κοινοβουλευτικού εκπροσώπου του ΠΑΣΟΚ, Παύλου Χρηστίδη, με φόντο την κρίση των Ιμίων.\n«Μετωπική» Λαζαρίδη-Χρηστίδη για τα Ίμια στη Βουλή: «Το ΠΑΣΟΚ οδήγησε στο γκριζάρισμα του Αιγαίου» – «Να ανακαλέσετε» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         },
@@ -484,14 +492,6 @@
           "pubDate": "Wed, 28 Jan 2026 06:41:55 +0300",
           "description": "Με έναν διαφορετικό σε σχέση με το παρελθόν τρόπο ανοίγει τις πύλες του σήμερα το 22ο Συνέδριο του ΚΚΕ, το οποίο θα κληθεί να δώσει τις δικές του απαντήσεις στις προκλήσεις του σήμερα.",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2024/09/19/EV_KKE16-1024x682.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Δοκιμασία Αξιοπιστίας για την Ευρωπαϊκή Πολιτική Αλιείας",
-          "link": "https://www.tovima.gr/2026/01/28/politics/dokimasia-aksiopistias-gia-tin-eyropaiki-politiki-alieias/",
-          "pubDate": "Wed, 28 Jan 2026 06:00:44 +0300",
-          "description": "«Οι ευρωπαίοι αλιείς δεν θα ωφεληθούν από την επαναδιαπραγμάτευση  της ΚΟΙΝΗΣ ΑΛΙΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ , που έχει ήδη αποδειχθεί αποτελεσματική» - Το κείμενο γράφτηκε για το POLITICO το οποίο παραχώρησε το δικαίωμα ταυτόχρονης δημοσίευσης στο ΒΗΜΑ.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/27/fishboat-1024x680.jpg",
           "source": "Το Βήμα"
         }
       ]
@@ -747,10 +747,26 @@
       "color": "green",
       "articles": [
         {
-          "title": "ΠΑΟΚ: Σε βαρύ κλίμα η αναχώρηση για τη Λυών",
+          "title": "Η εργασιακή ασφάλεια σε κατάρρευση: Μόλις τρεις επιθεωρητές για 6.000 επιχειρήσεις σε Τρίκαλα-Καρδίτσα",
+          "link": "https://www.gazzetta.gr/plus/2510952/i-ergasiaki-asfaleia-se-katarreysi-molis-treis-epitheorites-gia-6000-epiheiriseis-se",
+          "pubDate": "Wed, 28 Jan 2026 17:59:00 +0200",
+          "description": "Η φονική έκρηξη στο εργοστάσιο «Βιολάντα», που κόστισε τη ζωή σε πέντε εργαζόμενες μητέρες, έφερε στο προσκήνιο την αδιανόητη υποστελέχωση της Επιθεώρησης Εργασίας.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/violanta-drone.jpg?itok=r1wuC8J6",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "AEK: Ντεμπούτο Μπράουν, αλλά χωρίς Νάναλι-Κατσίβελη κόντρα στην Άλμπα",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510951/aek-ntempoyto-mpraoyn-alla-horis-nanali-katsibeli",
+          "pubDate": "Wed, 28 Jan 2026 17:55:24 +0200",
+          "description": "Με δύο σημαντικές απουσίες θα παραταχθεί η ΑΕΚ κόντρα στην Άλμπα (19:00). Ντεμπούτο ο Γκρεγκ Μπράουν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/brown_1.jpg?itok=fJradaRu",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Σε βαρύ κλίμα η αναχώρηση για τη Λιόν",
           "link": "https://www.gazzetta.gr/football/europa-league/2510950/paok-se-bary-klima-i-anahorisi-gia-ti-lyon",
           "pubDate": "Wed, 28 Jan 2026 17:52:44 +0200",
-          "description": "Η αποστολή του ΠΑΟΚ αναχωρεί σε βαρύ κλίμα για τη Γαλλία και το ματς με τη Λυών. Αποστολή στη Λυών Σταύρος Σουντουλίδης.",
+          "description": "Η αποστολή του ΠΑΟΚ αναχωρεί σε βαρύ κλίμα για τη Γαλλία και το ματς με τη Λιόν. Αποστολή στη Γαλλία Σταύρος Σουντουλίδης.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_12.jpg?itok=YTyJvLAZ",
           "source": "Gazzetta"
         },
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 14:37:46 +0000",
           "description": "Στην “Johan Cruyff Arena” θα βρεθεί το βράδυ (28.01.2026, 22:00) ο Αντρέ Λουίς, προκειμένου να παρακολουθήσει από κοντά το Άγιαξ – Ολυμπιακός, για το φινάλε ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Ο Αντρέ Λουίζ στο Άμστερνταμ, θα παρακολουθήσει από κοντά τον «τελικό» των Πειραιωτών δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/andreluiz-1200x842.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Φόβοι για serial killer στη Θεσσαλονίκη: Την εμπλοκή του 52χρονου και στη δεύτερη νεκρή εξετάζουν οι αρχές",
-          "link": "https://www.gazzetta.gr/plus/2510927/foboi-gia-serial-killer-sti-thessaloniki-tin-emploki-toy-52hronoy-kai-sti-deyteri",
-          "pubDate": "Wed, 28 Jan 2026 16:23:57 +0200",
-          "description": "Ένας 52χρονος άνδρας στη Μενεμένη Θεσσαλονίκης ομολόγησε τη δολοφονία 46χρονης. Οι αρχές εξετάζουν αν εμπλέκεται και στην υπόθεση της σορού 41χρονης στο ίδιο δώμα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2026-01/pagkrati-astynomia.jpg.png?itok=HepTpXqp",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Αντιπροσωπεία του Άρη στην Τούμπα για να αποτίσει φόρο τιμής στους αδικοχαμένους φίλους του «δικεφάλου»",
-          "link": "https://www.newsit.gr/athlitika/paok-antiprosopeia-tou-ari-stin-toumpa-gia-na-apotisei-foro-timis-stous-adikoxamenous-filous-tou-dikefalou/4585858/",
-          "pubDate": "Wed, 28 Jan 2026 14:20:26 +0000",
-          "description": "Η οικογένεια του Άρη έδειξε για μια ακόμα φορά ότι η οδύνη για τους νεκρούς μιας ομάδας δεν κάνει διακρίσεις, ούτε όταν αφορά των “μεγάλο” ...  \nTo άρθρο ΠΑΟΚ: Αντιπροσωπεία του Άρη στην Τούμπα για να αποτίσει φόρο τιμής στους αδικοχαμένους φίλους του «δικεφάλου» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aris-paok-opadoi-eurokinissi-1-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
