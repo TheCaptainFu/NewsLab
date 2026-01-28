@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T13:50:32.958Z",
+  "lastUpdated": "2026-01-28T13:55:30.678Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Διοικητικοί Δικαστές: Το 95,4% είπε «όχι» στο σχέδιο αναθεωρημένου Κώδικα Διοικητικής Δικονομίας ",
+          "link": "https://www.protothema.gr/greece/article/1764836/dioikitikoi-dikastes-to-954-eipe-ohi-sto-shedio-anatheorimenou-kodika-dioikitikis-dikonomias/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 15:54:00 +0200",
+          "description": "Η ψηφοφορία έγινε ηλεκτρονικά και μετείχε το 80% των μελών της Ένωσης Διοικητικών Δικαστών",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/edd.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "MasterChef: Απόψε η δεύτερη μπριγάδα αγωνίζεται για μία θέση στον διαγωνισμό μαγειρικής",
+          "link": "https://www.newsit.gr/media/masterchef-apopse-i-deyteri-mprigada-agonizetai-gia-mia-thesi-ston-diagonismo-mageirikis/4585816/",
+          "pubDate": "Wed, 28 Jan 2026 13:52:20 +0000",
+          "description": "Στο χθεσινό επεισόδιο του «MasterChef» (Τρίτη 27/1) 14 διαγωνιζόμενοι από την πρώτη μπριγάδα, πήραν την πολυπόθητη λευκή ποδιά και εξασφάλισαν μια θέση στον διαγωνισμό μαγειρικής. ...  \nTo άρθρο MasterChef: Απόψε η δεύτερη μπριγάδα αγωνίζεται για μία θέση στον διαγωνισμό μαγειρικής δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/masterchef-10-1-1200x704.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Συλλυπητήρια από την UEFA στην ΕΠΟ για την τραγωδία του ΠΑΟΚ",
           "link": "https://www.newsit.gr/athlitika/syllypitiria-apo-tin-uefa-stin-epo-gia-tin-tragodia-tou-paok/4585809/",
@@ -49,7 +65,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Πυροσβεστική: Πολύμηνη η διαρροή στη Βιολάντα, εξαιρετικά μεγάλες συγκεντρώσεις  προπανίου κάτω από το έδαφος και σπινθήρας οδήγησαν στη φονική έκρηξη",
+          "title": "Πυροσβεστική: Πολύμηνη η διαρροή στη Βιολάντα, εξαιρετικά μεγάλες συγκεντρώσεις προπανίου κάτω από το έδαφος και σπινθήρας οδήγησαν στη φονική έκρηξη",
           "link": "https://www.protothema.gr/greece/article/1764802/live-oi-anakoinoseis-tis-purosvestikis-gia-tin-ekrixi-sto-ergostasio-tis-violada/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 15:28:00 +0200",
           "description": "Πώς έγινε η έκρηξη που σκότωσε πέντε εργάτριες - Τι έδειξαν οι εξειδικευμένοι έλεγχοι με τη χρήση αζώτου από τους ειδικούς της Πυροσβεστικής",
@@ -231,22 +247,6 @@
           "description": "Προ των πυλών η κακοκαιρία που αναμένεται να σαρώσει την χώρα με καταιγίδες, βροχές και χαλάζι την Πέμπτη (29.01.2026). Για τα έντονα φαινόμενα, η ΕΜΥ ...  \nTo άρθρο Καιρός: Kristin το όνομα της κακοκαιρίας που θα χτυπήσει με καταιγίδες και ισχυρές βροχές την Αττική και άλλες 7 περιοχές δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kataigida-vroxi-eurok-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ανδρουλάκης: Ανεβάζει τους τόνους απέναντι στην κυβέρνηση – Δείτε live την ομιλία στη Βουλή",
-          "link": "https://www.in.gr/2026/01/28/politics/politiki-grammateia/androulakis-anevazei-tous-tonous-apenanti-stin-kyvernisi-deite-live-tin-omilia-sti-vouli/",
-          "pubDate": "Wed, 28 Jan 2026 15:36:05 +0300",
-          "description": "Εφ΄όλης της ύλης επίθεση εξαπολύει εναντίον της κυβέρνησης ο Νίκος Ανδρουλάκης από το βήμα της Βουλής - Δείτε live",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/evAYGENAKIS-1-8-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Live ανακοινώσεις από την Πυροσβεστική για την τραγωδία στη «Βιολάντα»",
-          "link": "https://www.in.gr/2026/01/28/greece/live-anakoinoseis-apo-tin-pyrosvestiki-gia-tin-tragodia-sti-violanta/",
-          "pubDate": "Wed, 28 Jan 2026 15:35:14 +0300",
-          "description": "Τα ευρήματα της Πυροσβεστικής για το εργατικό δυστύχημα στο εργοστάσιο «Βιολάντα».",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/IN_1920_ΕΚΤΑΚΤΑ-2-5-768x432.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -525,10 +525,10 @@
           "source": "BBC News"
         },
         {
-          "title": "Ρολόι της Αποκάλυψης: Λήξη του πολέμου του Τραμπ στις ΑΠΕ σώζει την ανθρωπότητα από το χείλος",
+          "title": "Κλιματική κρίση και πολιτικές αποφάσεις επιταχύνουν το Ρολόι της Αποκάλυψης",
           "link": "http://gr.euronews.com/green/2026/01/28/doomsday-clock-how-ending-trumps-war-on-renewable-energy-can-pull-humanity-back-from-the-b",
-          "pubDate": "Wed, 28 Jan 2026 14:05:53 +0100",
-          "description": "Μια ταχεία απεξάρτηση από τα ορυκτά καύσιμα θα μπορούσε να ανακόψει την πορεία του Ρολογιού της Αποκάλυψης, καθώς πλησιάζει προς τα μεσάνυχτα.",
+          "pubDate": "Wed, 28 Jan 2026 14:06:53 +0100",
+          "description": "Οι επιστήμονες καταγράφουν ρεκόρ θερμοκρασιών, αύξηση θανάτων από καύσωνες και εμπόδια στην κατάργηση των ορυκτών καυσίμων, την ώρα που οι ανανεώσιμες πηγές δείχνουν ότι υπάρχει ακόμη περιθώριο αντιστροφής της πορείας.",
           "thumbnail": null,
           "source": "Euronews"
         },
@@ -746,6 +746,22 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "HyperX Cloud Alpha 2 Wireless Headset: Πάει τα gaming headsets ένα βήμα παραπέρα",
+          "link": "https://www.gazzetta.gr/plus/2510262/hyperx-cloud-alpha-2-wireless-headset-paei-ta-gaming-headsets-ena-bima-parapera",
+          "pubDate": "Wed, 28 Jan 2026 15:53:44 +0200",
+          "description": "To HyperX Cloud Alpha 2 Wireless Headset ξεχωρίζει με την πρώτη ματιά",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/untitled_design1.jpg?itok=ivKznJsF",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Συλλυπητήρια από την UEFA στην ΕΠΟ για την τραγωδία του ΠΑΟΚ",
+          "link": "https://www.newsit.gr/athlitika/syllypitiria-apo-tin-uefa-stin-epo-gia-tin-tragodia-tou-paok/4585809/",
+          "pubDate": "Wed, 28 Jan 2026 13:48:56 +0000",
+          "description": "Ο ΠΑΟΚ βυθίστηκε στο πένθος από το θάνατο 7 οπαδών του σε τροχαίο δυστύχημα στη Ρουμανία και η UEFA έδωσε τα συλλυπητήριά της μέσα από ...  \nTo άρθρο Συλλυπητήρια από την UEFA στην ΕΠΟ για την τραγωδία του ΠΑΟΚ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2024/05/CEFERIN_REUTERS.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Καρέτσας: Ενδιαφέρον από τη Μίλαν σύμφωνα με τους Ιταλούς",
           "link": "https://www.gazzetta.gr/football/serie/2510921/karetsas-endiaferon-apo-ti-milan-symfona-me-toys-italoys",
@@ -968,22 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 14:14:02 +0200",
           "description": "Η ΚΑΕ ΑΕΚ ανακοίνωσε πως θα τηρηθεί ενός λεπτού σιγή πριν το τζάμπολ με την Άλμπα (19:00), ως ελάχιστος φόρος τιμής στη μνήμη των οπαδών του ΠΑΟΚ που έχασαν τη ζωή τους σε τροχαίο δυστύχημα στη Ρουμανία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/aek_7.jpg?itok=impCDELr",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τραγωδία στον ΠΑΟΚ: Φανέλες με τα ονόματα των νεκρών στην μπουτίκ",
-          "link": "https://www.newsit.gr/athlitika/tragodia-ston-paok-faneles-me-ta-onomata-ton-nekron-stin-mpoutik/4585694/",
-          "pubDate": "Wed, 28 Jan 2026 12:10:44 +0000",
-          "description": "Ο ΠΑΟΚ θρηνεί για το χαμό 7 οπαδών του σε τροχαίο δυστύχημα στη Ρουμανία και στην μπουτίκ της ομάδας της Θεσσαλονίκης προχώρησαν σε μία συμβολική ...  \nTo άρθρο Τραγωδία στον ΠΑΟΚ: Φανέλες με τα ονόματα των νεκρών στην μπουτίκ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/tumba-4-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Τρόπος ζωής τους από το '26",
-          "link": "https://www.gazzetta.gr/football/superleague/2510859/paok-dystyhima-sti-roymania-tropos-zois-toys-apo-26",
-          "pubDate": "Wed, 28 Jan 2026 14:10:00 +0200",
-          "description": "Η χρονιά των 100 ετών του ΠΑΟΚ μαύρισε με τον χειρότερο τρόπο. Επτά άνθρωποι έφυγαν με τον τρόπο που έμαθαν από παιδιά. Την αγάπη τους για τον σύλλογο.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_6.jpg?itok=MEHRcgIS",
           "source": "Gazzetta"
         }
       ]
