@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T10:51:27.539Z",
+  "lastUpdated": "2026-01-28T10:55:25.030Z",
   "totalArticles": 179,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Το χρονικό των μυστηριωδών εξαφανίσεων των δύο νεκρών γυναικών στη Θεσσαλονίκη: Οι καταθέσεις, η ανάρτηση στα social media και το τέλος στο υπόγειο\n",
+          "link": "https://www.protothema.gr/greece/article/1764700/itan-eguos-kai-apevale-prin-ton-gamo-ti-apokalupse-filos-tis-46hronis-pou-vrethike-nekri-se-upogeio-sti-thessaloniki/?utm_source=rss",
+          "pubDate": "Wed, 28 Jan 2026 12:50:11 +0200",
+          "description": "Η δεύτερη γυναίκα που βρέθηκε νεκρή είχε κάνει μία ανάρτηση στα social media πριν την εξαφάνισή της - Τα ίχνη και των δύο είχαν χαθεί και αναζητούνταν από τους οικείους τους",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/maketa-thessaloniki.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Καλαμάτα: Διαρρήκτες με ποδήλατα χτύπησαν στο ΚΤΕΛ – Με λοστό ξήλωσαν το παράθυρο",
           "link": "https://www.newsit.gr/ellada/kalamata-diarriktes-me-podilata-xtypisan-sto-ktel-me-losto-ksilosan-to-parathyro/4585608/",
@@ -57,10 +65,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "Μάτι: Εκδικάστηκαν οι αιτήσεις αναίρεσης τεσσάρων καταδικασθέντων- Να παραμείνουν στη φυλακή ζητούν οι συγγενείς",
+          "title": "Μάτι: Εκδικάστηκαν οι αιτήσεις αναίρεσης τεσσάρων καταδικασθέντων – Να παραμείνουν στη φυλακή ζητούν οι συγγενείς",
           "link": "https://www.newsit.gr/ellada/mati-ekdikastikan-oi-aitiseis-anairesis-tessaron-katadikasthenton-na-parameinoun-sti-fylaki-zitoun-oi-syggeneis/4585580/",
           "pubDate": "Wed, 28 Jan 2026 10:28:08 +0000",
-          "description": "Συζητήθηκαν ενώπιον Ποινικού Τμήματος του Αρείου Πάγου οι αιτήσεις αναίρεσης τεσσάρων καταδικασθέντων για τη φονική φωτιά στο Μάτι. Οι τρεις από τους τέσσερις εκτίουν ποινή ...  \nTo άρθρο Μάτι: Εκδικάστηκαν οι αιτήσεις αναίρεσης τεσσάρων καταδικασθέντων- Να παραμείνουν στη φυλακή ζητούν οι συγγενείς δημοσιεύτηκε στο NewsIT .",
+          "description": "Συζητήθηκαν ενώπιον Ποινικού Τμήματος του Αρείου Πάγου οι αιτήσεις αναίρεσης τεσσάρων καταδικασθέντων για τη φονική φωτιά στο Μάτι. Οι τρεις από τους τέσσερις εκτίουν ποινή ...  \nTo άρθρο Μάτι: Εκδικάστηκαν οι αιτήσεις αναίρεσης τεσσάρων καταδικασθέντων – Να παραμείνουν στη φυλακή ζητούν οι συγγενείς δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fotia-mati-1.jpg",
           "source": "NewsIT"
         },
@@ -209,6 +217,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Φορολοταρία: Έγινε η κλήρωση Δεκεμβρίου – Δείτε αν κερδίσατε έως 50.000 ευρώ",
+          "link": "https://www.in.gr/2026/01/28/economy/oikonomikes-eidiseis/forolotaria-egine-klirosi-dekemvriou-deite-kerdisate-eos-50-000-eyro/",
+          "pubDate": "Wed, 28 Jan 2026 12:53:40 +0300",
+          "description": "Στις συναλλαγές που πραγματοποιήθηκαν ηλεκτρονικά τον Δεκέμβριο 2025 αφορά η τελευταία φορολοταρία της ΑΑΔΕ.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/forolo5-768x377.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Φωτιά σε σκάφος στη Σαμοθράκη, κινητοποίηση του Λιμενικού και της Πυροσβεστικής",
           "link": "https://www.protothema.gr/greece/article/1764695/fotia-se-skafos-sti-samothraki-kinitopoiisi-tou-limenikou-kai-tis-purosvestikis/?utm_source=rss",
           "pubDate": "Wed, 28 Jan 2026 11:53:36 +0200",
@@ -231,22 +247,6 @@
           "description": "Ο Άγιαξ φιλοξενεί τον Ολυμπιακό για την 8η και τελευταία αγωνιστική της League Phase του Champions League",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1200x800-1-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Καιρός: Βροχές και καταιγίδες σε όλη τη χώρα αύριο Πέμπτη – Στο επίκεντρο Δυτική Ελλάδα και ανατολικό Αιγαίο",
-          "link": "https://www.newsit.gr/ellada/kairos-vroxes-kai-kataigides-se-oli-ti-xora-ayrio-pempti-sto-epikentro-dytiki-ellada-kai-anatoliko-aigaio/4585538/",
-          "pubDate": "Wed, 28 Jan 2026 09:46:24 +0000",
-          "description": "Χαλάει ο καιρός σήμερα με βροχές και καταιγίδες, ενώ η επιδείνωση θα επηρεάσει αύριο Πέμπτη (29.01.2026) ολόκληρη σχεδόν τη χώρα. Αρχικά η αλλαγή του καιρού ...  \nTo άρθρο Καιρός: Βροχές και καταιγίδες σε όλη τη χώρα αύριο Πέμπτη – Στο επίκεντρο Δυτική Ελλάδα και ανατολικό Αιγαίο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vroxi-eurok-1-1200x675-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Επίσκεψη στο Βουκουρέστι, μία πόλη με άρωμα Παρισιού",
-          "link": "https://www.newsit.gr/travel/episkepsi-sto-voukouresti-mia-poli-me-aroma-parisiou/4585492/",
-          "pubDate": "Wed, 28 Jan 2026 09:46:06 +0000",
-          "description": "Το Βουκουρέστι, η πρωτεύουσα της Ρουμανίας είναι μια υπέροχη πόλη με άρωμα Παρισιού και σίγουρα θα σας εκπλήξει. Μια πόλη με μεγάλες πλατείες, φαρδιές λεωφόρους ...  \nTo άρθρο Επίσκεψη στο Βουκουρέστι, μία πόλη με άρωμα Παρισιού δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-652776452-1200x694.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -755,6 +755,14 @@
           "source": "Gazzetta"
         },
         {
+          "title": "Μαχαίρωσαν δύο οπαδούς της Τσέλσι πριν το παιχνίδι με τη Νάπολι",
+          "link": "https://www.newsit.gr/athlitika/maxairosan-dyo-opadous-tis-tselsi-prin-to-paixnidi-me-ti-napoli/4585575/",
+          "pubDate": "Wed, 28 Jan 2026 10:49:15 +0000",
+          "description": "Η Τσέλσι θα αντιμετωπίσει εκτός έδρας τη Νάπολι στην τελευταία αγωνιστική της League Phase του Champions League, με σοβαρά επεισόδια να έχουν ήδη ξεκινήσει στο ...  \nTo άρθρο Μαχαίρωσαν δύο οπαδούς της Τσέλσι πριν το παιχνίδι με τη Νάπολι δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/maxairomata-1200x861.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "ΠΑΟΚ - δυστύχημα στη Ρουμανία: «Ακόμη και αύριο ο επαναπατρισμός των 7 σορών» δήλωσε η πρέσβης (vid)",
           "link": "https://www.gazzetta.gr/football/europa-league/2510876/paok-dystyhima-sti-roymania-akomi-kai-ayrio-o-epanapatrismos-ton-7",
           "pubDate": "Wed, 28 Jan 2026 12:49:03 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 11:21:03 +0200",
           "description": "Ο Αλέξης Τσίπρας με μια ανάρτηση εξέφρασε τη θλίψη του για το δυστύχημα με τους οπαδούς του ΠΑΟΚ στη Ρουμανία που βύθισε στο πένθος όλη τη χώρα.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/bolmDs/2025-10/tsipras.jpg?itok=GDXsbNXz",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: Πού θα δείτε τον σπουδαίο αγώνα με την Άλμπα για το BCL",
-          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2510846/aek-poy-tha-deite-ton-spoydaio-agona-me-tin-almpa",
-          "pubDate": "Wed, 28 Jan 2026 11:18:19 +0200",
-          "description": "Η ΑΕΚ υποδέχεται την Άλμπα Βερολίνου στη SUNEL Arena, με στόχο να πετύχει τη δεύτερη νίκη της στη φάση των «16» του Basketball Champions League.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/bartley_2.jpg?itok=cBnbwsaQ",
           "source": "Gazzetta"
         }
       ]
