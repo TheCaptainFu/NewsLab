@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T20:40:30.886Z",
+  "lastUpdated": "2026-01-28T20:45:29.845Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πανιώνιος – Λόντον Λάιονς 79-78: Ο Λιούις χάρισε τη νίκη στον Ιστορικό στο Eurocup",
+          "link": "https://www.newsit.gr/athlitika/panionios-lonton-laions-79-78-o-liouis-xarise-ti-niki-ston-istoriko-sto-eurocup/4586230/",
+          "pubDate": "Wed, 28 Jan 2026 20:40:36 +0000",
+          "description": "Ο Πανιώνιος επικράτησε με 79-78 των Λόντον Λάιονς στο κλειστό «Μάκης Λιούγκας», για τη 16η αγωνιστική του Eurocup, βελτιώνοντας σε 3-13 το ρεκόρ του στον ...  \nTo άρθρο Πανιώνιος – Λόντον Λάιονς 79-78: Ο Λιούις χάρισε τη νίκη στον Ιστορικό στο Eurocup δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lewis-1200x801.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Η Γαλλία ζητά να συμπεριληφθούν οι «Φρουροί της Επανάστασης» του Ιράν στην λίστα με τις τρομοκρατικές οργανώσεις",
           "link": "https://www.newsit.gr/kosmos/i-gallia-zita-na-symperilifthoun-oi-frouroi-tis-epanastasis-tou-iran-stin-lista-me-tis-tromokratikes-organoseis/4586225/",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 22:16:34 +0300",
           "description": "Ο Μάρκο Ρούμπιο δεν απέκλεισε κάποια επίθεση στο Ιράν, ώστε «να προστατευθούν τα αμερικανικά στρατεύματα στην περιοχή». Ο Ιρανός ομόλογός του επισήμανε ότι δεν μπορεί να υπάρξει συμφωνία σε συνθήκες εκφοβισμού.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/G_sh7G0W4AE40sH-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Live η βαθμολογία της League Phase του Champions League",
-          "link": "https://www.in.gr/2026/01/28/sports/football/champions-league/live-vathmologia-tis-league-phase-tou-champions-league/",
-          "pubDate": "Wed, 28 Jan 2026 22:12:37 +0300",
-          "description": "Παρακολουθήστε λεπτό προς λεπτό την εξέλιξη της βαθμολογίας της League Phase του Champions League",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Champions-League-768x513.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Νάπολι - Τσέλσι: Ο Βεργκάρα έκανε τον... Μαραντόνα για το 1-1 (vid)",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511050/napoli-tselsi-o-bergkara-ekane-ton-marantona-gia-1-1-vid",
+          "pubDate": "Wed, 28 Jan 2026 22:43:26 +0200",
+          "description": "Απίθανο γκολ από τον Αντόνιο Βεργκάρα, ο οποίος έκανε ό,τι ήθελε την άμυνα της Τσέλσι και με γκολ αλά... Ντιέγκο Μαραντόνα ισοφάρισε 1-1 για τη Νάπολι.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vergara_napoli.jpg?itok=7DBB0esS",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άγιαξ - Ολυμπιακός: Το γκολ του Ντόλμπεργκ που δεν μέτρησε για οφσάιντ",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511049/agiax-olympiakos-gkol-toy-ntolmpergk-poy-den-metrise-gia-ofsaint",
+          "pubDate": "Wed, 28 Jan 2026 22:42:34 +0200",
+          "description": "Στο 32' ο Άγιαξ βρήκε δίχτυα με τον Ντόλμπεργκ, ωστόσο η σημαία του βοηθού σηκώθηκε για οφσάιντ, κάτι που επιβεβαιώθηκε και από το VAR.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/var.jpg?itok=gtVGo7A2",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πανιώνιος – Λόντον Λάιονς 79-78: Ο Λιούις χάρισε τη νίκη στον Ιστορικό στο Eurocup",
+          "link": "https://www.newsit.gr/athlitika/panionios-lonton-laions-79-78-o-liouis-xarise-ti-niki-ston-istoriko-sto-eurocup/4586230/",
+          "pubDate": "Wed, 28 Jan 2026 20:40:36 +0000",
+          "description": "Ο Πανιώνιος επικράτησε με 79-78 των Λόντον Λάιονς στο κλειστό «Μάκης Λιούγκας», για τη 16η αγωνιστική του Eurocup, βελτιώνοντας σε 3-13 το ρεκόρ του στον ...  \nTo άρθρο Πανιώνιος – Λόντον Λάιονς 79-78: Ο Λιούις χάρισε τη νίκη στον Ιστορικό στο Eurocup δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lewis-1200x801.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Μπενφίκα - Ρεάλ Μαδρίτης: Γκολ με κεφαλιά ο Μπαπέ",
           "link": "https://www.gazzetta.gr/football/champions-league/2511048/mpenfika-real-madritis-gkol-me-kefalia-o-mpape",
           "pubDate": "Wed, 28 Jan 2026 22:37:13 +0200",
@@ -960,30 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 21:26:52 +0200",
           "description": "Ο Ολυμπιακός ηττήθηκε από την Καρλοβάσκα με 3-2 σετ, στη ρεβάνς για τη φάση των \"16\" του CEV Cup και αποκλείστηκε από τη συνέχεια του θεσμού...",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_-_kalrobaska.jpg?itok=CFNK_2wA",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: Έβαλε δίποντο και αποθεώθηκε ο Γιόβιτς!",
-          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511028/aek-ebale-diponto-kai-apotheothike-o-giobits",
-          "pubDate": "Wed, 28 Jan 2026 21:25:45 +0200",
-          "description": "Ο Λούκα Γιόβιτς, αμέσως μετά τη νίκη της ΑΕΚ επί της Άλμπα (88-80), ευστόχησε σε δίποντο και αποθεώθηκε από τον κόσμο της Ένωσης.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/jovic_eurokinisi_0.jpg?itok=NBnRnzVj",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά",
-          "link": "https://www.newsit.gr/athlitika/o-panathinaikos-kineitai-gia-tin-apoktisi-tou-etien-kamara-tis-sarleroua/4586180/",
-          "pubDate": "Wed, 28 Jan 2026 19:22:01 +0000",
-          "description": "Ο Παναθηναϊκός είναι γνωστό ότι είνια στην αγορά για την απόκτηση παίκτη στα χαφ και μετά το διαφαινόμενο «ναυάγιο» στην υπόθεση του Κραλ, φαίνεται πως ...  \nTo άρθρο Ο Παναθηναϊκός κινείται για την απόκτηση του Ετιέν Καμαρά της Σαρλερουά δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/camara-1-1200x837.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: LIVE η βαθμολογία του Champions League",
-          "link": "https://www.gazzetta.gr/football/champions-league/2510931/olympiakos-live-i-bathmologia-toy-champions-league",
-          "pubDate": "Wed, 28 Jan 2026 21:15:00 +0200",
-          "description": "Ο Ολυμπιακός παίζει... τελικό πρόκρισης στο Αμστερνταμ κόντρα στον Αγιαξ και το Gazzetta σας παρουσιάζει LIVE βαθμολογία και το πώς θα διαμορφώνεται ανά λεπτό η κατάσταση στην τελευταία αγωνιστική της League Phase του Champions League!",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vathmologia_generic_cl_article.jpg?itok=b_kxzeFF",
           "source": "Gazzetta"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Samsung Galaxy S26: Τέλος στα αδιάκριτα βλέμματα με την επαναστατική οθόνη «Flex Magic Pixel»",
+          "link": "https://gr.pcmag.com/mobile-phones/51147/samsung-galaxy-s26-telos-sta-adiakrita-blemmata-me-ten-epanastatike-othone-flex-magic-pixel",
+          "pubDate": "Wed, 28 Jan 2026 20:39:52 +0000",
+          "description": "Η νέα τεχνολογία της Samsung χρησιμοποιεί AI για να εξαφανίζει το περιεχόμενο της οθόνης από όσους προσπαθούν να κοιτάξουν από πλάγια γωνία.",
+          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/n/no-more-pe/no-more-peeking-samsung-tips-built-in-privacy-screen-for-gal_mr2g.jpg",
+          "source": "PC Magazine"
+        },
+        {
           "title": "Pinterest: Απολύει το 15% του προσωπικού του για να επενδύσει στην ΑΙ",
           "link": "https://gr.pcmag.com/social-media-1/51146/pinterest-apoluei-to-15-tou-prosopikou-tou-gia-na-ependusei-sten-ai",
           "pubDate": "Wed, 28 Jan 2026 20:30:10 +0000",
@@ -1469,14 +1477,6 @@
           "description": "Μια πολυαναμενόμενη αναβάθμιση έρχεται να αλλάξει την καθημερινότητα εκατομμυρίων χρηστών iPhone που βασίζονται στις υπηρεσίες της Google. Η εφαρμογή ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/google-photos-gmail-iphone.jpg",
           "source": "Techgear"
-        },
-        {
-          "title": "Samsung Galaxy Z TriFold: Το smartphone που γίνεται tablet 10 ιντσών έρχεται με τιμή-σοκ",
-          "link": "https://gr.pcmag.com/mobile-phones/51139/samsung-galaxy-z-trifold-to-smartphone-pou-ginetai-tablet-10-intson-erkhetai-me-time-sok",
-          "pubDate": "Tue, 27 Jan 2026 15:44:25 +0000",
-          "description": "Με οθόνη 10 ιντσών, κάμερα 200MP και τον Snapdragon 8 Elite, το επαναστατικό TriFold της Samsung κυκλοφορεί αυτή την εβδομάδα στις ΗΠΑ με τιμή $2.899.",
-          "thumbnail": "https://sm.pcmag.com/pcmag_gr/news/s/samsung-ga/samsung-galaxy-z-trifold-is-out-later-this-week-costs-2899_nx9m.jpg",
-          "source": "PC Magazine"
         }
       ]
     }
