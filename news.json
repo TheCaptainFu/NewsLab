@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T06:20:32.436Z",
+  "lastUpdated": "2026-01-28T06:25:28.451Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "A string of scandals and luxury handbags: Who is South Korea's former first lady?",
+          "link": "https://www.bbc.com/news/articles/cj3vpe8zme8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Jan 2026 06:23:41 GMT",
+          "description": "Kim was accused of accepting luxury bags, a diamond necklace and other gifts as bribes.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca91/live/f0b0c370-fb5a-11f0-80ad-435009e66207.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Θέλετε φθηνές διακοπές; Δοκιμάστε το νέο Cheapest Destination Planner του Skyscanner",
           "link": "http://gr.euronews.com/travel/2026/01/28/want-to-book-a-bargain-holiday-try-skyscanners-new-cheapest-destination-planner",
           "pubDate": "Wed, 28 Jan 2026 07:02:11 +0100",
@@ -645,14 +653,6 @@
           "source": "BBC News"
         },
         {
-          "title": "A string of scandals and luxury handbags: Who is South Korea's former first lady?",
-          "link": "https://www.bbc.com/news/articles/cj3vpe8zme8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Jan 2026 23:11:38 GMT",
-          "description": "Kim Keon Hee, wife of disgraced former president Yoon Suk Yeol, is facing court on a raft of charges.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca91/live/f0b0c370-fb5a-11f0-80ad-435009e66207.jpg",
-          "source": "BBC News"
-        },
-        {
           "title": "Former French senator found guilty of drugging MP",
           "link": "https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Jan 2026 22:04:40 GMT",
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "NBA: Κυρίαρχοι Νικς κόντρα στους Κινγκς, επιστροφή στις νίκες για τους Θάντερ",
+          "link": "https://www.gazzetta.gr/basketball/nba/2510803/nba-kyriarhoi-niks-kontra-stoys-kingks-epistrofi-stis-nikes-gia-toys-thanter",
+          "pubDate": "Wed, 28 Jan 2026 08:23:16 +0200",
+          "description": "Οι Θάντερ επέστρεψαν στα θετικά αποτελέσματα, επικρατώντας των Πέλικανς με 104-95, ενώ οι Νικς επιβλήθηκαν των Κινγκς με 103-87, έχοντας ως πρωταγωνιστή τον Τζέιλεν Μπράνσον.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/alexander_thunder_getty.jpg?itok=UX8R5NQq",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τι είναι το «χρυσό αίμα» που κυλά στις φλέβες μόνο 50 ανθρώπων στον κόσμο",
+          "link": "https://www.gazzetta.gr/plus/2510802/ti-einai-hryso-aima-poy-kyla-stis-flebes-mono-50-anthropon-ston-kosmo",
+          "pubDate": "Wed, 28 Jan 2026 08:21:21 +0200",
+          "description": "Είναι τόσο σπάνιο που οι επιστήμονες προσπαθούν να το «καλλιεργήσουν» σε εργαστήριο.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gettyimages-2234214263-1280x853.jpg?itok=xwaiK8HC",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Αποτελέσματα NBA: Νέα ήττα για τους Μιλγουόκι Μπακς χωρίς τον Γιάννη Αντετοκούνμπο",
           "link": "https://www.newsit.gr/athlitika/apotelesmata-nba-nea-itta-gia-tous-milgouoki-mpaks-xoris-ton-gianni-antetokounmpo-2/4585309/",
           "pubDate": "Wed, 28 Jan 2026 06:18:34 +0000",
@@ -807,7 +823,7 @@
           "link": "https://www.gazzetta.gr/football/champions-league/2510779/olympiakos-den-koimithike-kaneis-sto-amsterntam-prin-ti-mahi-me",
           "pubDate": "Wed, 28 Jan 2026 08:05:00 +0200",
           "description": "Χιλιάδες φίλοι του Ολυμπιακού έκαναν... φασαρία στο Άμστερνταμ και με τη φωνή τους έδωσαν το δικό τους χρώμα στην πόλη. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiacos_fans_0.jpg?itok=AIeml-7W",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/amsterdam_0.jpg?itok=JuLgJJxx",
           "source": "Gazzetta"
         },
         {
@@ -969,22 +985,6 @@
           "description": "Μουανί και Οντομπέρ είχαν ατύχημα παραμονές της σημαντικής αναμέτρησης με την Άιντραχτ για το Champions League.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ferrari_tottenham.jpg?itok=tvUpLgS1",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Δολοφονία Λυγγερίδη: «Μου διέλυσαν την οικογένεια» – H συγκλονιστική κατάθεση του πατέρα",
-          "link": "https://www.gazzetta.gr/plus/2510764/dolofonia-lyggeridi-moy-dielysan-tin-oikogeneia-h-sygklonistiki-katathesi-toy-patera",
-          "pubDate": "Tue, 27 Jan 2026 23:31:39 +0200",
-          "description": "Συγκλονίζει η μαρτυρία του πατέρα του Γιώργου Λυγγερίδη στη δίκη για την φονική επίθεση έξω από το κλειστό γυμναστήριο του Ρέντη.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/liggeridis.jpg?itok=QQ1Q9Onr",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σύνδεσμοι Φίλων ΠΑΟΚ: «Ακυρώνονται όλες οι εκδρομές στη Γαλλία λόγω του σοκαριστικού δυστυχήματος στη Ρουμανία»",
-          "link": "https://www.newsit.gr/athlitika/syndesmoi-filon-paok-akyronontai-oles-oi-ekdromes-sti-gallia-logo-tou-sokaristikou-dystyximatos-sti-roumania/4585192/",
-          "pubDate": "Tue, 27 Jan 2026 21:19:33 +0000",
-          "description": "Οι Σύνδεσμοι Φίλων ΠΑΟΚ εξέδωσαν ανακοίνωση για να επιβεβαιώσουν το γεγονός ότι κανένας οπαδός του Δικεφάλου δεν θα βρεθεί στο γήπεδο της Λιόν για την ...  \nTo άρθρο Σύνδεσμοι Φίλων ΠΑΟΚ: «Ακυρώνονται όλες οι εκδρομές στη Γαλλία λόγω του σοκαριστικού δυστυχήματος στη Ρουμανία» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-9-1200x900.jpg",
-          "source": "NewsIT"
         }
       ]
     },
