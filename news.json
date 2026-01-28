@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T22:39:15.524Z",
+  "lastUpdated": "2026-01-28T22:40:25.626Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,11 +9,11 @@
       "color": "red",
       "articles": [
         {
-          "title": "Alert! Τηλεφώνημα για βόμβα στο OPEN",
+          "title": "Τηλεφώνημα για βόμβα στο OPEN",
           "link": "https://www.protothema.gr/greece/article/1765135/alert-ekkenonetai-to-stoudio-tou-open-epeita-apo-apeili-gia-vomva/?utm_source=rss",
           "pubDate": "Thu, 29 Jan 2026 00:33:00 +0200",
-          "description": "",
-          "thumbnail": "https://i1.prth.gr/images/w640/2/jpeg/files/2024-12-11/xrvma_ektakth_epikairothta_1012242.jpeg",
+          "description": "Την ώρα του τηλεφωνήματος ήταν στον «αέρα» η εκπομπή «Κοινωνία Άνω Κάτω», με τον παρουσιαστή, Κωνσταντίνο Μπογδάνο, να ανακοινώνει ότι υπήρξε απειλή για βόμβα και θα έπρεπε να εκκενωθεί το στούντιο",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2025-12-21/peripoliko-mkt.jpg",
           "source": "Πρώτο Θέμα"
         },
         {
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ρέτσος: «Αυτή η ομάδα είναι για μεγάλα πράγματα»",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511091/retsos-ayti-i-omada-einai-gia-megala-pragmata",
+          "pubDate": "Thu, 29 Jan 2026 00:38:18 +0200",
+          "description": "«Τρελαμένος» από τη μεγάλη πρόκριση του Ολυμπιακού με το διπλό στο Άμστερνταμ ο Παναγιώτης Ρέτσος.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/retsos1.jpg?itok=aWp8EgRA",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ολυμπιακός: Ερυθρόλευκο «πάρτι» στα αποδυτήρια με Μιλτιάδη Μαρινάκη και Μπάμπη Κωστούλα",
           "link": "https://www.newsit.gr/athlitika/olympiakos-erythroleyko-parti-sta-apodytiria-me-miltiadi-marinaki-kai-mpampi-kostoula/4586298/",
           "pubDate": "Wed, 28 Jan 2026 22:31:30 +0000",
@@ -976,14 +984,6 @@
           "pubDate": "Wed, 28 Jan 2026 23:40:55 +0200",
           "description": "Το ESPN έριξε τη βόμβα για τον Γιάννη Αντετοκούνμπο και αμέσως ξεκίνησαν και τα σενάρια για τον επόμενο πιθανό προορισμό του!",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/giannis_doncic_2.jpg?itok=HrsZsAQq",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ξανθόπουλος: «Τεράστια επιτυχία, οι παίκτες μου δείξανε χαρακτήρα»",
-          "link": "https://www.gazzetta.gr/basketball/fiba-europe-cup/2511067/xanthopoylos-terastia-epityhia-oi-paiktes-moy-deixane-haraktira",
-          "pubDate": "Wed, 28 Jan 2026 23:39:39 +0200",
-          "description": "Στη νίκη που συνοδεύτηκε με πρόκριση αναφέρθηκε ο Βασίλης Ξανθόπουλος στις δηλώσεις του, αμέσως μετά τη νίκη της ομάδας του επί της Σαραγόσα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/xanthopoulos_eurokinisi.jpg?itok=ACbOaVwN",
           "source": "Gazzetta"
         }
       ]
