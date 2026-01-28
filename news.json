@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T22:10:29.511Z",
+  "lastUpdated": "2026-01-28T22:15:25.882Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Άγιαξ - Ολυμπιακός: Τα highlights από την τεράστια νίκη-πρόκριση των ερυθρόλευκων στο Άμστερνταμ!",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511083/agiax-olympiakos-ta-highlights-apo-tin-terastia-niki-prokrisi-ton",
+          "pubDate": "Thu, 29 Jan 2026 00:11:06 +0200",
+          "description": "Ο Ολυμπιακός πήρε μεγάλο διπλό με 1-2 επί του Άγιαξ και εξασφάλισε μια θέση στα play offs του Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_9.jpg?itok=yolAEePY",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Champions League: Οι ομάδες που προκρίθηκαν στα play-offs και οι διασταυρώσεις",
           "link": "https://www.gazzetta.gr/football/champions-league/2511082/champions-league-oi-omades-poy-prokrithikan-sta-play-offs-kai-oi",
           "pubDate": "Thu, 29 Jan 2026 00:09:28 +0200",
@@ -977,14 +985,6 @@
           "description": "Στο 52' ο Ολυμπιακός με έναν πανέμορφο συνδυασμό από Ζέλσον Μαρτίνς και Ταρέμι πήρε το προβάδισμα με γκολ του πρώτου κόντρα στον Άγιαξ!",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gelson.jpg?itok=o0iTnAVo",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Βαγγέλης Παυλίδης είχε γκολ και ασίστ στο Μπενφίκα – Ρεάλ Μαδρίτης",
-          "link": "https://www.newsit.gr/athlitika/o-vaggelis-paylidis-eixe-gkol-kai-asist-sto-mpenfika-real-madritis/4586259/",
-          "pubDate": "Wed, 28 Jan 2026 21:16:23 +0000",
-          "description": "Ο Βαγγέλης Παυλίδης ήταν ο μεγάλος πρωταγωνιστής της Μπενφίκα στο πρώτο ημίχρονο του αγώνα με τη Ρεάλ Μαδρίτης στην Πορτογαλία για το Champions League. Η ...  \nTo άρθρο Ο Βαγγέλης Παυλίδης είχε γκολ και ασίστ στο Μπενφίκα – Ρεάλ Μαδρίτης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/pavlidis-benfica-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
