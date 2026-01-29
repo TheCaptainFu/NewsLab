@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T09:05:28.018Z",
+  "lastUpdated": "2026-01-29T09:10:31.554Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Καιρός: Iσχυρές βροχές, καταιγίδες και χαλαζοπτώσεις –  Επικαιροποιήθηκε το έκτακτο δελτίο",
+          "link": "https://www.newsit.gr/ellada/kairos-isxyres-vroxes-kataigides-kai-xalazoptoseis-epikairopoiithike-to-ektakto-deltio/4586555/",
+          "pubDate": "Thu, 29 Jan 2026 09:06:26 +0000",
+          "description": "Επικαιροποιήθηκε το Έκτακτο Δελτίο Επιδείνωσης Καιρού που εκδόθηκε χθες, σύμφωνα με τα τελευταία στοιχεία. Πιο συγκεκριμένα ισχυρές βροχές, καταιγίδες και πιθανώς κατά τόπους χαλαζοπτώσεις προβλέπονται ...  \nTo άρθρο Καιρός: Iσχυρές βροχές, καταιγίδες και χαλαζοπτώσεις –  Επικαιροποιήθηκε το έκτακτο δελτίο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ektaktieidisi-newsit-10-1200x675.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "H&M: Ανθεκτικά κέρδη παρά τις πιέσεις στις πωλήσεις",
           "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/h-amp-m-anthektika-kerdi-para-tis-pieseis-stis-poliseis/4586527/",
@@ -25,7 +33,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Live από Τιμισοάρα: Ξεκίνησε η μεταφορά των δύο τραυματιών οπαδών του ΠΑΟΚ από τα ασθενοφόρα στο αεροπλάνο του ΕΚΑΒ",
+          "title": "Live από τη μεταφορά των δύο τραυματιών οπαδών του ΠΑΟΚ από τα ασθενοφόρα στο αεροπλάνο του ΕΚΑΒ στην Τιμισοάρα",
           "link": "https://www.protothema.gr/greece/article/1765160/tragodia-sti-roumania-stin-ellada-epanapatrizodai-simera-oi-soroi-ton-thumaton-horis-apadisi-krisima-erotimata/?utm_source=rss",
           "pubDate": "Thu, 29 Jan 2026 11:02:00 +0200",
           "description": "«Δεν είναι εύκολα τα πράγματα, συλλυπητήρια στις οικογένειες των θυμάτων» είπε ο πατέρας του ενός - Το απόγευμα επιστρέφουν και οι σοροί των αετόπουλων - Ο ΠΑΟΚ στον αγώνα με τον Πανσεραϊκό θα τιμήσει τους αδικοχαμένους οπαδούς του",
@@ -217,6 +225,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "Κακοκαιρία Kristin: Προβλήματα στην Ηλεία – Κατολισθήσεις και πλημμυρισμένοι δρόμοι",
+          "link": "https://www.in.gr/2026/01/29/greece/kakokairia-kristin-provlimata-stin-ileia-katolisthiseis-kai-plimmyrismenoi-dromoi/",
+          "pubDate": "Thu, 29 Jan 2026 11:09:45 +0300",
+          "description": "Οι έντονες βροχοπτώσεις που έφερε η κακοκαιρία Kristin προκάλεσαν προβλήματα σε περιοχές της Ηλείας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/VARDA-13-768x432.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Οίδημα στον αυχένα έχει ο τρίτος τραυματίας του τροχαίου - Χειρουργήθηκε στη Ρουμανία, επέμειναν οι γιατροί του ΕΚΑΒ να μείνει υπό παρακολούθηση",
           "link": "https://www.protothema.gr/greece/article/1765242/oidima-ston-auhena-eihe-o-tritos-traumatias-opado-tou-paok-georgiadis-eutuhos-oi-giatroi-tou-ekav-zitisan-allo-ena-24/?utm_source=rss",
           "pubDate": "Thu, 29 Jan 2026 10:09:00 +0200",
@@ -231,22 +247,6 @@
           "description": "Τις υπηρεσίες του Κέντρικ Ναν θα στερηθεί σε ακόμα ένα παιχνίδι ο Παναθηναϊκός, με τον Αμερικανό να μην ακολουθεί την αποστολή για τη Γαλλία.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6802132-1-1024x683-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Η κακοκαιρία Kristin σαρώνει την Ηλεία: Κατολισθήσεις και πλημμύρες σε δρόμους και υπόγεια – Κατέρρευσε τοίχος σπιτιού",
-          "link": "https://www.newsit.gr/ellada/i-kakokairia-kristin-saronei-tin-ileia-katolisthiseis-kai-plimmyres-se-dromous-kai-ypogeia-katerreyse-toixos-spitiou/4586466/",
-          "pubDate": "Thu, 29 Jan 2026 08:02:09 +0000",
-          "description": "Αρκετά προβλήματα έχει προκαλέσει ήδη η κακοκαιρία Kristin στην Ηλεία η οποία χτυπά σήμερα (29.01.2026) με βροχές και καταιγίδες την περιοχή. Δρόμοι και υπόγεια στη ...  \nTo άρθρο Η κακοκαιρία Kristin σαρώνει την Ηλεία: Κατολισθήσεις και πλημμύρες σε δρόμους και υπόγεια – Κατέρρευσε τοίχος σπιτιού δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/varda-kakokairia-1200x675.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Λιόν – ΠΑΟΚ: Νίκη αφιέρωση στους επτά οπαδούς που έχασαν τη ζωή τους θέλουν οι παίκτες του Δικεφάλου",
-          "link": "https://www.newsit.gr/athlitika/lion-paok-niki-afierosi-stous-epta-opadous-pou-exasan-ti-zoi-tous-theloun-oi-paiktes-tou-dikefalou/4586464/",
-          "pubDate": "Thu, 29 Jan 2026 07:59:35 +0000",
-          "description": "Ο ΠΑΟΚ φιλοξενείται από τη Λιόν για την τελευταία αγωνιστική του Europa League (29/01/26, 22:00, Cosmote Sport 4) με το μυαλό όλων να είναι στραμμένο ...  \nTo άρθρο Λιόν – ΠΑΟΚ: Νίκη αφιέρωση στους επτά οπαδούς που έχασαν τη ζωή τους θέλουν οι παίκτες του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-14-1200x798.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Θα προπονηθεί σε χιονισμένο τοπίο μετά το θρίαμβο του Άμστερνταμ ",
+          "link": "https://www.gazzetta.gr/football/superleague/2511176/olympiakos-tha-proponithei-se-hionismeno-topio-meta-thriambo-toy",
+          "pubDate": "Thu, 29 Jan 2026 11:07:35 +0200",
+          "description": "Ο Ολυμπιακός θα προπονηθεί σήμερα σε χιονισμένο τοπίο, καθώς το Άμστερνταμ έχει ντυθεί στα λευκά! ΑΜΣΤΕΡΝΤΑΜ, αποστολή: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/xionia.jpg?itok=2B0F9f5i",
+          "source": "Gazzetta"
+        },
+        {
           "title": "To σιωπητήριο της Μαρίας Καρυστιανού και ο coach που αναζητά",
           "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
           "pubDate": "Thu, 29 Jan 2026 11:04:00 +0200",
@@ -977,14 +985,6 @@
           "description": "Με αεροσκάφος του ΕΚΑΒ επιστρέφουν σήμερα στην Ελλάδα δύο εκ των τριών τραυματιών μετά το πολύνεκρο τροχαίο στη Ρουμανία.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_1_2.jpg?itok=SfczxHnz",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Σαν Σήμερα: Γεννήθηκε ο τελευταίος πρωταθλητής της Ferrari πριν τον Σουμάχερ (vid)",
-          "link": "https://www.gazzetta.gr/gmotion/2511085/291-san-simera-gennithike-o-teleytaios-protathlitis-tis-ferrari-prin-ton-soymaher",
-          "pubDate": "Thu, 29 Jan 2026 09:30:00 +0200",
-          "description": "Πολλά από τα γεγονότα της Formula 1 και του μηχανοκίνητου αθλητισμού έχουν μείνει στην ιστορία για τη σημαντικότητά τους. Ας δούμε τα κυριότερα της ημέρας.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/dyfy_ojxcaiewke_f1.jpeg?itok=acq-U74X",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Euroleague: Ανακοινώθηκαν οι διαιτητές για το Βιλερμπάν – Παναθηναϊκός! (pic)",
+          "link": "https://trifilara.gr/euroleague-anakoinwthikan-oi-diaithtes-gia-to-vilerban-panathinaikos-pic/?utm_source=rss&utm_medium=rss&utm_campaign=euroleague-anakoinwthikan-oi-diaithtes-gia-to-vilerban-panathinaikos-pic",
+          "pubDate": "Thu, 29 Jan 2026 09:08:35 +0000",
+          "description": "Γνωστή έγινε η διαιτητική τριάδα για την εκτός έδρας αναμέτρηση του Παναθηναϊκού κόντρα στην Βιλερμπάν. \nThe post Euroleague: Ανακοινώθηκαν οι διαιτητές για το Βιλερμπάν – Παναθηναϊκός! (pic) appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Δημοσκόπηση Metron Analysis: Η πρώτη πραγματική αναμέτρηση Καρυστιανού – Κωνσταντοπούλου έχει ξεκάθαρο νικητή",
+          "link": "https://panathinaikos24.gr/2026/01/29/617432/dimoskopisi-metron-analysis-i-proti-pragmatiki-anametrisi-karystianou-konstantopoulou-exei-ksekatharo-nikiti/",
+          "pubDate": "Thu, 29 Jan 2026 09:05:19 +0000",
+          "description": "Τι δείχνει η πρώτη δημοσκόπηση μετά τη συνέντευξη περί αμβλώσεων.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/instanews_2026-01-23_08-27-22_855823-scaled-1.jpg?fit=1024%2C698&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Βιλερμπάν – Παναθηναϊκός: Οι διαιτητές του αγώνα! (pic)",
           "link": "https://olaprasina1908.gr/%ce%b5%ce%be%ce%ac%cf%83%cf%84%ce%b5%cf%81%ce%bf%cf%82/vilerban-panathinaikos-oi-diaithtes-tou-agwna-pic/?utm_source=rss&utm_medium=rss&utm_campaign=vilerban-panathinaikos-oi-diaithtes-tou-agwna-pic",
@@ -1007,6 +1023,14 @@
           "description": "Ο Εργκίν Αταμάν στις δηλώσεις του ενόψει Βιλερμπάν έστειλε τα συλλυπητήριά του στον ΠΑΟΚ και μίλησε για το κλειδί του ματς. Αναλυτικά οι δηλώσεις του: «Πρώτα από όλα, συλλυπητήρια για τους ανθρώπους του ΠΑΟΚ που έχασαν τη ζωή τους. Στην Ελλάδα, όλοι οι οπαδοί ακολουθούν τις ομάδες τους σε όλη την Ευρώπη. Συλλυπητήρια λοιπόν στην […]",
           "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/Ataman-4.jpg",
           "source": "Όλα Πράσινα"
+        },
+        {
+          "title": "Καιρός: Ισχυρές βροχές θα χτυπήσουν την Αττική Πέμπτη, Σάββατο και Κυριακή",
+          "link": "https://panathinaikos24.gr/2026/01/29/617941/kairos-isxyres-vroxes-tha-xtypisoun-tin-attiki-pempti-savvato-kai-kyriaki/",
+          "pubDate": "Thu, 29 Jan 2026 08:41:33 +0000",
+          "description": "Σύμφωνα με τον μετεωρολόγο Γιώργο Τσατραφύλλια, το νέο αυτό κύμα κακοκαιρίας θα χτυπήσει την Αττική το μεσημέρι της Πέμπτης, το πρωί του Σαββάτου και από το απόγευμα της Κυριακής και μετά.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/11/4917629.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
         },
         {
           "title": "Παναθηναϊκός: Στην αποστολή ο Χολμς – Η τελική απόφαση για τον Ναν!",
@@ -1206,30 +1230,6 @@
           "pubDate": "Wed, 28 Jan 2026 18:11:13 +0000",
           "description": "Σε ένα τρομερό ντέρμπι ο Παναθηναϊκός ήταν ανώτερος από τον Ολυμπιακό, στη Λεωφόρο και με μια ΕΠΙΚΗ, Άρτεμις Σπανού που έκανε double double με 24 πόντους, 10 ριμπάουντ και έξι ασίστ, επικράτησε 88-85!",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6828305.jpg?fit=900%2C599&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Τσιμίκας: «Δεν έχω λόγια για αυτό που συνέβη – Πολύ χαρούμενος που επιστρέφω»",
-          "link": "https://trifilara.gr/tsimikas-den-echo-logia-gia-afto-pou-synevi-poly-charoumenos-pou-epistrefo/?utm_source=rss&utm_medium=rss&utm_campaign=tsimikas-den-echo-logia-gia-afto-pou-synevi-poly-charoumenos-pou-epistrefo",
-          "pubDate": "Wed, 28 Jan 2026 17:54:41 +0000",
-          "description": "Ο παίκτης της Ρόμα, Κώστας Τσίμίκας, μίλησε στη συνέντευξη Τύπου στο ΟΑΚΑ ενόψει του παιχνιδιού με τον Παναθηναϊκό.\nThe post Τσιμίκας: «Δεν έχω λόγια για αυτό που συνέβη – Πολύ χαρούμενος που επιστρέφω» appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Ανατριχίλα: O Nίνης θυμάται τα επικά ματς του Παναθηναϊκού με τη Ρόμα το 2010 – Το ξεχωριστό δώρο που παρέλαβε",
-          "link": "https://panathinaikos24.gr/2026/01/28/618123/anatrixila-o-ninis-thymatai-ta-epika-mats-tou-panathinaikou-me-ti-roma-to-2010-to-ksexoristo-doro-pou-parelave/",
-          "pubDate": "Wed, 28 Jan 2026 17:46:56 +0000",
-          "description": "Η ΠΑΕ Παναθηναϊκός ανέβασε στα social media ένα βίντεο-αναδρομή στα παιχνίδια του 2010 με τη Ρόμα, με βασικό πρωταγωνιστή των MVP, τότε, Σωτήρη Νίνη.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/ipiccy_image-1_184716.jpg?fit=880%2C527&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Παναθηναϊκός: Mε πολλές απουσίες και αρκετούς νέους η αποστολή για το ματς με τη Ρόμα",
-          "link": "https://panathinaikos24.gr/2026/01/28/618115/panathinaikos-me-polles-apousies-kai-arketous-neous-i-apostoli-gia-to-mats-me-ti-roma/",
-          "pubDate": "Wed, 28 Jan 2026 17:06:35 +0000",
-          "description": "H αποστολή του Παναθηναϊκού για το ματς με τη Ρόμα.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6827933.jpg?fit=900%2C556&amp;ssl=1",
           "source": "Panathinaikos24"
         }
       ]
