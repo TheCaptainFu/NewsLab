@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T07:15:27.728Z",
+  "lastUpdated": "2026-01-29T07:20:26.696Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Το «νέο» δεν είναι πανάκεια…",
+          "link": "https://www.newsit.gr/blogs/prasinos-fakelos/to-neo-den-einai-panakeia/4586441/",
+          "pubDate": "Thu, 29 Jan 2026 07:18:39 +0000",
+          "description": "Το «νέο» είναι μία λέξη από μόνη της θετικά φορτισμένη. Το «νέο» είναι πάντα ελκυστικό, κυρίως γιατί είναι πολλά υποσχόμενο. Ένας «νέος» έρωτας, μία «νέα» ...  \nTo άρθρο Το «νέο» δεν είναι πανάκεια… δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vouli-sinedriasi-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "ΔΕΗ: Αναβάθμιση της πιστοληπτικής προοπτικής της από την S&P",
           "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/dei-anavathmisi-tis-pistoliptikis-prooptikis-tis-apo-tin-s-amp-p/4586429/",
@@ -238,14 +246,6 @@
           "pubDate": "Thu, 29 Jan 2026 06:00:00 +0000",
           "description": "Ενα πυρέξ με σουφλέ σπανάκι υπήρχε πάντα στα εορταστικά μπουφέ, γιατί είναι νόστιμο και συνδυάζεται εύκολα. Όσο και ρετρό αν είναι, πάντα θα είναι μια ...  \nTo άρθρο Συνταγή για σουφλέ σπανάκι με κίτρινα τυριά δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1045409190-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Θεσσαλονίκη: Μεγάλη φωτιά σε μάντρα με μεταχειρισμένα οχήματα – Καταστράφηκαν 2 αυτοκίνητα",
-          "link": "https://www.newsit.gr/ellada/thessaloniki-megali-fotia-se-mantra-me-metaxeirismena-oximata-katastrafikan-2-aytokinita/4586381/",
-          "pubDate": "Thu, 29 Jan 2026 05:58:48 +0000",
-          "description": "Συναγερμός σήμανε τα ξημερώματα της Πέμπτης (29.01.2026) στη Θεσσαλονίκη, όταν ξέσπασε μεγάλη φωτιά σε μάντρα με μεταχειρισμένα αυτοκίνητα. Η φωτιά εκδηλώθηκε στη μάντρα που βρίσκεται ...  \nTo άρθρο Θεσσαλονίκη: Μεγάλη φωτιά σε μάντρα με μεταχειρισμένα οχήματα – Καταστράφηκαν 2 αυτοκίνητα δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fwtia-mantra-thessaloniki.jpg",
           "source": "NewsIT"
         }
       ]
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Η αναμενόμενη ώρα άφιξης του C130 με τις 7 σορούς",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511151/paok-dystyhima-sti-roymania-i-anamenomeni-ora-afixis-toy-c130-me-tis",
+          "pubDate": "Thu, 29 Jan 2026 09:18:12 +0200",
+          "description": "Με στρατιωτικό αεροσκάφος C130 θα μεταφερθούν σήμερα στη Θεσσαλονίκη οι σοροί των φιλάθλων του ΠΑΟΚ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_toumba_tragodia.jpg?itok=lWESbb3t",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Πώς από το «15% πιθανότητες πρόκρισης» βρίσκεται στα play offs του Champions League",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511150/olympiakos-pos-apo-15-pithanotites-prokrisis-brisketai-sta-play",
+          "pubDate": "Thu, 29 Jan 2026 09:18:07 +0200",
+          "description": "Τι και αν το Football Meets Data έδινε μόλις 15% πιθανότητες πρόκρισης στα τέλη Νοέμβρη; Ο Ολυμπιακός έκανε την υπέρβαση, πέτυχε το 3x3 και πλέον είναι μέρος των play offs του Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_9_0.jpg?itok=YBRItkvs",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Κώστας Καραπαπάς: «Συγκλονιστική πρόκριση, αφιερωμένη στον Βαγγέλη Μαρινάκη και το λαό μας»",
           "link": "https://www.newsit.gr/athlitika/kostas-karapapas-sygklonistiki-prokrisi-afieromeni-ston-vaggeli-marinaki-kai-to-lao-mas/4586432/",
           "pubDate": "Thu, 29 Jan 2026 07:09:54 +0000",
@@ -969,22 +985,6 @@
           "description": "Ο Ολυμπιακός πήρε επική πρόκριση! Βγάζοντας ψυχή και πάθος, η ομάδα του Χοσέ Λουίς Μεντιλίμπαρ “καθάρισε” τον Άγιαξ μέσα στο Άμστερνταμ (2-1) και… έφυγε για ...  \nTo άρθρο Άγιαξ – Ολυμπιακός ανάλυση: Ζέλσον Μαρτίνς, Έσε και άμυνα τα «γρανάζια» της πρόκρισης δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zelson-martins-goal-eurokinissi-1-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Φαγητό και γλέντι σε κεντρικά μπαρ μετά την επική πρόκριση για τους φιλάθλους των ερυθρόλευκων ",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511121/olympiakos-fagito-kai-glenti-se-kentrika-mpar-meta-tin-epiki",
-          "pubDate": "Thu, 29 Jan 2026 05:18:24 +0200",
-          "description": "Μετά την πρόκριση στους 24 του Champions League η όρεξη για φαγητό αλλά και διασκέδαση είχε ανοίξει για τους φίλους του Ολυμπιακού ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kosmos.jpg?itok=FAG1gA1d",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Στην Ομόνοια για τα επτά αετόπουλα",
-          "link": "https://www.gazzetta.gr/football/europa-league/2511104/paok-dystyhima-sti-roymania-stin-omonoia-gia-ta-epta-aetopoyla",
-          "pubDate": "Thu, 29 Jan 2026 01:30:56 +0200",
-          "description": "Η συγκέντρωση των οπαδών του ΠΑΟΚ στην Ομόνοια για τα επτά αετόπουλα.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_7_1.jpg?itok=np54V-sn",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός – Ρόμα: «Κλείνει» η League Phase με δυνατό τεστ – Η τηλεοπτική μετάδοση!",
+          "link": "https://trifilara.gr/panathinaikos-roma-kleinei-h-league-phase-me-dunato-test-h-thleoptikh-metadosh/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-roma-kleinei-h-league-phase-me-dunato-test-h-thleoptikh-metadosh",
+          "pubDate": "Thu, 29 Jan 2026 07:18:57 +0000",
+          "description": "Το τελευταίο παιχνίδι της League Phase βρίσκει τον Παναθηναϊκό απέναντι στη Ρόμα, με φόντο την καλύτερη δυνατή θέση στα Play Off.\nThe post Παναθηναϊκός – Ρόμα: «Κλείνει» η League Phase με δυνατό τεστ – Η τηλεοπτική μετάδοση! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
         {
           "title": "Παναθηναϊκός – Ρόμα: Μάχη για το καλύτερο δυνατό πλασάρισμα – Η τηλεοπτική μετάδοση!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-roma-maxh-gia-to-kalutero-dunato-plasarisma-h-thleoptikh-metadosh/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-roma-maxh-gia-to-kalutero-dunato-plasarisma-h-thleoptikh-metadosh",
@@ -1221,14 +1229,6 @@
           "link": "https://trifilara.gr/panathinaikos-mia-epistrofi-ki-ena-neo-provlima-enopsei-vilerban/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-mia-epistrofi-ki-ena-neo-provlima-enopsei-vilerban",
           "pubDate": "Wed, 28 Jan 2026 14:53:36 +0000",
           "description": "Κανονικά στο πρόγραμμα προπόνησης του Παναθηναϊκού επέστρεψε σήμερα ο Ομέρ Γιουρτσεβέν.\nThe post Παναθηναϊκός: Μια επιστροφή κι ένα νέο πρόβλημα ενόψει Βιλερμπάν! appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Πιο κοντά από ποτέ το ντεμπούτο του Αντίνο με τα «πράσινα»!",
-          "link": "https://trifilara.gr/pio-konta-apo-pote-to-debouto-tou-andino-me-ta-prasina/?utm_source=rss&utm_medium=rss&utm_campaign=pio-konta-apo-pote-to-debouto-tou-andino-me-ta-prasina",
-          "pubDate": "Wed, 28 Jan 2026 14:28:37 +0000",
-          "description": "Ο Σαντίνο Αντίνο βρίσκεται ένα βήμα πριν την πρώτη του εμφάνιση με τα «πράσινα», με τον Μπενίτεθ να τον υπολογίζει για το ματς της Κυριακής με την Κηφισιά.\nThe post Πιο κοντά από ποτέ το ντεμπούτο του Αντίνο με τα «πράσινα»! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
         }
