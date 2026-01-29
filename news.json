@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T02:35:29.335Z",
+  "lastUpdated": "2026-01-29T02:40:29.128Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γυμνάσια των πεζοναυτών των ΗΠΑ στην Ιαπωνία, διακόπηκαν 4 φορές από αρκούδες",
+          "link": "https://www.in.gr/2026/01/29/world/gymnasia-ton-pezonayton-ton-ipa-stin-iaponia-diakopikan-4-fores-apo-arkoudes/",
+          "pubDate": "Thu, 29 Jan 2026 04:34:19 +0300",
+          "description": "Οι «φιλειρηνικές» αρκούδες της Ιαπωνίας διέκοψαν σε τέσσερις ξεχωριστές περιπτώσεις τις ασκήσεις πεζοναυτών των ΗΠΑ στην Ιαπωνία.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/peregrine-photography-i9Fd0GP8e_o-unsplash-768x512.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Κολομβία: Οι ένοπλες δυνάμεις σκότωσαν 5 μέλη του μεγαλύτερου καρτέλ της χώρας – Κατέσχεσαν φορτίο – «μαμούθ»",
           "link": "https://www.in.gr/2026/01/29/world/kolomvia-oi-enoples-dynameis-skotosan-5-meli-tou-megalyterou-kartel-tis-xoras-katesxesan-fortio-konta-sto-rekor/",
@@ -238,14 +246,6 @@
           "pubDate": "Thu, 29 Jan 2026 00:52:39 +0300",
           "description": "«Μια μεγάλη παλικαρίσια πρόκριση. Συγχαρητήρια στην ομάδα μας και τον υπέροχο κόσμο μας», σημειώνει, μεταξύ άλλων, στο συγχαρητήριο μήνυμά του, ο ισχυρός άνδρας της ΠΑΕ Ολυμπιακός, Βαγγέλης Μαρινάκης.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6751462-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Έσε: «Δείξαμε πως μπορούμε να αντιμετωπίσουμε οποιονδήποτε αντίπαλο»",
-          "link": "https://www.in.gr/2026/01/29/sports/football/champions-league/ese-deiksame-pos-mporoume-na-antimetopisoume-opoiondipote-antipalo/",
-          "pubDate": "Thu, 29 Jan 2026 00:48:37 +0300",
-          "description": "Με γκολ του Σαντιάγκο Έσε ο Ολυμπιακός νίκησε με 2-1 τον Άγιαξ και ο Αργεντινός παίκτης μίλησε για το ματς αλλά και για την επόμενη μέρα των Πειραιωτών",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/ΕΣΕ-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -795,7 +795,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Champions League: Τα 61 γκολ και τα highlights της 8η αγωνιστικής (vid)",
+          "title": "Champions League: Τα 61 γκολ και τα highlights της 8ης αγωνιστικής (vid)",
           "link": "https://www.gazzetta.gr/football/champions-league/2511101/champions-league-ta-61-gkol-kai-ta-highlights-tis-8i-agonistikis",
           "pubDate": "Thu, 29 Jan 2026 01:03:35 +0200",
           "description": "Απολαύστε τα 61 γκολ και τα highlights της τελευταίας αγωνιστικής της League Phase του Champions League.",
