@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T05:05:28.573Z",
+  "lastUpdated": "2026-01-29T05:10:40.365Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Mazda CX-60 Plug-in hybrid Takumi Plus – Δοκιμή: Με αξιώσεις απέναντι στον luxury ανταγωνισμό",
+          "link": "https://www.newsit.gr/auto/mazda-cx-60-plug-in-hybrid-takumi-plus-dokimi-me-aksioseis-apenanti-ston-luxury-antagonismo/4585063/",
+          "pubDate": "Thu, 29 Jan 2026 05:06:00 +0000",
+          "description": "Η Mazda φόρεσε τα καλά της με ένα κοστούμι CX-60 Plug-in hybrid, το οποίο είναι φοδραρισμένο με ποιότητα Takumi Plus. Αυτό το κομψό σύνολο, δεν ...  \nTo άρθρο Mazda CX-60 Plug-in hybrid Takumi Plus – Δοκιμή: Με αξιώσεις απέναντι στον luxury ανταγωνισμό δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mazda-cx-60-plug-in-hybrid-takumi-plus-01.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Δέντρο καταπλάκωσε αυτοκίνητο στο Χολαργό, δείτε φωτογραφίες",
           "link": "https://www.protothema.gr/greece/article/1765167/dedro-kataplakose-autokinito-sto-holargo-deite-fotografies/?utm_source=rss",
@@ -238,14 +246,6 @@
           "pubDate": "Thu, 29 Jan 2026 05:45:05 +0300",
           "description": "Η υπηρεσιακή πρόεδρος, Ροντρίγκεζ, παρότρυνε, χωρίς να την κατονομάσει, την Ματσάδο να παραμείνει στην Ουάσινγκτον και να μην επιστρέψει στη Βενεζουέλα. Καυστικός και ο υπουργός Εσωτερικών",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-28T195733Z_1870997235_RC2JAJAC5AAK_RTRMADP_5_USA-VENEZULA-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ουκρανία: Αποκλείεται η ένταξή της στην ΕΕ την 1η Ιανουαρίου του 2027 είπε ο Μερτς στις ΗΠΑ",
-          "link": "https://www.in.gr/2026/01/29/uncategorized/oukrania-apokleietai-entaksi-tis-stin-ee-tin-1i-ianouariou-tou-2027-eipe-o-merts-stis-ipa/",
-          "pubDate": "Thu, 29 Jan 2026 05:32:00 +0300",
-          "description": "Ο Γερμανός καγκελάριος Φρίντριχ Μερτς εξέφρασε σιγουριά πως η Ουκρανία δεν θα είναι σε θέση να πληροί τα κριτήρια της Κοπεγχάγης για την ένταξή της στην ΕΕ έως την 1η Ιανουαρίου του 2027.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-28T191452Z_116394548_RC2JAJAE1FP8_RTRMADP_5_GERMANY-POLITICS-768x512.jpg",
           "source": "In.gr"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Το απόλυτο Atari ST remake είναι εδώ, αλλά προορίζεται για ελάχιστους τυχερούς",
+          "link": "https://www.techgear.gr/to-apolyto-atari-st-remake-einai-edo-alla-proorizetai-gia-elachistoys-tycheroys-47370",
+          "pubDate": "Thu, 29 Jan 2026 07:06:00 +0200",
+          "description": "Η αναβίωση των κλασικών υπολογιστών της δεκαετίας του '80 και του '90 δεν αποτελεί πλέον είδηση από μόνη της. Ωστόσο, ο τρόπος με τον οποίο ...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/atari-minist.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "AlphaGenome: Η νέα AI της Google DeepMind που «φωτίζει» το 98% του σκοτεινού DNA μας",
           "link": "https://www.techgear.gr/alphagenome-i-nea-ai-tis-google-deepmind-poy-fotizei-to-98-toy-skoteinoy-dna-mas-47369",
           "pubDate": "Thu, 29 Jan 2026 06:55:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Tue, 27 Jan 2026 22:18:00 +0200",
           "description": "Η γαλλική κυβέρνηση ανακοίνωσε την οριστική της απόφαση να απομακρύνει τις αμερικανικές πλατφόρμες τηλεδιασκέψεων από τον δημόσιο τομέα. Μέχρι το ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/france-zoom.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Agentic Vision: Το επόμενο άλμα στην οπτική αντίληψη του Google Gemini",
-          "link": "https://www.techgear.gr/agentic-vision-to-epomeno-alma-stin-optiki-antilipsi-toy-google-gemini-47350",
-          "pubDate": "Tue, 27 Jan 2026 22:11:00 +0200",
-          "description": "Μέχρι σήμερα, η οπτική αντίληψη των μοντέλων τεχνητής νοημοσύνης λειτουργούσε ουσιαστικά σαν μια στατική φωτογραφία. Το μοντέλο «κοιτούσε» μια εικόνα ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/gemini-3-agentic-vision.jpg",
           "source": "Techgear"
         }
       ]
