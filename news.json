@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T07:55:24.269Z",
+  "lastUpdated": "2026-01-29T08:00:42.123Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,30 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πάτρα: Ναρκωτικά 900.000 ευρώ βρέθηκαν σε φορτηγό στο Ρίο - Συνελήφθη ο οδηγός και ένας 45χρονος στους Αμπελόκηπους που είχε αποθήκη για διακίνηση",
+          "link": "https://www.protothema.gr/greece/article/1765235/patra-narkotika-900000-euro-fortigo-rio-sunelifthi-odigos-45hronos-stous-abelokipous-pou-eihe-apothiki-gia-diakinisi/?utm_source=rss",
+          "pubDate": "Thu, 29 Jan 2026 09:58:40 +0200",
+          "description": "Βρέθηκαν πάνω από 110 κιλά ακατέργαστη κάνναβη (skunk) και 21 κιλά κατεργασμένη κάνναβη (χασίς)",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/narkotika.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Κώστας Φραγκολιάς για «ανήθικη» πρόταση γυναίκας: Μου πρότεινε λεφτά για ένα Σαββατοκύριακο",
+          "link": "https://www.newsit.gr/lifestyle/kostas-fragkolias-gia-anithiki-protasi-gynaikas-mou-proteine-lefta-gia-ena-savvatokyriako/4586470/",
+          "pubDate": "Thu, 29 Jan 2026 07:58:12 +0000",
+          "description": "Ο Κώστας Φραγκολιάς παραχώρησε δηλώσεις στην κάμερα της εκπομπής «Breakfast@Star», μετά την επίσημη πρεμιέρα της παράστασης «Toxic» το απόγευμα της Τετάρτης 28 Ιανουάριου, στο Θέατρο ...  \nTo άρθρο Κώστας Φραγκολιάς για «ανήθικη» πρόταση γυναίκας: Μου πρότεινε λεφτά για ένα Σαββατοκύριακο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fragolias-ndp-1200x828.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Έρχονται από τη Ρουμανία οι τραυματίες οπαδοί του ΠΑΟΚ, το απόγευμα επιστρέφουν και οι σοροί των αετόπουλων",
+          "link": "https://www.protothema.gr/greece/article/1765160/tragodia-sti-roumania-stin-ellada-epanapatrizodai-simera-oi-soroi-ton-thumaton-horis-apadisi-krisima-erotimata/?utm_source=rss",
+          "pubDate": "Thu, 29 Jan 2026 09:55:00 +0200",
+          "description": "Σε λίγο φθάνει το αεροπλάνο του ΕΚΑΒ που θα φέρει πίσω τους δύο από τους τρεις τραυματίες - Τα πρόσωπα της τραγωδίας - Ο ΠΑΟΚ στον αγώνα με τον Πανσεραϊκό θα τιμήσει τους αδικοχαμένους οπαδούς του",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/maketa-roumania-paok.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Κίνηση στους δρόμους: Πολύ δύσκολος ο Κηφισός, έως 15΄οι καθυστερήσεις στην Αττική Οδό\n",
           "link": "https://www.protothema.gr/greece/article/1765185/kinisi-stous-dromous-talaiporia-gia-tous-odigous-stis-kedrikes-leoforous-kathusteriseis-eos-30-stin-attiki-odo/?utm_source=rss",
@@ -97,14 +121,6 @@
           "source": "NewsIT"
         },
         {
-          "title": "Στην Ελλάδα σήμερα από τη Ρουμανία οι σοροί των «αετόπουλων» του ΠΑΟΚ, χωρίς απάντηση κρίσιμα ερωτήματα για το τροχαίο",
-          "link": "https://www.protothema.gr/greece/article/1765160/tragodia-sti-roumania-stin-ellada-epanapatrizodai-simera-oi-soroi-ton-thumaton-horis-apadisi-krisima-erotimata/?utm_source=rss",
-          "pubDate": "Thu, 29 Jan 2026 09:20:28 +0200",
-          "description": "Απογειώθηκε από την Ελευσίνα το αεροπλάνο του ΕΚΑΒ που θα φέρει πίσω τους δύο από τους τρεις τραυματίες - Τα πρόσωπα της τραγωδίας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/maketa-roumania-paok.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
           "title": "Το «νέο» δεν είναι πανάκεια…",
           "link": "https://www.newsit.gr/blogs/prasinos-fakelos/to-neo-den-einai-panakeia/4586441/",
           "pubDate": "Thu, 29 Jan 2026 07:18:39 +0000",
@@ -161,6 +177,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Μπόρις Πάστερνακ: Αγώνας κατά του σύγχρονου Λεβιάθαν",
+          "link": "https://www.in.gr/2026/01/29/istoriko-arxeio/mporis-pasternak-agonas-kata-tou-sygxronou-leviathan/",
+          "pubDate": "Thu, 29 Jan 2026 09:58:37 +0300",
+          "description": "Μονάχα τυφλωμένοι και βάρβαροι άνθρωποι —σ' οποιαδήποτε παράταξη και αν ανήκουν— είναι δυνατόν να διαβάσουν τον «Δόκτορα Ζιβάγκο» σαν ένα αντικομμουνιστικό μανιφέστο",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pasternak.new_.gif",
+          "source": "In.gr"
+        },
+        {
+          "title": "ΔΥΠΑ: Έρχεται voucher 750 ευρώ για εργαζόμενους – Τι προβλέπει",
+          "link": "https://www.in.gr/2026/01/29/economy/oikonomikes-eidiseis/dypa-erxetai-voucher-750-eyro-gia-ergazomenous-ti-provlepei/",
+          "pubDate": "Thu, 29 Jan 2026 09:57:36 +0300",
+          "description": "Οι αιτήσεις θα  γίνονται μέσω της πλατφόρμας voucher.gov με είσοδο μέσω κωδικών Taxisnet",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5418435-1200x784-768x502.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Ροντινέι: «Συνεχίζουμε να γράφουμε ιστορία, δώρο γενεθλίων η πρόκριση στο Champions League»",
           "link": "https://www.newsit.gr/athlitika/rontinei-synexizoume-na-grafoume-istoria-doro-genethlion-i-prokrisi-sto-champions-league/4586427/",
           "pubDate": "Thu, 29 Jan 2026 06:56:57 +0000",
@@ -215,38 +247,6 @@
           "description": "Ο Σταμάτης Φασουλής βρέθηκε καλεσμένος στην εκπομπή «Καλύτερα Αργά» και μίλησε για τη στάση του στον δημόσιο χώρο, τις απόψεις που είχε διατυπώσει σε γνωστούς ...  \nTo άρθρο Σταμάτης Φασουλής: Με πείραξε ότι στο καλύτερο πράγμα που είχα να δώσω, μου γύρισαν την πλάτη δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fasoulis-ndp-1200x862.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ο Θρύλος στα νοκ άουτ του Champions League και οι… πρόωρες κρίσεις στα σκουπίδια",
-          "link": "https://www.in.gr/2026/01/29/sports/football/champions-league/o-thrylos-sta-nok-aout-tou-champions-league-kai-oi-proores-kriseis-sta-skoupidia/",
-          "pubDate": "Thu, 29 Jan 2026 09:45:27 +0300",
-          "description": "Μια ακόμη μεγαλειώδης βραδιά στην ιστορία του, μια ακόμη επική πρόκριση για τον Ολυμπιακό στο Champions League και ένα ακόμη... μάθημα σε όσους αρέσκονται στην πρόωρη κριτική και τις βιαστικές κρίσεις.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6829004-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Καλλιθέα: Χωρίς ίχνη κακοποίησης το βρέφος που έχασε τη ζωή του – Η εξήγηση των γονιών του για τη μεταφορά του σε κτηνιατρείο",
-          "link": "https://www.newsit.gr/ellada/kallithea-xoris-ixni-kakopoiisis-to-vrefos-pou-exase-ti-zoi-tou-i-eksigisi-ton-gonion-tou-gia-ti-metafora-tou-se-ktiniatreio/4586409/",
-          "pubDate": "Thu, 29 Jan 2026 06:44:29 +0000",
-          "description": "Μυστήριο καλύπτει τον θάνατο του μόλις επτά ημερών βρέφους τα ξημερώματα της Τετάρτης (28.01.2026) στην Καλλιθέα. Το βρέφος μεταφέρθηκε τις πρωινές ώρες της Τετάρτης από ...  \nTo άρθρο Καλλιθέα: Χωρίς ίχνη κακοποίησης το βρέφος που έχασε τη ζωή του – Η εξήγηση των γονιών του για τη μεταφορά του σε κτηνιατρείο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-525734880-1200x675-1-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ξεκίνησε η επέλαση της κακοκαιρίας Kristin: Βρέχει ήδη στην Αττική, live η πορεία των καταιγίδων, πορτοκαλί προειδοποίηση από την ΕΜΥ",
-          "link": "https://www.protothema.gr/greece/article/1765150/kuma-kakokairias-me-kataigides-tin-pebti-se-poies-periohes-tha-einai-edona-ta-fainomena/?utm_source=rss",
-          "pubDate": "Thu, 29 Jan 2026 08:43:00 +0200",
-          "description": "Τι αναφέρει το έκτακτο δελτίο της ΕΜΥ - Νέο κύμα κακοκαιρίας περιμένουμε το Σαββατοκύριακο",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/kakokairia_29.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Ωρολογιακή βόμβα η Βιολάντα – Αμείλικτα ερωτήματα, εγκληματικές παραλείψεις",
-          "link": "https://www.in.gr/2026/01/29/greece/orologiaki-vomva-violanta-ameilikta-erotimata-egklimatikes-paraleipseis/",
-          "pubDate": "Thu, 29 Jan 2026 09:37:50 +0300",
-          "description": "Το «κακό» ήταν θέμα χρόνου να συμβεί στο εργοστάσιο Βιολάντα στα Τρίκαλα - Πολύμηνη διαρροή προπανίου σε βάθος 60 εκατοστών κάτω από το έδαφος εντόπισαν τα στελέχη της Πυροσβεστικής",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6826632-768x576.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -750,7 +750,7 @@
           "title": "Χαμός σε Πορτογαλικό κανάλι με το γκολ του τερματοφύλακα της Μπενφίκα: Τρόμαξε ο παρουσιαστής (vid)",
           "link": "https://www.gazzetta.gr/football/champions-league/2511160/hamos-se-portogaliko-kanali-me-gkol-toy-termatofylaka-tis",
           "pubDate": "Thu, 29 Jan 2026 09:54:18 +0200",
-          "description": "Εκπομπή στην Πορτογαλία διέκοψε τη ζωντανή ροή του προγράμματος της, για να πανηγυρίσουν οι συντελεστές το γκολ -πρόκριση του Τρούμπιν στο Champions League.",
+          "description": "Εκπομπή στην Πορτογαλία διέκοψε τη ζωντανή ροή του προγράμματος της, για να πανηγυρίσουν οι συντελεστές το γκολ -πρόκριση της Μπενφίκα στο Champions League.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benfica.jpg?itok=auwr9CbL",
           "source": "Gazzetta"
         },
