@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T01:30:30.721Z",
+  "lastUpdated": "2026-01-29T01:35:28.408Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Οι ΗΠΑ ανακοινώνουν κυρώσεις σε αξιωματούχους στην Αϊτή που κατηγορούν ότι βοηθούν συμμορίες",
+          "link": "https://www.in.gr/2026/01/29/world/oi-ipa-anakoinonoun-kyroseis-se-aksiomatouxous-stin-aiti-pou-katigoroun-oti-voithoun-symmories/",
+          "pubDate": "Thu, 29 Jan 2026 03:33:53 +0300",
+          "description": "Σε κυρώσεις εις βάρος αξιωματούχων στην Αϊτή προχώρησαν οι ΗΠΑ με το επιχείρημα πως βοηθούν τις τοπικές συμμορίες",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/2026-01-23T232843Z_1269072539_RC237JAA831N_RTRMADP_5_HAITI-SECURITY-768x512.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Just Eat: Λανσάρει βοηθό με τεχνητή νοημοσύνη για παραγγελίες φαγητού",
           "link": "https://www.in.gr/2026/01/29/in-science/ai/just-eat-lansarei-voitho-texniti-noimosyni-gia-paraggelies-fagitou/",
@@ -238,14 +246,6 @@
           "pubDate": "Wed, 28 Jan 2026 21:47:51 +0000",
           "description": "Η απόφαση της Federal Reserve (Fed) να διατηρήσει αμετάβλητα τα επιτόκια προκάλεσε έντονη μεταβλητότητα στους δείκτες της Wall Street στη συνεδρίαση της Τετάρτης (28.1.2026), με ...  \nTo άρθρο Wall Street: Έντονη μεταβλητότητα υπό τη σκιά της Fed δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/09/wallstreet-reuters.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άγιαξ – Ολυμπιακός: Το γκολ του Έσε για το 1-2",
-          "link": "https://www.newsit.gr/athlitika/agiaks-olympiakos-to-gkol-tou-ese-gia-to-1-2/4586271/",
-          "pubDate": "Wed, 28 Jan 2026 21:45:42 +0000",
-          "description": "Ο αλύγιστος Ολυμπιακός δεν επηρεάστηκε από το γκολ ισοφάρισης του Άγιαξ και πήρε εκ νέου το προβάδισμα στην Ολλανδία με τον Έσε. Στο 79ο λεπτό ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Το γκολ του Έσε για το 1-2 δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ese-olympiacos-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
