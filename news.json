@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T07:35:28.978Z",
+  "lastUpdated": "2026-01-29T07:40:26.003Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Παναθηναϊκός – Ρόμα: Για τη νίκη παρά τις απουσίες το «τριφύλλι» σε ένα ιστορικό παιχνίδι",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-roma-gia-ti-niki-para-tis-apousies-to-trifylli-se-ena-istoriko-paixnidi/4586444/",
+          "pubDate": "Thu, 29 Jan 2026 07:35:28 +0000",
+          "description": "Ο Παναθηναϊκός υποδέχεται τη Ρόμα για την τελευταία αγωνιστική της League Phase του Europa League (29/01/26, 22:00, Newsit.gr, Cosmote Sport 3) και θέλει να επαναλάβει ...  \nTo άρθρο Παναθηναϊκός – Ρόμα: Για τη νίκη παρά τις απουσίες το «τριφύλλι» σε ένα ιστορικό παιχνίδι δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Κίνηση στους δρόμους: Πολύ δύσκολος ο Κηφισός, έως 30΄οι καθυστερήσεις στην Αττική Οδό\n",
           "link": "https://www.protothema.gr/greece/article/1765185/kinisi-stous-dromous-talaiporia-gia-tous-odigous-stis-kedrikes-leoforous-kathusteriseis-eos-30-stin-attiki-odo/?utm_source=rss",
@@ -169,6 +177,14 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "Ωρολογιακή βόμβα η Βιολάντα – Αμείλικτα ερωτήματα, εγκληματικές παραλείψεις",
+          "link": "https://www.in.gr/2026/01/29/greece/orologiaki-vomva-violanta-ameilikta-erotimata-egklimatikes-paraleipseis/",
+          "pubDate": "Thu, 29 Jan 2026 09:37:50 +0300",
+          "description": "Το «κακό» ήταν θέμα χρόνου να συμβεί στο εργοστάσιο Βιολάντα στα Τρίκαλα - Πολύμηνη διαρροή προπανίου σε βάθος 60 εκατοστών κάτω από το έδαφος εντόπισαν τα στελέχη της Πυροσβεστικής",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6826632-768x576.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Γεωργιάδης για τα ράντζα στο «Αττικόν»: Διαχρονικό το πρόβλημα, σε 1,5 χρόνο το ζήτημα θα έχει λυθεί\n",
           "link": "https://www.protothema.gr/greece/article/1765190/georgiadis-gia-ta-radza-sto-attikon-diahroniko-to-provlima-se-15-hrono-to-zitima-tha-ehei-luthei/?utm_source=rss",
           "pubDate": "Thu, 29 Jan 2026 08:36:00 +0200",
@@ -231,22 +247,6 @@
           "description": "Από τον Μάιο αναμένεται να ανοίξει το νέο πρόγραμμα «Ανακαινίζω – Νοικιάζω», το οποίο στοχεύει να αποδεσμεύσει κλειστά ακίνητα και να τονώσει την προσφορά στην ...  \nTo άρθρο «Ανακαινίζω – Νοικιάζω»: Ανοίγει νέος κύκλος – Πότε ξεκινά το πρόγραμμα με επιδότηση μέχρι 90% δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-623682978.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Πόσο πωλείται η χρυσή λίρα – Νέο ρεκόρ τιμής",
-          "link": "https://www.in.gr/2026/01/29/economy/oikonomikes-eidiseis/poso-poleitai-xrysi-lira-neo-rekor-timis/",
-          "pubDate": "Thu, 29 Jan 2026 09:23:10 +0300",
-          "description": "Το ένα μετά το άλλο ρεκόρ καταρρίπτει η χρυσή λίρα - Οι εκτιμήσεις των αναλυτών",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_2701359217-1-768x576.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ιράν: Προετοιμάζουν οι ΗΠΑ νέο χτύπημα; – Τι δείχνουν φωτογραφίες για τις κινήσεις των στρατιωτικών δυνάμεων",
-          "link": "https://www.in.gr/2026/01/29/world/iran-proetoimazoun-oi-ipa-neo-xtypima-ti-deixnoun-fotografies-gia-tis-kiniseis-ton-stratiotikon-dynameon/",
-          "pubDate": "Thu, 29 Jan 2026 09:20:06 +0300",
-          "description": "Οι κινήσεις των αμερικανικών στρατιωτικών δυνάμεων στη Μέση Ανατολή αποτελούν πιο αξιόπιστο δείγμα για τις προθέσεις των ΗΠΑ στο Ιράν από τις δηλώσεις του Ντόναλντ Τραμπ",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/iran-6-768x448.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "15χρονη έμεινε έγκυος από 12χρονο: Πώς αντέδρασαν οι γονείς όταν το έμαθαν",
+          "link": "https://www.gazzetta.gr/plus/2511157/15hroni-emeine-egkyos-apo-12hrono-pos-antedrasan-oi-goneis-otan-emathan",
+          "pubDate": "Thu, 29 Jan 2026 09:38:40 +0200",
+          "description": "Από την εγκυμοσύνη το 2024 μέχρι τη σειρά του TLC το 2026, το πλήρες χρονικό μιας υπόθεσης που σόκαρε και δίχασε τις ΗΠΑ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/resize_5_0.jpg?itok=3Xl90zFq",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Οι βουτιές αυτοθυσίας Γκρέι-Μπάρτλεϊ που έδειξαν ότι η Ένωση θα πάρει το ματς (vid)",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511155/aek-oi-boyties-aytothysias-gkrei-mpartlei-poy",
+          "pubDate": "Thu, 29 Jan 2026 09:36:49 +0200",
+          "description": "Γκρέι και Μπάρτλεϊ κατάθεσαν την ψυχή τους στο παρκέ κόντρα στην Άλμπα για να βοηθήσουν την ΑΕΚ και μια φάση περιγράφει με τον καλύτερο τρόπο όσα έκαναν.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gray23.jpg?itok=aDlSfGOe",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός – Ρόμα: Για τη νίκη παρά τις απουσίες το «τριφύλλι» σε ένα ιστορικό παιχνίδι",
+          "link": "https://www.newsit.gr/athlitika/panathinaikos-roma-gia-ti-niki-para-tis-apousies-to-trifylli-se-ena-istoriko-paixnidi/4586444/",
+          "pubDate": "Thu, 29 Jan 2026 07:35:28 +0000",
+          "description": "Ο Παναθηναϊκός υποδέχεται τη Ρόμα για την τελευταία αγωνιστική της League Phase του Europa League (29/01/26, 22:00, Newsit.gr, Cosmote Sport 3) και θέλει να επαναλάβει ...  \nTo άρθρο Παναθηναϊκός – Ρόμα: Για τη νίκη παρά τις απουσίες το «τριφύλλι» σε ένα ιστορικό παιχνίδι δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/panathinaikos-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Επιστρέφουν στην Ελλάδα οι δύο τραυματίες",
           "link": "https://www.gazzetta.gr/football/europa-league/2511154/paok-dystyhima-sti-roymania-epistrefoyn-stin-ellada-oi-dyo",
           "pubDate": "Thu, 29 Jan 2026 09:32:12 +0200",
@@ -960,30 +984,6 @@
           "pubDate": "Thu, 29 Jan 2026 08:14:42 +0200",
           "description": "Γιατί, τελικά, το να μην κάνεις τίποτα δεν είναι η λύση για το κουρασμένο μας μυαλό.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/bored.jpg?itok=bPwV-sjo",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τα αποτελέσματα του ΝΒΑ στο Gazzetta",
-          "link": "https://www.gazzetta.gr/basketball/nba/2510994/nba-live-sto-gazzetta",
-          "pubDate": "Thu, 29 Jan 2026 08:14:00 +0200",
-          "description": "Δείτε τα αποτελέσματα των 9 αναμετρήσεων του NBA, μέσα από το Gazzetta.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lebron_2.jpg?itok=k7nA85rV",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Kυρίαρχος Γουεμπανιάμα στο ντέρμπι του Τέξας, με κορυφαίο Κάρι οι Γουόριορς (vid)",
-          "link": "https://www.gazzetta.gr/basketball/nba/2511134/kyriarhos-goyempaniama-sto-ntermpi-toy-texas-me-koryfaio-kari-oi-goyoriors",
-          "pubDate": "Thu, 29 Jan 2026 08:09:25 +0200",
-          "description": "Σπερς και Γουόριορς συνέχισαν με νίκες την πορεία τους στο κορυφαίο πρωτάθλημα του πλανήτη.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2024-12/wembanyama_spurs_getty.jpg?itok=d00G6VMZ",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Θησαυρός 20.000 ετών: Το υπόγειο νερό που θα «ξεδιψούσε» την Νέα Υόρκη για 800 χρόνια",
-          "link": "https://www.gazzetta.gr/plus/2510901/thisayros-20000-eton-ypogeio-nero-poy-tha-xedipsoyse-tin-nea-yorki-gia-800-hronia",
-          "pubDate": "Thu, 29 Jan 2026 08:00:00 +0200",
-          "description": "Οι επιστήμονες μιλούν για εύρημα ηλικίας 20.000 ετών με τεράστιες προοπτικές.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/new_york.jpg?itok=WCHNNM04",
           "source": "Gazzetta"
         }
       ]
