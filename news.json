@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T06:45:26.804Z",
+  "lastUpdated": "2026-01-29T06:50:30.118Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,12 +9,36 @@
       "color": "red",
       "articles": [
         {
+          "title": "28χρονος Παλαιστίνιος επιτέθηκε σε ζευγάρι που «σήκωνε» λεφτά από ΑΤΜ στο κέντρο της Αθήνας",
+          "link": "https://www.protothema.gr/greece/article/1765200/28hronos-palaistinios-epitethike-se-zeugari-pou-sikone-lefta-apo-atm-sto-kedro-tis-athinas/?utm_source=rss",
+          "pubDate": "Thu, 29 Jan 2026 08:47:00 +0200",
+          "description": "Ο δράστης χτύπησε 42χρονο με σχοινί που έφερε γάντζους, προκάλεσε φθορές σε ΑΤΜ στη Σταδίου και καταδίωξε το ζευγάρι έως ένα γνωστό ξενοδοχείο του κέντρου",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/police11.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Σταμάτης Φασουλής: Με πείραξε ότι στο καλύτερο πράγμα που είχα να δώσω, μου γύρισαν την πλάτη",
+          "link": "https://www.newsit.gr/lifestyle/stamatis-fasoulis-me-peirakse-oti-sto-kalytero-pragma-pou-eixa-na-doso-mou-gyrisan-tin-plati/4586411/",
+          "pubDate": "Thu, 29 Jan 2026 06:45:59 +0000",
+          "description": "Ο Σταμάτης Φασουλής βρέθηκε καλεσμένος στην εκπομπή «Καλύτερα Αργά» και μίλησε για τη στάση του στον δημόσιο χώρο, τις απόψεις που είχε διατυπώσει σε γνωστούς ...  \nTo άρθρο Σταμάτης Φασουλής: Με πείραξε ότι στο καλύτερο πράγμα που είχα να δώσω, μου γύρισαν την πλάτη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fasoulis-ndp-1200x862.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Το protothema στο Εθνικό Αστεροσκοπείο: Οι «κόκκινες» περιοχές στην Αττική που μπορούν να πλημμυρίσουν στην επόμενη νεροποντή",
           "link": "https://www.protothema.gr/greece/article/1765179/to-protothema-sto-ethniko-asteroskopeio-oi-kokkines-periohes-stin-attiki-pou-boroun-na-plimmurisoun/?utm_source=rss",
           "pubDate": "Thu, 29 Jan 2026 08:44:37 +0200",
           "description": "Η εκπομπή Direct βρέθηκε στην επιχειρησιακή μονάδα Beyond του Εθνικού Αστεροσκοπείου Αθηνών και συνομίλησε  με τον διευθυντή Ερευνών Χάρη Κοντοέ – Τι δείχνουν οι επιστημονικοί χάρτες για τις πιο ευάλωτες γειτονιές της Αττικής",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/direct-asteroskopeio-mak2.jpg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Καλλιθέα: Χωρίς ίχνη κακοποίησης το βρέφος που έχασε τη ζωή του – Η εξήγηση των γονιών του για τη μεταφορά του σε κτηνιατρείο",
+          "link": "https://www.newsit.gr/ellada/kallithea-xoris-ixni-kakopoiisis-to-vrefos-pou-exase-ti-zoi-tou-i-eksigisi-ton-gonion-tou-gia-ti-metafora-tou-se-ktiniatreio/4586409/",
+          "pubDate": "Thu, 29 Jan 2026 06:44:29 +0000",
+          "description": "Μυστήριο καλύπτει τον θάνατο του μόλις επτά ημερών βρέφους τα ξημερώματα της Τετάρτης (28.01.2026) στην Καλλιθέα. Το βρέφος μεταφέρθηκε τις πρωινές ώρες της Τετάρτης από ...  \nTo άρθρο Καλλιθέα: Χωρίς ίχνη κακοποίησης το βρέφος που έχασε τη ζωή του – Η εξήγηση των γονιών του για τη μεταφορά του σε κτηνιατρείο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-525734880-1200x675-1-1.jpg",
+          "source": "NewsIT"
         },
         {
           "title": "Ξεκίνησε η επέλαση της κακοκαιρίας Kristin: Βρέχει ήδη στην Αττική, live η πορεία των καταιγίδων, πορτοκαλί προειδοποίηση από την ΕΜΥ",
@@ -223,30 +247,6 @@
           "description": "Στο νοσοκομείο και σε σοβαρή κατάσταση, νοσηλεύεται από την Τετάρτη (28.01.2026) ένα 16χρονο παιδί από το Μπαγκλαντές που έπεσε θύμα ληστείας και σφοδρού ξυλοδαρμού από ...  \nTo άρθρο Κάτω Πατήσια: Κουκουλοφόροι λήστεψαν και χτύπησαν άγρια 16χρονο – Νοσηλεύεται με πολλαπλά κατάγματα στο ΚΑΤ δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1046447804-1-1200x675.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Στην Ελλάδα σήμερα από τη Ρουμανία οι σοροί των «αετόπουλων» του ΠΑΟΚ, χωρίς απάντηση κρίσιμα ερωτήματα για το τροχαίο",
-          "link": "https://www.protothema.gr/greece/article/1765160/tragodia-sti-roumania-stin-ellada-epanapatrizodai-simera-oi-soroi-ton-thumaton-horis-apadisi-krisima-erotimata/?utm_source=rss",
-          "pubDate": "Thu, 29 Jan 2026 07:14:00 +0200",
-          "description": "Δύο από τους τρεις τραυματίες θα έλθουν και αυτοί σήμερα στην Ελλάδα - Τα πρόσωπα της τραγωδίας",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/maketa-roumania-paok.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Mazda CX-60 Plug-in hybrid Takumi Plus – Δοκιμή: Με αξιώσεις απέναντι στον luxury ανταγωνισμό",
-          "link": "https://www.newsit.gr/auto/mazda-cx-60-plug-in-hybrid-takumi-plus-dokimi-me-aksioseis-apenanti-ston-luxury-antagonismo/4585063/",
-          "pubDate": "Thu, 29 Jan 2026 05:06:00 +0000",
-          "description": "Η Mazda φόρεσε τα καλά της με ένα κοστούμι CX-60 Plug-in hybrid, το οποίο είναι φοδραρισμένο με ποιότητα Takumi Plus. Αυτό το κομψό σύνολο, δεν ...  \nTo άρθρο Mazda CX-60 Plug-in hybrid Takumi Plus – Δοκιμή: Με αξιώσεις απέναντι στον luxury ανταγωνισμό δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mazda-cx-60-plug-in-hybrid-takumi-plus-01.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Δέντρο καταπλάκωσε αυτοκίνητο στο Χολαργό, δείτε φωτογραφίες",
-          "link": "https://www.protothema.gr/greece/article/1765167/dedro-kataplakose-autokinito-sto-holargo-deite-fotografies/?utm_source=rss",
-          "pubDate": "Thu, 29 Jan 2026 07:02:00 +0200",
-          "description": "Ισχυροί οι άνεμοι στην Αττική λόγω της κακοκαιρίας Kristin",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/dentro-mak.jpg",
-          "source": "Πρώτο Θέμα"
         }
       ]
     },
@@ -569,7 +569,7 @@
           "link": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 22:48:52 GMT",
           "description": "State ariline Satena says its aircraft carrying 13 passengers and two crew \"suffered a fatal accident\".",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a666/live/a3a35320-fc92-11f0-be91-9d19f55ba3e3.png",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6987/live/8ddf02a0-fcdd-11f0-9972-d3f265c101c6.jpg",
           "source": "BBC News"
         },
         {
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "Ολυμπιακός: Η Ολλανδή που έμαθε σε μία μέρα συνθήματα των πρωταθλητών Ελλάδας (vid)",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511120/olympiakos-i-ollandi-poy-emathe-se-mia-mera-synthimata-ton",
+          "pubDate": "Thu, 29 Jan 2026 08:45:00 +0200",
+          "description": "Ο Ολυμπιακός γυρίζει στην Ελλάδα με την πρόκριση στις 24 καλύτερες ομάδες, αλλά αφήνει στο Άμστερνταμ μια νέα... φίλη της ομάδας.  ΑΜΣΤΕΡΝΤΑΜ, αποστολή: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ollandi.jpg?itok=WAVSzAS-",
+          "source": "Gazzetta"
+        },
         {
           "title": "Περπάτησε 400 χιλιόμετρα σε 16 μέρες: Το ταξίδι που του άλλαξε τη ζωή",
           "link": "https://www.gazzetta.gr/plus/2511145/perpatise-400-hiliometra-se-16-meres-taxidi-poy-toy-allaxe-ti-zoi",
@@ -976,14 +984,6 @@
           "pubDate": "Thu, 29 Jan 2026 01:03:25 +0200",
           "description": "Παρών στο Άμστερνταμ ο Αντρέ Λουίζ. Ο Βραζιλιάνος εξτρέμ δεν έκρυψε τη χαρά του για την τεράστια πρόκριση του Ολυμπιακού.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/antre_loyiz_1.jpg?itok=ERH2x67d",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Έσε: «Δουλεύουμε πολύ και το αξίζαμε, τώρα έχουμε ένα σημαντικό ματς με την ΑΕΚ»",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511099/ese-doyleyoyme-poly-kai-axizame-tora-ehoyme-ena-simantiko-mats-me",
-          "pubDate": "Thu, 29 Jan 2026 01:01:20 +0200",
-          "description": "Ο σκόρερ της νίκης του Ολυμπιακού επί του Άγιαξ, Σαντιάγο Έσε αναφέρθηκε στη σκληρή δουλειά για να έρθει η πρόκριση.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/hezze3.jpg?itok=VydaKfAP",
           "source": "Gazzetta"
         }
       ]
