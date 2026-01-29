@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T05:15:33.402Z",
+  "lastUpdated": "2026-01-29T05:20:26.867Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κάτω Πατήσια: Κουκουλοφόροι λήστεψαν και χτύπησαν άγρια 16χρονο – Νοσηλεύεται με πολλαπλά κατάγματα στο ΚΑΤ",
+          "link": "https://www.newsit.gr/ellada/kato-patisia-koukouloforoi-listepsan-kai-xtypisan-agria-16xrono-nosileyetai-me-pollapla-katagmata-sto-kat/4586360/",
+          "pubDate": "Thu, 29 Jan 2026 05:14:42 +0000",
+          "description": "Στο νοσοκομείο και σε σοβαρή κατάσταση, νοσηλεύεται από την Τετάρτη (28.01.2026) ένα 16χρονο παιδί από το Μπαγκλαντές που έπεσε θύμα ληστείας και σφοδρού ξυλοδαρμού από ...  \nTo άρθρο Κάτω Πατήσια: Κουκουλοφόροι λήστεψαν και χτύπησαν άγρια 16χρονο – Νοσηλεύεται με πολλαπλά κατάγματα στο ΚΑΤ δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1046447804-1-1200x675.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Στην Ελλάδα σήμερα από τη Ρουμανία οι σοροί των «αετόπουλων» του ΠΑΟΚ, χωρίς απάντηση κρίσιμα ερωτήματα για το τροχαίο",
           "link": "https://www.protothema.gr/greece/article/1765160/tragodia-sti-roumania-stin-ellada-epanapatrizodai-simera-oi-soroi-ton-thumaton-horis-apadisi-krisima-erotimata/?utm_source=rss",
@@ -238,14 +246,6 @@
           "pubDate": "Thu, 29 Jan 2026 06:00:14 +0300",
           "description": "Το Ανώτατο Συμβούλιο Συνεργασίας έρχεται σε μία ρευστή γεωπολιτική κατάσταση, που δεν επιτρέπει, όπως παραδέχονται διπλωμάτες πρωτοβουλίες και ακροβατισμούς.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6050986-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Στα ύψη η ένταση μεταξύ ΗΠΑ και Ιράν – Οι κινήσεις που ζωντανεύουν τον εφιάλτη του πολέμου",
-          "link": "https://www.in.gr/2026/01/29/world/sta-ypsi-entasi-metaksy-ipa-kai-iran-oi-kiniseis-pou-zontaneyoun-ton-efialti-tou-polemou/",
-          "pubDate": "Thu, 29 Jan 2026 06:00:11 +0300",
-          "description": "Η «αρμάδα» του Τραμπ, η επιχείρηση «Midnight Hammer» και οι απειλές του Ιράν για αντίποινα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/21108898-1-768x549.jpg",
           "source": "In.gr"
         }
       ]
@@ -1239,6 +1239,14 @@
       "color": "pink",
       "articles": [
         {
+          "title": "Galaxy Privacy Layer: Η Samsung κάνει την οθόνη «αόρατη» στους γύρω σου",
+          "link": "https://www.techgear.gr/galaxy-privacy-layer-i-samsung-kanei-tin-othoni-aorati-stoys-gyro-soy-47371",
+          "pubDate": "Thu, 29 Jan 2026 07:17:00 +0200",
+          "description": "Φανταστείτε την εξής σκηνή: βρίσκεστε στο μετρό, στριμωγμένοι ανάμεσα σε δεκάδες άλλους επιβάτες, ή περιμένετε στην ουρά σε μια δημόσια υπηρεσία. Κάθε...",
+          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/galaxy-privacy-layer.jpg",
+          "source": "Techgear"
+        },
+        {
           "title": "Το απόλυτο Atari ST remake είναι εδώ, αλλά προορίζεται για ελάχιστους τυχερούς",
           "link": "https://www.techgear.gr/to-apolyto-atari-st-remake-einai-edo-alla-proorizetai-gia-elachistoys-tycheroys-47370",
           "pubDate": "Thu, 29 Jan 2026 07:06:00 +0200",
@@ -1468,14 +1476,6 @@
           "pubDate": "Tue, 27 Jan 2026 22:26:00 +0200",
           "description": "Η OpenAI ανακοίνωσε το Prism, ένα εξειδικευμένο περιβάλλον εργασίας σχεδιασμένο αποκλειστικά για επιστήμονες και ερευνητές. Η νέα αυτή πλατφόρμα ...",
           "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/openai-prism.jpg",
-          "source": "Techgear"
-        },
-        {
-          "title": "Γιατί η Γαλλία καταργεί Teams και Zoom μέχρι το 2027 – Ο φόβος για τα δεδομένα και το σχέδιο Visio",
-          "link": "https://www.techgear.gr/giati-i-gallia-katargei-teams-kai-zoom-mechri-to-2027-o-fovos-gia-ta-dedomena-kai-to-schedio-visio-47351",
-          "pubDate": "Tue, 27 Jan 2026 22:18:00 +0200",
-          "description": "Η γαλλική κυβέρνηση ανακοίνωσε την οριστική της απόφαση να απομακρύνει τις αμερικανικές πλατφόρμες τηλεδιασκέψεων από τον δημόσιο τομέα. Μέχρι το ...",
-          "thumbnail": "https://www.techgear.gr/portal-img/feedimage/37/france-zoom.jpg",
           "source": "Techgear"
         }
       ]
