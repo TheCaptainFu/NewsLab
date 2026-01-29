@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T07:30:31.403Z",
+  "lastUpdated": "2026-01-29T07:35:28.978Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κίνηση στους δρόμους: Πολύ δύσκολος ο Κηφισός, έως 30΄οι καθυστερήσεις στην Αττική Οδό\n",
+          "link": "https://www.protothema.gr/greece/article/1765185/kinisi-stous-dromous-talaiporia-gia-tous-odigous-stis-kedrikes-leoforous-kathusteriseis-eos-30-stin-attiki-odo/?utm_source=rss",
+          "pubDate": "Thu, 29 Jan 2026 09:31:40 +0200",
+          "description": "Δείτε live την κίνηση στους δρόμους",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2025-12-11/250915091633_kifisos-potami-kinisi-2.jpeg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Νέα Υόρκη: Αυτοκίνητο έπεσε σε είσοδο συναγωγής – Συνελήφθη ο οδηγός, κατηγορείται για έγκλημα μίσους",
           "link": "https://www.newsit.gr/kosmos/nea-yorki-aytokinito-epese-se-eisodo-synagogis-synelifthi-o-odigos-katigoreitai-gia-egklima-misous/4586440/",
@@ -20,7 +28,7 @@
           "title": "Τι προκάλεσε τη διαρροή προπανίου στη «Βιολάντα»: Έργα ασφαλτόστρωσης το καλοκαίρι εξετάζονται ως πιθανή αιτία για τη διάτρηση σωληνώσεων",
           "link": "https://www.protothema.gr/greece/article/1765214/ti-prokalese-ti-diarroi-propaniou-sti-violadaerga-asfaltostrosis-to-kalokairi-exetazodai-os-pithani-/?utm_source=rss",
           "pubDate": "Thu, 29 Jan 2026 09:26:00 +0200",
-          "description": "Η Πυροσβεστική έπειτα από επισταμένη έρευνα κατέληξε σε πολύμηνη διαρροή προπάνιου, έλλειψη αισθητήρων και κρίσιμα κενά στους ελέγχους – Τα ερωτήματα που καθορίζουν τις ευθύνες για τον θάνατο των πέντε εργαζομένων γυναικών",
+          "description": "Η Πυροσβεστική έπειτα από επισταμένη έρευνα κατέληξε σε πολύμηνη διαρροή προπάνιου, έλλειψη αισθητήρων και κρίσιμα κενά στους ελέγχους - Τα ερωτήματα που καθορίζουν τις ευθύνες για τον θάνατο των πέντε εργαζομένων γυναικών",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/maketa-violanta.jpg",
           "source": "Πρώτο Θέμα"
         },
@@ -177,14 +185,6 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "Κίνηση στους δρόμους: Ταλαιπωρία για τους οδηγούς στις κεντρικές λεωφόρους - Καθυστερήσεις έως 30΄ στην Αττική Οδό\n",
-          "link": "https://www.protothema.gr/greece/article/1765185/kinisi-stous-dromous-talaiporia-gia-tous-odigous-stis-kedrikes-leoforous-kathusteriseis-eos-30-stin-attiki-odo/?utm_source=rss",
-          "pubDate": "Thu, 29 Jan 2026 08:30:00 +0200",
-          "description": "Δείτε live την κίνηση στους δρόμους",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpeg/files/2025-12-11/250915091633_kifisos-potami-kinisi-2.jpeg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
           "title": "Ο Αντρέ Λουίζ ενθουσιασμένος με την πρόκριση του Ολυμπιακού: «Εντυπωσιακή η παρουσία του κόσμου»",
           "link": "https://www.newsit.gr/athlitika/o-antre-louiz-enthousiasmenos-me-tin-prokrisi-tou-olympiakou-entyposiaki-i-parousia-tou-kosmou/4586402/",
           "pubDate": "Thu, 29 Jan 2026 06:29:02 +0000",
@@ -207,6 +207,14 @@
           "description": "Αναστάτωση προκάλεσε στους τηλεθεατές, η μετεωρολόγος του ΒΒC, Λίζι Ριζίνι το βράδυ της περασμένης Τρίτης (27.01.2026). Η μετεωρολόγος εμφανίστηκε για ακόμη μία φορά στα στούντιο ...  \nTo άρθρο Μετεωρολόγος του BBC έκλεψε την παράσταση με την εμφάνισή της – Δείτε βίντεο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/metewrologos-bbc.jpg",
           "source": "NewsIT"
+        },
+        {
+          "title": "Ολυμπιακός – Μπαρτσελόνα: Σπουδαίο παιχνίδι στο ΣΕΦ με… φόντο την τετράδα",
+          "link": "https://www.in.gr/2026/01/29/sports/basketball/euroleague/kontra-stin-mpartselona-me-fonto-tin-tetrada-o-olympiakos/",
+          "pubDate": "Thu, 29 Jan 2026 09:27:22 +0300",
+          "description": "Ο Ολυμπιακός αντιμετωπίζει την Μπαρτσελόνα στο Στάδιο Ειρήνης και Φιλίας, θέλοντας να ξεπεράσει τη Ρεάλ Μαδρίτης και να αναρριχηθεί στην πρώτη τετράδα.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6821632-768x512.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Γρηγόρης Αρναούτογλου: Πέθανε η μητέρα του – «Ταλαιπωρήθηκες πολύ» γράφει ο παρουσιαστής στη σπαρακτική του ανάρτηση",
@@ -239,14 +247,6 @@
           "description": "Οι κινήσεις των αμερικανικών στρατιωτικών δυνάμεων στη Μέση Ανατολή αποτελούν πιο αξιόπιστο δείγμα για τις προθέσεις των ΗΠΑ στο Ιράν από τις δηλώσεις του Ντόναλντ Τραμπ",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/iran-6-768x448.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "ΦΠΑ: Υστερούμε σε εισπράξεις – Υψηλοί συντελεστές, εξαιρέσεις και το βάρος στους ευάλωτους",
-          "link": "https://www.newsit.gr/oikonomia/finance/fpa-ysteroume-se-eisprakseis-ypsiloi-syntelestes-eksaireseis-kai-to-varos-stous-eyalotous/4586385/",
-          "pubDate": "Thu, 29 Jan 2026 06:18:21 +0000",
-          "description": "Η εικόνα του ΦΠΑ στην Ελλάδα διαμορφώνεται από απώλειες εσόδων, εκτεταμένες εξαιρέσεις και υψηλούς συντελεστές, με το μεγαλύτερο βάρος να μεταφέρεται στους οικονομικά πιο ευάλωτους ...  \nTo άρθρο ΦΠΑ: Υστερούμε σε εισπράξεις – Υψηλοί συντελεστές, εξαιρέσεις και το βάρος στους ευάλωτους δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/11/istock-2046022786-3-1200x900.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -533,6 +533,14 @@
           "source": "Euronews"
         },
         {
+          "title": "What could happen if the US strikes Iran? Here are seven scenarios",
+          "link": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 29 Jan 2026 06:43:49 GMT",
+          "description": "From regime change to retaliation, the BBC's Frank Gardner outlines possible outcomes of US strikes on Iran.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e76/live/adda0e50-fce3-11f0-a8b8-bdd2c5f9bcad.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Γαλλία: Η Γερουσία μπλοκάρει τη νομιμοποίηση της υποβοηθούμενης ευθανασίας",
           "link": "http://gr.euronews.com/2026/01/29/gallia-h-geroysia-mplokarei-th-nomimopoihsh-ths-ypoboh8oymenhs-ey8anasias",
           "pubDate": "Thu, 29 Jan 2026 07:39:37 +0100",
@@ -555,6 +563,14 @@
           "description": "Η Ευρώπη βλέπει τους ειδικούς της σε θέματα τεχνητής νοημοσύνης να μετακινούνται στο εξωτερικό. Ακόμη και με ισχυρά πανεπιστήμια και κορυφαία έρευνα, η ΕΕ δυσκολεύεται να μετατρέψει αυτά τα πλεονεκτήματα σε παγκόσμια ηγετική θέση στην ΤΝ.",
           "thumbnail": null,
           "source": "Euronews"
+        },
+        {
+          "title": "China executes 11 members of Myanmar scam mafia",
+          "link": "https://www.bbc.com/news/articles/cx2gdrvy9gjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 29 Jan 2026 06:30:35 GMT",
+          "description": "China executes 11 members of the Ming family that ran scam centres in Myanmar, state media report.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afe/live/d388f680-fcc9-11f0-8c17-af6eecf9fb6e.jpg",
+          "source": "BBC News"
         },
         {
           "title": "Ευρωπαϊκή Ένωση: 650 εκατ. ευρώ για αναβάθμιση δικτύων ηλεκτρισμού και υδρογόνου",
@@ -685,14 +701,6 @@
           "source": "Euronews"
         },
         {
-          "title": "Iran's internet is returning - but not for everyone",
-          "link": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 17:54:08 GMT",
-          "description": "The country cut off internet access on 8 January following a government crackdown on protesters.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff96/live/71eb3020-fc4f-11f0-9aca-0d1869acdee8.jpg",
-          "source": "BBC News"
-        },
-        {
           "title": "Μακρόν: Η κρίση με τις ΗΠΑ για τη Γροιλανδία ήταν ένα στρατηγικό καμπανάκι για την Ευρώπη",
           "link": "http://gr.euronews.com/2026/01/28/makron-h-krish-me-tis-hpa-gia-th-groilandia-htan-ena-strathgiko-kampanaki-gia-thn-eyrwph",
           "pubDate": "Wed, 28 Jan 2026 18:49:48 +0100",
@@ -731,14 +739,6 @@
           "description": "The BBC speaks to a person who was aboard a train on which five people died after it was targeted by drones.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a5/live/6fdca200-fc7c-11f0-9972-d3f265c101c6.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Η καμπάνια που αποκαλύπτει τα παιδιά της ιρανικής ελίτ που ζουν στη Δύση",
-          "link": "http://gr.euronews.com/2026/01/28/h-kampania-poy-apokalyptei-ta-paidia-ths-iranikhs-elit-poy-zoyn-sth-dysh",
-          "pubDate": "Wed, 28 Jan 2026 17:47:15 +0100",
-          "description": "Το χάσμα ανάμεσα στην επίσημη ιδεολογία της Ισλαμικής Δημοκρατίας και τον τρόπο ζωής της άρχουσας τάξης",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
@@ -746,6 +746,14 @@
       "title": "ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE",
       "color": "green",
       "articles": [
+        {
+          "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Επιστρέφουν στην Ελλάδα οι δύο τραυματίες",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511154/paok-dystyhima-sti-roymania-epistrefoyn-stin-ellada-oi-dyo",
+          "pubDate": "Thu, 29 Jan 2026 09:32:12 +0200",
+          "description": "Με αεροσκάφος του ΕΚΑΒ επιστρέφουν σήμερα στην Ελλάδα δύο εκ των τριών τραυματιών μετά το πολύνεκρο τροχαίο στη Ρουμανία.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_1_2.jpg?itok=SfczxHnz",
+          "source": "Gazzetta"
+        },
         {
           "title": "Σαν Σήμερα: Γεννήθηκε ο τελευταίος πρωταθλητής της Ferrari πριν τον Σουμάχερ (vid)",
           "link": "https://www.gazzetta.gr/gmotion/2511085/291-san-simera-gennithike-o-teleytaios-protathlitis-tis-ferrari-prin-ton-soymaher",
@@ -977,14 +985,6 @@
           "description": "Οι επιστήμονες μιλούν για εύρημα ηλικίας 20.000 ετών με τεράστιες προοπτικές.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/new_york.jpg?itok=WCHNNM04",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Αθλητικές μεταδόσεις με Παναθηναϊκό και ΠΑΟΚ για το Europa League και Ολυμπιακός – Μπαρτσελόνα για τη Euroleague",
-          "link": "https://www.newsit.gr/athlitika/athlitikes-metadoseis-me-panathinaiko-kai-paok-gia-to-europa-league-kai-olympiakos-mpartselona-gia-ti-euroleague/4586370/",
-          "pubDate": "Thu, 29 Jan 2026 05:56:10 +0000",
-          "description": "Στις αθλητικές μεταδόσεις της ημέρας ξεχωρίζουν τα παιχνίδια του Παναθηναϊκού με τη Ρόμα και του ΠΑΟΚ στην έδρα της Λιόν για την τελευταία αγωνιστική της ...  \nTo άρθρο Αθλητικές μεταδόσεις με Παναθηναϊκό και ΠΑΟΚ για το Europa League και Ολυμπιακός – Μπαρτσελόνα για τη Euroleague δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/zaroury-1-1200x798.jpg",
-          "source": "NewsIT"
         }
       ]
     },
