@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T08:20:26.961Z",
+  "lastUpdated": "2026-01-29T08:25:26.853Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -9,9 +9,17 @@
       "color": "red",
       "articles": [
         {
-          "title": "Live από την Τιμισοάρα, το αεροπλάνο του ΕΚΑΒ παραλαμβάνει τους τραυματίες οπαδούς του ΠΑΟΚ για να τους φέρει πίσω στην Ελλάδα",
+          "title": "Ο ιδιοκτήτης της Βιολάντα παραδέχτηκε τη μυρωδιά αερίου αλλά νόμιζε ότι ήταν από την αποχέτευση\n",
+          "link": "https://www.protothema.gr/greece/article/1765255/o-idioktitis-tis-violada-paradehtike-ti-murodia-aeriou-alla-nomize-oti-itan-apo-tin-apoheteusi/?utm_source=rss",
+          "pubDate": "Thu, 29 Jan 2026 10:23:18 +0200",
+          "description": "Εργαζόμενοι του εργοστασίου κατέθεσαν ότι είχαν μυρίσει την αχνή μυρωδιά του αερίου πριν τη φονική έκρηξη και είχαν ενημερώσει σχετικά τους προϊσταμένους τους - Πολύμηνη η διαρροή του προπάνιου, από τι προκλήθηκε",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/violanta12.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Live από Τιμισοάρα: Το αεροπλάνο του ΕΚΑΒ παραλαμβάνει τους τραυματίες οπαδούς του ΠΑΟΚ για να τους φέρει πίσω στην Ελλάδα",
           "link": "https://www.protothema.gr/greece/article/1765160/tragodia-sti-roumania-stin-ellada-epanapatrizodai-simera-oi-soroi-ton-thumaton-horis-apadisi-krisima-erotimata/?utm_source=rss",
-          "pubDate": "Thu, 29 Jan 2026 10:18:18 +0200",
+          "pubDate": "Thu, 29 Jan 2026 10:18:00 +0200",
           "description": "Το απόγευμα επιστρέφουν και οι σοροί των αετόπουλων - Τα πρόσωπα της τραγωδίας - Ο ΠΑΟΚ στον αγώνα με τον Πανσεραϊκό θα τιμήσει τους αδικοχαμένους οπαδούς του",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-28/maketa-roumania-paok.jpg",
           "source": "Πρώτο Θέμα"
@@ -173,7 +181,7 @@
           "link": "https://www.in.gr/2026/01/29/apopsi/polymini-diarroi-polynekri-tragodia/",
           "pubDate": "Thu, 29 Jan 2026 10:19:36 +0300",
           "description": "Οι ζωές των εργαζομένων και δη των εργατών και των εργατριών, αξίζουν. Κι ας λογίζονται ως αναλώσιμοι ή αόρατοι από κάποιους. Κι ας μην κυματίζουν γι’αυτες και γι’αυτούς μεσίστιες οι σημαίες.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827016-768x512.jpg",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6826214-768x512.jpg",
           "source": "In.gr"
         },
         {
@@ -239,14 +247,6 @@
           "description": "Με βροχές, καταιγίδες και ανέμους έκανε την εμφάνισή της σήμερα (29.01.2026) η κακοκαιρία Kristin, η οποία αναμένεται να διαρκέσει 24 ώρες και να χτυπήσει 8 ...  \nTo άρθρο Η κακοκαιρία Kristin χτυπά για 24 ώρες με καταιγίδες Αττική, Ιόνιο και άλλες 6 περιοχές: Νέα επιδείνωση από το Σαββατοκύριακο δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kataigides-kairos-eurok-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Το μήνυμα του Ροντινέι: «Συνεχίζουμε να γράφουμε ιστορία, το καλύτερο δώρο για τα γενέθλιά μου»",
-          "link": "https://www.in.gr/2026/01/29/sports/football/champions-league/rontinei-synexizoume-na-grafoume-istoria-to-kalytero-doro-gia-ta-genethlia-mou/",
-          "pubDate": "Thu, 29 Jan 2026 10:01:59 +0300",
-          "description": "Ο Ροντινέι έστειλε το δικό του μήνυμα στα social media, ενώ τόνισε ότι η πρόκριση στα νοκ-άουτ ήταν το καλύτερο δώρο για τα γενέθλιά του.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828681-768x512.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "«Κίμων»: Η νέα ελληνική φρεγάτα Belharra ετοιμάζεται για την άφιξη της Γαλλίδας ΥΠΑΜ Καθρίν Βοτρίν και του ΥΕΘΑ Νίκου Δένδια",
+          "link": "https://www.tanea.gr/2026/01/29/politics/kimon-i-nea-elliniki-fregata-belharra-etoimazetai-gia-tin-afiksi-tis-gallidas-ypam-kathrin-votrin-kai-tou-yetha-nikou-dendia/",
+          "pubDate": "Thu, 29 Jan 2026 08:20:11 +0000",
+          "description": "Όλα είναι έτοιμα στον Ναύσταθμο Σαλαμίνας για την άφιξη της Υπουργού Ενόπλων Δυνάμεων της Γαλλίας, Κατρίν Βοτρίν, η οποία πραγματοποιεί σήμερα επίσημη επίσκεψη στη χώρα μας για να συναντηθεί με τον Υπουργό Εθνικής Άμυνας, Νίκο Δένδια. ​Το σκηνικό της συνάντησης είναι άκρως συμβολικό, καθώς η υποδοχή και οι συνομιλίες έχουν προγραμματιστεί να λάβουν χώρα επί […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6829093-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Σήμερα ξεκινούν οι εργασίες του 22ου Συνεδρίου του ΚΚΕ",
           "link": "https://www.tanea.gr/2026/01/29/politics/simera-ksekinoyn-oi-ergasies-toy-22oy-synedrioy-toy-kke/",
@@ -483,14 +491,6 @@
           "link": "https://www.naftemporiki.gr/politics/2065051/tsiaras-o-emvoliasmos-den-synepagetai-aparaitita-ti-mi-thanatosi-zoon-kyvernitiki-apofasi-i-enischysi-ton-metron-vioasfaleias/?utm_source=rss&utm_medium=rss&utm_campaign=tsiaras-o-emvoliasmos-den-synepagetai-aparaitita-ti-mi-thanatosi-zoon-kyvernitiki-apofasi-i-enischysi-ton-metron-vioasfaleias",
           "pubDate": "Wed, 28 Jan 2026 13:20:38 +0000",
           "description": "«Η εθνική στρατηγική για τη χώρα είναι να ενισχύσουμε τα μέτρα βιοασφάλειας και να κλείσουμε τον κύκλο ουσιαστικά της ευλογιάς χωρίς να καταφεύγουμε στον εμβολιασμό», σημείωσε, μεταξύ άλλων ο Υπουργός…\nΤσιάρας: Ο εμβολιασμός δεν συνεπάγεται απαραίτητα τη μη θανάτωση ζώων – Κυβερνητική απόφαση η ενίσχυση των μέτρων βιοασφάλειας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Πυρά ΣΥΡΙΖΑ κατά Π. Μαρινάκη με αιχμή τις δηλώσεις του για την τραγωδία στα Τρίκαλα",
-          "link": "https://www.naftemporiki.gr/politics/2065041/pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala/?utm_source=rss&utm_medium=rss&utm_campaign=pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala",
-          "pubDate": "Wed, 28 Jan 2026 13:06:35 +0000",
-          "description": "Πυρά κατά του κυβερνητικού εκπροσώπου με αιχμή τη δήλωσή του ότι το τραγικό δυστύχημα στα Τρίκαλα «δεν ακουμπάει θέματα εργασίας» εξαπολύει ο ΣΥΡΙΖΑ.\nΠυρά ΣΥΡΙΖΑ κατά Π. Μαρινάκη με αιχμή τις δηλώσεις του για την τραγωδία στα Τρίκαλα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Πορτοσάλτε για Ολυμπιακό: «Σκέφτηκα ότι πρέπει να πω συγχαρητήρια...» (vid)",
+          "link": "https://www.gazzetta.gr/plus/2511166/portosalte-gia-olympiako-skeftika-oti-prepei-na-po-sygharitiria-vid",
+          "pubDate": "Thu, 29 Jan 2026 10:22:53 +0200",
+          "description": "Ο Άρης Πορτοσάλτε σχολίασε την επική πρόκριση του Ολυμπιακού στα νοκ-άουτ του Champions League.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/untitled_design_26_0.jpg?itok=uBNnMHgQ",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Αντρέ Λουίζ από τη Ρίο Άβε",
           "link": "https://www.newsit.gr/athlitika/o-olympiakos-anakoinose-tin-apoktisi-tou-antre-louiz-apo-ti-rio-ave/4586499/",
           "pubDate": "Thu, 29 Jan 2026 08:16:26 +0000",
@@ -803,7 +811,7 @@
           "source": "NewsIT"
         },
         {
-          "title": "Χαμός σε πορτογαλικό κανάλι με το γκολ του τερματοφύλακα της Μπενφίκα: Τρόμαξε ο παρουσιαστής (vid)",
+          "title": "Χαμός σε πορτογαλικό κανάλι με το γκολ του τερματοφύλακα της Μπενφίκα: Τρόμαξε ο καλεσμένος!  (vid)",
           "link": "https://www.gazzetta.gr/football/champions-league/2511160/hamos-se-portogaliko-kanali-me-gkol-toy-termatofylaka-tis",
           "pubDate": "Thu, 29 Jan 2026 09:54:18 +0200",
           "description": "Εκπομπή στην Πορτογαλία διέκοψε τη ζωντανή ροή του προγράμματος της, για να πανηγυρίσουν οι συντελεστές το γκολ -πρόκριση της Μπενφίκα στο Champions League.",
@@ -976,14 +984,6 @@
           "pubDate": "Thu, 29 Jan 2026 08:41:52 +0200",
           "description": "Ο 23χρονος Γιανίς ξεκίνησε από τη Νανσί με ένα σακίδιο 15 κιλών, έφτασε στο Παρίσι με αλλαγμένη κοσμοθεωρία και γύρισε με μια ιστορία ζωής.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/yanis.jpg?itok=NugFr86U",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Oλυμπιακός: Για την 5η σερί νίκη απέναντι στη Μπαρτσελόνα",
-          "link": "https://www.gazzetta.gr/basketball/euroleague/2511144/olympiakos-gia-tin-5i-seri-niki-apenanti-sti-mpartselona",
-          "pubDate": "Thu, 29 Jan 2026 08:40:10 +0200",
-          "description": "Ο Ολυμπιακός κοντράρεται με τη Μπαρτσελόνα (21:15, Νovasports Prime) στο ΣΕΦ και θέλει να συνεχίσει με νίκη στη Euroleague.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vezenkov_eurokinissi.jpg?itok=YGsic4Bo",
           "source": "Gazzetta"
         }
       ]
