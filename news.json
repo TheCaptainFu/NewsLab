@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T07:00:37.055Z",
+  "lastUpdated": "2026-01-29T07:05:25.694Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -153,6 +153,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "«Είμαι μητέρα όλη την ενήλικη ζωή μου» – Η Κέιτ Χάντσον σχολιάζει το ότι έκανε πολύ νωρίς παιδιά",
+          "link": "https://www.in.gr/2026/01/29/go-fun/fizz/eimai-mitera-oli-tin-eniliki-zoi-mou-keit-xantson-sxoliazei-oti-ekane-poly-noris-paidia/",
+          "pubDate": "Thu, 29 Jan 2026 09:00:13 +0300",
+          "description": "«Είμαι μητέρα από τα 23 μου — γέννησα τον μεγαλύτερο γιο μου, Ράιντερ, πολύ νέα και είχα παιδιά όλη μου την ενήλικη ζωή — και τώρα η κόρη μου έγινε 6 ετών και είναι η πρώτη φορά που δεν έχω ένα πολύ μικρό παιδί και μπορώ να αφοσιωθώ στην καριέρα μου» δήλωσε η Χάντσον.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/FotoJet-3-3-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Συνταγή για σουφλέ σπανάκι με κίτρινα τυριά",
           "link": "https://www.newsit.gr/tasteit/syntagi-gia-soufle-spanaki-me-kitrina-tyria/4572032/",
           "pubDate": "Thu, 29 Jan 2026 06:00:00 +0000",
@@ -239,14 +247,6 @@
           "description": "Το πρώτο crash test για την αποδοχή ή όχι από την αντιπολίτευση, των αλλαγών στον εκλογικό νόμο γίνεται σήμερα, στην άτυπη Διακομματική Επιτροπή που συγκαλεί ...  \nTo άρθρο Τα κόμματα στα οποία ποντάρει η ΝΔ για την επιστολική ψήφο και τις τρεις έδρες στους απόδημους στις εκλογές του 2027 δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vouli-eurok-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Βιολάντα: «Υπάρχουν παιδιά που δεν ξέρουν ότι χάθηκε η μητέρα τους» – Μαρτυρίες ψυχολόγων για τις οικογένειες των θυμάτων της έκρηξης",
-          "link": "https://www.newsit.gr/ellada/violanta-yparxoun-paidia-pou-den-kseroun-oti-xathike-i-mitera-tous-martyries-psyxologon-gia-tis-oikogeneies-ton-thymaton-tis-ekriksis/4586358/",
-          "pubDate": "Thu, 29 Jan 2026 05:31:00 +0000",
-          "description": "Σκηνές αρχαίας τραγωδίας στα σπίτια των 5 γυναικών που σκοτώθηκαν στη φονική έκρηξη που έγινε στο εργοστάσιο της Βιολάντα. Τα Τρίκαλα θρηνούν τον χαμό των ...  \nTo άρθρο Βιολάντα: «Υπάρχουν παιδιά που δεν ξέρουν ότι χάθηκε η μητέρα τους» – Μαρτυρίες ψυχολόγων για τις οικογένειες των θυμάτων της έκρηξης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/violanta-r-17-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -254,6 +254,14 @@
       "title": "ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)",
       "color": "purple",
       "articles": [
+        {
+          "title": "Σήμερα ξεκινούν οι εργασίες του 22ου Συνεδρίου του ΚΚΕ",
+          "link": "https://www.tanea.gr/2026/01/29/politics/simera-ksekinoyn-oi-ergasies-toy-22oy-synedrioy-toy-kke/",
+          "pubDate": "Thu, 29 Jan 2026 07:03:27 +0000",
+          "description": "Με το σύνθημα «ΚΚΕ δυνατό, σταθερό, έτοιμο για τον Σοσιαλισμό», ξεκινά το 22ο Συνέδριο του ΚΚΕ, που θα διαρκέσει ως 31 Ιανουαρίου. Οι εργασίες διεξάγονται στον Περισσό, με την ομιλία του Δημήτρη Κουτσούμπα.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/perissos-kke-1-1200x675-1-1024x576.jpg",
+          "source": "Τα Νέα"
+        },
         {
           "title": "Ελληνογαλλική συμμαχία «εν πλω» – Στη φρεγάτα «ΚΙΜΩΝ» το τετ α τετ Δένδια με την Γαλλίδα ομόλογό του",
           "link": "https://www.naftemporiki.gr/politics/2065286/ellinogalliki-symmachia-en-plo-sti-fregata-kimon-to-tet-a-tet-dendia-me-tin-gallida-omologo-toy/?utm_source=rss&utm_medium=rss&utm_campaign=ellinogalliki-symmachia-en-plo-sti-fregata-kimon-to-tet-a-tet-dendia-me-tin-gallida-omologo-toy",
@@ -483,14 +491,6 @@
           "link": "https://www.naftemporiki.gr/politics/2065041/pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala/?utm_source=rss&utm_medium=rss&utm_campaign=pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala",
           "pubDate": "Wed, 28 Jan 2026 13:06:35 +0000",
           "description": "Πυρά κατά του κυβερνητικού εκπροσώπου με αιχμή τη δήλωσή του ότι το τραγικό δυστύχημα στα Τρίκαλα «δεν ακουμπάει θέματα εργασίας» εξαπολύει ο ΣΥΡΙΖΑ.\nΠυρά ΣΥΡΙΖΑ κατά Π. Μαρινάκη με αιχμή τις δηλώσεις του για την τραγωδία στα Τρίκαλα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Π. Μαρινάκης: Οι μεγαλύτεροι πολιτικοί απατεώνες κάνουν «καριέρα» πάνω σε τραγωδίες",
-          "link": "https://www.naftemporiki.gr/politics/2065004/p-marinakis-oi-megalyteroi-politikoi-apateones-kanoyn-kariera-pano-se-tragodies/?utm_source=rss&utm_medium=rss&utm_campaign=p-marinakis-oi-megalyteroi-politikoi-apateones-kanoyn-kariera-pano-se-tragodies",
-          "pubDate": "Wed, 28 Jan 2026 12:51:31 +0000",
-          "description": "Για τις εξελίξεις γύρω από τη φονική έκρηξη στο εργοστάσιο της «Βιολάντα» στα Τρίκαλα, αλλά και για τη συζήτηση που άνοιξε αναφορικά με τα εργατικά δυστυχήματα στη χώρα μας τοποθετήθηκε…\nΠ. Μαρινάκης: Οι μεγαλύτεροι πολιτικοί απατεώνες κάνουν «καριέρα» πάνω σε τραγωδίες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
@@ -747,6 +747,30 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Πρόκριση, αλλά και πρόγραμμα βουνό",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511106/olympiakos-prokrisi-alla-kai-programma-boyno",
+          "pubDate": "Thu, 29 Jan 2026 09:00:37 +0200",
+          "description": "Βουνό το πρόγραμμα του Ολυμπιακού μετά την πρόκριση.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/olympiakos_3_0.jpg?itok=e86U22BU",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μπράουν στο Gazzetta: «Αγαπώ τον Σάκοτα, θέλω να πάω στο ποδοσφαιρικό γήπεδο της ΑΕΚ»",
+          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511133/mpraoyn-sto-gazzetta-agapo-ton-sakota-thelo-na-pao",
+          "pubDate": "Thu, 29 Jan 2026 09:00:10 +0200",
+          "description": "Ο Γκρεγκ Μπράουν μίλησε στο Gazzetta μετά το ντεμπούτο του και αποθέωσε τον Σάκοτα, ενώ αναφέρθηκε και στην επίσκεψη της ποδοσφαιρικής ομάδας της ΑΕΚ στη SUNEL Arena.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/2323.jpg?itok=K4U2_I-n",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Ο γιος του Βύντρα και ο αδερφός του Καλοσκάμη πρώτη φορά στην αποστολή",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511037/panathinaikos-o-gios-toy-byntra-kai-o-aderfos-toy-kaloskami-proti",
+          "pubDate": "Thu, 29 Jan 2026 09:00:00 +0200",
+          "description": "Ο Ράφα Μπενίτεθ συμπεριέλαβε στην αποστολή του αγώνα με την Ρόμα για πρώτη φορά τους νεαρούς Νεκτάριο Καλοσκάμη, Άγγελο Βύντρα και Ιάσωνα Σκαρλατίδη.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/vyntra_aggelos_intime.jpg?itok=2VniEmD5",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ροντινέι: «Συνεχίζουμε να γράφουμε ιστορία, δώρο γενεθλίων η πρόκριση στο Champions League»",
           "link": "https://www.newsit.gr/athlitika/rontinei-synexizoume-na-grafoume-istoria-doro-genethlion-i-prokrisi-sto-champions-league/4586427/",
           "pubDate": "Thu, 29 Jan 2026 06:56:57 +0000",
@@ -961,30 +985,6 @@
           "description": "O Βαγγέλης Παυλίδης... τρελάθηκε με την απίθανη πρόκριση και στις επόμενες προπονήσεις θα ζητήσει τη βοήθεια του Τρούμπιν για τις κεφαλιές.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pavlidis_benfica_1.jpg?itok=EueN-q4Q",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Βαθμολογία UEFA: Η Ελλάδα απειλεί την Τσεχία και κάνει όνειρα για 10άδα μετά την πρόκριση του Ολυμπιακού",
-          "link": "https://www.newsit.gr/athlitika/vathmologia-uefa-i-ellada-apeilei-tin-tsexia-kai-kanei-oneira-gia-10ada-meta-tin-prokrisi-tou-olympiakou/4586312/",
-          "pubDate": "Wed, 28 Jan 2026 23:17:27 +0000",
-          "description": "Η Ελλάδα συνέχισε την ανοδική πορεία της στη βαθμολογία της UEFA μετά τη θριαμβευτική πρόκριση του Ολυμπιακού στα πλέι οφ του Champions League. H χώρα ...  \nTo άρθρο Βαθμολογία UEFA: Η Ελλάδα απειλεί την Τσεχία και κάνει όνειρα για 10άδα μετά την πρόκριση του Ολυμπιακού δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-sipioni-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Μαρτίνς: «Η ομάδα δεν τα παρατάει ποτέ, κάναμε το ιδανικό παιχνίδι»",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511102/martins-i-omada-den-ta-parataei-pote-kaname-idaniko-paihnidi",
-          "pubDate": "Thu, 29 Jan 2026 01:08:22 +0200",
-          "description": "Ο Ολυμπιακός κατάφερε μία μεγάλη ακόμη επιτυχία και ο Ζέλσον Μαρτίνς εμφάνιστηκε στις δηλώσεις απόλυτα ικανοποιημένος και χαρούμενος με την προσπάθεια της ομάδας.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/image_14.jpg?itok=C7GZtZUX",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μεντιλίμπαρ για την πρόκριση του Ολυμπιακού: «Δεν υπάρχει κάποιο μαγικό, τα αποτελέσματα έρχονται με τη δουλειά»",
-          "link": "https://www.newsit.gr/athlitika/mentilimpar-gia-tin-prokrisi-tou-olympiakou-den-yparxei-kapoio-magiko-ta-apotelesmata-erxontai-me-ti-douleia/4586313/",
-          "pubDate": "Wed, 28 Jan 2026 23:07:22 +0000",
-          "description": "Ο Ολυμπιακός πανηγύρισε μία τεράστια νίκη με 2-1 επί του Άγιαξ και τερμάτισε στην 18η θέση του Champions League. Ο Μεντιλίμπαρ στις δηλώσεις του ανέφερε ...  \nTo άρθρο Μεντιλίμπαρ για την πρόκριση του Ολυμπιακού: «Δεν υπάρχει κάποιο μαγικό, τα αποτελέσματα έρχονται με τη δουλειά» δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mendilibar-6-1200x799.jpg",
-          "source": "NewsIT"
         }
       ]
     },
