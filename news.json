@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T01:00:36.368Z",
+  "lastUpdated": "2026-01-29T01:05:27.079Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Just Eat: Λανσάρει βοηθό με τεχνητή νοημοσύνη για παραγγελίες φαγητού",
+          "link": "https://www.in.gr/2026/01/29/in-science/ai/just-eat-lansarei-voitho-texniti-noimosyni-gia-paraggelies-fagitou/",
+          "pubDate": "Thu, 29 Jan 2026 03:03:42 +0300",
+          "description": "Το Just Eat φέρνει στην εφαρμογή του έναν φωνητικό βοηθό με τεχνητή νοημοσύνη που προτείνει γεύματα ανάλογα με τη διάθεσή σας",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/jon-tyson-UuzUfw4qepk-unsplash-768x512.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Γάζα: Δέκα χώρες καλούν το Ισραήλ να επιτρέψει «ανεμπόδιστη» είσοδο της ανθρωπιστικής βοήθειας",
           "link": "https://www.in.gr/2026/01/29/world/gaza-deka-xores-kaloun-israil-na-epitrepsei-anempodisti-eisodo-tis-anthropistikis-voitheias/",
@@ -239,14 +247,6 @@
           "description": "Ο αλύγιστος Ολυμπιακός δεν επηρεάστηκε από το γκολ ισοφάρισης του Άγιαξ και πήρε εκ νέου το προβάδισμα στην Ολλανδία με τον Έσε. Στο 79ο λεπτό ...  \nTo άρθρο Άγιαξ – Ολυμπιακός: Το γκολ του Έσε για το 1-2 δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ese-olympiacos-1200x800.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Ολυμπιακός: Έτσι πανηγύρισαν οι ερυθρόλευκοι τη σπουδαία πρόκριση –  Στα αποδυτήρια και ο Κωστούλας! (vid)",
-          "link": "https://www.in.gr/2026/01/29/sports/football/olympiakos-etsi-panigyrisan-oi-erythroleykoi-ti-spoudaia-prokrisi-sta-apodytiria-kai-o-kostoulas-vid/",
-          "pubDate": "Thu, 29 Jan 2026 00:45:41 +0300",
-          "description": "Γιορτινό σκηνικό στήθηκε στα αποδυτήρια του Ολυμπιακού μετά την ιστορική νίκη στην Ολλανδία, που σήμανε μεγάλη πρόκριση στην επόμενη φάση του Champions League. «Παρών» και ο Μπάμπης Κωστούλας!",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828974-768x554.jpg",
-          "source": "In.gr"
         }
       ]
     },
