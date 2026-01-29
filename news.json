@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T04:55:26.493Z",
+  "lastUpdated": "2026-01-29T05:00:38.561Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Πορτοκαλί προειδοποίηση από την ΕΜΥ για την κακοκαιρία «Kristin»: Καταιγίδες, ισχυροί άνεμοι και χαλάζι, επηρεάζεται και η Αττική",
+          "link": "https://www.protothema.gr/greece/article/1765150/kuma-kakokairias-me-kataigides-tin-pebti-se-poies-periohes-tha-einai-edona-ta-fainomena/?utm_source=rss",
+          "pubDate": "Thu, 29 Jan 2026 06:56:41 +0200",
+          "description": "Σε ποιές περιοχές θα είναι έντονα τα φαινόμενα - Τι αναφέρει το έκτακτο δελτίο της ΕΜΥ - Νέο κύμα κακοκαιρίας περιμένουμε το Σαββατοκύριακο",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/kakokairia_29.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Καιρός: Σε πορτοκαλί συναγερμό για την επιδείνωση με καταιγίδες με ισχυρούς ανέμους – Βροχές το μεσημέρι στην Αττική",
           "link": "https://www.newsit.gr/ellada/kairos-se-portokali-synagermo-gia-tin-epideinosi-me-kataigides-me-isxyrous-anemous-vroxes-to-mesimeri-stin-attiki/4586357/",
@@ -239,14 +247,6 @@
           "description": "Δέκα χώρες ζητούν από το Ισραήλ να επιτρέψει την ροή της ανθρωπιστικής βοήθειας στη Γάζα ανοίγοντας το πέρασμα στη Ράφα, λίγες ημέρες μετά την κατεδάφιση των γραφείων της UNRWA του ΟΗΕ στην Ιερουσαλήμ",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/image1170x530cropped-5-768x349.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Βαθμολογία UEFA: Η Ελλάδα απειλεί την Τσεχία και κάνει όνειρα για 10άδα μετά την πρόκριση του Ολυμπιακού",
-          "link": "https://www.newsit.gr/athlitika/vathmologia-uefa-i-ellada-apeilei-tin-tsexia-kai-kanei-oneira-gia-10ada-meta-tin-prokrisi-tou-olympiakou/4586312/",
-          "pubDate": "Wed, 28 Jan 2026 23:17:27 +0000",
-          "description": "Η Ελλάδα συνέχισε την ανοδική πορεία της στη βαθμολογία της UEFA μετά τη θριαμβευτική πρόκριση του Ολυμπιακού στα πλέι οφ του Champions League. H χώρα ...  \nTo άρθρο Βαθμολογία UEFA: Η Ελλάδα απειλεί την Τσεχία και κάνει όνειρα για 10άδα μετά την πρόκριση του Ολυμπιακού δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/olympiacos-sipioni-1200x800.jpg",
-          "source": "NewsIT"
         }
       ]
     },
