@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T07:05:25.694Z",
+  "lastUpdated": "2026-01-29T07:07:42.169Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,22 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γιώργος Λιβάνης: Είχα φοβία με τα αεροπλάνα αλλά την ξεπέρασα, δεν υπάρχει κάτι που να με φοβίζει",
+          "link": "https://www.newsit.gr/lifestyle/giorgos-livanis-eixa-fovia-me-ta-aeroplana-alla-tin-kseperasa-den-yparxei-kati-pou-na-me-fovizei/4586416/",
+          "pubDate": "Thu, 29 Jan 2026 07:06:25 +0000",
+          "description": "«Είναι δεδομένο ότι θα μεγαλώσουμε την οικογένειά μας με την Ανδρομάχη» λέει μεταξύ άλλων ο Γιώργος Λιβάνης. Με αφορμή την έναρξη των εμφανίσεών του στο ...  \nTo άρθρο Γιώργος Λιβάνης: Είχα φοβία με τα αεροπλάνα αλλά την ξεπέρασα, δεν υπάρχει κάτι που να με φοβίζει δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/livanis-ndp-1200x796.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Η κακοκαιρία Kristin χτυπά για 24 ώρες με καταιγίδες Αττική, Ιόνιο και άλλες 6 περιοχές: Νέα επιδείνωση από το Σαββατοκύριακο",
+          "link": "https://www.newsit.gr/ellada/i-kakokairia-kristin-xtypa-gia-24-ores-me-kataigides-attiki-ionio-kai-alles-6-perioxes-nea-epideinosi-apo-to-savvatokyriako/4586415/",
+          "pubDate": "Thu, 29 Jan 2026 07:05:10 +0000",
+          "description": "Με βροχές, καταιγίδες και ανέμους έκανε την εμφάνισή της σήμερα (29.01.2026) η κακοκαιρία Kristin, η οποία αναμένεται να διαρκέσει 24 ώρες και να χτυπήσει 8 ...  \nTo άρθρο Η κακοκαιρία Kristin χτυπά για 24 ώρες με καταιγίδες Αττική, Ιόνιο και άλλες 6 περιοχές: Νέα επιδείνωση από το Σαββατοκύριακο δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kataigides-kairos-eurok-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ροντινέι: «Συνεχίζουμε να γράφουμε ιστορία, δώρο γενεθλίων η πρόκριση στο Champions League»",
           "link": "https://www.newsit.gr/athlitika/rontinei-synexizoume-na-grafoume-istoria-doro-genethlion-i-prokrisi-sto-champions-league/4586427/",
@@ -153,6 +169,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "ΦΠΑ: «Καίει» στην Ελλάδα – Ποιοι πληρώνουν το κόστος",
+          "link": "https://www.in.gr/2026/01/29/economy/oikonomikes-eidiseis/fpa-kaiei-stin-ellada-poioi-plironoun-kostos/",
+          "pubDate": "Thu, 29 Jan 2026 09:05:49 +0300",
+          "description": "Η Ελλάδα στη πρώτη θέση της ΕΕ στη μείωση του «κενού» ΦΠΑ - Τι συμβαίνει στην Ευρώπη",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/shutterstock_290046536-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Θεσσαλονίκη: Φωτιά σε μάντρα αυτοκινήτων τα ξημερώματα – Εκτεταμένες υλικές ζημιές",
+          "link": "https://www.in.gr/2026/01/29/greece/thessaloniki-fotia-se-mantra-aytokiniton-ta-ksimeromata-ektetamenes-ylikes-zimies/",
+          "pubDate": "Thu, 29 Jan 2026 09:04:45 +0300",
+          "description": "Η φωτιά ξέσπασε περίπου στις 2:00 το πρωί της Πέμπτης σε δύο οχήματα που βρίσκονταν μέσα στη μάντρα, στη Θεσσαλονίκη",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/oximata-mantra-fotia-768x576.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "«Είμαι μητέρα όλη την ενήλικη ζωή μου» – Η Κέιτ Χάντσον σχολιάζει το ότι έκανε πολύ νωρίς παιδιά",
           "link": "https://www.in.gr/2026/01/29/go-fun/fizz/eimai-mitera-oli-tin-eniliki-zoi-mou-keit-xantson-sxoliazei-oti-ekane-poly-noris-paidia/",
           "pubDate": "Thu, 29 Jan 2026 09:00:13 +0300",
@@ -214,38 +246,6 @@
           "pubDate": "Thu, 29 Jan 2026 05:50:46 +0000",
           "description": "Λάδι στη φωτιά συνεχίζει να ρίχνει ο Ντόναλντ Τραμπ για τα όσα διαδραματίζονται το τελευταίο διάστημα στη Μινέαπολη, όπου πράκτορες της ICE και αστυνομικοί της ...  \nTo άρθρο Ο Τραμπ σκληραίνει τη στάση του για τη Μινεάπολη και απειλεί: Σε διαθεσιμότητα 2 αστυνομικοί, απομακρύνθηκε ο  διοικητής της συνοριοφυλακής δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/donald-trump-r-7-1200x837.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο ΠΑΟΚ κοντράρεται με τη Λιόν, με το μυαλό στους 7 οπαδούς που «έφυγαν» – Δύσκολη αποστολή με τη Ρόμα για τον Παναθηναϊκό",
-          "link": "https://www.in.gr/2026/01/29/sports/football/europa-league/o-paok-kontraretai-ti-lion-myalo-stous-7-opadous-pou-efygan-gia-kalytero-dynato-plasarisma-o-panathinaikos/",
-          "pubDate": "Thu, 29 Jan 2026 08:48:38 +0300",
-          "description": "Ο ΠΑΟΚ στη σκιά της τραγωδίας στη Ρουμανία φιλοξενείται από τη Λιόν (29/1, 22:00) και ο Παναθηναϊκός υποδέχεται τη Ρόμα για την 8η και τελευταία αγωνιστική της League Phase του Europa League.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6827768_220158-768x462.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Θεσσαλονίκη: Φωτιά σε μάντρα με μεταχειρισμένα οχήματα, φθορές σε δύο ΙΧ",
-          "link": "https://www.protothema.gr/greece/article/1765172/thessaloniki-fotia-se-madra-me-metaheirismena-ohimata-fthores-se-duo-ih/?utm_source=rss",
-          "pubDate": "Thu, 29 Jan 2026 07:46:00 +0200",
-          "description": "Η πυρκαγιά εκδηλώθηκε τις πρώτες πρωινές ώρες της Πέμπτης σε μάντρα οχημάτων που βρίσκεται πλησίον της ΔΟΥ Αμπελοκήπων",
-          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/oximata-mantra-2.jpg",
-          "source": "Πρώτο Θέμα"
-        },
-        {
-          "title": "Γρηγόρης Αρναούτογλου: Πέθανε η μητέρα του, το συγκινητικό μήνυμα αποχαιρετισμού",
-          "link": "https://www.in.gr/2026/01/29/go-fun/fizz/grigoris-arnaoutoglou-pethane-mitera-tou-sygkinitiko-minyma-apoxairetismou/",
-          "pubDate": "Thu, 29 Jan 2026 08:41:24 +0300",
-          "description": "Ο Γρηγόρης Αρναούτογλου αποχαιρετά με τρυφερά λόγια την αγαπημένη του μητέρα, που έφυγε από τη ζωή.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/grek-768x464.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τα κόμματα στα οποία ποντάρει η ΝΔ για την επιστολική ψήφο και τις τρεις έδρες στους απόδημους στις εκλογές του 2027",
-          "link": "https://www.newsit.gr/politikh/ta-kommata-sta-opoia-pontarei-i-nd-gia-tin-epistoliki-psifo-kai-tis-treis-edres-stous-apodimous-stis-ekloges-tou-2027/4586365/",
-          "pubDate": "Thu, 29 Jan 2026 05:34:39 +0000",
-          "description": "Το πρώτο crash test για την αποδοχή ή όχι από την αντιπολίτευση, των αλλαγών στον εκλογικό νόμο γίνεται σήμερα, στην άτυπη Διακομματική Επιτροπή που συγκαλεί ...  \nTo άρθρο Τα κόμματα στα οποία ποντάρει η ΝΔ για την επιστολική ψήφο και τις τρεις έδρες στους απόδημους στις εκλογές του 2027 δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vouli-eurok-1200x800.jpg",
           "source": "NewsIT"
         }
       ]
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Zara: Λουκέτο στο πρώτο ιστορικό κατάστημα του Αμάνθιο Ορτέγα μετά από 50 χρόνια",
+          "link": "http://gr.euronews.com/business/2026/01/29/zara-loyketo-sto-prwto-istoriko-katasthma-toy-aman8io-ortega-meta-apo-50-xronia",
+          "pubDate": "Thu, 29 Jan 2026 08:04:07 +0100",
+          "description": "Ο όμιλος Inditex διαθέτει συνολικά 19 καταστήματα των οκτώ εμπορικών του σημάτων στη Λα Κορούνια",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Ντουμπάι: Σχέδια για δρόμο στρωμένο με αληθινό χρυσό",
+          "link": "http://gr.euronews.com/travel/2026/01/29/paved-with-gold-dubai-has-announced-plans-to-construct-a-street-made-with-actual-gold",
+          "pubDate": "Thu, 29 Jan 2026 08:03:46 +0100",
+          "description": "Το νέο αξιοθέατο θα βρίσκεται κοντά στο Gold Souk της πόλης, όπου οι τουρίστες μπορούν να αγοράσουν χρυσό και άλλα κοσμήματα",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Γαλλία: Η Γερουσία μπλοκάρει τη νομιμοποίηση της υποβοηθούμενης ευθανασίας",
           "link": "http://gr.euronews.com/2026/01/29/gallia-h-geroysia-mplokarei-th-nomimopoihsh-ths-ypoboh8oymenhs-ey8anasias",
           "pubDate": "Thu, 29 Jan 2026 07:39:37 +0100",
@@ -723,22 +739,6 @@
           "description": "Ghana's foreign minister says the influencer is a \"worthy ambassador\", but some Ghanaians criticised the move.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd17/live/230592d0-fc26-11f0-a47f-d352a7d9988a.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Τραμπ: «Μια τεράστια αρμάδα κατευθύνεται προς το Ιράν»",
-          "link": "http://gr.euronews.com/2026/01/28/tramp-mia-terastia-armada-katey8ynetai-pros-to-iran",
-          "pubDate": "Wed, 28 Jan 2026 17:21:41 +0100",
-          "description": "Προειδοποίηση για στρατιωτικό πλήγμα και κάλεσμα στην Τεχεράνη να διαπραγματευτεί – Χιλιάδες νεκροί από την αιματηρή καταστολή των διαδηλώσεων",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Η αλλαγή στις σχέσεις ΕΕ-ΗΠΑ είναι «δομική, όχι προσωρινή», προειδοποιεί η Κάγια Κάλλας",
-          "link": "http://gr.euronews.com/my-europe/2026/01/28/allagh-sxeseis-ee-hpa-domikh-oxi-proswrinh-proeidopoiei-kagia-kallas",
-          "pubDate": "Wed, 28 Jan 2026 17:04:23 +0100",
-          "description": "Στον απόηχο της κρίσης στη Γροιλανδία, η κορυφαία διπλωμάτης της ΕΕ προέτρεψε τα ευρωπαϊκά έθνη να σταματήσουν να αναθέτουν την ασφάλεια και την άμυνά τους σε τρίτους",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
