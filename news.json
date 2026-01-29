@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T04:40:27.713Z",
+  "lastUpdated": "2026-01-29T04:45:29.268Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Ρουμανία: Επιστρέφουν οι 2 τραυματίες σήμερα – Επαναπατρίζονται και οι 7 σοροί, πορεία με μηχανές από τους φιλάθλους του Δικέφαλου",
+          "link": "https://www.newsit.gr/ellada/roumania-epistrefoun-oi-2-traymaties-simera-epanapatrizontai-kai-oi-7-soroi-poreia-me-mixanes-apo-tous-filathlous-tou-dikefalou/4586356/",
+          "pubDate": "Thu, 29 Jan 2026 04:43:00 +0000",
+          "description": "Στη Ρουμανία αναμένεται να μείνει και τις επόμενες ημέρες ο πολυτραυματίας – οπαδός του ΠΑΟΚ, ο ένας από τους επιζήσαντες του σοκαριστικού τροχαίου δυστυχήματος που ...  \nTo άρθρο Ρουμανία: Επιστρέφουν οι 2 τραυματίες σήμερα – Επαναπατρίζονται και οι 7 σοροί, πορεία με μηχανές από τους φιλάθλους του Δικέφαλου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/romania-accident-3.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Ο μαύρος Ιανουάριος του 2026: Από το Κραν Μοντανά και τη Μινεάπολη, στη Βιολάντα και το τροχαίο με τους οπαδούς του ΠΑΟΚ",
           "link": "https://www.newsit.gr/kosmos/o-mayros-ianouarios-tou-2026-apo-to-kran-montana-kai-ti-mineapoli-sti-violanta-kai-to-troxaio-me-tous-opadous-tou-paok/4585928/",
@@ -239,14 +247,6 @@
           "description": "Ο Ολυμπιακός πανηγύρισε μία τεράστια νίκη με 2-1 επί του Άγιαξ και τερμάτισε στην 18η θέση του Champions League. Ο Μεντιλίμπαρ στις δηλώσεις του ανέφερε ...  \nTo άρθρο Μεντιλίμπαρ για την πρόκριση του Ολυμπιακού: «Δεν υπάρχει κάποιο μαγικό, τα αποτελέσματα έρχονται με τη δουλειά» δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mendilibar-6-1200x799.jpg",
           "source": "NewsIT"
-        },
-        {
-          "title": "Οι ΗΠΑ παραδίδουν το κατασχεθέν δεξαμενόπλοιο Sophia M στη Βενεζουέλα",
-          "link": "https://www.in.gr/2026/01/29/world/oi-ipa-paradidoun-katasxethen-deksamenoploio-sophia-m-sti-venezouela/",
-          "pubDate": "Thu, 29 Jan 2026 02:02:13 +0300",
-          "description": "Οι ΗΠΑ παρέδωσαν πίσω στη Βενεζουέλα το δεξαμενόπλοιο Sophia M το οποίο είχαν κατασχέσει χωρίς να αναφέρουν τον λόγο για τον οποίο",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Sophia-M-Venezuela-768x509.jpg",
-          "source": "In.gr"
         }
       ]
     },
