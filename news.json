@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-01-29T06:50:30.118Z",
-  "totalArticles": 180,
+  "lastUpdated": "2026-01-29T06:55:32.115Z",
+  "totalArticles": 178,
   "totalFeeds": 24,
-  "successfulFeeds": 15,
+  "successfulFeeds": 14,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Κωνσταντίνος Καζάκος για Μανούσο Μανουσάκη: «Αισθάνθηκα σαν να έχασα ένα μέλος της οικογένειάς μου»",
+          "link": "https://www.newsit.gr/media/konstantinos-kazakos-gia-manouso-manousaki-aisthanthika-san-na-exasa-ena-melos-tis-oikogeneias-mou/4586368/",
+          "pubDate": "Thu, 29 Jan 2026 06:53:35 +0000",
+          "description": "«Λυπήθηκα πάρα πολύ» ανέφερε ο Κωνσταντίνος Καζάκος για την απώλεια του Μανούσου Μανουσάκη. Ο Κωνσταντίνος Καζάκος παραχώρησε συνέντευξη στο περιοδικό «Hello» και τον Γιάννη Βίτσα. ...  \nTo άρθρο Κωνσταντίνος Καζάκος για Μανούσο Μανουσάκη: «Αισθάνθηκα σαν να έχασα ένα μέλος της οικογένειάς μου» δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kazakos-ndp-1-1200x741.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Νομισματική πολιτική, ψηφιακό ευρώ και επενδύσεις στην ατζέντα Πιερρακάκη στη Φρανκφούρτη",
+          "link": "https://www.newsit.gr/oikonomia/finance/nomismatiki-politiki-psifiako-eyro-kai-ependyseis-stin-atzenta-pierrakaki-sti-frankfourti/4586412/",
+          "pubDate": "Thu, 29 Jan 2026 06:50:02 +0000",
+          "description": "Τις εξελίξεις στη νομισματική πολιτική, την ευρωπαϊκή και διεθνή οικονομία, καθώς και ζητήματα ψηφιακής οικονομίας και επενδύσεων θα βρεθούν στο επίκεντρο των σημερινών (29.1.2026) συναντήσεων ...  \nTo άρθρο Νομισματική πολιτική, ψηφιακό ευρώ και επενδύσεις στην ατζέντα Πιερρακάκη στη Φρανκφούρτη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/k-pierrakakis-eurokinissi-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "28χρονος Παλαιστίνιος επιτέθηκε σε ζευγάρι που «σήκωνε» λεφτά από ΑΤΜ στο κέντρο της Αθήνας",
           "link": "https://www.protothema.gr/greece/article/1765200/28hronos-palaistinios-epitethike-se-zeugari-pou-sikone-lefta-apo-atm-sto-kedro-tis-athinas/?utm_source=rss",
@@ -153,6 +169,22 @@
           "source": "NewsIT"
         },
         {
+          "title": "Κίνηση στους δρόμους: Ουρές χιλιομέτρων στον Κηφισό – Μεγάλες καθυστερήσεις και στην Αττική Οδό",
+          "link": "https://www.in.gr/2026/01/29/greece/kinisi-stous-dromous-oures-xiliometron-ston-kifiso-megales-kathysteriseis-kai-stin-attiki-odo/",
+          "pubDate": "Thu, 29 Jan 2026 08:54:11 +0300",
+          "description": "Στο «κόκκινο» ξανά ο Κηφισός - Σε ποια τμήματα της Αττικής Οδού σημειώνονται καθυστερήσεις",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/17687882-1200x718-768x460.jpg",
+          "source": "In.gr"
+        },
+        {
+          "title": "Εργατικό δυστύχημα στα Τρίκαλα: Σήμερα και αύριο το τελευταίο αντίο στις εργάτριες που σκοτώθηκαν στη Βιολάντα",
+          "link": "https://www.in.gr/2026/01/29/greece/ergatiko-dystyxima-sta-trikala-simera-kai-ayrio-teleytaio-antio-stis-ergatries-pou-skotothikan-sti-violanta/",
+          "pubDate": "Thu, 29 Jan 2026 08:53:06 +0300",
+          "description": "Βαρύ είναι το πένθος για τις οικογένειες των πέντε γυναικών που έχασαν τη ζωή τους στο εργατικό δυστύχημα στη Βιολάντα - Σήμερα οι πρώτες τρεις κηδείες, την Παρασκευή οι άλλες δύο",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/EV1_270126_TRIKALA_VIOLANDA-11-1200x800-2-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Η Ελλάδα πύλη για ινδικά προϊόντα στην ΕΕ – Ποια ελληνικά προϊόντα θα ωφεληθούν από τη συμφωνία ΕΕ-Ινδίας",
           "link": "https://www.newsit.gr/oikonomia/i-ellada-pyli-gia-indika-proionta-stin-ee-poia-ellinika-proionta-tha-ofelithoun-apo-ti-symfonia-ee-indias/4586367/",
           "pubDate": "Thu, 29 Jan 2026 05:51:32 +0000",
@@ -215,38 +247,6 @@
           "description": "Ο Βαγγέλης Παυλίδης ήταν εκ των πρωταγωνιστών της Μπενφίκα στην επική νίκη της κόντρα στη Ρεάλ Μαδρίτης, που την έστειλε στην 24άδα του Champions League.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/pavlidis-2-new-1-768x461.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Καλλιθέα: Δεν εντοπίστηκαν ίχνη κακοποίησης στο βρέφος των επτά ημερών που έχασε τη ζωή του",
-          "link": "https://www.in.gr/2026/01/29/greece/kallithea-den-entopistikan-ixni-kakopoiisis-sto-vrefos-ton-epta-imeron-pou-exase-ti-zoi-tou/",
-          "pubDate": "Thu, 29 Jan 2026 08:24:23 +0300",
-          "description": "Γιατί οι γονείς το μετέφεραν αρχικώς σε ιατρείο μικρών ζώων στην Καλλιθέα - Επί 40 λεπτά οι γιατροί στο Νοσοκομείο Παίδων «Αγία Σοφία» προσπαθούσαν μάταια να το επαναφέρουν",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/baby-feet-4746255_1920-768x432.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τελειώνει τις εργασίες της η Εξεταστική για τον ΟΠΕΚΕΠΕ ^ ξανά στο ίδιο έργο θεατές, το κάθε κόμμα θα κάνει το δικό του πόρισμα ^ δύο γραμμές στη ΝΔ για Κωνσταντοπούλου, Καρυστιανού ^ η παραπομπή στο Πειθαρχικό της προέδρου της Πλεύσης Ελευθερίας «τροφοδοτεί το σόου της» λένε οι διαφωνούντες ^ ανεβάζει το θερμόμετρο στο ΠΑΣΟΚ ο αλγόριθμος του Ανδρουλάκη για τους συνέδρους και το face control της διεύρυνσης",
-          "link": "https://www.newsit.gr/blogs/me-to-ganti/teleionei-tis-ergasies-tis-i-eksetastiki-gia-ton-opekepe-ksana-sto-idio-ergo-theates-to-kathe-komma-tha-kanei-to-diko-tou-porisma-dyo-grammes-sti-nd-gia-konstantopoulou-karystianou-i-parapompi-sto-pei/4586363/",
-          "pubDate": "Thu, 29 Jan 2026 05:20:27 +0000",
-          "description": "Δύο είναι οι γραμμές στο γαλάζιο στρατόπεδο απέναντι στην Καρυστιανού και την Κωνσταντοπούλου. Συμφωνούν ότι και οι δύο κυνηγούν την αντισυστημική ψήφο, αλλά διαφωνούν ως ...  \nTo άρθρο Τελειώνει τις εργασίες της η Εξεταστική για τον ΟΠΕΚΕΠΕ ^ ξανά στο ίδιο έργο θεατές, το κάθε κόμμα θα κάνει το δικό του πόρισμα ^ δύο γραμμές στη ΝΔ για Κωνσταντοπούλου, Καρυστιανού ^ η παραπομπή στο Πειθαρχικό της προέδρου της Πλεύσης Ελευθερίας «τροφοδοτεί το σόου της» λένε οι διαφωνούντες ^ ανεβάζει το θερμόμετρο στο ΠΑΣΟΚ ο αλγόριθμος του Ανδρουλάκη για τους συνέδρους και το face control της διεύρυνσης δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/mariakarystianou-1.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Πρόγραμμα-φωτιά σε Ελλάδα και Champions League: Ο Ολυμπιακός και ένας δύσκολος Φλεβάρης",
-          "link": "https://www.in.gr/2026/01/29/sports/football/champions-league/programma-fotia-se-ellada-kai-champions-league-o-olympiakos-kai-enas-dyskolos-flevaris/",
-          "pubDate": "Thu, 29 Jan 2026 08:14:51 +0300",
-          "description": "Ο Ολυμπιακός είναι στα νοκ-άουτ του Champions League και έχει μπροστά του πλέον πολύ δύσκολο πρόγραμμα",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828698-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Κάτω Πατήσια: Κουκουλοφόροι λήστεψαν και χτύπησαν άγρια 16χρονο – Νοσηλεύεται με πολλαπλά κατάγματα στο ΚΑΤ",
-          "link": "https://www.newsit.gr/ellada/kato-patisia-koukouloforoi-listepsan-kai-xtypisan-agria-16xrono-nosileyetai-me-pollapla-katagmata-sto-kat/4586360/",
-          "pubDate": "Thu, 29 Jan 2026 05:14:42 +0000",
-          "description": "Στο νοσοκομείο και σε σοβαρή κατάσταση, νοσηλεύεται από την Τετάρτη (28.01.2026) ένα 16χρονο παιδί από το Μπαγκλαντές που έπεσε θύμα ληστείας και σφοδρού ξυλοδαρμού από ...  \nTo άρθρο Κάτω Πατήσια: Κουκουλοφόροι λήστεψαν και χτύπησαν άγρια 16χρονο – Νοσηλεύεται με πολλαπλά κατάγματα στο ΚΑΤ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-1046447804-1-1200x675.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Europa League: Στη σκιά του πένθους, ένα μεγάλο εθνικό ρεκόρ!",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511147/europa-league-sti-skia-toy-penthoys-ena-megalo-ethniko-rekor",
+          "pubDate": "Thu, 29 Jan 2026 08:53:40 +0200",
+          "description": "Ο Ανδρέας Δημάτος γράφει για την ιστορική επίδοση του ελληνικού ποδοσφαίρου, που για πρώτη φορά στην ιστορία των Κυπέλλων Ευρώπης συνεχίζει με τέσσερις ομάδες, μετά τη φάση των ομίλων ή τη League Phase και μάλιστα με το big 4!",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/ajax_olympiacos.jpg?itok=ereeIbpO",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ολυμπιακός: Η Ολλανδή που έμαθε σε μία μέρα συνθήματα των πρωταθλητών Ελλάδας (vid)",
           "link": "https://www.gazzetta.gr/football/champions-league/2511120/olympiakos-i-ollandi-poy-emathe-se-mia-mera-synthimata-ton",
           "pubDate": "Thu, 29 Jan 2026 08:45:00 +0200",
@@ -977,14 +985,6 @@
           "description": "Απολαύστε τα 61 γκολ και τα highlights της τελευταίας αγωνιστικής της League Phase του Champions League.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/liverpool5.jpg?itok=zm9-J5sl",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Ο Αντρέ Λουίζ ήταν εκστασιασμένος με τον κόσμο και την πρόκριση",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511100/olympiakos-o-antre-loyiz-itan-ekstasiasmenos-me-ton-kosmo-kai-tin",
-          "pubDate": "Thu, 29 Jan 2026 01:03:25 +0200",
-          "description": "Παρών στο Άμστερνταμ ο Αντρέ Λουίζ. Ο Βραζιλιάνος εξτρέμ δεν έκρυψε τη χαρά του για την τεράστια πρόκριση του Ολυμπιακού.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/antre_loyiz_1.jpg?itok=ERH2x67d",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -1009,14 +1009,6 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "«Προχωρά για τη μεταγραφή Καμαρά ο Παναθηναϊκός!»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/prochora-gia-ti-metagrafi-kamara-o-pan/?utm_source=rss&utm_medium=rss&utm_campaign=prochora-gia-ti-metagrafi-kamara-o-pan",
-          "pubDate": "Wed, 28 Jan 2026 19:54:54 +0000",
-          "description": "Δημοσίευμα συνδέει τους «πράσινους» με τον Ετιέν Καμαρά της Σαρλερουά, την ώρα που το «Τριφύλλι» ψάχνει απεγνωσμένα χαφ πρώτης γραμμής. Από τη Γαλλία και το Βέλγιο προκύπτει νέο δημοσίευμα που φέρνει τον Παναθηναϊκό σε προχωρημένες διαπραγματεύσεις με τη Σαρλερουά για την απόκτηση του Ετιέν Καμαρά, ενός 22χρονου αμυντικού μέσου, με έντονα ανασταλτικά χαρακτηριστικά και ύψος που ξεχωρίζει για τη θέση […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/IMG_6093.jpeg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Όσο της επιτίθενται ανεβαίνει: Το συντριπτικό ποσοστό της Μαρίας Καρυστιανού στην Α’ Αθήνας",
           "link": "https://panathinaikos24.gr/2026/01/28/618079/oso-tis-epitithentai-anevainei-to-syntriptiko-pososto-tis-marias-karystianou-stin-a-athinas/",
           "pubDate": "Wed, 28 Jan 2026 19:30:19 +0000",
@@ -1033,30 +1025,6 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Τεράστιος Παναθηναϊκός, «ξέρανε» τον… γαύρο στο φινάλε!",
-          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/terastios-panathinaikos-xerane-ton/?utm_source=rss&utm_medium=rss&utm_campaign=terastios-panathinaikos-xerane-ton",
-          "pubDate": "Wed, 28 Jan 2026 19:00:40 +0000",
-          "description": "Μεγάλης σπουδαιότητας νίκη απέναντι στον Ολυμπιακό πήρε ο Παναθηναϊκός (88-85) στο γυναικείο μπάσκετ, έχοντας στο πλευρό του χιλιάδες φανατικούς οπαδούς στον «Τάφο του Ινδού». Στο… κατόπι του πρώτου Αθηναϊκού παραμένει ο Παναθηναϊκός, αφού νίκησε στο φινάλε τον Ολυμπιακό στο κλειστό «Παύλος Γιαννακόπουλος». Η ομάδα της Σέλεν Ερντέμ έκανε το 2Χ2 απέναντι στις «ερυθρόλευκες» στο πρωτάθλημα, […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/krimili-gynaikon.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Νέο «καψόνι» Μπενίτεθ σε Μλαντένοβιτς!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/neo-kapsoni-beniteth-se-mlantenovit/?utm_source=rss&utm_medium=rss&utm_campaign=neo-kapsoni-beniteth-se-mlantenovit",
-          "pubDate": "Wed, 28 Jan 2026 18:58:23 +0000",
-          "description": "Ακόμη μία ξεκάθαρη ένδειξη για το μέλλον του Φίλιπ Μλαντένοβιτς στον Παναθηναϊκό προέκυψε ενόψει της αναμέτρησης με τη Ρόμα. Ακόμη μία ξεκάθαρη ένδειξη για το μέλλον του Φίλιπ Μλαντένοβιτς στον Παναθηναϊκό προέκυψε ενόψει της αναμέτρησης με τη Ρόμα, σε ένα παιχνίδι όπου οι «πράσινοι» καλούνται να διαχειριστούν περίπου 15 απουσίες. Παρ’ όλα αυτά, ο Ράφα […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2025/03/mladenovic-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
-          "title": "Παναθηναϊκός – Ολυμπιακός: Το συγκλονιστικό τελευταίο λεπτό του ντέρμπι! (vid)",
-          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/panathinaikos-olybiakos-to-sygkloni/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-olybiakos-to-sygkloni",
-          "pubDate": "Wed, 28 Jan 2026 18:50:23 +0000",
-          "description": "Οι τελευταίες στιγμές, που... έβαψαν «πράσινο» το ντέρμπι μεταξύ Παναθηναϊκού και Ολυμπιακού στον «Τάφο του Ινδού».",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/gynaikon-2-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Ερντέμ: «Πολύ σημαντικό για μένα – Αγαπώ τον Παναθηναϊκό και όλο τον κόσμο μας!»",
           "link": "https://trifilara.gr/erntem-poly-simantiko-gia-mena-agapo-ton-panathinaiko-kai-olo-ton-kosmo-mas/?utm_source=rss&utm_medium=rss&utm_campaign=erntem-poly-simantiko-gia-mena-agapo-ton-panathinaiko-kai-olo-ton-kosmo-mas",
           "pubDate": "Wed, 28 Jan 2026 18:43:38 +0000",
@@ -1065,28 +1033,12 @@
           "source": "Trifilara"
         },
         {
-          "title": "Ερντέμ: «Αγαπώ τον Παναθηναϊκό κι όλο τον κόσμο μας!» – Το «ευχαριστώ» της (vid)",
-          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/erntem-agapo-ton-panathinaiko-ki-olo-t/?utm_source=rss&utm_medium=rss&utm_campaign=erntem-agapo-ton-panathinaiko-ki-olo-t",
-          "pubDate": "Wed, 28 Jan 2026 18:39:16 +0000",
-          "description": "Η Σελέν Ερντέμ μίλησε μετά τη νίκη του Παναθηναϊκού επί του Ολυμπιακού στον κατάμεστο «Τάφο του Ινδού». Πανευτυχής ήταν η Σελέμ Ερντέμ μετά τη νίκη του Παναθηναϊκού επί του Ολυμπιακού, σε ένα μεγάλο ντέρμπι όπου ξεχώρισε η Άρτεμις Σπανού. Αναλυτικά τα όσα είπε στην κάμερα της ΕΡΤ: «Είμαι πολύ χαρούμενη, συγχαρητήρια στις παίκτριες και το […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/erdem-2-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Συγκλονιστικό πανό στον «Τάφο του Ινδού» για τους οπαδούς του ΠΑΟΚ που έχασαν τη ζωή τους! (pic)",
           "link": "https://trifilara.gr/sygklonistiko-pano-ston-tafo-tou-indou-gia-tous-opadous-tou-paok-pou-echasan-ti-zoi-tous-pic/?utm_source=rss&utm_medium=rss&utm_campaign=sygklonistiko-pano-ston-tafo-tou-indou-gia-tous-opadous-tou-paok-pou-echasan-ti-zoi-tous-pic",
           "pubDate": "Wed, 28 Jan 2026 18:29:20 +0000",
           "description": "Με τον δικό τους ξεχωριστό τρόπο θέλησαν να τιμήσουν τη μνήμη των αδικοχαμένων οπαδών του ΠΑΟΚ οι «πράσινοι» οπαδοί στον «Τάφο του Ινδού». Συγκεκριμένα, κατά τη διάρκεια της αναμέτρησης για το μπάσκετ γυναικών μεταξύ Παναθηναϊκού και Ολυμπιακού, αναρτήθηκε ένα πανό που έγραφε… «ΚΑΛΟ ΤΑΞΙΔΙ ΑΕΤΟΙ – ΘΥΡΑ 13». Δείτε την εικόνα και το βίντεο:\nThe post Συγκλονιστικό πανό στον «Τάφο του Ινδού» για τους οπαδούς του ΠΑΟΚ που έχασαν τη ζωή τους! (pic) appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Απίθανο πανό από τους οπαδούς του Παναθηναϊκού για τα αδικοχαμένα «αετόπουλα» στον «Τάφο του Ινδού»! (pic)",
-          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/apithano-pano-apo-tous-opadous-tou-pana/?utm_source=rss&utm_medium=rss&utm_campaign=apithano-pano-apo-tous-opadous-tou-pana",
-          "pubDate": "Wed, 28 Jan 2026 18:25:47 +0000",
-          "description": "Με ένα πανό βαθιάς ανθρώπινης και συμβολικής αξίας, οι οπαδοί του Παναθηναϊκού έστειλαν ένα ηχηρό μήνυμα από το κλειστό του Τάφου του Ινδού. Κατά τη διάρκεια του ντέρμπι μεταξύ «Τριφυλλιού» και Ολυμπιακού, στις κερκίδες έκανε την εμφάνισή του το πανό, που έγραφε: «Καλό ταξίδι αετοί – Θύρα 13», αφιερωμένο στους αδικοχαμένους οπαδούς του ΠΑΟΚ. Η […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/opadoi-3.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Ερντέμ: «Αγαπάω την ομάδα και τον κόσμο μας – Ευχαριστώ τον κ. Βρανόπουλο, που είναι πάντα μαζί μας»",
@@ -1121,14 +1073,6 @@
           "source": "Trifilara"
         },
         {
-          "title": "Τσιμίκας: «Είμαι πραγματικά άφωνος – Πολύ δυνατοί οι οπαδοί στην Ελλάδα»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/tsimikas-eimai-pragmatika-afonos-po/?utm_source=rss&utm_medium=rss&utm_campaign=tsimikas-eimai-pragmatika-afonos-po",
-          "pubDate": "Wed, 28 Jan 2026 17:53:00 +0000",
-          "description": "Ο παίκτης της Ρόμα, Κώστας Τσίμίκας, μίλησε στη συνέντευξη Τύπου στο ΟΑΚΑ ενόψει του παιχνιδιού με τον Παναθηναϊκό. Αναλυτικά όλα όσα είπε στη συνέντευξη Τύπου: Για τη δική του κατάσταση: «Προσπαθώ πάντα να κάνω το καλύτερο δυνατό και να τα δίνω όλα. Κάθε φορά που ο προπονητής μου δίνει μια ευκαιρία, προσπαθώ να την εκμεταλλευτώ. Στόχος […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/tsimikas-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Γκασπερίνι: «Παραμένει αξιόλογος ο Παναθηναϊκός και το ρόστερ του – Είναι απαράδεκτο!»",
           "link": "https://trifilara.gr/gkasperini-paramenei-axiologos-o-panathinaikos-kai-to-roster-tou-einai-aparadekto/?utm_source=rss&utm_medium=rss&utm_campaign=gkasperini-paramenei-axiologos-o-panathinaikos-kai-to-roster-tou-einai-aparadekto",
           "pubDate": "Wed, 28 Jan 2026 17:48:01 +0000",
@@ -1145,14 +1089,6 @@
           "source": "Panathinaikos24"
         },
         {
-          "title": "Γκασπερίνι: «Πολύ μεγάλος ο Παναθηναϊκός – Απαράδεκτο αυτό που συμβαίνει με τις λίστες»",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/gkasperini-poly-megalos-o-panathinai/?utm_source=rss&utm_medium=rss&utm_campaign=gkasperini-poly-megalos-o-panathinai",
-          "pubDate": "Wed, 28 Jan 2026 17:41:11 +0000",
-          "description": "Ο προπονητής της Ρόμα, Τζιάν Πιέρο Γκασπερίνι, μίλησε στη συνέντευξη Τύπου στο ΟΑΚΑ ενόψει του παιχνιδιού με τον Παναθηναϊκό. Αναλυτικά όλα όσα είπε: Για τον αγώνα: «Θα προσπαθήσουμε να πάρουμε αποτέλεσμα παρά τις απουσίες. Στόχος μας είναι να τερματίσουμε στην πρώτη οκτάδα, αν και αυτή τη στιγμή το πρωτάθλημα παραμένει προτεραιότητά μας». Για την κατάσταση […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/gasperini.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Ανακοίνωση Ολυμπιακού για Παναθηναϊκό και ΕΡΤ: «Συγχαρητήρια, κάνουν μούντζες και χειρονομίες!» (vid)",
           "link": "https://trifilara.gr/anakoinosi-olybiakou-gia-panathinaiko-kai-ert-sygcharitiria-kanoun-mountzes-kai-cheironomies-vid/?utm_source=rss&utm_medium=rss&utm_campaign=anakoinosi-olybiakou-gia-panathinaiko-kai-ert-sygcharitiria-kanoun-mountzes-kai-cheironomies-vid",
           "pubDate": "Wed, 28 Jan 2026 17:34:15 +0000",
@@ -1161,28 +1097,12 @@
           "source": "Trifilara"
         },
         {
-          "title": "Ολυμπιακός: «Επιδίδονται ζωντανά σε χειρονομίες και μούντζες – Συγχαρητήρια στην ΕΡΤ!» (vid)",
-          "link": "https://olaprasina1908.gr/%ce%b5%cf%81%ce%b1%cf%83%ce%b9%cf%84%ce%ad%cf%87%ce%bd%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c%cf%82/olybiakos-epididontai-zontana-se-ch/?utm_source=rss&utm_medium=rss&utm_campaign=olybiakos-epididontai-zontana-se-ch",
-          "pubDate": "Wed, 28 Jan 2026 17:30:53 +0000",
-          "description": "Παράπονα για τη μετάδοση της ΕΡΤ2 ΣΠΟΡ για το ντέρμπι μεταξύ Παναθηναϊκού και Ολυμπιακού για το μπάσκετ γυναικών εξέφρασαν οι Πειραιώτες. «Συγχαρητήρια στην ΕΡΤ που αποδέχεται να πραγματοποιεί μεταδόσεις κάτω από αυτές τις συνθήκες. Με πλάνο από τα κεφάλια οπαδών με καπέλα που επιδίδονται σε χειρονομίες και μούντζες, η εικόνα του αγώνα περνάει για ακόμα […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/gynaikon-1-1.jpg",
-          "source": "Όλα Πράσινα"
-        },
-        {
           "title": "Παναθηναϊκός: Με «μισή» ομάδα η αποστολή για Ρόμα!",
           "link": "https://trifilara.gr/panathinaikos-me-misi-omada-i-apostoli-gia-roma/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-me-misi-omada-i-apostoli-gia-roma",
           "pubDate": "Wed, 28 Jan 2026 17:21:56 +0000",
           "description": "Ολοκληρώθηκε η προετοιμασία για Ρόμα – Με απουσίες αλλά και εκπλήξεις η αποστολή του Παναθηναϊκού.\nThe post Παναθηναϊκός: Με «μισή» ομάδα η αποστολή για Ρόμα! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Παναθηναϊκός: Με… 15 απουσίες η αποστολή του «Τριφυλλιού» με Ρόμα!",
-          "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-me-15-apousies-i-apostoli/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-me-15-apousies-i-apostoli",
-          "pubDate": "Wed, 28 Jan 2026 17:14:22 +0000",
-          "description": "Ολοκλήρωσε με πολλές απουσίες την προετοιμασία για Ρόμα ο Παναθηναϊκός. Με απογευματινή προπόνηση στο «Γ. Καλαφάτης» ολοκληρώθηκε την Τετάρτη η προετοιμασία του Παναθηναϊκού ενόψει της αυριανής αναμέτρησης με τη Ρόμα στο Ολυμπιακό Στάδιο, για την τελευταία αγωνιστική της League Phase του Europa League. Το πρόγραμμα περιελάμβανε προθέρμανση, rondo, τακτική και παιχνίδι σε περιορισμένο χώρο, με […]",
-          "thumbnail": "https://olaprasina1908.gr/wp-content/uploads/2026/01/podosfairo-2-1.jpg",
-          "source": "Όλα Πράσινα"
         },
         {
           "title": "Παναθηναϊκός: Mε πολλές απουσίες και αρκετούς νέους η αποστολή για το ματς με τη Ρόμα",
@@ -1231,6 +1151,70 @@
           "description": "Ο Σαντίνο Αντίνο βρίσκεται ένα βήμα πριν την πρώτη του εμφάνιση με τα «πράσινα», με τον Μπενίτεθ να τον υπολογίζει για το ματς της Κυριακής με την Κηφισιά.\nThe post Πιο κοντά από ποτέ το ντεμπούτο του Αντίνο με τα «πράσινα»! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
+        },
+        {
+          "title": "Παναθηναϊκός: Αναβολή αγώνα λόγω πένθους",
+          "link": "https://panathinaikos24.gr/2026/01/28/618098/panathinaikos-anavoli-agona-logo-penthous/",
+          "pubDate": "Wed, 28 Jan 2026 14:08:23 +0000",
+          "description": "Aναβολή σε αγώνα του Παναθηναϊκού ελέω του πένθους για την τραγωδία με τους οπαδούς του ΠΑΟΚ.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/flagdefault-min.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Ντόρτμουντ – Ίντερ με «Ενίσχυση» στην απόλυτη γερμανική παράδοση",
+          "link": "https://panathinaikos24.gr/2026/01/28/618091/ntortmount-inter-me-enisxysi-stin-apolyti-germaniki-paradosi/",
+          "pubDate": "Wed, 28 Jan 2026 14:05:51 +0000",
+          "description": "Ντόρτμουντ και η Ίντερ παίζουν τα… ρέστα τους στο «Signal Iduna Park» στην τελευταία αγωνιστική της league phase του Champions League, σε μια αναμέτρηση με παρόμοιο βαθμολογικό ενδιαφέρον και για τις δύο πλευρές.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/thumbnail.png?fit=1100%2C650&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Νάπολι – Τσέλσι με Bet Builder στην ανάγκη των «Παρτενοπέι»",
+          "link": "https://panathinaikos24.gr/2026/01/28/618084/napoli-tselsi-me-bet-builder-stin-anagki-ton-partenopei/",
+          "pubDate": "Wed, 28 Jan 2026 13:49:15 +0000",
+          "description": "Παλιοί φίλοι, καινούργιοι ανοιχτοί λογαριασμοί στο «Stadio Diego Armando Maradona», εκεί όπου η Νάπολι υποδέχεται απόψε την Τσέλσι σε ένα ματς «τελικό» για αμφότερες στο φινάλε της league phase του Champions League.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/AP25143721266510.jpg?fit=900%2C599&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Μπενίτεθ: «Είμαι σίγουρος ότι στο μέλλον θα είμαστε καλύτεροι, το εγγυώμαι αυτό!»",
+          "link": "https://panathinaikos24.gr/2026/01/28/618063/mpeniteth-eimai-sigouros-oti-sto-mellon-tha-eimaste-kalyteroi-to-eggyomai-ayto/",
+          "pubDate": "Wed, 28 Jan 2026 12:45:11 +0000",
+          "description": "Οι δηλώσεις του Ράφα Μπενίτεθ ενόψει της αυριανής αναμέτρησης του Παναθηναϊκού με αντίπαλο τη Ρόμα.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5006852.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Πάντοβιτς: «Χαρούμενοι που έχουμε προκριθεί – Να βελτιώσουμε την εικόνα μας»",
+          "link": "https://panathinaikos24.gr/2026/01/28/618058/pantovits-xaroumenoi-pou-exoume-prokrithei-na-veltiosoume-tin-eikona-mas/",
+          "pubDate": "Wed, 28 Jan 2026 12:28:47 +0000",
+          "description": "Οι δηλώσεις του Μίλος Πάντοβιτς στη συνέντευξη Τύπου ενόψει του αυριανού ματς του Παναθηναϊκού με τη Ρόμα.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/5006855.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "LIVE TV: Η συνέντευξη Τύπου ενόψει του Παναθηναϊκός-Ρόμα",
+          "link": "https://panathinaikos24.gr/2026/01/28/618051/live-tv-i-synenteyksi-typou-enopsei-tou-panathinaikos-roma/",
+          "pubDate": "Wed, 28 Jan 2026 11:59:10 +0000",
+          "description": "Παρακολουθήστε την συνέντευξη Τύπου του Παναθηναϊκού, ενόψει της αυριανής αναμέτρησης με την Ρόμα στο ΟΑΚΑ.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6750336_140640_134446.jpg?fit=880%2C587&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "«Πρόταση του Παναθηναϊκού στη Λέτσε για Γκάλο»",
+          "link": "https://panathinaikos24.gr/2026/01/28/618039/protasi-tou-panathinaikou-sti-letse-gia-gkalo/",
+          "pubDate": "Wed, 28 Jan 2026 11:48:43 +0000",
+          "description": "Ο Τζανλούκα Ντι Μάρτζιο αποκαλύπτει το ενδιαφέρον του Παναθηναϊκού για τον βασικό αριστερό μπακ της Λέτσε, Αντονίνο Γκάλο.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/Antonino-Gallo-Lecce.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
+        {
+          "title": "Παναθηναϊκός: Στο Telekom Center Athens και ο προημιτελικός με τη Μερσίν!",
+          "link": "https://panathinaikos24.gr/2026/01/28/618033/panathinaikos-sto-telekom-center-athens-kai-o-proimitelikos-me-ti-mersin/",
+          "pubDate": "Wed, 28 Jan 2026 11:38:30 +0000",
+          "description": "O Παναθηναϊκός Α.Ο. γνωστοποίησε ότι και η αναμέτρηση της ομάδας μπάσκετ γυναικών με τη Μερσίν για τα προημιτελικά του Eurocup θα διεξαχθεί στο Τelekom Center Athens!",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4998680.jpg?fit=900%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
         }
       ]
     },
