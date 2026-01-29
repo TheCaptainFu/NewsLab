@@ -1,13 +1,37 @@
 {
-  "lastUpdated": "2026-01-29T09:20:32.206Z",
+  "lastUpdated": "2026-01-29T09:25:29.012Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Τραγωδία με τους οπαδούς του ΠΑΟΚ: Στις 16:30 αναμένονται στη Θεσσαλονίκη οι σωροί των επτά αδικοχαμένων φίλων του Δικεφάλου",
+          "link": "https://www.newsit.gr/ellada/tragodia-me-tous-opadous-tou-paok-stis-16-30-anamenontai-sti-thessaloniki-oi-soroi-ton-epta-adikoxamenon-filon-tou-dikefalou/4586572/",
+          "pubDate": "Thu, 29 Jan 2026 09:23:40 +0000",
+          "description": "Η οικογένεια του ΠΑΟΚ βιώνει ακόμα μία τραγωδία, με την απώλεια των επτά οπαδών του, μετά το τροχαίο στη Ρουμανία και σήμερα (29/01/26) στις 16:30 ...  \nTo άρθρο Τραγωδία με τους οπαδούς του ΠΑΟΚ: Στις 16:30 αναμένονται στη Θεσσαλονίκη οι σωροί των επτά αδικοχαμένων φίλων του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-keria-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Μαρία Εκμεκτσίογλου: Έπαψα να γκρινιάζω για αυτό που με βρήκε, βλέποντας τις τεράστιες τραγωδίες που ζει η χώρα",
+          "link": "https://www.newsit.gr/lifestyle/maria-ekmektsioglou-epapsa-na-gkriniazo-gia-ayto-pou-me-vrike-vlepontas-tis-terasties-tragodies-pou-zei-i-xora/4586570/",
+          "pubDate": "Thu, 29 Jan 2026 09:23:31 +0000",
+          "description": "Η Μαρία Εκμεκτσίογλου έπαθε πνευμονία και χρειάστηκε να νοσηλευτεί σε νοσοκομείο της Κωνσταντινούπολης για 10 ημέρες. Η διάσημη σεφ, ανέβασε πριν από μερικές ημέρες υψηλό ...  \nTo άρθρο Μαρία Εκμεκτσίογλου: Έπαψα να γκρινιάζω για αυτό που με βρήκε, βλέποντας τις τεράστιες τραγωδίες που ζει η χώρα δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/ekmektsioglou-ndp-1200x813.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Χρηματιστήριο Αθηνών: Άνοδο 0,32% για τον Γενικό Δείκτη – Ανέκαμψαν οι ευρωπαϊκές μετοχές",
+          "link": "https://www.newsit.gr/oikonomia/agores/xrimatistirio-athinon-anodo-0-32-gia-ton-geniko-deikti-anekampsan-oi-eyropaikes-metoxes/4586558/",
+          "pubDate": "Thu, 29 Jan 2026 09:21:15 +0000",
+          "description": "Ήπιες ανοδικές τάσεις καταγράφουν οι τιμές των μετοχών στο ξεκίνημα της σημερινής (29.1.2026) συνεδρίασης του Χρηματιστηρίου Αθηνών, με την αγορά να υπερβαίνει τα επίπεδα των ...  \nTo άρθρο Χρηματιστήριο Αθηνών: Άνοδο 0,32% για τον Γενικό Δείκτη – Ανέκαμψαν οι ευρωπαϊκές μετοχές δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/xrimatistirio-athinwn-eurokiniss-16.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Παπασταύρου: Συνάντηση για τον Κάθετο Διάδρομο το Φεβρουάριο – Εντός δύο εβδομάδων η υπογραφή των συμβάσεων για τους υδρογονάνθρακες",
           "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/papastayrou-synantisi-gia-ton-katheto-diadromo-to-fevrouario-entos-dyo-evdomadon-i-ypografi-ton-symvaseon-gia-tous-ydrogonanthrakes/4586561/",
@@ -37,7 +61,7 @@
           "link": "https://www.newsit.gr/ellada/kairos-isxyres-vroxes-kataigides-kai-xalazoptoseis-epikairopoiithike-to-ektakto-deltio/4586555/",
           "pubDate": "Thu, 29 Jan 2026 09:06:26 +0000",
           "description": "Σε κλοιό κακοκαιρίας βρίσκεται η χώρα με ισχυρές βροχές και καταιγίδες να χτυπούν πολλές περιοχές, ενώ δεν αποκλείονται και χαλαζοπτώσεις. Σύμφωνα με την επικαιροποίηση του ...  \nTo άρθρο Καιρός: Iσχυρές βροχές, καταιγίδες και χαλαζοπτώσεις – Επικαιροποιήθηκε το έκτακτο δελτίο δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vroxi-eurok-1-1200x801.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/vrixi-athina-eurok-1200x800.jpg",
           "source": "NewsIT"
         },
         {
@@ -49,10 +73,10 @@
           "source": "NewsIT"
         },
         {
-          "title": "«Κίμων»: Πάνω στην πρώτη ελληνική Belharra η συνάντηση Δένδια με τη Γαλλίδα ΥΠΑΜ – Δείτε εικόνες από τον Ναύσταθμο της Σαλαμίνας",
-          "link": "https://www.newsit.gr/ellada/kimon-pano-stin-proti-elliniki-belharra-i-synantisi-dendia-me-ti-gallida-ypam-deite-eikones-apo-ton-naystathmo-tis-salaminas/4586511/",
+          "title": "Φρεγάτα «Κίμων»: Πάνω στην πρώτη ελληνική Belharra η συνάντηση Δένδια με τη Γαλλίδα ΥΠΑΜ – Δείτε εικόνες από τον Ναύσταθμο της Σαλαμίνας",
+          "link": "https://www.newsit.gr/ellada/fregata-kimon-pano-stin-proti-elliniki-belharra-i-synantisi-dendia-me-ti-gallida-ypam-deite-eikones-apo-ton-naystathmo-tis-salaminas/4586511/",
           "pubDate": "Thu, 29 Jan 2026 09:02:22 +0000",
-          "description": "Ο «Κίμων», η πρώτη υπερσύγχρονη ψηφιακή φρεγάτα «Belharra» του ελληνικού Πολεμικού Ναυτικού, δεσπόζει επιβλητικά στον Ναύσταθμο της Σαλαμίνας, όπου πραγματοποιήσει η συνάντηση του υπουργού Εθνικής ...  \nTo άρθρο «Κίμων»: Πάνω στην πρώτη ελληνική Belharra η συνάντηση Δένδια με τη Γαλλίδα ΥΠΑΜ – Δείτε εικόνες από τον Ναύσταθμο της Σαλαμίνας δημοσιεύτηκε στο NewsIT .",
+          "description": "Ο «Κίμων», η πρώτη υπερσύγχρονη ψηφιακή φρεγάτα «Belharra» του ελληνικού Πολεμικού Ναυτικού, δεσπόζει επιβλητικά στον Ναύσταθμο της Σαλαμίνας, όπου πραγματοποιήσει η συνάντηση του υπουργού Εθνικής ...  \nTo άρθρο Φρεγάτα «Κίμων»: Πάνω στην πρώτη ελληνική Belharra η συνάντηση Δένδια με τη Γαλλίδα ΥΠΑΜ – Δείτε εικόνες από τον Ναύσταθμο της Σαλαμίνας δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fregatakimon1-1.jpg",
           "source": "NewsIT"
         },
@@ -209,44 +233,20 @@
           "source": "Πρώτο Θέμα"
         },
         {
+          "title": "‘Εγκλημα, τέχνη και Sopranos: Το MoMI τιμάει τη σειρά που εγκαινίασε τη νέα «χρυσή εποχή» της τηλεόρασης",
+          "link": "https://www.in.gr/2026/01/29/life/texni/egklima-texni-kai-sopranos-momi-timaei-ti-seira-pou-egkainiase-ti-nea-xrysi-epoxi-tis-tileorasis/",
+          "pubDate": "Thu, 29 Jan 2026 11:20:08 +0300",
+          "description": "Περίπου 19 χρόνια μετά το τέλος της εμβληματικής σειράς του Ντέιβιντ Τσέιζ, το MoMi στη Νέα Υόρκη παρουσιάζει την μεγάλη έκθεση Stories and Sets for The Sopranos.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5886200bk-768x518.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Υπ. Παιδείας: Δεν θα προσμετρώνται απουσίες από ιογενείς λοιμώξεις του αναπνευστικού – Τα δικαιολογητικά",
           "link": "https://www.in.gr/2026/01/29/greece/yp-paideias-den-tha-prosmetrontai-apousies-apo-iogeneis-loimokseis-tou-anapneystikou-ta-dikaiologitika/",
           "pubDate": "Thu, 29 Jan 2026 11:17:14 +0300",
           "description": "Σύμφωνα με την εγκύκλιο, δεν θα προσμετρώνται απουσίες έως 5 ημερών  - Απαιτείται πρόσφατη βεβαίωση δημόσιου ή ιδιωτικού νοσηλευτικού ιδρύματος ή ιδιώτη γιατρού",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/5142205-768x512-768x512.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Ανθή Βούλγαρη σε Δημήτρη Μαρκόπουλο: «Είναι αγενές αυτό που κάνετε» – «Ας με κρίνουν οι πολίτες» απάντησε ο βουλευτής",
-          "link": "https://www.newsit.gr/media/anthi-voulgari-se-dimitri-markopoulo-einai-agenes-ayto-pou-kanete-as-me-krinoun-oi-polites-apantise-o-vouleytis/4586490/",
-          "pubDate": "Thu, 29 Jan 2026 08:17:06 +0000",
-          "description": "Ανέβηκαν οι τόνοι στην εκπομπή «Κοινωνία Ώρα Mega» όταν Ανθή Βούλγαρη και Δημήτρης Μαρκόπουλος ήρθαν σε αντιπαράθεση, κατά τη διάρκεια συζήτησης. Η δημοσιογράφος ενοχλήθηκε όταν ...  \nTo άρθρο Ανθή Βούλγαρη σε Δημήτρη Μαρκόπουλο: «Είναι αγενές αυτό που κάνετε» – «Ας με κρίνουν οι πολίτες» απάντησε ο βουλευτής δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/markopoulos-arxiki-1200x742.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Αντρέ Λουίζ από τη Ρίο Άβε",
-          "link": "https://www.newsit.gr/athlitika/o-olympiakos-anakoinose-tin-apoktisi-tou-antre-louiz-apo-ti-rio-ave/4586499/",
-          "pubDate": "Thu, 29 Jan 2026 08:16:26 +0000",
-          "description": "Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Αντρέ Λουίζ, που μέχρι πρότινος αγωνιζόταν στη Ρίο Άβε, μία μέρα μετά την σπουδαία πρόκριση στην επόμενη φάση του ...  \nTo άρθρο Ο Ολυμπιακός ανακοίνωσε την απόκτηση του Αντρέ Λουίζ από τη Ρίο Άβε δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/screenshot-2026-01-29-100555-1200x704.png",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Lukoil: Θα πουλήσει διεθνή περιουσιακά στοιχεία αξίας 22 δισ. δολαρίων στον αμερικανικό όμιλο Carlyle",
-          "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/lukoil-tha-poulisei-diethni-periousiaka-stoixeia-aksias-22-dis-dolarion-ston-amerikaniko-omilo-carlyle/4586489/",
-          "pubDate": "Thu, 29 Jan 2026 08:15:35 +0000",
-          "description": "Στην πώληση περιουσιακών στοιχείων που διαθέτει στο εξωτερικό συμφώνησε να προχωρήσει η δεύτερη σε μέγεθος πετρελαϊκή εταιρεία της Ρωσίας, η Lukoil, προς τον αμερικανικό επενδυτικό ...  \nTo άρθρο Lukoil: Θα πουλήσει διεθνή περιουσιακά στοιχεία αξίας 22 δισ. δολαρίων στον αμερικανικό όμιλο Carlyle δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/lukoil-reuters.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Χειροπέδες σε 2 μέλη κυκλώματος ναρκωτικών σε Αθήνα και Πάτρα: Εντοπίστηκε κάνναβη αξίας 900.000 ευρώ",
-          "link": "https://www.newsit.gr/ellada/xeiropedes-se-2-meli-kyklomatos-narkotikon-se-athina-kai-patra-entopistike-kannavi-aksias-900-000-eyro/4586488/",
-          "pubDate": "Thu, 29 Jan 2026 08:14:07 +0000",
-          "description": "Στην εξάρθρωση κυκλώματος που διακινούσε ναρκωτικά προχώρησαν οι λιμενικές αρχές, έπειτα από συντονισμένη επιχείρηση Πάτρα και Αθήνα, με την κατάσχεση μεγάλων ποσοτήτων κάνναβης και τη ...  \nTo άρθρο Χειροπέδες σε 2 μέλη κυκλώματος ναρκωτικών σε Αθήνα και Πάτρα: Εντοπίστηκε κάνναβη αξίας 900.000 ευρώ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/kanavi-1-1200x743.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -271,12 +271,52 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Βαρύ κλίμα στη Βουλή – Ενός λεπτού σιγή για τα θύματα στα Τρίκαλα και τους οπαδούς του ΠΑΟΚ",
+          "link": "https://www.tovima.gr/2026/01/29/politics/vary-klima-sti-vouli-enos-leptou-sigi-gia-ta-thymata-sta-trikala-kai-tous-opadous-tou-paok/",
+          "pubDate": "Thu, 29 Jan 2026 11:21:55 +0300",
+          "description": "Με ενός λεπτού σιγή για τα θύματα των τραγωδιών στα Τρίκαλα και τη Ρουμανία άνοιξε η συνεδρίαση της Ολομέλειας, με τον αντιπρόεδρο της Βουλής να κάνει λόγο για γεγονότα που «συνέτριψαν τη χώρα και την κοινωνία».",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/12/12/vouli-1024x683.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "«Κίμων»: Η νέα ελληνική φρεγάτα Belharra ετοιμάζεται για την άφιξη της Γαλλίδας ΥΠΑΜ Καθρίν Βοτρίν και του ΥΕΘΑ Νίκου Δένδια",
+          "link": "https://www.tanea.gr/2026/01/29/politics/kimon-i-nea-elliniki-fregata-belharra-etoimazetai-gia-tin-afiksi-tis-gallidas-ypam-kathrin-votrin-kai-tou-yetha-nikou-dendia/",
+          "pubDate": "Thu, 29 Jan 2026 08:20:11 +0000",
+          "description": "Όλα είναι έτοιμα στον Ναύσταθμο Σαλαμίνας για την άφιξη της Υπουργού Ενόπλων Δυνάμεων της Γαλλίας, Κατρίν Βοτρίν, η οποία πραγματοποιεί σήμερα επίσημη επίσκεψη στη χώρα μας για να συναντηθεί με τον Υπουργό Εθνικής Άμυνας, Νίκο Δένδια. ​Το σκηνικό της συνάντησης είναι άκρως συμβολικό, καθώς η υποδοχή και οι συνομιλίες έχουν προγραμματιστεί να λάβουν χώρα επί […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6829093-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Άκης Σκέρτσος για «Βιολάντα»: «Εμπόριο πόνου» οι καταγγελίες για μαζικά εργατικά δυστυχήματα",
+          "link": "https://www.tovima.gr/2026/01/29/politics/akis-skertsos-gia-violanta-emporio-ponou-oi-kataggelies-gia-mazika-ergatika-dystyximata/",
+          "pubDate": "Thu, 29 Jan 2026 11:19:49 +0300",
+          "description": "Σε ανάρτησή του στα μέσα κοινωνικής δικτύωσης, ο υπουργός Επικρατείας τονίζει πως η κυβέρνηση στέκεται στο πλευρό των οικογενειών που πενθούν, υπογραμμίζοντας ότι αναμένονται τα τελικά πορίσματα των αρμόδιων αρχών που διερευνούν τα αίτια των δυστυχημάτων",
+          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/10/23/skertsos-1024x735.jpg",
+          "source": "Το Βήμα"
+        },
+        {
+          "title": "Σήμερα ξεκινούν οι εργασίες του 22ου Συνεδρίου του ΚΚΕ",
+          "link": "https://www.tanea.gr/2026/01/29/politics/simera-ksekinoyn-oi-ergasies-toy-22oy-synedrioy-toy-kke/",
+          "pubDate": "Thu, 29 Jan 2026 07:03:27 +0000",
+          "description": "Με το σύνθημα «ΚΚΕ δυνατό, σταθερό, έτοιμο για τον Σοσιαλισμό», ξεκινά το 22ο Συνέδριο του ΚΚΕ, που θα διαρκέσει ως 31 Ιανουαρίου. Οι εργασίες διεξάγονται στον Περισσό, με την ομιλία του Δημήτρη Κουτσούμπα.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/perissos-kke-1-1200x675-1-1024x576.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Ελληνογαλλική συμμαχία «εν πλω» – Στη φρεγάτα «ΚΙΜΩΝ» το τετ α τετ Δένδια με την Γαλλίδα ομόλογό του",
           "link": "https://www.naftemporiki.gr/politics/2065286/ellinogalliki-symmachia-en-plo-sti-fregata-kimon-to-tet-a-tet-dendia-me-tin-gallida-omologo-toy/?utm_source=rss&utm_medium=rss&utm_campaign=ellinogalliki-symmachia-en-plo-sti-fregata-kimon-to-tet-a-tet-dendia-me-tin-gallida-omologo-toy",
           "pubDate": "Thu, 29 Jan 2026 06:31:04 +0000",
           "description": "Σε μία κίνηση ιδιαίτερου συμβολισμού για τις ελληνογαλλικές σχέσεις η Γαλλίδα υπουργός Άμυνας, Κατρίν Βοτρέν, πραγματοποιεί επίσημη επίσκεψη, σήμερα στην Αθήνα.\nΕλληνογαλλική συμμαχία «εν πλω» – Στη φρεγάτα «ΚΙΜΩΝ» το τετ α τετ Δένδια με την Γαλλίδα ομόλογό του - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Ελληνογαλλικά ραντεβού για αμυντική συνεργασία και εξοπλισμούς – Συμβολισμοί σήμερα από Μαξίμου και «Κίμωνα»",
+          "link": "https://www.tanea.gr/2026/01/29/politics/ellinogallika-rantevou-gia-amyntiki-synergasia-kai-eksoplismous-symvolismoi-simera-apo-maksimou-kai-kimona/",
+          "pubDate": "Thu, 29 Jan 2026 05:36:32 +0000",
+          "description": "Συζητήσεις του Κ. Μητσοτάκη και του Ν. Δένδια με την υπουργό Κατρίν Βοτρέν. Στο τραπέζι η ανανέωση της στρατηγικής αμυντικής συμφωνίας.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/nikos-dendias-1024x698.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "Ποια θέματα ρίχνει στο τραπέζι η κυβέρνηση και ποιο κοινό φλερτάρει",
@@ -311,12 +351,28 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Δημοσκόπηση: Τα πάνω κάτω στις θέσεις των κομμάτων – Αυξάνονται οι αναποφάσιστοι – Ποιοι κερδίζουν και ποιοι χάνουν",
+          "link": "https://www.tanea.gr/2026/01/28/politics/dimoskopisi-ta-pano-kato-stis-theseis-ton-kommaton-ayksanontai-oi-anapofasistoi-poioi-kerdizoun-kai-poioi-xanoun/",
+          "pubDate": "Wed, 28 Jan 2026 19:33:14 +0000",
+          "description": "Πτώση για τα περισσότερα κόμματα και θεαματική αύξηση της δεξαμενής των αναποφάσιστων καταγράφει η νέα δημοσκόπηση της GPO, η οποία παρουσιάστηκε στο κεντρικό δελτίο ειδήσεων του Star. Η έρευνα αποτυπώνει μεταβολές στην πρόθεση ψήφου και στις πολιτικές τάσεις ενόψει των επόμενων εκλογών. Στην πρόθεση ψήφου, η Νέα Δημοκρατία συγκεντρώνει 24,5%, έναντι 25,2% τον Νοέμβριο. Παρά […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/kalpes-1-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "ΠαΣοΚ: «Ο Μητσοτάκης οφείλει να απομακρύνει τον Λαζαρίδη μετά τις δηλώσεις Γεραπετρίτη»",
           "link": "https://www.tovima.gr/2026/01/28/politics/pasok-o-mitsotakis-ofeilei-na-apomakrynei-ton-lazaridi-meta-tis-diloseis-gerapetriti/",
           "pubDate": "Wed, 28 Jan 2026 22:31:21 +0300",
           "description": "Το ΠαΣοΚ μετά την τοποθέτηση του Γιώργου Γεραπετρίτη, η οποία ουσιαστικά άδειασε τον Μακάριο Λαζαρίδη, ζητά από τον Κυριάκο Μητσοτάκη να απομακρύνει τον δεύτερο από τη θέση του Κοινοβουλευτικού Εκπροσώπου.",
           "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/09/02/pasok-1024x683.jpg",
           "source": "Το Βήμα"
+        },
+        {
+          "title": "Στ. Παπασταύρου στα «15 Λεπτά» των «ΝΕΩΝ»: Ερευνητική γεώτρηση το 2027",
+          "link": "https://www.tanea.gr/2026/01/28/vidcast/st-papastayrou-sta-15-lepta-ton-neon-ereynitiki-geotrisi-to-2027/",
+          "pubDate": "Wed, 28 Jan 2026 19:02:48 +0000",
+          "description": "Ο υπουργός Περιβάλλοντος και Ενέργειας, Σταύρος Παπασταύρου, μιλώντας στην εκπομπή του Γιώργου Παπαχρήστου, «15 Λεπτά», στάθηκε εκτενώς στον ενεργειακό σχεδιασμό της χώρας, δίνοντας έμφαση τόσο στην έρευνα υδρογονανθράκων όσο και στις ηλεκτρικές διασυνδέσεις και το κόστος της ενέργειας. Ο υπουργός τόνισε ότι για πρώτη φορά μετά από σαράντα χρόνια η Ελλάδα θα προχωρήσει σε ερευνητική […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/papastavrou1-1024x587.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "ΠΑΣΟΚ για Λαζαρίδη: Σαφής αποδοκιμασία από τον ΥΠΕΞ, ο Πρωθυπουργός να τον απομακρύνει από Κοινοβουλευτικό Εκπρόσωπο",
@@ -359,12 +415,36 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Ελληνογαλλική άμυνα σε νέα τροχιά: Φρεγάτες Rafale και κοινές ασκήσεις το 2026",
+          "link": "https://www.tanea.gr/print/2026/01/28/politics/akomi-5-xronia-amyntikis-synergasias/",
+          "pubDate": "Wed, 28 Jan 2026 16:56:00 +0000",
+          "description": "Στην Αθήνα αύριο η υπουργός Αμυνας της Γαλλίας, Κατρίν Βοτρίν n Στη φρεγάτα «Κίμων» η συνάντηση με τον Νίκο Δένδια",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/09/nikos-dendias-1-1024x682.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Πέθανε σε ηλικία 40 ετών η τομεάρχης Πολιτισμού του ΠΑΣΟΚ, Αριστέα Καζάκου",
           "link": "https://www.naftemporiki.gr/politics/2065181/pethane-se-ilikia-40-eton-i-tomearchis-politismoy-toy-pasok-aristea-kazakoy/?utm_source=rss&utm_medium=rss&utm_campaign=pethane-se-ilikia-40-eton-i-tomearchis-politismoy-toy-pasok-aristea-kazakoy",
           "pubDate": "Wed, 28 Jan 2026 16:49:22 +0000",
           "description": "«Έφυγε» από τη ζωή σε ηλικία μόλις 40 ετών η τομεάρχης Πολιτισμού του ΠΑΣΟΚ – Κινήματος Αλλαγής, Αριστέα Καζάκου.\nΠέθανε σε ηλικία 40 ετών η τομεάρχης Πολιτισμού του ΠΑΣΟΚ, Αριστέα Καζάκου - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Παρέμβαση Γεραπετρίτη στο Σ.Α του ΟΗΕ: Η μελλοντική ανοικοδόμηση της Γάζας να εδράζεται σε νομιμοποιημένες δομές διακυβέρνησης",
+          "link": "https://www.tanea.gr/2026/01/28/politics/paremvasi-gerapetriti-sto-s-a-tou-oie-i-mellontiki-anoikodomisi-tis-gazas-na-edrazetai-se-nomimopoiimenes-domes-diakyvernisis/",
+          "pubDate": "Wed, 28 Jan 2026 16:48:18 +0000",
+          "description": "Η παρέμβαση του Ελληνα υπουργού Εξωτερικών, Γιώργου Γεραπετρίτη στο ΣΑ του ΟΗΕ για τη Μέση Ανατολή, έχει ως εξής: «Η Ελλάδα συνεχίζει τη θητεία της στο Συμβούλιο Ασφαλείας με σαφήνεια σκοπού και έντονο αίσθημα ευθύνης. Σε μια περίοδο κατά την οποία το διεθνές σύστημα αντιμετωπίζει έντονες προκλήσεις, ο ΟΗΕ —και ιδίως το Συμβούλιο Ασφαλείας— συνεχίζουν […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/gerapetritis-5-1024x471.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Θλίψη στο ΠΑΣΟΚ: Έφυγε από τη ζωή σε ηλικία μόλις 40 ετών το στέλεχος του κόμματος Αριστέα Καζάκου",
+          "link": "https://www.tanea.gr/2026/01/28/politics/thlipsi-sto-pasok-efyge-apo-ti-zoi-se-ilikia-molis-40-eton-to-stelexos-tou-kommatos-aristea-kazakou/",
+          "pubDate": "Wed, 28 Jan 2026 16:36:28 +0000",
+          "description": "Σε ηλικία μόλις 40 ετών έφυγε από τη ζωή η δικηγόρος και στέλεχος του ΠΑΣΟΚ, Αριστέα Καζάκου. Δικηγόρος στο επάγγελμα υπήρξε υποψήφια βουλευτής Μεσσηνίας με το ΠΑΣΟΚ στις εθνικές εκλογές του 2023. Συλλυπητήρια δήλωση για τον θάνατο της Αριστέας Καζάκου, Γραμματέα Τομέα Τουρισμού του ΠΑΣΟΚ, εξέδωσε ο Νίκος Ανδρουλάκης: Αγαπημένη μας Αριστέα, έφυγες τόσο πρόωρα […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/11/pasok-1-1024x683.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "Ερώτηση Ε. Μελέτη προς Κομισιόν: «Πρέπει να σταματήσει η ανεξέλεγκτη προβολή σοκαριστικών εικόνων τραγωδίας στα ΜΜΕ»",
@@ -381,6 +461,14 @@
           "description": "Για μια «νέα εποχή στην Εκκλησία της Κρήτης, που ξεκινά με τις καλύτερες προϋποθέσεις» κάνει λόγο ο πρωθυπουργός Κυριάκος Μητσοτάκης.\nΚ. Μητσοτάκης: Ξεκινά μια νέα εποχή για την Εκκλησία της Κρήτης - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Βουλή: Εκρηκτική αντιπαράθεση για τα Ίμια – «Κυβέρνηση Σημίτη, Αρσένης και Πάγκαλος τραγικοί, μοιραίοι και άβουλοι»",
+          "link": "https://www.tanea.gr/2026/01/28/politics/voyli-ekriktiki-antiparathesi-gia-ta-imia-kyvernisi-simiti-arsenis-kai-pagkalos-tragikoi-m/",
+          "pubDate": "Wed, 28 Jan 2026 15:55:46 +0000",
+          "description": "Τα θέματα των Ιμίων και των κυριαρχικών δικαιωμάτων της χώρας αποτέλεσαν σημείο έντονης αντιπαράθεσης στην Ολομέλεια κατά την συζήτηση του νομοσχεδίου του Υπουργείου Πολιτισμού για την προστασία των έργων τέχνης και των συλλεκτικών αντικειμένων. Ο κοινοβουλευτικός εκπρόσωπος της ΝΔ Μακάριος Λαζαρίδης απαντώντας στον πρόεδρο της “Νίκης” Δημήτρη Νατσιό για τις αναφορές που έκανε νωρίτερα σχετικά […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/6827635-1024x683.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "«Μετωπική» Λαζαρίδη-Χρηστίδη για τα Ίμια στη Βουλή: «Το ΠΑΣΟΚ οδήγησε στο γκριζάρισμα του Αιγαίου» – «Να ανακαλέσετε»",
@@ -405,94 +493,6 @@
           "description": "Σε παρέμβασή του στη Βουλή, ο πρόεδρος του ΠΑΣΟΚ- Κινήματος Αλλαγής, Νίκος Ανδρουλάκης, καταδίκασε εμφατικά τις αναφορές του βουλευτή της ΝΔ, Μακάριου Λαζαρίδη, περί «γκριζαρίσματος» περιοχών στο Αιγαίο μετά τη…\nΝ. Ανδρουλάκης: Είστε υπόλογοι για τη βαθιά θεσμική κρίση – Δεν θα επιτρέψουμε να συνεχιστεί ο θεσμικός κατήφορος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Κριτική Ανδρουλάκη στη κυβέρνηση για τα εργατικά δυστυχήματα και την ευλογιά – Η απάντηση για τα Ίμια",
-          "link": "https://www.tovima.gr/2026/01/28/politics/kritiki-androulaki-sti-kyvernisi-gia-ta-ergatika-dystyximata-kai-tin-eylogia-i-apantisi-gia-ta-imia/",
-          "pubDate": "Wed, 28 Jan 2026 17:10:20 +0300",
-          "description": "Έντονη αντιπαράθεση στη Βουλή προκάλεσαν οι δηλώσεις Λαζαρίδη περί «γκριζαρίσματος» στο Αιγαίο, με τον Νίκο Ανδρουλάκη να ζητά την αποδοκιμασία τους από την κυβέρνηση, ασκώντας παράλληλα σκληρή κριτική για τα εργατικά δυστυχήματα και τη διαχείριση της ευλογιάς",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/21/androulakis-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Συνάντηση Κ. Μητσοτάκη με την υπουργό Ενόπλων Δυνάμεων της Γαλλίας την Πέμπτη",
-          "link": "https://www.naftemporiki.gr/politics/2065102/synantisi-k-mitsotaki-me-tin-ypoyrgo-enoplon-dynameon-tis-gallias-tin-pempti/?utm_source=rss&utm_medium=rss&utm_campaign=synantisi-k-mitsotaki-me-tin-ypoyrgo-enoplon-dynameon-tis-gallias-tin-pempti",
-          "pubDate": "Wed, 28 Jan 2026 14:09:22 +0000",
-          "description": "Την υπουργό Ενόπλων Δυνάμεων της Γαλλίας, Κατρίν Βοτρέν, θα υποδεχθεί αύριο στις 15.45 στο Μέγαρο Μαξίμου ο πρωθυπουργός Κυριάκος Μητσοτάκης.\nΣυνάντηση Κ. Μητσοτάκη με την υπουργό Ενόπλων Δυνάμεων της Γαλλίας την Πέμπτη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "ΠΑΣΟΚ: Καμπάνια για το κυκλοφοριακό πρόβλημα στην Αττική – Λύσεις για ποιοτική καθημερινότητα",
-          "link": "https://www.naftemporiki.gr/politics/2065063/pasok-kampania-gia-to-kykloforiako-provlima-stin-attiki-lyseis-gia-poiotiki-kathimerinotita/?utm_source=rss&utm_medium=rss&utm_campaign=pasok-kampania-gia-to-kykloforiako-provlima-stin-attiki-lyseis-gia-poiotiki-kathimerinotita",
-          "pubDate": "Wed, 28 Jan 2026 13:35:49 +0000",
-          "description": "Με καμπάνια το ΠΑΣΟΚ παρουσιάζει τις προτάσεις του για την αντιμετώπιση του κυκλοφοριακού προβλήματος στην Αττική, δίνοντας στη δημοσιότητα σήμερα σχετικό σποτ.\nΠΑΣΟΚ: Καμπάνια για το κυκλοφοριακό πρόβλημα στην Αττική – Λύσεις για ποιοτική καθημερινότητα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Τσιάρας: Ο εμβολιασμός δεν συνεπάγεται απαραίτητα τη μη θανάτωση ζώων – Κυβερνητική απόφαση η ενίσχυση των μέτρων βιοασφάλειας",
-          "link": "https://www.naftemporiki.gr/politics/2065051/tsiaras-o-emvoliasmos-den-synepagetai-aparaitita-ti-mi-thanatosi-zoon-kyvernitiki-apofasi-i-enischysi-ton-metron-vioasfaleias/?utm_source=rss&utm_medium=rss&utm_campaign=tsiaras-o-emvoliasmos-den-synepagetai-aparaitita-ti-mi-thanatosi-zoon-kyvernitiki-apofasi-i-enischysi-ton-metron-vioasfaleias",
-          "pubDate": "Wed, 28 Jan 2026 13:20:38 +0000",
-          "description": "«Η εθνική στρατηγική για τη χώρα είναι να ενισχύσουμε τα μέτρα βιοασφάλειας και να κλείσουμε τον κύκλο ουσιαστικά της ευλογιάς χωρίς να καταφεύγουμε στον εμβολιασμό», σημείωσε, μεταξύ άλλων ο Υπουργός…\nΤσιάρας: Ο εμβολιασμός δεν συνεπάγεται απαραίτητα τη μη θανάτωση ζώων – Κυβερνητική απόφαση η ενίσχυση των μέτρων βιοασφάλειας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Πυρά ΣΥΡΙΖΑ κατά Π. Μαρινάκη με αιχμή τις δηλώσεις του για την τραγωδία στα Τρίκαλα",
-          "link": "https://www.naftemporiki.gr/politics/2065041/pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala/?utm_source=rss&utm_medium=rss&utm_campaign=pyra-syriza-kata-p-marinaki-me-aichmi-tis-diloseis-toy-gia-tin-tragodia-sta-trikala",
-          "pubDate": "Wed, 28 Jan 2026 13:06:35 +0000",
-          "description": "Πυρά κατά του κυβερνητικού εκπροσώπου με αιχμή τη δήλωσή του ότι το τραγικό δυστύχημα στα Τρίκαλα «δεν ακουμπάει θέματα εργασίας» εξαπολύει ο ΣΥΡΙΖΑ.\nΠυρά ΣΥΡΙΖΑ κατά Π. Μαρινάκη με αιχμή τις δηλώσεις του για την τραγωδία στα Τρίκαλα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Π. Μαρινάκης: Οι μεγαλύτεροι πολιτικοί απατεώνες κάνουν «καριέρα» πάνω σε τραγωδίες",
-          "link": "https://www.naftemporiki.gr/politics/2065004/p-marinakis-oi-megalyteroi-politikoi-apateones-kanoyn-kariera-pano-se-tragodies/?utm_source=rss&utm_medium=rss&utm_campaign=p-marinakis-oi-megalyteroi-politikoi-apateones-kanoyn-kariera-pano-se-tragodies",
-          "pubDate": "Wed, 28 Jan 2026 12:51:31 +0000",
-          "description": "Για τις εξελίξεις γύρω από τη φονική έκρηξη στο εργοστάσιο της «Βιολάντα» στα Τρίκαλα, αλλά και για τη συζήτηση που άνοιξε αναφορικά με τα εργατικά δυστυχήματα στη χώρα μας τοποθετήθηκε…\nΠ. Μαρινάκης: Οι μεγαλύτεροι πολιτικοί απατεώνες κάνουν «καριέρα» πάνω σε τραγωδίες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Αντιπρόεδρος της Κοινοβουλευτικής Συνέλευσης του Συμβουλίου της Ευρώπης εξελέγη η Ντ. Μπακογιάννη",
-          "link": "https://www.naftemporiki.gr/politics/2065010/antiproedros-tis-koinovoyleytikis-syneleysis-toy-symvoylioy-tis-eyropis-exelegi-i-nt-mpakogianni/?utm_source=rss&utm_medium=rss&utm_campaign=antiproedros-tis-koinovoyleytikis-syneleysis-toy-symvoylioy-tis-eyropis-exelegi-i-nt-mpakogianni",
-          "pubDate": "Wed, 28 Jan 2026 12:30:28 +0000",
-          "description": "Η βουλευτής της Νέας Δημοκρατίας, Ντόρα Μπακογιάννη, εξελέγη αντιπρόεδρος της Κοινοβουλευτικής Συνέλευσης του Συμβουλίου της Ευρώπης.\nΑντιπρόεδρος της Κοινοβουλευτικής Συνέλευσης του Συμβουλίου της Ευρώπης εξελέγη η Ντ. Μπακογιάννη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Βουλή: Καυγάς για τα Ίμια – Οι βαριές κατηγορίες Λαζαρίδη, η απάντηση Χρηστίδη",
-          "link": "https://www.tovima.gr/2026/01/28/politics/vouli-kaygas-gia-ta-imia-oi-varies-katigories-lazaridi-i-apantisi-xristidi/",
-          "pubDate": "Wed, 28 Jan 2026 15:20:36 +0300",
-          "description": "Υψηλοί τόνοι στη Βουλή 30 χρόνια μετά τα Ίμια - Πώς «άναψαν τα αίματα» μεταξύ Λαζαρίδη και Χρηστίδη - Τι είπαν οι υπόλοιποι.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/imia-1024x679.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Εξεταστική για ΟΠΕΚΕΠΕ- Κ. Μπατζελή: Το «μυστικό» δεν είναι ο «τεχνικός σύμβουλος» αλλά το πότε «ανοίγεις» τις αιτήσεις",
-          "link": "https://www.naftemporiki.gr/politics/2064994/exetastiki-gia-opekepe-k-mpatzeli-to-mystiko-den-einai-o-technikos-symvoylos-alla-to-pote-anoigeis-tis-aitiseis/?utm_source=rss&utm_medium=rss&utm_campaign=exetastiki-gia-opekepe-k-mpatzeli-to-mystiko-den-einai-o-technikos-symvoylos-alla-to-pote-anoigeis-tis-aitiseis",
-          "pubDate": "Wed, 28 Jan 2026 12:15:40 +0000",
-          "description": "Το «μυστικό» στην υπόθεση των αγροτικών ενισχύσεων δεν είναι ο «τεχνικός σύμβουλος» αλλά το πότε «ανοίγεις» τις αιτήσεις, επεσήμανε η πρώην υπουργός Αγροτικής Ανάπτυξης και Τροφίμων (Οκτώβριος 2009 έως Σεπτέμβριος…\nΕξεταστική για ΟΠΕΚΕΠΕ- Κ. Μπατζελή: Το «μυστικό» δεν είναι ο «τεχνικός σύμβουλος» αλλά το πότε «ανοίγεις» τις αιτήσεις - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Η οδική ασφάλεια στις προτεραιότητες του Τασούλα – Ποιους υποδέχθηκε στο Προεδρικό Μέγαρο",
-          "link": "https://www.tovima.gr/2026/01/28/politics/i-odiki-asfaleia-stis-proteraiotites-tou-tasoula-poious-ypodexthike-sto-proedriko-megaro/",
-          "pubDate": "Wed, 28 Jan 2026 14:38:17 +0300",
-          "description": "Συνάντηση του Προέδρου της Δημοκρατίας Κωνσταντίνου Τασούλα με φορείς οδικής ασφάλειας για την καλλιέργεια οδικής συνείδησης, τη στήριξη θυμάτων τροχαίων και τη συνέχιση της μείωσης των θανατηφόρων ατυχημάτων",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2025/03/13/tasoulas3-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Τσιάρας: Στόχος να κλείσουμε τον κύκλο της ευλογιάς χωρίς εμβολιασμό",
-          "link": "https://www.tovima.gr/2026/01/28/politics/tsiaras-stoxos-na-kleisoume-ton-kyklo-tis-eylogias-xoris-emvoliasmo/",
-          "pubDate": "Wed, 28 Jan 2026 14:13:00 +0300",
-          "description": "«Ζωτικής σημασίας να εκριζώσουμε την ευλογιά των αιγοπροβάτων μέχρι το τέλος του έτους», σημείωσε ο υπουργός Αγροτικής Ανάπτυξης και Τροφίμων, Κώστας Τσιάρας σε συνέντευξή του.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/28/tsiaras-1-1024x683.jpg",
-          "source": "Το Βήμα"
         }
       ]
     },
@@ -747,6 +747,22 @@
       "color": "green",
       "articles": [
         {
+          "title": "Λιόν-ΠΑΟΚ: Αφιλόξενη Γαλλία, μέχρι να σπάσει το σερί στη Λιλ (vids)",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511180/lion-paok-afiloxeni-gallia-mehri-na-spasei-seri-sti-lil-vids",
+          "pubDate": "Thu, 29 Jan 2026 11:21:50 +0200",
+          "description": "Η Γαλλία δεν υπήρξε ποτέ φιλόξενο έδαφος για τον ΠΑΟΚ, όμως κάθε του επιστροφή κουβαλά μνήμη και παραστάσεις. – ΑΠΟΣΤΟΛΗ ΣΤΗ ΛΙΟΝ: ΣΤΑΥΡΟΣ ΣΟΥΝΤΟΥΛΙΔΗΣ",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/konstantelias_paok.jpg?itok=T5Trz8Cd",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Απαγορεύεται η είσοδος στο γήπεδο της Λυών σε όσους φορούν διακριτικά",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511179/paok-apagoreyetai-i-eisodos-sto-gipedo-tis-lyon-se-osoys-foroyn",
+          "pubDate": "Thu, 29 Jan 2026 11:20:48 +0200",
+          "description": "Ο ΠΑΟΚ εξέδωσε ανακοίνωση με τα μέτρα ασφαλείας πριν το ματς με τη Λυών για το Europa League, δίνοντας σαφείς οδηγίες στους Έλληνες φιλάθλους.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/paok_opadoi_6_0.jpg?itok=cqBQz0qS",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ολυμπιακός: Το «μιλάτε πολύ» οπαδού του Άγιαξ σε φίλους των ερυθρόλευκων στο 1-1 (vid)",
           "link": "https://www.gazzetta.gr/football/champions-league/2511178/olympiakos-milate-poly-opadoy-toy-agiax-se-filoys-ton",
           "pubDate": "Thu, 29 Jan 2026 11:14:48 +0200",
@@ -969,22 +985,6 @@
           "description": "Με ανάρτησή του στον λογαριασμό του στα social media ο Ούρος Ράτσιτς αναφέρθηκε στην πορεία του Άρη και ζήτησε την υποστήριξη του κόσμου.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/5003807_1.jpg?itok=HXPIg2--",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Car sharing: Σύναψη στρατηγικής συνεργασίας μεταξύ Surprice Car Rental και Caroo",
-          "link": "https://www.gazzetta.gr/plus/2511156/car-sharing-synapsi-stratigikis-synergasias-metaxy-surprice-car-rental-kai-caroo",
-          "pubDate": "Thu, 29 Jan 2026 09:37:14 +0200",
-          "description": "Με αυτή τη στρατηγική συμμαχία, η Surprice Car Rental επιβεβαιώνει τη δέσμευσή της να επενδύει σε καινοτόμες λύσεις κινητικότητας και να εμπλουτίζει το χαρτοφυλάκιό της με υπηρεσίες που αντανακλούν τις διεθνείς τάσεις του mobility.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/processed-014bf261-d2e9-4af9-a3be-4a77726ceb3b.jpeg?itok=-nGKyIb7",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: Οι βουτιές αυτοθυσίας Γκρέι-Μπάρτλεϊ που έδειξαν ότι η Ένωση θα πάρει το ματς (vid)",
-          "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2511155/aek-oi-boyties-aytothysias-gkrei-mpartlei-poy",
-          "pubDate": "Thu, 29 Jan 2026 09:36:49 +0200",
-          "description": "Γκρέι και Μπάρτλεϊ κατάθεσαν την ψυχή τους στο παρκέ κόντρα στην Άλμπα για να βοηθήσουν την ΑΕΚ και μια φάση περιγράφει με τον καλύτερο τρόπο όσα έκαναν.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/gray23.jpg?itok=aDlSfGOe",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Η επικρατέστερη ενδεκάδα του Παναθηναϊκού απέναντι στη Ρόμα",
+          "link": "https://panathinaikos24.gr/2026/01/29/618187/i-epikratesteri-endekada-tou-panathinaikou-apenanti-sti-roma/",
+          "pubDate": "Thu, 29 Jan 2026 09:24:53 +0000",
+          "description": "Ποια είναι επικρατέστερη ενδεκάδα του Παναθηναϊκού απέναντι στη Ρόμα",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/4987976-1.jpg?fit=900%2C594&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Euroleague: Ανακοινώθηκαν οι διαιτητές για το Βιλερμπάν – Παναθηναϊκός! (pic)",
           "link": "https://trifilara.gr/euroleague-anakoinwthikan-oi-diaithtes-gia-to-vilerban-panathinaikos-pic/?utm_source=rss&utm_medium=rss&utm_campaign=euroleague-anakoinwthikan-oi-diaithtes-gia-to-vilerban-panathinaikos-pic",
@@ -1223,14 +1231,6 @@
           "description": "Ο Παναθηναϊκός επιβεβαίωσε την αγωνιστική του ανωτερότητα στα ντέρμπι της φετινής σεζόν, επικρατώντας με 88-85 του Ολυμπιακού στο κλειστό «Παύλος Γιαννακόπουλος», στο πλαίσιο της 16ης αγωνιστικής της Α1 Μπάσκετ Γυναικών. \nThe post Μεγάλη νίκη ο Παναθηναϊκός, τελείωσε τον Ολυμπιακό στον «Τάφο»! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
-        },
-        {
-          "title": "Πράσινη παράνοια στη Λεωφόρο και δεύτερη νίκη επί του Ολυμπιακού με “καυτή” Σπανού!",
-          "link": "https://panathinaikos24.gr/2026/01/28/618129/prasini-paranoia-sti-leoforo-kai-deyteri-niki-epi-tou-olympiakou-me-kayti-spanou/",
-          "pubDate": "Wed, 28 Jan 2026 18:11:13 +0000",
-          "description": "Σε ένα τρομερό ντέρμπι ο Παναθηναϊκός ήταν ανώτερος από τον Ολυμπιακό, στη Λεωφόρο και με μια ΕΠΙΚΗ, Άρτεμις Σπανού που έκανε double double με 24 πόντους, 10 ριμπάουντ και έξι ασίστ, επικράτησε 88-85!",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6828305.jpg?fit=900%2C599&amp;ssl=1",
-          "source": "Panathinaikos24"
         }
       ]
     },
