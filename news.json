@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T00:25:25.126Z",
+  "lastUpdated": "2026-01-29T00:30:35.984Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Γάζα: Δέκα χώρες καλούν το Ισραήλ να επιτρέψει «ανεμπόδιστη» είσοδο της ανθρωπιστικής βοήθειας",
+          "link": "https://www.in.gr/2026/01/29/world/gaza-deka-xores-kaloun-israil-na-epitrepsei-anempodisti-eisodo-tis-anthropistikis-voitheias/",
+          "pubDate": "Thu, 29 Jan 2026 02:29:15 +0300",
+          "description": "Δέκα χώρες ζητούν από το Ισραήλ να επιτρέψει την ροή της ανθρωπιστικής βοήθειας στη Γάζα ανοίγοντας το πέρασμα στη Ράφα, λίγες ημέρες μετά την κατεδάφιση των γραφείων της UNRWA του ΟΗΕ στην Ιερουσαλήμ",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/image1170x530cropped-5-768x349.jpg",
+          "source": "In.gr"
+        },
         {
           "title": "Βαθμολογία UEFA: Η Ελλάδα απειλεί την Τσεχία και κάνει όνειρα για 10άδα μετά την πρόκριση του Ολυμπιακού",
           "link": "https://www.newsit.gr/athlitika/vathmologia-uefa-i-ellada-apeilei-tin-tsexia-kai-kanei-oneira-gia-10ada-meta-tin-prokrisi-tou-olympiakou/4586312/",
@@ -121,11 +129,11 @@
           "source": "In.gr"
         },
         {
-          "title": "Μεντιλίμπαρ: «Δουλεύουμε και έρχονται τα αποτελέσματα»",
+          "title": "Μεντιλίμπαρ: «Δουλεύουμε και έρχονται τα αποτελέσματα» (vid)",
           "link": "https://www.in.gr/2026/01/29/sports/football/champions-league/mentilimpar-douleyoume-kai-erxontai-ta-apotelesmata/",
           "pubDate": "Thu, 29 Jan 2026 01:08:21 +0300",
-          "description": "Ο Χοσέ Λουίς Μεντιλίμπαρ τόνισε ότι δεν υπάρχει μαγική συνταγή για τις επιτυχίες αλλά έρχονται επειδή οι παίκτες δουλεύουν",
-          "thumbnail": null,
+          "description": "Ο Χοσέ Λουίς Μεντιλίμπαρ τόνισε ότι δεν υπάρχει μαγική συνταγή για τις επιτυχίες αλλά έρχονται επειδή οι παίκτες δουλεύουν.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828983-768x553.jpg",
           "source": "In.gr"
         },
         {
@@ -238,14 +246,6 @@
           "pubDate": "Thu, 29 Jan 2026 00:45:41 +0300",
           "description": "Γιορτινό σκηνικό στήθηκε στα αποδυτήρια του Ολυμπιακού μετά την ιστορική νίκη στην Ολλανδία, που σήμανε μεγάλη πρόκριση στην επόμενη φάση του Champions League. «Παρών» και ο Μπάμπης Κωστούλας!",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/6828974-768x554.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Ρέτσος: «Ο Ολυμπιακός είναι ομάδα για μεγάλα πράγματα»",
-          "link": "https://www.in.gr/2026/01/29/sports/football/champions-league/retsos-o-olympiakos-einai-omada-gia-megala-pragmata/",
-          "pubDate": "Thu, 29 Jan 2026 00:40:50 +0300",
-          "description": "Μετά τη σπουδαία νίκη των Ερυθρόλευκων, ο αρχηγός του Ολυμπιακού, Παναγιώτης Ρέτσος μίλησε στην κάμερα του MEGA και υπογράμμισε ότι αυτή η ομάδα αξίζει να προχωρήσει",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/RETSOS-1-768x512.jpg",
           "source": "In.gr"
         }
       ]
