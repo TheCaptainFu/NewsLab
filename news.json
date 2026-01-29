@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T06:05:28.206Z",
+  "lastUpdated": "2026-01-29T06:08:21.404Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,22 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Ευρωπαϊκή Ένωση: 650 εκατ. ευρώ για αναβάθμιση δικτύων ηλεκτρισμού και υδρογόνου",
+          "link": "http://gr.euronews.com/my-europe/2026/01/29/eyrwpaikh-enwsh-650-ekat-eyrw-gia-anaba8mish-diktywn-hlektrismoy-kai-ydrogonoy",
+          "pubDate": "Thu, 29 Jan 2026 07:02:48 +0100",
+          "description": "Ο Ευρωπαίος Επίτροπος Ενέργειας και Στέγασης, Νταν Γιόργκενσεν, δήλωσε ότι τα έργα αυτά θα ανοίξουν τον δρόμο για «καθαρή και φθηνή ενέργεια για τους καταναλωτές»",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
+          "title": "Ειδήσεις | 29 Ιανουαρίου 2026 - Πρωινό δελτίο",
+          "link": "http://gr.euronews.com/video/2026/01/29/eidhseis-29-ianoyarioy-2026-prwino-deltio",
+          "pubDate": "Thu, 29 Jan 2026 07:00:22 +0100",
+          "description": "Ενημερωθείτε για τις πιο σημαντικές ειδήσεις από την Ευρώπη και όχι μόνο στις 29 Ιανουαρίου 2026 - τα πιο πρόσφατα νέα, οι έκτακτες ειδήσεις, θέματα από όλο τον κόσμο, την οικονομία, την πολιτική, τον πολιτισμό, τα ταξίδια",
+          "thumbnail": null,
+          "source": "Euronews"
+        },
+        {
           "title": "Οι πεταλούδες μονάρχες πρέπει να διανύσουν 3.000 χλμ. Θα επιβιώσουν με ολοένα λιγότερο νέκταρ;",
           "link": "http://gr.euronews.com/green/2026/01/29/monarch-butterflies-face-a-3000-km-migration-can-they-survive-with-dwindling-nectar-suppli",
           "pubDate": "Thu, 29 Jan 2026 07:00:18 +0100",
@@ -721,22 +737,6 @@
           "link": "http://gr.euronews.com/next/2026/01/28/pornhub-will-restrict-access-to-new-users-in-the-uk-starting-next-week-the-company-has-ann",
           "pubDate": "Wed, 28 Jan 2026 17:02:46 +0100",
           "description": "Η Aylo, η εταιρεία πίσω από το Pornhub, αποχωρεί από την αγορά του Ηνωμένου Βασιλείου, επειδή λέει ότι οι νέοι κανόνες επαλήθευσης ηλικίας δεν λειτουργούν.",
-          "thumbnail": null,
-          "source": "Euronews"
-        },
-        {
-          "title": "Moment BA plane to London loses wheel after take-off in Vegas",
-          "link": "https://www.bbc.com/news/videos/c04120yqdq5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 16:00:39 GMT",
-          "description": "Dramatic footage shows wheel falling off a British Airways aircraft shortly after take-off from Harry Reid International airport.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c0/live/10898c50-fc6d-11f0-a8b8-bdd2c5f9bcad.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Προτροπή για ταχύτερη ασφάλεια στον διαστημικό τομέα της ΕΕ: 5 σημεία από Ευρ. Διαστημικό Συνέδριο",
-          "link": "http://gr.euronews.com/next/2026/01/28/the-european-unions-space-sector-has-been-urged-to-accelerate-its-efforts-concerning-secur",
-          "pubDate": "Wed, 28 Jan 2026 16:42:50 +0100",
-          "description": "Στις Βρυξέλλες, οι ηγέτες του ευρωπαϊκού διαστήματος κλήθηκαν να «επιταχύνουν» σε θέματα ασφάλειας και να εκτοξεύσουν τον αστερισμό IRIS2 έως το 2029. Το Euronews Next ρωτά αν ο κλάδος εμπνέει.",
           "thumbnail": null,
           "source": "Euronews"
         }
