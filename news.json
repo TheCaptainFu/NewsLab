@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T03:15:25.486Z",
+  "lastUpdated": "2026-01-29T03:20:31.208Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -747,6 +747,14 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ολυμπιακός: Φαγητό και γλέντι σε κεντρικά μπαρ μετά την επική πρόκριση για τους φιλάθλους των ερυθρόλευκων ",
+          "link": "https://www.gazzetta.gr/football/champions-league/2511121/olympiakos-fagito-kai-glenti-se-kentrika-mpar-meta-tin-epiki",
+          "pubDate": "Thu, 29 Jan 2026 05:18:24 +0200",
+          "description": "Μετά την πρόκριση στους 24 του Champions League η όρεξη για φαγητό αλλά και διασκέδαση είχε ανοίξει για τους φίλους του Ολυμπιακού ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΠΑΝΑΓΙΩΤΗΣ ΔΑΛΑΤΑΡΙΩΦ.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/kosmos.jpg?itok=FAG1gA1d",
+          "source": "Gazzetta"
+        },
+        {
           "title": "ΠΑΟΚ - Δυστύχημα στη Ρουμανία: Στην Ομόνοια για τα επτά αετόπουλα",
           "link": "https://www.gazzetta.gr/football/europa-league/2511104/paok-dystyhima-sti-roymania-stin-omonoia-gia-ta-epta-aetopoyla",
           "pubDate": "Thu, 29 Jan 2026 01:30:56 +0200",
@@ -976,14 +984,6 @@
           "pubDate": "Thu, 29 Jan 2026 00:11:06 +0200",
           "description": "Ο Ολυμπιακός πήρε μεγάλο διπλό με 1-2 επί του Άγιαξ και εξασφάλισε μια θέση στα play offs του Champions League.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/oly_9.jpg?itok=yolAEePY",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Champions League: Οι ομάδες που προκρίθηκαν στα play-offs και οι διασταυρώσεις",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511082/champions-league-oi-omades-poy-prokrithikan-sta-play-offs-kai-oi",
-          "pubDate": "Thu, 29 Jan 2026 00:09:28 +0200",
-          "description": "Δείτε τις 16 ομάδες που θα διαμορφώσουν το παζλ των play-offs του Champions League, καθώς και τις διασταυρώσεις μεταξύ τους.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/real_madrid_16.jpg?itok=7Zmr3mGg",
           "source": "Gazzetta"
         }
       ]
