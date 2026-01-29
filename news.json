@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T09:35:25.588Z",
+  "lastUpdated": "2026-01-29T09:40:28.426Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,38 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Θεσσαλονίκη: Μοντέλο του Only Fans βγάζει τον σύντροφό της βόλτα με λουρί και μάσκα σε παραλία και Ναυαρίνου, δείτε βίντεο",
+          "link": "https://www.protothema.gr/greece/article/1765295/thessaloniki-modelo-tou-only-fans-vgazei-ton-sudrofo-tis-volta-me-louri-se-paralia-kai-nauarinou-deite-video/?utm_source=rss",
+          "pubDate": "Thu, 29 Jan 2026 11:37:00 +0200",
+          "description": "Σκηνές που δίχως αμφιβολία τραβούν τα βλέμματα των περαστικών διαδραματίζονται σε κεντρικούς δρόμους της Θεσσαλονίκης",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/joanna-pink__1_.jpg",
+          "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Ολυμπιακός – Μπαρτσελόνα: Την πέμπτη σερί νίκη στη Euroleague ψάχνουν οι Πειραιώτες",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-mpartselona-tin-pempti-seri-niki-sti-euroleague-psaxnoun-oi-peiraiotes/4586587/",
+          "pubDate": "Thu, 29 Jan 2026 09:36:00 +0000",
+          "description": "Ο Ολυμπιακός υποδέχεται την Μπαρτσελόνα στο πλαίσιο της 25ης αγωνιστικής της Euroleague (29/01/26, 21:15, Newsit.gr, Novasports Prime) και θέλει να επεκτείνει το νικηφόρο σερί του ...  \nTo άρθρο Ολυμπιακός – Μπαρτσελόνα: Την πέμπτη σερί νίκη στη Euroleague ψάχνουν οι Πειραιώτες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/walkup-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Άντζελα Γκερέκου: Δεν μπορώ να δεχτώ ότι κάποιοι έγιναν εκατομμυριούχοι πουλώντας την προσωπική τους ζωή",
+          "link": "https://www.newsit.gr/lifestyle/antzela-gkerekou-den-mporo-na-dexto-oti-kapoioi-eginan-ekatommyriouxoi-poulontas-tin-prosopiki-tous-zoi/4586568/",
+          "pubDate": "Thu, 29 Jan 2026 09:35:45 +0000",
+          "description": "«Χρησιμοποίησαν όλα τα ανήθικα μέσα για να μην έχω τον κόσμο κοντά μου» είπε μεταξύ άλλων η Άντζελα Γκερέκου. Η Άντζελα Γκερέκου έδωσε συνέντευξη στην ...  \nTo άρθρο Άντζελα Γκερέκου: Δεν μπορώ να δεχτώ ότι κάποιοι έγιναν εκατομμυριούχοι πουλώντας την προσωπική τους ζωή δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/gerekou-ndp-1200x862.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Ο Αλέξανδρος Αυλωνίτης ανακοίνωσε την αποχώρησή του από το Κίνημα Δημοκρατίας με επίθεση κατά Κασσελάκη",
+          "link": "https://www.newsit.gr/politikh/o-aleksandros-aylonitis-anakoinose-tin-apoxorisi-tou-apo-to-kinima-dimokratias-me-epithesi-kata-kasselaki/4586592/",
+          "pubDate": "Thu, 29 Jan 2026 09:34:22 +0000",
+          "description": "Ο βουλευτής και ιδρυτικό του μέλος του Κινήματος Δημοκρατίας Αλέξανδρος Αυλωνίτης ανακοίνωσε την αποχώρησή του από το κόμμα εξαπολύοντας σφοδρή κριτική στην ηγεσία και τον ...  \nTo άρθρο Ο Αλέξανδρος Αυλωνίτης ανακοίνωσε την αποχώρησή του από το Κίνημα Δημοκρατίας με επίθεση κατά Κασσελάκη δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/avlonitis-eurok-1200x800.jpg",
+          "source": "NewsIT"
+        },
         {
           "title": "Huda Kattan: Οργή για την ιδρύτρια της Huda Beauty, την κατηγορούν ότι στηρίζει το καθεστώς του Ιράν και καλούν σε μποϊκοτάζ στα προϊόντα της",
           "link": "https://www.newsit.gr/lifestyle/huda-kattan-orgi-gia-tin-idrytria-tis-huda-beauty-tin-katigoroun-oti-stirizei-to-kathestos-tou-iran-kai-kaloun-se-mpoikotaz-sta-proionta-tis/4586577/",
@@ -109,7 +141,7 @@
           "link": "https://www.newsit.gr/ellada/tragodia-me-opadous-tou-paok-lepto-pros-lepto-i-epistrofi-nekron-kai-traymation-apo-to-tragiko-troxaio-sti-roumania/4586542/",
           "pubDate": "Thu, 29 Jan 2026 09:00:59 +0000",
           "description": "Βυθισμένη στη θλίψη παραμένει ολόκληρη η Ελλάδα από τον τραγικό θάνατο των οπαδών του ΠΑΟΚ στον «δρόμο του θανάτου» στη Ρουμανία. Σήμερα (29.01.2026) ξεκίνησαν οι ...  \nTo άρθρο Τραγωδία με οπαδούς του ΠΑΟΚ: Λεπτό προς λεπτό η επιστροφή νεκρών και τραυματιών από το τραγικό τροχαίο στη Ρουμανία δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aeroskafos-roumania-troxaio.jpg",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/aeroskafos-roumania-troxaio-1.jpg",
           "source": "NewsIT"
         },
         {
@@ -209,43 +241,11 @@
           "source": "Πρώτο Θέμα"
         },
         {
-          "title": "ΕΕ: Έγκριση επιχορήγησης για τις μελέτες της ηλεκτρικής διασύνδεσης Αιγύπτου – Ελλάδας",
-          "link": "https://www.newsit.gr/oikonomia/finance/ee-egkrisi-epixorigisis-gia-tis-meletes-tis-ilektrikis-diasyndesis-aigyptou-elladas/4586509/",
-          "pubDate": "Thu, 29 Jan 2026 08:34:35 +0000",
-          "description": "Εγκρίθηκε χθες (28.1.2026) από την αρμόδια Υπηρεσία της Ευρωπαϊκής Επιτροπής επιχορήγηση ύψους 9.560.000 ευρώ για την εκπόνηση των επόμενων μελετών για το έργο της ηλεκτρικής ...  \nTo άρθρο ΕΕ: Έγκριση επιχορήγησης για τις μελέτες της ηλεκτρικής διασύνδεσης Αιγύπτου – Ελλάδας δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/istock-2204965084.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Άννα Φόνσου για Αλίκη Βουγιουκλάκη: Θα ζούσε αν δεν είχε τη μανία να μην κακοκαρδίσει τους θαυμαστές της",
-          "link": "https://www.newsit.gr/lifestyle/anna-fonsou-gia-aliki-vougiouklaki-tha-zouse-an-den-eixe-ti-mania-na-min-kakokardisei-tous-thaymastes-tis/4586503/",
-          "pubDate": "Thu, 29 Jan 2026 08:32:04 +0000",
-          "description": "Η Άννα Φόνσου παραχώρησε συνέντευξη στην εκπομπή «Νωρίς νωρίς» στην ΕΡΤ και μίλησε για τη σχέση της με την Αλίκη Βουγιουκλάκη. Όπως ανέφερε, η «εθνική ...  \nTo άρθρο Άννα Φόνσου για Αλίκη Βουγιουκλάκη: Θα ζούσε αν δεν είχε τη μανία να μην κακοκαρδίσει τους θαυμαστές της δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/fonsou-ndp-1200x847.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Ρουσόπουλος πρόεδρος της οργανωτικής επιτροπής του 16ου συνεδρίου της ΝΔ που θα διεξαχθεί 15-17 Μαΐου",
-          "link": "https://www.in.gr/2026/01/29/politics/o-rousopoulos-proedros-tis-organotikis-epitropis-tou-16ou-synedriou-tis-nd-pou-tha-dieksaxthei-15-17-maiou/",
-          "pubDate": "Thu, 29 Jan 2026 11:27:57 +0300",
-          "description": "Ο προσυνεδριακός διάλογος ξεκινά με τη διοργάνωση του πρώτου προσυνεδρίου της ΝΔ, το οποίο θα πραγματοποιηθεί στα Ιωάννινα την Τετάρτη 4 Φεβρουαρίου 2026",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/neadimokratia-1200x800-2-1200x800-768x512.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Παναθηναϊκός: Χωρίς τον Κέντρικ Ναν κόντρα στη Βιλερμπάν",
-          "link": "https://www.newsit.gr/athlitika/panathinaikos-xoris-ton-kentrik-nan-kontra-sti-vilermpan/4586504/",
-          "pubDate": "Thu, 29 Jan 2026 08:27:46 +0000",
-          "description": "Ο Κέντρικ Ναν συνεχίζει να ταλαιπωρείται από διάστρεμμα και δεν θα αγωνίστει ούτε στο παιχνίδι του Παναθηναϊκού κόντρα στη Βιλερμπάν στη Γαλλία για την 25η ...  \nTo άρθρο Παναθηναϊκός: Χωρίς τον Κέντρικ Ναν κόντρα στη Βιλερμπάν δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/nunn-8-1200x800.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Ο Μπαρτζώκας εμφανίστηκε σε βιντεοκλήση στη «Γιόχαν Κρόιφ Αρένα» και έγινε viral (pic)",
-          "link": "https://www.in.gr/2026/01/29/sports/basketball/euroleague/o-mpartzokas-emfanistike-se-vinteoklisi-sti-gioxan-kroif-arena-kai-egine-viral-pic/",
-          "pubDate": "Thu, 29 Jan 2026 11:26:45 +0300",
-          "description": "Κι όμως, ο Γιώργος Μπαρτζώκας (με την βοήθεια της τεχνολογίας) βρέθηκε στο Άμστερνταμ και το ματς του Ολυμπιακού.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/1232131-768x605.png",
+          "title": "Έχω παιδιά: Η οικογένεια Πολίτη είναι και πάλι εδώ",
+          "link": "https://www.in.gr/2026/01/29/plus/medianews/exo-paidia-oikogeneia-politi-einai-kai-pali-edo/",
+          "pubDate": "Thu, 29 Jan 2026 11:38:23 +0300",
+          "description": "Την Κυριακή 1 Φεβρουαρίου, κάνει πρεμιέρα ο δεύτερος κύκλος της κωμικής σειρά Έχω παιδιά. Στις 21.00, στο MEGA.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/exwpaidia-ep1-2-5-768x504.jpg",
           "source": "In.gr"
         }
       ]
@@ -747,6 +747,38 @@
       "color": "green",
       "articles": [
         {
+          "title": "Ρογκαβόπουλος: «Συλλυπητήρια στις οικογένειες, δεν χωράνε λόγια»",
+          "link": "https://www.gazzetta.gr/basketball/euroleague/2511184/rogkabopoylos-syllypitiria-stis-oikogeneies-den-horane-logia",
+          "pubDate": "Thu, 29 Jan 2026 11:38:37 +0200",
+          "description": "O Nίκος Ρογκαβόπουλος αναφέρθηκε στους αδικοχαμένους οπαδούς του ΠΑΟΚ κατά την αναχώρηση του Παναθηναϊκού για τη Λυών.",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/rogkavopoulos_eurokinissi_1.jpg?itok=z7Wbq64B",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λιόν-ΠΑΟΚ: Ο Τάισον ξανασυναντά τον Φονσέκα επτά χρόνια μετά",
+          "link": "https://www.gazzetta.gr/football/europa-league/2511183/lion-paok-o-taison-xanasynanta-ton-fonseka-epta-hronia-meta",
+          "pubDate": "Thu, 29 Jan 2026 11:36:16 +0200",
+          "description": "Μια ωραία ιστορία από το παρελθόν που θα ζωντανέψει στο Groupama Stadium όταν ξανασυναντηθούν ο Τάισον με τον Πάουλο Φονσέκα. ΑΠΟΣΤΟΛΗ ΣΤΗ ΛΙΟΝ: ΣΤΑΥΡΟΣ ΣΟΥΝΤΟΥΛΙΔΗΣ",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/taison_shaktar.jpg?itok=_2OTKdu8",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός – Μπαρτσελόνα: Την πέμπτη σερί νίκη στη Euroleague ψάχνουν οι Πειραιώτες",
+          "link": "https://www.newsit.gr/athlitika/olympiakos-mpartselona-tin-pempti-seri-niki-sti-euroleague-psaxnoun-oi-peiraiotes/4586587/",
+          "pubDate": "Thu, 29 Jan 2026 09:36:00 +0000",
+          "description": "Ο Ολυμπιακός υποδέχεται την Μπαρτσελόνα στο πλαίσιο της 25ης αγωνιστικής της Euroleague (29/01/26, 21:15, Newsit.gr, Novasports Prime) και θέλει να επεκτείνει το νικηφόρο σερί του ...  \nTo άρθρο Ολυμπιακός – Μπαρτσελόνα: Την πέμπτη σερί νίκη στη Euroleague ψάχνουν οι Πειραιώτες δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/walkup-1-1200x800.jpg",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Κέρδισαν 35 εκατ. σε λοταρία αλλά δεν πήραν ούτε ευρώ: Το λάθος των 60 λεπτών",
+          "link": "https://www.gazzetta.gr/plus/2511182/kerdisan-35-ekat-se-lotaria-alla-den-piran-oyte-eyro-lathos-ton-60-lepton",
+          "pubDate": "Thu, 29 Jan 2026 11:35:26 +0200",
+          "description": "Οι αριθμοί βγήκαν, τα λεφτά δεν μπήκαν...",
+          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/laxeio_0.jpg?itok=o-xxmhdg",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ολυμπιακός - Μπαρτσελόνα: Ενός λεπτού σιγή στη μνήμη των αδικοχαμένων οπαδών του ΠΑΟΚ",
           "link": "https://www.gazzetta.gr/basketball/euroleague/2511181/olympiakos-mpartselona-enos-leptoy-sigi-sti-mnimi-ton-adikohamenon",
           "pubDate": "Thu, 29 Jan 2026 11:26:40 +0200",
@@ -953,38 +985,6 @@
           "description": "Ο Πεπ Γκουαρδιόλα εκδήλωσε την πρόθεσή του να ευχαριστήσει τον Μουρίνιο για την πρόκριση της Σίτι στους «16» του Champions League.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/pep_mourinho.jpg?itok=IE7WV-Hn",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Λιόν: Από τον εφιάλτη του υποβιβασμού, στους «16» του Europa League",
-          "link": "https://www.gazzetta.gr/football/europa-league/2510946/lion-apo-ton-efialti-toy-ypobibasmoy-stoys-16-toy-europa-league",
-          "pubDate": "Thu, 29 Jan 2026 10:00:00 +0200",
-          "description": "Το Gazzetta καταπιάνεται με την προσεχή αντίπαλο του ΠΑΟΚ, Λιόν, και τη διαδρομή της από την ποινή του υποβιβασμού, στους «16» του Europa League.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/lyon_2.jpg?itok=3LjlMhVI",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λιόν – ΠΑΟΚ: Νίκη αφιέρωση στους επτά οπαδούς που έχασαν τη ζωή τους θέλουν οι παίκτες του Δικεφάλου",
-          "link": "https://www.newsit.gr/athlitika/lion-paok-niki-afierosi-stous-epta-opadous-pou-exasan-ti-zoi-tous-theloun-oi-paiktes-tou-dikefalou/4586464/",
-          "pubDate": "Thu, 29 Jan 2026 07:59:35 +0000",
-          "description": "Ο ΠΑΟΚ φιλοξενείται από τη Λιόν για την τελευταία αγωνιστική του Europa League (29/01/26, 22:00, Cosmote Sport 4) με το μυαλό όλων να είναι στραμμένο ...  \nTo άρθρο Λιόν – ΠΑΟΚ: Νίκη αφιέρωση στους επτά οπαδούς που έχασαν τη ζωή τους θέλουν οι παίκτες του Δικεφάλου δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/paok-14-1200x798.jpg",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Χαμός σε πορτογαλικό κανάλι με το γκολ του τερματοφύλακα της Μπενφίκα: Τρόμαξε ο καλεσμένος!  (vid)",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511160/hamos-se-portogaliko-kanali-me-gkol-toy-termatofylaka-tis",
-          "pubDate": "Thu, 29 Jan 2026 09:54:18 +0200",
-          "description": "Εκπομπή στην Πορτογαλία διέκοψε τη ζωντανή ροή του προγράμματος της, για να πανηγυρίσουν οι συντελεστές το γκολ -πρόκριση της Μπενφίκα στο Champions League.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/benfica.jpg?itok=auwr9CbL",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τρέλα: Φίλαθλος έκανε βιντεοκλήση στον Μπαρτζώκα μέσα από τη «Γιόχαν Κρόιφ Αρένα» - Ποιος τον κάλεσε",
-          "link": "https://www.gazzetta.gr/football/champions-league/2511159/trela-filathlos-ekane-binteoklisi-ston-mpartzoka-mesa-apo-ti",
-          "pubDate": "Thu, 29 Jan 2026 09:40:13 +0200",
-          "description": "Δεν θα μπορούσε να λείψει ο προπονητής του μπασκετικού Ολυμπιακού από την επική νίκη στο Άμστερνταμ επί του Άγιαξ.",
-          "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/620458568_870545502456250_5872079380610031581_n_2.jpg?itok=lcgXJq4k",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -992,6 +992,22 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Παναθηναϊκός: Τι χρειάζεται για να τερματήσει στην οκτάδα του Europa League!",
+          "link": "https://trifilara.gr/panathinaikos-ti-xreiazetai-gia-na-termathsei-sthn-oktada-tou-europa-league/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-ti-xreiazetai-gia-na-termathsei-sthn-oktada-tou-europa-league",
+          "pubDate": "Thu, 29 Jan 2026 09:38:45 +0000",
+          "description": "Οι «πράσινοι» έχουν εξασφαλίσει τα Play Off, αλλά διατηρούν μαθηματικές ελπίδες για απευθείας πρόκριση στους «16».\nThe post Παναθηναϊκός: Τι χρειάζεται για να τερματήσει στην οκτάδα του Europa League! appeared first on Trifilara.gr.",
+          "thumbnail": null,
+          "source": "Trifilara"
+        },
+        {
+          "title": "Που θα δείτε το ματς με τη Ρόμα και τον προημιτελικό με τον Ερυθρό Αστέρα",
+          "link": "https://panathinaikos24.gr/2026/01/29/618196/pou-tha-deite-to-mats-me-ti-roma-kai-ton-proimiteliko-me-ton-erythro-astera/",
+          "pubDate": "Thu, 29 Jan 2026 09:36:02 +0000",
+          "description": "Οι τηλεοπτικές μεταδόσεις των αποψινών αναμετρήσεων του Παναθηναϊκού.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/3791885.jpg?fit=900%2C599&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "Παναθηναϊκός: Το δύσκολο σενάριο για να τερματήσει στην οκτάδα του Europa League!",
           "link": "https://olaprasina1908.gr/%cf%80%ce%bf%ce%b4%cf%8c%cf%83%cf%86%ce%b1%ce%b9%cf%81%ce%bf/panathinaikos-to-duskolo-senario-gia-na-termathsei-sthn-oktada-tou-europa-league/?utm_source=rss&utm_medium=rss&utm_campaign=panathinaikos-to-duskolo-senario-gia-na-termathsei-sthn-oktada-tou-europa-league",
@@ -1213,22 +1229,6 @@
           "link": "https://trifilara.gr/sygklonistiko-pano-ston-tafo-tou-indou-gia-tous-opadous-tou-paok-pou-echasan-ti-zoi-tous-pic/?utm_source=rss&utm_medium=rss&utm_campaign=sygklonistiko-pano-ston-tafo-tou-indou-gia-tous-opadous-tou-paok-pou-echasan-ti-zoi-tous-pic",
           "pubDate": "Wed, 28 Jan 2026 18:29:20 +0000",
           "description": "Με τον δικό τους ξεχωριστό τρόπο θέλησαν να τιμήσουν τη μνήμη των αδικοχαμένων οπαδών του ΠΑΟΚ οι «πράσινοι» οπαδοί στον «Τάφο του Ινδού». Συγκεκριμένα, κατά τη διάρκεια της αναμέτρησης για το μπάσκετ γυναικών μεταξύ Παναθηναϊκού και Ολυμπιακού, αναρτήθηκε ένα πανό που έγραφε… «ΚΑΛΟ ΤΑΞΙΔΙ ΑΕΤΟΙ – ΘΥΡΑ 13». Δείτε την εικόνα και το βίντεο:\nThe post Συγκλονιστικό πανό στον «Τάφο του Ινδού» για τους οπαδούς του ΠΑΟΚ που έχασαν τη ζωή τους! (pic) appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
-        },
-        {
-          "title": "Ερντέμ: «Αγαπάω την ομάδα και τον κόσμο μας – Ευχαριστώ τον κ. Βρανόπουλο, που είναι πάντα μαζί μας»",
-          "link": "https://panathinaikos24.gr/2026/01/28/618138/erntem-agapao-tin-omada-kai-ton-kosmo-mas-eyxaristo-ton-k-vranopoulo-pou-einai-panta-mazi-mas/",
-          "pubDate": "Wed, 28 Jan 2026 18:24:40 +0000",
-          "description": "Οι δηλώσεις της Σελέν Ερντέμ μετά τη μεγάλη νίκη του Παναθηναϊκού επί του Ολυμπιακού.",
-          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/6828377.jpg?fit=900%2C578&amp;ssl=1",
-          "source": "Panathinaikos24"
-        },
-        {
-          "title": "Μεγάλη νίκη ο Παναθηναϊκός, τελείωσε τον Ολυμπιακό στον «Τάφο»!",
-          "link": "https://trifilara.gr/megali-niki-o-panathinaikos-teleiose-ton-olybiako-ston-tafo/?utm_source=rss&utm_medium=rss&utm_campaign=megali-niki-o-panathinaikos-teleiose-ton-olybiako-ston-tafo",
-          "pubDate": "Wed, 28 Jan 2026 18:11:17 +0000",
-          "description": "Ο Παναθηναϊκός επιβεβαίωσε την αγωνιστική του ανωτερότητα στα ντέρμπι της φετινής σεζόν, επικρατώντας με 88-85 του Ολυμπιακού στο κλειστό «Παύλος Γιαννακόπουλος», στο πλαίσιο της 16ης αγωνιστικής της Α1 Μπάσκετ Γυναικών. \nThe post Μεγάλη νίκη ο Παναθηναϊκός, τελείωσε τον Ολυμπιακό στον «Τάφο»! appeared first on Trifilara.gr.",
           "thumbnail": null,
           "source": "Trifilara"
         }
