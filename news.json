@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T02:20:27.284Z",
+  "lastUpdated": "2026-01-29T02:25:27.488Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
+          "link": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 29 Jan 2026 02:17:22 GMT",
+          "description": "As Trump and the Minneapolis Mayor spar over social media on immigration law enforcement, the US continues to be roiled by the killing of nurse Alex Pretti.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788e/live/89d68970-fc7f-11f0-b9c1-0d3cbd49d190.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "At least five killed after Storm Kristin hits Portugal",
           "link": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Jan 2026 22:59:48 GMT",
@@ -731,14 +739,6 @@
           "description": "Satellite images show a steady and significant build-up of US military forces in the region.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/020f/live/81653710-fc51-11f0-9aca-0d1869acdee8.jpg",
           "source": "BBC News"
-        },
-        {
-          "title": "Μεγάλη πυρκαγιά στο ξενοδοχείο Grandes Alpes στο Κουρσεβέλ, εκατοντάδες απομακρύνθηκαν",
-          "link": "http://gr.euronews.com/video/2026/01/28/a-major-fire-broke-out-at-the-grandes-alpes-hotel-in-courchevel-prompting-the-evacuation-o",
-          "pubDate": "Wed, 28 Jan 2026 16:30:48 +0100",
-          "description": "Μεγάλη πυρκαγιά στο ξενοδοχείο Grandes Alpes στο Κουρσεβέλ οδήγησε στην εκκένωση σχεδόν 300 ατόμων. Άνω των 100 πυροσβέστες μάχονται τη φωτιά, τέσσερις τραυματίστηκαν ελαφρά.",
-          "thumbnail": null,
-          "source": "Euronews"
         }
       ]
     },
