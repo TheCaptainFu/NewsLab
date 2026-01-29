@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T05:45:26.679Z",
+  "lastUpdated": "2026-01-29T05:50:26.924Z",
   "totalArticles": 180,
   "totalFeeds": 24,
   "successfulFeeds": 15,
@@ -8,6 +8,14 @@
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
       "color": "red",
       "articles": [
+        {
+          "title": "Θεσσαλονίκη: Φωτιά σε μάντρα με μεταχειρισμένα οχήματα, φθορές σε δύο ΙΧ",
+          "link": "https://www.protothema.gr/greece/article/1765172/thessaloniki-fotia-se-madra-me-metaheirismena-ohimata-fthores-se-duo-ih/?utm_source=rss",
+          "pubDate": "Thu, 29 Jan 2026 07:46:00 +0200",
+          "description": "Η πυρκαγιά εκδηλώθηκε τις πρώτες πρωινές ώρες της Πέμπτης σε μάντρα οχημάτων που βρίσκεται πλησίον της ΔΟΥ Αμπελοκήπων",
+          "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/oximata-mantra-2.jpg",
+          "source": "Πρώτο Θέμα"
+        },
         {
           "title": "Τα κόμματα στα οποία ποντάρει η Ν.Δ. για την επιστολική ψήφο και τις τρεις έδρες στους απόδημους στις εκλογές του 2027",
           "link": "https://www.newsit.gr/politikh/ta-kommata-sta-opoia-pontarei-i-n-d-gia-tin-epistoliki-psifo-kai-tis-treis-edres-stous-apodimous-stis-ekloges-tou-2027/4586365/",
@@ -103,6 +111,14 @@
           "description": "Σε ποιές περιοχές θα είναι έντονα τα φαινόμενα - Τι αναφέρει το έκτακτο δελτίο της ΕΜΥ - Νέο κύμα κακοκαιρίας περιμένουμε το Σαββατοκύριακο",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-29/kakokairia_29.jpg",
           "source": "Πρώτο Θέμα"
+        },
+        {
+          "title": "Αρκάς: Η καλημέρα της Πέμπτης",
+          "link": "https://www.in.gr/2026/01/29/go-fun/social/arkas-kalimera-tis-pemptis-26/",
+          "pubDate": "Thu, 29 Jan 2026 07:49:53 +0300",
+          "description": "Ο Αρκάς στέλνει και σήμερα την καλημέρα του με το δικό του ύφος.",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/aas.jpg",
+          "source": "In.gr"
         },
         {
           "title": "Καιρός: Σε πορτοκαλί συναγερμό για την επιδείνωση με καταιγίδες με ισχυρούς ανέμους – Βροχές το μεσημέρι στην Αττική",
@@ -230,22 +246,6 @@
           "pubDate": "Thu, 29 Jan 2026 06:00:59 +0300",
           "description": "Άναρχη δόμηση, λανθασμένες επιλογές, μία πόλη πέρα από τα όρια της και στο βάθος έλλειψη πόρων και πολιτικά εμπόδια, συνθέτουν ένα δυσεπίλυτο γρίφο για την Αττική.",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/DSC1575-1200x821-1-1200x821-768x525.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Τα περίπτερα αφηγούνται την ιστορία της Αθήνας",
-          "link": "https://www.in.gr/2026/01/29/greece/ta-periptera-afigountai-tin-istoria-tis-athinas/",
-          "pubDate": "Thu, 29 Jan 2026 06:00:53 +0300",
-          "description": "Από τα πρώτα πολυγωνικά περίπτερα που εμφανίζονται το 1877, στον Κουτάλα στη λεωφόρο Βουλιαγμένης και το μικρό «Μινιόν» - Μια νοσταλγική περιήγηση με οδηγό την τέχνη",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/Periptero-tanea28-1-768x576.jpg",
-          "source": "In.gr"
-        },
-        {
-          "title": "Αυξήθηκαν οι τιμές και στα παλαιά ακίνητα στα οποία στρέφονται τώρα οι αγοραστές",
-          "link": "https://www.in.gr/2026/01/29/economy/oikonomikes-eidiseis/ayksithikan-oi-times-kai-sta-palaia-akinita-sta-opoia-strefontai-tora-oi-agorastes/",
-          "pubDate": "Thu, 29 Jan 2026 06:00:53 +0300",
-          "description": "Σχεδόν επτά στα δέκα οικιστικά ακίνητα που πουλήθηκαν το 2024 ήταν ηλικίας άνω των 20 ετών - Η ψαλίδα τιμής ανάμεσα στην αγορά παλιάς και νέας κατοικίας σε κάποιες περιπτώσεις κλείνει στο 30%",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/alsos-philadelfeias-768x432.jpg",
           "source": "In.gr"
         }
       ]
@@ -501,6 +501,14 @@
       "color": "blue",
       "articles": [
         {
+          "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
+          "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 29 Jan 2026 05:47:03 GMT",
+          "description": "Tehran says its armed forces are ready \"with their fingers on the trigger\" to respond to any aggression.",
+          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg",
+          "source": "BBC News"
+        },
+        {
           "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
           "link": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 29 Jan 2026 02:17:22 GMT",
@@ -570,14 +578,6 @@
           "pubDate": "Wed, 28 Jan 2026 21:05:52 GMT",
           "description": "The US Secretary of State remained robustly on message when asked about the legality of Maduro's removal, plans for oil sales, and the future of Venezuela.",
           "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ce/live/31bafeb0-fc7f-11f0-b9c1-0d3cbd49d190.jpg",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-          "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Jan 2026 18:58:42 GMT",
-          "description": "Tehran says its armed forces are ready \"with their fingers on the trigger\" to respond to any aggression.",
-          "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg",
           "source": "BBC News"
         },
         {
