@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-31T14:15:32.849Z",
+  "lastUpdated": "2026-01-31T14:20:25.685Z",
   "totalArticles": 180,
   "totalFeeds": 24,
-  "successfulFeeds": 14,
+  "successfulFeeds": 15,
   "categories": {
     "breaking": {
       "title": "ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ",
@@ -10,8 +10,8 @@
       "articles": [
         {
           "title": "Ίμια: «Έχει κόκκινη σημαία και ανθρώπους σίγουρα» - Η τελευταία συνομιλία των ηρώων του ελικοπτέρου πριν τη συντριβή",
-          "link": "https://www.protothema.gr/greece/article/1766406/imia/?utm_source=rss",
-          "pubDate": "Sat, 31 Jan 2026 16:15:18 +0200",
+          "link": "https://www.protothema.gr/greece/article/1766406/imia-ehei-kokkini-simaia-kai-anthropous-sigoura-i-teleutaia-sunomilia-ton-iroon-tou-elikopterou-prin-ti-sudrivi/?utm_source=rss",
+          "pubDate": "Sat, 31 Jan 2026 16:15:00 +0200",
           "description": "Ηχητικό ντοκουμέντο καταγράφει τα τελευταία λόγια του πληρώματος που μόλις έχει εντοπίσει τους Τούρκους κομάντο στην ανατολική Ίμια - Το πλήρωμα ενημερώνει τη φρεγάτα Ναυαρίνον και μετά... σιωπή",
           "thumbnail": "https://i1.prth.gr/images/w640/jpg/files/2026-01-31/imia-elikoptero-mak-1.jpg",
           "source": "Πρώτο Θέμα"
@@ -137,6 +137,14 @@
           "source": "NewsIT"
         },
         {
+          "title": "ΝΔ: Ανακοίνωσε τα μέλη της οργανωτικής επιτροπής για το συνέδριο – Πρόεδρος ο Θοδωρής Ρουσόπουλος",
+          "link": "https://www.in.gr/2026/01/31/politics/epikairotita/nd-anakoinose-ta-meli-tis-organotikis-epitropis-gia-synedrio-proedros-o-thodoris-rousopoulos/",
+          "pubDate": "Sat, 31 Jan 2026 16:19:56 +0300",
+          "description": "Το συνέδριο της ΝΔ θα διεξαχθεί από τις 15 έως τις 17 Μαΐου",
+          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/neadimokratia-1200x800-2-1200x800-768x512-1-768x512.jpg",
+          "source": "In.gr"
+        },
+        {
           "title": "Τρένο η Εθνική, σάρωσε την Ιταλία κι έφυγε για… ημιτελικό!",
           "link": "https://www.in.gr/2026/01/31/sports/othersports/treno-ethniki-sarose-tin-italia-ki-efyge-gia-imiteliko/",
           "pubDate": "Sat, 31 Jan 2026 16:11:54 +0300",
@@ -239,14 +247,6 @@
           "description": "Πού οφείλεται το γεγονός ότι πολλοί εργαζόμενοι δεν είδαν να αυξάνονται οι μισθοί τους όσο περίμεναν",
           "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/χρηματα23-768x431.jpg",
           "source": "In.gr"
-        },
-        {
-          "title": "Η συνύπαρξη του Μπενίτεθ με τον Σισοκό στη Νιούκαστλ (vid)",
-          "link": "https://www.in.gr/2026/01/31/sports/football/otan-o-mpeniteth-ekane-ton-sisoko-arxigo-tis-nioukastl-vid/",
-          "pubDate": "Sat, 31 Jan 2026 15:41:19 +0300",
-          "description": "Ο Ράφα Μπενίτεθ κατέληξε στον Μούσα Σισοκό για τον άξονα του Παναθηναϊκού, με τον Ισπανό τεχνικό να έχει συνυπάρξει μαζί του και στη Νιούκαστλ.",
-          "thumbnail": "https://www.in.gr/wp-content/uploads/2026/01/58658585856-768x474.jpg",
-          "source": "In.gr"
         }
       ]
     },
@@ -263,12 +263,36 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Φάμελλος: Η κυβέρνηση επιτίθεται εκδικητικά στον κλάδο των ταξί για να εξυπηρετήσει ιδιωτικά συμφέροντα",
+          "link": "https://www.tanea.gr/2026/01/31/politics/famellos-i-kyvernisi-epitithetai-ekdikitika-ston-klado-ton-taksi-gia-na-eksypiretisei-idio/",
+          "pubDate": "Sat, 31 Jan 2026 13:23:54 +0000",
+          "description": "Ο Σωκράτης Φάμελλος κατήγγειλε ότι η κυβέρνηση πλήττει τον κλάδο των ταξί για να εξυπηρετήσει ιδιωτικά συμφέροντα. Κάλεσε σε διάλογο και εξέφρασε τη στήριξη του ΣΥΡΙΖΑ-ΠΣ στους επαγγελματίες και τις κινητοποιήσεις τους.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/Famellos-1.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Το… face control και η νέα εστία τριβών στο ΠΑΣΟΚ",
+          "link": "https://www.tanea.gr/print/2026/01/31/politics/mikropolitikos/to-face-control-kai-i-nea-estia-trivon-sto-pasok/",
+          "pubDate": "Sat, 31 Jan 2026 12:15:00 +0000",
+          "description": "Σε τροχιά αναδιάταξης δυνάμεων κινείται η Χαριλάου Τρικούπη, ενόψει Συνεδρίου, κινούμενη στη δύσκολη ισορροπία μεταξύ της αυτόνομης πορείας και μιας «αμφίπλευρης διεύρυνσης». Την ίδια ώρα, ωστόσο, ξεδιπλώνεται ένα παρασκήνιο με πρωταγωνιστές κορυφαία στελέχη, διαφορετικές στρατηγικές προσεγγίσεις και διαφωνίες για το πώς πρέπει να χτιστεί η «μεγάλη παράταξη». Η στρατηγική της ηγεσίας είναι σαφής: «Αυτονομία και […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/pasok-1024x683-1.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "16ο Συνέδριο Νέας Δημοκρατίας: Ορίστηκαν τα μέλη της Οργανωτικής Επιτροπής",
           "link": "https://www.naftemporiki.gr/politics/2066462/16o-synedrio-neas-dimokratias-oristikan-ta-meli-tis-organotikis-epitropis/?utm_source=rss&utm_medium=rss&utm_campaign=16o-synedrio-neas-dimokratias-oristikan-ta-meli-tis-organotikis-epitropis",
           "pubDate": "Sat, 31 Jan 2026 11:42:44 +0000",
           "description": "Τα μέλη της Οργανωτικής Επιτροπής για το 16ο Τακτικό Συνέδριο της Νέας Δημοκρατίας ανακοίνωσε σήμερα το κυβερνών κόμμα.\n16ο Συνέδριο Νέας Δημοκρατίας: Ορίστηκαν τα μέλη της Οργανωτικής Επιτροπής - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Ίμια 30 χρόνια μετά: Η νύχτα που σημάδεψε τις ελληνοτουρκικές σχέσεις και οι τρεις ήρωες που χάθηκαν",
+          "link": "https://www.tanea.gr/2026/01/31/politics/imia-30-xronia-meta-i-nyxta-pou-simadepse-tis-ellinotourkikes-sxeseis-kai-oi-treis-iroes-pou-xathikan/",
+          "pubDate": "Sat, 31 Jan 2026 11:18:48 +0000",
+          "description": "Τριάντα χρόνια συμπληρώνονται από τα ξημερώματα της 31ης Ιανουαρίου του 1996, όταν η κρίση των Ιμίων έφτασε στην πιο δραματική της κορύφωση. Οι αξιωματικοί του Πολεμικού Ναυτικού Χριστόδουλος Καραθανάσης, Παναγιώτης Βλαχάκος και Έκτορας Γιαλοψός έχασαν τη ζωή τους, όταν το ελικόπτερο στο οποίο επέβαιναν συνετρίβη στη θαλάσσια περιοχή. Η επέτειος επαναφέρει μνήμες από τα γεγονότα […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/imiamesa-1024x575-1.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "Η Δικαιοσύνη εν όψει των αλλαγών στο Σύνταγμα",
@@ -293,6 +317,14 @@
           "description": "Η Ελλάδα τιμά τους νεκρούς της αναφέρει με σημερινή ανάρτηση στο Χ ο υπουργός Εθνικής Άμυνας Νίκος Δένδιας, με αφορμή τη συμπλήρωση 30 ετών από την κρίση των Ιμίων.\nΔένδιας για τα Ίμια: Η Ελλάς τιμά τους νεκρούς της - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "«Στο Αιγαίο δεν υπάρχουν γκρίζες ζώνες, αλλά γαλάζια νερά» – Η ανάρτηση Μητσοτάκη για τα 30 χρόνια από τα Ίμια",
+          "link": "https://www.tanea.gr/2026/01/31/politics/sto-aigaio-den-yparxoyn-gkrizes-zones-alla-galazia-nera-i-anartisi-mitsotaki-gia-ta-30-xro/",
+          "pubDate": "Sat, 31 Jan 2026 08:07:49 +0000",
+          "description": "Μήνυμα με αφορμή τα 30 χρόνια από το επεισόδιο στα Ίμια όπου τρεις Έλληνες έχασαν τη ζωή τους, έστειλε ο Κυριάκος Μητσοτάκης.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/mitsotakis-imia-1024x683.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "Κ. Μητσοτάκης: Στο Αιγαίο δεν υπάρχουν «γκρίζες ζώνες» παρά μόνο γαλάζια νερά",
@@ -343,6 +375,14 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Τηλεφωνική επικοινωνία Γεραπετρίτη – Ρούμπιο: Τι συζήτησαν",
+          "link": "https://www.tanea.gr/2026/01/30/politics/tilefoniki-epikoinonia-gerapetriti-roumpio-ti-syzitisan/",
+          "pubDate": "Fri, 30 Jan 2026 16:38:58 +0000",
+          "description": "Ο Υπουργός Εξωτερικών, Γιώργος Γεραπετρίτης, είχε τηλεφωνική επικοινωνία την Παρασκευή (30/01) με τον Υπουργό Εξωτερικών των ΗΠΑ, Μάρκο Ρούμπιο. Σύμφωνα με ανάρτηση του ΥΠΕΞ στο Χ, η συζήτηση επικεντρώθηκε στην εξαιρετική κατάσταση των σχέσεων Ελλάδας και ΗΠΑ, καθώς και στις προετοιμασίες για τον 6ο γύρο του Στρατηγικού Διαλόγου στην Αθήνα. FM George Gerapetritis had a […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2026/01/Gerapetritis-1024x683-1.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Έπεσαν οι υπογραφές για τη Hellenic Ammunition: Θα παράγει πυρομαχικά μεγάλου διαμετρήματος στην Ελλάδα",
           "link": "https://www.naftemporiki.gr/politics/2066282/epesan-oi-ypografes-gia-ti-hellenic-ammunition-tha-paragei-pyromachika-megaloy-diametrimatos-stin-ellada/?utm_source=rss&utm_medium=rss&utm_campaign=epesan-oi-ypografes-gia-ti-hellenic-ammunition-tha-paragei-pyromachika-megaloy-diametrimatos-stin-ellada",
           "pubDate": "Fri, 30 Jan 2026 16:36:01 +0000",
@@ -367,12 +407,28 @@
           "source": "Ναυτεμπορική"
         },
         {
+          "title": "Συνάντηση Μητσοτάκη με τον Κροάτη ομόλογό του: Τι συζήτησαν",
+          "link": "https://www.tanea.gr/2026/01/30/politics/synantisi-mitsotaki-me-ton-kroati-omologo-toy-ti-syzitisan/",
+          "pubDate": "Fri, 30 Jan 2026 15:53:07 +0000",
+          "description": "Συζήτησαν για διμερή και ευρωπαϊκά θέματα, δίνοντας έμφαση στην ανταγωνιστικότητα της ΕΕ.",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/10/mITSOTAKIS-3-1024x683.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "ΠΑΣΟΚ: Ανακοινώθηκαν οι Συντονιστές των Νομαρχιακών Οργανωτικών Επιτροπών Συνεδρίου",
           "link": "https://www.naftemporiki.gr/politics/2066255/pasok-anakoinothikan-oi-syntonistes-ton-nomarchiakon-organotikon-epitropon-synedrioy/?utm_source=rss&utm_medium=rss&utm_campaign=pasok-anakoinothikan-oi-syntonistes-ton-nomarchiakon-organotikon-epitropon-synedrioy",
           "pubDate": "Fri, 30 Jan 2026 15:45:02 +0000",
           "description": "Το ΠΑΣΟΚ -Κίνημα Αλλαγής, εισερχόμενο στην τελική ευθεία διοργάνωσης του Συνεδρίου, ανακοίνωσε τους Συντονιστές (και τους Αναπληρωτές Συντονιστές) των Νομαρχιακών Οργανωτικών Επιτροπών Συνεδρίου (ΝΟΕΣ) για τη συντονισμένη και αποκεντρωμένη λειτουργία…\nΠΑΣΟΚ: Ανακοινώθηκαν οι Συντονιστές των Νομαρχιακών Οργανωτικών Επιτροπών Συνεδρίου - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
+        },
+        {
+          "title": "Δίκη υποκλοπών: Κλείνει η αποδεικτική διαδικασία, ανοίγει ο δρόμος για την απόφαση",
+          "link": "https://www.tanea.gr/print/2026/01/30/politics/pos-stin-akroamatiki-diadikasia-gia-to-predator-anoiksan-nea-zitimata/",
+          "pubDate": "Fri, 30 Jan 2026 15:45:00 +0000",
+          "description": "Η δίκη των τηλεφωνικών υποκλοπών που επανέφερε, όχι μόνο σε δικαστικό, αλλά και σε πολιτικό επίπεδο τη σοβαρή αυτή υπόθεση που αφορά τη λειτουργία των θεσμών και της ίδιας της Δημοκρατίας, ύστερα από τέσσερις μήνες μπαίνει στην τελική της ευθεία. Ηδη μετρά αντίστροφα ο χρόνος για την ημέρα της αγόρευσης του εισαγγελέα της Εδρας, Δημήτρη […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/07/dikastirio-1024x683.jpg",
+          "source": "Τα Νέα"
         },
         {
           "title": "Σ. Φάμελλος: Απαιτούνται σημαντικές αλλαγές στη νομοθεσία υγείας και ασφάλειας της εργασίας",
@@ -415,82 +471,26 @@
           "source": "Το Βήμα"
         },
         {
+          "title": "Οι δύο όψεις του Φλεβάρη για το Μαξίμου: Αντεπιθέσεις και τέλματα από τη συνταγματική αναθεώρηση μέχρι την επέτειο των Τεμπών",
+          "link": "https://www.tanea.gr/print/2026/01/30/politics/oi-dyo-opseis-tou-flevari-gia-to-maksimou/",
+          "pubDate": "Fri, 30 Jan 2026 15:00:00 +0000",
+          "description": "Οι 3+3 παράμετροι που αναμένεται να διαμορφώσουν το κλίμα",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/12/maximou.jpg",
+          "source": "Τα Νέα"
+        },
+        {
+          "title": "Επιστολική ψήφος: Στο τραπέζι τα όρια της συναίνεσης και οι κόκκινες γραμμές",
+          "link": "https://www.tanea.gr/print/2026/01/30/politics/kleista-xartia-alla-thetiki-diathesi-gia-tin-epistoliki-psifo-omogenon/",
+          "pubDate": "Fri, 30 Jan 2026 14:56:00 +0000",
+          "description": "Νέο ραντεβού δίνουν τα κόμματα την επόμενη Πέμπτη στο πλαίσιο της διακομματικής σύσκεψης για την επιστολική ψήφο των Ελλήνων του εξωτερικού, επιδιώκοντας είτε να αναδείξουν τα περιθώρια συναίνεσης είτε τις γραμμές ρήξης για ένα ζήτημα με έντονο πολιτικό αποτύπωμα. Αλλωστε, η συμμετοχή των αποδήμων στις εκλογές εξακολουθεί να προκαλεί αντιπαραθέσεις, με το βάρος να πέφτει […]",
+          "thumbnail": "https://www.tanea.gr/wp-content/uploads/2025/12/ekloges.jpg",
+          "source": "Τα Νέα"
+        },
+        {
           "title": "Γεωργιάδης κατά Κωνσταντοπούλου μετά τη μήνυση: «Πλέον θα απαντώ μόνο στην αρχηγό σας, τη Μαρία Καρυστιανού»",
           "link": "https://www.naftemporiki.gr/politics/2066204/georgiadis-kata-konstantopoyloy-meta-ti-minysi-pleon-tha-apanto-mono-stin-archigo-sas-ti-maria-karystianoy/?utm_source=rss&utm_medium=rss&utm_campaign=georgiadis-kata-konstantopoyloy-meta-ti-minysi-pleon-tha-apanto-mono-stin-archigo-sas-ti-maria-karystianoy",
           "pubDate": "Fri, 30 Jan 2026 14:49:14 +0000",
           "description": "Μήνυση εις βάρος του Άδωνι Γεωργιάδη υπέβαλε η Ζωή Κωνσταντοπούλου, σύμφωνα με όσα ο ίδιος ο υπουργός Υγείας γνωστοποίησε.\nΓεωργιάδης κατά Κωνσταντοπούλου μετά τη μήνυση: «Πλέον θα απαντώ μόνο στην αρχηγό σας, τη Μαρία Καρυστιανού» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Γαλλία: «Πιθανή η ανανέωση της αμυντικής συνεργασίας με την Ελλάδα»",
-          "link": "https://www.naftemporiki.gr/politics/2066181/gallia-pithani-i-ananeosi-tis-amyntikis-synergasias-me-tin-ellada/?utm_source=rss&utm_medium=rss&utm_campaign=gallia-pithani-i-ananeosi-tis-amyntikis-synergasias-me-tin-ellada",
-          "pubDate": "Fri, 30 Jan 2026 14:15:19 +0000",
-          "description": "Tο υψηλό επίπεδο σχέσεων Ελλάδας-Γαλλίας στον τομέα της άμυνας, τονίζεταιστα γαλλικά μέσα ενημέρωσης που είχαν εκτενή κάλυψη για την χθεσινή  επίσκεψης της υπουργού ‘Αμυνας της Γαλλίας Κατρίν Βοντρίν στην Αθήνα,…\nΓαλλία: «Πιθανή η ανανέωση της αμυντικής συνεργασίας με την Ελλάδα» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "ΣΥΡΙΖΑ για Καστέλι: «Φιέστα» Μητσοτάκη, ενώ εκκρεμεί απόφαση του ΣτΕ για την προστασία της Παπούρα",
-          "link": "https://www.naftemporiki.gr/politics/2066170/syriza-gia-kasteli-fiesta-mitsotaki-eno-ekkremei-apofasi-toy-ste-gia-tin-prostasia-tis-papoyra/?utm_source=rss&utm_medium=rss&utm_campaign=syriza-gia-kasteli-fiesta-mitsotaki-eno-ekkremei-apofasi-toy-ste-gia-tin-prostasia-tis-papoyra",
-          "pubDate": "Fri, 30 Jan 2026 13:58:08 +0000",
-          "description": "Για «φιέστα» του πρωθυπουργού στο υπό κατασκευή αεροδρόμιο στο Καστέλι την ώρα που εκκρεμεί απόφαση του ΣτΕ για την προστασία της Παπούρα, κάνει λόγο ο ΣΥΡΙΖΑ.\nΣΥΡΙΖΑ για Καστέλι: «Φιέστα» Μητσοτάκη, ενώ εκκρεμεί απόφαση του ΣτΕ για την προστασία της Παπούρα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Συνάντηση Τασούλα με τον Λουκά Παπαδήμο στο Προεδρικό Μέγαρο",
-          "link": "https://www.naftemporiki.gr/politics/2066169/synantisi-tasoyla-me-ton-loyka-papadimo-sto-proedriko-megaro/?utm_source=rss&utm_medium=rss&utm_campaign=synantisi-tasoyla-me-ton-loyka-papadimo-sto-proedriko-megaro",
-          "pubDate": "Fri, 30 Jan 2026 13:49:57 +0000",
-          "description": "Mε τον πρώην πρωθυπουργό Λουκά Παπαδήμο, συναντήθηκε σήμερα ο Πρόεδρος της Δημοκρατίας Κωνσταντίνος Τασούλας στο Προεδρικό Μέγαρο.\nΣυνάντηση Τασούλα με τον Λουκά Παπαδήμο στο Προεδρικό Μέγαρο - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Γ. Παπανδρέου & Δημ. Μάντζος: «Σοβαρές προκλήσεις απειλούν να οδηγήσουν ξανά τη χώρα σε οικονομική και κοινωνική κρίση»",
-          "link": "https://www.tovima.gr/2026/01/30/politics/g-papandreou-dim-mantzos-sovares-prokliseis-apeiloun-na-odigisoun-ksana-ti-xora-se-oikonomiki-kai-koinoniki-krisi/",
-          "pubDate": "Fri, 30 Jan 2026 16:36:04 +0300",
-          "description": "Στο Στρασβούργο, σήμερα, Γιώργος Παπανδρέου και Δημήτρης Μάντζος, Μέλη της Κοινοβουλευτικής Συνέλευσης του Συμβουλίου της Ευρώπης, κατέθεσαν στις εισηγήτριες της αρμόδιας Επιτροπής Παρακολούθησης αναλυτικό υπόμνημα για την κατάσταση της Δημοκρατίας και του Κράτους Δικαίου στην Ελλάδα.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/05/giorgospapandreou-1024x695.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Ναρκωτικά εκατομμυρίων σε Πάτρα, Αθήνα – Το μήνυμα Κικίλια μετά τον εντοπισμό τους, η υπόσχεση",
-          "link": "https://www.tovima.gr/2026/01/30/politics/narkotika-ekatommyrion-se-patra-athina-to-minyma-kikilia-meta-ton-entopismo-tous-i-yposxesi/",
-          "pubDate": "Fri, 30 Jan 2026 15:21:27 +0300",
-          "description": "Ο υπουργός τονίζει ότι οι επιχειρήσεις θα συνεχιστούν με αμείωτη ένταση, με στόχο την αντιμετώπιση της μάστιγας των ναρκωτικών και του οργανωμένου εγκλήματος και την ενίσχυση της ασφάλειας των Ελλήνων πολιτών.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/30/Clipboard-2026-01-30T151537.207-1024x716.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Σε λειτουργία το 2028 το αεροδρόμιο στο Καστέλι – Η υπογραφή-κλειδί, τι είπε ο Μητσοτάκης",
-          "link": "https://www.tovima.gr/2026/01/30/politics/se-leitourgia-to-2028-to-aerodromio-sto-kasteli-i-ypografi-kleidi-ti-eipe-o-mitsotakis/",
-          "pubDate": "Fri, 30 Jan 2026 14:49:41 +0300",
-          "description": "Το 2028 θα τεθεί σε λειτουργία το νέο διεθνές αεροδρόμιο του Καστελίου στην Κρήτη, όπως ανέφερε ο πρωθυπουργός Κυριάκος Μητσοτάκης, κατά την επίσκεψή του στο εργοτάξιο του υπό κατασκευή αερολιμένος.",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2026/01/30/1X5A5416-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Σε λειτουργία το 2028 το νέο διεθνές αεροδρόμιο στο Καστέλι – Κ. Μητσοτάκης: Η Κρήτη αλλάζει",
-          "link": "https://www.naftemporiki.gr/politics/2066027/se-leitoyrgia-to-2028-to-neo-diethnes-aerodromio-sto-kasteli-k-mitsotakis-i-kriti-allazei/?utm_source=rss&utm_medium=rss&utm_campaign=se-leitoyrgia-to-2028-to-neo-diethnes-aerodromio-sto-kasteli-k-mitsotakis-i-kriti-allazei",
-          "pubDate": "Fri, 30 Jan 2026 10:57:26 +0000",
-          "description": "Το 2028 θα τεθεί σε λειτουργία το νέο διεθνές αεροδρόμιο του Καστελίου στην Κρήτη, όπως ανέφερε ο πρωθυπουργός Κυριάκος Μητσοτάκης, κατά την επίσκεψή του στο εργοτάξιο του υπό κατασκευή αερολιμένος.…\nΣε λειτουργία το 2028 το νέο διεθνές αεροδρόμιο στο Καστέλι – Κ. Μητσοτάκης: Η Κρήτη αλλάζει - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-          "thumbnail": null,
-          "source": "Ναυτεμπορική"
-        },
-        {
-          "title": "Μιχαηλίδου: Νόμιμη η τροπολογία για την επιμέλεια, δεν θα έκανα άμεσα χρήση",
-          "link": "https://www.tovima.gr/2026/01/30/politics/mixailidou-nomimi-i-tropologia-gia-tin-epimeleia-den-tha-ekana-amesa-xrisi/",
-          "pubDate": "Fri, 30 Jan 2026 13:50:12 +0300",
-          "description": "Τοποθέτηση της υπουργού Δόμνας Μιχαηλίδου για την επίμαχη τροπολογία και παρουσίαση των νέων παρεμβάσεων για στέγη και οικογένεια",
-          "thumbnail": "https://www.tovima.gr/wp-content/uploads/2024/03/22/domna-mixailidoy-scaled-1024x683.jpg",
-          "source": "Το Βήμα"
-        },
-        {
-          "title": "Ν. Δένδιας για Navtex Τουρκίας: H Ελλάδα δεν μπορεί να πάρει στα σοβαρά μία τέτοια προσέγγιση",
-          "link": "https://www.naftemporiki.gr/politics/2066023/n-dendias-gia-navtex-toyrkias-h-ellada-den-mporei-na-parei-sta-sovara-mia-tetoia-proseggisi/?utm_source=rss&utm_medium=rss&utm_campaign=n-dendias-gia-navtex-toyrkias-h-ellada-den-mporei-na-parei-sta-sovara-mia-tetoia-proseggisi",
-          "pubDate": "Fri, 30 Jan 2026 10:38:14 +0000",
-          "description": "«Σε επίπεδο δικαίου οι διαρκείς Navtex δεν νομίζω ότι έχουν καμία έννοια», υπογράμμισε ο υπουργός Εθνικής Άμυνας Νίκος Δένδιας, επισημαίνοντας πως «είναι προφανές ότι η Ελλάδα δεν μπορεί να πάρει…\nΝ. Δένδιας για Navtex Τουρκίας: H Ελλάδα δεν μπορεί να πάρει στα σοβαρά μία τέτοια προσέγγιση - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
           "thumbnail": null,
           "source": "Ναυτεμπορική"
         }
@@ -755,6 +755,14 @@
           "source": "Gazzetta"
         },
         {
+          "title": "Ελλάδα – Ιταλία 15-10: Σαρωτική πρόκριση για την Εθνική πόλο γυναικών στα ημιτελικά του ευρωπαϊκού πρωταθλήματος",
+          "link": "https://www.newsit.gr/athlitika/ellada-italia-15-10-sarotiki-prokrisi-gia-tin-ethniki-polo-gynaikon-sta-imitelika-tou-eyropaikou-protathlimatos/4588598/",
+          "pubDate": "Sat, 31 Jan 2026 14:10:52 +0000",
+          "description": "Η παγκόσμια πρωταθλήτρια, Ελλάδα, επιβεβαίωσε τον τίτλο του φαβορί κόντρα. Η φοβερή ομάδα της Εθνικής πόλο γυναικών σάρωσε την Ιταλία με 15-10 και εξασφάλισε την ...  \nTo άρθρο Ελλάδα – Ιταλία 15-10: Σαρωτική πρόκριση για την Εθνική πόλο γυναικών στα ημιτελικά του ευρωπαϊκού πρωταθλήματος δημοσιεύτηκε στο NewsIT .",
+          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/07/xenaki-1-1200x762.jpg",
+          "source": "NewsIT"
+        },
+        {
           "title": "Υπόθεση Επστάιν: Αυτά είναι τα γνωστά πρόσωπα που αναφέρονται στα νέα έγγραφα",
           "link": "https://www.gazzetta.gr/plus/2511876/ypothesi-epstain-ayta-einai-ta-gnosta-prosopa-poy-anaferontai-sta-nea-eggrafa",
           "pubDate": "Sat, 31 Jan 2026 16:00:03 +0200",
@@ -891,10 +899,10 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Ελλάδα – Ιταλία live η μάχη της εθνικής πόλο γυναικών για πρόκριση στα ημιτελικά του ευρωπαϊκού πρωταθλήματος",
-          "link": "https://www.newsit.gr/athlitika/ellada-italia-live-i-maxi-tis-ethnikis-polo-gynaikon-gia-prokrisi-sta-imitelika-tou-eyropaikou-protathlimatos/4588580/",
+          "title": "Ελλάδα – Ιταλία 15-10 τελικό: Η Εθνική πόλο γυναικών στα ημιτελικά του ευρωπαϊκού πρωταθλήματος",
+          "link": "https://www.newsit.gr/athlitika/ellada-italia-15-10-teliko-i-ethniki-polo-gynaikon-sta-imitelika-tou-eyropaikou-protathlimatos/4588580/",
           "pubDate": "Sat, 31 Jan 2026 12:49:06 +0000",
-          "description": "Παρακολουθήστε live την αναμέτρηση της Εθνικής πόλο των γυναικών με την Ιταλία για το ευρωπαϊκό πρωτάθλημα.\nTo άρθρο Ελλάδα – Ιταλία live η μάχη της εθνικής πόλο γυναικών για πρόκριση στα ημιτελικά του ευρωπαϊκού πρωταθλήματος δημοσιεύτηκε στο NewsIT .",
+          "description": "Παρακολουθήσατε live την αναμέτρηση της Εθνικής πόλο των γυναικών με την Ιταλία για το ευρωπαϊκό πρωτάθλημα.\nTo άρθρο Ελλάδα – Ιταλία 15-10 τελικό: Η Εθνική πόλο γυναικών στα ημιτελικά του ευρωπαϊκού πρωταθλήματος δημοσιεύτηκε στο NewsIT .",
           "thumbnail": "https://www.newsit.gr/wp-content/uploads/2026/01/polo-ginaikwn-1200x800.jpg",
           "source": "NewsIT"
         },
@@ -977,14 +985,6 @@
           "description": "Οι πρόσφατες χιονοπτώσεις βελτίωσαν τις συνθήκες στις πίστες, ωστόσο η κίνηση των οχημάτων γίνεται μόνο με αντιολισθητικές αλυσίδες.",
           "thumbnail": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-01/1_11.jpg?itok=2frQzYfG",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Χωρίς Ελ Κααμπί αλλά με Αντρέ Λουίς κόντρα στην ΑΕΚ",
-          "link": "https://www.newsit.gr/athlitika/olympiakos-xoris-el-kaampi-alla-me-antre-louis-kontra-stin-aek/4588565/",
-          "pubDate": "Sat, 31 Jan 2026 12:17:35 +0000",
-          "description": "Δίχως τον κορυφαίο παίκτη του θα παραταχθεί ο Ολυμπιακός στο ντέρμπι κορυφής με την ΑΕΚ (01/02, 21:00) στη Νέα Φιλαδέλφεια για την 19η αγωνιστική της ...  \nTo άρθρο Ολυμπιακός: Χωρίς Ελ Κααμπί αλλά με Αντρέ Λουίς κόντρα στην ΑΕΚ δημοσιεύτηκε στο NewsIT .",
-          "thumbnail": "https://www.newsit.gr/wp-content/uploads/2025/12/el-kaampi-eurokinissi-2-1200x798.jpg",
-          "source": "NewsIT"
         }
       ]
     },
@@ -992,6 +992,14 @@
       "title": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
       "color": "lime",
       "articles": [
+        {
+          "title": "Σερέλης στο p24: “Πολύ σημαντική νίκη, είχαμε εξτρά πίεση, βγήκε μπροστά ο αρχηγός”",
+          "link": "https://panathinaikos24.gr/2026/01/31/618645/serelis-sto-p24-poly-simantiki-niki-eixame-ekstra-piesi-vgike-mprosta-o-arxigos/",
+          "pubDate": "Sat, 31 Jan 2026 14:18:43 +0000",
+          "description": "Ο συνεργάτης του Εργκίν Αταμάν, Χρήστος Σερέλης, μίλησε αποκλειστικά στο panathinaikos24.gr για τη νίκη του Παναθηναϊκού επί της Βιλερμπάν, την απαραίτητη βελτίωση, τον Κώστα Σλούκα και τη συνέχεια.",
+          "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2025/04/Serelis-KENTRIKI.jpg?fit=902%2C600&amp;ssl=1",
+          "source": "Panathinaikos24"
+        },
         {
           "title": "«Ντου» κουκουλοφόρων οπαδών του Ολυμπιακού σε ματς της ΑΕΚ – Δείτε εικόνες!",
           "link": "https://panathinaikos24.gr/2026/01/31/618639/ntou-koukouloforon-opadon-tou-olympiakou-se-mats-tis-aek-deite-eikones/",
@@ -1223,14 +1231,6 @@
           "description": "Στο Μετς συνεχίζει απόψε τις αγωνιστικές του υποχρεώσεις για τη VolleyLeague ο Παναθηναϊκός, υποδεχόμενος την Κηφισιά για την 13η αγωνιστική (21:00, Live Streaming).",
           "thumbnail": "https://i0.wp.com/panathinaikos24.gr/wp-content/uploads/2026/01/IMG_3909.jpeg?fit=750%2C422&amp;ssl=1",
           "source": "Panathinaikos24"
-        },
-        {
-          "title": "Δισταγμός Καμαρά και ανησυχία στον Παναθηναϊκό!",
-          "link": "https://trifilara.gr/distagmos-kamara-kai-anhsuxia-ston-panathinaiko/?utm_source=rss&utm_medium=rss&utm_campaign=distagmos-kamara-kai-anhsuxia-ston-panathinaiko",
-          "pubDate": "Sat, 31 Jan 2026 08:13:38 +0000",
-          "description": "Παρά τη συμφωνία με τη Σαρλερουά και την αποδοχή της οικονομικής πρότασης, ο παίκτης εμφανίζεται διστακτικός τις τελευταίες ώρες.\nThe post Δισταγμός Καμαρά και ανησυχία στον Παναθηναϊκό! appeared first on Trifilara.gr.",
-          "thumbnail": null,
-          "source": "Trifilara"
         }
       ]
     },

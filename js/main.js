@@ -219,11 +219,11 @@ function renderNews(categories) {
             // First article = HERO
             if (index === 0) {
                 html += `
-                    <div class="mb-8 max-h-[400px] bg-[#1a1a1a] rounded-xl border border-zinc-800 ${styles.borderHover} transition-all duration-300 hover:shadow-2xl ${styles.shadow} overflow-hidden">
+                    <div class="mb-8 md:max-h-[400px] bg-[#1a1a1a] rounded-xl border border-zinc-800 ${styles.borderHover} transition-all duration-300 hover:shadow-2xl ${styles.shadow} overflow-hidden">
                         <a href="${art.link}" target="_blank" class="block group h-full">
                             <div class="grid md:grid-cols-2 gap-0 h-full min-h-0">
                                 ${thumbnail ? `
-                                    <div class="relative overflow-hidden bg-zinc-900 order-1 max-h-[400px] self-stretch h-full">
+                                    <div class="relative overflow-hidden bg-zinc-900 order-1 md:max-h-[400px] max-h-[200px] self-stretch h-full">
                                         <img 
                                             src="${thumbnail}" 
                                             alt="${art.title}"
