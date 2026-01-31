@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Επικοινωνία | CaptainNews.gr</title>
+
+    <!-- Cookie Consent (orestbida v2.9.2) – CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v2.9.2/dist/cookieconsent.css">
+    <style>.c_darkmode { --cc-bg: #1a1a1a; --cc-text: #e5e5e5; --cc-btn-primary-bg: #80b059; --cc-btn-primary-text: #0a0a0a; --cc-btn-primary-hover-bg: #6b9a4a; --cc-btn-secondary-bg: #27272a; --cc-btn-secondary-text: #e5e5e5; --cc-btn-secondary-hover-bg: #3f3f46; --cc-font-family: 'Roboto', -apple-system, sans-serif; }</style>
+
+    <!-- Google Analytics – only after "Αποδοχή όλων" -->
+    <script type="text/plain" data-cookiecategory="analytics" async src="https://www.googletagmanager.com/gtag/js?id=G-GQHCNKSVSC"></script>
+    <script type="text/plain" data-cookiecategory="analytics">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-GQHCNKSVSC');
+    </script>
+    
+    <meta name="description" content="Επικοινωνήστε με το CaptainNews.gr">
+    <meta name="theme-color" content="#121212">
+    <link rel="manifest" href="manifest.json?v=2">
+    <link rel="icon" type="image/png" href="icons/favicon.png">
+    <link rel="apple-touch-icon" href="icons/favicon.png">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="src/output.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
+    
+    <style>
+        h1, h2, h3, h4, h5, h6, .heading-font { font-family: 'Roboto Condensed', sans-serif; }
+        body, p, span, div, .body-font { font-family: 'Roboto', sans-serif; }
+    </style>
+</head>
+<body class="bg-[#0a0a0a] text-white min-h-screen">
+
+    <header class="sticky top-0 z-50 bg-[#121212]/95 backdrop-blur-lg border-b border-zinc-800 shadow-2xl">
+        <div class="max-w-[1200px] mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="index.html" class="flex items-center cursor-pointer group">
+                <img 
+                    src="icons/logo.png" 
+                    alt="CaptainNews.gr" 
+                    class="h-12 md:h-14 w-auto group-hover:scale-105 transition-transform"
+                    onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+                />
+                <div class="hidden items-center gap-3">
+                    <div class="bg-gradient-to-br from-blue-600 to-cyan-600 p-2.5 rounded-xl shadow-lg">
+                        <i class="fa-solid fa-newspaper text-xl"></i>
+                    </div>
+                    <h1 class="text-2xl md:text-3xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
+                        CaptainNews.gr
+                    </h1>
+                </div>
+            </a>
+            <div class="relative ml-auto">
+                <button id="burgerBtn" type="button" class="p-3 rounded-lg text-zinc-400 hover:text-white hover:bg-zinc-800 transition-colors" aria-label="Μενού">
+                    <i class="fa-solid fa-bars text-xl"></i>
+                </button>
+                <div id="burgerMenu" class="hidden absolute right-0 top-full mt-2 w-48 py-2 bg-[#1a1a1a] border border-zinc-800 rounded-xl shadow-2xl z-50">
+                    <a href="index.html" class="flex items-center gap-3 px-4 py-3 text-zinc-300 hover:bg-zinc-800 hover:text-white transition-colors">
+                        <i class="fa-solid fa-home w-5 text-center"></i>
+                        <span>Αρχική</span>
+                    </a>
+                    <a href="contact.html" class="flex items-center gap-3 px-4 py-3 text-zinc-300 hover:bg-zinc-800 hover:text-white transition-colors">
+                        <i class="fa-solid fa-envelope w-5 text-center"></i>
+                        <span>Επικοινωνία</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <script>
+        (function() {
+            var btn = document.getElementById('burgerBtn');
+            var menu = document.getElementById('burgerMenu');
+            if (btn && menu) {
+                btn.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    menu.classList.toggle('hidden');
+                });
+                document.addEventListener('click', function() {
+                    menu.classList.add('hidden');
+                });
+                menu.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                });
+            }
+        })();
+    </script>
+
+    <main class="max-w-[1200px] mx-auto p-6 md:p-8 min-h-[calc(100vh-278px)]">
+        <div class="pb-12 md:pb-20">
+            <h1 class="text-3xl font-bold text-[#80b059] border-b border-zinc-800 pb-3 mb-6 flex items-center gap-2">ΕΠΙΚΟΙΝΩΝΙΑ</h1>
+            <p class="text-zinc-400 mb-12">Επικοινωνήστε μαζί μας για ερωτήσεις, προτάσεις ή συνεργασία.</p>
+
+            <div class="grid md:grid-cols-3 gap-8">
+                <a href="mailto:g.gsmks@gmail.com" class="block p-6 bg-[#1a1a1a] rounded-xl border border-zinc-800 hover:border-blue-500/50 transition-colors group">
+                    <div class="w-14 h-14 rounded-xl bg-zinc-800 flex items-center justify-center mb-4 group-hover:bg-blue-600/20 transition-colors">
+                        <i class="fa-solid fa-envelope text-2xl text-blue-400"></i>
+                    </div>
+                    <h2 class="text-xl font-bold text-zinc-100 mb-2">Email</h2>
+                    <p class="text-zinc-400 text-sm mb-2">Στείλτε μας email για οποιαδήποτε ερώτηση.</p>
+                    <span class="text-blue-400 font-medium">g.gsmks@gmail.com</span>
+                </a>
+
+                <a href="https://www.linkedin.com/in/george-giasemakis-7101b0209/" target="_blank" rel="noopener noreferrer" class="p-6 bg-[#1a1a1a] rounded-xl border border-zinc-800 hover:border-[#80b059] transition-colors group">
+                    <div class="w-14 h-14 rounded-xl bg-zinc-800 flex items-center justify-center mb-4 group-hover:bg-[#80b059]/10 transition-colors">
+                        <svg class="w-8 h-8 text-[#80b059]" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                            <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                        </svg>
+                    </div>
+                    <h2 class="text-xl font-bold text-zinc-100 mb-2">LinkedIn</h2>
+                    <p class="text-zinc-400 text-sm leading-relaxed mb-2">Επικοινωνήστε μαζί μας στο LinkedIn.</p>
+                    <span class="text-[#80b059] font-medium">linkedin.com/in/george-giasemakis</span>
+                </a>
+
+                <a href="https://github.com/TheCaptainFu" target="_blank" rel="noopener noreferrer" class="p-6 bg-[#1a1a1a] rounded-xl border border-zinc-800 hover:border-pink-400 transition-colors group">
+                    <div class="w-14 h-14 rounded-xl bg-zinc-800 flex items-center justify-center mb-4 group-hover:bg-pink-400/10 transition-colors">
+                        <svg class="w-8 h-8 text-pink-400" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                            <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd"/>
+                        </svg>
+                    </div>
+                    <h2 class="text-xl font-bold text-zinc-100 mb-2">GitHub</h2>
+                    <p class="text-zinc-400 text-sm leading-relaxed mb-2">Βρείτε μας στο GitHub.</p>
+                    <span class="text-pink-400 font-medium">github.com/TheCaptainFu</span>
+                </a>
+            </div>
+
+            <div class="mt-12 p-6 bg-[#1a1a1a]/50 rounded-xl border border-zinc-800 ">
+                <p class="text-zinc-500 text-sm">
+                    <i class="fa-solid fa-clock mr-2 mb-2"></i>
+                    Σχετικά με το CaptainNews.gr
+                    <p class="text-zinc-400 text-sm leading-relaxed">
+                        Συγκεντρώνουμε ειδήσεις από τις κορυφαίες ελληνικές και διεθνείς πηγές σε πραγματικό χρόνο. 
+                        Ενημερωθείτε για πολιτικά, αθλητισμό, τεχνολογία και πολλά άλλα.
+                    </p>
+                </p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="border-t border-zinc-900 mt-12 py-6">
+        <div class="max-w-[1200px] mx-auto px-6 text-center text-zinc-600 text-sm">
+            <p class="font-semibold text-zinc-500 mb-2">⚓ CaptainNews.gr</p>
+            <p><a href="policy.html" class="text-zinc-400 hover:text-white">Πολιτική Απορρήτου</a> · <a href="contact.html" class="text-zinc-400 hover:text-white">Επικοινωνία</a></p>
+            <p class="mt-2">📰 Πηγές: Newsit, Πρώτο Θέμα, In.gr, Ethnos, Τα Νέα, Ναυτεμπορική, Το Βήμα, Euronews, DW, BBC, Reuters, Gazzetta, Sport24, SDNA, Όλα Πράσινα, Trifilara, Panathinaikos24, Insomnia, Techgear, Digitallife, PC Magazine</p>
+            <p class="mt-2 text-xs text-zinc-700">Ενημέρωση σε πραγματικό χρόνο μέσω RSS Feeds</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v2.9.2/dist/cookieconsent.js"></script>
+    <script src="js/cookieconsent-init.js"></script>
+
+</body>
+</html>

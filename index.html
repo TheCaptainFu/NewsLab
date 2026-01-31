@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CaptainNews.gr | Ελληνικά & Διεθνή Νέα</title>
+
+    <!-- Cookie Consent (orestbida v2.9.2) – CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v2.9.2/dist/cookieconsent.css">
+    <style>
+      /* Cookie banner: dark NewsLab style */
+      .c_darkmode { --cc-bg: #1a1a1a; --cc-text: #e5e5e5; --cc-btn-primary-bg: #80b059; --cc-btn-primary-text: #0a0a0a; --cc-btn-primary-hover-bg: #6b9a4a; --cc-btn-secondary-bg: #27272a; --cc-btn-secondary-text: #e5e5e5; --cc-btn-secondary-hover-bg: #3f3f46; --cc-font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif; }
+    </style>
+
+    <!-- Google Analytics – loaded only after "Αποδοχή όλων" (data-cookiecategory) -->
+    <script type="text/plain" data-cookiecategory="analytics" async src="https://www.googletagmanager.com/gtag/js?id=G-GQHCNKSVSC"></script>
+    <script type="text/plain" data-cookiecategory="analytics">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-GQHCNKSVSC');
+    </script>
+    
+    <!-- PWA Meta Tags -->
+    <meta name="description" content="CaptainNews.gr - Ελληνικά & Διεθνή Νέα - Πολιτικά, Αθλητισμός, Παναθηναϊκός, Οικονομία, Τεχνολογία">
+    <meta name="theme-color" content="#121212">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="CaptainNews.gr">
+    <link rel="manifest" href="manifest.json?v=2">
+    <link rel="icon" type="image/png" href="icons/favicon.png">
+    <link rel="apple-touch-icon" href="icons/favicon.png">
+    <link rel="shortcut icon" href="icons/favicon.png">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="src/output.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <!-- Google Fonts: Roboto & Roboto Condensed -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Apply Roboto Condensed to headings */
+        h1, h2, h3, h4, h5, h6, .heading-font {
+            font-family: 'Roboto Condensed', sans-serif;
+        }
+        
+        /* Apply Roboto to paragraphs and body text */
+        body, p, span, div, .body-font {
+            font-family: 'Roboto', sans-serif;
+        }
+    </style>
+</head>
+<body class="c_darkmode bg-[#0a0a0a] text-white min-h-screen">
+
+    <header class="sticky top-0 z-50 bg-[#121212]/95 backdrop-blur-lg border-b border-zinc-800 shadow-2xl">
+        <div class="max-w-[1200px] mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="#top" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="flex items-center cursor-pointer group">
+                <img 
+                    src="icons/logo.png" 
+                    alt="CaptainNews.gr" 
+                    class="h-12 md:h-14 w-auto group-hover:scale-105 transition-transform"
+                    onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+                />
+                <div class="hidden items-center gap-3">
+                    <div class="bg-gradient-to-br from-blue-600 to-cyan-600 p-2.5 rounded-xl shadow-lg group-hover:scale-110 transition-transform">
+                        <i class="fa-solid fa-newspaper text-xl"></i>
+                    </div>
+                    <h1 class="text-2xl md:text-3xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent group-hover:from-cyan-400 group-hover:to-blue-400 transition-all">
+                        CaptainNews.gr
+                    </h1>
+                </div>
+            </a>
+            <div class="relative ml-auto">
+                <button id="burgerBtn" type="button" class="p-3 rounded-lg text-zinc-400 hover:text-white hover:bg-zinc-800 transition-colors" aria-label="Μενού">
+                    <i class="fa-solid fa-bars text-xl"></i>
+                </button>
+                <div id="burgerMenu" class="hidden absolute right-0 top-full mt-2 w-48 py-2 bg-[#1a1a1a] border border-zinc-800 rounded-xl shadow-2xl z-50">
+                    <a href="index.html" class="flex items-center gap-3 px-4 py-3 text-zinc-300 hover:bg-zinc-800 hover:text-white transition-colors">
+                        <i class="fa-solid fa-home w-5 text-center"></i>
+                        <span>Αρχική</span>
+                    </a>
+                    <a href="contact.html" class="flex items-center gap-3 px-4 py-3 text-zinc-300 hover:bg-zinc-800 hover:text-white transition-colors">
+                        <i class="fa-solid fa-envelope w-5 text-center"></i>
+                        <span>Επικοινωνία</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <script>
+        (function() {
+            var btn = document.getElementById('burgerBtn');
+            var menu = document.getElementById('burgerMenu');
+            if (btn && menu) {
+                btn.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    menu.classList.toggle('hidden');
+                });
+                document.addEventListener('click', function() {
+                    menu.classList.add('hidden');
+                });
+                menu.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                });
+            }
+        })();
+    </script>
+
+    <!-- Category Filter Dropdown -->
+    <div class="sticky md:top-[88px] top-[80px] z-40 bg-[#0a0a0a]/95 backdrop-blur-lg border-b border-zinc-800 shadow-lg">
+        <div class="max-w-[1200px] mx-auto px-6 md:px-8 py-3">
+            <div class="flex items-center gap-3 flex-wrap">
+                <i class="fa-solid fa-filter text-zinc-400"></i>
+                <label for="categorySelect" class="text-zinc-400 text-sm font-semibold">Προβολή:</label>
+                <select 
+                    id="categorySelect" 
+                    onchange="filterByCategory(this.value)"
+                    class="bg-zinc-800 text-white border border-zinc-700 rounded-lg px-4 py-2 text-sm font-semibold cursor-pointer hover:bg-zinc-700 transition-colors focus:outline-none focus:border-blue-500"
+                >
+                    <option value="all">Όλες οι Κατηγορίες</option>
+                    <!-- Options will be generated dynamically -->
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <main class="max-w-[1200px] mx-auto p-6 md:p-8">
+        <div id="loading" class="hidden text-center py-20">
+            <div class="inline-block animate-spin text-5xl text-blue-500 mb-4">
+                <i class="fa-solid fa-circle-notch"></i>
+            </div>
+            <p class="text-zinc-400 text-lg font-semibold">Φόρτωση τελευταίων ειδήσεων...</p>
+            <p class="text-zinc-500 text-sm mt-2">Συλλογή από 24 πηγές RSS • Παρακαλώ περιμένετε...</p>
+        </div>
+
+        <div id="newsContainer">
+            <div id="welcomeScreen" class="flex flex-col items-center justify-center min-h-[70vh] text-center py-12 text-zinc-400">
+                <div class="inline-block p-8 bg-zinc-900/50 rounded-full mb-6 border border-zinc-800">
+                    <i class="fa-solid fa-newspaper text-6xl opacity-40"></i>
+                </div>
+                <h2 class="text-3xl font-bold mb-4 text-zinc-200">Καλώς ήρθατε στο CaptainNews.gr</h2>
+                <p class="text-lg mb-8 text-zinc-400">Πατήστε το κουμπί παρακάτω για να δείτε τα τελευταία νέα</p>
+                
+                <button 
+                    onclick="getNews()" 
+                    class="bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-500 hover:to-cyan-500 text-white px-12 py-5 rounded-xl font-bold text-xl transition-all transform hover:scale-110 active:scale-95 flex items-center gap-3 shadow-2xl shadow-blue-500/30 border-2 border-blue-400/50 hover:border-cyan-400/70 animate-pulse hover:animate-none"
+                >
+                    <i class="fa-solid fa-sync-alt text-2xl"></i> 
+                    Φόρτωση Ειδήσεων
+                </button>
+                
+                <div class="max-w-2xl mx-auto mt-12 grid grid-cols-1 md:grid-cols-2 gap-3 text-sm">
+                    <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
+                        <span class="text-red-400">🚨</span> ΕΚΤΑΚΤΗ ΕΠΙΚΑΙΡΟΤΗΤΑ & ΕΛΛΑΔΑ
+                    </div>
+                    <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
+                        <span class="text-purple-400">🏛️</span> ΠΟΛΙΤΙΚΑ (ΕΛΛΑΔΑ)
+                    </div>
+                    <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
+                        <span class="text-blue-400">🌍</span> ΠΟΛΙΤΙΚΑ (ΠΑΓΚΟΣΜΙΩΣ)
+                    </div>
+                    <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
+                        <span class="text-green-400">⚽</span> ΑΘΛΗΤΙΣΜΟΣ & SUPER LEAGUE
+                    </div>
+                    <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
+                        <span class="text-lime-400">☘️</span> ΠΑΝΑΘΗΝΑΪΚΟΣ
+                    </div>
+                    <div class="bg-[#1a1a1a] p-3 rounded-lg border border-zinc-800">
+                        <span class="text-pink-400">💻</span> ΤΕΧΝΟΛΟΓΙΑ & SCIENCE
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="border-t border-zinc-900 mt-12 py-6">
+        <div class="max-w-[1200px] mx-auto px-6 text-center text-zinc-600 text-sm">
+            <p class="font-semibold text-zinc-500 mb-2">⚓ CaptainNews.gr</p>
+            <p><a href="policy.html" class="text-zinc-400 hover:text-white">Πολιτική Απορρήτου</a> · <a href="contact.html" class="text-zinc-400 hover:text-white">Επικοινωνία</a></p>
+            <p class="mt-2">📰 Πηγές: Newsit, Πρώτο Θέμα, In.gr, Ethnos, Τα Νέα, Ναυτεμπορική, Το Βήμα, Euronews, DW, BBC, Reuters, Gazzetta, Sport24, SDNA, Όλα Πράσινα, Trifilara, Panathinaikos24, Insomnia, Techgear, Digitallife, PC Magazine</p>
+            <p class="mt-2 text-xs text-zinc-700">Ενημέρωση σε πραγματικό χρόνο μέσω RSS Feeds</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <!-- Cookie Consent (orestbida v2.9.2) – JS + init -->
+    <script src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v2.9.2/dist/cookieconsent.js"></script>
+    <script src="js/cookieconsent-init.js"></script>
+
+</body>
+</html>
