@@ -216,18 +216,18 @@ function renderNews(categories) {
             };
             const badgeColor = badgeColors[category.color] || 'bg-blue-600';
 
-            // First article = HERO
+            // First article = HERO (responsive: fixed image height, flexible text, line-clamp so nothing overflows)
             if (index === 0) {
                 html += `
-                    <div class="mb-8 md:max-h-[400px] bg-[#1a1a1a] rounded-xl border border-zinc-800 ${styles.borderHover} transition-all duration-300 hover:shadow-2xl ${styles.shadow} overflow-hidden">
-                        <a href="${art.link}" target="_blank" class="block group h-full">
-                            <div class="grid md:grid-cols-2 gap-0 h-full min-h-0">
+                    <div class="mb-8 bg-[#1a1a1a] rounded-xl border border-zinc-800 ${styles.borderHover} transition-all duration-300 hover:shadow-2xl ${styles.shadow} overflow-hidden">
+                        <a href="${art.link}" target="_blank" class="block group">
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-0 md:min-h-[280px]">
                                 ${thumbnail ? `
-                                    <div class="relative overflow-hidden bg-zinc-900 order-1 md:max-h-[400px] max-h-[200px] self-stretch h-full">
+                                    <div class="relative w-full h-[200px] md:h-auto md:min-h-[280px] overflow-hidden bg-zinc-900 order-1">
                                         <img 
                                             src="${thumbnail}" 
                                             alt="${art.title}"
-                                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                                            class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500"
                                             loading="eager"
                                             onerror="this.parentElement.innerHTML='<div class=\\'w-full h-full flex items-center justify-center bg-gradient-to-br from-zinc-800 to-zinc-900\\'><span class=\\'text-8xl opacity-30\\'>${placeholderIcon}</span></div>'"
                                         />
@@ -236,34 +236,34 @@ function renderNews(categories) {
                                         </div>
                                     </div>
                                 ` : `
-                                    <div class="relative overflow-hidden bg-gradient-to-br from-zinc-800 to-zinc-900 flex items-center justify-center order-1">
+                                    <div class="relative w-full h-[200px] md:min-h-[280px] overflow-hidden bg-gradient-to-br from-zinc-800 to-zinc-900 flex items-center justify-center order-1">
                                         <span class="text-8xl opacity-30 group-hover:scale-110 transition-transform">${placeholderIcon}</span>
                                         <div class="absolute top-4 left-4 ${badgeColor} text-white px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wide shadow-lg">
                                             Πρόσφατο
                                         </div>
                                     </div>
                                 `}
-                                <div class="p-6 md:p-8 flex flex-col min-h-[300px] order-2 max-w-xl">
-                                    <h3 class="text-xl md:text-2xl lg:text-3xl font-bold text-zinc-100 ${styles.titleHover} transition-colors mb-3 md:mb-4 leading-tight">
-                                        ${art.title}
-                                    </h3>
-                                    ${longDescription ? `<p class="text-zinc-400 text-sm md:text-base leading-relaxed mb-4 md:mb-6 line-clamp-4">${longDescription}</p>` : ''}
-                                    <div class="mt-auto">
-                                        ${art.source ? `<p class="text-white text-xs md:text-sm mb-3 md:mb-4">Πηγή: ${art.source}</p>` : ''}
-                                        <div class="flex flex-wrap items-center gap-3 pt-4 border-t border-zinc-800">
-                                            <div class="flex items-center gap-2 md:gap-3">
-                                                <span class="text-white text-xs md:text-sm font-medium flex items-center gap-2">
-                                                    <i class="fa-solid fa-clock"></i> ${relativeTime}
-                                                </span>
-                                                <button 
-                                                    onclick="handleShareClick(event, '${art.link.replace(/'/g, "\\'")}')"
-                                                    class="text-zinc-400 hover:text-white transition-colors p-1.5 md:p-2 hover:bg-zinc-800 rounded-lg"
-                                                    title="Αντιγραφή link"
-                                                >
-                                                    <i class="fa-solid fa-share-nodes text-xs md:text-sm"></i>
-                                                </button>
-                                            </div>
-                                            <span class="${styles.readMore} text-xs md:text-sm font-semibold opacity-100 flex items-center gap-2">
+                                <div class="p-5 md:p-6 lg:p-8 flex flex-col justify-between order-2 min-h-0">
+                                    <div class="flex-1 min-h-0">
+                                        <h3 class="text-lg md:text-xl lg:text-2xl font-bold text-zinc-100 ${styles.titleHover} transition-colors mb-2 md:mb-3 leading-snug line-clamp-2 md:line-clamp-3">
+                                            ${art.title}
+                                        </h3>
+                                        ${longDescription ? `<p class="text-zinc-400 text-sm md:text-base leading-relaxed line-clamp-3 md:line-clamp-4">${longDescription}</p>` : ''}
+                                    </div>
+                                    <div class="mt-4 pt-4 border-t border-zinc-800 shrink-0">
+                                        ${art.source ? `<p class="text-white text-xs md:text-sm mb-2">Πηγή: ${art.source}</p>` : ''}
+                                        <div class="flex flex-wrap items-center gap-3">
+                                            <span class="text-white text-xs md:text-sm font-medium flex items-center gap-2">
+                                                <i class="fa-solid fa-clock"></i> ${relativeTime}
+                                            </span>
+                                            <button 
+                                                onclick="handleShareClick(event, '${art.link.replace(/'/g, "\\'")}')"
+                                                class="text-zinc-400 hover:text-white transition-colors p-1.5 md:p-2 hover:bg-zinc-800 rounded-lg"
+                                                title="Αντιγραφή link"
+                                            >
+                                                <i class="fa-solid fa-share-nodes text-xs md:text-sm"></i>
+                                            </button>
+                                            <span class="${styles.readMore} text-xs md:text-sm font-semibold opacity-100 flex items-center gap-2 ml-auto">
                                                 Διαβάστε περισσότερα <i class="fa-solid fa-arrow-right"></i>
                                             </span>
                                         </div>
