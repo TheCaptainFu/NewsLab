@@ -1,10 +1,8 @@
 {
   "name": "captainnews-aggregator",
   "version": "1.0.0",
-  "description": "RSS News Aggregator with GitHub Actions automation",
-  "main": "update-news.js",
+  "description": "CaptainNews.gr – RSS news aggregator on Cloudflare Workers",
   "scripts": {
-    "start": "node update-news.js",
     "test": "echo \"No tests specified\"",
     "deploy:cloudflare": "wrangler deploy",
     "cf:dev": "wrangler dev"
@@ -13,13 +11,10 @@
     "rss",
     "news",
     "aggregator",
-    "github-actions"
+    "cloudflare-workers"
   ],
   "author": "CaptainFu",
   "license": "MIT",
-  "dependencies": {
-    "rss-parser": "^3.13.0"
-  },
   "engines": {
     "node": ">=18.0.0"
   },
