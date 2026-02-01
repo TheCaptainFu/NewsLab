@@ -5,7 +5,9 @@
   "main": "update-news.js",
   "scripts": {
     "start": "node update-news.js",
-    "test": "echo \"No tests specified\""
+    "test": "echo \"No tests specified\"",
+    "deploy:cloudflare": "wrangler deploy",
+    "cf:dev": "wrangler dev"
   },
   "keywords": [
     "rss",
@@ -20,5 +22,8 @@
   },
   "engines": {
     "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.61.1"
   }
 }

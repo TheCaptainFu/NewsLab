@@ -1,0 +1,18 @@
+name = "captainnews"
+main = "worker.js"
+compatibility_date = "2024-12-01"
+
+# Static site: HTML, JS, CSS, icons, manifest (served from ./public)
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = true
+
+# KV for cached news.json (updated by scheduled Worker)
+kv_namespaces = [
+  { binding = "NEWS_KV", id = "78272d24670344ed87b488a0d9b7fd85" }
+]
+
+# Cron: refresh news every 5 minutes
+[triggers]
+crons = ["*/5 * * * *"]
