@@ -218,39 +218,74 @@ async function buildNewsData() {
 
 const KV_KEY_NEWS = 'news';
 
+const jsonHeaders = {
+  'Content-Type': 'application/json',
+  'Cache-Control': 'public, max-age=300',
+  'Access-Control-Allow-Origin': '*'
+};
+
 export default {
   async fetch(request, env, ctx) {
-    const url = new URL(request.url);
+    try {
+      const url = new URL(request.url);
+      const pathname = url.pathname.replace(/\/$/, '') || '/';
 
-    // Root: serve index.html
-    if (url.pathname === '/' || url.pathname === '') {
-      return env.ASSETS.fetch(new Request(url.origin + '/index.html'));
-    }
-
-    // Serve news.json from KV (or build on first run)
-    if (url.pathname === '/news.json' || url.pathname === '/news.json/') {
-      let json = await env.NEWS_KV.get(KV_KEY_NEWS);
-      if (!json) {
-        const data = await buildNewsData();
-        json = JSON.stringify(data);
-        await env.NEWS_KV.put(KV_KEY_NEWS, json, { expirationTtl: 60 * 60 * 24 * 7 });
-      }
-      return new Response(json, {
-        headers: {
-          'Content-Type': 'application/json',
-          'Cache-Control': 'public, max-age=300'
+      // Root: serve index.html
+      if (pathname === '' || pathname === '/') {
+        if (!env.ASSETS) {
+          return new Response('ASSETS binding missing. Check wrangler.toml [assets].', { status: 500 });
         }
-      });
-    }
+        const indexRequest = new Request(new URL('/index.html', request.url));
+        return env.ASSETS.fetch(indexRequest);
+      }
 
-    // Static assets
-    return env.ASSETS.fetch(request);
+      // Serve news.json from KV (or build on first run)
+      if (pathname === '/news.json') {
+        let json = null;
+        if (env.NEWS_KV) {
+          json = await env.NEWS_KV.get(KV_KEY_NEWS);
+        }
+        if (!json) {
+          try {
+            const data = await buildNewsData();
+            json = JSON.stringify(data);
+            if (env.NEWS_KV) {
+              await env.NEWS_KV.put(KV_KEY_NEWS, json, { expirationTtl: 60 * 60 * 24 * 7 });
+            }
+          } catch (err) {
+            return new Response(
+              JSON.stringify({
+                error: 'buildNewsData failed',
+                message: err.message,
+                stack: err.stack
+              }),
+              { status: 503, headers: { ...jsonHeaders, 'Content-Type': 'application/json' } }
+            );
+          }
+        }
+        return new Response(json, { headers: jsonHeaders });
+      }
+
+      // Static assets
+      if (!env.ASSETS) {
+        return new Response('ASSETS binding missing.', { status: 500 });
+      }
+      return env.ASSETS.fetch(request);
+    } catch (err) {
+      return new Response(
+        `Worker error: ${err.message}\n${err.stack || ''}`,
+        { status: 500, headers: { 'Content-Type': 'text/plain' } }
+      );
+    }
   },
 
   async scheduled(event, env, ctx) {
     try {
       const data = await buildNewsData();
-      await env.NEWS_KV.put(KV_KEY_NEWS, JSON.stringify(data), { expirationTtl: 60 * 60 * 24 * 7 });
+      const json = JSON.stringify(data);
+      if (env.NEWS_KV) {
+        await env.NEWS_KV.put(KV_KEY_NEWS, json, { expirationTtl: 60 * 60 * 24 * 7 });
+      }
     } catch (err) {
       console.error('Scheduled news update failed:', err);
     }

@@ -80,3 +80,17 @@ The site’s `main.js` fetches `news.json` with an optional base path (`window.N
 - Free tier: 100,000 requests/day, KV reads/writes included
 - Cron: 1 execution per 15 minutes
 - Adjust `RSS_FEEDS` and parsing in `worker.js` if you add/change feeds
+
+## Troubleshooting
+
+**Site returns 500 or "Worker error"**
+- Open your Worker in Cloudflare Dashboard → Workers & Pages → your worker → Logs (Real-time). Reproduce the request and check the error message.
+- If you see **"ASSETS binding missing"**: Wrangler may not have uploaded assets. Use a recent Wrangler: `npm i -g wrangler` and run `wrangler deploy` again. Ensure `public/` exists and contains `index.html`, `js/`, `icons/`, etc.
+- If you see **"NEWS_KV is undefined"** or KV errors: Create the KV namespace with `wrangler kv namespace create NEWS_KV` and put the returned **id** in `wrangler.toml` under `kv_namespaces[0].id`, then redeploy.
+
+**Page loads but news don’t appear**
+- Open DevTools → Network. Check the request to `news.json`. If it returns 503, the body will include an error (e.g. `buildNewsData failed`). First load builds news and can take 10–20 seconds; if it times out, wait for the cron to run (every 5 min) then refresh.
+- In Dashboard → KV → your namespace, check if key `news` exists. If not, trigger the cron once (Workers & Pages → your worker → Triggers → Cron → Run) or visit `/news.json` and wait.
+
+**Wrangler version**
+- Use Wrangler 3.x for `[assets]` support. Check with `wrangler --version`. Upgrade: `npm i -g wrangler`.
